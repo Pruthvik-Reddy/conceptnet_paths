@@ -41,7 +41,7 @@ for filename in os.listdir(literal_path):
                         else:
                             relation_count[word] = 1
             relation_count["metaphor"]=0
-            file_name=file_name.replace(".txt","")
+            file_name=filename.replace(".txt","")
             segments=file_name.split("_")
             word1 = segments[1].split("-")[0]
             word2 = segments[1].split("-")[1]
