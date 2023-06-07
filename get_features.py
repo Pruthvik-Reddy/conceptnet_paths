@@ -41,7 +41,8 @@ for filename in os.listdir(literal_path):
                         else:
                             relation_count[word] = 1
             new_row = {col: [relation_count.get(col, 0)] for col in df.columns}
-            df.append(new_row, ignore_index=True)
+            df.loc[len(df)]=new_row
+            
 print(df)
 
 for filename in os.listdir(metaphor_path):
