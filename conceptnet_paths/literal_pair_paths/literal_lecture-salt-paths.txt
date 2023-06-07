@@ -1,0 +1,100 @@
+lecture ['relatedto'] hall ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] sharp ['relatedto', 'similarto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto'] salt
+lecture ['hasproperty'] dull ['relatedto'] drab ['relatedto'] salt
+lecture ['hasproperty'] dull ['relatedto'] clear ['relatedto'] salt
+lecture ['relatedto'] hall ['relatedto'] use ['relatedto'] salt
+lecture ['relatedto'] hall ['relatedto'] mine ['atlocation'] salt
+lecture ['relatedto'] class ['relatedto'] acid ['relatedto'] salt
+lecture ['relatedto'] class ['relatedto'] common ['relatedto'] salt
+lecture ['relatedto'] class ['relatedto'] cyanocarbon_acid ['relatedto'] salt
+lecture ['relatedto'] class ['relatedto'] ferrite ['relatedto'] salt
+lecture ['relatedto'] class ['relatedto'] polyphosphate ['isa'] salt
+lecture ['relatedto', 'partof', 'atlocation'] course ['relatedto'] dinner ['relatedto'] salt
+lecture ['relatedto', 'partof', 'atlocation'] course ['antonym', 'distinctfrom'] fine ['relatedto'] salt
+lecture ['relatedto', 'partof', 'atlocation'] course ['relatedto'] sand ['relatedto'] salt
+lecture ['relatedto', 'partof', 'atlocation'] course ['relatedto'] texture ['relatedto'] salt
+lecture ['relatedto'] group ['relatedto'] metal ['relatedto'] salt
+lecture ['relatedto'] group ['isa'] nitrite ['relatedto'] salt
+lecture ['relatedto'] group ['relatedto'] carbonazidate ['relatedto'] salt
+lecture ['relatedto'] group ['relatedto'] dimethyldioctadecylammonium_chloride ['relatedto'] salt
+lecture ['relatedto'] group ['relatedto'] grain ['relatedto'] salt
+lecture ['relatedto'] group ['relatedto'] metathesis ['relatedto'] salt
+lecture ['isa', 'relatedto', 'synonym'] talk ['relatedto'] sense ['relatedto'] salt
+lecture ['isa', 'relatedto', 'synonym'] talk ['relatedto'] black ['antonym'] salt
+lecture ['isa', 'relatedto', 'synonym'] talk ['relatedto'] common ['relatedto'] salt
+lecture ['isa', 'relatedto', 'synonym'] talk ['relatedto'] use ['relatedto'] salt
+lecture ['relatedto'] gig ['relatedto'] fish ['relatedto'] salt
+lecture ['relatedto'] gig ['relatedto'] rock ['relatedto'] salt
+lecture ['relatedto'] read ['usedfor'] table ['relatedto', 'atlocation'] salt
+lecture ['relatedto'] read ['relatedto'] use ['relatedto'] salt
+lecture ['isa', 'synonym'] address ['relatedto'] street ['atlocation'] salt
+lecture ['isa', 'synonym'] address ['mannerof'] use ['relatedto'] salt
+lecture ['relatedto'] meeting ['relatedto'] hall ['relatedto'] salt
+lecture ['relatedto'] meeting ['atlocation'] table ['relatedto', 'atlocation'] salt
+lecture ['relatedto'] meeting ['relatedto'] shake ['relatedto'] salt
+lecture ['relatedto'] college ['relatedto'] hall ['relatedto'] salt
+lecture ['relatedto'] college ['relatedto'] extra ['relatedto'] salt
+lecture ['relatedto'] auditorium ['isa', 'relatedto'] hall ['relatedto'] salt
+lecture ['relatedto'] university ['relatedto'] hall ['relatedto'] salt
+lecture ['derivedfrom'] lecture_hall ['isa'] hall ['relatedto'] salt
+lecture ['etymologicallyrelatedto', 'relatedto'] lectern ['isa'] table ['relatedto', 'atlocation'] salt
+lecture ['relatedto'] berate ['synonym'] fulminate ['isa', 'relatedto'] salt
+lecture ['relatedto'] lyceum ['isa', 'relatedto'] hall ['relatedto'] salt
+lecture ['relatedto'] podium ['relatedto'] result ['relatedto'] salt
+lecture ['hasproperty'] dull ['relatedto', 'synonym'] boring ['relatedto'] basic ['relatedto'] salt
+lecture ['hasproperty'] dull ['relatedto', 'synonym'] boring ['relatedto'] drab ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] beautiful ['hasproperty'] water ['relatedto', 'atlocation'] salt
+lecture ['hasproperty'] dull ['antonym'] beautiful ['hasproperty'] ocean ['hasa', 'relatedto', 'atlocation'] salt
+lecture ['hasproperty'] dull ['antonym'] beautiful ['hasproperty'] snow ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] beautiful ['relatedto', 'synonym'] fine ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] beautiful ['synonym'] clear ['relatedto'] salt
+lecture ['hasproperty'] dull ['relatedto'] cloudy ['hasproperty'] water ['relatedto', 'atlocation'] salt
+lecture ['hasproperty'] dull ['relatedto'] cloudy ['antonym', 'distinctfrom'] clear ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'distinctfrom', 'relatedto'] bright ['antonym'] black ['antonym'] salt
+lecture ['hasproperty'] dull ['antonym', 'distinctfrom', 'relatedto'] bright ['relatedto'] white ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'distinctfrom', 'relatedto'] bright ['relatedto', 'synonym'] clear ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'distinctfrom', 'relatedto'] bright ['relatedto'] metal ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] character ['relatedto'] element ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] clever ['relatedto'] sharp ['relatedto', 'similarto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] intelligent ['relatedto'] sharp ['relatedto', 'similarto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] sharp ['relatedto'] acid ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] sharp ['relatedto'] sour ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] sharp ['relatedto'] clear ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] sharp ['relatedto'] flavour ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] sharp ['relatedto'] stickleback ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'distinctfrom', 'relatedto'] shiny ['relatedto', 'hasproperty'] fish ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'distinctfrom', 'relatedto'] shiny ['relatedto'] clear ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'distinctfrom', 'relatedto'] shiny ['relatedto'] metal ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] edge ['relatedto'] sharp ['relatedto', 'similarto'] salt
+lecture ['hasproperty'] dull ['antonym'] edge ['relatedto'] table ['relatedto', 'atlocation'] salt
+lecture ['hasproperty'] dull ['antonym'] edge ['relatedto'] fine ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto'] water ['relatedto', 'atlocation'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto'] food ['usedfor', 'relatedto', 'atlocation'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto'] fish ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto', 'synonym'] sweet ['antonym', 'distinctfrom', 'relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['distinctfrom'] sour ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['derivedfrom'] fresh_water ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto'] amphidromous ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto'] saline ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto'] lake ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym'] fresh ['relatedto'] preserve ['mannerof', 'relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] base ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] basic ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['isa', 'relatedto'] mineral ['isa', 'relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] black ['antonym'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto', 'entails'] heat ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['isa', 'relatedto'] metal ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] hard ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['atlocation'] kitchen ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['isa', 'relatedto'] element ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['isa'] naturally_occurring_tangible_substance ['isa'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] chlorite ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] chrysotype ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] ferric_ammonium_citrate ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] ferricyanide ['isa', 'relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] ferrite ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] ingredient ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] use ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] iron_ii_sulfate ['relatedto'] salt
+lecture ['hasproperty'] dull ['antonym', 'relatedto'] iron ['relatedto'] iron_iii_sulfate ['relatedto'] salt

@@ -1,0 +1,100 @@
+sky ['relatedto'] nothing ['relatedto'] glass ['mannerof'] scan
+sky ['relatedto', 'atlocation'] air ['synonym'] beam ['usedfor'] scan
+sky ['relatedto', 'atlocation'] air ['usedfor'] dish ['usedfor'] scan
+sky ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] glass ['mannerof'] scan
+sky ['antonym', 'relatedto'] water ['relatedto', 'atlocation'] glass ['mannerof'] scan
+sky ['antonym', 'relatedto'] water ['relatedto'] paint ['relatedto'] scan
+sky ['antonym', 'relatedto'] water ['relatedto'] skim ['synonym'] scan
+sky ['etymologicallyrelatedto'] house ['atlocation'] beam ['usedfor'] scan
+sky ['etymologicallyrelatedto'] house ['relatedto'] move ['mannerof'] scan
+sky ['etymologicallyrelatedto'] house ['relatedto'] paint ['relatedto'] scan
+sky ['relatedto'] fall ['antonym'] ascend ['etymologicallyrelatedto'] scan
+sky ['relatedto'] fall ['relatedto'] clean ['relatedto'] scan
+sky ['relatedto'] home ['relatedto'] move ['mannerof'] scan
+sky ['relatedto'] home ['relatedto'] paint ['relatedto'] scan
+sky ['atlocation'] balloon ['relatedto'] glass ['mannerof'] scan
+sky ['relatedto'] hang ['isa'] fit ['relatedto'] scan
+sky ['relatedto'] room ['usedfor', 'relatedto'] paint ['relatedto'] scan
+sky ['relatedto'] big ['relatedto'] print ['antonym'] scan
+sky ['relatedto'] straight ['relatedto'] beam ['usedfor'] scan
+sky ['atlocation'] plane ['synonym'] skim ['synonym'] scan
+sky ['hasproperty'] bright ['relatedto'] paint ['relatedto'] scan
+sky ['relatedto', 'atlocation'] constellation ['relatedto'] image ['relatedto'] scan
+sky ['atlocation'] dust ['mannerof', 'hasfirstsubevent', 'relatedto'] clean ['relatedto'] scan
+sky ['usedfor', 'relatedto', 'atlocation'] fly ['relatedto'] ascend ['etymologicallyrelatedto'] scan
+sky ['usedfor', 'relatedto', 'atlocation'] fly ['mannerof'] move ['mannerof'] scan
+sky ['atlocation'] light_source ['usedfor'] read ['synonym'] scan
+sky ['atlocation'] painting ['relatedto'] print ['antonym'] scan
+sky ['atlocation'] painting ['usedfor', 'relatedto', 'derivedfrom', 'formof', 'hasprerequisite'] paint ['relatedto'] scan
+sky ['atlocation'] painting ['isa'] image ['relatedto'] scan
+sky ['atlocation'] photo ['relatedto'] copy ['relatedto'] scan
+sky ['atlocation'] photo ['relatedto'] print ['antonym'] scan
+sky ['atlocation'] smoke ['antonym'] clean ['relatedto'] scan
+sky ['formof'] ski ['relatedto'] move ['mannerof'] scan
+sky ['relatedto', 'hasproperty'] dark ['hasproperty'] paint ['relatedto'] scan
+sky ['relatedto', 'hasproperty'] overhead ['relatedto'] image ['relatedto'] scan
+sky ['relatedto'] aeroscopy ['relatedto'] examination ['isa'] scan
+sky ['relatedto'] bridge ['atlocation'] beam ['usedfor'] scan
+sky ['relatedto'] building ['relatedto', 'atlocation'] beam ['usedfor'] scan
+sky ['relatedto'] clear ['relatedto', 'synonym'] clean ['relatedto'] scan
+sky ['relatedto'] clear ['relatedto', 'hasproperty'] glass ['mannerof'] scan
+sky ['relatedto'] clear ['relatedto'] print ['antonym'] scan
+sky ['relatedto'] cloudscape ['relatedto'] image ['relatedto'] scan
+sky ['relatedto'] drop ['mannerof'] move ['mannerof'] scan
+sky ['relatedto'] drop ['relatedto'] glass ['mannerof'] scan
+sky ['relatedto'] hawk ['relatedto'] beam ['usedfor'] scan
+sky ['relatedto', 'synonym'] heaven ['relatedto'] move ['mannerof'] scan
+sky ['relatedto', 'synonym'] heaven ['relatedto'] specific ['relatedto'] scan
+sky ['relatedto'] high ['relatedto'] beam ['usedfor'] scan
+sky ['relatedto'] landscape ['relatedto'] glass ['mannerof'] scan
+sky ['relatedto', 'synonym'] lift ['relatedto'] ascend ['etymologicallyrelatedto'] scan
+sky ['relatedto', 'synonym'] lift ['mannerof', 'relatedto'] move ['mannerof'] scan
+sky ['relatedto'] parhelion ['relatedto'] image ['relatedto'] scan
+sky ['relatedto'] ceiling ['atlocation'] beam ['usedfor'] scan
+sky ['relatedto'] color ['relatedto'] paint ['relatedto'] scan
+sky ['relatedto'] location ['relatedto'] move ['mannerof'] scan
+sky ['relatedto'] look ['relatedto'] read ['synonym'] scan
+sky ['relatedto'] look ['relatedto', 'synonym', 'entails'] examine ['mannerof'] scan
+sky ['relatedto'] look ['isa'] scrutiny ['synonym'] scan
+sky ['relatedto'] look ['relatedto'] browse ['relatedto'] scan
+sky ['relatedto'] look ['relatedto', 'synonym'] search ['mannerof'] scan
+sky ['relatedto'] look ['relatedto'] review ['relatedto'] scan
+sky ['relatedto'] look ['relatedto'] scanned ['formof', 'relatedto'] scan
+sky ['relatedto'] open ['mannerof'] move ['mannerof'] scan
+sky ['relatedto'] open ['relatedto'] scrutiny ['synonym'] scan
+sky ['relatedto'] place ['relatedto'] move ['mannerof'] scan
+sky ['relatedto'] roof ['atlocation'] beam ['usedfor'] scan
+sky ['relatedto'] space ['relatedto'] move ['mannerof'] scan
+sky ['usedfor', 'relatedto'] sun ['relatedto'] beam ['usedfor'] scan
+sky ['relatedto'] upward ['relatedto'] ascend ['etymologicallyrelatedto'] scan
+sky ['relatedto'] upward ['relatedto'] upscan ['relatedto', 'derivedfrom'] scan
+sky ['relatedto'] kick ['relatedto', 'entails'] move ['mannerof'] scan
+sky ['relatedto'] picture ['relatedto'] blanking ['relatedto'] scan
+sky ['relatedto'] picture ['relatedto', 'similarto', 'synonym'] image ['relatedto'] scan
+sky ['relatedto'] picture ['relatedto'] paint ['relatedto'] scan
+sky ['relatedto'] picture ['relatedto'] print ['antonym'] scan
+sky ['relatedto'] picture ['relatedto'] sstv ['relatedto'] scan
+sky ['relatedto'] picture ['synonym'] ikon ['isa'] scan
+sky ['relatedto'] soar ['relatedto'] ascend ['etymologicallyrelatedto'] scan
+sky ['relatedto'] thunder ['mannerof'] move ['mannerof'] scan
+sky ['relatedto'] weather ['relatedto'] specific ['relatedto'] scan
+sky ['synonym'] flip ['mannerof'] move ['mannerof'] scan
+sky ['usedfor'] breath ['relatedto'] meter ['relatedto'] scan
+sky ['usedfor'] dream ['relatedto'] image ['relatedto'] scan
+sky ['relatedto'] nothing ['antonym'] act ['relatedto', 'synonym'] move ['mannerof'] scan
+sky ['relatedto'] nothing ['antonym'] act ['relatedto'] scansion ['relatedto'] scan
+sky ['relatedto'] nothing ['antonym'] act ['relatedto'] search ['mannerof'] scan
+sky ['relatedto'] nothing ['antonym'] matter ['isa'] soft_copy ['relatedto'] scan
+sky ['relatedto'] nothing ['antonym'] matter ['isa'] hard_copy ['relatedto'] scan
+sky ['relatedto'] nothing ['antonym'] matter ['relatedto'] beam ['usedfor'] scan
+sky ['relatedto'] nothing ['antonym'] play ['mannerof', 'relatedto', 'entails'] move ['mannerof'] scan
+sky ['relatedto'] nothing ['antonym'] work ['atlocation'] fax_machine ['relatedto'] scan
+sky ['relatedto'] nothing ['antonym'] work ['atlocation'] paint ['relatedto'] scan
+sky ['relatedto'] nothing ['antonym'] work ['mannerof', 'relatedto'] move ['mannerof'] scan
+sky ['relatedto'] nothing ['relatedto'] air ['synonym'] beam ['usedfor'] scan
+sky ['relatedto'] nothing ['relatedto'] air ['usedfor'] dish ['usedfor'] scan
+sky ['relatedto'] nothing ['relatedto'] bare ['antonym'] paint ['relatedto'] scan
+sky ['relatedto'] nothing ['relatedto'] bare ['relatedto'] raw ['relatedto'] scan
+sky ['relatedto'] nothing ['relatedto'] bleak ['synonym'] raw ['relatedto'] scan
+sky ['relatedto'] nothing ['relatedto'] bored ['motivatedbygoal'] read ['synonym'] scan
+sky ['relatedto'] nothing ['relatedto'] breath ['relatedto'] meter ['relatedto'] scan

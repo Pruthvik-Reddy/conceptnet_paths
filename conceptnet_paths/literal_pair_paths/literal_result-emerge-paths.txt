@@ -1,0 +1,100 @@
+result ['synonym'] arise ['synonym'] emerge
+result ['relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] action ['relatedto'] arise ['synonym'] emerge
+result ['relatedto'] action ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] action ['relatedto'] escape ['synonym'] emerge
+result ['relatedto'] action ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] action ['synonym'] energy ['relatedto'] emerge
+result ['relatedto'] fire ['relatedto'] escape ['synonym'] emerge
+result ['relatedto'] fire ['relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] answer ['synonym'] appear ['mannerof', 'synonym'] emerge
+result ['synonym'] arise ['synonym'] appear ['mannerof', 'synonym'] emerge
+result ['synonym'] arise ['synonym'] issue ['synonym'] emerge
+result ['synonym'] arise ['synonym'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] go ['antonym', 'relatedto'] arise ['synonym'] emerge
+result ['relatedto'] go ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] go ['relatedto', 'synonym'] energy ['relatedto'] emerge
+result ['synonym'] leave ['relatedto'] escape ['synonym'] emerge
+result ['mannerof'] come ['relatedto', 'synonym'] appear ['mannerof', 'synonym'] emerge
+result ['mannerof'] come ['relatedto', 'synonym'] arise ['synonym'] emerge
+result ['mannerof'] come ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] conclusion ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] time ['relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] time ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] work ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] work ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] work ['relatedto'] shell ['mannerof'] emerge
+result ['relatedto'] work ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['antonym', 'relatedto'] cause ['relatedto'] dive ['antonym'] emerge
+result ['isa', 'relatedto', 'synonym'] consequence ['synonym'] issue ['synonym'] emerge
+result ['mannerof', 'synonym'] follow ['synonym'] arise ['synonym'] emerge
+result ['relatedto'] cut ['relatedto'] escape ['synonym'] emerge
+result ['relatedto'] end ['isa'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] end ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] energy ['relatedto'] burst ['mannerof'] emerge
+result ['relatedto'] find ['relatedto'] shell ['mannerof'] emerge
+result ['relatedto'] fusion ['relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] proceed ['synonym'] arise ['synonym'] emerge
+result ['mannerof'] happen ['mannerof'] appear ['mannerof', 'synonym'] emerge
+result ['mannerof'] happen ['mannerof'] arise ['synonym'] emerge
+result ['mannerof'] happen ['synonym'] materialize ['synonym'] emerge
+result ['relatedto', 'synonym'] harvest ['synonym'] issue ['synonym'] emerge
+result ['relatedto'] equation ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto', 'synonym'] solution ['relatedto'] issue ['synonym'] emerge
+result ['isa', 'relatedto'] product ['relatedto'] springspotter ['relatedto'] emerge
+result ['relatedto'] apotelesm ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] beat ['synonym'] shell ['mannerof'] emerge
+result ['relatedto', 'synonym'] ensue ['synonym'] arise ['synonym'] emerge
+result ['relatedto'] event ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] issue ['synonym'] arise ['synonym'] emerge
+result ['relatedto'] issue ['mannerof'] escape ['synonym'] emerge
+result ['relatedto'] issue ['synonym'] come_forth ['relatedto', 'synonym'] emerge
+result ['relatedto'] issue ['synonym'] emergence ['relatedto'] emerge
+result ['relatedto'] offcome ['relatedto'] escape ['synonym'] emerge
+result ['relatedto', 'synonym'] outcome ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] report ['relatedto'] springspotter ['relatedto'] emerge
+result ['relatedto'] score ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] return ['synonym'] issue ['synonym'] emerge
+result ['relatedto'] sequence ['relatedto'] unroll ['relatedto'] emerge
+result ['relatedto'] showing ['relatedto'] appear ['mannerof', 'synonym'] emerge
+result ['relatedto'] slip ['mannerof', 'relatedto'] escape ['synonym'] emerge
+result ['relatedto'] slip ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] decay ['synonym'] decline ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] decay ['antonym'] preserve ['relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] decay ['mannerof', 'relatedto'] break ['mannerof'] appear ['mannerof', 'synonym'] emerge
+result ['relatedto'] decay ['mannerof', 'relatedto'] break ['isa', 'mannerof', 'relatedto'] escape ['synonym'] emerge
+result ['relatedto'] decay ['mannerof', 'relatedto'] break ['mannerof'] come_forth ['relatedto', 'synonym'] emerge
+result ['relatedto'] decay ['mannerof', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] burst ['mannerof'] emerge
+result ['relatedto'] decay ['mannerof', 'relatedto'] break ['relatedto'] hatch ['relatedto'] emerge
+result ['relatedto'] decay ['relatedto'] bog ['relatedto'] submerge ['relatedto'] emerge
+result ['relatedto'] decay ['relatedto'] dissolve ['antonym'] appear ['mannerof', 'synonym'] emerge
+result ['relatedto'] decay ['relatedto'] problem ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] decay ['relatedto'] condition ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] decay ['relatedto'] process ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] decay ['relatedto'] cause ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] decay ['relatedto'] drag ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] decay ['relatedto'] excited ['relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] decay ['relatedto'] radiation ['isa', 'relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] decay ['relatedto'] state ['relatedto'] energy ['relatedto'] emerge
+result ['relatedto'] decay ['relatedto'] state ['relatedto'] issue ['synonym'] emerge
+result ['relatedto'] decay ['relatedto'] go ['antonym', 'relatedto'] arise ['synonym'] emerge
+result ['relatedto'] decay ['relatedto'] go ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] decay ['relatedto'] go ['relatedto', 'synonym'] energy ['relatedto'] emerge
+result ['relatedto'] decay ['synonym'] wane ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] erosion ['isa'] decline ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] erosion ['antonym'] deposition ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] erosion ['isa'] chatter_mark ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] erosion ['relatedto'] armor ['relatedto'] shell ['mannerof'] emerge
+result ['relatedto'] erosion ['relatedto'] bedrock ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] erosion ['relatedto'] cliff ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] erosion ['relatedto'] face ['isa', 'relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] erosion ['relatedto'] friction ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] erosion ['relatedto'] mechanical ['relatedto'] hatch ['relatedto'] emerge
+result ['relatedto'] erosion ['relatedto'] sea ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] erosion ['relatedto'] sea ['relatedto'] shell ['mannerof'] emerge
+result ['relatedto'] erosion ['relatedto'] grike ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] erosion ['relatedto'] onlap ['relatedto'] surface ['mannerof', 'synonym'] emerge
+result ['relatedto'] erosion ['relatedto'] platform ['relatedto'] dive ['antonym'] emerge
+result ['relatedto'] erosion ['relatedto'] sculpture ['relatedto'] shell ['mannerof'] emerge
+result ['relatedto'] erosion ['relatedto'] washout ['relatedto'] surface ['mannerof', 'synonym'] emerge

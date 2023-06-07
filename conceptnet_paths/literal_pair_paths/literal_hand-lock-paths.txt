@@ -1,0 +1,100 @@
+hand ['relatedto', 'synonym'] handle ['relatedto'] lock
+hand ['relatedto'] hold ['mannerof'] lock
+hand ['isa', 'madeof', 'relatedto'] fist ['relatedto'] lock
+hand ['relatedto'] device ['relatedto'] lock
+hand ['relatedto'] four ['relatedto'] lock
+hand ['relatedto'] limb ['relatedto'] lock
+hand ['relatedto', 'synonym'] pass ['mannerof'] lock
+hand ['relatedto'] control ['relatedto'] lock
+hand ['relatedto'] turn ['relatedto'] lock
+hand ['isa'] ability ['relatedto'] hold ['mannerof'] lock
+hand ['relatedto'] give ['antonym', 'synonym'] hold ['mannerof'] lock
+hand ['relatedto'] give ['antonym', 'distinctfrom'] keep ['relatedto'] lock
+hand ['relatedto'] give ['antonym'] need ['relatedto'] lock
+hand ['relatedto'] give ['mannerof', 'relatedto', 'synonym'] pass ['mannerof'] lock
+hand ['relatedto'] give ['relatedto'] move ['relatedto'] lock
+hand ['relatedto'] advantage ['relatedto'] success ['relatedto'] lock
+hand ['relatedto'] fore ['etymologicallyrelatedto', 'relatedto', 'synonym'] forward ['relatedto'] lock
+hand ['relatedto'] age ['relatedto'] hair ['isa'] lock
+hand ['relatedto', 'partof'] human ['atlocation'] bar ['relatedto'] lock
+hand ['relatedto', 'partof'] human ['capableof'] drive_car ['haslastsubevent'] lock
+hand ['relatedto', 'partof'] human ['relatedto', 'partof'] hair ['isa'] lock
+hand ['relatedto', 'partof'] human ['relatedto'] canal ['relatedto', 'partof'] lock
+hand ['relatedto', 'partof'] human ['relatedto'] need ['relatedto'] lock
+hand ['relatedto'] agent ['relatedto'] crimp ['isa'] lock
+hand ['relatedto'] together ['relatedto'] close ['usedfor'] lock
+hand ['relatedto'] together ['relatedto'] dovetail ['relatedto'] lock
+hand ['relatedto'] together ['relatedto'] open ['capableof'] lock
+hand ['relatedto'] together ['relatedto'] scrum ['relatedto'] lock
+hand ['relatedto'] man ['derivedfrom'] manlock ['derivedfrom'] lock
+hand ['relatedto'] man ['relatedto'] canal ['relatedto', 'partof'] lock
+hand ['relatedto'] man ['relatedto'] master ['relatedto'] lock
+hand ['relatedto'] man ['relatedto'] road ['relatedto'] lock
+hand ['relatedto'] man ['relatedto'] toupee ['relatedto'] lock
+hand ['relatedto'] wrist ['relatedto'] curl ['relatedto', 'synonym'] lock
+hand ['relatedto'] wrist ['relatedto'] kimedashi ['relatedto'] lock
+hand ['relatedto'] apple ['relatedto'] fist ['relatedto'] lock
+hand ['relatedto'] apple ['relatedto'] keep ['relatedto'] lock
+hand ['relatedto'] set ['antonym'] lift ['relatedto'] lock
+hand ['relatedto'] set ['relatedto'] closure ['relatedto'] lock
+hand ['relatedto'] set ['relatedto'] combination ['relatedto'] lock
+hand ['relatedto'] set ['relatedto'] four ['relatedto'] lock
+hand ['relatedto'] set ['relatedto'] master_key ['relatedto'] lock
+hand ['hasa', 'relatedto', 'partof'] arm ['atlocation'] hair ['isa'] lock
+hand ['hasa', 'relatedto', 'partof'] arm ['relatedto', 'derivedfrom'] armlock ['derivedfrom'] lock
+hand ['hasa', 'relatedto', 'partof'] arm ['isa', 'relatedto', 'synonym'] limb ['relatedto'] lock
+hand ['hasa', 'relatedto', 'partof'] arm ['relatedto'] curl ['relatedto', 'synonym'] lock
+hand ['hasa', 'relatedto', 'partof'] arm ['relatedto'] hammerlock ['isa'] lock
+hand ['hasa', 'relatedto', 'partof'] arm ['relatedto'] poitrinal ['relatedto'] lock
+hand ['hasa', 'relatedto', 'partof'] arm ['similarto'] firearm ['partof'] lock
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['isa', 'relatedto', 'synonym'] limb ['relatedto'] lock
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['relatedto'] curl ['relatedto', 'synonym'] lock
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['relatedto'] device ['relatedto'] lock
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['relatedto'] hair ['isa'] lock
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['usedfor', 'relatedto'] hold ['mannerof'] lock
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['relatedto'] stump ['relatedto'] lock
+hand ['relatedto'] manual ['relatedto'] canal ['relatedto', 'partof'] lock
+hand ['relatedto'] available ['similarto'] open ['capableof'] lock
+hand ['relatedto'] main ['relatedto'] door ['relatedto', 'partof', 'atlocation'] lock
+hand ['relatedto'] main ['relatedto'] front_door ['atlocation'] lock
+hand ['relatedto'] main ['relatedto'] hair ['isa'] lock
+hand ['relatedto'] main ['relatedto'] road ['relatedto'] lock
+hand ['relatedto'] main ['relatedto'] master ['relatedto'] lock
+hand ['relatedto', 'partof'] palm ['synonym'] handle ['relatedto'] lock
+hand ['isa', 'relatedto'] right ['isa', 'relatedto'] turn ['relatedto'] lock
+hand ['isa', 'relatedto'] right ['relatedto'] pass ['mannerof'] lock
+hand ['partof'] ball ['relatedto', 'atlocation'] hole ['atlocation'] lock
+hand ['partof'] ball ['relatedto'] bat ['relatedto'] lock
+hand ['partof'] ball ['relatedto'] device ['relatedto'] lock
+hand ['partof'] ball ['relatedto'] wheel ['relatedto'] lock
+hand ['partof'] ball ['relatedto'] pass ['mannerof'] lock
+hand ['partof'] ball ['relatedto'] handle ['relatedto'] lock
+hand ['partof'] ball ['relatedto'] turn ['relatedto'] lock
+hand ['relatedto'] square ['relatedto'] bar ['relatedto'] lock
+hand ['relatedto'] square ['relatedto'] door ['relatedto', 'partof', 'atlocation'] lock
+hand ['relatedto'] square ['relatedto'] gate ['relatedto', 'partof', 'atlocation'] lock
+hand ['relatedto'] square ['relatedto'] hole ['atlocation'] lock
+hand ['relatedto'] square ['relatedto'] lift ['relatedto'] lock
+hand ['relatedto'] square ['relatedto'] four ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] safe ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] container ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] doors ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] keep ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] locker ['etymologicallyrelatedto', 'relatedto', 'atlocation'] lock
+hand ['relatedto'] bank ['relatedto'] locks ['formof', 'relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] secure ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] securing ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] security ['usedfor', 'relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] lake ['etymologicallyrelatedto'] lock
+hand ['relatedto'] bank ['relatedto'] turn ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] thread ['relatedto'] lock
+hand ['relatedto'] bank ['relatedto'] time_lock ['relatedto'] lock
+hand ['relatedto'] plate ['relatedto'] front_door ['atlocation'] lock
+hand ['relatedto'] plate ['relatedto', 'derivedfrom'] underplate ['relatedto'] lock
+hand ['relatedto'] plate ['isa', 'relatedto'] receptacle ['relatedto'] lock
+hand ['relatedto'] plate ['relatedto'] catch_plate ['relatedto'] lock
+hand ['relatedto'] plate ['relatedto'] container ['relatedto'] lock
+hand ['relatedto'] plate ['relatedto'] device ['relatedto'] lock
+hand ['relatedto'] plate ['relatedto'] hold ['mannerof'] lock
+hand ['relatedto'] plate ['relatedto'] metal ['madeof', 'relatedto'] lock
+hand ['relatedto'] plate ['relatedto'] thing ['relatedto'] lock

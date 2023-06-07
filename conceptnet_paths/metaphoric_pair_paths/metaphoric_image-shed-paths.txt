@@ -1,0 +1,100 @@
+image ['relatedto'] real ['relatedto'] cast ['relatedto', 'synonym'] shed
+image ['relatedto'] real ['relatedto'] flow ['relatedto'] shed
+image ['relatedto'] lie ['haslastsubevent'] cry ['relatedto'] shed
+image ['relatedto'] lie ['mannerof'] head ['relatedto'] shed
+image ['relatedto'] lie ['mannerof'] top ['relatedto'] shed
+image ['relatedto'] plate ['relatedto'] house ['relatedto'] shed
+image ['relatedto'] plate ['relatedto'] tool ['relatedto'] shed
+image ['relatedto'] plate ['relatedto'] top ['relatedto'] shed
+image ['relatedto'] plate ['relatedto'] skin ['etymologicallyrelatedto'] shed
+image ['capableof'] see ['mannerof'] cover ['relatedto'] shed
+image ['capableof'] see ['relatedto'] cry ['relatedto'] shed
+image ['relatedto'] branch ['synonym'] separate ['relatedto'] shed
+image ['relatedto'] branch ['relatedto'] top ['relatedto'] shed
+image ['relatedto'] branch ['relatedto'] small ['relatedto'] shed
+image ['relatedto'] branch ['synonym'] head ['relatedto'] shed
+image ['relatedto'] branch ['relatedto', 'synonym'] part ['relatedto'] shed
+image ['relatedto'] branch ['relatedto'] divide ['relatedto'] shed
+image ['relatedto'] branch ['synonym'] shoot ['relatedto'] shed
+image ['relatedto'] slide ['relatedto'] slough ['relatedto', 'synonym'] shed
+image ['relatedto', 'synonym'] copy ['isa'] cast ['relatedto', 'synonym'] shed
+image ['relatedto'] expose ['antonym'] cover ['relatedto'] shed
+image ['relatedto'] crop ['relatedto'] garden ['relatedto'] shed
+image ['relatedto'] cross ['mannerof'] cover ['relatedto'] shed
+image ['relatedto'] cross ['relatedto'] small ['relatedto'] shed
+image ['relatedto'] develop ['relatedto'] building ['relatedto'] shed
+image ['relatedto'] doll ['relatedto'] house ['relatedto'] shed
+image ['relatedto'] doll ['relatedto', 'hasproperty'] small ['relatedto'] shed
+image ['relatedto'] doll ['relatedto'] head ['relatedto'] shed
+image ['relatedto'] doll ['relatedto'] small_house ['relatedto'] shed
+image ['synonym'] figure ['relatedto'] house ['relatedto'] shed
+image ['synonym'] figure ['relatedto'] small ['relatedto'] shed
+image ['synonym'] figure ['relatedto'] part ['relatedto'] shed
+image ['synonym'] range ['relatedto'] top ['relatedto'] shed
+image ['synonym'] range ['relatedto', 'synonym'] chain ['atlocation'] shed
+image ['synonym'] range ['relatedto'] part ['relatedto'] shed
+image ['synonym'] range ['relatedto'] ranch ['atlocation'] shed
+image ['relatedto'] draw ['mannerof'] remove ['mannerof'] shed
+image ['relatedto'] draw ['relatedto'] house ['relatedto'] shed
+image ['relatedto'] draw ['synonym'] cast ['relatedto', 'synonym'] shed
+image ['relatedto'] draw ['relatedto'] lose ['relatedto'] shed
+image ['relatedto'] draw ['relatedto'] shelter ['relatedto'] shed
+image ['relatedto'] dream ['relatedto'] head ['relatedto'] shed
+image ['relatedto'] function ['relatedto'] divide ['relatedto'] shed
+image ['relatedto'] function ['synonym'] part ['relatedto'] shed
+image ['relatedto'] ensmallen ['etymologicallyrelatedto'] small ['relatedto'] shed
+image ['synonym'] face ['mannerof'] cover ['relatedto'] shed
+image ['synonym'] face ['relatedto', 'partof'] head ['relatedto'] shed
+image ['synonym'] face ['relatedto'] cry ['relatedto'] shed
+image ['synonym'] face ['relatedto'] part ['relatedto'] shed
+image ['relatedto'] tough ['relatedto'] skin ['etymologicallyrelatedto'] shed
+image ['relatedto'] flatten ['synonym'] drop ['synonym'] shed
+image ['relatedto'] iso ['relatedto'] chain ['atlocation'] shed
+image ['relatedto', 'synonym'] idea ['relatedto'] head ['relatedto'] shed
+image ['relatedto'] imagination ['relatedto'] head ['relatedto'] shed
+image ['relatedto'] come_across ['antonym'] lose ['relatedto'] shed
+image ['relatedto'] mark ['relatedto'] shoot ['relatedto'] shed
+image ['relatedto'] memory ['relatedto'] part ['relatedto'] shed
+image ['relatedto'] memory ['relatedto', 'synonym'] storage ['usedfor', 'relatedto'] shed
+image ['relatedto'] power ['relatedto'] top ['relatedto'] shed
+image ['relatedto'] power ['relatedto'] fly ['relatedto'] shed
+image ['relatedto'] shade ['relatedto'] cover ['relatedto'] shed
+image ['relatedto'] shade ['relatedto'] small ['relatedto'] shed
+image ['relatedto'] shade ['relatedto'] head ['relatedto'] shed
+image ['relatedto'] shade ['relatedto'] cast ['relatedto', 'synonym'] shed
+image ['relatedto'] shade ['relatedto'] building ['relatedto'] shed
+image ['relatedto'] shade ['relatedto'] shelter ['relatedto'] shed
+image ['relatedto'] shadow ['relatedto'] cast ['relatedto', 'synonym'] shed
+image ['synonym'] shape ['mannerof'] cast ['relatedto', 'synonym'] shed
+image ['synonym'] shape ['relatedto'] drop ['synonym'] shed
+image ['synonym'] shape ['mannerof'] throw ['synonym'] shed
+image ['synonym'] shape ['relatedto'] warp ['relatedto'] shed
+image ['isa', 'relatedto'] statue ['relatedto'] building ['relatedto'] shed
+image ['relatedto'] stitch ['relatedto'] small ['relatedto'] shed
+image ['relatedto'] stitch ['relatedto'] head ['relatedto'] shed
+image ['relatedto'] stitch ['relatedto'] skin ['etymologicallyrelatedto'] shed
+image ['relatedto'] stitch ['relatedto'] part ['relatedto'] shed
+image ['relatedto'] stitch ['isa', 'relatedto'] thread ['relatedto'] shed
+image ['relatedto'] stitch ['relatedto'] tool ['relatedto'] shed
+image ['synonym'] value ['relatedto'] drop ['synonym'] shed
+image ['relatedto'] bug ['synonym'] head ['relatedto'] shed
+image ['relatedto'] bug ['relatedto'] fly ['relatedto'] shed
+image ['relatedto'] bug ['atlocation'] garden ['relatedto'] shed
+image ['relatedto'] backdrop ['derivedfrom'] drop ['synonym'] shed
+image ['relatedto'] photograph ['relatedto', 'synonym'] shoot ['relatedto'] shed
+image ['relatedto'] camcorder ['relatedto'] storage ['usedfor', 'relatedto'] shed
+image ['relatedto'] television_set ['atlocation'] house ['relatedto'] shed
+image ['relatedto'] file ['relatedto'] storage ['usedfor', 'relatedto'] shed
+image ['relatedto'] file ['relatedto'] tool ['relatedto'] shed
+image ['relatedto'] gallery ['isa', 'relatedto'] building ['relatedto'] shed
+image ['relatedto'] mask ['mannerof', 'relatedto'] cover ['relatedto'] shed
+image ['relatedto'] mirror ['atlocation'] house ['relatedto'] shed
+image ['relatedto'] reproduce ['relatedto'] divide ['relatedto'] shed
+image ['relatedto'] reproduce ['relatedto'] fern ['relatedto'] shed
+image ['isa'] document ['relatedto'] part ['relatedto'] shed
+image ['relatedto'] barnstar ['relatedto', 'derivedfrom'] barn ['relatedto'] shed
+image ['relatedto'] bikeporn ['relatedto'] bicycle ['atlocation'] shed
+image ['relatedto'] etching ['isa'] part ['relatedto'] shed
+image ['relatedto'] flowered ['relatedto'] garden ['relatedto'] shed
+image ['relatedto'] foreshot ['relatedto'] building ['relatedto'] shed
+image ['relatedto'] symbol ['relatedto'] divide ['relatedto'] shed

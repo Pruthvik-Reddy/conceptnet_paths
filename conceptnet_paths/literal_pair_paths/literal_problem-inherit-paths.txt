@@ -1,0 +1,100 @@
+problem ['antonym', 'relatedto'] math ['relatedto', 'atlocation'] class ['relatedto'] inherit
+problem ['antonym', 'relatedto'] math ['relatedto'] property ['relatedto'] inherit
+problem ['isa', 'relatedto', 'synonym'] case ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] break ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] break ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] break ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] diagnostic ['relatedto'] characteristic ['relatedto'] inherit
+problem ['relatedto'] disease ['isa', 'relatedto'] aarskog_scott_syndrome ['relatedto'] inherit
+problem ['relatedto'] disease ['isa'] brugada_syndrome ['relatedto'] inherit
+problem ['relatedto'] disease ['isa'] genodermatosis ['relatedto'] inherit
+problem ['relatedto'] disease ['relatedto'] transmission ['relatedto'] inherit
+problem ['relatedto'] division ['relatedto', 'synonym'] class ['relatedto'] inherit
+problem ['relatedto'] impossible ['relatedto'] title ['relatedto'] inherit
+problem ['relatedto'] issue ['relatedto'] succeed ['relatedto'] inherit
+problem ['relatedto'] miss ['antonym', 'isa', 'relatedto'] title ['relatedto'] inherit
+problem ['relatedto'] bad ['derivedfrom'] bad_blood ['relatedto'] inherit
+problem ['relatedto'] example ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] homework ['atlocation'] class ['relatedto'] inherit
+problem ['relatedto'] related ['relatedto'] laughing_heir ['relatedto'] inherit
+problem ['relatedto'] circumstance ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] thing ['relatedto', 'synonym'] property ['relatedto'] inherit
+problem ['synonym'] job ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] fix ['antonym'] abrogate ['relatedto'] successor ['relatedto'] inherit
+problem ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] fix ['antonym'] destroy ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] fix ['mannerof'] change ['mannerof'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] fix ['relatedto', 'synonym'] doctor ['relatedto'] title ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] entail ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] entail ['relatedto'] heritage ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] action ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] better ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] item ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] item ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] medical ['relatedto'] burning_feet_syndrome ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] remedy ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] right ['relatedto'] patrimony ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] right ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] right ['relatedto'] transmission ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] service ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] together ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] location ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] map ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] point ['isa', 'relatedto'] characteristic ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] privilege ['relatedto'] transmission ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] time ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] time ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] prefix ['relatedto'] title ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] stereotype ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] fix ['relatedto'] suffix ['relatedto'] title ['relatedto'] inherit
+problem ['relatedto'] fix ['synonym'] make_whole ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] fix ['synonym'] set ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] decay ['antonym'] accretion ['isa'] inheritance ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] inherit
+problem ['relatedto'] decay ['isa', 'synonym'] corruption ['relatedto'] transmission ['relatedto'] inherit
+problem ['relatedto'] decay ['isa'] natural_process ['isa'] succession ['relatedto'] inherit
+problem ['relatedto'] decay ['mannerof', 'relatedto'] break ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] decay ['mannerof', 'relatedto'] break ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] decay ['mannerof', 'relatedto'] break ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] decay ['mannerof', 'relatedto'] change ['mannerof'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] decay ['relatedto'] daughter ['relatedto'] heir ['relatedto'] inherit
+problem ['relatedto'] decay ['relatedto'] condition ['relatedto'] brugada_syndrome ['relatedto'] inherit
+problem ['relatedto'] decay ['relatedto'] condition ['relatedto'] burning_feet_syndrome ['relatedto'] inherit
+problem ['relatedto'] decay ['relatedto'] condition ['relatedto'] genodermatosis ['relatedto'] inherit
+problem ['relatedto'] decay ['relatedto'] cause ['relatedto'] genetic ['relatedto'] inherit
+problem ['relatedto'] decay ['relatedto'] state ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] decay ['relatedto', 'synonym'] waste ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] decay ['synonym'] declension ['isa'] class ['relatedto'] inherit
+problem ['relatedto'] decay ['synonym'] failing ['distinctfrom'] succeed ['relatedto'] inherit
+problem ['relatedto'] decay ['synonym'] fail ['antonym', 'distinctfrom', 'relatedto'] succeed ['relatedto'] inherit
+problem ['relatedto'] affair ['synonym'] action ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+problem ['relatedto'] affair ['causes', 'relatedto'] divorce ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto', 'partof'] cheating ['atlocation'] class ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] bad ['derivedfrom'] bad_blood ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] cheat ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] husband ['relatedto'] property ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] illegal ['antonym'] legal ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] man ['relatedto'] biological_father ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] married ['relatedto'] pretermitted_spouse ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] meeting ['isa', 'relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] room ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] sex ['isa'] class ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] spouse ['relatedto'] pretermitted_spouse ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] wife ['relatedto'] curtesy ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] case ['relatedto'] legal ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] english_vice ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] affair ['relatedto'] vestry ['relatedto'] class ['relatedto'] inherit
+problem ['relatedto'] affair ['synonym'] function ['relatedto'] functionality ['relatedto'] inherit
+problem ['relatedto'] affair ['synonym'] thing ['relatedto', 'synonym'] property ['relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['relatedto'] accept ['mannerof', 'relatedto', 'synonym'] receive ['mannerof', 'relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['relatedto'] accountable ['relatedto'] property ['relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['antonym', 'relatedto'] call ['antonym'] receive ['mannerof', 'relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['antonym', 'relatedto'] call ['relatedto'] transmission ['relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['antonym', 'isa', 'relatedto', 'synonym'] reply ['antonym'] receive ['mannerof', 'relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['haslastsubevent'] listen ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['isa'] plea ['relatedto'] legal ['relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['isa'] rescript ['relatedto'] legal ['relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['mannerof'] state ['relatedto'] class ['relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['mannerof'] meet ['synonym'] receive ['mannerof', 'relatedto'] inherit
+problem ['antonym', 'relatedto'] answer ['mannerof', 'relatedto'] field ['relatedto'] characteristic ['relatedto'] inherit

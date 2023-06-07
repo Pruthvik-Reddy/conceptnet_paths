@@ -1,0 +1,100 @@
+office ['relatedto'] report ['synonym'] buzz
+office ['relatedto'] act ['isa'] activity ['isa'] buzz
+office ['relatedto'] act ['mannerof', 'relatedto'] rush ['relatedto'] buzz
+office ['relatedto'] boring ['antonym'] thrill ['relatedto'] buzz
+office ['atlocation'] number ['isa'] information ['relatedto'] buzz
+office ['atlocation'] number ['relatedto'] fizz_buzz ['synonym'] buzz
+office ['relatedto'] land ['relatedto'] consonant ['relatedto'] buzz
+office ['relatedto'] land ['antonym', 'haslastsubevent'] fly ['mannerof', 'relatedto'] buzz
+office ['relatedto'] water ['relatedto'] rush ['relatedto'] buzz
+office ['relatedto'] post ['relatedto'] shock ['relatedto'] buzz
+office ['relatedto'] house ['atlocation'] bee ['relatedto'] buzz
+office ['relatedto'] house ['relatedto'] bell ['similarto'] buzz
+office ['relatedto'] house ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+office ['antonym', 'distinctfrom', 'relatedto'] home ['relatedto'] feeling ['relatedto'] buzz
+office ['antonym', 'distinctfrom', 'relatedto'] home ['relatedto'] report ['synonym'] buzz
+office ['relatedto', 'atlocation'] chair ['relatedto'] rush ['relatedto'] buzz
+office ['relatedto'] room ['relatedto'] bell ['similarto'] buzz
+office ['relatedto'] plane ['capableof', 'usedfor', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+office ['atlocation'] employee ['relatedto'] report ['synonym'] buzz
+office ['relatedto'] branch ['relatedto'] bee ['relatedto'] buzz
+office ['usedfor', 'relatedto', 'atlocation'] work ['isa', 'relatedto'] activity ['isa'] buzz
+office ['usedfor', 'relatedto', 'atlocation'] work ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] energy ['relatedto'] buzz
+office ['usedfor', 'relatedto', 'atlocation'] work ['relatedto'] drone ['relatedto'] buzz
+office ['usedfor', 'relatedto', 'atlocation'] work ['relatedto'] report ['synonym'] buzz
+office ['usedfor', 'relatedto'] working ['relatedto'] activity ['isa'] buzz
+office ['usedfor', 'relatedto'] working ['relatedto', 'hasprerequisite'] energy ['relatedto'] buzz
+office ['relatedto', 'atlocation'] business ['relatedto'] activity ['isa'] buzz
+office ['relatedto', 'atlocation'] business ['relatedto'] report ['synonym'] buzz
+office ['relatedto'] nice ['relatedto'] sound ['isa', 'mannerof'] buzz
+office ['atlocation'] call ['relatedto'] activity ['isa'] buzz
+office ['atlocation'] call ['antonym'] whisper ['relatedto'] buzz
+office ['atlocation'] call ['mannerof', 'relatedto'] summon ['mannerof'] buzz
+office ['atlocation'] call ['relatedto'] conversation ['relatedto'] buzz
+office ['atlocation'] call ['relatedto', 'synonym'] telephone_call ['relatedto'] buzz
+office ['atlocation'] call ['synonym'] drop_someone_line ['synonym'] buzz
+office ['relatedto'] capital ['relatedto'] bell ['similarto'] buzz
+office ['relatedto', 'atlocation'] paper ['relatedto'] report ['synonym'] buzz
+office ['relatedto'] stable ['similarto'] sound ['isa', 'mannerof'] buzz
+office ['relatedto'] charge ['mannerof', 'relatedto'] rush ['relatedto'] buzz
+office ['relatedto'] charge ['relatedto'] energy ['relatedto'] buzz
+office ['relatedto'] charge ['relatedto'] shock ['relatedto'] buzz
+office ['relatedto'] fill ['relatedto'] sound ['isa', 'mannerof'] buzz
+office ['atlocation'] city ['relatedto'] sound ['isa', 'mannerof'] buzz
+office ['relatedto'] farm ['atlocation'] bee ['relatedto'] buzz
+office ['isa'] state ['isa'] feeling ['relatedto'] buzz
+office ['isa'] state ['relatedto'] energy ['relatedto'] buzz
+office ['isa'] state ['relatedto'] rush ['relatedto'] buzz
+office ['isa'] state ['relatedto'] shock ['relatedto'] buzz
+office ['relatedto'] claim ['relatedto'] report ['synonym'] buzz
+office ['relatedto'] claim ['relatedto'] rumor ['relatedto'] buzz
+office ['atlocation'] pen ['relatedto'] crew ['relatedto'] buzz
+office ['relatedto'] show ['mannerof'] fly ['mannerof', 'relatedto'] buzz
+office ['relatedto'] company ['relatedto'] crew ['relatedto'] buzz
+office ['relatedto'] group ['atlocation'] bee ['relatedto'] buzz
+office ['relatedto'] high ['relatedto'] altitude ['relatedto'] buzz
+office ['relatedto'] high ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+office ['relatedto'] high ['relatedto'] feeling ['relatedto'] buzz
+office ['relatedto'] desk ['atlocation'] report ['synonym'] buzz
+office ['relatedto'] invest ['relatedto'] energy ['relatedto'] buzz
+office ['atlocation'] computer ['relatedto'] energy ['relatedto'] buzz
+office ['atlocation'] door ['relatedto'] bell ['similarto'] buzz
+office ['relatedto'] duty ['relatedto'] activity ['isa'] buzz
+office ['relatedto'] space ['etymologicallyrelatedto'] speed ['relatedto'] buzz
+office ['relatedto'] hard ['relatedto'] energy ['relatedto'] buzz
+office ['relatedto'] hard ['relatedto'] feeling ['relatedto'] buzz
+office ['relatedto'] employment ['relatedto'] activity ['isa'] buzz
+office ['relatedto', 'synonym'] part ['relatedto'] consonant ['relatedto'] buzz
+office ['atlocation'] record ['hasa', 'relatedto'] information ['relatedto'] buzz
+office ['relatedto'] software ['isa'] spark ['relatedto'] buzz
+office ['isa', 'relatedto'] headquarters ['relatedto'] activity ['isa'] buzz
+office ['relatedto'] job ['relatedto'] activity ['isa'] buzz
+office ['relatedto'] job ['relatedto'] rush ['relatedto'] buzz
+office ['antonym'] outside ['atlocation'] bee ['relatedto'] buzz
+office ['atlocation'] basket ['relatedto'] bell ['similarto'] buzz
+office ['atlocation'] basket ['relatedto'] rush ['relatedto'] buzz
+office ['atlocation'] clock ['relatedto'] speed ['relatedto'] buzz
+office ['atlocation'] file ['hasa', 'relatedto'] information ['relatedto'] buzz
+office ['atlocation'] file ['relatedto'] report ['synonym'] buzz
+office ['atlocation'] machine ['relatedto'] bell ['similarto'] buzz
+office ['atlocation'] machine ['relatedto'] energy ['relatedto'] buzz
+office ['atlocation'] machine ['usedfor'] fly ['mannerof', 'relatedto'] buzz
+office ['relatedto', 'atlocation'] phone ['isa'] consonant ['relatedto'] buzz
+office ['relatedto', 'atlocation'] phone ['relatedto'] bell ['similarto'] buzz
+office ['relatedto', 'atlocation'] phone ['relatedto', 'synonym'] sound ['isa', 'mannerof'] buzz
+office ['relatedto', 'atlocation'] phone ['relatedto'] conversation ['relatedto'] buzz
+office ['atlocation'] politics ['isa'] activity ['isa'] buzz
+office ['atlocation'] reception_desk ['usedfor'] information ['relatedto'] buzz
+office ['atlocation'] telephone ['relatedto'] bell ['similarto'] buzz
+office ['atlocation'] telephone ['relatedto'] information ['relatedto'] buzz
+office ['atlocation'] telephone ['relatedto', 'derivedfrom'] telephone_call ['relatedto'] buzz
+office ['atlocation'] telephones ['relatedto'] bell ['similarto'] buzz
+office ['relatedto', 'atlocation'] water_cooler ['atlocation'] conversation ['relatedto'] buzz
+office ['formof', 'relatedto'] offices ['relatedto'] report ['synonym'] buzz
+office ['isa', 'relatedto'] staff ['relatedto', 'synonym'] crew ['relatedto'] buzz
+office ['relatedto'] address ['relatedto'] information ['relatedto'] buzz
+office ['relatedto'] court ['relatedto'] spark ['relatedto'] buzz
+office ['relatedto'] dictograph ['relatedto'] sound ['isa', 'mannerof'] buzz
+office ['relatedto'] dictograph ['relatedto'] conversation ['relatedto'] buzz
+office ['relatedto'] discharge ['relatedto'] shock ['relatedto'] buzz
+office ['relatedto'] discharge ['relatedto', 'synonym'] spark ['relatedto'] buzz

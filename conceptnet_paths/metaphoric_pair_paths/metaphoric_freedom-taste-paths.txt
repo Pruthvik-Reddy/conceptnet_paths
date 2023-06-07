@@ -1,0 +1,100 @@
+freedom ['hasproperty'] good ['relatedto'] taste
+freedom ['hasproperty'] relative ['relatedto'] related ['relatedto'] taste
+freedom ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] taste
+freedom ['relatedto'] rest ['antonym'] using ['relatedto'] taste
+freedom ['relatedto'] rest ['motivatedbygoal'] weak ['relatedto'] taste
+freedom ['relatedto'] rest ['relatedto'] five ['relatedto'] taste
+freedom ['relatedto'] rest ['relatedto'] eating ['relatedto'] taste
+freedom ['relatedto'] rest ['relatedto'] small ['relatedto'] taste
+freedom ['relatedto'] rest ['relatedto'] type ['relatedto'] taste
+freedom ['relatedto'] rest ['relatedto'] rice ['relatedto'] taste
+freedom ['relatedto'] free ['relatedto'] leaf_lard ['relatedto'] taste
+freedom ['relatedto'] allow ['relatedto'] action ['relatedto'] taste
+freedom ['relatedto'] autonomy ['relatedto'] function ['relatedto'] taste
+freedom ['hasproperty'] good ['hasproperty'] human ['relatedto'] taste
+freedom ['hasproperty'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['relatedto'] taste
+freedom ['hasproperty'] good ['capableof'] helping ['partof'] taste
+freedom ['hasproperty'] good ['causes'] eating_vegetables ['usedfor'] taste
+freedom ['hasproperty'] good ['distinctfrom'] poison ['relatedto'] taste
+freedom ['hasproperty'] good ['isa', 'distinctfrom', 'relatedto'] quality ['antonym', 'relatedto'] taste
+freedom ['hasproperty'] good ['isa'] food ['relatedto'] taste
+freedom ['hasproperty'] good ['relatedto'] cake ['relatedto'] taste
+freedom ['hasproperty'] good ['relatedto'] chicken ['relatedto'] taste
+freedom ['hasproperty'] good ['relatedto'] drink ['relatedto'] taste
+freedom ['hasproperty'] good ['relatedto'] example ['relatedto'] taste
+freedom ['hasproperty'] good ['relatedto'] feeling ['relatedto'] taste
+freedom ['hasproperty'] good ['relatedto'] job ['relatedto'] taste
+freedom ['hasproperty'] good ['relatedto'] rank ['relatedto'] taste
+freedom ['hasproperty'] good ['relatedto'] smell ['antonym', 'distinctfrom', 'relatedto'] taste
+freedom ['hasproperty'] good ['relatedto', 'synonym'] sound ['distinctfrom'] taste
+freedom ['hasproperty'] good ['relatedto'] sugar ['relatedto'] taste
+freedom ['relatedto'] right ['antonym'] bad ['relatedto'] taste
+freedom ['relatedto'] right ['relatedto', 'synonym'] good ['relatedto'] taste
+freedom ['relatedto'] right ['distinctfrom'] know ['mannerof'] taste
+freedom ['relatedto'] right ['relatedto'] enjoyment ['relatedto'] taste
+freedom ['relatedto'] bell ['isa'] sound ['distinctfrom'] taste
+freedom ['relatedto'] bell ['partof'] mouth ['relatedto', 'atlocation'] taste
+freedom ['relatedto'] bell ['relatedto'] tongue ['relatedto'] taste
+freedom ['relatedto'] thing ['isa'] action ['relatedto'] taste
+freedom ['relatedto'] thing ['isa'] feeling ['relatedto'] taste
+freedom ['relatedto'] thing ['relatedto'] body ['relatedto'] taste
+freedom ['relatedto'] thing ['relatedto'] job ['relatedto'] taste
+freedom ['relatedto'] thing ['relatedto'] preference ['relatedto', 'synonym'] taste
+freedom ['relatedto'] thing ['relatedto'] quality ['antonym', 'relatedto'] taste
+freedom ['antonym'] cell ['relatedto'] human ['relatedto'] taste
+freedom ['antonym'] cell ['relatedto'] small ['relatedto'] taste
+freedom ['antonym'] cell ['relatedto', 'partof'] body ['relatedto'] taste
+freedom ['antonym'] cell ['relatedto'] type ['relatedto'] taste
+freedom ['antonym'] cell ['relatedto'] chemoreceptor ['relatedto'] taste
+freedom ['antonym'] fate ['relatedto'] judge ['relatedto'] taste
+freedom ['antonym'] jail ['atlocation'] human ['relatedto'] taste
+freedom ['antonym'] jail ['atlocation'] food ['relatedto'] taste
+freedom ['antonym'] oppression ['relatedto'] feeling ['relatedto'] taste
+freedom ['antonym', 'distinctfrom'] slavery ['hasproperty'] bad ['relatedto'] taste
+freedom ['antonym'] servant ['relatedto'] human ['relatedto'] taste
+freedom ['antonym'] servant ['relatedto'] food ['relatedto'] taste
+freedom ['antonym'] servant ['relatedto'] legs ['relatedto'] taste
+freedom ['antonym'] servant ['relatedto'] job ['relatedto'] taste
+freedom ['antonym'] servant ['relatedto'] helping ['partof'] taste
+freedom ['antonym'] servant ['relatedto'] type ['relatedto'] taste
+freedom ['causes'] getting_divorce ['causes'] bitterness ['relatedto'] taste
+freedom ['causes'] getting_divorce ['causes'] tears ['relatedto'] taste
+freedom ['causes'] killing ['hasproperty'] bad ['relatedto'] taste
+freedom ['causes'] killing ['usedfor'] eating ['relatedto'] taste
+freedom ['causes'] killing ['relatedto'] nose ['relatedto'] taste
+freedom ['causes'] killing ['usedfor'] tooth ['relatedto'] taste
+freedom ['causes'] killing ['relatedto'] poison ['relatedto'] taste
+freedom ['derivedfrom'] freedom_ride ['relatedto'] discrimination ['isa'] taste
+freedom ['derivedfrom'] freedom_rider ['relatedto'] discrimination ['isa'] taste
+freedom ['hasprerequisite'] living_life ['hasprerequisite'] food ['relatedto'] taste
+freedom ['hasprerequisite'] living_life ['hasprerequisite'] job ['relatedto'] taste
+freedom ['isa'] abstract_concept ['capableof'] touch ['distinctfrom', 'relatedto'] taste
+freedom ['isa'] belief ['relatedto'] culture ['isa'] taste
+freedom ['isa'] belief ['relatedto', 'synonym'] impression ['synonym'] taste
+freedom ['isa'] dream ['relatedto'] action ['relatedto'] taste
+freedom ['isa'] dream ['relatedto'] sight ['antonym', 'distinctfrom', 'relatedto'] taste
+freedom ['isa'] dream ['relatedto'] bad ['relatedto'] taste
+freedom ['isa'] dream ['relatedto'] good ['relatedto'] taste
+freedom ['isa'] dream ['mannerof'] perceive ['mannerof'] taste
+freedom ['isa'] dream ['relatedto'] experience ['isa', 'relatedto'] taste
+freedom ['isa'] dream ['relatedto'] function ['relatedto'] taste
+freedom ['isa'] emotion ['partof'] human ['relatedto'] taste
+freedom ['isa'] emotion ['relatedto'] bitterness ['relatedto'] taste
+freedom ['isa'] emotion ['relatedto'] feel ['relatedto'] taste
+freedom ['isa'] emotion ['usedfor', 'relatedto', 'synonym', 'createdby', 'isa'] feeling ['relatedto'] taste
+freedom ['isa'] emotion ['relatedto'] flinty ['relatedto'] taste
+freedom ['isa'] emotion ['relatedto'] gust ['relatedto'] taste
+freedom ['isa'] state ['isa'] action ['relatedto'] taste
+freedom ['isa'] state ['atlocation'] human ['relatedto'] taste
+freedom ['isa'] state ['isa'] feeling ['relatedto'] taste
+freedom ['isa'] state ['relatedto'] crude ['relatedto'] taste
+freedom ['isa'] state ['relatedto'] drink ['relatedto'] taste
+freedom ['isa'] book ['isa'] job ['relatedto'] taste
+freedom ['isa'] book ['relatedto'] type ['relatedto'] taste
+freedom ['isa'] book ['usedfor'] culture ['isa'] taste
+freedom ['motivatedbygoal'] obstruct_justice ['motivatedbygoal'] bad ['relatedto'] taste
+freedom ['relatedto'] correctness ['isa'] quality ['antonym', 'relatedto'] taste
+freedom ['relatedto'] democracy ['relatedto'] type ['relatedto'] taste
+freedom ['relatedto'] discretion ['relatedto', 'synonym'] discernment ['relatedto', 'synonym'] taste
+freedom ['relatedto'] discretion ['synonym'] delicacy ['isa', 'relatedto'] taste
+freedom ['relatedto'] easiness ['relatedto'] sense ['isa', 'relatedto'] taste

@@ -1,0 +1,100 @@
+problem ['relatedto'] disease ['relatedto'] attack
+problem ['relatedto'] flea ['antonym'] attack
+problem ['relatedto', 'synonym'] challenge ['relatedto'] attack
+problem ['relatedto'] war ['relatedto'] attack
+problem ['relatedto'] fix ['antonym'] move ['relatedto'] attack
+problem ['relatedto'] fix ['etymologicallyrelatedto'] dig ['relatedto'] attack
+problem ['relatedto'] fix ['relatedto'] design ['relatedto'] attack
+problem ['relatedto'] fix ['relatedto'] action ['relatedto'] attack
+problem ['relatedto'] fix ['relatedto'] put ['relatedto'] attack
+problem ['relatedto'] fix ['relatedto'] put_together ['relatedto'] attack
+problem ['relatedto'] fix ['relatedto'] together ['relatedto'] attack
+problem ['relatedto'] fix ['relatedto'] tool ['relatedto'] attack
+problem ['relatedto'] fix ['relatedto'] zero_day ['relatedto'] attack
+problem ['relatedto'] fix ['synonym'] set ['relatedto'] attack
+problem ['relatedto'] decay ['relatedto'] condition ['relatedto'] attack
+problem ['relatedto'] decay ['relatedto'] go ['relatedto'] attack
+problem ['relatedto'] decay ['relatedto'] transient ['relatedto'] attack
+problem ['relatedto'] affair ['synonym'] action ['relatedto'] attack
+problem ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] attack
+problem ['relatedto'] affair ['relatedto'] event ['relatedto'] attack
+problem ['relatedto'] affair ['relatedto'] two ['relatedto'] attack
+problem ['antonym', 'relatedto'] answer ['isa', 'relatedto'] refutation ['relatedto'] attack
+problem ['antonym', 'relatedto'] answer ['mannerof', 'relatedto'] field ['relatedto'] attack
+problem ['antonym', 'distinctfrom', 'relatedto'] solution ['isa'] set ['relatedto'] attack
+problem ['antonym', 'distinctfrom', 'relatedto'] solution ['relatedto'] gas ['mannerof'] attack
+problem ['antonym', 'distinctfrom', 'relatedto'] solution ['relatedto'] quick ['relatedto'] attack
+problem ['causesdesire'] program ['relatedto'] activity ['relatedto'] attack
+problem ['causesdesire'] program ['relatedto'] command ['relatedto'] attack
+problem ['causesdesire'] program ['relatedto'] fork ['mannerof', 'relatedto'] attack
+problem ['causesdesire'] program ['relatedto'] guard ['antonym'] attack
+problem ['causesdesire'] program ['relatedto'] run ['relatedto'] attack
+problem ['causesdesire'] program ['relatedto'] execution ['isa'] attack
+problem ['causesdesire'] program ['relatedto'] event ['relatedto'] attack
+problem ['causesdesire'] program ['relatedto'] interceptor ['relatedto'] attack
+problem ['causesdesire'] program ['relatedto'] transition ['relatedto'] attack
+problem ['distinctfrom'] good ['relatedto'] act ['mannerof'] attack
+problem ['distinctfrom'] good ['antonym'] pain ['relatedto'] attack
+problem ['distinctfrom'] good ['etymologicallyrelatedto', 'derivedfrom'] goodbye ['relatedto'] attack
+problem ['distinctfrom'] good ['relatedto'] bat ['relatedto'] attack
+problem ['distinctfrom'] good ['relatedto'] dog ['relatedto'] attack
+problem ['distinctfrom'] good ['relatedto'] force ['relatedto'] attack
+problem ['distinctfrom'] good ['relatedto'] manner ['relatedto'] attack
+problem ['distinctfrom'] good ['relatedto'] surprise ['relatedto'] attack
+problem ['distinctfrom'] ok ['relatedto'] emotional ['relatedto'] attack
+problem ['isa', 'relatedto', 'synonym'] case ['relatedto', 'synonym'] action ['relatedto'] attack
+problem ['isa', 'relatedto', 'synonym'] case ['relatedto'] block ['antonym', 'relatedto'] attack
+problem ['isa', 'relatedto', 'synonym'] case ['relatedto'] put ['relatedto'] attack
+problem ['isa', 'relatedto', 'synonym'] case ['relatedto'] condition ['relatedto'] attack
+problem ['isa', 'relatedto', 'synonym'] case ['relatedto', 'synonym'] event ['relatedto'] attack
+problem ['isa', 'relatedto', 'synonym'] case ['relatedto'] challenge ['relatedto'] attack
+problem ['isa'] request ['relatedto'] action ['relatedto'] attack
+problem ['isa'] request ['mannerof', 'relatedto'] apply ['relatedto'] attack
+problem ['isa'] request ['isa'] charge ['isa', 'relatedto'] attack
+problem ['isa'] request ['relatedto'] condition ['relatedto'] attack
+problem ['isa'] request ['isa', 'relatedto'] invitation ['relatedto'] attack
+problem ['isa'] request ['mannerof'] challenge ['relatedto'] attack
+problem ['isa'] request ['relatedto'] move ['relatedto'] attack
+problem ['isa', 'relatedto'] question ['mannerof', 'relatedto', 'entails'] challenge ['relatedto'] attack
+problem ['isa', 'relatedto'] question ['relatedto'] grill ['relatedto'] attack
+problem ['isa', 'relatedto'] difficulty ['isa'] condition ['relatedto'] attack
+problem ['isa', 'relatedto'] difficulty ['relatedto'] hit ['relatedto'] attack
+problem ['isa', 'relatedto'] puzzle ['usedfor'] challenge ['relatedto'] attack
+problem ['isa', 'relatedto'] riddle ['relatedto'] verbal ['relatedto'] attack
+problem ['isa', 'relatedto'] riddle ['relatedto'] pin ['mannerof', 'relatedto'] attack
+problem ['relatedto'] afterclap ['relatedto'] event ['relatedto'] attack
+problem ['relatedto'] ankle_biter ['relatedto'] dog ['relatedto'] attack
+problem ['relatedto'] apple ['relatedto'] round ['synonym'] attack
+problem ['relatedto'] apple ['relatedto'] design ['relatedto'] attack
+problem ['relatedto'] application_software ['relatedto'] set ['relatedto'] attack
+problem ['relatedto'] benign_neglect ['relatedto'] strategy ['relatedto'] attack
+problem ['relatedto'] bind ['relatedto'] guard ['antonym'] attack
+problem ['relatedto'] bitch ['relatedto'] act ['mannerof'] attack
+problem ['relatedto'] bitch ['relatedto'] aggressive ['relatedto'] attack
+problem ['relatedto'] bitch ['distinctfrom', 'relatedto', 'similarto'] dog ['relatedto'] attack
+problem ['relatedto'] brainstorm ['derivedfrom'] storm ['mannerof'] attack
+problem ['relatedto'] break ['antonym', 'distinctfrom'] accelerate ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] action ['relatedto'] attack
+problem ['relatedto'] break ['antonym'] together ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] cease ['antonym'] attack
+problem ['relatedto'] break ['relatedto'] beginning ['isa'] attack
+problem ['relatedto'] break ['antonym'] put ['relatedto'] attack
+problem ['relatedto'] break ['antonym'] put_together ['relatedto'] attack
+problem ['relatedto'] break ['derivedfrom'] breakaway ['relatedto'] attack
+problem ['relatedto'] break ['isa'] stroke ['isa', 'relatedto'] attack
+problem ['relatedto'] break ['isa'] score ['relatedto'] attack
+problem ['relatedto'] break ['isa', 'mannerof', 'relatedto'] snap ['relatedto'] attack
+problem ['relatedto'] break ['mannerof', 'relatedto'] damage ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] hit ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] hurt ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] injury ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] two ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] physical ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] design ['relatedto'] attack
+problem ['relatedto'] break ['relatedto'] force ['relatedto'] attack
+problem ['relatedto'] break ['synonym'] kill ['relatedto'] attack
+problem ['relatedto'] break ['synonym'] thrust ['relatedto', 'synonym'] attack
+problem ['relatedto'] bug ['relatedto'] flea ['antonym'] attack
+problem ['relatedto'] bug ['relatedto'] raid ['mannerof', 'relatedto', 'synonym'] attack
+problem ['relatedto'] business_analyst ['relatedto'] operation ['isa'] attack
+problem ['relatedto'] code_smell ['relatedto'] design ['relatedto'] attack

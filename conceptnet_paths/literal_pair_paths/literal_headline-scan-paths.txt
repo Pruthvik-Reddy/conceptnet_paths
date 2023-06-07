@@ -1,0 +1,100 @@
+headline ['relatedto'] article ['isa'] review ['relatedto'] scan
+headline ['relatedto'] heel ['antonym'] move ['mannerof'] scan
+headline ['relatedto'] bill ['relatedto'] fit ['relatedto'] scan
+headline ['isa', 'relatedto'] news ['relatedto'] print ['antonym'] scan
+headline ['isa', 'relatedto'] news ['relatedto'] read ['synonym'] scan
+headline ['mannerof'] supply ['mannerof'] glass ['mannerof'] scan
+headline ['mannerof'] supply ['relatedto'] fit ['relatedto'] scan
+headline ['mannerof'] supply ['relatedto'] paint ['relatedto'] scan
+headline ['partof', 'atlocation'] newspaper ['atlocation'] copy ['relatedto'] scan
+headline ['partof', 'atlocation'] newspaper ['relatedto', 'atlocation'] print ['antonym'] scan
+headline ['partof', 'atlocation'] newspaper ['relatedto', 'receivesaction'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] new ['antonym'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] new ['relatedto'] move ['mannerof'] scan
+headline ['relatedto'] article ['relatedto'] new ['relatedto'] paint ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] new ['synonym'] raw ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] set ['relatedto'] fit ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] set ['relatedto'] dish ['usedfor'] scan
+headline ['relatedto'] article ['antonym', 'isa', 'relatedto'] column ['isa', 'relatedto'] beam ['usedfor'] scan
+headline ['relatedto'] article ['relatedto', 'atlocation'] newspaper ['atlocation'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'atlocation'] newspaper ['relatedto', 'atlocation'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto', 'atlocation'] newspaper ['relatedto', 'receivesaction'] read ['synonym'] scan
+headline ['relatedto'] article ['formof', 'relatedto'] articles ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['isa', 'relatedto'] piece ['etymologicallyrelatedto'] fit ['relatedto'] scan
+headline ['relatedto'] article ['isa', 'relatedto'] piece ['isa', 'relatedto'] beam ['usedfor'] scan
+headline ['relatedto'] article ['isa', 'relatedto'] piece ['relatedto'] move ['mannerof'] scan
+headline ['relatedto'] article ['isa', 'relatedto'] section ['relatedto'] fit ['relatedto'] scan
+headline ['relatedto'] article ['isa'] breakable ['isa', 'relatedto'] glass ['mannerof'] scan
+headline ['relatedto'] article ['isa'] paper ['relatedto', 'atlocation'] print ['antonym'] scan
+headline ['relatedto'] article ['isa'] paper ['relatedto'] copy ['relatedto'] scan
+headline ['relatedto'] article ['isa'] paper ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['isa'] review ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['isa'] ware ['relatedto'] glass ['mannerof'] scan
+headline ['relatedto'] article ['madeof'] information ['relatedto'] beam ['usedfor'] scan
+headline ['relatedto'] article ['madeof'] information ['relatedto'] review ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['relatedto'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['relatedto'] soft_copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['relatedto'] scanner ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['relatedto'] fax_machine ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['isa'] image ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['relatedto'] browse ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['relatedto'] scanbed ['derivedfrom'] scan
+headline ['relatedto'] article ['relatedto', 'partof'] document ['relatedto'] hard_copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] en ['atlocation'] glass ['mannerof'] scan
+headline ['relatedto'] article ['relatedto'] account ['relatedto'] review ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] block ['relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto'] definite ['relatedto'] specific ['relatedto'] scan
+headline ['relatedto'] article ['relatedto', 'synonym'] essay ['relatedto'] move ['mannerof'] scan
+headline ['relatedto'] article ['relatedto', 'synonym'] item ['relatedto'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] long ['relatedto'] beam ['usedfor'] scan
+headline ['relatedto'] article ['relatedto'] long ['relatedto'] examination ['isa'] scan
+headline ['relatedto'] article ['relatedto'] long ['relatedto'] rake ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] magazine ['relatedto'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] magazine ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] magazines ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] news ['relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto'] news ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] newspaper_writing ['relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto'] newspapers ['relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto'] newspapers ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] newspapers ['relatedto'] review ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] part ['relatedto'] glass ['mannerof'] scan
+headline ['relatedto'] article ['relatedto'] space ['relatedto'] move ['mannerof'] scan
+headline ['relatedto'] article ['relatedto'] speech ['relatedto'] declaim ['mannerof'] scan
+headline ['relatedto'] article ['relatedto'] story ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] text ['isa'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] text ['receivesaction'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] text ['relatedto'] examination ['isa'] scan
+headline ['relatedto'] article ['relatedto'] text ['relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto'] writing ['relatedto'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] writing ['antonym', 'distinctfrom', 'relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto'] writing ['relatedto'] move ['mannerof'] scan
+headline ['relatedto'] article ['relatedto'] writing ['antonym', 'relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] writing ['relatedto'] blanking ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] articulate ['relatedto'] specific ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] member ['relatedto'] beam ['usedfor'] scan
+headline ['relatedto'] article ['relatedto'] report ['relatedto'] review ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] book ['isa', 'relatedto'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] book ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] book ['relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['relatedto'] case ['relatedto'] glass ['mannerof'] scan
+headline ['relatedto'] article ['relatedto'] clipping ['relatedto'] image ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] dress ['relatedto'] fit ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] filler ['isa'] copy ['relatedto'] scan
+headline ['relatedto'] article ['relatedto'] filler ['relatedto'] glass ['mannerof'] scan
+headline ['relatedto'] article ['relatedto'] loom ['relatedto'] beam ['usedfor'] scan
+headline ['relatedto'] article ['relatedto'] must_read ['relatedto'] read ['synonym'] scan
+headline ['relatedto'] article ['relatedto'] referee ['mannerof'] review ['relatedto'] scan
+headline ['relatedto'] article ['synonym'] branch ['relatedto'] image ['relatedto'] scan
+headline ['relatedto'] article ['usedfor'] reading ['relatedto'] print ['antonym'] scan
+headline ['relatedto'] article ['usedfor'] reading ['formof', 'hasprerequisite', 'relatedto', 'derivedfrom'] read ['synonym'] scan
+headline ['relatedto'] article ['usedfor'] reading ['isa'] browse ['relatedto'] scan
+headline ['relatedto'] article ['usedfor'] reading ['isa', 'relatedto'] skim ['synonym'] scan
+headline ['relatedto'] article ['usedfor'] reading ['relatedto'] blanking ['relatedto'] scan
+headline ['relatedto'] article ['usedfor'] reading ['relatedto'] scanning ['formof', 'relatedto'] scan
+headline ['relatedto'] article ['usedfor'] reading ['relatedto'] review ['relatedto'] scan
+headline ['relatedto'] attraction ['relatedto', 'derivedfrom'] attractive ['relatedto'] fit ['relatedto'] scan
+headline ['relatedto'] attraction ['isa'] quality ['relatedto'] fit ['relatedto'] scan
+headline ['relatedto'] attraction ['isa'] quality ['relatedto'] specific ['relatedto'] scan
+headline ['relatedto'] attraction ['isa'] show ['mannerof', 'synonym'] read ['synonym'] scan

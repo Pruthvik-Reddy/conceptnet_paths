@@ -1,0 +1,100 @@
+feeling ['formof', 'relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] anger ['mannerof'] feel ['mannerof'] recapture
+feeling ['relatedto'] sympathetic ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] sense ['relatedto', 'synonym'] feel ['mannerof'] recapture
+feeling ['relatedto'] believe ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] happy ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto', 'synonym'] spirit ['synonym'] feel ['mannerof'] recapture
+feeling ['relatedto'] burn ['mannerof'] feel ['mannerof'] recapture
+feeling ['relatedto'] hand ['isa'] collection ['relatedto'] recapture
+feeling ['relatedto'] hand ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] care ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] effect ['relatedto'] retroactive ['relatedto'] recapture
+feeling ['relatedto'] sad ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] heart ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] fine ['relatedto', 'similarto'] tax ['relatedto'] recapture
+feeling ['relatedto'] cold ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] heat ['relatedto'] feel ['mannerof'] recapture
+feeling ['isa'] complex ['relatedto'] collection ['relatedto'] recapture
+feeling ['relatedto'] fear ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] health ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] enjoy ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] ill ['relatedto'] feel ['mannerof'] recapture
+feeling ['antonym', 'distinctfrom', 'relatedto'] numb ['antonym'] feel ['mannerof'] recapture
+feeling ['antonym', 'isa', 'relatedto'] pain ['antonym', 'relatedto'] feel ['mannerof'] recapture
+feeling ['antonym', 'relatedto', 'synonym'] touch ['antonym', 'mannerof', 'relatedto', 'entails'] feel ['mannerof'] recapture
+feeling ['usedfor', 'relatedto', 'synonym', 'createdby', 'isa'] emotion ['relatedto'] feel ['mannerof'] recapture
+feeling ['formof'] feelin ['relatedto'] feel ['mannerof'] recapture
+feeling ['isa', 'relatedto'] affect ['causes'] feel ['mannerof'] recapture
+feeling ['isa', 'relatedto'] affection ['relatedto'] feel ['mannerof'] recapture
+feeling ['isa', 'relatedto'] intuition ['relatedto'] feel ['mannerof'] recapture
+feeling ['isa'] glow ['mannerof'] feel ['mannerof'] recapture
+feeling ['isa', 'relatedto'] hunger ['relatedto'] feel ['mannerof'] recapture
+feeling ['isa', 'relatedto'] pride ['mannerof'] feel ['mannerof'] recapture
+feeling ['isa', 'relatedto'] sentiment ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] afterfeel ['derivedfrom'] feel ['mannerof'] recapture
+feeling ['relatedto'] content ['isa'] collection ['relatedto'] recapture
+feeling ['relatedto'] feeler ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] happy_sad ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] sensation ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] touching ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] emotional ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto', 'synonym'] impression ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] feelness ['derivedfrom'] feel ['mannerof'] recapture
+feeling ['relatedto'] feelsome ['relatedto', 'derivedfrom'] feel ['mannerof'] recapture
+feeling ['relatedto'] guilt ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] nerve ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] nonfeeling ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] oil ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] pity ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] put_something_behind_one ['relatedto'] recover ['synonym'] recapture
+feeling ['relatedto'] regret ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] rub ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] sensibility ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] taste ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] underfeel ['derivedfrom'] feel ['mannerof'] recapture
+feeling ['relatedto'] unfeel ['derivedfrom'] feel ['mannerof'] recapture
+feeling ['relatedto'] unfelt ['relatedto'] feel ['mannerof'] recapture
+feeling ['synonym'] aura ['relatedto'] seizure ['isa'] recapture
+feeling ['relatedto'] abstract_noun ['relatedto', 'derivedfrom'] abstract ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] abstract_noun ['relatedto'] emotion ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] abstract_noun ['relatedto'] quality ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] peace ['antonym', 'relatedto'] violence ['relatedto'] rescue ['synonym'] recapture
+feeling ['relatedto'] peace ['hasproperty'] elusive ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+feeling ['relatedto'] peace ['relatedto'] charity ['relatedto'] tax ['relatedto'] recapture
+feeling ['relatedto'] peace ['relatedto'] happy ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] peace ['relatedto'] empathy ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] peace ['relatedto'] fingers ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] peace ['relatedto'] human ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] peace ['relatedto', 'synonym'] rest ['relatedto'] recover ['synonym'] recapture
+feeling ['relatedto'] peace ['relatedto', 'synonym'] rest ['relatedto'] recovery ['isa'] recapture
+feeling ['relatedto'] peace ['relatedto'] piece ['partof'] collection ['relatedto'] recapture
+feeling ['relatedto'] peace ['relatedto'] truage ['relatedto'] tax ['relatedto'] recapture
+feeling ['relatedto'] disdain ['relatedto'] pride ['mannerof'] feel ['mannerof'] recapture
+feeling ['relatedto'] safe ['antonym', 'distinctfrom', 'relatedto'] danger ['relatedto'] rescue ['synonym'] recapture
+feeling ['relatedto'] safe ['distinctfrom'] drop ['relatedto'] collection ['relatedto'] recapture
+feeling ['relatedto'] safe ['distinctfrom'] fear ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] safe ['relatedto'] account ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+feeling ['relatedto'] safe ['relatedto'] combination ['isa'] collection ['relatedto'] recapture
+feeling ['relatedto'] safe ['relatedto'] guard ['relatedto'] recovery ['isa'] recapture
+feeling ['relatedto'] safe ['relatedto'] metal ['relatedto'] recovery ['isa'] recapture
+feeling ['relatedto'] safe ['relatedto'] money ['antonym', 'relatedto'] tax ['relatedto'] recapture
+feeling ['relatedto'] safe ['relatedto'] save ['mannerof', 'relatedto', 'synonym'] rescue ['synonym'] recapture
+feeling ['relatedto'] safe ['relatedto'] untaint ['relatedto'] tax ['relatedto'] recapture
+feeling ['relatedto'] safe ['relatedto'] wardrobe ['isa', 'relatedto'] collection ['relatedto'] recapture
+feeling ['relatedto'] negative ['isa', 'usedfor'] film ['relatedto'] retake ['synonym'] recapture
+feeling ['relatedto'] negative ['relatedto'] anger ['mannerof'] feel ['mannerof'] recapture
+feeling ['relatedto'] negative ['relatedto'] charge ['mannerof', 'relatedto'] tax ['relatedto'] recapture
+feeling ['relatedto'] negative ['relatedto'] debt ['relatedto'] collection ['relatedto'] recapture
+feeling ['relatedto'] negative ['relatedto'] debt ['relatedto'] tax ['relatedto'] recapture
+feeling ['relatedto'] negative ['relatedto'] fear ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] negative ['relatedto'] emotion ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] negative ['relatedto'] withholding ['relatedto'] tax ['relatedto'] recapture
+feeling ['relatedto'] negative ['relatedto'] nerve ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] negative ['relatedto'] pain ['antonym', 'relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] negative ['relatedto'] put_something_behind_one ['relatedto'] recover ['synonym'] recapture
+feeling ['relatedto'] negative ['relatedto'] regret ['relatedto'] feel ['mannerof'] recapture
+feeling ['relatedto'] afterglow ['relatedto', 'derivedfrom'] glow ['mannerof'] feel ['mannerof'] recapture
+feeling ['relatedto'] afterglow ['relatedto'] experience ['mannerof', 'relatedto', 'synonym'] feel ['mannerof'] recapture
+feeling ['relatedto'] afterglow ['relatedto'] experience ['relatedto'] collection ['relatedto'] recapture
+feeling ['relatedto'] agony ['atlocation'] human ['relatedto'] feel ['mannerof'] recapture

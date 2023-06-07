@@ -1,0 +1,100 @@
+way ['synonym'] advance ['relatedto'] sere ['relatedto'] claw
+way ['relatedto'] anticlastic ['relatedto'] curved ['relatedto'] claw
+way ['relatedto'] bed ['relatedto'] holder ['isa'] claw
+way ['relatedto'] small ['relatedto'] toe ['relatedto'] claw
+way ['relatedto'] small ['relatedto'] crab ['relatedto'] claw
+way ['relatedto'] small ['relatedto'] foot ['relatedto'] claw
+way ['relatedto'] small ['relatedto'] sharp ['relatedto'] claw
+way ['relatedto'] tunnel ['relatedto'] animal ['relatedto'] claw
+way ['synonym'] long ['relatedto'] foot ['relatedto'] claw
+way ['relatedto'] term ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] castle ['relatedto'] ball ['relatedto'] claw
+way ['atlocation'] cat ['isa', 'relatedto'] animal ['relatedto'] claw
+way ['atlocation'] cat ['capableof', 'relatedto'] scratch ['mannerof', 'relatedto'] claw
+way ['atlocation'] cat ['derivedfrom'] catclaw ['derivedfrom'] claw
+way ['atlocation'] cat ['formof', 'relatedto'] cats ['capableof'] claw
+way ['atlocation'] cat ['hasa', 'relatedto'] claws ['formof', 'relatedto'] claw
+way ['atlocation'] cat ['relatedto'] paws ['relatedto'] claw
+way ['atlocation'] cat ['relatedto'] spanish_tickler ['relatedto'] claw
+way ['relatedto'] state ['relatedto'] process ['relatedto'] claw
+way ['relatedto'] sun ['relatedto'] ball ['relatedto'] claw
+way ['relatedto'] sun ['relatedto'] digit ['relatedto'] claw
+way ['isa', 'relatedto'] condition ['relatedto'] attack ['mannerof'] claw
+way ['relatedto'] cross ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] cross ['relatedto'] points ['relatedto'] claw
+way ['relatedto'] cross ['relatedto'] hook ['synonym'] claw
+way ['relatedto'] print ['relatedto'] foot ['relatedto'] claw
+way ['relatedto'] print ['relatedto'] process ['relatedto'] claw
+way ['relatedto'] life ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] live ['capableof', 'relatedto'] animal ['relatedto'] claw
+way ['relatedto'] high ['relatedto'] hook ['synonym'] claw
+way ['relatedto'] high ['synonym'] sharp ['relatedto'] claw
+way ['relatedto'] degree ['relatedto'] sharp ['relatedto'] claw
+way ['isa', 'relatedto', 'synonym'] distance ['relatedto'] points ['relatedto'] claw
+way ['isa'] eating ['capableof'] animal ['relatedto'] claw
+way ['relatedto'] drive ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] drive ['synonym'] attack ['mannerof'] claw
+way ['relatedto'] drive ['relatedto'] ball ['relatedto'] claw
+way ['relatedto'] drive ['relatedto'] nail ['relatedto'] claw
+way ['relatedto'] entrance ['relatedto'] catch ['relatedto'] claw
+way ['relatedto'] much ['relatedto'] animal ['relatedto'] claw
+way ['relatedto', 'synonym'] pass ['relatedto'] ball ['relatedto'] claw
+way ['relatedto'] general ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] cradle ['relatedto'] ball ['relatedto'] claw
+way ['usedfor'] tail ['relatedto'] animal ['relatedto'] claw
+way ['usedfor'] tail ['antonym'] toe ['relatedto'] claw
+way ['usedfor'] tail ['isa', 'relatedto'] appendage ['relatedto'] claw
+way ['usedfor'] tail ['isa'] process ['relatedto'] claw
+way ['usedfor'] tail ['relatedto'] cats ['capableof'] claw
+way ['atlocation'] weasel ['relatedto'] kamaitachi ['relatedto'] claw
+way ['derivedfrom'] footway ['derivedfrom'] foot ['relatedto'] claw
+way ['derivedfrom'] wayfinding ['relatedto'] process ['relatedto'] claw
+way ['derivedfrom'] waylay ['relatedto'] attack ['mannerof'] claw
+way ['isa', 'relatedto'] access ['relatedto'] attack ['mannerof'] claw
+way ['isa'] running ['usedfor'] foot ['relatedto'] claw
+way ['isa'] category ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] anything ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] issue ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] issue ['relatedto'] process ['relatedto'] claw
+way ['relatedto', 'synonym'] manner ['relatedto'] attack ['mannerof'] claw
+way ['relatedto', 'synonym'] manner ['relatedto'] hammer ['partof'] claw
+way ['relatedto', 'synonym'] method ['relatedto'] process ['relatedto'] claw
+way ['relatedto'] rase ['relatedto'] scratch ['mannerof', 'relatedto'] claw
+way ['relatedto'] represent ['relatedto'] digit ['relatedto'] claw
+way ['relatedto'] river ['isa'] lawe ['relatedto'] claw
+way ['relatedto'] side ['relatedto'] attack ['mannerof'] claw
+way ['relatedto', 'synonym'] street ['atlocation'] ball ['relatedto'] claw
+way ['relatedto'] system ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] system ['relatedto'] digit ['relatedto'] claw
+way ['relatedto'] thought ['relatedto'] process ['relatedto'] claw
+way ['relatedto', 'synonym'] tread ['relatedto'] foot ['relatedto'] claw
+way ['relatedto', 'synonym'] alley ['usedfor'] cats ['capableof'] claw
+way ['relatedto'] general_term ['relatedto'] animal ['relatedto'] claw
+way ['relatedto'] nature ['relatedto', 'partof'] animal ['relatedto'] claw
+way ['relatedto'] travel ['relatedto'] catch ['relatedto'] claw
+way ['synonym'] approach ['synonym'] attack ['mannerof'] claw
+way ['synonym'] artery ['atlocation'] animal ['relatedto'] claw
+way ['synonym'] device ['relatedto'] ball ['relatedto'] claw
+way ['synonym'] device ['relatedto'] hammer ['partof'] claw
+way ['synonym'] device ['relatedto'] spanish_tickler ['relatedto'] claw
+way ['synonym'] step ['relatedto'] sharp ['relatedto'] claw
+way ['synonym'] step ['relatedto'] foot ['relatedto'] claw
+way ['synonym'] advance ['relatedto', 'synonym'] accelerate ['relatedto'] process ['relatedto'] claw
+way ['synonym'] advance ['relatedto', 'synonym'] accelerate ['relatedto'] attack ['mannerof'] claw
+way ['synonym'] advance ['relatedto'] addition ['synonym'] appendage ['relatedto'] claw
+way ['synonym'] advance ['antonym', 'relatedto'] payment ['relatedto'] process ['relatedto'] claw
+way ['synonym'] advance ['antonym', 'distinctfrom'] retreat ['antonym', 'distinctfrom'] attack ['mannerof'] claw
+way ['synonym'] advance ['relatedto', 'synonym', 'entails'] approach ['synonym'] attack ['mannerof'] claw
+way ['synonym'] advance ['isa'] increase ['isa'] process ['relatedto'] claw
+way ['synonym'] advance ['mannerof', 'relatedto'] move ['relatedto'] animal ['relatedto'] claw
+way ['synonym'] advance ['mannerof', 'relatedto'] move ['relatedto'] attack ['mannerof'] claw
+way ['synonym'] advance ['mannerof', 'relatedto'] move ['relatedto'] fingertip ['relatedto'] claw
+way ['synonym'] advance ['mannerof'] set ['relatedto'] attack ['mannerof'] claw
+way ['synonym'] advance ['mannerof'] set ['relatedto'] process ['relatedto'] claw
+way ['synonym'] advance ['mannerof'] set ['relatedto'] nail ['relatedto'] claw
+way ['synonym'] advance ['mannerof'] set ['relatedto'] toe ['relatedto'] claw
+way ['synonym'] advance ['mannerof'] travel ['relatedto'] catch ['relatedto'] claw
+way ['synonym'] advance ['mannerof'] edge ['relatedto'] ball ['relatedto'] claw
+way ['synonym'] advance ['mannerof'] edge ['relatedto'] extremity ['isa'] claw
+way ['synonym'] advance ['mannerof'] edge ['relatedto'] points ['relatedto'] claw
+way ['synonym'] advance ['mannerof'] edge ['relatedto'] sharp ['relatedto'] claw

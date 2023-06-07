@@ -1,0 +1,100 @@
+composure ['synonym'] calm ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+composure ['synonym'] head ['relatedto'] trim ['relatedto'] ruffle
+composure ['relatedto'] mind ['relatedto'] chafe ['relatedto'] ruffle
+composure ['synonym'] calmness ['antonym'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calmness ['distinctfrom'] agitation ['relatedto'] ruffle
+composure ['derivedfrom'] discomposure ['synonym'] disturbance ['relatedto'] ruffle
+composure ['relatedto'] discompose ['synonym'] disturb ['relatedto', 'synonym'] ruffle
+composure ['relatedto'] discompose ['synonym'] unsettle ['synonym'] ruffle
+composure ['relatedto'] disconcert ['synonym'] disturb ['relatedto', 'synonym'] ruffle
+composure ['relatedto'] embarrass ['synonym'] annoy ['mannerof'] ruffle
+composure ['synonym'] calm ['antonym'] nervous ['relatedto'] choker ['synonym'] ruffle
+composure ['synonym'] calm ['antonym'] agitated ['derivedfrom'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] disturbed ['formof'] disturb ['relatedto', 'synonym'] ruffle
+composure ['synonym'] calm ['antonym'] disturbed ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] flustered ['formof', 'relatedto', 'derivedfrom'] fluster ['mannerof'] ruffle
+composure ['synonym'] calm ['antonym'] frustrated ['relatedto'] egg ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] panic ['relatedto'] fluster ['mannerof'] ruffle
+composure ['synonym'] calm ['antonym'] panic ['relatedto'] genus ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] rough ['formof', 'etymologicallyrelatedto'] ruff ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] stormy ['relatedto'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] irritation ['relatedto'] annoy ['mannerof'] ruffle
+composure ['synonym'] calm ['antonym'] overwrought ['relatedto'] fluster ['mannerof'] ruffle
+composure ['synonym'] calm ['antonym'] rush ['relatedto'] genus ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym', 'distinctfrom'] trouble ['relatedto', 'synonym'] annoy ['mannerof'] ruffle
+composure ['synonym'] calm ['antonym', 'distinctfrom'] trouble ['synonym'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym', 'distinctfrom'] trouble ['relatedto', 'synonym'] disturb ['relatedto', 'synonym'] ruffle
+composure ['synonym'] calm ['antonym'] upset ['isa', 'relatedto', 'synonym'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] upset ['relatedto'] choker ['synonym'] ruffle
+composure ['synonym'] calm ['antonym'] upset ['relatedto', 'synonym'] disturb ['relatedto', 'synonym'] ruffle
+composure ['synonym'] calm ['antonym'] upset ['relatedto', 'synonym'] unsettle ['synonym'] ruffle
+composure ['synonym'] calm ['antonym'] wave ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] wave ['relatedto', 'synonym'] roll ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym'] wave ['isa', 'relatedto'] ripple ['synonym'] ruffle
+composure ['synonym'] calm ['antonym'] wave ['relatedto', 'similarto'] flutter ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym', 'relatedto'] wind ['synonym'] roll ['relatedto'] ruffle
+composure ['synonym'] calm ['antonym', 'relatedto'] wind ['relatedto'] beat ['relatedto'] ruffle
+composure ['synonym'] calm ['mannerof', 'synonym'] pacify ['relatedto'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] emotion ['synonym'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] feeling ['isa', 'relatedto'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] mind ['relatedto'] chafe ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto', 'synonym'] quiet ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+composure ['synonym'] calm ['relatedto'] relax ['mannerof', 'synonym'] loosen ['mannerof'] ruffle
+composure ['synonym'] calm ['relatedto'] sea ['relatedto'] marine ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] serene ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] serenity ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] serenity ['distinctfrom', 'relatedto'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] smooth ['antonym'] ruff ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] smooth ['relatedto'] unruffle ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] state ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+composure ['synonym'] calm ['relatedto'] weather ['relatedto'] beat ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] disturbance ['relatedto', 'derivedfrom'] disturb ['relatedto', 'synonym'] ruffle
+composure ['synonym'] calm ['relatedto'] disturbance ['isa', 'relatedto'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] disturbance ['isa', 'relatedto', 'synonym'] commotion ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] disturbance ['relatedto'] ripple ['synonym'] ruffle
+composure ['synonym'] calm ['relatedto'] disturbance ['synonym'] affray ['synonym'] ruffle
+composure ['synonym'] calm ['relatedto'] disturbance ['synonym'] flutter ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] noise ['relatedto', 'synonym'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] storm ['isa'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] worry ['relatedto', 'synonym'] annoy ['mannerof'] ruffle
+composure ['synonym'] calm ['relatedto'] worry ['relatedto', 'similarto', 'synonym'] disturb ['relatedto', 'synonym'] ruffle
+composure ['synonym'] calm ['relatedto'] worry ['synonym'] unsettle ['synonym'] ruffle
+composure ['synonym'] calm ['relatedto'] worry ['relatedto'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] calmness ['antonym'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] calmness ['distinctfrom'] agitation ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] disturb ['relatedto', 'synonym'] annoy ['mannerof'] ruffle
+composure ['synonym'] calm ['relatedto'] disturb ['relatedto', 'derivedfrom'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto'] disturb ['synonym'] disarrange ['mannerof'] ruffle
+composure ['synonym'] calm ['relatedto'] disturb ['synonym'] unsettle ['synonym'] ruffle
+composure ['synonym'] calm ['relatedto'] quietness ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['synonym'] calm ['relatedto', 'similarto', 'synonym'] unruffled ['relatedto', 'derivedfrom'] ruffled ['formof', 'relatedto'] ruffle
+composure ['synonym'] calm ['synonym'] collected ['synonym'] gathered ['relatedto'] ruffle
+composure ['isa'] repose ['relatedto'] house ['relatedto'] egg ['relatedto'] ruffle
+composure ['isa'] repose ['relatedto', 'synonym'] lay ['relatedto'] egg ['relatedto'] ruffle
+composure ['isa'] repose ['relatedto'] indisturbance ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['isa'] repose ['relatedto'] calmness ['antonym'] disturbance ['relatedto'] ruffle
+composure ['isa'] repose ['relatedto'] calmness ['distinctfrom'] agitation ['relatedto'] ruffle
+composure ['isa'] repose ['relatedto'] ease ['relatedto', 'synonym'] loosen ['mannerof'] ruffle
+composure ['isa'] repose ['relatedto'] quietness ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['isa'] repose ['synonym'] quiet ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+composure ['isa'] repose ['synonym'] relax ['mannerof', 'synonym'] loosen ['mannerof'] ruffle
+composure ['isa'] repose ['synonym'] serenity ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['isa'] repose ['synonym'] serenity ['distinctfrom', 'relatedto'] agitation ['relatedto'] ruffle
+composure ['isa'] repose ['synonym'] tranquillity ['relatedto'] disturbance ['relatedto'] ruffle
+composure ['isa'] repose ['synonym'] tranquillity ['relatedto'] agitation ['relatedto'] ruffle
+composure ['synonym'] head ['antonym'] base ['relatedto'] american ['relatedto'] ruffle
+composure ['synonym'] head ['mannerof', 'relatedto'] remove ['mannerof'] flick ['synonym'] ruffle
+composure ['synonym'] head ['mannerof', 'relatedto'] remove ['relatedto'] trim ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto'] human ['relatedto'] species ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto', 'partof'] animal ['relatedto'] beat ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto', 'partof'] animal ['relatedto'] species ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto', 'partof'] animal ['relatedto'] egg ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto', 'partof'] animal ['relatedto'] ruff ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto'] house ['relatedto'] egg ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto'] apple ['relatedto'] american ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto'] leave ['relatedto'] roll ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto'] column ['usedfor', 'relatedto'] decoration ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto'] ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto'] ball ['relatedto'] egg ['relatedto'] ruffle
+composure ['synonym'] head ['relatedto'] balloon ['usedfor', 'relatedto'] decoration ['relatedto'] ruffle

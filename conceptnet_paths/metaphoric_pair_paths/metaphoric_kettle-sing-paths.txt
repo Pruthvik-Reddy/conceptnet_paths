@@ -1,0 +1,100 @@
+kettle ['usedfor', 'relatedto', 'atlocation'] water ['atlocation'] splash ['etymologicallyrelatedto'] sing
+kettle ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] mermaid ['relatedto'] sing
+kettle ['relatedto'] tell ['relatedto'] utter ['mannerof'] sing
+kettle ['hasa'] handle ['relatedto'] place ['mannerof', 'relatedto'] sing
+kettle ['hasa'] handle ['relatedto'] tweedle ['mannerof'] sing
+kettle ['usedfor'] boil ['relatedto'] gathering ['relatedto'] sing
+kettle ['usedfor'] hold ['relatedto'] belt ['relatedto'] sing
+kettle ['relatedto'] tea ['relatedto'] splosh ['etymologicallyrelatedto'] sing
+kettle ['relatedto'] making ['relatedto'] bird ['capableof'] sing
+kettle ['relatedto'] making ['relatedto'] blow ['relatedto'] sing
+kettle ['relatedto'] making ['relatedto'] talk ['antonym', 'mannerof'] sing
+kettle ['relatedto'] making ['relatedto'] dance ['antonym', 'relatedto'] sing
+kettle ['relatedto'] making ['relatedto'] double ['distinctfrom'] sing
+kettle ['relatedto'] making ['relatedto'] voice ['usedfor', 'relatedto'] sing
+kettle ['relatedto'] making ['relatedto'] organize ['relatedto'] sing
+kettle ['relatedto'] making ['relatedto'] practice ['hasprerequisite'] sing
+kettle ['relatedto'] making ['relatedto'] produce ['relatedto'] sing
+kettle ['relatedto'] making ['relatedto'] sign ['relatedto'] sing
+kettle ['relatedto'] making ['relatedto'] sound ['relatedto'] sing
+kettle ['atlocation'] spout ['relatedto'] blow ['relatedto'] sing
+kettle ['relatedto', 'atlocation'] kitchen ['isa'] place ['mannerof', 'relatedto'] sing
+kettle ['relatedto'] steam ['relatedto'] produce ['relatedto'] sing
+kettle ['relatedto'] steam ['relatedto'] singing ['formof', 'relatedto', 'synonym'] sing
+kettle ['relatedto'] vessel ['partof'] bow ['haslastsubevent'] sing
+kettle ['isa'] percussion_instrument ['relatedto'] sound ['relatedto'] sing
+kettle ['relatedto', 'synonym'] kettledrum ['relatedto'] tune ['relatedto'] sing
+kettle ['relatedto'] quantity ['relatedto'] quiet ['haslastsubevent'] sing
+kettle ['relatedto'] quantity ['relatedto'] double ['distinctfrom'] sing
+kettle ['relatedto'] raptor ['isa'] bird ['capableof'] sing
+kettle ['relatedto'] old ['relatedto'] child ['desires'] love ['causesdesire'] sing
+kettle ['relatedto'] old ['relatedto'] child ['relatedto'] place ['mannerof', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] adjective ['relatedto'] double ['distinctfrom'] sing
+kettle ['relatedto'] old ['relatedto'] adjective ['relatedto'] happy ['motivatedbygoal'] sing
+kettle ['relatedto'] old ['relatedto'] adjective ['relatedto'] quiet ['haslastsubevent'] sing
+kettle ['relatedto'] old ['relatedto'] grow ['relatedto'] activity ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] grow ['synonym'] produce ['relatedto'] sing
+kettle ['relatedto'] old ['antonym', 'relatedto'] baby ['relatedto'] bird ['capableof'] sing
+kettle ['relatedto'] old ['antonym', 'relatedto'] baby ['relatedto'] sound ['relatedto'] sing
+kettle ['relatedto'] old ['antonym', 'relatedto'] baby ['synonym'] love ['causesdesire'] sing
+kettle ['relatedto'] old ['antonym', 'distinctfrom'] current ['relatedto'] blow ['relatedto'] sing
+kettle ['relatedto'] old ['antonym', 'distinctfrom'] current ['relatedto'] place ['mannerof', 'relatedto'] sing
+kettle ['relatedto'] old ['antonym', 'distinctfrom'] fresh ['relatedto'] love ['causesdesire'] sing
+kettle ['relatedto'] old ['antonym', 'distinctfrom'] fresh ['relatedto'] produce ['relatedto'] sing
+kettle ['relatedto'] old ['antonym', 'distinctfrom'] modern ['relatedto'] dance ['antonym', 'relatedto'] sing
+kettle ['relatedto'] old ['antonym', 'distinctfrom'] news ['relatedto'] talking ['relatedto'] sing
+kettle ['relatedto'] old ['antonym', 'distinctfrom', 'relatedto'] young ['capableof'] enjoy ['motivatedbygoal'] sing
+kettle ['relatedto'] old ['derivedfrom'] old_hand ['relatedto'] activity ['relatedto'] sing
+kettle ['relatedto'] old ['derivedfrom'] old_testament ['partof'] psalm ['mannerof'] sing
+kettle ['relatedto'] old ['relatedto', 'derivedfrom'] oldie ['isa', 'relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+kettle ['relatedto'] old ['formof', 'relatedto'] elder ['relatedto'] church ['usedfor'] sing
+kettle ['relatedto'] old ['isa', 'relatedto'] past ['relatedto'] double ['distinctfrom'] sing
+kettle ['relatedto'] old ['motivatedbygoal', 'relatedto'] die ['relatedto'] stop ['haslastsubevent'] sing
+kettle ['relatedto'] old ['motivatedbygoal', 'relatedto'] die ['motivatedbygoal'] hear_singing ['hasprerequisite'] sing
+kettle ['relatedto'] old ['relatedto', 'similarto', 'synonym'] ancient ['relatedto'] bard ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] birthday ['antonym', 'relatedto'] happy ['motivatedbygoal'] sing
+kettle ['relatedto'] old ['relatedto'] birthday ['relatedto'] blow ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] birthday ['relatedto'] love ['causesdesire'] sing
+kettle ['relatedto'] old ['relatedto'] birthday ['relatedto'] singing ['formof', 'relatedto', 'synonym'] sing
+kettle ['relatedto'] old ['relatedto'] birthday ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] candle ['atlocation'] church ['usedfor'] sing
+kettle ['relatedto'] old ['relatedto'] candle ['relatedto'] blow ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] canon ['relatedto'] church ['usedfor'] sing
+kettle ['relatedto'] old ['relatedto'] canon ['relatedto'] voice ['usedfor', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] canon ['relatedto'] music ['causesdesire', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] canon ['relatedto'] melody ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] carriage ['isa'] double ['distinctfrom'] sing
+kettle ['relatedto'] old ['relatedto'] castle ['relatedto'] place ['mannerof', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] cathedral ['isa', 'relatedto'] church ['usedfor'] sing
+kettle ['relatedto'] old ['relatedto'] cathedral ['relatedto'] music ['causesdesire', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] cathedral ['relatedto'] place ['mannerof', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] chicken ['isa', 'relatedto'] bird ['capableof'] sing
+kettle ['relatedto'] old ['relatedto'] chicken ['relatedto'] singe ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] council ['usedfor'] talking ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] crypt ['relatedto'] church ['usedfor'] sing
+kettle ['relatedto'] old ['relatedto'] crypt ['relatedto'] place ['mannerof', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] dog ['relatedto'] bow ['haslastsubevent'] sing
+kettle ['relatedto'] old ['relatedto'] dog ['isa'] joy ['causesdesire'] sing
+kettle ['relatedto'] old ['relatedto'] dog ['relatedto'] whistle ['synonym'] sing
+kettle ['relatedto'] old ['relatedto'] dog ['usedfor'] love ['causesdesire'] sing
+kettle ['relatedto'] old ['relatedto'] duel ['relatedto'] double ['distinctfrom'] sing
+kettle ['relatedto'] old ['relatedto'] empire ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] farm ['relatedto'] gathering ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] farm ['relatedto'] place ['mannerof', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] farm ['relatedto'] produce ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] fire ['relatedto'] produce ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] fire ['relatedto'] performance ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] flag ['relatedto'] voice ['usedfor', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] flag ['mannerof', 'relatedto'] sign ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] foxtrot ['mannerof', 'relatedto'] dance ['antonym', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] glory ['relatedto'] happy ['motivatedbygoal'] sing
+kettle ['relatedto'] old ['relatedto'] glory ['relatedto'] joy ['causesdesire'] sing
+kettle ['relatedto'] old ['relatedto'] god ['relatedto', 'atlocation'] church ['usedfor'] sing
+kettle ['relatedto'] old ['relatedto'] god ['capableof', 'isa', 'definedas'] love ['causesdesire'] sing
+kettle ['relatedto'] old ['relatedto'] god ['relatedto'] paean ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] harpsichord ['usedfor', 'relatedto'] music ['causesdesire', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] harpsichord ['relatedto'] musical ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] harpsichord ['relatedto'] choir ['capableof', 'mannerof', 'relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] hold ['relatedto'] belt ['relatedto'] sing
+kettle ['relatedto'] old ['relatedto'] horsehair ['relatedto'] bow ['haslastsubevent'] sing
+kettle ['relatedto'] old ['relatedto'] inn ['relatedto'] place ['mannerof', 'relatedto'] sing

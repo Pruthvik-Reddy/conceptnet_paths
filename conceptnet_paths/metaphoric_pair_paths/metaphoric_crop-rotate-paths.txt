@@ -1,0 +1,100 @@
+crop ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] rotation ['relatedto', 'derivedfrom'] rotate
+crop ['relatedto'] action ['relatedto'] spin ['isa', 'relatedto'] rotate
+crop ['relatedto'] action ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] action ['relatedto'] rolling_block ['relatedto'] rotate
+crop ['relatedto'] action ['relatedto', 'synonym'] turn ['mannerof', 'relatedto', 'synonym'] rotate
+crop ['relatedto'] action ['relatedto'] twist ['relatedto'] rotate
+crop ['relatedto'] smaller ['antonym', 'relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] smaller ['relatedto'] grind ['relatedto'] rotate
+crop ['relatedto'] grow ['synonym'] turn ['mannerof', 'relatedto', 'synonym'] rotate
+crop ['relatedto'] land ['relatedto', 'partof', 'synonym', 'atlocation'] earth ['capableof'] rotate
+crop ['relatedto'] land ['distinctfrom'] takeoff ['relatedto'] rotate
+crop ['relatedto'] land ['relatedto'] roller ['relatedto'] rotate
+crop ['relatedto'] bird ['relatedto', 'partof', 'atlocation'] feather ['relatedto'] rotate
+crop ['relatedto'] bird ['isa', 'relatedto'] roller ['relatedto'] rotate
+crop ['isa', 'relatedto'] plant ['capableof', 'relatedto', 'synonym'] grow ['mannerof'] rotate
+crop ['isa', 'relatedto'] plant ['relatedto'] earth ['capableof'] rotate
+crop ['relatedto'] plants ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] fertile ['relatedto'] earth ['capableof'] rotate
+crop ['mannerof'] bear ['relatedto'] pole ['relatedto'] rotate
+crop ['relatedto'] set_aside ['relatedto'] advance ['relatedto'] rotate
+crop ['relatedto'] big ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] big ['relatedto'] earth ['capableof'] rotate
+crop ['isa'] handle ['relatedto'] crank ['mannerof'] rotate
+crop ['isa'] handle ['relatedto'] noisemaker ['relatedto'] rotate
+crop ['isa'] handle ['relatedto'] turn ['mannerof', 'relatedto', 'synonym'] rotate
+crop ['relatedto'] green ['etymologicallyrelatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] green ['relatedto'] earth ['capableof'] rotate
+crop ['relatedto'] term ['partof'] sequence ['relatedto'] rotate
+crop ['relatedto'] catch ['relatedto'] serve ['mannerof'] rotate
+crop ['relatedto'] cash ['relatedto'] advance ['relatedto'] rotate
+crop ['relatedto'] grown ['formof', 'relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] farm ['relatedto', 'synonym'] grow ['mannerof'] rotate
+crop ['antonym'] expand ['mannerof', 'relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] agricultural ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] agricultural ['relatedto'] roller ['relatedto'] rotate
+crop ['relatedto'] seed ['capableof', 'relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] seed ['relatedto'] cone ['relatedto'] rotate
+crop ['isa', 'relatedto'] cotton ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto', 'derivedfrom'] crop_rotation ['derivedfrom'] rotation ['relatedto', 'derivedfrom'] rotate
+crop ['isa'] body_part ['isa'] joint ['relatedto'] rotate
+crop ['mannerof', 'relatedto'] feed ['relatedto'] serve ['mannerof'] rotate
+crop ['mannerof', 'relatedto'] cut ['mannerof'] grow ['mannerof'] rotate
+crop ['mannerof', 'relatedto'] cut ['relatedto'] arbor ['relatedto'] rotate
+crop ['mannerof', 'relatedto'] cut ['relatedto'] spin ['isa', 'relatedto'] rotate
+crop ['mannerof', 'relatedto'] cut ['relatedto'] twist_drill ['relatedto'] rotate
+crop ['relatedto'] arable ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] casting ['relatedto'] feather ['relatedto'] rotate
+crop ['relatedto'] casting ['relatedto'] thixomolding ['relatedto'] rotate
+crop ['relatedto'] farmer ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] field ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] field ['relatedto'] angular_momentum ['relatedto'] rotate
+crop ['relatedto'] grain ['relatedto'] traverse ['relatedto'] rotate
+crop ['relatedto'] growing ['formof'] grow ['mannerof'] rotate
+crop ['relatedto'] grows ['formof', 'relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] growth ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] grow ['mannerof'] rotate
+crop ['relatedto'] meaning ['relatedto'] twist ['relatedto'] rotate
+crop ['relatedto'] name ['relatedto'] earth ['capableof'] rotate
+crop ['relatedto'] planting ['relatedto'] arbor ['relatedto'] rotate
+crop ['relatedto'] produce ['synonym'] grow ['mannerof'] rotate
+crop ['relatedto'] produce ['relatedto'] kaleidoscope ['relatedto'] rotate
+crop ['relatedto'] result ['relatedto'] sequence ['relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] earth ['capableof'] rotate
+crop ['relatedto'] rotation ['isa'] feather ['relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] turn ['mannerof', 'relatedto', 'synonym'] rotate
+crop ['relatedto'] rotation ['isa', 'relatedto'] twist ['relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] rota ['relatedto'] rotate
+crop ['relatedto'] rotation ['isa'] spiral ['relatedto'] rotate
+crop ['relatedto'] rotation ['isa', 'relatedto'] spin ['isa', 'relatedto'] rotate
+crop ['relatedto'] rotation ['isa'] pronation ['relatedto'] rotate
+crop ['relatedto'] rotation ['isa', 'relatedto'] sequence ['relatedto'] rotate
+crop ['relatedto'] rotation ['isa'] supination ['relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] nonrotation ['relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] rotated ['formof', 'relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] rotating ['formof', 'relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] rote ['relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] wagon_wheel_effect ['relatedto'] rotate
+crop ['relatedto'] rotation ['relatedto'] yaw ['relatedto'] rotate
+crop ['relatedto'] seeds ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] stuff ['relatedto'] earth ['capableof'] rotate
+crop ['relatedto'] supply ['relatedto'] advance ['relatedto'] rotate
+crop ['relatedto'] supply ['mannerof'] joint ['relatedto'] rotate
+crop ['relatedto'] supply ['relatedto'] replace ['relatedto'] rotate
+crop ['relatedto'] use ['relatedto'] serve ['mannerof'] rotate
+crop ['relatedto'] value ['relatedto'] advance ['relatedto'] rotate
+crop ['relatedto'] vegetables ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] weapon ['isa'] minigun ['relatedto'] rotate
+crop ['relatedto'] tree ['capableof', 'relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] tree ['atlocation'] earth ['capableof'] rotate
+crop ['relatedto'] tree ['isa', 'relatedto'] arbor ['relatedto'] rotate
+crop ['relatedto'] tree ['relatedto'] pole ['relatedto'] rotate
+crop ['relatedto', 'synonym'] cultivate ['mannerof', 'relatedto'] grow ['mannerof'] rotate
+crop ['relatedto', 'synonym'] cultivate ['relatedto'] turn ['mannerof', 'relatedto', 'synonym'] rotate
+crop ['relatedto'] earlies ['relatedto'] shift ['relatedto'] rotate
+crop ['relatedto'] earlies ['relatedto'] rotation ['relatedto', 'derivedfrom'] rotate
+crop ['relatedto'] garden ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] garden ['relatedto'] earth ['capableof'] rotate
+crop ['relatedto'] intercrop ['relatedto'] grow ['mannerof'] rotate
+crop ['relatedto'] intercrop ['relatedto'] alternate ['mannerof'] rotate
+crop ['relatedto'] milpa ['relatedto'] grow ['mannerof'] rotate

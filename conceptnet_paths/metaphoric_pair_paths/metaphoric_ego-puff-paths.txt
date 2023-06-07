@@ -1,0 +1,100 @@
+ego ['relatedto'] goat ['antonym', 'distinctfrom', 'relatedto'] sheep ['relatedto'] puff
+ego ['relatedto'] image ['relatedto'] draw ['synonym'] puff
+ego ['derivedfrom'] ego_trip ['relatedto'] draw ['synonym'] puff
+ego ['relatedto'] self_centered ['relatedto'] jerk ['relatedto'] pull ['synonym'] puff
+ego ['derivedfrom'] egoism ['isa'] theory ['relatedto'] statement ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] ability ['relatedto'] draw ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] abstract ['relatedto'] cloud ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] nothing ['relatedto'] breath ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] nothing ['relatedto'] gas ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] nothing ['relatedto'] wind ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] calm ['antonym', 'relatedto'] wind ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] drug ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto', 'synonym'] head ['relatedto'] drug ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto', 'synonym'] head ['relatedto'] pompon ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['antonym', 'relatedto'] matter ['isa'] tangible_thing ['isa'] puff
+ego ['isa', 'relatedto'] mind ['antonym', 'relatedto'] matter ['relatedto'] gas ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['atlocation'] god ['relatedto'] praise ['mannerof'] puff
+ego ['isa', 'relatedto'] mind ['atlocation'] god ['relatedto'] life ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['atlocation'] quandry ['atlocation'] cake ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['derivedfrom'] mind_blowing ['derivedfrom'] blow ['mannerof', 'relatedto', 'synonym'] puff
+ego ['isa', 'relatedto'] mind ['distinctfrom', 'relatedto', 'synonym'] brain ['relatedto'] cannabis ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['etymologicallyrelatedto'] mint ['relatedto'] breath ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['hasprerequisite'] dreaming ['usedfor'] cloud ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['isa', 'relatedto'] notice ['relatedto'] advertise ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['isa', 'relatedto'] recall ['synonym'] pull ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['partof'] emotion ['relatedto'] drug ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['partof'] emotion ['relatedto'] gust ['isa'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] blood ['relatedto'] life ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] dream ['relatedto'] life ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] dream ['relatedto'] sheep ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] fog ['isa', 'relatedto'] cloud ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] fog ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] freak ['relatedto'] drug ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] healthy ['distinctfrom'] cake ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] klesha ['relatedto'] cloud ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] manifest ['relatedto'] statement ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] generator ['relatedto'] gas ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] inside ['relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] inside ['relatedto'] cloud ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] inside ['relatedto'] pipe ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] makes ['relatedto'] cloud ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] makes ['relatedto'] sheep ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] makes ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] organ ['relatedto'] pipe ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] parent ['relatedto'] sheep ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] part ['isa'] tangible_thing ['isa'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] power ['relatedto'] draw ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] power ['relatedto'] gas ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] power ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] power ['relatedto'] wind ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] soul ['usedfor', 'relatedto'] life ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] spirit ['relatedto'] aspirate ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] state ['relatedto'] gas ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] state ['relatedto', 'synonym'] life ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] waste ['synonym'] blow ['mannerof', 'relatedto', 'synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] waste ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] material ['relatedto'] gas ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] material ['relatedto'] exert ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] material ['relatedto'] powder_puff ['relatedto', 'derivedfrom'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] material ['relatedto'] quilt ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] material ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] process ['relatedto'] breath ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] process ['relatedto'] draw ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] process ['relatedto'] drug ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] substance ['isa'] gas ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] substance ['relatedto'] drug ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] obnubilation ['relatedto'] cloud ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] phenomenon ['relatedto'] cloud ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] phenomenon ['relatedto'] exhalation ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] phenomenon ['relatedto'] wind ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] possess ['relatedto'] boast ['mannerof'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] psychoactive ['relatedto'] drug ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] psychoactive ['relatedto'] huff ['synonym'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] receive ['relatedto'] cake ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['relatedto'] supermind ['relatedto'] life ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['synonym'] heart ['relatedto'] pant ['relatedto', 'synonym'] puff
+ego ['isa', 'relatedto'] mind ['synonym'] judgment ['relatedto'] puffing ['formof', 'derivedfrom'] puff
+ego ['isa', 'relatedto'] mind ['synonym'] opinion ['relatedto'] statement ['relatedto'] puff
+ego ['isa', 'relatedto'] mind ['synonym'] opinion ['relatedto'] puffing ['formof', 'derivedfrom'] puff
+ego ['isa'] pride ['isa'] approval ['isa'] praise ['mannerof'] puff
+ego ['isa'] pride ['relatedto'] sell ['relatedto'] vent ['relatedto'] puff
+ego ['isa'] pride ['relatedto'] gay ['relatedto'] flamboyant ['relatedto'] puff
+ego ['isa'] pride ['synonym'] company ['isa'] wind ['synonym'] puff
+ego ['isa'] pride ['relatedto'] group ['relatedto'] cloud ['relatedto'] puff
+ego ['isa'] pride ['relatedto'] group ['relatedto'] sheep ['relatedto'] puff
+ego ['isa'] pride ['relatedto'] glory ['relatedto'] praise ['mannerof'] puff
+ego ['isa'] pride ['relatedto'] glory ['relatedto'] boast ['mannerof'] puff
+ego ['isa'] pride ['causes'] cooking ['usedfor'] cake ['relatedto'] puff
+ego ['isa'] pride ['causes'] cooking ['usedfor', 'relatedto'] gas ['relatedto'] puff
+ego ['isa'] pride ['causes'] cooking ['causes'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+ego ['isa'] pride ['causesdesire'] sell_new_book ['hasfirstsubevent', 'hasprerequisite'] advertise ['relatedto'] puff
+ego ['isa'] pride ['isa', 'relatedto'] arrogance ['relatedto'] swell ['mannerof', 'relatedto'] puff
+ego ['isa'] pride ['isa'] vice ['relatedto'] draw ['synonym'] puff
+ego ['isa'] pride ['isa'] vice ['relatedto'] drug ['relatedto'] puff
+ego ['isa'] pride ['relatedto'] forswollen ['relatedto'] swell ['mannerof', 'relatedto'] puff
+ego ['isa'] pride ['relatedto'] emotion ['relatedto'] drug ['relatedto'] puff
+ego ['isa'] pride ['relatedto'] emotion ['relatedto'] gust ['isa'] puff
+ego ['isa'] pride ['relatedto'] swagger ['relatedto'] boast ['mannerof'] puff
+ego ['isa'] pride ['relatedto'] vainglory ['relatedto'] boast ['mannerof'] puff
+ego ['isa'] pride ['synonym'] plume ['isa', 'relatedto'] cloud ['relatedto'] puff

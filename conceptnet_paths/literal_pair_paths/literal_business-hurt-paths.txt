@@ -1,0 +1,100 @@
+business ['relatedto'] work ['relatedto'] hurt
+business ['relatedto'] kill ['mannerof'] hurt
+business ['relatedto'] activity ['isa'] aid ['relatedto'] hurt
+business ['relatedto'] activity ['isa', 'relatedto'] work ['relatedto'] hurt
+business ['relatedto'] activity ['relatedto'] attack ['relatedto'] hurt
+business ['relatedto'] activity ['relatedto'] cry ['motivatedbygoal'] hurt
+business ['relatedto'] activity ['relatedto'] cut ['relatedto'] hurt
+business ['relatedto'] activity ['relatedto'] experience ['relatedto'] hurt
+business ['relatedto'] free ['mannerof'] cut ['relatedto'] hurt
+business ['relatedto'] together ['antonym'] break ['relatedto'] hurt
+business ['relatedto'] together ['antonym', 'distinctfrom'] cut ['relatedto'] hurt
+business ['relatedto'] together ['relatedto'] attack ['relatedto'] hurt
+business ['relatedto'] house ['atlocation'] fire ['capableof'] hurt
+business ['relatedto'] house ['relatedto'] ice ['relatedto'] hurt
+business ['antonym'] art ['relatedto'] work ['relatedto'] hurt
+business ['relatedto'] association ['relatedto'] cut ['relatedto'] hurt
+business ['relatedto'] association ['relatedto'] help ['antonym'] hurt
+business ['antonym'] home ['antonym', 'distinctfrom', 'relatedto'] work ['relatedto'] hurt
+business ['antonym'] home ['relatedto'] love ['capableof'] hurt
+business ['antonym'] home ['relatedto'] care ['antonym'] hurt
+business ['relatedto'] good ['antonym'] pain ['usedfor', 'relatedto', 'synonym'] hurt
+business ['relatedto'] good ['distinctfrom'] distress ['synonym'] hurt
+business ['relatedto'] good ['distinctfrom'] poison ['relatedto'] hurt
+business ['relatedto'] good ['receivesaction'] help ['antonym'] hurt
+business ['relatedto'] good ['relatedto'] care ['antonym'] hurt
+business ['relatedto'] good ['relatedto'] love ['capableof'] hurt
+business ['relatedto'] bank ['mannerof'] work ['relatedto'] hurt
+business ['relatedto'] bank ['relatedto'] gravel ['relatedto'] hurt
+business ['isa', 'relatedto'] bar ['atlocation'] ice ['relatedto'] hurt
+business ['isa', 'relatedto'] bar ['relatedto'] metal_rod ['usedfor'] hurt
+business ['isa', 'relatedto'] bar ['relatedto'] break ['relatedto'] hurt
+business ['relatedto'] top ['relatedto'] tank ['relatedto'] hurt
+business ['relatedto'] top ['relatedto'] cut ['relatedto'] hurt
+business ['relatedto'] board ['mannerof'] catch ['mannerof'] hurt
+business ['relatedto'] board ['relatedto'] aid ['relatedto'] hurt
+business ['relatedto'] board ['relatedto'] cut ['relatedto'] hurt
+business ['relatedto'] board ['relatedto'] edges ['capableof'] hurt
+business ['relatedto'] interest ['mannerof'] arouse ['mannerof'] hurt
+business ['relatedto'] interest ['relatedto'] damage ['mannerof', 'relatedto', 'synonym'] hurt
+business ['relatedto'] interest ['relatedto'] injury ['relatedto', 'synonym'] hurt
+business ['relatedto', 'atlocation'] boss ['relatedto', 'desires'] work ['relatedto'] hurt
+business ['relatedto'] root ['relatedto'] catch ['mannerof'] hurt
+business ['relatedto'] work ['antonym', 'relatedto'] break ['relatedto'] hurt
+business ['relatedto'] work ['capableof'] pain ['usedfor', 'relatedto', 'synonym'] hurt
+business ['relatedto'] work ['isa'] care ['antonym'] hurt
+business ['relatedto'] work ['relatedto'] experience ['relatedto'] hurt
+business ['relatedto'] work ['relatedto'] physical ['relatedto'] hurt
+business ['relatedto'] work ['relatedto'] ache ['causes', 'relatedto', 'synonym'] hurt
+business ['relatedto'] broke ['formof', 'etymologicallyrelatedto', 'relatedto'] break ['relatedto'] hurt
+business ['antonym'] personal ['relatedto'] experience ['relatedto'] hurt
+business ['antonym'] personal ['similarto'] physical ['relatedto'] hurt
+business ['antonym'] pleasure ['antonym', 'distinctfrom', 'relatedto', 'usedfor'] pain ['usedfor', 'relatedto', 'synonym'] hurt
+business ['antonym'] pleasure ['relatedto'] moan ['relatedto'] hurt
+business ['antonym'] pleasure ['usedfor'] hurting_else ['causes'] hurt
+business ['antonym'] farmer ['relatedto'] work ['relatedto'] hurt
+business ['antonym'] farmer ['relatedto'] harm ['relatedto', 'similarto'] hurt
+business ['atlocation'] building ['relatedto', 'hasprerequisite'] work ['relatedto'] hurt
+business ['usedfor', 'atlocation'] office_building ['usedfor', 'atlocation'] work ['relatedto'] hurt
+business ['relatedto', 'atlocation'] committee ['relatedto'] work ['relatedto'] hurt
+business ['relatedto', 'atlocation'] office ['usedfor', 'relatedto', 'atlocation'] work ['relatedto'] hurt
+business ['relatedto', 'atlocation'] shark ['relatedto'] attack ['relatedto'] hurt
+business ['relatedto', 'atlocation'] shark ['relatedto'] cut ['relatedto'] hurt
+business ['relatedto', 'atlocation'] shark ['atlocation'] tank ['relatedto'] hurt
+business ['atlocation'] success ['usedfor'] help ['antonym'] hurt
+business ['derivedfrom'] business_end ['relatedto'] weapon ['usedfor'] hurt
+business ['derivedfrom'] give_someone_business ['relatedto'] abuse ['relatedto'] hurt
+business ['derivedfrom'] give_someone_business ['synonym'] diss ['mannerof'] hurt
+business ['hasprerequisite'] seeing_movie ['causes'] cry ['motivatedbygoal'] hurt
+business ['hasprerequisite'] serving_customers ['usedfor'] work ['relatedto'] hurt
+business ['hasprerequisite'] serving_customers ['hasprerequisite'] care ['antonym'] hurt
+business ['isa', 'relatedto'] institution ['relatedto'] work ['relatedto'] hurt
+business ['isa', 'relatedto'] organization ['relatedto'] care ['antonym'] hurt
+business ['isa'] acting ['motivatedbygoal'] cry ['motivatedbygoal'] hurt
+business ['isa'] aim ['relatedto'] fire ['capableof'] hurt
+business ['isa'] aim ['relatedto'] attack ['relatedto'] hurt
+business ['isa'] aim ['relatedto'] weapon ['usedfor'] hurt
+business ['isa'] aim ['relatedto'] prick ['mannerof'] hurt
+business ['isa', 'relatedto', 'synonym'] concern ['relatedto', 'synonym'] care ['antonym'] hurt
+business ['isa', 'relatedto', 'synonym'] concern ['relatedto'] danger ['relatedto'] hurt
+business ['isa'] carrier ['relatedto'] blood ['relatedto'] hurt
+business ['isa', 'relatedto'] store ['atlocation'] knives ['capableof'] hurt
+business ['isa', 'relatedto'] store ['mannerof'] tank ['relatedto'] hurt
+business ['relatedto'] apprentice ['relatedto'] care ['antonym'] hurt
+business ['relatedto'] busy ['mannerof', 'relatedto'] work ['relatedto'] hurt
+business ['relatedto'] company ['relatedto'] work ['relatedto'] hurt
+business ['relatedto'] company ['isa'] smart ['relatedto', 'synonym'] hurt
+business ['relatedto'] employees ['relatedto', 'atlocation'] work ['relatedto'] hurt
+business ['relatedto'] form ['relatedto'] work ['relatedto'] hurt
+business ['relatedto'] form ['relatedto'] ice ['relatedto'] hurt
+business ['relatedto'] form ['relatedto'] cry ['motivatedbygoal'] hurt
+business ['relatedto'] form ['relatedto'] cut ['relatedto'] hurt
+business ['relatedto'] form ['relatedto'] physical ['relatedto'] hurt
+business ['relatedto'] form ['relatedto'] roundel ['relatedto'] hurt
+business ['relatedto'] job ['isa', 'mannerof', 'relatedto', 'synonym'] work ['relatedto'] hurt
+business ['relatedto'] job ['relatedto'] cut ['relatedto'] hurt
+business ['relatedto'] major ['relatedto'] wound ['relatedto', 'synonym'] hurt
+business ['relatedto'] major ['relatedto'] pain ['usedfor', 'relatedto', 'synonym'] hurt
+business ['relatedto'] major ['relatedto'] shock ['relatedto'] hurt
+business ['relatedto'] making ['relatedto'] work ['relatedto'] hurt
+business ['relatedto'] making ['relatedto'] cry ['motivatedbygoal'] hurt

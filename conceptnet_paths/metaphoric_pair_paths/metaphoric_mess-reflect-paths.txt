@@ -1,0 +1,100 @@
+mess ['relatedto'] number ['antonym', 'relatedto'] character ['relatedto'] reflect
+mess ['relatedto'] crowd ['relatedto'] show ['mannerof'] reflect
+mess ['relatedto'] order ['relatedto'] show ['mannerof'] reflect
+mess ['relatedto'] animal ['relatedto'] back ['relatedto'] reflect
+mess ['relatedto'] animal ['relatedto'] tapetum_lucidum ['relatedto'] reflect
+mess ['relatedto'] apple ['hasproperty'] opaque ['relatedto'] reflect
+mess ['relatedto'] cow ['relatedto'] black ['relatedto'] reflect
+mess ['atlocation'] table ['atlocation'] glass ['relatedto'] reflect
+mess ['atlocation'] table ['relatedto'] surface ['relatedto'] reflect
+mess ['atlocation'] closet ['atlocation'] light ['relatedto'] reflect
+mess ['atlocation'] closet ['atlocation'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+mess ['isa'] clutter ['relatedto'] echo ['relatedto'] reflect
+mess ['isa'] clutter ['relatedto'] radar ['relatedto'] reflect
+mess ['relatedto'] respect ['relatedto'] show ['mannerof'] reflect
+mess ['relatedto'] four ['relatedto'] darkness ['relatedto'] reflect
+mess ['atlocation'] desk ['atlocation'] light ['relatedto'] reflect
+mess ['atlocation'] desk ['relatedto'] surface ['relatedto'] reflect
+mess ['causes'] painting ['isa'] image ['relatedto'] reflect
+mess ['causes'] painting ['usedfor'] surface ['relatedto'] reflect
+mess ['mannerof', 'relatedto'] eat ['isa', 'mannerof'] ruminate ['isa', 'relatedto', 'synonym'] reflect
+mess ['relatedto'] milk ['relatedto'] black ['relatedto'] reflect
+mess ['relatedto'] milk ['relatedto'] think ['relatedto'] reflect
+mess ['relatedto'] milk ['relatedto'] glass ['relatedto'] reflect
+mess ['desires'] universe ['atlocation'] light ['relatedto'] reflect
+mess ['isa'] dining_room ['atlocation'] glass ['relatedto'] reflect
+mess ['relatedto'] mat ['etymologicallyrelatedto'] matte ['relatedto'] reflect
+mess ['relatedto'] mat ['relatedto'] surface ['relatedto'] reflect
+mess ['relatedto'] service ['relatedto'] lifestyle ['relatedto'] reflect
+mess ['relatedto'] monkey ['atlocation'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+mess ['relatedto'] monkey ['synonym'] tamper ['relatedto'] reflect
+mess ['relatedto'] spill ['relatedto'] light ['relatedto'] reflect
+mess ['relatedto'] vessel ['relatedto'] think ['relatedto'] reflect
+mess ['relatedto'] vessel ['relatedto'] glass ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] join ['relatedto'] bend ['relatedto'] reflect
+mess ['synonym'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['relatedto'] glass ['relatedto'] reflect
+mess ['synonym'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['relatedto'] focus ['relatedto'] reflect
+mess ['synonym'] fix ['antonym', 'distinctfrom', 'relatedto'] broken ['relatedto', 'receivesaction'] glass ['relatedto'] reflect
+mess ['synonym'] fix ['antonym', 'distinctfrom', 'relatedto'] broken ['receivesaction'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+mess ['synonym'] fix ['antonym'] smash ['relatedto'] glass ['relatedto'] reflect
+mess ['synonym'] fix ['mannerof'] brace ['relatedto'] back ['relatedto'] reflect
+mess ['synonym'] fix ['mannerof'] brace ['relatedto'] consider ['relatedto'] reflect
+mess ['synonym'] fix ['mannerof'] brace ['relatedto'] surface ['relatedto'] reflect
+mess ['synonym'] fix ['mannerof'] change ['relatedto'] back ['relatedto'] reflect
+mess ['synonym'] fix ['mannerof'] change ['relatedto'] black ['relatedto'] reflect
+mess ['synonym'] fix ['mannerof'] change ['mannerof'] think ['relatedto'] reflect
+mess ['synonym'] fix ['mannerof'] mount ['relatedto'] back ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] bake ['relatedto'] reflection ['etymologicallyrelatedto', 'relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] decide ['antonym'] think ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] decide ['relatedto'] consider ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] design ['relatedto'] ambigram ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto', 'synonym'] doctor ['relatedto'] reflex ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] action ['isa', 'relatedto'] reflex ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] action ['relatedto'] agree ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] action ['relatedto'] character ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] action ['relatedto'] consider ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] action ['relatedto'] follow ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] action ['relatedto'] think ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] correct ['relatedto'] attest ['mannerof'] reflect
+mess ['synonym'] fix ['relatedto'] put ['relatedto'] glass ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] right ['relatedto'] agree ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] service ['relatedto'] lifestyle ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] shot ['relatedto'] glass ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] determination ['relatedto'] focus ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] location ['relatedto'] back ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] single ['isa'] echo ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] user ['relatedto'] follow ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] map ['relatedto'] image ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] point ['relatedto'] show ['mannerof'] reflect
+mess ['synonym'] fix ['relatedto'] point ['isa', 'relatedto'] focus ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] point ['mannerof', 'relatedto', 'synonym'] indicate ['mannerof'] reflect
+mess ['synonym'] fix ['relatedto'] point ['relatedto'] catacaustic ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] point ['relatedto'] surface ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] privilege ['relatedto'] evidence ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] render ['relatedto'] image ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] subset ['relatedto'] image ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] time ['relatedto'] light ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] time ['usedfor'] think ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] grapple ['relatedto'] ponder ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] heal ['relatedto'] back ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] mirabolic ['relatedto'] image ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] patress ['relatedto'] character ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] patress ['relatedto'] surface ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] pendulum ['relatedto'] back ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] pitch ['relatedto'] light ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] pitch ['relatedto'] bend ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] reserve ['relatedto'] back ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] resolution ['relatedto'] character ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto', 'synonym'] settle ['mannerof'] agree ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] sort ['relatedto', 'synonym'] character ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] spangle ['relatedto', 'synonym'] sparkle ['mannerof'] reflect
+mess ['synonym'] fix ['relatedto'] stereotype ['relatedto'] surface ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] stereotype ['relatedto'] image ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] stitch ['relatedto'] image ['relatedto'] reflect
+mess ['synonym'] fix ['relatedto'] tool ['relatedto'] tamper ['relatedto'] reflect
+mess ['synonym'] fix ['synonym'] determine ['mannerof'] refract ['relatedto'] reflect
+mess ['synonym'] fix ['synonym'] specify ['synonym'] indicate ['mannerof'] reflect
+mess ['synonym'] fix ['synonym'] hole ['usedfor'] black ['relatedto'] reflect
+mess ['synonym'] fix ['synonym'] hole ['isa', 'relatedto'] pore ['relatedto'] reflect
+mess ['synonym'] fix ['synonym'] hole ['relatedto'] blackbody ['relatedto'] reflect
+mess ['synonym'] fix ['synonym'] pickle ['relatedto'] light ['relatedto'] reflect

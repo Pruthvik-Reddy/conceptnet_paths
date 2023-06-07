@@ -1,0 +1,100 @@
+event ['isa'] act ['relatedto'] character ['mannerof'] engrave
+event ['isa'] action ['relatedto'] bury ['relatedto'] engrave
+event ['isa'] action ['relatedto'] character ['mannerof'] engrave
+event ['isa'] action ['relatedto'] print ['mannerof'] engrave
+event ['isa'] action ['relatedto'] write ['relatedto'] engrave
+event ['relatedto'] fire ['relatedto'] champlevé ['relatedto'] engrave
+event ['relatedto'] sit ['synonym'] write ['relatedto'] engrave
+event ['relatedto'] attack ['mannerof', 'synonym'] affect ['mannerof'] engrave
+event ['relatedto'] bed ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+event ['relatedto'] big ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] work ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] burn ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] camp ['relatedto'] affect ['mannerof'] engrave
+event ['relatedto', 'synonym'] case ['relatedto', 'synonym'] shell ['relatedto'] engrave
+event ['relatedto', 'synonym'] case ['synonym'] character ['mannerof'] engrave
+event ['relatedto'] term ['relatedto'] character ['mannerof'] engrave
+event ['relatedto'] cause ['relatedto'] affect ['mannerof'] engrave
+event ['relatedto'] effect ['formof'] affect ['mannerof'] engrave
+event ['relatedto'] deal ['relatedto'] lapidary ['relatedto'] engrave
+event ['relatedto'] open ['relatedto'] character ['mannerof'] engrave
+event ['relatedto'] tragedy ['relatedto'] character ['mannerof'] engrave
+event ['isa'] communication ['relatedto'] print ['mannerof'] engrave
+event ['isa'] communication ['relatedto'] write ['relatedto'] engrave
+event ['relatedto'] news ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] four ['relatedto'] en ['derivedfrom'] engrave
+event ['capableof', 'relatedto'] surprise ['mannerof'] affect ['mannerof'] engrave
+event ['relatedto'] sink ['synonym'] bury ['relatedto'] engrave
+event ['relatedto'] game ['derivedfrom'] en ['derivedfrom'] engrave
+event ['relatedto'] trouble ['mannerof'] affect ['mannerof'] engrave
+event ['relatedto'] public ['relatedto'] parapegm ['relatedto'] engrave
+event ['relatedto'] important ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+event ['relatedto'] memory ['relatedto'] write ['relatedto'] engrave
+event ['relatedto'] play ['relatedto'] character ['mannerof'] engrave
+event ['usedfor'] place ['relatedto'] bury ['relatedto'] engrave
+event ['usedfor'] place ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+event ['relatedto'] shock ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] story ['relatedto'] character ['mannerof'] engrave
+event ['relatedto'] program ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] beat ['relatedto'] mill ['relatedto'] engrave
+event ['relatedto'] beat ['synonym'] shell ['relatedto'] engrave
+event ['relatedto'] operating_system ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] race ['relatedto'] scratch ['synonym'] engrave
+event ['relatedto'] race ['relatedto'] mill ['relatedto'] engrave
+event ['isa', 'relatedto'] situation ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+event ['isa', 'relatedto'] circumstance ['relatedto'] affect ['mannerof'] engrave
+event ['isa'] imposition ['relatedto'] gouge ['synonym'] engrave
+event ['isa'] transfer ['relatedto'] print ['mannerof'] engrave
+event ['isa'] zap ['mannerof'] affect ['mannerof'] engrave
+event ['relatedto'] epic ['relatedto'] character ['mannerof'] engrave
+event ['relatedto'] impression ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] impression ['relatedto'] etch ['relatedto', 'synonym'] engrave
+event ['relatedto'] impression ['relatedto'] chemitype ['relatedto'] engrave
+event ['relatedto'] issue ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] link ['relatedto'] character ['mannerof'] engrave
+event ['relatedto'] six ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+event ['relatedto'] emit ['mannerof'] bubble ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] emit ['mannerof'] reflect ['relatedto'] character ['mannerof'] engrave
+event ['relatedto'] emit ['relatedto'] discourse ['relatedto'] write ['relatedto'] engrave
+event ['relatedto'] emit ['relatedto'] gas ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] emit ['relatedto'] pipe ['relatedto'] character ['mannerof'] engrave
+event ['relatedto'] emit ['relatedto'] sounding ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] emit ['synonym'] output ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto'] scratch ['synonym'] engrave
+event ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['relatedto', 'synonym'] shell ['relatedto'] engrave
+event ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['synonym'] character ['mannerof'] engrave
+event ['relatedto'] accident ['relatedto'] bad ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] accident ['relatedto'] death ['isa', 'relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+event ['relatedto'] accident ['relatedto'] money ['relatedto'] scratch ['synonym'] engrave
+event ['relatedto'] accident ['relatedto'] money ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] accident ['relatedto'] mark ['synonym'] print ['mannerof'] engrave
+event ['relatedto'] accident ['relatedto'] mark ['relatedto'] etch ['relatedto', 'synonym'] engrave
+event ['relatedto'] accident ['relatedto'] mark ['relatedto', 'synonym'] scratch ['synonym'] engrave
+event ['relatedto'] accident ['relatedto'] mark ['relatedto'] write ['relatedto'] engrave
+event ['relatedto'] accident ['relatedto'] mark ['relatedto'] sundial ['relatedto'] engrave
+event ['relatedto'] accident ['relatedto'] negative ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] accident ['relatedto'] number ['antonym', 'relatedto'] character ['mannerof'] engrave
+event ['relatedto'] accident ['relatedto'] substance ['relatedto'] etch ['relatedto', 'synonym'] engrave
+event ['relatedto'] accident ['relatedto'] attribute ['isa'] character ['mannerof'] engrave
+event ['relatedto'] accident ['relatedto'] burn ['relatedto'] print ['mannerof'] engrave
+event ['relatedto'] accident ['relatedto'] dent ['synonym'] gouge ['synonym'] engrave
+event ['relatedto'] accident ['relatedto'] shock ['relatedto'] shell ['relatedto'] engrave
+event ['relatedto'] accident ['synonym'] affection ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] affect ['mannerof'] engrave
+event ['relatedto'] accident ['synonym'] change ['mannerof', 'synonym'] affect ['mannerof'] engrave
+event ['relatedto'] accident ['synonym'] quality ['synonym'] character ['mannerof'] engrave
+event ['isa'] act ['antonym'] real ['antonym', 'distinctfrom'] character ['mannerof'] engrave
+event ['isa'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] bury ['relatedto'] engrave
+event ['isa'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] character ['mannerof'] engrave
+event ['isa'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] print ['mannerof'] engrave
+event ['isa'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] write ['relatedto'] engrave
+event ['isa'] act ['derivedfrom'] act_upon ['synonym'] affect ['mannerof'] engrave
+event ['isa'] act ['relatedto', 'derivedfrom'] actor ['relatedto'] character ['mannerof'] engrave
+event ['isa'] act ['derivedfrom'] actress ['relatedto'] character ['mannerof'] engrave
+event ['isa'] act ['formof', 'relatedto'] acting ['relatedto'] character ['mannerof'] engrave
+event ['isa'] act ['hasfirstsubevent', 'relatedto', 'hasprerequisite', 'synonym'] pretend ['synonym'] affect ['mannerof'] engrave
+event ['isa'] act ['isa', 'relatedto'] drama ['relatedto'] character ['mannerof'] engrave
+event ['isa'] act ['isa'] activity ['relatedto'] bury ['relatedto'] engrave
+event ['isa'] act ['isa'] activity ['relatedto'] print ['mannerof'] engrave
+event ['isa'] act ['isa'] communication ['relatedto'] print ['mannerof'] engrave
+event ['isa'] act ['isa'] communication ['relatedto'] write ['relatedto'] engrave
+event ['isa'] act ['isa'] disposal ['relatedto'] bury ['relatedto'] engrave

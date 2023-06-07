@@ -1,0 +1,100 @@
+critic ['isa'] professional ['relatedto'] function ['relatedto'] snort
+critic ['isa'] unpleasant_person ['isa'] snorter ['relatedto', 'derivedfrom'] snort
+critic ['isa'] roaster ['relatedto'] pig ['relatedto'] snort
+critic ['isa'] professional ['relatedto'] money ['relatedto'] utter ['mannerof'] snort
+critic ['isa'] professional ['relatedto'] living ['relatedto'] pig ['relatedto'] snort
+critic ['isa'] professional ['relatedto'] name ['relatedto'] drink ['relatedto'] snort
+critic ['isa'] professional ['relatedto'] protest ['relatedto'] harumph ['relatedto'] snort
+critic ['isa'] professional ['relatedto'] quack ['relatedto'] noise ['relatedto'] snort
+critic ['isa'] professional ['relatedto'] quack ['mannerof'] utter ['mannerof'] snort
+critic ['relatedto'] critical ['relatedto'] analysis ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] critical ['relatedto'] shot ['relatedto'] alcoholic ['relatedto'] snort
+critic ['relatedto'] critical ['relatedto'] shot ['relatedto'] drink ['relatedto'] snort
+critic ['relatedto'] critical ['relatedto'] shot ['relatedto'] noise ['relatedto'] snort
+critic ['relatedto'] critical ['relatedto'] business_continuity_planning ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] critical ['relatedto'] critical_point ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] critical ['relatedto'] move ['relatedto'] nose ['relatedto'] snort
+critic ['relatedto'] critical ['relatedto'] crunch ['isa'] noise ['relatedto'] snort
+critic ['relatedto'] critically ['relatedto'] consequence ['relatedto'] laugh ['relatedto'] snort
+critic ['relatedto'] criticism ['isa'] fire ['relatedto'] vent ['relatedto'] snort
+critic ['relatedto'] criticism ['isa'] analysis ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] criticism ['isa'] static ['isa', 'relatedto'] noise ['relatedto'] snort
+critic ['relatedto'] criticism ['isa'] disapproval ['relatedto'] grunt ['relatedto'] snort
+critic ['relatedto'] criticism ['isa'] attack ['mannerof'] submarine ['relatedto'] snort
+critic ['relatedto'] criticism ['relatedto'] insult ['relatedto'] rude ['relatedto'] snort
+critic ['relatedto'] criticism ['relatedto'] silence ['antonym', 'distinctfrom'] noise ['relatedto'] snort
+critic ['relatedto'] criticism ['isa'] writing ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] criticism ['relatedto'] pink ['relatedto'] noise ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] branch ['relatedto'] snark ['etymologicallyrelatedto', 'relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] narrow ['relatedto'] nose ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] specific ['distinctfrom'] drink ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto', 'derivedfrom'] specialize ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] correspond ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] environment ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] medicine ['relatedto'] alcoholic ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] medicine ['relatedto'] laugh ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] medicine ['relatedto'] drink ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] medicine ['isa', 'relatedto', 'synonym'] drug ['relatedto', 'entails'] snort
+critic ['relatedto'] specialist ['relatedto'] practice ['relatedto'] hot_rail ['relatedto'] snort
+critic ['relatedto'] specialist ['relatedto'] rank ['relatedto'] utter ['mannerof'] snort
+critic ['relatedto'] specialist ['relatedto'] tail ['relatedto'] pig ['relatedto'] snort
+critic ['relatedto'] judge ['synonym', 'entails'] condemn ['mannerof'] boo ['synonym'] snort
+critic ['relatedto'] judge ['causesdesire'] activity ['isa'] laughter ['relatedto'] snort
+critic ['relatedto'] judge ['causesdesire'] activity ['relatedto'] drink ['relatedto'] snort
+critic ['relatedto'] judge ['causesdesire'] activity ['relatedto'] sail ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] professional ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto', 'desires'] order ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto', 'desires'] order ['relatedto'] vent ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] bank ['relatedto'] pig ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] bar ['relatedto', 'atlocation'] alcoholic ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] bar ['atlocation'] coke ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] bar ['relatedto'] drink ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] bar ['relatedto'] blort ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] room ['atlocation'] vent ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] white ['relatedto'] noise ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] white ['relatedto'] sail ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] white ['relatedto'] cocaine ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] head ['atlocation'] submarine ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] head ['relatedto', 'partof'] nose ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] head ['relatedto'] drug ['relatedto', 'entails'] snort
+critic ['relatedto'] judge ['relatedto'] call ['mannerof'] utter ['mannerof'] snort
+critic ['relatedto'] judge ['relatedto'] call ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] call ['relatedto'] noise ['relatedto'] snort
+critic ['relatedto'] judge ['mannerof'] stand ['relatedto'] sail ['relatedto'] snort
+critic ['relatedto'] judge ['mannerof', 'relatedto', 'synonym'] think ['relatedto'] drink ['relatedto'] snort
+critic ['relatedto'] judge ['mannerof', 'relatedto', 'synonym'] think ['relatedto'] nose ['relatedto'] snort
+critic ['relatedto'] judge ['mannerof', 'relatedto', 'synonym'] think ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] duty ['isa'] function ['relatedto'] snort
+critic ['relatedto'] judge ['synonym'] estimate ['relatedto'] roughly ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] making ['relatedto'] noise ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] form ['antonym', 'relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['isa', 'relatedto'] official ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['mannerof'] measure ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['mannerof'] rate ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] dope ['mannerof', 'relatedto'] drug ['relatedto', 'entails'] snort
+critic ['relatedto'] judge ['relatedto'] gauge ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] law ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] maker ['relatedto'] pig ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] member ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] officer ['synonym'] pig ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] power ['relatedto'] nose ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] power ['relatedto'] grunt ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] power ['relatedto'] sail ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] administer ['mannerof'] insufflate ['synonym'] snort
+critic ['relatedto'] judge ['relatedto'] event ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] event ['relatedto'] noise ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] officiate ['relatedto', 'synonym'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] taste ['relatedto'] drink ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] taste ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] judge ['relatedto'] taste ['relatedto'] nose ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] defeat ['isa', 'relatedto'] rout ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] defeat ['relatedto'] nose ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] antagonist ['isa'] drug ['relatedto', 'entails'] snort
+critic ['relatedto'] opponent ['antonym'] friend ['relatedto'] function ['relatedto'] snort
+critic ['relatedto'] opponent ['antonym'] mate ['relatedto'] drink ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] face ['relatedto'] laugh ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] face ['usedfor', 'relatedto', 'atlocation', 'hasa', 'partof'] nose ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] game ['relatedto'] funny ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] game ['relatedto'] pig ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] interference ['synonym'] noise ['relatedto'] snort
+critic ['relatedto'] opponent ['relatedto'] ghost ['relatedto'] sail ['relatedto'] snort

@@ -1,0 +1,100 @@
+smoke ['relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] upwreath ['relatedto'] curl
+smoke ['relatedto'] action ['isa'] software ['isa'] curl
+smoke ['relatedto'] action ['isa', 'relatedto', 'synonym'] exercise ['relatedto'] curl
+smoke ['relatedto'] action ['isa', 'relatedto'] play ['mannerof'] curl
+smoke ['relatedto'] action ['isa'] resistance ['relatedto'] curl
+smoke ['relatedto'] action ['relatedto'] spin ['relatedto'] curl
+smoke ['relatedto'] action ['relatedto'] extension ['antonym'] curl
+smoke ['relatedto'] action ['relatedto'] sweep ['relatedto'] curl
+smoke ['relatedto'] action ['relatedto'] tuck ['relatedto'] curl
+smoke ['relatedto'] action ['relatedto'] twist ['mannerof', 'relatedto'] curl
+smoke ['relatedto'] action ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['relatedto'] activity ['relatedto'] exercise ['relatedto'] curl
+smoke ['relatedto'] activity ['relatedto'] play ['mannerof'] curl
+smoke ['relatedto'] activity ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['antonym', 'relatedto', 'atlocation'] air ['atlocation'] arm ['relatedto'] curl
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] resistance ['relatedto'] curl
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['isa'] software ['isa'] curl
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['isa', 'relatedto', 'synonym'] flame ['relatedto'] curl
+smoke ['relatedto'] plant ['antonym'] rock ['relatedto'] curl
+smoke ['relatedto'] plant ['relatedto'] leaf_curl ['derivedfrom'] curl
+smoke ['atlocation'] bar ['relatedto'] lock ['relatedto', 'synonym'] curl
+smoke ['relatedto'] bear ['relatedto'] hair ['relatedto'] curl
+smoke ['motivatedbygoal', 'haslastsubevent'] die ['mannerof'] play ['mannerof'] curl
+smoke ['relatedto'] white ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['isa'] breathing ['relatedto'] exercise ['relatedto'] curl
+smoke ['relatedto'] blue ['relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] blue ['relatedto'] roller ['relatedto'] curl
+smoke ['relatedto'] break ['relatedto'] leg ['relatedto'] curl
+smoke ['relatedto'] break ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['relatedto'] break ['relatedto'] crisp ['relatedto'] curl
+smoke ['relatedto'] break ['relatedto'] play ['mannerof'] curl
+smoke ['relatedto'] break ['relatedto'] roller ['relatedto'] curl
+smoke ['relatedto'] breath ['isa'] play ['mannerof'] curl
+smoke ['relatedto'] burn ['mannerof', 'relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] burn ['relatedto'] exercise ['relatedto'] curl
+smoke ['relatedto'] chief ['relatedto'] arch ['synonym'] curl
+smoke ['relatedto'] forest ['atlocation'] tress ['relatedto'] curl
+smoke ['antonym'] clean ['mannerof', 'relatedto'] sweep ['relatedto'] curl
+smoke ['antonym'] clean ['relatedto'] rock ['relatedto'] curl
+smoke ['relatedto'] dirty ['hasproperty'] hair ['relatedto'] curl
+smoke ['relatedto'] solid ['relatedto'] rock ['relatedto'] curl
+smoke ['relatedto'] solid ['relatedto'] curve ['relatedto', 'synonym'] curl
+smoke ['relatedto'] related ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['isa', 'relatedto'] cloud ['relatedto'] ornament ['relatedto'] curl
+smoke ['isa', 'relatedto'] cloud ['relatedto'] rock ['relatedto'] curl
+smoke ['relatedto'] coal ['isa', 'relatedto'] rock ['relatedto'] curl
+smoke ['hasfirstsubevent'] sew ['relatedto'] tuck ['relatedto'] curl
+smoke ['relatedto'] light ['isa', 'relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['relatedto'] light ['relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] dirt ['relatedto'] rock ['relatedto'] curl
+smoke ['relatedto'] burning ['relatedto'] exercise ['relatedto'] curl
+smoke ['relatedto'] face ['relatedto'] hair ['relatedto'] curl
+smoke ['relatedto'] face ['relatedto'] spin ['relatedto'] curl
+smoke ['isa', 'relatedto'] gas ['relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] tiny ['relatedto'] ornament ['relatedto'] curl
+smoke ['relatedto'] grass ['relatedto'] hair ['relatedto'] curl
+smoke ['relatedto'] gray ['relatedto'] hair ['relatedto'] curl
+smoke ['relatedto'] material ['isa', 'relatedto'] rock ['relatedto'] curl
+smoke ['relatedto'] material ['relatedto'] kink ['relatedto', 'synonym'] curl
+smoke ['mannerof', 'relatedto'] use ['relatedto'] leg ['relatedto'] curl
+smoke ['mannerof', 'relatedto'] use ['synonym'] exercise ['relatedto'] curl
+smoke ['mannerof', 'relatedto'] use ['atlocation'] curling_iron ['derivedfrom'] curl
+smoke ['mannerof', 'relatedto'] use ['isa', 'mannerof', 'relatedto'] play ['mannerof'] curl
+smoke ['mannerof', 'relatedto'] use ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['relatedto'] artificial ['relatedto'] toupee ['relatedto'] curl
+smoke ['synonym'] pot ['relatedto'] extension ['antonym'] curl
+smoke ['synonym'] pot ['relatedto'] resistance ['relatedto'] curl
+smoke ['relatedto'] produce ['relatedto'] staple ['relatedto'] curl
+smoke ['relatedto'] signal ['relatedto'] b_mode ['relatedto'] curl
+smoke ['relatedto'] signal ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['capableof', 'relatedto'] chimney ['relatedto'] rock ['relatedto'] curl
+smoke ['capableof', 'relatedto'] chimney ['relatedto'] flame ['relatedto'] curl
+smoke ['causes'] cooking ['relatedto'] flame ['relatedto'] curl
+smoke ['distinctfrom', 'relatedto'] steam ['relatedto'] leg ['relatedto'] curl
+smoke ['distinctfrom', 'relatedto'] steam ['isa'] software ['isa'] curl
+smoke ['relatedto'] billow ['isa', 'relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['relatedto'] cigar ['relatedto'] roller ['relatedto'] curl
+smoke ['relatedto'] exhaust ['mannerof'] play ['mannerof'] curl
+smoke ['relatedto'] lunt ['relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] mushroom_cloud ['relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] pipe ['mannerof'] play ['mannerof'] curl
+smoke ['relatedto'] clouds ['isa'] play ['mannerof'] curl
+smoke ['relatedto'] coughing ['relatedto'] kink ['relatedto', 'synonym'] curl
+smoke ['relatedto'] dust ['relatedto'] hair ['relatedto'] curl
+smoke ['relatedto'] element ['relatedto'] resistance ['relatedto'] curl
+smoke ['relatedto'] element ['relatedto'] coil ['relatedto', 'synonym'] curl
+smoke ['relatedto'] element ['relatedto'] ornament ['relatedto'] curl
+smoke ['relatedto'] flames ['formof', 'relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] plume ['relatedto'] ornament ['relatedto'] curl
+smoke ['relatedto'] reaction ['isa'] resistance ['relatedto'] curl
+smoke ['relatedto'] particle ['antonym'] wave ['relatedto', 'partof', 'synonym'] curl
+smoke ['relatedto'] particle ['relatedto'] spin ['relatedto'] curl
+smoke ['relatedto'] smolder ['relatedto'] flame ['relatedto'] curl
+smoke ['relatedto'] steamer ['relatedto'] leg ['relatedto'] curl
+smoke ['relatedto'] upwreath ['derivedfrom'] wreath ['relatedto'] curl
+smoke ['usedfor'] pipes ['relatedto'] biceps ['relatedto'] curl
+smoke ['relatedto'] hypercapnia ['isa'] disease ['relatedto'] curly_top ['relatedto'] curl
+smoke ['relatedto'] hypercapnia ['isa'] disease ['relatedto'] leaf_curl ['derivedfrom'] curl
+smoke ['relatedto'] action ['relatedto'] join ['relatedto'] crimp ['mannerof'] curl

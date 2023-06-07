@@ -1,0 +1,100 @@
+dinner ['relatedto'] evening ['relatedto'] stuff
+dinner ['relatedto', 'atlocation'] bread ['relatedto'] stuff
+dinner ['usedfor', 'relatedto', 'atlocation'] table ['atlocation'] stuff
+dinner ['relatedto', 'atlocation'] eat ['relatedto'] stuff
+dinner ['relatedto'] chicken ['relatedto'] stuff
+dinner ['relatedto'] macaroni ['relatedto'] stuff
+dinner ['relatedto'] record ['relatedto'] stuff
+dinner ['relatedto'] salt ['relatedto'] stuff
+dinner ['relatedto'] reserve ['relatedto'] oil ['relatedto'] stuff
+dinner ['relatedto'] reserve ['relatedto'] price ['relatedto'] stuff
+dinner ['relatedto'] reserve ['relatedto'] table ['atlocation'] stuff
+dinner ['relatedto'] reserve ['relatedto'] deposit ['relatedto'] stuff
+dinner ['relatedto'] evening ['relatedto'] news ['relatedto'] stuff
+dinner ['antonym', 'relatedto', 'synonym'] lunch ['atlocation'] desk ['relatedto'] stuff
+dinner ['antonym', 'relatedto', 'synonym'] lunch ['mannerof', 'relatedto'] eat ['relatedto'] stuff
+dinner ['antonym', 'relatedto', 'synonym'] lunch ['relatedto'] bag ['relatedto'] stuff
+dinner ['antonym', 'relatedto', 'synonym'] lunch ['relatedto'] bread ['relatedto'] stuff
+dinner ['antonym', 'relatedto', 'synonym'] lunch ['relatedto'] break ['relatedto'] stuff
+dinner ['antonym', 'relatedto', 'synonym'] lunch ['relatedto'] middle ['relatedto'] stuff
+dinner ['antonym', 'relatedto', 'synonym'] lunch ['relatedto'] work ['relatedto'] stuff
+dinner ['antonym', 'relatedto', 'synonym'] lunch ['relatedto'] play ['relatedto'] stuff
+dinner ['relatedto'] plate ['relatedto'] house ['atlocation'] stuff
+dinner ['relatedto'] plate ['atlocation'] chicken ['relatedto'] stuff
+dinner ['relatedto'] plate ['relatedto', 'atlocation'] eat ['relatedto'] stuff
+dinner ['relatedto'] plate ['relatedto', 'atlocation'] cabinet ['relatedto', 'atlocation'] stuff
+dinner ['relatedto'] plate ['relatedto', 'atlocation'] cupboard ['atlocation'] stuff
+dinner ['relatedto'] plate ['relatedto', 'atlocation'] table ['atlocation'] stuff
+dinner ['relatedto'] plate ['madeof', 'relatedto'] glass ['relatedto'] stuff
+dinner ['relatedto'] plate ['relatedto'] block ['synonym'] stuff
+dinner ['relatedto'] plate ['relatedto'] china ['relatedto'] stuff
+dinner ['relatedto'] plate ['relatedto'] metal ['relatedto'] stuff
+dinner ['relatedto'] plate ['relatedto'] paper ['relatedto'] stuff
+dinner ['relatedto'] plate ['relatedto'] record ['relatedto'] stuff
+dinner ['relatedto'] plate ['relatedto'] thing ['relatedto', 'synonym'] stuff
+dinner ['relatedto'] plate ['relatedto'] material ['relatedto', 'synonym'] stuff
+dinner ['relatedto'] plate ['synonym'] scale ['relatedto'] stuff
+dinner ['relatedto'] bell ['relatedto'] house ['atlocation'] stuff
+dinner ['relatedto'] bell ['relatedto'] machine ['relatedto'] stuff
+dinner ['relatedto'] bell ['relatedto'] metal ['relatedto'] stuff
+dinner ['relatedto'] bell ['relatedto'] noise ['relatedto'] stuff
+dinner ['relatedto'] bell ['relatedto'] thing ['relatedto', 'synonym'] stuff
+dinner ['relatedto'] food ['relatedto'] fire ['relatedto'] stuff
+dinner ['relatedto'] food ['antonym', 'isa'] water ['relatedto'] stuff
+dinner ['relatedto'] food ['atlocation'] house ['atlocation'] stuff
+dinner ['relatedto'] food ['relatedto', 'atlocation'] cabinet ['relatedto', 'atlocation'] stuff
+dinner ['relatedto'] food ['relatedto', 'atlocation'] cupboard ['atlocation'] stuff
+dinner ['relatedto'] food ['atlocation'] gallery_opening ['atlocation'] stuff
+dinner ['relatedto'] food ['relatedto', 'atlocation'] market ['relatedto'] stuff
+dinner ['relatedto'] food ['atlocation'] shop ['relatedto'] stuff
+dinner ['relatedto'] food ['atlocation'] store ['atlocation'] stuff
+dinner ['relatedto'] food ['relatedto', 'atlocation'] table ['atlocation'] stuff
+dinner ['relatedto'] food ['atlocation'] trash ['relatedto'] stuff
+dinner ['relatedto'] food ['usedfor', 'relatedto', 'atlocation'] salt ['relatedto'] stuff
+dinner ['relatedto'] food ['capableof', 'isa', 'relatedto'] chicken ['relatedto'] stuff
+dinner ['relatedto'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['relatedto'] stuff
+dinner ['relatedto'] food ['distinctfrom'] paste ['relatedto'] stuff
+dinner ['relatedto'] food ['distinctfrom', 'relatedto'] poison ['relatedto'] stuff
+dinner ['relatedto'] food ['isa', 'relatedto', 'synonym'] bread ['relatedto'] stuff
+dinner ['relatedto'] food ['isa', 'relatedto'] substance ['relatedto'] stuff
+dinner ['relatedto'] food ['isa'] content ['relatedto'] stuff
+dinner ['relatedto'] food ['isa', 'relatedto'] macaroni ['relatedto'] stuff
+dinner ['relatedto'] food ['isa'] pierogi ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] blood ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] carry ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] crop ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] farm ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] garden ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] gather ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] gorged ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] grass ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] lard ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] milk ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] oil ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] polish ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] preserve ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] rice ['relatedto'] stuff
+dinner ['relatedto'] food ['relatedto'] sugar ['relatedto'] stuff
+dinner ['relatedto'] bill ['synonym'] act ['relatedto'] stuff
+dinner ['relatedto'] bill ['relatedto'] arm ['relatedto'] stuff
+dinner ['relatedto'] bill ['atlocation'] trash ['relatedto'] stuff
+dinner ['relatedto'] bill ['isa', 'relatedto'] money ['relatedto'] stuff
+dinner ['relatedto'] bill ['isa', 'relatedto'] dollar ['relatedto'] stuff
+dinner ['relatedto'] bill ['relatedto'] collection ['relatedto'] stuff
+dinner ['relatedto'] bill ['relatedto'] paper ['relatedto'] stuff
+dinner ['relatedto'] bill ['relatedto'] price ['relatedto'] stuff
+dinner ['relatedto'] bill ['relatedto'] interest ['relatedto'] stuff
+dinner ['relatedto'] bill ['relatedto'] content ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto', 'atlocation'] water ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto'] bear ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto', 'atlocation'] market ['relatedto'] stuff
+dinner ['relatedto'] fish ['usedfor', 'relatedto', 'atlocation'] scale ['relatedto'] stuff
+dinner ['relatedto'] fish ['hasprerequisite'] buy ['relatedto'] stuff
+dinner ['relatedto'] fish ['isa', 'relatedto'] herring ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto'] algae ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto'] eat ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto'] salt ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto'] gubbins ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto'] pad ['mannerof', 'relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto'] play ['relatedto'] stuff
+dinner ['relatedto'] fish ['relatedto'] poison ['relatedto'] stuff

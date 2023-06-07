@@ -1,0 +1,100 @@
+spaceship ['relatedto'] position ['relatedto'] low ['relatedto'] blaze
+spaceship ['relatedto'] vehicle ['relatedto'] low ['relatedto'] blaze
+spaceship ['atlocation'] astronauts ['isa'] book ['isa'] blaze
+spaceship ['relatedto'] rocket ['relatedto'] flare ['relatedto'] blaze
+spaceship ['relatedto'] alien ['isa'] software ['isa'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] alien ['relatedto'] illegal ['hasproperty'] marijuana ['relatedto'] blaze
+spaceship ['relatedto'] alien ['relatedto'] man ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] alien ['relatedto'] animal ['relatedto'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] alien ['relatedto'] plant ['isa'] book ['isa'] blaze
+spaceship ['relatedto'] alien ['relatedto'] outlander ['isa'] book ['isa'] blaze
+spaceship ['relatedto'] alien ['synonym'] stranger ['isa'] book ['isa'] blaze
+spaceship ['relatedto'] generation ['relatedto'] old ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] generation ['etymologicallyrelatedto', 'relatedto'] generate ['mannerof'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] generation ['relatedto'] beat ['mannerof'] glare ['synonym'] blaze
+spaceship ['relatedto'] generation ['relatedto'] coal ['relatedto', 'atlocation'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] generation ['relatedto'] coal ['relatedto'] burn ['mannerof', 'synonym'] blaze
+spaceship ['relatedto'] generation ['relatedto'] coal ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] generation ['relatedto'] culture ['usedfor'] book ['isa'] blaze
+spaceship ['relatedto'] generation ['relatedto'] tree ['relatedto'] marijuana ['relatedto'] blaze
+spaceship ['relatedto'] generation ['relatedto'] degree ['isa'] low ['relatedto'] blaze
+spaceship ['relatedto'] generation ['relatedto'] degree ['relatedto'] burn ['mannerof', 'synonym'] blaze
+spaceship ['relatedto'] generation ['relatedto'] degree ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] generation ['relatedto'] degree ['relatedto'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] generation ['relatedto'] generator ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] generation ['relatedto'] rank ['relatedto'] low ['relatedto'] blaze
+spaceship ['relatedto'] generation ['relatedto'] sublunary_sphere ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] pattern ['formof', 'relatedto'] patterning ['relatedto'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['isa'] spot ['mannerof', 'relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['isa'] spot ['isa'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['isa', 'relatedto'] stripe ['mannerof', 'relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['isa', 'relatedto'] stripe ['isa'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['mannerof', 'relatedto'] match ['causes', 'relatedto', 'usedfor'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] pattern ['mannerof', 'relatedto'] match ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] back ['relatedto'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] banding ['relatedto'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] beat ['mannerof'] glare ['synonym'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] bond ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] check ['relatedto', 'synonym'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] crisscross ['mannerof', 'synonym'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] crisscross ['isa'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto', 'synonym'] design ['isa'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] etch ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto', 'synonym'] example ['isa', 'relatedto'] precedent ['relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] fingerprint ['isa'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] fingerprint ['isa'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] flash ['etymologicallyrelatedto', 'relatedto', 'synonym'] flare ['relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] flash ['relatedto'] burst ['synonym'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] flash ['relatedto'] shine ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] grid ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] grolier ['relatedto'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] guide ['relatedto'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] markings ['formof', 'relatedto'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] clothing ['relatedto'] shine ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] copy ['isa', 'relatedto'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] decoration ['isa'] marking ['isa', 'relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] gun ['usedfor', 'relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] gun ['relatedto'] flare ['relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] material ['relatedto'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] range ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] string ['relatedto'] marijuana ['relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] text ['capableof', 'isa', 'relatedto', 'partof'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] trace ['isa', 'mannerof'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] print ['relatedto'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] print ['relatedto'] burn ['mannerof', 'synonym'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] print ['synonym'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] rain ['antonym'] shine ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] reflection ['isa'] flare ['relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] signature ['relatedto', 'partof'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] signature ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] target ['relatedto', 'synonym'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] tide ['relatedto'] low ['relatedto'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] vein ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] wave ['relatedto'] hell ['synonym'] blaze
+spaceship ['relatedto'] pattern ['relatedto'] weather ['relatedto'] shine ['mannerof'] blaze
+spaceship ['relatedto'] pattern ['synonym'] mirror ['relatedto'] book ['isa'] blaze
+spaceship ['relatedto'] pattern ['synonym'] shape ['isa'] flare ['relatedto'] blaze
+spaceship ['relatedto'] position ['relatedto'] man ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] position ['isa', 'relatedto', 'synonym'] post ['relatedto'] flame ['relatedto'] blaze
+spaceship ['relatedto'] position ['isa', 'relatedto', 'synonym'] post ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] position ['relatedto'] low ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] position ['relatedto'] low ['relatedto'] flame ['relatedto'] blaze
+spaceship ['relatedto'] position ['relatedto'] low ['relatedto'] burn ['mannerof', 'synonym'] blaze
+spaceship ['relatedto'] position ['relatedto'] bottom ['relatedto'] low ['relatedto'] blaze
+spaceship ['relatedto'] position ['antonym'] attack ['antonym', 'isa', 'synonym'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] position ['antonym'] attack ['isa'] flare ['relatedto'] blaze
+spaceship ['relatedto'] position ['derivedfrom'] preposition ['relatedto'] low ['relatedto'] blaze
+spaceship ['relatedto'] position ['isa'] back ['relatedto'] book ['isa'] blaze
+spaceship ['relatedto'] position ['isa'] direction ['relatedto'] low ['relatedto'] blaze
+spaceship ['relatedto'] position ['isa', 'relatedto'] guard ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] position ['isa'] light ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+spaceship ['relatedto'] position ['isa'] light ['relatedto'] low ['relatedto'] blaze
+spaceship ['relatedto'] position ['isa'] light ['relatedto', 'synonym'] burn ['mannerof', 'synonym'] blaze
+spaceship ['relatedto'] position ['isa'] light ['relatedto'] flare ['relatedto'] blaze
+spaceship ['relatedto'] position ['isa'] light ['relatedto'] glare ['synonym'] blaze
+spaceship ['relatedto'] position ['isa'] light ['relatedto'] flame ['relatedto'] blaze
+spaceship ['relatedto'] position ['isa'] light ['relatedto'] shine ['mannerof'] blaze
+spaceship ['relatedto'] position ['isa', 'relatedto'] point ['isa', 'relatedto', 'synonym'] mark ['mannerof'] blaze
+spaceship ['relatedto'] position ['isa', 'relatedto'] setting ['relatedto'] mark ['mannerof'] blaze
+spaceship ['relatedto'] position ['isa', 'relatedto'] stand ['isa'] book ['isa'] blaze
+spaceship ['relatedto'] position ['mannerof'] aim ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze

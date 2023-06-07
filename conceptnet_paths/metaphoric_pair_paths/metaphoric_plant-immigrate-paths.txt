@@ -1,0 +1,100 @@
+plant ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] action ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] free ['relatedto'] freeman ['relatedto'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] denizen ['relatedto', 'synonym'] naturalize ['entails'] immigrate
+plant ['relatedto'] domesticate ['synonym'] naturalize ['entails'] immigrate
+plant ['relatedto'] ergasiophygophyte ['relatedto'] naturalize ['entails'] immigrate
+plant ['relatedto'] immigrant ['relatedto'] emigrate ['antonym', 'relatedto'] immigrate
+plant ['relatedto'] immigrant ['relatedto'] immigrator ['derivedfrom'] immigrate
+plant ['relatedto'] leave ['antonym', 'distinctfrom'] arrive ['entails'] immigrate
+plant ['relatedto'] leave ['relatedto', 'entails'] emigrate ['antonym', 'relatedto'] immigrate
+plant ['relatedto'] train ['relatedto'] arrive ['entails'] immigrate
+plant ['synonym'] establish ['synonym'] settle ['entails'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['synonym'] establish ['synonym'] settle ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] action ['hasprerequisite'] getting ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['isa'] arrival ['relatedto', 'derivedfrom'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] naturalize ['entails'] immigrate
+plant ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] emigration ['relatedto'] immigrate
+plant ['relatedto'] action ['relatedto'] camp ['antonym'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] action ['relatedto'] come ['mannerof', 'relatedto', 'synonym'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['relatedto'] enter ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['relatedto'] explain ['mannerof'] naturalize ['entails'] immigrate
+plant ['relatedto'] action ['relatedto'] fall ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['relatedto'] go ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['relatedto'] land ['etymologicallyrelatedto', 'mannerof'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['relatedto'] leave ['antonym', 'distinctfrom'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['relatedto'] leave ['relatedto', 'entails'] emigrate ['antonym', 'relatedto'] immigrate
+plant ['relatedto'] action ['relatedto'] move ['mannerof'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] action ['relatedto'] reach ['mannerof', 'relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['relatedto'] run ['relatedto'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] action ['relatedto'] travel ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] action ['synonym'] subject ['relatedto'] freeman ['relatedto'] immigrate
+plant ['relatedto'] smaller ['relatedto'] city ['relatedto'] freeman ['relatedto'] immigrate
+plant ['relatedto'] biological ['synonym'] natural ['relatedto', 'derivedfrom'] naturalize ['entails'] immigrate
+plant ['capableof', 'relatedto', 'synonym'] grow ['relatedto'] action ['relatedto'] arrive ['entails'] immigrate
+plant ['capableof', 'relatedto', 'synonym'] grow ['antonym', 'relatedto'] getting ['relatedto'] arrive ['entails'] immigrate
+plant ['capableof', 'relatedto', 'synonym'] grow ['mannerof', 'relatedto'] change ['mannerof'] naturalize ['entails'] immigrate
+plant ['capableof', 'relatedto', 'synonym'] grow ['relatedto'] become ['relatedto'] arrive ['entails'] immigrate
+plant ['capableof', 'relatedto', 'synonym'] grow ['relatedto'] movement ['relatedto'] emigration ['relatedto'] immigrate
+plant ['capableof', 'relatedto', 'synonym'] grow ['relatedto'] natural ['relatedto', 'derivedfrom'] naturalize ['entails'] immigrate
+plant ['capableof', 'relatedto', 'synonym'] grow ['relatedto'] appear ['synonym'] arrive ['entails'] immigrate
+plant ['relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land ['etymologicallyrelatedto', 'mannerof'] arrive ['entails'] immigrate
+plant ['relatedto'] earth ['relatedto'] home ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] ground ['mannerof'] reach ['mannerof', 'relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] ground ['relatedto'] camp ['antonym'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] ground ['relatedto', 'synonym'] land ['etymologicallyrelatedto', 'mannerof'] arrive ['entails'] immigrate
+plant ['relatedto'] ground ['relatedto'] level ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] ground ['relatedto'] area ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] ground ['relatedto'] body ['isa'] immigration ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land ['etymologicallyrelatedto', 'mannerof'] arrive ['entails'] immigrate
+plant ['relatedto'] water ['relatedto'] body ['isa'] immigration ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] water ['relatedto'] city ['relatedto'] freeman ['relatedto'] immigrate
+plant ['relatedto'] water ['relatedto'] level ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] water ['relatedto'] plane ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto'] water ['relatedto'] potamodromous ['relatedto'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] alien ['antonym'] citizen ['antonym'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] alien ['antonym'] citizen ['isa', 'relatedto', 'synonym'] freeman ['relatedto'] immigrate
+plant ['relatedto'] alien ['antonym'] native ['antonym', 'distinctfrom'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] alien ['antonym'] native ['relatedto'] emigrate ['antonym', 'relatedto'] immigrate
+plant ['relatedto'] alien ['relatedto'] animal ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] alien ['relatedto'] country ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] alien ['relatedto'] country ['relatedto'] emigration ['relatedto'] immigrate
+plant ['relatedto'] alien ['relatedto'] home ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto', 'hasproperty'] alive ['relatedto'] action ['relatedto'] arrive ['entails'] immigrate
+plant ['relatedto', 'hasproperty'] alive ['relatedto', 'hasproperty'] animal ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto', 'hasproperty'] alive ['relatedto'] body ['isa'] immigration ['relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] free ['antonym', 'distinctfrom'] slave ['antonym', 'relatedto'] freeman ['relatedto'] immigrate
+plant ['relatedto'] free ['derivedfrom'] freelander ['relatedto'] emigration ['relatedto'] immigrate
+plant ['relatedto'] free ['derivedfrom'] freewoman ['synonym'] freeman ['relatedto'] immigrate
+plant ['relatedto'] free ['mannerof'] run ['relatedto'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['relatedto'] free ['relatedto', 'synonym'] independent ['relatedto'] freeman ['relatedto'] immigrate
+plant ['relatedto'] free ['relatedto'] freedom ['relatedto'] freeman ['relatedto'] immigrate
+plant ['relatedto'] free ['relatedto'] freely ['relatedto'] freeman ['relatedto'] immigrate
+plant ['relatedto'] sometimes ['antonym'] permanent ['relatedto'] emigration ['relatedto'] immigrate
+plant ['relatedto'] sometimes ['relatedto'] animal ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['isa'] migrator ['relatedto', 'derivedfrom'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] body ['isa'] immigration ['relatedto', 'derivedfrom'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] movement ['relatedto'] emigration ['relatedto'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] denizen ['relatedto', 'synonym'] naturalize ['entails'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] domesticate ['synonym'] naturalize ['entails'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] immigrant ['relatedto'] emigrate ['antonym', 'relatedto'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] immigrant ['relatedto'] immigrator ['derivedfrom'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] move ['mannerof'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] train ['relatedto'] arrive ['entails'] immigrate
+plant ['antonym'] mineral ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['antonym'] harvest ['relatedto'] fall ['relatedto'] arrive ['entails'] immigrate
+plant ['antonym'] harvest ['relatedto'] time ['relatedto'] arrive ['entails'] immigrate
+plant ['antonym'] meat ['hasa', 'relatedto', 'atlocation'] animal ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['antonym'] rock ['relatedto'] country ['relatedto'] immigrant ['relatedto', 'derivedfrom'] immigrate
+plant ['antonym'] rock ['relatedto'] country ['relatedto'] emigration ['relatedto'] immigrate
+plant ['antonym'] rock ['mannerof', 'relatedto'] move ['mannerof'] migrate ['mannerof', 'relatedto', 'derivedfrom'] immigrate
+plant ['antonym'] rock ['relatedto'] natural ['relatedto', 'derivedfrom'] naturalize ['entails'] immigrate
+plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] leave ['antonym', 'distinctfrom'] arrive ['entails'] immigrate
+plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] leave ['relatedto', 'entails'] emigrate ['antonym', 'relatedto'] immigrate
+plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] home ['relatedto'] arrive ['entails'] immigrate
+plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] plane ['relatedto'] arrive ['entails'] immigrate
+plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['atlocation'] town ['relatedto'] freeman ['relatedto'] immigrate
+plant ['antonym', 'createdby', 'relatedto'] seed ['relatedto'] new ['relatedto'] arrive ['entails'] immigrate
+plant ['antonym', 'createdby', 'relatedto'] seed ['antonym'] full ['relatedto'] freeman ['relatedto'] immigrate
+plant ['antonym', 'createdby', 'relatedto'] seed ['relatedto'] early ['relatedto'] arrive ['entails'] immigrate

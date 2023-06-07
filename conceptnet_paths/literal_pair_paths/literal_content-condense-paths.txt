@@ -1,0 +1,100 @@
+content ['relatedto'] air ['isa', 'relatedto', 'synonym'] gas ['relatedto'] condense
+content ['relatedto'] air ['relatedto'] dew_point ['relatedto'] condense
+content ['relatedto', 'synonym'] happy ['relatedto'] arise ['mannerof'] condense
+content ['isa'] tradition ['antonym'] change ['mannerof'] condense
+content ['relatedto'] contain ['relatedto'] contract ['synonym'] condense
+content ['relatedto'] empty ['mannerof'] remove ['mannerof'] condense
+content ['relatedto'] empty ['mannerof'] change ['mannerof'] condense
+content ['relatedto'] information ['hasprerequisite'] change ['mannerof'] condense
+content ['relatedto'] information ['receivesaction'] condensed ['formof'] condense
+content ['isa'] experience ['mannerof'] change ['mannerof'] condense
+content ['relatedto'] filling ['relatedto'] condenser ['relatedto', 'derivedfrom'] condense
+content ['relatedto'] filling ['relatedto'] gas ['relatedto'] condense
+content ['relatedto'] glass ['relatedto'] liquid ['relatedto'] condense
+content ['relatedto'] glass ['derivedfrom'] glasma ['relatedto'] condense
+content ['isa'] idea ['relatedto'] essence ['relatedto'] condense
+content ['isa'] kernel ['relatedto', 'synonym'] essence ['relatedto'] condense
+content ['relatedto'] volume ['relatedto'] concentration ['relatedto'] condense
+content ['relatedto'] motion ['relatedto'] arise ['mannerof'] condense
+content ['relatedto'] motion ['isa', 'relatedto'] change ['mannerof'] condense
+content ['relatedto'] bowl ['relatedto'] liquid ['relatedto'] condense
+content ['relatedto'] satisfaction ['isa'] change ['mannerof'] condense
+content ['derivedfrom'] decontent ['relatedto'] remove ['mannerof'] condense
+content ['isa'] issue ['synonym'] arise ['mannerof'] condense
+content ['relatedto'] stuff ['relatedto'] compress ['relatedto'] condense
+content ['relatedto'] docket ['relatedto'] digest ['synonym'] condense
+content ['relatedto'] epigenesis ['relatedto'] change ['mannerof'] condense
+content ['relatedto'] skim ['mannerof', 'relatedto', 'synonym'] remove ['mannerof'] condense
+content ['relatedto'] syrup ['isa'] liquid ['relatedto'] condense
+content ['relatedto'] vehicle ['relatedto'] gas ['relatedto'] condense
+content ['relatedto'] vehicle ['relatedto'] liquid ['relatedto'] condense
+content ['synonym'] message ['relatedto'] digest ['synonym'] condense
+content ['relatedto'] air ['relatedto'] nothing ['relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'distinctfrom'] fire ['mannerof'] remove ['mannerof'] condense
+content ['relatedto'] air ['antonym', 'distinctfrom'] fire ['relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] vacuum ['relatedto'] cold_trap ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] vacuum ['relatedto'] condenser ['relatedto', 'derivedfrom'] condense
+content ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto', 'atlocation'] condensation ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] boil ['antonym', 'relatedto'] condense
+content ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] precipitate ['entails'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] heat ['relatedto'] boil ['antonym', 'relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] heat ['mannerof'] change ['mannerof'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] heat ['usedfor', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto', 'atlocation'] smoke ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] liquid ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] space ['atlocation'] gas ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] steam ['relatedto'] boil ['antonym', 'relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] steam ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] steam ['antonym', 'distinctfrom', 'relatedto'] liquid ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] steam ['antonym', 'relatedto'] condensate ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] steam ['relatedto'] noncondensing ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] steam ['relatedto'] condensation ['relatedto'] condense
+content ['relatedto'] air ['antonym', 'relatedto'] steam ['relatedto'] condensed ['formof'] condense
+content ['relatedto'] air ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] wind ['relatedto', 'synonym'] gas ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] balloon ['relatedto'] distill ['synonym'] condense
+content ['relatedto'] air ['atlocation'] bridge ['relatedto'] remove ['mannerof'] condense
+content ['relatedto'] air ['atlocation'] bridge ['isa', 'partof'] contract ['synonym'] condense
+content ['relatedto'] air ['atlocation'] jar ['atlocation'] change ['mannerof'] condense
+content ['relatedto'] air ['atlocation'] jar ['atlocation'] liquid ['relatedto'] condense
+content ['relatedto'] air ['atlocation'] pocket ['relatedto', 'atlocation'] change ['mannerof'] condense
+content ['relatedto'] air ['atlocation'] pocket ['relatedto'] compact ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] sky ['isa'] gas ['relatedto'] condense
+content ['relatedto'] air ['atlocation'] arm ['relatedto'] extend ['antonym'] condense
+content ['relatedto'] air ['atlocation'] ash ['mannerof'] change ['mannerof'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] balloons ['usedfor', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['atlocation'] carbon_dioxide ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['atlocation'] carbon_dioxide ['capableof'] sublime ['entails'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] cloud ['mannerof'] change ['mannerof'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] cloud ['relatedto'] condensation ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] cloud ['relatedto'] condensed ['formof'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] dust ['entails'] remove ['mannerof'] condense
+content ['relatedto'] air ['atlocation'] gases ['formof', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['atlocation'] helium ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] humidity ['relatedto'] dew_point ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] hydrogen ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['atlocation'] jet ['relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['atlocation'] jet ['relatedto'] liquid ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] nitrogen ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['hasa', 'relatedto', 'partof', 'atlocation'] oxygen ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] rain ['mannerof', 'relatedto'] precipitate ['entails'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] rain ['relatedto'] condensation ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] rain ['relatedto'] liquid ['relatedto'] condense
+content ['relatedto'] air ['atlocation'] snowflake ['isa'] precipitate ['entails'] condense
+content ['relatedto'] air ['atlocation'] snowflake ['relatedto'] graupel ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] sound ['relatedto'] arise ['mannerof'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] vapor ['isa', 'relatedto', 'synonym'] gas ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] vapor ['relatedto'] liquid ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'atlocation'] vapor ['relatedto'] dew_point ['relatedto'] condense
+content ['relatedto'] air ['distinctfrom'] fume ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['distinctfrom'] fume ['relatedto'] liquid ['relatedto'] condense
+content ['relatedto'] air ['hasa', 'relatedto'] pressure ['relatedto'] compress ['relatedto'] condense
+content ['relatedto'] air ['hasa', 'relatedto'] pressure ['relatedto'] cymogene ['relatedto'] condense
+content ['relatedto'] air ['hasa', 'relatedto'] pressure ['relatedto'] noncondensing ['relatedto'] condense
+content ['relatedto'] air ['relatedto', 'hasprerequisite'] living ['causes'] change ['mannerof'] condense
+content ['relatedto'] air ['relatedto', 'hasproperty'] invisible ['relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['isa', 'relatedto', 'synonym'] atmosphere ['isa'] gas ['relatedto'] condense
+content ['relatedto'] air ['isa', 'relatedto', 'synonym'] atmosphere ['relatedto'] noncondensing ['relatedto'] condense
+content ['relatedto'] air ['isa', 'relatedto'] element ['relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['isa'] fluid ['isa', 'relatedto'] gas ['relatedto'] condense
+content ['relatedto'] air ['isa'] fluid ['isa', 'relatedto', 'synonym'] liquid ['relatedto'] condense

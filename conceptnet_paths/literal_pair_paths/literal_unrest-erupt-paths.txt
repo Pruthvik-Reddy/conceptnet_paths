@@ -1,0 +1,100 @@
+unrest ['relatedto'] work ['antonym', 'relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] distress ['isa', 'relatedto'] pressure ['relatedto'] erupt
+unrest ['relatedto'] distress ['relatedto', 'similarto', 'synonym'] afflict ['mannerof'] erupt
+unrest ['relatedto'] distress ['relatedto'] flare ['synonym'] erupt
+unrest ['relatedto'] trouble ['synonym'] afflict ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto', 'synonym'] act ['mannerof'] begin ['mannerof'] erupt
+unrest ['relatedto'] work ['isa', 'relatedto'] action ['isa'] eruption ['relatedto'] erupt
+unrest ['relatedto'] work ['isa', 'relatedto'] action ['relatedto'] begin ['mannerof'] erupt
+unrest ['relatedto'] work ['isa', 'relatedto'] action ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['isa', 'relatedto'] activity ['isa'] burst ['synonym'] erupt
+unrest ['relatedto'] work ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] rest ['relatedto', 'synonym'] break ['synonym'] erupt
+unrest ['relatedto'] work ['capableof'] adult ['isa'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] lunch ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['mannerof'] man ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['haslastsubevent'] die ['mannerof'] change_state ['mannerof'] erupt
+unrest ['relatedto'] work ['haslastsubevent'] die ['relatedto'] extinct ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] time ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['antonym', 'relatedto'] break ['mannerof'] appear ['mannerof'] erupt
+unrest ['relatedto'] work ['antonym', 'relatedto'] break ['mannerof'] change_state ['mannerof'] erupt
+unrest ['relatedto'] work ['antonym', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] burst ['synonym'] erupt
+unrest ['relatedto'] work ['antonym', 'relatedto'] break ['synonym'] recrudesce ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] build ['antonym'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] build ['mannerof'] intensify ['mannerof'] erupt
+unrest ['relatedto'] work ['antonym'] game ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['antonym'] game ['isa'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['antonym', 'distinctfrom', 'relatedto'] play ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['antonym', 'distinctfrom', 'relatedto'] play ['mannerof'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['antonym', 'relatedto'] vacation ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['antonym'] relax ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['antonym'] relax ['mannerof'] change_state ['mannerof'] erupt
+unrest ['relatedto'] work ['antonym'] relaxation ['relatedto'] tension ['relatedto'] erupt
+unrest ['relatedto'] work ['atlocation'] coffee ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['capableof'] pain ['relatedto', 'synonym'] afflict ['mannerof'] erupt
+unrest ['relatedto'] work ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] energy ['relatedto'] burst ['synonym'] erupt
+unrest ['relatedto'] work ['formof', 'relatedto', 'derivedfrom', 'synonym'] working ['antonym', 'distinctfrom', 'relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['hasprerequisite'] eat ['relatedto'] eject ['relatedto'] erupt
+unrest ['relatedto'] work ['hasprerequisite'] release_energy ['haslastsubevent'] explode ['mannerof'] erupt
+unrest ['relatedto'] work ['hasprerequisite'] concentrate ['mannerof'] change_state ['mannerof'] erupt
+unrest ['relatedto'] work ['hasprerequisite'] thinking ['causes'] tension ['relatedto'] erupt
+unrest ['relatedto'] work ['mannerof'] fill ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['mannerof'] fill ['mannerof'] change_state ['mannerof'] erupt
+unrest ['relatedto'] work ['mannerof', 'relatedto'] serve ['relatedto'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['mannerof'] wait ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['mannerof'] become ['relatedto', 'synonym'] appear ['mannerof'] erupt
+unrest ['relatedto'] work ['mannerof'] become ['mannerof'] break ['synonym'] erupt
+unrest ['relatedto'] work ['mannerof'] become ['mannerof'] change_state ['mannerof'] erupt
+unrest ['relatedto'] work ['mannerof', 'relatedto'] move ['mannerof'] expel ['relatedto'] erupt
+unrest ['relatedto'] work ['mannerof'] capture ['relatedto', 'synonym'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] bell_work ['relatedto'] begin ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] bunk ['relatedto'] expel ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] contract ['mannerof', 'synonym'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] design ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] fisherman ['relatedto'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] fuck_dog ['relatedto'] appear ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto', 'synonym'] function ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] horse ['relatedto'] extinct ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] listen ['entails'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] manual_labor ['relatedto'] spontaneous ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] meeting ['atlocation'] tension ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] occupation ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] plan ['antonym'] spontaneous ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] primer ['relatedto'] ignite ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] safety ['relatedto'] flare ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] shell ['relatedto'] burst ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] shell ['relatedto'] ignite ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] stage ['relatedto'] begin ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] surface ['relatedto'] appear ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] surface ['relatedto'] efflorescence ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] surface ['relatedto'] pressure ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] technical_tap ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] think ['relatedto'] appear ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] touch ['isa'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] touch ['relatedto'] pressure ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] trick ['relatedto'] appear ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] five ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['usedfor', 'relatedto'] mechanism ['relatedto'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] physical ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] stress ['isa', 'synonym'] tension ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] stress ['relatedto'] pressure ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] stuff ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] dress ['mannerof'] change_state ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] force ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] force ['isa', 'relatedto'] pressure ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] achieve ['mannerof'] begin ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] cause ['relatedto'] spontaneous ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] happen ['mannerof'] appear ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] happen ['mannerof'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] hurt ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] work ['relatedto'] hurt ['mannerof'] afflict ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto'] hurt ['mannerof'] catch ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto', 'synonym'] influence ['relatedto'] pressure ['relatedto'] erupt
+unrest ['relatedto'] work ['relatedto'] occur ['mannerof', 'synonym'] appear ['mannerof'] erupt
+unrest ['relatedto'] work ['relatedto', 'synonym'] shape ['isa'] flare ['synonym'] erupt
+unrest ['relatedto'] work ['synonym'] sour ['mannerof'] change_state ['mannerof'] erupt
+unrest ['relatedto'] work ['synonym'] solve ['mannerof'] break ['synonym'] erupt
+unrest ['relatedto'] confusion ['relatedto'] state ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] confusion ['atlocation'] class ['relatedto'] break ['synonym'] erupt
+unrest ['relatedto'] confusion ['isa'] disorder ['isa'] impaction ['relatedto'] erupt
+unrest ['relatedto'] confusion ['relatedto'] de ['relatedto'] intensify ['mannerof'] erupt
+unrest ['relatedto'] confusion ['relatedto'] rout ['synonym'] expel ['relatedto'] erupt

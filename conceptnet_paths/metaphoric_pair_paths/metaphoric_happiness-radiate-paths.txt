@@ -1,0 +1,100 @@
+happiness ['relatedto'] radiant ['relatedto'] radiate
+happiness ['antonym'] depression ['relatedto'] waterhole ['relatedto'] radiate
+happiness ['capableof'] spread ['isa'] radiation ['relatedto'] radiate
+happiness ['capableof'] spread ['relatedto'] eradiate ['derivedfrom'] radiate
+happiness ['capableof'] spread ['relatedto'] run ['mannerof'] radiate
+happiness ['causes'] cheer ['synonym'] cordial ['relatedto'] radiate
+happiness ['causes'] hearing_music ['hasprerequisite'] radio ['relatedto'] radiate
+happiness ['isa'] album ['isa'] ray ['relatedto', 'synonym'] radiate
+happiness ['isa', 'relatedto'] emotion ['relatedto'] issue ['mannerof'] radiate
+happiness ['isa'] feeling ['isa'] glow ['mannerof', 'synonym'] radiate
+happiness ['isa'] radiance ['synonym'] glow ['mannerof', 'synonym'] radiate
+happiness ['isa'] radiance ['isa'] gleam ['mannerof'] radiate
+happiness ['isa'] radiance ['synonym'] glowing ['relatedto'] radiate
+happiness ['isa'] radiance ['relatedto'] luminosity ['relatedto'] radiate
+happiness ['isa'] radiance ['relatedto'] radiant ['relatedto'] radiate
+happiness ['relatedto'] content ['relatedto'] flash ['mannerof'] radiate
+happiness ['relatedto'] content ['isa'] issue ['mannerof'] radiate
+happiness ['relatedto'] delight ['relatedto'] wave ['relatedto'] radiate
+happiness ['relatedto'] droop ['relatedto'] proceed ['relatedto'] radiate
+happiness ['relatedto'] gun ['relatedto'] wave ['relatedto'] radiate
+happiness ['relatedto', 'synonym'] joy ['relatedto'] wave ['relatedto'] radiate
+happiness ['relatedto'] luck ['relatedto'] issue ['mannerof'] radiate
+happiness ['relatedto'] health ['relatedto'] glowing ['relatedto'] radiate
+happiness ['relatedto'] radiant ['relatedto'] emit ['mannerof', 'relatedto'] radiate
+happiness ['relatedto'] radiant ['relatedto'] radiation ['relatedto'] radiate
+happiness ['relatedto'] radiant ['relatedto'] ray ['relatedto', 'synonym'] radiate
+happiness ['relatedto'] smile ['mannerof', 'relatedto', 'synonym'] beam ['relatedto'] radiate
+happiness ['relatedto'] toy ['relatedto'] radio ['relatedto'] radiate
+happiness ['isa', 'relatedto', 'synonym'] bliss ['isa'] book ['relatedto', 'partof'] spine ['relatedto'] radiate
+happiness ['isa', 'relatedto', 'synonym'] bliss ['isa'] book ['relatedto'] illuminate ['relatedto'] radiate
+happiness ['isa', 'relatedto', 'synonym'] bliss ['isa'] book ['relatedto'] issue ['mannerof'] radiate
+happiness ['isa', 'relatedto', 'synonym'] bliss ['relatedto'] joy ['relatedto'] wave ['relatedto'] radiate
+happiness ['antonym'] anger ['relatedto'] red ['relatedto'] run ['mannerof'] radiate
+happiness ['antonym'] anger ['antonym', 'relatedto'] calm ['antonym'] wave ['relatedto'] radiate
+happiness ['antonym'] anger ['causesdesire'] kill ['haslastsubevent'] run ['mannerof'] radiate
+happiness ['antonym'] anger ['isa', 'relatedto'] emotion ['relatedto'] issue ['mannerof'] radiate
+happiness ['antonym'] anger ['mannerof'] feel ['mannerof'] glow ['mannerof', 'synonym'] radiate
+happiness ['antonym'] anger ['mannerof'] feel ['relatedto'] issue ['mannerof'] radiate
+happiness ['antonym'] anger ['mannerof', 'relatedto'] steam ['mannerof'] emit ['mannerof', 'relatedto'] radiate
+happiness ['antonym'] anger ['relatedto'] burst ['relatedto'] flash ['mannerof'] radiate
+happiness ['antonym'] anger ['relatedto'] cross ['relatedto'] beam ['relatedto'] radiate
+happiness ['antonym'] anger ['relatedto'] cross ['relatedto'] run ['mannerof'] radiate
+happiness ['antonym'] anger ['relatedto'] really ['relatedto'] run ['mannerof'] radiate
+happiness ['antonym'] anger ['relatedto'] feeling ['isa'] glow ['mannerof', 'synonym'] radiate
+happiness ['antonym'] anger ['relatedto'] cause ['relatedto'] run ['mannerof'] radiate
+happiness ['antonym'] anger ['relatedto'] cause ['relatedto'] wave ['relatedto'] radiate
+happiness ['antonym'] anger ['relatedto'] excandescence ['relatedto'] glowing ['relatedto'] radiate
+happiness ['antonym'] anger ['relatedto'] froth ['mannerof'] exude ['synonym'] radiate
+happiness ['antonym'] anger ['relatedto'] fume ['mannerof'] emit ['mannerof', 'relatedto'] radiate
+happiness ['antonym'] anger ['relatedto'] glower ['relatedto'] glow ['mannerof', 'synonym'] radiate
+happiness ['antonym'] anger ['relatedto'] incandescence ['synonym'] glow ['mannerof', 'synonym'] radiate
+happiness ['antonym'] anger ['relatedto'] incandescence ['isa'] luminosity ['relatedto'] radiate
+happiness ['antonym'] anger ['relatedto'] incense ['isa'] compound ['similarto'] radiate
+happiness ['antonym'] anger ['relatedto'] red_hot ['relatedto'] glow ['mannerof', 'synonym'] radiate
+happiness ['antonym'] anger ['relatedto'] roar ['mannerof'] proceed ['relatedto'] radiate
+happiness ['antonym'] anger ['synonym'] inflame ['relatedto'] glow ['mannerof', 'synonym'] radiate
+happiness ['antonym'] depression ['isa'] trough ['antonym', 'relatedto'] wave ['relatedto'] radiate
+happiness ['antonym'] depression ['relatedto'] problem ['relatedto'] issue ['mannerof'] radiate
+happiness ['antonym'] depression ['relatedto'] stop ['antonym', 'haslastsubevent', 'relatedto'] run ['mannerof'] radiate
+happiness ['antonym'] depression ['isa'] hell ['relatedto'] wave ['relatedto'] radiate
+happiness ['antonym'] depression ['isa'] dip ['relatedto'] beam ['relatedto'] radiate
+happiness ['antonym'] depression ['relatedto'] condition ['relatedto'] issue ['mannerof'] radiate
+happiness ['antonym'] depression ['relatedto'] cry ['relatedto'] shed ['relatedto'] radiate
+happiness ['antonym'] depression ['relatedto'] disease ['isa'] carbuncle ['relatedto'] radiate
+happiness ['antonym'] depression ['antonym', 'relatedto'] elevation ['relatedto'] wave ['relatedto'] radiate
+happiness ['antonym'] depression ['causes', 'relatedto'] suicide ['relatedto'] run ['mannerof'] radiate
+happiness ['antonym'] depression ['causes'] hearing_news ['usedfor', 'hasprerequisite'] radio ['relatedto'] radiate
+happiness ['antonym'] depression ['relatedto'] crash ['relatedto'] wave ['relatedto'] radiate
+happiness ['antonym'] depression ['relatedto'] market ['relatedto'] flash ['mannerof'] radiate
+happiness ['antonym'] depression ['relatedto'] imipramine ['relatedto'] compound ['similarto'] radiate
+happiness ['antonym'] depression ['relatedto'] slough ['relatedto', 'synonym'] shed ['relatedto'] radiate
+happiness ['antonym'] depression ['relatedto'] uvala ['relatedto'] compound ['similarto'] radiate
+happiness ['antonym'] depression ['relatedto'] watering_hole ['synonym'] waterhole ['relatedto'] radiate
+happiness ['antonym'] sadness ['causesdesire', 'relatedto'] cry ['relatedto'] shed ['relatedto'] radiate
+happiness ['antonym'] sadness ['isa', 'relatedto'] depression ['relatedto'] waterhole ['relatedto'] radiate
+happiness ['antonym'] sadness ['isa'] feeling ['isa'] glow ['mannerof', 'synonym'] radiate
+happiness ['antonym'] sadness ['antonym'] joy ['relatedto'] wave ['relatedto'] radiate
+happiness ['antonym'] sadness ['causes'] hearing_news ['usedfor', 'hasprerequisite'] radio ['relatedto'] radiate
+happiness ['antonym'] sadness ['isa', 'relatedto'] emotion ['relatedto'] issue ['mannerof'] radiate
+happiness ['antonym'] suffering ['relatedto'] burn ['relatedto'] radiation ['relatedto'] radiate
+happiness ['antonym'] suffering ['relatedto'] burn ['synonym'] glow ['mannerof', 'synonym'] radiate
+happiness ['antonym'] suffering ['isa'] emotion ['relatedto'] issue ['mannerof'] radiate
+happiness ['antonym'] suffering ['isa'] experiencing_emotion ['isa'] glowing ['relatedto'] radiate
+happiness ['antonym', 'distinctfrom'] unhappiness ['relatedto'] cry ['relatedto'] shed ['relatedto'] radiate
+happiness ['antonym', 'distinctfrom'] unhappiness ['relatedto'] depression ['relatedto'] waterhole ['relatedto'] radiate
+happiness ['atlocation'] celebration ['relatedto'] time ['relatedto'] flash ['mannerof'] radiate
+happiness ['atlocation'] celebration ['relatedto'] time ['relatedto'] issue ['mannerof'] radiate
+happiness ['atlocation'] celebration ['relatedto'] time ['relatedto'] run ['mannerof'] radiate
+happiness ['atlocation'] celebration ['relatedto'] card ['relatedto'] flash ['mannerof'] radiate
+happiness ['atlocation'] celebration ['usedfor', 'relatedto'] party ['relatedto'] run ['mannerof'] radiate
+happiness ['atlocation'] celebration ['relatedto'] entertainment ['relatedto'] radio ['relatedto'] radiate
+happiness ['atlocation'] celebration ['relatedto'] double_happiness ['relatedto'] compound ['similarto'] radiate
+happiness ['atlocation'] celebration ['relatedto'] event ['relatedto'] emit ['mannerof', 'relatedto'] radiate
+happiness ['atlocation'] celebration ['relatedto'] event ['relatedto'] issue ['mannerof'] radiate
+happiness ['atlocation'] opera ['partof'] act ['definedas'] proceed ['relatedto'] radiate
+happiness ['atlocation'] opera ['relatedto'] work ['relatedto'] issue ['mannerof'] radiate
+happiness ['atlocation'] opera ['relatedto'] work ['relatedto'] run ['mannerof'] radiate
+happiness ['atlocation'] opera ['relatedto'] drama ['relatedto'] radio ['relatedto'] radiate
+happiness ['atlocation'] opera ['isa', 'atlocation'] show ['mannerof'] flash ['mannerof'] radiate
+happiness ['atlocation'] opera ['relatedto'] company ['isa'] habitat ['relatedto'] radiate

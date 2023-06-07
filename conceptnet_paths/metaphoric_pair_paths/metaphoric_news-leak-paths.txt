@@ -1,0 +1,100 @@
+news ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['antonym', 'isa', 'relatedto'] information ['relatedto'] leak
+news ['relatedto'] late ['motivatedbygoal'] run ['relatedto'] leak
+news ['relatedto'] boring ['relatedto'] hole ['isa', 'relatedto'] leak
+news ['relatedto'] boring ['relatedto'] drip ['relatedto'] leak
+news ['relatedto'] morning ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['relatedto'] man ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['relatedto'] article ['madeof'] information ['relatedto'] leak
+news ['antonym', 'relatedto'] current ['relatedto', 'atlocation'] water ['relatedto'] leak
+news ['antonym', 'relatedto'] current ['relatedto', 'synonym'] electricity ['relatedto'] leak
+news ['antonym', 'relatedto'] current ['relatedto'] liquid ['relatedto'] leak
+news ['antonym', 'relatedto'] current ['relatedto'] fluid ['relatedto'] leak
+news ['relatedto'] bad ['relatedto'] problem ['relatedto'] leak
+news ['relatedto'] bad ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['relatedto'] bad ['relatedto'] mole ['relatedto'] leak
+news ['relatedto'] magazine ['relatedto'] issue ['mannerof'] leak
+news ['hasproperty'] fun ['usedfor', 'relatedto'] lake ['etymologicallyrelatedto'] leak
+news ['relatedto'] break ['relatedto'] problem ['relatedto'] leak
+news ['relatedto'] break ['capableof'] faucet ['relatedto'] leak
+news ['relatedto'] break ['causes', 'relatedto', 'synonym'] disclose ['mannerof'] leak
+news ['relatedto'] break ['formof', 'relatedto'] broken ['relatedto'] leak
+news ['relatedto'] break ['isa', 'mannerof', 'relatedto'] escape ['relatedto', 'synonym'] leak
+news ['relatedto'] break ['relatedto'] bilge ['mannerof', 'relatedto'] leak
+news ['relatedto'] break ['relatedto', 'synonym'] crack ['relatedto'] leak
+news ['relatedto'] break ['relatedto'] hole ['isa', 'relatedto'] leak
+news ['relatedto'] break ['relatedto'] spill ['relatedto'] leak
+news ['relatedto'] paper ['relatedto'] spill ['relatedto'] leak
+news ['relatedto'] line ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['relatedto'] line ['relatedto'] pipe ['relatedto'] leak
+news ['relatedto'] stand ['antonym'] run ['relatedto'] leak
+news ['relatedto'] coffee ['atlocation'] water ['relatedto'] leak
+news ['relatedto'] coffee ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['relatedto'] coffee ['isa'] liquid ['relatedto'] leak
+news ['relatedto'] show ['atlocation'] plumbing ['relatedto'] leak
+news ['relatedto'] show ['relatedto'] mole ['relatedto'] leak
+news ['relatedto'] communication ['relatedto'] information ['relatedto'] leak
+news ['relatedto'] spread ['relatedto'] run ['relatedto'] leak
+news ['relatedto'] spread ['relatedto'] spill ['relatedto'] leak
+news ['relatedto'] contents ['relatedto'] water ['relatedto'] leak
+news ['relatedto'] contents ['relatedto'] pipe ['relatedto'] leak
+news ['antonym', 'isa', 'relatedto'] information ['relatedto'] doc_drop ['relatedto'] leak
+news ['antonym', 'isa', 'relatedto'] information ['relatedto'] leaker ['relatedto'] leak
+news ['antonym', 'isa', 'relatedto'] information ['relatedto'] megaleak ['relatedto'] leak
+news ['antonym', 'isa', 'relatedto'] information ['relatedto'] plumber ['relatedto'] leak
+news ['antonym'] propaganda ['isa'] information ['relatedto'] leak
+news ['antonym', 'relatedto'] weather ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['partof', 'relatedto', 'derivedfrom', 'atlocation'] newspaper ['partof', 'atlocation'] information ['relatedto'] leak
+news ['partof', 'relatedto', 'derivedfrom', 'atlocation'] newspaper ['relatedto'] issue ['mannerof'] leak
+news ['relatedto', 'atlocation'] television ['atlocation'] information ['relatedto'] leak
+news ['relatedto', 'atlocation'] tv ['relatedto'] mole ['relatedto'] leak
+news ['atlocation'] shark ['relatedto'] water ['relatedto'] leak
+news ['causesdesire', 'motivatedbygoal'] read_newspaper ['motivatedbygoal'] information ['relatedto'] leak
+news ['derivedfrom'] newsbreak ['derivedfrom'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['isa', 'relatedto'] latest ['relatedto'] information ['relatedto'] leak
+news ['isa'] information_content ['isa'] information ['relatedto'] leak
+news ['isa', 'relatedto'] report ['relatedto'] information ['relatedto'] leak
+news ['motivatedbygoal'] surf_net ['motivatedbygoal'] information ['relatedto'] leak
+news ['relatedto', 'partof'] media ['relatedto'] kite_flying ['relatedto'] leak
+news ['relatedto', 'partof'] media ['relatedto'] plamegate ['relatedto'] leak
+news ['relatedto', 'partof'] media ['relatedto'] run ['relatedto'] leak
+news ['relatedto', 'receivesaction'] broadcast ['relatedto'] run ['relatedto'] leak
+news ['relatedto'] courant ['relatedto'] run ['relatedto'] leak
+news ['relatedto'] fact ['relatedto'] disclosure ['isa', 'relatedto'] leak
+news ['relatedto'] fact ['isa', 'relatedto'] information ['relatedto'] leak
+news ['relatedto'] feed ['relatedto'] pipe ['relatedto'] leak
+news ['relatedto'] feed ['synonym'] run ['relatedto'] leak
+news ['relatedto'] infoholic ['relatedto'] information ['relatedto'] leak
+news ['relatedto'] marmalade_dropper ['relatedto'] information ['relatedto'] leak
+news ['relatedto'] anchor ['relatedto'] water ['relatedto'] leak
+news ['relatedto'] anchor ['relatedto'] boat ['relatedto', 'atlocation'] leak
+news ['relatedto'] breaking ['formof', 'relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['relatedto'] breaking ['relatedto'] escape ['relatedto', 'synonym'] leak
+news ['relatedto'] channel ['relatedto'] water ['relatedto'] leak
+news ['relatedto'] channel ['relatedto'] lake ['etymologicallyrelatedto'] leak
+news ['relatedto'] channel ['relatedto'] mole ['relatedto'] leak
+news ['relatedto'] content ['relatedto'] information ['relatedto'] leak
+news ['relatedto'] content ['isa'] issue ['mannerof'] leak
+news ['relatedto'] daily ['relatedto'] run ['relatedto'] leak
+news ['relatedto'] election ['relatedto'] run ['relatedto'] leak
+news ['relatedto'] event ['relatedto'] issue ['mannerof'] leak
+news ['relatedto'] facts ['isa'] information ['relatedto'] leak
+news ['relatedto'] five ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+news ['relatedto'] five ['relatedto'] lake ['etymologicallyrelatedto'] leak
+news ['relatedto'] fresh ['relatedto'] water ['relatedto'] leak
+news ['relatedto'] fresh ['relatedto'] lake ['etymologicallyrelatedto'] leak
+news ['relatedto'] gossip ['partof'] problem ['relatedto'] leak
+news ['relatedto'] important ['relatedto', 'hasproperty'] water ['relatedto'] leak
+news ['relatedto'] info ['etymologicallyrelatedto', 'relatedto', 'synonym'] information ['relatedto'] leak
+news ['relatedto'] informational ['relatedto', 'derivedfrom'] information ['relatedto'] leak
+news ['relatedto'] informative ['relatedto'] information ['relatedto'] leak
+news ['relatedto'] knowledge ['relatedto'] disclose ['mannerof'] leak
+news ['relatedto'] knowledge ['isa', 'relatedto'] information ['relatedto'] leak
+news ['relatedto'] mass ['relatedto'] lake ['etymologicallyrelatedto'] leak
+news ['relatedto'] mass ['relatedto'] liquid ['relatedto'] leak
+news ['relatedto'] material ['isa'] information ['relatedto'] leak
+news ['relatedto'] material ['relatedto'] liquid ['relatedto'] leak
+news ['relatedto'] notice ['relatedto'] information ['relatedto'] leak
+news ['relatedto'] periodical ['isa', 'relatedto'] issue ['mannerof'] leak
+news ['relatedto'] print ['relatedto'] issue ['mannerof'] leak
+news ['relatedto'] print ['relatedto'] run ['relatedto'] leak

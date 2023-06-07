@@ -1,0 +1,100 @@
+campaign ['relatedto'] set ['similarto'] mount
+campaign ['synonym'] drive ['relatedto'] mount
+campaign ['mannerof'] rerun ['mannerof'] mount
+campaign ['relatedto'] set ['synonym'] fix ['mannerof'] mount
+campaign ['relatedto'] set ['antonym'] arise ['synonym'] mount
+campaign ['relatedto'] set ['formof', 'relatedto'] setting ['synonym'] mount
+campaign ['relatedto'] set ['relatedto'] amount ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] hand ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] play ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] stell ['relatedto'] mount
+campaign ['relatedto'] attack ['relatedto'] set ['similarto'] mount
+campaign ['relatedto'] attack ['relatedto'] put_together ['synonym'] mount
+campaign ['relatedto'] attack ['relatedto'] amount ['relatedto'] mount
+campaign ['relatedto'] attack ['synonym'] drive ['relatedto'] mount
+campaign ['synonym'] cause ['mannerof'] initiate ['mannerof'] mount
+campaign ['synonym'] cause ['relatedto'] transcend ['relatedto'] mount
+campaign ['synonym'] cause ['relatedto'] drive ['relatedto'] mount
+campaign ['synonym'] cause ['similarto'] organize ['mannerof'] mount
+campaign ['synonym'] drive ['relatedto'] dismount ['antonym'] mount
+campaign ['synonym'] drive ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'entails'] ride ['relatedto', 'synonym'] mount
+campaign ['synonym'] drive ['isa', 'relatedto'] device ['relatedto'] mount
+campaign ['synonym'] effort ['relatedto'] climb ['relatedto', 'synonym'] mount
+campaign ['synonym'] effort ['relatedto'] climber ['relatedto'] mount
+campaign ['relatedto'] elect ['relatedto'] heaven ['relatedto'] mount
+campaign ['synonym'] movement ['relatedto'] arise ['synonym'] mount
+campaign ['synonym'] movement ['relatedto'] set ['similarto'] mount
+campaign ['synonym'] movement ['relatedto'] back ['relatedto'] mount
+campaign ['synonym'] movement ['relatedto'] climb ['relatedto', 'synonym'] mount
+campaign ['synonym'] movement ['relatedto'] drive ['relatedto'] mount
+campaign ['synonym'] movement ['relatedto'] ride ['relatedto', 'synonym'] mount
+campaign ['synonym'] movement ['relatedto'] heaven ['relatedto'] mount
+campaign ['synonym'] movement ['relatedto'] launch ['relatedto'] mount
+campaign ['isa', 'entails'] war ['relatedto'] horse ['relatedto'] mount
+campaign ['isa', 'entails'] war ['relatedto'] organize ['mannerof'] mount
+campaign ['relatedto'] president ['atlocation'] building ['isa'] mount
+campaign ['relatedto'] protest ['relatedto'] put_together ['synonym'] mount
+campaign ['relatedto'] protest ['antonym'] support ['relatedto'] mount
+campaign ['relatedto'] protest ['relatedto'] building ['isa'] mount
+campaign ['synonym'] run ['relatedto'] bank ['relatedto'] mount
+campaign ['synonym'] run ['relatedto'] horse ['relatedto'] mount
+campaign ['synonym'] run ['relatedto'] drive ['relatedto'] mount
+campaign ['synonym'] run ['synonym'] play ['relatedto'] mount
+campaign ['synonym'] run ['mannerof', 'relatedto'] rerun ['mannerof'] mount
+campaign ['relatedto'] horse_race ['relatedto', 'derivedfrom'] horse ['relatedto'] mount
+campaign ['isa'] project ['relatedto'] device ['relatedto'] mount
+campaign ['isa'] project ['relatedto'] prominence ['relatedto'] mount
+campaign ['mannerof'] race ['relatedto'] horse ['relatedto'] mount
+campaign ['mannerof'] race ['relatedto'] paddock ['relatedto'] mount
+campaign ['mannerof'] race ['relatedto'] draft_horse ['relatedto'] mount
+campaign ['relatedto'] engagement ['relatedto'] attach ['mannerof', 'relatedto'] mount
+campaign ['isa', 'relatedto'] operation ['isa'] support ['relatedto'] mount
+campaign ['isa', 'relatedto'] operation ['relatedto'] drive ['relatedto'] mount
+campaign ['isa', 'relatedto'] operation ['relatedto'] device ['relatedto'] mount
+campaign ['isa', 'relatedto'] operation ['relatedto'] launch ['relatedto'] mount
+campaign ['relatedto'] bathorse ['etymologicallyrelatedto', 'relatedto'] horse ['relatedto'] mount
+campaign ['relatedto'] bonusgate ['relatedto'] fund ['relatedto'] mount
+campaign ['relatedto'] pemexgate ['relatedto'] fund ['relatedto'] mount
+campaign ['relatedto'] spearhead ['relatedto'] drive ['relatedto'] mount
+campaign ['relatedto'] war_chest ['isa', 'relatedto'] fund ['relatedto'] mount
+campaign ['relatedto'] set ['synonym'] establish ['mannerof'] initiate ['mannerof'] mount
+campaign ['relatedto'] set ['synonym'] establish ['mannerof'] fix ['mannerof'] mount
+campaign ['relatedto'] set ['synonym'] establish ['synonym'] launch ['relatedto'] mount
+campaign ['relatedto'] set ['synonym'] fix ['mannerof'] influence ['relatedto'] mount
+campaign ['relatedto'] set ['synonym'] fix ['relatedto'] put_together ['synonym'] mount
+campaign ['relatedto'] set ['synonym'] fix ['relatedto', 'synonym'] attach ['mannerof', 'relatedto'] mount
+campaign ['relatedto'] set ['synonym'] fix ['relatedto'] patress ['relatedto'] mount
+campaign ['relatedto'] set ['synonym'] fix ['relatedto'] remount ['mannerof', 'relatedto'] mount
+campaign ['relatedto'] set ['synonym'] fix ['relatedto'] stell ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] concrete ['relatedto'] building ['isa'] mount
+campaign ['relatedto'] set ['relatedto'] concrete ['relatedto'] pave ['isa'] mount
+campaign ['relatedto'] set ['relatedto'] base ['isa', 'relatedto'] support ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] base ['relatedto'] horse ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] rest ['antonym', 'haslastsubevent', 'relatedto'] play ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] rest ['isa'] support ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] rest ['relatedto'] back ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] rest ['relatedto'] bank ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] rest ['relatedto'] fund ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] rest ['relatedto'] ride ['relatedto', 'synonym'] mount
+campaign ['relatedto'] set ['mannerof'] advance ['mannerof'] wax ['synonym'] mount
+campaign ['relatedto'] set ['mannerof'] advance ['relatedto'] drive ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] evening ['relatedto'] setting ['synonym'] mount
+campaign ['relatedto'] set ['relatedto'] aggregate ['relatedto'] amount ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] order ['relatedto'] bank ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] order ['relatedto'] organize ['mannerof'] mount
+campaign ['relatedto'] set ['relatedto', 'synonym'] plant ['relatedto'] climber ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto', 'synonym'] plant ['relatedto'] hill ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto', 'synonym'] plant ['relatedto'] building ['isa'] mount
+campaign ['relatedto'] set ['relatedto', 'synonym'] plant ['relatedto'] stell ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto', 'synonym'] fixed ['formof', 'relatedto'] fix ['mannerof'] mount
+campaign ['relatedto'] set ['relatedto', 'synonym'] fixed ['relatedto'] star_trail ['relatedto'] mount
+campaign ['relatedto'] set ['antonym'] arise ['synonym'] soar ['relatedto'] mount
+campaign ['relatedto'] set ['mannerof'] descend ['antonym'] arise ['synonym'] mount
+campaign ['relatedto'] set ['mannerof'] descend ['antonym'] climb ['relatedto', 'synonym'] mount
+campaign ['relatedto'] set ['relatedto'] go ['antonym', 'relatedto'] arise ['synonym'] mount
+campaign ['relatedto'] set ['relatedto'] go ['antonym', 'relatedto'] climb ['relatedto', 'synonym'] mount
+campaign ['relatedto'] set ['relatedto'] go ['relatedto'] drive ['relatedto'] mount
+campaign ['relatedto'] set ['relatedto'] go ['relatedto'] ride ['relatedto', 'synonym'] mount
+campaign ['relatedto'] set ['antonym'] lift ['relatedto'] arise ['synonym'] mount
+campaign ['relatedto'] set ['antonym'] lift ['relatedto'] support ['relatedto'] mount
+campaign ['relatedto'] set ['antonym'] lift ['isa'] drive ['relatedto'] mount

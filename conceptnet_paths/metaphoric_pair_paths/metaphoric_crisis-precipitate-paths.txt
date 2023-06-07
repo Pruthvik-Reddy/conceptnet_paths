@@ -1,0 +1,100 @@
+crisis ['relatedto'] acme ['synonym'] height ['relatedto'] precipitate
+crisis ['relatedto'] time ['relatedto'] slow ['relatedto'] precipitate
+crisis ['relatedto'] time ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] time ['relatedto'] throw ['relatedto'] precipitate
+crisis ['relatedto'] head ['derivedfrom'] headstrong ['relatedto'] precipitate
+crisis ['relatedto'] head ['relatedto', 'derivedfrom'] headlong ['relatedto', 'synonym'] precipitate
+crisis ['relatedto'] change ['mannerof', 'relatedto'] fall ['synonym'] precipitate
+crisis ['relatedto'] change ['mannerof'] condense ['entails'] precipitate
+crisis ['relatedto'] change ['mannerof'] change_state ['mannerof'] precipitate
+crisis ['relatedto'] course ['relatedto'] liquid ['relatedto'] precipitate
+crisis ['relatedto'] course ['relatedto'] rape ['relatedto'] precipitate
+crisis ['relatedto'] disease ['relatedto'] fall ['synonym'] precipitate
+crisis ['relatedto'] disease ['relatedto'] effect ['mannerof'] precipitate
+crisis ['relatedto'] disease ['isa'] rape ['relatedto'] precipitate
+crisis ['relatedto'] disease ['relatedto'] rash ['synonym'] precipitate
+crisis ['relatedto'] life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] precipitate
+crisis ['relatedto'] abrupt ['relatedto'] hasty ['relatedto'] precipitate
+crisis ['relatedto'] abrupt ['relatedto', 'synonym'] precipitous ['relatedto', 'synonym'] precipitate
+crisis ['relatedto'] abrupt ['relatedto'] abruptly ['relatedto'] precipitate
+crisis ['relatedto'] sudden ['relatedto'] precipitant ['relatedto'] precipitate
+crisis ['relatedto'] sudden ['relatedto'] precipitation ['relatedto'] precipitate
+crisis ['relatedto'] sudden ['relatedto'] precipitous ['relatedto', 'synonym'] precipitate
+crisis ['relatedto'] point ['relatedto'] rain ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] point ['relatedto'] particle ['isa'] precipitate
+crisis ['relatedto'] peak ['synonym'] height ['relatedto'] precipitate
+crisis ['relatedto'] incident ['relatedto'] fall ['synonym'] precipitate
+crisis ['relatedto'] melting_point ['relatedto'] solid ['isa', 'relatedto'] precipitate
+crisis ['relatedto'] melting_point ['relatedto'] liquid ['relatedto'] precipitate
+crisis ['relatedto'] acme ['relatedto'] canada ['atlocation'] snow ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] acme ['relatedto'] disease ['relatedto'] fall ['synonym'] precipitate
+crisis ['relatedto'] acme ['relatedto'] disease ['relatedto'] effect ['mannerof'] precipitate
+crisis ['relatedto'] acme ['relatedto'] disease ['isa'] rape ['relatedto'] precipitate
+crisis ['relatedto'] acme ['relatedto'] disease ['relatedto'] rash ['synonym'] precipitate
+crisis ['relatedto'] acme ['relatedto'] high ['relatedto'] effect ['mannerof'] precipitate
+crisis ['relatedto'] acme ['relatedto'] high ['etymologicallyrelatedto', 'relatedto'] height ['relatedto'] precipitate
+crisis ['relatedto'] acme ['relatedto'] high ['relatedto'] hasten ['relatedto'] precipitate
+crisis ['relatedto'] acme ['synonym'] peak ['synonym'] height ['relatedto'] precipitate
+crisis ['relatedto'] acme ['synonym'] apex ['relatedto'] height ['relatedto'] precipitate
+crisis ['relatedto'] acme ['synonym'] head ['derivedfrom'] headstrong ['relatedto'] precipitate
+crisis ['relatedto'] acme ['synonym'] head ['relatedto', 'derivedfrom'] headlong ['relatedto', 'synonym'] precipitate
+crisis ['relatedto'] affair ['synonym'] action ['relatedto'] effect ['mannerof'] precipitate
+crisis ['relatedto'] affair ['synonym'] action ['relatedto'] fall ['synonym'] precipitate
+crisis ['relatedto'] affair ['synonym'] action ['relatedto'] haste ['relatedto'] precipitate
+crisis ['relatedto'] affair ['synonym'] action ['relatedto'] throw ['relatedto'] precipitate
+crisis ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] slow ['relatedto'] precipitate
+crisis ['relatedto'] affair ['antonym', 'relatedto'] relationship ['relatedto'] dear_john_letter ['relatedto'] precipitate
+crisis ['relatedto'] affair ['isa'] party ['relatedto'] throw ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] bad ['relatedto'] rain ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] encounter ['relatedto'] happen ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] event ['relatedto'] effect ['mannerof'] precipitate
+crisis ['relatedto'] affair ['relatedto'] event ['relatedto'] rain ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] event ['relatedto'] happen ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] event ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] fling ['isa', 'mannerof', 'relatedto'] throw ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] fling ['relatedto'] hurl ['mannerof'] precipitate
+crisis ['relatedto'] affair ['relatedto'] happening ['formof', 'relatedto'] happen ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] husband ['relatedto'] dear_john_letter ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] intercourse ['relatedto'] rape ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] outside ['relatedto'] rain ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] outside ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] problem ['antonym', 'distinctfrom', 'relatedto'] solution ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] problem ['relatedto'] rash ['synonym'] precipitate
+crisis ['relatedto'] affair ['relatedto'] relation ['relatedto'] product ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] romantic ['relatedto'] wax ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] sexual ['relatedto'] rape ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] two ['relatedto'] water ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] two ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] wife ['relatedto'] dear_john_letter ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] case ['relatedto'] water ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto'] case ['relatedto'] liquid ['relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto', 'synonym'] matter ['relatedto', 'hasproperty'] solid ['isa', 'relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto', 'synonym'] matter ['relatedto'] rain ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] affair ['relatedto', 'synonym'] matter ['relatedto', 'hasproperty'] liquid ['relatedto'] precipitate
+crisis ['relatedto'] affair ['synonym'] function ['relatedto'] particle ['isa'] precipitate
+crisis ['relatedto'] affair ['synonym'] occasion ['relatedto'] throw ['relatedto'] precipitate
+crisis ['relatedto'] affair ['synonym'] thing ['relatedto'] product ['relatedto'] precipitate
+crisis ['relatedto'] affair ['synonym'] thing ['relatedto'] wax ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] bar ['relatedto'] solid ['isa', 'relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] call ['mannerof', 'relatedto'] hail ['mannerof'] precipitate
+crisis ['relatedto'] social ['relatedto'] function ['relatedto'] particle ['isa'] precipitate
+crisis ['relatedto'] social ['relatedto'] functionalism ['relatedto'] effect ['mannerof'] precipitate
+crisis ['relatedto'] social ['relatedto'] h ['relatedto'] water ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] metamarket ['relatedto'] product ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] party ['relatedto'] throw ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] party_plan ['relatedto'] product ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] politically_correct ['relatedto'] snowflake ['isa'] precipitate
+crisis ['relatedto'] social ['relatedto'] protest ['relatedto'] violently ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] quality ['relatedto'] solid ['isa', 'relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] quality ['relatedto'] liquid ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] quality ['relatedto'] product ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] book ['isa'] fall ['synonym'] precipitate
+crisis ['relatedto'] social ['relatedto'] book ['isa', 'relatedto'] product ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] book ['isa'] rose_madder ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] ice ['distinctfrom', 'relatedto'] snow ['mannerof', 'relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] ice ['isa', 'relatedto', 'hasproperty'] solid ['isa', 'relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] ice ['isa'] hailstone ['isa'] precipitate
+crisis ['relatedto'] social ['relatedto'] ice ['isa'] snowflake ['isa'] precipitate
+crisis ['relatedto'] social ['relatedto'] ice ['relatedto'] contrail ['relatedto'] precipitate
+crisis ['relatedto'] social ['relatedto'] ice ['relatedto'] hail ['mannerof'] precipitate

@@ -1,0 +1,100 @@
+suspicion ['relatedto'] smelly ['relatedto'] farm ['relatedto'] sow
+suspicion ['relatedto'] smelly ['relatedto'] pig ['relatedto', 'synonym'] sow
+suspicion ['isa'] distrust ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] bristle ['relatedto'] pig ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] sus ['relatedto'] pig ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] sus ['relatedto'] boar ['relatedto', 'similarto'] sow
+suspicion ['isa'] hostility ['antonym'] peace ['relatedto'] put ['mannerof'] sow
+suspicion ['isa'] hostility ['isa'] state ['relatedto'] put ['mannerof'] sow
+suspicion ['isa'] hostility ['isa', 'relatedto', 'synonym'] war ['relatedto'] metal ['relatedto'] sow
+suspicion ['isa'] hostility ['relatedto'] military ['relatedto'] drill ['relatedto'] sow
+suspicion ['relatedto'] doubt ['etymologicallyrelatedto'] dout ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] doubt ['mannerof'] distrust ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] doubt ['relatedto'] daughter ['relatedto'] female ['relatedto'] sow
+suspicion ['relatedto'] doubt ['relatedto'] sag ['relatedto'] hog ['relatedto'] sow
+suspicion ['relatedto'] whisper ['antonym'] call ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] whisper ['distinctfrom'] loud ['relatedto'] metal ['relatedto'] sow
+suspicion ['relatedto'] whisper ['relatedto'] round ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+suspicion ['relatedto'] whisper ['relatedto'] soft ['antonym'] metal ['relatedto'] sow
+suspicion ['relatedto'] whisper ['relatedto'] soft ['relatedto', 'hasproperty'] velvet ['relatedto'] sow
+suspicion ['relatedto'] whisper ['relatedto'] message ['relatedto'] bear ['relatedto'] sow
+suspicion ['relatedto'] whisper ['relatedto'] message ['isa'] broadcast ['mannerof', 'relatedto'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] tee ['mannerof'] put ['mannerof'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] condition ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] dispersion ['relatedto'] disperse ['relatedto'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] dispersion ['relatedto'] scatter ['mannerof', 'relatedto'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] dispersion ['synonym'] scattering ['relatedto'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] dispersion ['relatedto'] semination ['relatedto'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] range ['relatedto'] farm ['relatedto'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] range ['synonym'] crop ['antonym', 'relatedto'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] value ['relatedto'] crop ['antonym', 'relatedto'] sow
+suspicion ['relatedto'] uncertainty ['relatedto'] value ['relatedto'] hog ['relatedto'] sow
+suspicion ['relatedto'] clear ['synonym'] gain ['relatedto'] bear ['relatedto'] sow
+suspicion ['relatedto'] clear ['synonym'] acquit ['relatedto'] bear ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] nothing ['relatedto'] farm ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] nothing ['relatedto'] mine ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] action ['relatedto'] crop ['antonym', 'relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] action ['relatedto'] mold ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] action ['relatedto'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['relatedto'] action ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] clear ['relatedto'] action ['relatedto'] reap ['antonym', 'distinctfrom', 'relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] action ['relatedto'] stitch ['relatedto'] sow
+suspicion ['relatedto'] clear ['mannerof'] remove ['mannerof'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['mannerof'] remove ['relatedto'] mine ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] payment ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] clear ['relatedto'] adjective ['relatedto'] mine ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] air ['relatedto', 'synonym'] broadcast ['mannerof', 'relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] water ['relatedto'] channel ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] water ['relatedto'] hydropriming ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] water ['relatedto'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] water ['relatedto'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['mannerof', 'relatedto', 'similarto'] free ['relatedto'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['relatedto'] separate ['mannerof', 'relatedto'] disperse ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] separate ['relatedto'] scatter ['mannerof', 'relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] slash ['relatedto'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['relatedto'] slash ['relatedto'] female ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] good ['relatedto'] crop ['antonym', 'relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto', 'synonym'] bright ['relatedto'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] see ['formof'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['relatedto'] blue ['relatedto'] mold ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] blue ['relatedto'] velvet ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] ice ['relatedto', 'atlocation'] winter ['relatedto'] sow
+suspicion ['relatedto'] clear ['mannerof'] change ['mannerof'] put ['mannerof'] sow
+suspicion ['relatedto'] clear ['mannerof'] change ['mannerof'] inseminate ['mannerof', 'relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['mannerof'] change ['mannerof'] mold ['relatedto'] sow
+suspicion ['relatedto'] clear ['mannerof'] change ['relatedto'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] forest ['relatedto'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['relatedto'] forest ['relatedto'] bear ['relatedto'] sow
+suspicion ['relatedto'] clear ['antonym'] dirty ['relatedto'] pig ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['antonym', 'distinctfrom', 'relatedto'] muddy ['relatedto'] pig ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['antonym', 'distinctfrom', 'relatedto'] opaque ['hasproperty'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['antonym'] solid ['relatedto'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['antonym'] solid ['relatedto'] solidify ['relatedto'] sow
+suspicion ['relatedto'] clear ['antonym'] unclear ['relatedto'] pig ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['antonym', 'relatedto'] color ['relatedto'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['antonym', 'relatedto'] color ['relatedto'] velvet ['relatedto'] sow
+suspicion ['relatedto'] clear ['antonym'] fog ['relatedto'] disperse ['relatedto'] sow
+suspicion ['relatedto'] clear ['antonym'] smoke ['relatedto'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['antonym'] smoke ['relatedto'] bear ['relatedto'] sow
+suspicion ['relatedto'] clear ['hasprerequisite'] communicate ['mannerof'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['hasprerequisite'] communicate ['relatedto'] broadcast ['mannerof', 'relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] diamond ['atlocation'] mine ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] diamond ['usedfor'] drill ['relatedto'] sow
+suspicion ['relatedto'] clear ['hasproperty'] diamonds ['relatedto'] mine ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] glass ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] glass ['antonym', 'relatedto'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto', 'hasproperty'] glass ['relatedto'] molten ['relatedto'] sow
+suspicion ['relatedto'] clear ['hasproperty'] plastic ['antonym', 'distinctfrom'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['hasproperty'] plastic ['relatedto'] mold ['relatedto'] sow
+suspicion ['relatedto'] clear ['hasproperty'] plastic ['relatedto'] molten ['relatedto'] sow
+suspicion ['relatedto'] clear ['mannerof'] settle ['mannerof'] put ['mannerof'] sow
+suspicion ['relatedto'] clear ['mannerof', 'synonym'] pass ['relatedto'] female ['relatedto'] sow
+suspicion ['relatedto'] clear ['mannerof', 'synonym'] pass ['relatedto'] channel ['relatedto'] sow
+suspicion ['relatedto'] clear ['mannerof'] hop ['relatedto'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['relatedto'] condition ['relatedto'] put ['mannerof'] sow
+suspicion ['relatedto'] clear ['relatedto'] crystal ['relatedto'] needle ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] description ['relatedto'] plant ['relatedto', 'synonym'] sow
+suspicion ['relatedto'] clear ['relatedto'] description ['relatedto'] farm ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] making ['relatedto'] farm ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] making ['relatedto'] metal ['relatedto'] sow
+suspicion ['relatedto'] clear ['relatedto'] making ['relatedto'] crop ['antonym', 'relatedto'] sow

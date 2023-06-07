@@ -1,0 +1,100 @@
+life ['relatedto', 'synonym'] alive ['hasprerequisite'] breathe
+life ['causes', 'usedfor'] breathing ['formof'] breathe
+life ['relatedto', 'synonym'] breath ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] breathe
+life ['motivatedbygoal'] live_life ['hasprerequisite'] breathe
+life ['relatedto'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['relatedto'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+life ['relatedto'] puff ['relatedto'] breathe
+life ['relatedto', 'synonym'] existence ['relatedto', 'derivedfrom'] exist ['mannerof'] breathe
+life ['relatedto', 'synonym'] existence ['relatedto'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['relatedto', 'synonym'] existence ['synonym'] breath ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] breathe
+life ['relatedto'] biological ['relatedto'] gros_bon_ange ['relatedto'] breathe
+life ['relatedto'] biological ['relatedto'] lung ['relatedto'] breathe
+life ['relatedto', 'partof'] birth ['createdby'] child ['capableof'] breathe
+life ['relatedto'] adulthood ['relatedto'] child ['capableof'] breathe
+life ['isa'] adventure ['motivatedbygoal'] live_life ['hasprerequisite'] breathe
+life ['isa', 'relatedto'] aerobiosis ['relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+life ['isa', 'relatedto'] aerobiosis ['relatedto'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+life ['relatedto'] anaerobiosis ['relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+life ['relatedto'] anaerobiosis ['relatedto'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+life ['relatedto', 'partof'] age ['relatedto'] child ['capableof'] breathe
+life ['relatedto', 'partof'] age ['relatedto'] alive ['hasprerequisite'] breathe
+life ['desires'] grow ['capableof'] alive ['hasprerequisite'] breathe
+life ['desires'] grow ['capableof'] birds ['capableof'] breathe
+life ['desires'] grow ['hasfirstsubevent'] live_life ['hasprerequisite'] breathe
+life ['desires'] grow ['relatedto'] spire ['relatedto'] breathe
+life ['relatedto'] human ['relatedto'] child ['capableof'] breathe
+life ['relatedto'] human ['relatedto'] blow ['antonym', 'relatedto'] breathe
+life ['relatedto'] human ['relatedto'] dog ['capableof'] breathe
+life ['relatedto'] human ['relatedto'] alive ['hasprerequisite'] breathe
+life ['relatedto'] human ['relatedto'] breathing ['formof'] breathe
+life ['relatedto'] human ['relatedto'] lung ['relatedto'] breathe
+life ['relatedto'] human ['relatedto'] nose ['usedfor', 'relatedto'] breathe
+life ['relatedto'] human ['relatedto'] run ['hasprerequisite'] breathe
+life ['relatedto'] human ['relatedto'] smell ['relatedto'] breathe
+life ['relatedto'] old ['relatedto'] child ['capableof'] breathe
+life ['relatedto'] old ['relatedto'] dog ['capableof'] breathe
+life ['relatedto'] old ['relatedto'] exist ['mannerof'] breathe
+life ['relatedto'] young ['relatedto'] child ['capableof'] breathe
+life ['relatedto', 'atlocation'] earth ['antonym', 'distinctfrom', 'relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+life ['relatedto', 'atlocation'] earth ['atlocation'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+life ['relatedto', 'atlocation'] earth ['relatedto'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['relatedto', 'atlocation'] earth ['relatedto'] wind ['relatedto'] breathe
+life ['isa', 'relatedto', 'hasprerequisite'] water ['antonym', 'distinctfrom', 'relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto', 'atlocation', 'hasa', 'madeof', 'partof'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] dive ['hasprerequisite'] breathe
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] suspiral ['relatedto'] breathe
+life ['relatedto', 'synonym'] alive ['hasprerequisite'] live_life ['hasprerequisite'] breathe
+life ['relatedto', 'synonym'] alive ['hasproperty'] dog ['capableof'] breathe
+life ['relatedto', 'synonym'] alive ['relatedto'] exist ['mannerof'] breathe
+life ['relatedto', 'synonym'] alive ['relatedto', 'synonym'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['antonym', 'distinctfrom', 'relatedto'] dead ['antonym', 'distinctfrom', 'relatedto'] alive ['hasprerequisite'] breathe
+life ['antonym', 'distinctfrom', 'relatedto'] dead ['antonym', 'distinctfrom', 'relatedto'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['antonym', 'distinctfrom', 'relatedto'] dead ['distinctfrom'] breathing ['formof'] breathe
+life ['antonym', 'distinctfrom', 'relatedto'] dead ['relatedto'] breathless ['relatedto'] breathe
+life ['relatedto'] animal ['isa'] child ['capableof'] breathe
+life ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['hasprerequisite'] breathe
+life ['relatedto'] animal ['capableof', 'relatedto'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['relatedto'] animal ['etymologicallyrelatedto'] onde ['relatedto'] breathe
+life ['relatedto'] animal ['relatedto'] birds ['capableof'] breathe
+life ['relatedto'] animal ['relatedto'] dog ['capableof'] breathe
+life ['relatedto'] plant ['relatedto', 'hasproperty'] alive ['hasprerequisite'] breathe
+life ['relatedto'] hide ['relatedto'] child ['capableof'] breathe
+life ['relatedto'] hide ['relatedto'] run ['hasprerequisite'] breathe
+life ['relatedto'] hide ['relatedto'] smother ['relatedto'] breathe
+life ['relatedto'] go ['relatedto'] rest ['relatedto', 'synonym'] breathe
+life ['relatedto'] go ['relatedto'] dive ['hasprerequisite'] breathe
+life ['relatedto'] go ['relatedto'] event ['relatedto'] breathe
+life ['relatedto'] go ['relatedto', 'synonym'] run ['hasprerequisite'] breathe
+life ['relatedto'] go ['relatedto'] express ['mannerof'] breathe
+life ['partof'] sleep ['distinctfrom', 'relatedto', 'synonym', 'hasprerequisite', 'mannerof', 'motivatedbygoal'] rest ['relatedto', 'synonym'] breathe
+life ['partof'] sleep ['causes', 'relatedto'] relaxing ['haslastsubevent'] breathe
+life ['partof'] sleep ['relatedto', 'causesdesire', 'entails', 'haslastsubevent', 'hasprerequisite'] snore ['mannerof', 'relatedto'] breathe
+life ['partof'] sleep ['motivatedbygoal'] release_energy ['hasfirstsubevent'] breathe
+life ['partof'] sleep ['motivatedbygoal'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['partof'] sleep ['relatedto'] yawn ['mannerof'] breathe
+life ['relatedto'] around ['relatedto'] rest ['relatedto', 'synonym'] breathe
+life ['relatedto'] around ['relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+life ['relatedto'] around ['relatedto'] alive ['hasprerequisite'] breathe
+life ['relatedto'] atom ['relatedto'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+life ['hasproperty'] good ['relatedto'] dog ['capableof'] breathe
+life ['hasproperty'] good ['relatedto'] smell ['relatedto'] breathe
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['relatedto', 'hasprerequisite'] air ['motivatedbygoal', 'relatedto'] breathe
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['relatedto'] alive ['hasprerequisite'] breathe
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['causes', 'usedfor'] breathing ['formof'] breathe
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['causes'] expiration ['relatedto'] breathe
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['distinctfrom', 'relatedto'] exist ['mannerof'] breathe
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['formof', 'relatedto', 'similarto', 'synonym'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['hasprerequisite'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['relatedto'] breath ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] breathe
+life ['relatedto'] fish ['relatedto'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] death ['isa', 'relatedto'] rest ['relatedto', 'synonym'] breathe
+life ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] death ['antonym'] exist ['mannerof'] breathe
+life ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] death ['antonym', 'distinctfrom', 'relatedto'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+life ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] death ['relatedto'] asphyxiation ['causesdesire'] breathe
+life ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] death ['relatedto'] expiration ['relatedto'] breathe
+life ['relatedto'] birthday ['relatedto'] alive ['hasprerequisite'] breathe
+life ['relatedto'] birthday ['relatedto'] blow ['antonym', 'relatedto'] breathe
+life ['relatedto'] birthday ['relatedto'] event ['relatedto'] breathe
+life ['antonym', 'capableof', 'relatedto'] die ['hasfirstsubevent', 'haslastsubevent', 'relatedto'] rest ['relatedto', 'synonym'] breathe
+life ['antonym', 'capableof', 'relatedto'] die ['distinctfrom', 'hasprerequisite'] alive ['hasprerequisite'] breathe

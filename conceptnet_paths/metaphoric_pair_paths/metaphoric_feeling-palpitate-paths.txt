@@ -1,0 +1,100 @@
+feeling ['relatedto'] negative ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] anger ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] better ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['isa', 'relatedto'] pleasure ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] hand ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] effect ['antonym', 'distinctfrom', 'mannerof', 'relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] heart ['capableof'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] heart ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] heart ['relatedto'] pant ['synonym'] palpitate
+feeling ['relatedto'] cold ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] heat ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] fear ['relatedto'] shudder ['synonym'] palpitate
+feeling ['relatedto'] dance ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] dance ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] surprise ['relatedto'] cause ['relatedto'] palpitate
+feeling ['formof', 'relatedto'] feel ['relatedto'] palp ['relatedto'] palpitate
+feeling ['formof', 'relatedto'] feel ['synonym'] palpate ['relatedto'] palpitate
+feeling ['antonym', 'isa', 'relatedto'] pain ['relatedto'] cause ['relatedto'] palpitate
+feeling ['antonym', 'relatedto', 'synonym'] touch ['isa'] palpation ['relatedto'] palpitate
+feeling ['antonym', 'relatedto', 'synonym'] touch ['mannerof', 'synonym'] palpate ['relatedto'] palpitate
+feeling ['isa', 'relatedto'] affect ['relatedto'] cause ['relatedto'] palpitate
+feeling ['isa', 'relatedto'] agitation ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['isa', 'relatedto'] agitation ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] move ['mannerof'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] move ['mannerof', 'relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] move ['relatedto'] quiver ['synonym'] palpitate
+feeling ['relatedto'] oil ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] shock ['etymologicallyrelatedto', 'relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] thrill ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] thrill ['relatedto'] quiver ['synonym'] palpitate
+feeling ['relatedto'] thrill ['synonym'] shudder ['synonym'] palpitate
+feeling ['relatedto'] thrilling ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] worry ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] peace ['antonym', 'distinctfrom'] fight ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] peace ['antonym', 'relatedto'] protest ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] peace ['distinctfrom'] happened ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] peace ['distinctfrom'] violent ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] peace ['relatedto'] earth ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] peace ['relatedto'] goal ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] peace ['relatedto'] two ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] disdain ['relatedto'] slight ['relatedto'] quiver ['synonym'] palpitate
+feeling ['relatedto'] safe ['antonym'] trouble ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] safe ['distinctfrom'] fear ['relatedto'] shudder ['synonym'] palpitate
+feeling ['relatedto'] safe ['hasprerequisite'] dive ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] safe ['relatedto'] steel ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] safe ['relatedto'] tuck ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] negative ['relatedto'] alternation ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] negative ['relatedto'] anger ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] negative ['relatedto'] disturb ['synonym'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] negative ['relatedto'] fear ['relatedto'] shudder ['synonym'] palpitate
+feeling ['relatedto'] negative ['relatedto'] pain ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] negative ['relatedto'] shake ['relatedto'] quiver ['synonym'] palpitate
+feeling ['relatedto'] negative ['relatedto'] shake ['relatedto'] shudder ['synonym'] palpitate
+feeling ['relatedto'] negative ['relatedto'] timelike ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] afterglow ['relatedto'] pleasurable ['relatedto'] shudder ['synonym'] palpitate
+feeling ['relatedto'] agony ['antonym', 'relatedto'] defeat ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] agony ['isa', 'relatedto'] pain ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] agony ['relatedto'] thrill ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] agony ['relatedto'] thrill ['relatedto'] quiver ['synonym'] palpitate
+feeling ['relatedto'] agony ['relatedto'] thrill ['synonym'] shudder ['synonym'] palpitate
+feeling ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['antonym', 'distinctfrom'] fire ['synonym'] flack ['relatedto'] palpitate
+feeling ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] air ['antonym', 'relatedto'] heat ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] wind ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['atlocation'] pocket ['relatedto'] pant ['synonym'] palpitate
+feeling ['relatedto'] air ['relatedto', 'atlocation'] bird ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] air ['atlocation'] birds ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] air ['atlocation'] butterfly ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] air ['relatedto', 'atlocation'] pollen ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto', 'atlocation'] sound ['isa'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['derivedfrom'] airy ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] air ['isa', 'relatedto'] breath ['synonym'] pant ['synonym'] palpitate
+feeling ['relatedto'] air ['isa'] vibration ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['isa'] vibration ['synonym'] quiver ['synonym'] palpitate
+feeling ['relatedto'] air ['motivatedbygoal', 'relatedto'] breathe ['relatedto'] pant ['synonym'] palpitate
+feeling ['relatedto'] air ['relatedto'] around ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] mix ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] mix ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] solution ['distinctfrom'] cause ['relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] source ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] term ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] blow ['mannerof'] pant ['synonym'] palpitate
+feeling ['relatedto'] air ['relatedto'] cut ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] fan ['mannerof'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] fly ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] air ['relatedto'] force ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] roll ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] shaft ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] succuss ['mannerof', 'relatedto', 'synonym'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] throttle ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] weather ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] air ['relatedto'] wing ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] air ['usedfor'] dish ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+feeling ['isa'] apathy ['relatedto'] rouse ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] alive ['relatedto'] action ['relatedto'] cause ['relatedto'] palpitate
+feeling ['relatedto'] alive ['relatedto'] action ['relatedto'] flutter ['synonym'] palpitate
+feeling ['relatedto'] alive ['relatedto'] action ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+feeling ['relatedto'] alive ['similarto', 'synonym'] active ['relatedto'] quiver ['synonym'] palpitate
+feeling ['relatedto'] alive ['antonym'] kill ['relatedto'] cause ['relatedto'] palpitate

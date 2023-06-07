@@ -1,0 +1,100 @@
+argument ['relatedto'] circle ['relatedto'] change ['mannerof'] sharpen
+argument ['relatedto'] circle ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] circle ['relatedto'] point ['synonym'] sharpen
+argument ['isa', 'relatedto'] case ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] consequence ['isa'] change ['mannerof'] sharpen
+argument ['relatedto'] line ['antonym', 'distinctfrom', 'relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] line ['relatedto', 'synonym'] edge ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] domain ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] support ['relatedto'] steel ['relatedto'] sharpen
+argument ['relatedto'] support ['relatedto'] point ['synonym'] sharpen
+argument ['causesdesire'] walk ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] extension ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] raise ['mannerof', 'relatedto'] heighten ['synonym'] sharpen
+argument ['relatedto'] raise ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+argument ['relatedto'] difference ['isa', 'relatedto', 'hasprerequisite'] change ['mannerof'] sharpen
+argument ['relatedto'] matter ['relatedto'] change ['mannerof'] sharpen
+argument ['relatedto'] opinion ['relatedto', 'synonym'] point ['synonym'] sharpen
+argument ['relatedto'] final ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['isa', 'relatedto'] proof ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto', 'partof'] proposition ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] argmax ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] intend ['relatedto'] intensify ['mannerof'] sharpen
+argument ['relatedto', 'synonym'] phase ['relatedto'] change ['mannerof'] sharpen
+argument ['relatedto', 'synonym'] phase ['isa'] point ['synonym'] sharpen
+argument ['relatedto'] phrase ['relatedto'] focus ['mannerof', 'synonym'] sharpen
+argument ['relatedto'] reason ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] representation ['isa'] blur ['antonym'] sharpen
+argument ['relatedto'] theme ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] argumentum_ad_feminam ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] basis ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] concession ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] drift ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] hypothesis ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] pointless ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] pointless ['similarto', 'synonym'] blunt ['antonym'] sharpen
+argument ['relatedto'] protest ['relatedto'] change ['mannerof'] sharpen
+argument ['relatedto'] retort ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+argument ['relatedto'] retort ['relatedto'] taper ['synonym'] sharpen
+argument ['relatedto'] return ['relatedto'] change ['mannerof'] sharpen
+argument ['relatedto'] steelman ['derivedfrom'] steel ['relatedto'] sharpen
+argument ['relatedto'] take_point ['etymologicallyrelatedto'] point ['synonym'] sharpen
+argument ['relatedto'] talking_point ['isa'] point ['synonym'] sharpen
+argument ['relatedto'] valency ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] war ['atlocation'] knife ['relatedto'] sharpen
+argument ['relatedto'] war ['usedfor', 'atlocation'] rifle ['relatedto'] sharpen
+argument ['relatedto'] abduction ['isa'] capture ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] abduction ['isa'] motion ['isa', 'relatedto'] change ['mannerof'] sharpen
+argument ['relatedto'] abduction ['isa'] motion ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] abduction ['isa'] motion ['relatedto'] knife_edge ['relatedto'] sharpen
+argument ['relatedto'] abduction ['relatedto'] axis ['relatedto'] knife_edge ['relatedto'] sharpen
+argument ['relatedto'] abduction ['relatedto'] draw ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] abduction ['relatedto'] draw ['mannerof'] change_shape ['mannerof'] sharpen
+argument ['relatedto'] abduction ['relatedto'] limb ['isa', 'relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] abduction ['relatedto'] movement ['isa', 'relatedto'] change ['mannerof'] sharpen
+argument ['relatedto'] abduction ['relatedto'] movement ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] abduction ['relatedto'] separate ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] abstract ['antonym', 'relatedto'] concrete ['relatedto'] steel ['relatedto'] sharpen
+argument ['relatedto'] abstract ['mannerof'] see ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] abstract ['partof'] patent ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] abstract ['relatedto'] separate ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] abstract ['relatedto'] concentrate ['relatedto', 'synonym'] focus ['mannerof', 'synonym'] sharpen
+argument ['relatedto'] abstract ['relatedto'] concentrate ['relatedto'] focalize ['relatedto'] sharpen
+argument ['relatedto'] abstract ['relatedto'] contemplate ['hasprerequisite'] focus ['mannerof', 'synonym'] sharpen
+argument ['relatedto'] abstract ['relatedto'] cloud ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] abstract ['relatedto'] desire ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] abstract ['relatedto'] end ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] abstract ['relatedto'] end ['isa', 'relatedto', 'synonym'] point ['synonym'] sharpen
+argument ['relatedto'] abstract ['relatedto'] end ['relatedto'] acuminate ['mannerof', 'relatedto'] sharpen
+argument ['relatedto'] abstract ['relatedto'] fast ['relatedto'] blur ['antonym'] sharpen
+argument ['relatedto'] abstract ['relatedto'] garment ['relatedto'] dag ['relatedto'] sharpen
+argument ['relatedto'] abstract ['relatedto'] idea ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] abstract ['relatedto'] information ['hasprerequisite'] change ['mannerof'] sharpen
+argument ['relatedto'] abstract ['relatedto'] information ['relatedto'] focus ['mannerof', 'synonym'] sharpen
+argument ['relatedto'] abstract ['relatedto'] number ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] abstract ['relatedto'] personalize ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] abstract ['relatedto'] proposition ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] abstract ['relatedto'] time ['relatedto'] change ['mannerof'] sharpen
+argument ['isa'] con ['relatedto'] concrete ['relatedto'] steel ['relatedto'] sharpen
+argument ['isa'] con ['antonym', 'relatedto'] advantage ['isa'] point ['synonym'] sharpen
+argument ['isa'] con ['antonym', 'relatedto'] advantage ['relatedto', 'synonym'] edge ['mannerof', 'relatedto'] sharpen
+argument ['isa'] con ['etymologicallyrelatedto'] cunning ['etymologicallyrelatedto'] keen ['relatedto'] sharpen
+argument ['isa'] con ['relatedto'] artificial ['relatedto'] steel ['relatedto'] sharpen
+argument ['isa'] con ['relatedto'] cone ['relatedto', 'partof'] point ['synonym'] sharpen
+argument ['isa'] con ['relatedto'] know ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+argument ['isa'] con ['relatedto'] direction ['relatedto'] change ['mannerof'] sharpen
+argument ['isa'] con ['relatedto'] direction ['relatedto'] point ['synonym'] sharpen
+argument ['isa'] con ['relatedto'] direction ['synonym'] focus ['mannerof', 'synonym'] sharpen
+argument ['isa'] con ['relatedto'] direction ['relatedto'] knife_edge ['relatedto'] sharpen
+argument ['isa'] con ['relatedto'] steer ['synonym'] point ['synonym'] sharpen
+argument ['isa'] con ['relatedto'] consequence ['isa'] change ['mannerof'] sharpen
+argument ['isa'] con ['relatedto'] construction ['relatedto'] steel ['relatedto'] sharpen
+argument ['isa'] con ['relatedto'] protest ['relatedto'] change ['mannerof'] sharpen
+argument ['relatedto'] argue ['mannerof'] present ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] argue ['relatedto', 'synonym'] indicate ['mannerof', 'relatedto', 'synonym'] point ['synonym'] sharpen
+argument ['relatedto'] argue ['relatedto'] viewpoint ['derivedfrom'] point ['synonym'] sharpen
+argument ['relatedto'] argue ['relatedto'] camp ['mannerof'] change ['mannerof'] sharpen
+argument ['relatedto'] argue ['relatedto'] protest ['relatedto'] change ['mannerof'] sharpen
+argument ['relatedto'] argue ['relatedto', 'synonym'] reason ['relatedto'] point ['synonym'] sharpen
+argument ['relatedto'] disagreement ['relatedto', 'synonym'] difference ['isa', 'relatedto', 'hasprerequisite'] change ['mannerof'] sharpen
+argument ['relatedto'] disagreement ['relatedto'] protest ['relatedto'] change ['mannerof'] sharpen

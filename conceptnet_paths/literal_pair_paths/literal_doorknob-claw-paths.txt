@@ -1,0 +1,100 @@
+doorknob ['relatedto'] handle ['relatedto'] ball ['relatedto'] claw
+doorknob ['relatedto'] handle ['isa'] appendage ['relatedto'] claw
+doorknob ['relatedto'] handle ['isa'] paw ['relatedto', 'partof'] claw
+doorknob ['relatedto'] handle ['relatedto', 'partof'] hammer ['partof'] claw
+doorknob ['relatedto'] handle ['relatedto'] clutch ['relatedto'] claw
+doorknob ['relatedto'] handle ['usedfor', 'relatedto'] gripping ['relatedto'] claw
+doorknob ['relatedto'] handle ['relatedto'] holder ['isa'] claw
+doorknob ['isa'] mechanical_device ['isa'] hook ['synonym'] claw
+doorknob ['isa'] part ['isa', 'relatedto'] toe ['relatedto'] claw
+doorknob ['isa'] part ['isa'] appendage ['relatedto'] claw
+doorknob ['isa'] part ['relatedto'] foot ['relatedto'] claw
+doorknob ['isa'] part ['relatedto'] petal ['relatedto'] claw
+doorknob ['atlocation'] lock ['relatedto'] seize ['mannerof'] claw
+doorknob ['isa'] construction_material ['isa'] nail ['relatedto'] claw
+doorknob ['relatedto'] circular ['relatedto', 'hasproperty'] ball ['relatedto'] claw
+doorknob ['relatedto'] hemacite ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto', 'atlocation'] house ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto', 'atlocation'] house ['partof'] nail ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto', 'atlocation'] house ['relatedto'] ravenclaw ['derivedfrom'] claw
+doorknob ['atlocation'] front_door ['atlocation'] bell ['relatedto'] curved ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] bell ['relatedto'] hammer ['partof'] claw
+doorknob ['atlocation'] front_door ['atlocation'] cat ['isa', 'relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] cat ['capableof', 'relatedto'] scratch ['mannerof', 'relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] cat ['derivedfrom'] catclaw ['derivedfrom'] claw
+doorknob ['atlocation'] front_door ['atlocation'] cat ['formof', 'relatedto'] cats ['capableof'] claw
+doorknob ['atlocation'] front_door ['atlocation'] cat ['hasa', 'relatedto'] claws ['formof', 'relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] cat ['relatedto'] paws ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] cat ['relatedto'] spanish_tickler ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] dog ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] dog ['relatedto'] attack ['mannerof'] claw
+doorknob ['atlocation'] front_door ['atlocation'] dog ['hasa', 'relatedto'] paws ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] dog ['relatedto'] barghest ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] dog ['relatedto'] cats ['capableof'] claw
+doorknob ['atlocation'] front_door ['atlocation'] dog ['relatedto'] foot ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] key ['relatedto'] scratch ['mannerof', 'relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] lock ['relatedto'] seize ['mannerof'] claw
+doorknob ['atlocation'] front_door ['atlocation'] policeman ['relatedto'] ball ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] stoop ['mannerof'] pounce ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] window ['relatedto'] process ['relatedto'] claw
+doorknob ['atlocation'] front_door ['atlocation'] wreath ['relatedto'] appendage ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto'] entrance ['relatedto'] catch ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto'] building ['usedfor'] hammer ['partof'] claw
+doorknob ['atlocation'] front_door ['relatedto'] pitch ['isa', 'relatedto'] ball ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto'] pitch ['relatedto'] sharp ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto'] plate ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto'] plate ['relatedto'] holder ['isa'] claw
+doorknob ['atlocation'] front_door ['relatedto'] plate ['relatedto'] foot ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto'] sexual_intercourse ['relatedto'] ball ['relatedto'] claw
+doorknob ['atlocation'] front_door ['relatedto'] street ['atlocation'] ball ['relatedto'] claw
+doorknob ['atlocation'] room ['atlocation'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['atlocation'] human ['relatedto'] clawfoot ['relatedto'] claw
+doorknob ['atlocation'] room ['atlocation'] human ['relatedto'] digit ['relatedto'] claw
+doorknob ['atlocation'] room ['atlocation'] human ['relatedto'] foot ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] post ['relatedto'] hook ['synonym'] claw
+doorknob ['atlocation'] room ['relatedto'] post ['relatedto'] holder ['isa'] claw
+doorknob ['atlocation'] room ['relatedto'] house ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] house ['partof'] nail ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] house ['relatedto'] ravenclaw ['derivedfrom'] claw
+doorknob ['atlocation'] room ['relatedto'] sitting ['relatedto'] clutch ['relatedto'] claw
+doorknob ['atlocation'] room ['usedfor'] sleep ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['usedfor'] sleep ['desires'] cats ['capableof'] claw
+doorknob ['atlocation'] room ['usedfor'] sleep ['relatedto'] catch ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] around ['relatedto'] ball ['relatedto'] claw
+doorknob ['atlocation'] room ['isa'] position ['antonym'] attack ['mannerof'] claw
+doorknob ['atlocation'] room ['relatedto'] cube ['antonym'] ball ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] square ['antonym'] ball ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] plate ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] plate ['relatedto'] holder ['isa'] claw
+doorknob ['atlocation'] room ['relatedto'] plate ['relatedto'] foot ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto', 'atlocation'] bed ['relatedto'] holder ['isa'] claw
+doorknob ['atlocation'] room ['relatedto', 'atlocation'] chair ['partof'] foot ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto', 'atlocation'] chair ['relatedto'] holder ['isa'] claw
+doorknob ['atlocation'] room ['relatedto', 'atlocation'] couch ['relatedto'] attack ['mannerof'] claw
+doorknob ['atlocation'] room ['isa', 'relatedto', 'partof', 'atlocation'] floor ['relatedto'] foot ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] living ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['antonym', 'isa', 'relatedto'] cell ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['antonym', 'isa', 'relatedto'] cell ['relatedto'] holder ['isa'] claw
+doorknob ['atlocation'] room ['antonym', 'isa', 'relatedto'] kitchen ['atlocation'] crab ['relatedto'] claw
+doorknob ['atlocation'] room ['antonym'] outside ['atlocation'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['antonym'] outside ['atlocation'] crab ['relatedto'] claw
+doorknob ['atlocation'] room ['isa', 'relatedto', 'atlocation'] closet ['atlocation'] ball ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto', 'atlocation'] fan ['relatedto'] hammer ['partof'] claw
+doorknob ['atlocation'] room ['atlocation'] kitten ['isa', 'relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['atlocation'] kitten ['relatedto'] paws ['relatedto'] claw
+doorknob ['atlocation'] room ['atlocation'] saxophone ['relatedto'] curved ['relatedto'] claw
+doorknob ['atlocation'] room ['atlocation'] shelf ['atlocation'] cats ['capableof'] claw
+doorknob ['atlocation'] room ['relatedto', 'atlocation'] table ['relatedto', 'atlocation'] foot ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto', 'atlocation'] window ['relatedto'] process ['relatedto'] claw
+doorknob ['atlocation'] room ['isa', 'relatedto', 'derivedfrom'] ballroom ['derivedfrom', 'atlocation'] ball ['relatedto'] claw
+doorknob ['atlocation'] room ['derivedfrom'] playroom ['atlocation'] ball ['relatedto'] claw
+doorknob ['atlocation'] room ['isa'] garage ['atlocation'] hammer ['partof'] claw
+doorknob ['atlocation'] room ['isa'] gymnasium ['atlocation'] ball ['relatedto'] claw
+doorknob ['atlocation'] room ['isa', 'relatedto', 'synonym'] place ['relatedto', 'synonym'] digit ['relatedto'] claw
+doorknob ['atlocation'] room ['isa', 'relatedto'] opportunity ['relatedto'] catch ['relatedto'] claw
+doorknob ['atlocation'] room ['isa', 'relatedto'] opportunity ['relatedto'] seize ['mannerof'] claw
+doorknob ['atlocation'] room ['relatedto', 'partof'] building ['usedfor'] hammer ['partof'] claw
+doorknob ['atlocation'] room ['relatedto'] bedsite ['relatedto'] animal ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] bell ['relatedto'] curved ['relatedto'] claw
+doorknob ['atlocation'] room ['relatedto'] bell ['relatedto'] hammer ['partof'] claw
+doorknob ['atlocation'] room ['relatedto', 'synonym'] board ['atlocation'] nail ['relatedto'] claw

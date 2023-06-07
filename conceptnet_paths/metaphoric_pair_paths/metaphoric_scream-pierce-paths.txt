@@ -1,0 +1,100 @@
+scream ['capableof'] human ['relatedto', 'atlocation'] skin ['relatedto'] pierce
+scream ['capableof'] human ['relatedto'] cut ['entails'] pierce
+scream ['capableof'] human ['relatedto'] sound ['mannerof'] pierce
+scream ['relatedto'] anger ['causesdesire'] punch ['mannerof'] pierce
+scream ['relatedto'] anger ['relatedto'] sting ['mannerof'] pierce
+scream ['relatedto'] audible ['relatedto'] sound ['mannerof'] pierce
+scream ['antonym'] silent ['antonym', 'relatedto'] sound ['mannerof'] pierce
+scream ['antonym'] remain ['relatedto'] stick ['mannerof'] pierce
+scream ['relatedto'] fear ['relatedto'] sound ['mannerof'] pierce
+scream ['isa', 'relatedto'] cry ['isa', 'relatedto'] sound ['mannerof'] pierce
+scream ['relatedto'] voice ['isa', 'relatedto', 'hasproperty', 'synonym'] sound ['mannerof'] pierce
+scream ['relatedto'] horror ['relatedto'] gore ['mannerof', 'relatedto'] pierce
+scream ['relatedto'] loud ['relatedto'] sound ['mannerof'] pierce
+scream ['relatedto'] movie ['atlocation'] sound ['mannerof'] pierce
+scream ['relatedto'] movie ['relatedto'] gore ['mannerof', 'relatedto'] pierce
+scream ['formof', 'relatedto', 'synonym'] screaming ['relatedto'] piercing ['formof', 'relatedto', 'derivedfrom'] pierce
+scream ['isa'] film ['isa'] arrow ['usedfor'] pierce
+scream ['isa'] film ['isa', 'synonym'] skin ['relatedto'] pierce
+scream ['isa'] film ['isa'] sting ['mannerof'] pierce
+scream ['mannerof'] make_noise ['mannerof'] sound ['mannerof'] pierce
+scream ['relatedto'] emotion ['relatedto'] affect ['mannerof'] pierce
+scream ['relatedto'] terror ['relatedto'] transfix ['mannerof', 'relatedto'] pierce
+scream ['relatedto', 'synonym'] yell ['relatedto'] cut ['entails'] pierce
+scream ['relatedto', 'synonym'] yell ['relatedto'] usa ['relatedto'] pierce
+scream ['relatedto'] yelling ['relatedto'] sound ['mannerof'] pierce
+scream ['relatedto'] pitch ['relatedto'] fix ['relatedto'] pierce
+scream ['relatedto'] pitch ['relatedto'] break ['relatedto'] pierce
+scream ['relatedto'] pitch ['relatedto'] sound ['mannerof'] pierce
+scream ['relatedto'] pitch ['relatedto'] sap ['relatedto'] pierce
+scream ['relatedto'] squeal ['relatedto'] sound ['mannerof'] pierce
+scream ['relatedto'] yelp ['relatedto'] abrupt ['relatedto'] pierce
+scream ['synonym'] screech ['relatedto'] sound ['mannerof'] pierce
+scream ['synonym'] screech ['relatedto'] piercing ['formof', 'relatedto', 'derivedfrom'] pierce
+scream ['capableof'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] horn ['mannerof'] pierce
+scream ['capableof'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] poke ['mannerof'] pierce
+scream ['capableof'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] skin ['relatedto'] pierce
+scream ['capableof'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] sting ['mannerof'] pierce
+scream ['capableof'] human ['antonym'] bird ['relatedto', 'partof'] beak ['relatedto'] pierce
+scream ['capableof'] human ['antonym'] bird ['relatedto'] peck ['relatedto'] pierce
+scream ['capableof'] human ['antonym'] bird ['relatedto'] sound ['mannerof'] pierce
+scream ['capableof'] human ['antonym'] machine ['relatedto'] bite ['mannerof'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] arm ['relatedto'] lance ['mannerof', 'relatedto'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] arm ['relatedto'] pick ['mannerof'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] arm ['relatedto'] stick ['mannerof'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] bone ['relatedto'] stick ['mannerof'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] bone ['antonym', 'relatedto'] skin ['relatedto'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] bone ['relatedto'] break ['relatedto'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] bone ['relatedto'] flesh_wound ['relatedto'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] bone ['relatedto'] open_wound ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] aircraft ['relatedto'] stick ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] aircraft ['partof'] skin ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] aircraft ['relatedto'] turret ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] automobile ['atlocation'] horn ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] band ['relatedto'] jewelry ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] band ['relatedto'] cut ['entails'] pierce
+scream ['capableof'] human ['atlocation'] bar ['relatedto'] stick ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] bar ['relatedto', 'atlocation'] tap ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] bar ['relatedto'] hole ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] bar ['relatedto'] break ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] bath ['relatedto'] county_seat ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] bathroom ['atlocation'] tap ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] bathtub ['atlocation'] tap ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] boat ['relatedto'] launch ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] charge ['relatedto'] lance ['mannerof', 'relatedto'] pierce
+scream ['capableof'] human ['atlocation'] country ['isa', 'relatedto'] usa ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] county ['relatedto', 'partof'] county_seat ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] department_store ['atlocation'] jewelry ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] detroit ['relatedto'] county_seat ['relatedto'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] doctor ['relatedto', 'synonym'] fix ['relatedto'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] doctor ['atlocation'] needle ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] farm ['atlocation'] nebraska ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] grave ['relatedto'] hole ['relatedto'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] home ['relatedto'] lance ['mannerof', 'relatedto'] pierce
+scream ['capableof'] human ['atlocation'] mexico ['relatedto'] county_seat ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] mexico ['relatedto'] usa ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] michigan ['relatedto'] peck ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] mine ['relatedto'] pick ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] mine ['relatedto'] punch ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] mine ['relatedto'] hole ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] mine ['relatedto'] sap ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] moscow ['relatedto'] usa ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] motion ['relatedto'] cut ['entails'] pierce
+scream ['capableof'] human ['atlocation'] motion ['relatedto'] peck ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] motion ['relatedto'] tap ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] movie ['atlocation'] sound ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] movie ['relatedto'] gore ['mannerof', 'relatedto'] pierce
+scream ['capableof'] human ['atlocation'] pain ['relatedto'] cut ['entails'] pierce
+scream ['capableof'] human ['atlocation'] pain ['relatedto'] punch ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] pain ['isa'] sting ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] plane ['mannerof'] cut ['entails'] pierce
+scream ['capableof'] human ['atlocation'] pool ['relatedto'] stick ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] pool ['partof'] break ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] prison ['atlocation'] usa ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] school ['relatedto'] break ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] state ['relatedto'] break ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] state ['isa'] nebraska ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] state ['relatedto'] usa ['relatedto'] pierce
+scream ['capableof'] human ['atlocation'] train ['synonym'] stick ['mannerof'] pierce
+scream ['capableof'] human ['atlocation'] train ['relatedto'] penetrate ['mannerof', 'relatedto'] pierce
+scream ['capableof'] human ['relatedto', 'atlocation'] war ['relatedto'] lance ['mannerof', 'relatedto'] pierce

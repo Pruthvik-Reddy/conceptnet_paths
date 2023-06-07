@@ -1,0 +1,100 @@
+tree ['atlocation'] ground ['relatedto'] line
+tree ['relatedto'] home ['relatedto'] line
+tree ['relatedto'] construct ['relatedto'] line
+tree ['relatedto'] term ['relatedto'] line
+tree ['relatedto'] cross ['relatedto'] line
+tree ['isa'] figure ['isa', 'relatedto'] line
+tree ['relatedto'] part ['isa', 'relatedto'] line
+tree ['relatedto'] family ['relatedto'] line
+tree ['relatedto'] lime ['etymologicallyrelatedto'] line
+tree ['relatedto', 'derivedfrom'] treelined ['relatedto'] line
+tree ['isa'] snag ['relatedto'] line
+tree ['isa', 'relatedto'] graph ['atlocation'] line
+tree ['relatedto'] limbline ['derivedfrom'] line
+tree ['relatedto'] mora ['relatedto'] line
+tree ['relatedto'] path ['isa', 'relatedto'] line
+tree ['relatedto'] item ['relatedto'] line
+tree ['relatedto'] location ['isa'] line
+tree ['relatedto'] telephone ['relatedto'] line
+tree ['relatedto'] circumference ['relatedto'] line
+tree ['relatedto'] present ['mannerof'] state ['relatedto'] line
+tree ['relatedto'] present ['relatedto'] break ['relatedto'] line
+tree ['relatedto'] present ['relatedto'] lie ['mannerof', 'relatedto'] line
+tree ['relatedto'] present ['relatedto'] square ['relatedto', 'atlocation'] line
+tree ['relatedto'] present ['relatedto'] point ['antonym', 'distinctfrom', 'relatedto'] line
+tree ['relatedto'] present ['relatedto'] staff ['relatedto'] line
+tree ['relatedto'] present ['relatedto', 'synonym'] represent ['relatedto'] line
+tree ['relatedto'] present ['synonym'] portray ['relatedto'] line
+tree ['etymologicallyrelatedto'] trough ['antonym', 'relatedto'] wave ['antonym'] line
+tree ['etymologicallyrelatedto'] trough ['relatedto'] crib ['mannerof'] line
+tree ['etymologicallyrelatedto'] trough ['relatedto'] trench ['relatedto'] line
+tree ['etymologicallyrelatedto'] trough ['relatedto'] long ['relatedto'] line
+tree ['etymologicallyrelatedto'] trough ['relatedto'] narrow ['relatedto'] line
+tree ['capableof', 'relatedto'] grow ['antonym'] reduce ['relatedto'] line
+tree ['capableof', 'relatedto'] grow ['mannerof'] cut ['relatedto'] line
+tree ['capableof', 'relatedto'] grow ['relatedto'] autotropism ['relatedto'] line
+tree ['capableof', 'relatedto'] grow ['relatedto'] longer ['relatedto'] line
+tree ['capableof', 'relatedto'] grow ['relatedto'] process ['relatedto'] line
+tree ['capableof', 'relatedto'] grow ['relatedto'] timberline ['derivedfrom'] line
+tree ['capableof', 'relatedto'] grow ['relatedto'] wax ['relatedto'] line
+tree ['capableof', 'relatedto'] grow ['synonym'] turn ['relatedto'] line
+tree ['capableof', 'relatedto'] grow ['synonym'] produce ['relatedto'] line
+tree ['relatedto'] aggregate ['relatedto'] fiber ['relatedto'] line
+tree ['relatedto'] aggregate ['relatedto'] home ['relatedto'] line
+tree ['relatedto'] aggregate ['relatedto'] pencil ['relatedto'] line
+tree ['atlocation'] earth ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] space ['relatedto'] line
+tree ['atlocation'] earth ['mannerof', 'relatedto', 'synonym', 'atlocation'] ground ['relatedto'] line
+tree ['atlocation'] earth ['distinctfrom', 'hasproperty'] flat ['relatedto'] line
+tree ['atlocation'] earth ['hasa'] surface ['relatedto'] line
+tree ['atlocation'] earth ['isa'] word ['relatedto'] line
+tree ['atlocation'] earth ['isa'] location ['isa'] line
+tree ['atlocation'] earth ['relatedto'] abode ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] equator ['synonym'] line
+tree ['atlocation'] earth ['relatedto'] home ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] place ['relatedto', 'atlocation'] line
+tree ['atlocation'] earth ['relatedto'] fault_line ['isa'] line
+tree ['atlocation'] earth ['relatedto'] horizon ['isa'] line
+tree ['atlocation'] earth ['relatedto'] isobathytherm ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] isochasm ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] isocryme ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] isograd ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] isotherombrose ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] loxodrome ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] oil ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] pipe ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] projection ['relatedto'] line
+tree ['atlocation'] earth ['relatedto'] shaft ['isa'] line
+tree ['atlocation'] earth ['relatedto'] skyline ['relatedto'] line
+tree ['atlocation'] ground ['synonym'] establish ['relatedto'] line
+tree ['atlocation'] ground ['antonym', 'relatedto'] slope ['relatedto'] line
+tree ['atlocation'] ground ['antonym'] space ['relatedto'] line
+tree ['atlocation'] ground ['relatedto', 'atlocation'] oil ['relatedto'] line
+tree ['atlocation'] ground ['relatedto', 'derivedfrom'] groundline ['relatedto', 'derivedfrom'] line
+tree ['atlocation'] ground ['isa', 'relatedto'] surface ['relatedto'] line
+tree ['atlocation'] ground ['isa'] connection ['relatedto'] line
+tree ['atlocation'] ground ['isa'] military_position ['isa'] line
+tree ['atlocation'] ground ['mannerof', 'relatedto'] hit ['relatedto'] line
+tree ['atlocation'] ground ['mannerof', 'relatedto'] connect ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] army ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] band ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] border ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] end ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] fly ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] flat ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] place ['relatedto', 'atlocation'] line
+tree ['atlocation'] ground ['relatedto'] play ['atlocation'] line
+tree ['atlocation'] ground ['relatedto'] powder ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] term ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] walk ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] popping_crease ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] infantry ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] leader ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] pickup ['usedfor'] line
+tree ['atlocation'] ground ['relatedto'] range ['relatedto'] line
+tree ['atlocation'] ground ['relatedto'] road ['isa', 'relatedto'] line
+tree ['atlocation'] ground ['relatedto'] snow_line ['isa'] line
+tree ['atlocation'] ground ['synonym'] track ['relatedto'] line
+tree ['desires'] water ['antonym', 'relatedto'] ground ['relatedto'] line
+tree ['desires'] water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] line
+tree ['desires'] water ['antonym', 'relatedto'] wave ['antonym'] line
+tree ['desires'] water ['relatedto', 'atlocation'] fish ['usedfor'] line

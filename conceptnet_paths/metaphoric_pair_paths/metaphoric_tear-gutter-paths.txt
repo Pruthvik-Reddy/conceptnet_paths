@@ -1,0 +1,100 @@
+tear ['relatedto'] water ['relatedto'] gutter
+tear ['relatedto'] water ['antonym', 'synonym'] burn ['mannerof'] gutter
+tear ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] gutter
+tear ['relatedto'] water ['relatedto', 'atlocation'] drain ['relatedto'] gutter
+tear ['relatedto'] water ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] rain ['relatedto'] gutter
+tear ['relatedto'] water ['atlocation'] roof ['relatedto', 'atlocation'] gutter
+tear ['relatedto'] water ['atlocation'] sewer ['synonym'] gutter
+tear ['relatedto'] water ['relatedto', 'atlocation'] stream ['relatedto'] gutter
+tear ['relatedto'] water ['atlocation'] street ['atlocation'] gutter
+tear ['relatedto'] water ['relatedto', 'atlocation'] toilet ['synonym'] gutter
+tear ['relatedto'] water ['relatedto', 'derivedfrom', 'atlocation'] waterspout ['relatedto'] gutter
+tear ['relatedto'] water ['relatedto'] channel ['isa', 'relatedto'] gutter
+tear ['relatedto'] water ['relatedto'] conduit ['isa'] gutter
+tear ['relatedto'] water ['relatedto'] ditch ['relatedto'] gutter
+tear ['relatedto'] water ['relatedto'] drainage ['relatedto'] gutter
+tear ['relatedto'] water ['relatedto'] gurt ['relatedto'] gutter
+tear ['relatedto'] water ['relatedto'] strand ['relatedto'] gutter
+tear ['isa'] separation ['relatedto'] channel ['isa', 'relatedto'] gutter
+tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip ['relatedto'] stream ['relatedto'] gutter
+tear ['antonym'] build ['antonym'] burn ['mannerof'] gutter
+tear ['antonym'] build ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] building ['relatedto'] gutter
+tear ['antonym'] build ['relatedto'] homes ['relatedto'] gutter
+tear ['relatedto'] destroy ['mannerof'] burn ['mannerof'] gutter
+tear ['relatedto'] destroy ['relatedto'] gut ['relatedto'] gutter
+tear ['causesdesire'] repair_umbrella ['causesdesire'] rain ['relatedto'] gutter
+tear ['relatedto', 'derivedfrom'] tear_duct ['relatedto'] duct ['relatedto'] gutter
+tear ['etymologicallyrelatedto'] tire ['relatedto'] road ['relatedto'] gutter
+tear ['formof', 'relatedto'] tears ['atlocation'] water ['relatedto'] gutter
+tear ['isa', 'relatedto'] drop ['relatedto'] water ['relatedto'] gutter
+tear ['isa', 'relatedto'] drop ['relatedto'] falls ['relatedto'] gutter
+tear ['isa', 'relatedto'] drop ['relatedto'] rain ['relatedto'] gutter
+tear ['isa', 'relatedto'] drop ['relatedto'] rain_water ['relatedto'] gutter
+tear ['mannerof', 'relatedto'] cry ['relatedto'] water ['relatedto'] gutter
+tear ['mannerof', 'relatedto'] cry ['relatedto'] rain ['relatedto'] gutter
+tear ['mannerof'] rush ['relatedto'] water ['relatedto'] gutter
+tear ['mannerof'] rush ['isa', 'relatedto'] flow ['relatedto'] gutter
+tear ['mannerof'] rush ['isa', 'mannerof', 'relatedto'] run ['mannerof'] gutter
+tear ['relatedto'] bacteria ['atlocation'] water ['relatedto'] gutter
+tear ['relatedto'] cut ['synonym'] burn ['mannerof'] gutter
+tear ['relatedto'] cut ['isa'] side ['relatedto'] gutter
+tear ['relatedto'] cut ['relatedto'] ditch ['relatedto'] gutter
+tear ['relatedto'] dacryocystorhinostomy ['relatedto'] flow ['relatedto'] gutter
+tear ['relatedto'] dacryocystorhinostomy ['relatedto'] duct ['relatedto'] gutter
+tear ['relatedto'] eye ['relatedto'] pin ['relatedto'] gutter
+tear ['relatedto'] lachrymation ['relatedto'] flow ['relatedto'] gutter
+tear ['relatedto'] mouse ['atlocation'] building ['relatedto'] gutter
+tear ['relatedto'] mouse ['atlocation'] sewer ['synonym'] gutter
+tear ['relatedto'] rat ['relatedto'] sewer ['synonym'] gutter
+tear ['relatedto'] ripple ['mannerof'] flow ['relatedto'] gutter
+tear ['relatedto'] rit ['relatedto'] groove ['relatedto'] gutter
+tear ['relatedto'] stitch ['relatedto'] side ['relatedto'] gutter
+tear ['relatedto'] crying ['relatedto'] rain ['relatedto'] gutter
+tear ['relatedto'] droplet ['atlocation'] water ['relatedto'] gutter
+tear ['relatedto'] droplet ['relatedto'] rain ['relatedto'] gutter
+tear ['relatedto'] liquid ['isa', 'relatedto', 'hasproperty'] water ['relatedto'] gutter
+tear ['relatedto'] liquid ['relatedto'] rain ['relatedto'] gutter
+tear ['relatedto'] liquid ['relatedto'] drain ['relatedto'] gutter
+tear ['relatedto'] liquid ['capableof', 'relatedto'] flow ['relatedto'] gutter
+tear ['relatedto'] liquid ['relatedto'] run ['mannerof'] gutter
+tear ['relatedto'] liquid ['relatedto'] stream ['relatedto'] gutter
+tear ['relatedto'] part ['relatedto'] road ['relatedto'] gutter
+tear ['relatedto'] part ['relatedto'] lane ['relatedto'] gutter
+tear ['relatedto'] part ['relatedto'] leaf ['relatedto'] gutter
+tear ['relatedto'] part ['relatedto'] building ['relatedto'] gutter
+tear ['relatedto'] part ['relatedto'] channel ['isa', 'relatedto'] gutter
+tear ['relatedto'] part ['relatedto'] roof ['relatedto', 'atlocation'] gutter
+tear ['relatedto'] part ['relatedto', 'synonym'] side ['relatedto'] gutter
+tear ['relatedto'] salt ['relatedto', 'atlocation'] water ['relatedto'] gutter
+tear ['relatedto'] salt ['atlocation'] homes ['relatedto'] gutter
+tear ['relatedto'] salt ['atlocation'] street ['atlocation'] gutter
+tear ['relatedto'] salt_water ['isa'] water ['relatedto'] gutter
+tear ['relatedto'] hole ['usedfor'] water ['relatedto'] gutter
+tear ['relatedto'] hole ['relatedto'] ditch ['relatedto'] gutter
+tear ['relatedto'] hole ['relatedto'] pin ['relatedto'] gutter
+tear ['relatedto'] move ['mannerof', 'relatedto'] flow ['relatedto'] gutter
+tear ['relatedto'] move ['mannerof', 'relatedto', 'synonym'] run ['mannerof'] gutter
+tear ['relatedto'] move ['relatedto'] homes ['relatedto'] gutter
+tear ['relatedto'] move ['relatedto'] pin ['relatedto'] gutter
+tear ['relatedto'] speed ['relatedto', 'synonym'] run ['mannerof'] gutter
+tear ['relatedto'] produce ['relatedto'] rain ['relatedto'] gutter
+tear ['relatedto'] produce ['relatedto'] run ['mannerof'] gutter
+tear ['relatedto'] water_works ['relatedto'] water ['relatedto'] gutter
+tear ['relatedto'] waterworks ['relatedto', 'derivedfrom'] water ['relatedto'] gutter
+tear ['relatedto'] wound ['relatedto'] burn ['mannerof'] gutter
+tear ['synonym'] charge ['relatedto'] run ['mannerof'] gutter
+tear ['synonym'] hare ['mannerof'] run ['mannerof'] gutter
+tear ['synonym'] shoot ['relatedto'] chute ['isa'] gutter
+tear ['relatedto'] water ['atlocation'] underground ['relatedto'] drain ['relatedto'] gutter
+tear ['relatedto'] water ['atlocation'] underground ['relatedto'] sewer ['synonym'] gutter
+tear ['relatedto'] water ['relatedto'] concrete ['relatedto', 'atlocation'] street ['atlocation'] gutter
+tear ['relatedto'] water ['relatedto'] concrete ['relatedto'] building ['relatedto'] gutter
+tear ['relatedto'] water ['relatedto'] concrete ['relatedto'] curb ['usedfor', 'relatedto'] gutter
+tear ['relatedto'] water ['relatedto'] concrete ['relatedto'] road ['relatedto'] gutter
+tear ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'atlocation'] rain ['relatedto'] gutter
+tear ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['mannerof'] gutter
+tear ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['receivesaction'] extinguished ['relatedto'] gutter
+tear ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] flicker ['relatedto'] gutter
+tear ['relatedto'] water ['antonym', 'relatedto'] ground ['antonym'] roof ['relatedto', 'atlocation'] gutter
+tear ['relatedto'] water ['antonym', 'relatedto'] ground ['antonym'] sewer ['synonym'] gutter
+tear ['relatedto'] water ['antonym', 'relatedto'] ground ['atlocation'] leaf ['relatedto'] gutter

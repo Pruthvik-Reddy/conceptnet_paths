@@ -1,0 +1,100 @@
+lungs ['relatedto', 'atlocation'] air ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto'] mammal ['relatedto'] babesia ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom'] fire ['antonym', 'isa', 'synonym'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom'] fire ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym'] navy ['antonym', 'relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym', 'relatedto'] space ['relatedto'] invader ['relatedto', 'derivedfrom'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym', 'relatedto'] space ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym', 'relatedto'] space ['relatedto'] occupy ['synonym'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym', 'relatedto'] steam ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] wind ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] wind ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['atlocation'] house ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['atlocation'] jar ['mannerof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] sky ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['atlocation'] insects ['capableof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['atlocation'] magic ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['atlocation'] nose ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] plane ['relatedto'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] sound ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['derivedfrom'] airstrike ['relatedto'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['hasa', 'relatedto'] pressure ['isa', 'relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['isa', 'relatedto', 'synonym'] gas ['mannerof'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['isa'] medium ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] aerial ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] cant ['mannerof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] general ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] humans ['capableof'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] light ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] resistance ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] term ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] feeling ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] fill ['relatedto'] enter ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] fill ['relatedto', 'synonym'] occupy ['synonym'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] open ['mannerof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] army ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] army ['relatedto'] invading ['formof'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] army ['relatedto'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] blow ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] compression ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] condition ['relatedto'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] current ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] cut ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] cut ['mannerof'] trench ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] cut ['relatedto'] enter ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] elemental ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] fan ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] fan_blade ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] fly ['mannerof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] force ['relatedto'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] force ['relatedto'] invasive ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] grill ['relatedto'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] heaven ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto', 'synonym'] lift ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto', 'synonym'] lift ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] mammal ['relatedto'] babesia ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] pump ['mannerof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] rise ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] roll ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] stop ['antonym', 'distinctfrom', 'relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] throw ['mannerof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] thunder ['mannerof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['relatedto'] tongue ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['synonym'] manner ['relatedto'] attack ['mannerof'] invade
+lungs ['relatedto', 'atlocation'] air ['synonym'] send ['mannerof'] move ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['synonym'] transmit ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto', 'atlocation'] air ['synonym'] transmit ['mannerof'] move ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['relatedto'] human ['relatedto'] babesia ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['relatedto'] human ['relatedto'] piroplasma ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['relatedto', 'hasprerequisite'] air ['relatedto'] force ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['antonym', 'relatedto'] blow ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['causes', 'usedfor'] life ['relatedto'] force ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['causes'] pain ['relatedto'] attack ['mannerof'] invade
+lungs ['hasprerequisite'] breathing ['relatedto'] exercise ['relatedto', 'hasprerequisite', 'entails'] move ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['usedfor', 'relatedto'] nose ['relatedto'] move ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['relatedto'] wind ['relatedto'] force ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['relatedto'] wind ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['hasprerequisite'] breathing ['usedfor'] sky ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] act ['entails'] enter ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] act ['mannerof'] attack ['mannerof'] invade
+lungs ['relatedto'] breath ['relatedto'] act ['mannerof'] evade ['antonym'] invade
+lungs ['relatedto'] breath ['relatedto'] act ['mannerof'] force ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] act ['relatedto', 'synonym'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] activity ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] activity ['relatedto'] attack ['mannerof'] invade
+lungs ['relatedto'] breath ['relatedto'] activity ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] rest ['distinctfrom'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['isa', 'relatedto'] air ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] blow ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['usedfor'] sky ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto'] breath ['hasfirstsubevent'] born ['relatedto'] enter ['relatedto'] invade
+lungs ['relatedto'] breath ['hasprerequisite'] live ['mannerof', 'relatedto'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['hasprerequisite'] live ['relatedto', 'synonym'] inhabit ['mannerof'] invade
+lungs ['relatedto'] breath ['hasprerequisite'] live ['relatedto'] occupy ['synonym'] invade
+lungs ['relatedto'] breath ['isa'] play ['mannerof', 'relatedto', 'entails'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto', 'synonym'] life ['relatedto'] force ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] movement ['relatedto'] enter ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] movement ['relatedto', 'derivedfrom'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] nose ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] shorter ['relatedto'] move ['relatedto'] invade
+lungs ['relatedto'] breath ['relatedto'] taking ['relatedto'] move ['relatedto'] invade

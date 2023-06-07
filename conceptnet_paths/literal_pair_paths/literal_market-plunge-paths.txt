@@ -1,0 +1,100 @@
+market ['isa'] activity ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] activity ['relatedto'] plunge
+market ['isa'] activity ['isa'] jumping ['relatedto'] plunge
+market ['isa'] activity ['relatedto'] force ['relatedto'] plunge
+market ['isa'] activity ['relatedto'] dive ['relatedto', 'similarto', 'synonym'] plunge
+market ['isa'] activity ['relatedto'] swimming ['relatedto'] plunge
+market ['relatedto'] potential ['relatedto'] risk ['relatedto'] plunge
+market ['relatedto'] air ['relatedto'] force ['relatedto'] plunge
+market ['relatedto'] air ['relatedto'] throw ['relatedto'] plunge
+market ['relatedto'] ground ['mannerof'] throw ['relatedto'] plunge
+market ['relatedto'] ground ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto'] free ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto'] vegetable ['relatedto'] dip ['synonym'] plunge
+market ['relatedto'] demand ['isa'] activity ['relatedto'] plunge
+market ['relatedto'] square ['relatedto'] pitch ['relatedto'] plunge
+market ['relatedto'] bull ['relatedto'] force ['relatedto'] plunge
+market ['relatedto'] bull ['relatedto'] dart ['mannerof'] plunge
+market ['isa'] bear_market ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto', 'atlocation'] food ['relatedto'] dip ['synonym'] plunge
+market ['relatedto'] small ['relatedto'] dart ['mannerof'] plunge
+market ['relatedto'] small ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto'] small ['relatedto'] toilet ['relatedto'] plunge
+market ['relatedto', 'atlocation'] fish ['usedfor', 'relatedto'] swimming ['relatedto'] plunge
+market ['relatedto', 'atlocation'] fish ['relatedto'] leap ['relatedto'] plunge
+market ['relatedto'] center ['relatedto'] activity ['relatedto'] plunge
+market ['relatedto'] dark ['relatedto'] pitch ['relatedto'] plunge
+market ['relatedto'] business ['relatedto'] activity ['relatedto'] plunge
+market ['relatedto'] buy ['relatedto'] activity ['relatedto'] plunge
+market ['relatedto'] sell ['mannerof', 'relatedto'] dump ['synonym'] plunge
+market ['relatedto'] sell ['relatedto'] pitch ['relatedto'] plunge
+market ['relatedto'] sale ['relatedto'] activity ['relatedto'] plunge
+market ['mannerof'] deal ['relatedto', 'synonym'] pitch ['relatedto'] plunge
+market ['atlocation'] cheese ['synonym'] rush ['relatedto'] plunge
+market ['relatedto'] open ['relatedto'] bet ['relatedto'] plunge
+market ['relatedto'] wall ['isa'] difficulty ['relatedto'] plunge
+market ['relatedto'] wall ['relatedto'] overwhelm ['relatedto'] plunge
+market ['relatedto'] group ['relatedto'] cast ['relatedto'] plunge
+market ['relatedto'] promote ['relatedto'] pitch ['relatedto'] plunge
+market ['relatedto'] depression ['isa'] dip ['synonym'] plunge
+market ['relatedto'] park ['atlocation'] swimming_pool ['relatedto'] plunge
+market ['relatedto'] park ['relatedto'] pitch ['relatedto'] plunge
+market ['relatedto'] park ['relatedto'] risk ['relatedto'] plunge
+market ['relatedto'] farmer ['relatedto'] pitch ['relatedto'] plunge
+market ['relatedto'] flash ['relatedto'] throw ['relatedto'] plunge
+market ['relatedto'] flash ['synonym'] dart ['mannerof'] plunge
+market ['relatedto'] flea ['relatedto'] jumping ['relatedto'] plunge
+market ['relatedto'] fresh ['relatedto'] rush ['relatedto'] plunge
+market ['relatedto'] public ['relatedto'] toilet ['relatedto'] plunge
+market ['mannerof'] offer ['relatedto'] pitch ['relatedto'] plunge
+market ['isa', 'relatedto'] place ['relatedto'] bet ['relatedto'] plunge
+market ['isa', 'relatedto'] place ['relatedto'] pitch ['relatedto'] plunge
+market ['isa', 'relatedto'] place ['relatedto'] toilet ['relatedto'] plunge
+market ['relatedto'] property ['relatedto'] distress ['relatedto'] plunge
+market ['mannerof', 'relatedto'] trade ['relatedto'] activity ['relatedto'] plunge
+market ['relatedto'] stuff ['synonym'] thrust ['relatedto'] plunge
+market ['relatedto'] value ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto', 'atlocation'] stocks ['relatedto'] launch ['relatedto', 'synonym'] plunge
+market ['isa', 'relatedto'] location ['relatedto'] fix ['relatedto'] plunge
+market ['isa'] industry ['relatedto'] dip ['synonym'] plunge
+market ['mannerof', 'relatedto'] shop ['relatedto'] activity ['relatedto'] plunge
+market ['relatedto'] confusopoly ['relatedto'] force ['relatedto'] plunge
+market ['relatedto'] dumping ['formof', 'relatedto'] dump ['synonym'] plunge
+market ['relatedto'] area ['relatedto'] toilet ['relatedto'] plunge
+market ['relatedto'] district ['relatedto'] distress ['relatedto'] plunge
+market ['relatedto'] items ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto'] stock ['relatedto'] launch ['relatedto', 'synonym'] plunge
+market ['relatedto'] stock ['relatedto'] thrust ['relatedto'] plunge
+market ['relatedto'] transaction ['relatedto'] bet ['relatedto'] plunge
+market ['relatedto'] type ['relatedto'] activity ['relatedto'] plunge
+market ['relatedto'] type ['relatedto'] cast ['relatedto'] plunge
+market ['relatedto'] type ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto'] event ['relatedto'] risk ['relatedto'] plunge
+market ['relatedto'] event ['relatedto'] rush ['relatedto'] plunge
+market ['relatedto'] event ['isa'] jumping ['relatedto'] plunge
+market ['relatedto'] marketization ['relatedto'] force ['relatedto'] plunge
+market ['relatedto'] saturation ['relatedto'] force ['relatedto'] plunge
+market ['relatedto'] static_equilibrium ['relatedto'] force ['relatedto'] plunge
+market ['relatedto'] thin_trading ['relatedto'] risk ['relatedto'] plunge
+market ['relatedto'] presence ['isa'] shadow ['relatedto'] cast ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] appearance ['relatedto'] cast ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] appearance ['relatedto'] distress ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] state ['relatedto'] rush ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] activity ['isa'] jumping ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] activity ['relatedto'] force ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] activity ['relatedto'] dive ['relatedto', 'similarto', 'synonym'] plunge
+market ['relatedto'] presence ['relatedto'] activity ['relatedto'] swimming ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] business ['relatedto'] activity ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] close ['relatedto'] strait ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] condition ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto'] presence ['relatedto'] condition ['isa'] difficulty ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] condition ['relatedto'] throw ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] felt ['mannerof'] entangle ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] part ['relatedto'] drop ['isa', 'mannerof'] plunge
+market ['relatedto'] presence ['relatedto'] poise ['relatedto'] embarrassment ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] quality ['isa'] difficulty ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] relationship ['relatedto'] dump ['synonym'] plunge
+market ['relatedto'] presence ['relatedto'] space ['relatedto'] cast ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] space ['relatedto'] strait ['relatedto'] plunge
+market ['relatedto'] presence ['relatedto'] show_flag ['relatedto'] force ['relatedto'] plunge
+market ['relatedto'] presence ['synonym'] front ['relatedto'] activity ['relatedto'] plunge

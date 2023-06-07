@@ -1,0 +1,100 @@
+candidate ['relatedto'] apply ['relatedto'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] position ['relatedto'] range ['relatedto'] sift
+candidate ['relatedto'] runner ['relatedto'] bolt ['relatedto'] sift
+candidate ['relatedto'] candle ['relatedto'] filter ['relatedto'] sift
+candidate ['relatedto'] candle ['mannerof'] examine ['relatedto'] sift
+candidate ['relatedto'] disease ['isa'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] examination ['relatedto'] examine ['relatedto'] sift
+candidate ['relatedto'] run ['relatedto', 'synonym'] range ['relatedto'] sift
+candidate ['relatedto'] run ['mannerof', 'synonym'] travel ['mannerof'] sift
+candidate ['relatedto'] independent ['relatedto'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] plurality ['antonym'] singularity ['relatedto'] range ['relatedto'] sift
+candidate ['relatedto'] plurality ['relatedto'] position ['relatedto'] range ['relatedto'] sift
+candidate ['relatedto'] act ['antonym'] band ['isa'] range ['relatedto'] sift
+candidate ['relatedto'] act ['definedas'] proceed ['mannerof'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] fell ['relatedto'] sift
+candidate ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['isa'] event ['relatedto'] range ['relatedto'] sift
+candidate ['relatedto'] act ['isa'] distribution ['isa'] scatter ['relatedto'] sift
+candidate ['relatedto'] act ['isa'] injury ['isa'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['isa'] stay ['antonym'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['isa'] stop ['haslastsubevent'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['isa'] touch ['relatedto'] fell ['relatedto'] sift
+candidate ['relatedto'] act ['isa'] wear ['relatedto'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['mannerof'] criticize ['relatedto'] size ['relatedto'] sift
+candidate ['relatedto'] act ['mannerof'] exert ['relatedto'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['mannerof'] follow ['mannerof'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['mannerof'] force ['relatedto'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['mannerof'] go ['isa', 'relatedto', 'synonym'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['mannerof'] joke ['relatedto'] riddle ['mannerof'] sift
+candidate ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['relatedto'] range ['relatedto'] sift
+candidate ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['mannerof'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['mannerof'] race ['relatedto'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['mannerof'] race ['relatedto'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['mannerof', 'relatedto'] rush ['mannerof'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['mannerof'] try ['relatedto'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['mannerof'] try ['synonym'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['mannerof', 'relatedto'] use ['mannerof'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['relatedto'] career ['mannerof'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] charade ['relatedto'] riddle ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] division ['relatedto'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] group ['antonym'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] group ['relatedto'] flock ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] group ['relatedto'] range ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] motion ['isa'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] parliament ['synonym'] flock ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] part ['relatedto', 'synonym'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] part ['relatedto'] bread ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] part ['relatedto'] range ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] partition ['mannerof', 'relatedto'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] performing ['isa'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] screen ['isa', 'relatedto'] filter ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] screen ['synonym'] sieve ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['relatedto'] screen ['synonym'] riddle ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] segment ['mannerof'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] skill ['relatedto'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] skill ['relatedto'] examine ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] stage ['isa'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] staging ['isa'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] stuff ['relatedto'] bread ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] stuff ['relatedto'] rice ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] unit ['relatedto'] size ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] student ['relatedto'] bolting ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] map ['hasprerequisite'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] character ['relatedto'] strain ['relatedto', 'synonym'] sift
+candidate ['relatedto'] act ['relatedto'] circuit ['mannerof'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] cut ['mannerof', 'relatedto'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] cut ['mannerof'] fell ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] drift ['relatedto'] bolt ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] drift ['relatedto'] flock ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] drink ['relatedto'] size ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] eat ['relatedto'] bread ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] eat ['relatedto'] rice ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] eating ['usedfor', 'relatedto'] bread ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] eating ['relatedto'] rice ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] fast ['relatedto'] bolt ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] good ['relatedto'] bread ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] grow ['relatedto'] bolt ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] grow ['relatedto'] size ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] listen ['relatedto'] carefully ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] loo ['etymologicallyrelatedto'] lew ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] lord ['relatedto'] pandemain ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] lord ['relatedto'] payndemain ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] mixture ['relatedto'] bread ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto', 'synonym'] move ['mannerof'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto', 'synonym'] move ['mannerof'] bolt ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto', 'synonym'] move ['mannerof'] falter ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto', 'synonym'] move ['relatedto', 'synonym'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] opener ['relatedto'] separate ['mannerof', 'relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] pot ['relatedto'] size ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] register ['relatedto'] range ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] regulation ['relatedto'] size ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] remember ['haslastsubevent'] travel ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] search ['mannerof', 'relatedto'] examine ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] spy ['relatedto'] examine ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] stir ['relatedto'] rice ['mannerof'] sift
+candidate ['relatedto'] act ['relatedto'] white_bread ['isa', 'relatedto'] bread ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] white_bread ['relatedto'] pandemain ['relatedto'] sift
+candidate ['relatedto'] act ['relatedto'] white_bread ['relatedto'] payndemain ['relatedto'] sift
+candidate ['relatedto'] act ['synonym'] number ['isa', 'relatedto'] size ['relatedto'] sift
+candidate ['relatedto'] act ['synonym'] ordinance ['relatedto'] size ['relatedto'] sift

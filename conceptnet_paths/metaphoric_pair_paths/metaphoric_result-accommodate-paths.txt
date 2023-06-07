@@ -1,0 +1,100 @@
+result ['relatedto'] action ['relatedto'] hold ['synonym'] accommodate
+result ['relatedto'] action ['relatedto'] provide ['mannerof'] accommodate
+result ['relatedto'] action ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] action ['synonym'] suit ['synonym'] accommodate
+result ['relatedto'] fire ['atlocation'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] fire ['relatedto'] seat ['mannerof'] accommodate
+result ['relatedto'] analysis ['relatedto'] harmony ['relatedto'] accommodate
+result ['relatedto'] answer ['relatedto'] harmony ['relatedto'] accommodate
+result ['synonym'] arise ['antonym'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] go ['antonym'] hold ['synonym'] accommodate
+result ['relatedto'] go ['relatedto', 'synonym'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] go ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['synonym'] leave ['synonym'] provide ['mannerof'] accommodate
+result ['relatedto'] stick ['synonym'] lodge ['synonym'] accommodate
+result ['mannerof'] come ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] good ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] good ['relatedto'] booth ['relatedto'] accommodate
+result ['relatedto'] time ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] time ['relatedto'] harmony ['relatedto'] accommodate
+result ['relatedto'] work ['relatedto'] leggism ['relatedto'] accommodate
+result ['relatedto'] mean ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] drop ['antonym', 'distinctfrom', 'relatedto'] hold ['synonym'] accommodate
+result ['antonym', 'relatedto'] cause ['similarto'] hold ['synonym'] accommodate
+result ['antonym', 'relatedto'] cause ['relatedto'] suit ['synonym'] accommodate
+result ['relatedto'] lose ['antonym'] hold ['synonym'] accommodate
+result ['relatedto'] win ['relatedto'] hold ['synonym'] accommodate
+result ['relatedto'] draw ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] fruit ['relatedto'] box ['usedfor'] accommodate
+result ['relatedto'] necessary ['hasproperty'] sleep ['mannerof', 'relatedto'] accommodate
+result ['isa'] sequel ['relatedto'] suit ['synonym'] accommodate
+result ['relatedto'] beat ['relatedto'] seat ['mannerof'] accommodate
+result ['relatedto'] distribution ['relatedto'] box ['usedfor'] accommodate
+result ['relatedto'] distribution ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] podium ['relatedto'] box ['usedfor'] accommodate
+result ['relatedto'] resolution ['isa'] harmony ['relatedto'] accommodate
+result ['relatedto'] stitch ['relatedto'] hold ['synonym'] accommodate
+result ['relatedto'] swing ['isa'] seat ['mannerof'] accommodate
+result ['relatedto'] decay ['antonym'] build ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] decay ['capableof'] fruit ['relatedto'] box ['usedfor'] accommodate
+result ['relatedto'] decay ['isa'] cavity ['relatedto'] wellhole ['relatedto'] accommodate
+result ['relatedto'] decay ['mannerof', 'relatedto'] break ['antonym'] hold ['synonym'] accommodate
+result ['relatedto'] decay ['mannerof', 'relatedto'] change ['mannerof'] adapt ['synonym'] accommodate
+result ['relatedto'] decay ['mannerof', 'relatedto'] change ['mannerof'] harmonize ['mannerof'] accommodate
+result ['relatedto'] decay ['relatedto'] autodynamics ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] decay ['relatedto'] condition ['isa'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] decay ['relatedto'] cause ['similarto'] hold ['synonym'] accommodate
+result ['relatedto'] decay ['relatedto'] cause ['relatedto'] suit ['synonym'] accommodate
+result ['relatedto'] decay ['relatedto'] relax ['relatedto', 'hasprerequisite'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] decay ['relatedto'] relax ['usedfor'] seat ['mannerof'] accommodate
+result ['relatedto'] decay ['relatedto'] state ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] decay ['relatedto'] state ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] decay ['relatedto'] go ['antonym'] hold ['synonym'] accommodate
+result ['relatedto'] decay ['relatedto'] go ['relatedto', 'synonym'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] decay ['relatedto'] go ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] decay ['synonym'] wane ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] erosion ['relatedto'] armor ['relatedto'] suit ['synonym'] accommodate
+result ['relatedto'] erosion ['relatedto'] armour ['relatedto'] suit ['synonym'] accommodate
+result ['relatedto'] erosion ['relatedto'] face ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] erosion ['relatedto'] mechanical ['relatedto'] wellhole ['relatedto'] accommodate
+result ['relatedto'] erosion ['relatedto'] sea ['relatedto'] pier ['relatedto'] accommodate
+result ['relatedto'] erosion ['relatedto'] platform ['relatedto'] hold ['synonym'] accommodate
+result ['relatedto'] erosion ['relatedto'] platform ['isa', 'relatedto'] pier ['relatedto'] accommodate
+result ['relatedto'] action ['relatedto'] fix ['mannerof'] provide ['mannerof'] accommodate
+result ['relatedto'] action ['relatedto'] accept ['relatedto', 'synonym'] admit ['synonym'] accommodate
+result ['relatedto'] action ['isa', 'relatedto', 'derivedfrom'] act ['relatedto'] provide ['mannerof'] accommodate
+result ['relatedto'] action ['antonym', 'relatedto'] doll ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] action ['antonym', 'relatedto'] doll ['relatedto'] box ['usedfor'] accommodate
+result ['relatedto'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['distinctfrom', 'relatedto', 'synonym', 'hasprerequisite', 'mannerof', 'motivatedbygoal'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['relatedto'] seat ['mannerof'] accommodate
+result ['relatedto'] action ['capableof'] dress ['antonym'] suit ['synonym'] accommodate
+result ['relatedto'] action ['capableof'] dress ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] action ['hasprerequisite'] getting ['relatedto'] harmony ['relatedto'] accommodate
+result ['relatedto'] action ['isa'] expression ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] action ['isa', 'relatedto'] work ['relatedto'] leggism ['relatedto'] accommodate
+result ['relatedto'] action ['isa', 'relatedto'] drive ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] action ['isa', 'relatedto'] drive ['relatedto'] provide ['mannerof'] accommodate
+result ['relatedto'] action ['isa'] state ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] action ['isa'] state ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+result ['relatedto'] action ['isa', 'relatedto', 'synonym'] activity ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] action ['isa'] behavior ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+result ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] adapt ['synonym'] accommodate
+result ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] harmonize ['mannerof'] accommodate
+result ['relatedto'] action ['isa'] hug ['relatedto'] hold ['synonym'] accommodate
+result ['relatedto'] action ['isa'] indulgence ['relatedto'] provide ['mannerof'] accommodate
+result ['relatedto'] action ['isa', 'relatedto'] play ['isa'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] action ['isa', 'relatedto'] play ['relatedto'] harmonize ['mannerof'] accommodate
+result ['relatedto'] action ['isa'] providing ['formof', 'relatedto'] provide ['mannerof'] accommodate
+result ['relatedto'] action ['isa'] swing ['isa'] seat ['mannerof'] accommodate
+result ['relatedto'] action ['isa'] thing ['isa'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] action ['isa'] thing ['relatedto'] box ['usedfor'] accommodate
+result ['relatedto'] action ['relatedto', 'partof'] key ['mannerof'] harmonize ['mannerof'] accommodate
+result ['relatedto'] action ['relatedto'] acceptance ['relatedto'] admit ['synonym'] accommodate
+result ['relatedto'] action ['relatedto'] capital ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] action ['relatedto'] capital ['isa', 'relatedto'] seat ['mannerof'] accommodate
+result ['relatedto'] action ['relatedto'] capital ['relatedto'] provide ['mannerof'] accommodate
+result ['relatedto'] action ['relatedto'] charge ['synonym'] lodge ['synonym'] accommodate
+result ['relatedto'] action ['relatedto', 'similarto', 'synonym'] deed ['relatedto'] house ['mannerof', 'synonym'] accommodate
+result ['relatedto'] action ['relatedto'] device ['isa', 'relatedto'] seat ['mannerof'] accommodate

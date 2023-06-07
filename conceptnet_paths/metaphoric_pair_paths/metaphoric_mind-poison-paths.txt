@@ -1,0 +1,100 @@
+mind ['antonym', 'relatedto'] matter ['relatedto'] poison
+mind ['relatedto'] healthy ['distinctfrom'] poison
+mind ['relatedto'] power ['relatedto'] poison
+mind ['relatedto'] skull ['relatedto'] poison
+mind ['relatedto'] material ['relatedto'] poison
+mind ['relatedto'] substance ['isa', 'relatedto'] poison
+mind ['synonym'] opinion ['relatedto'] poison
+mind ['relatedto'] ability ['relatedto', 'synonym'] power ['relatedto'] poison
+mind ['relatedto'] ability ['relatedto'] tolerance ['relatedto'] poison
+mind ['isa'] purpose ['relatedto'] kill ['usedfor', 'mannerof', 'relatedto'] poison
+mind ['isa'] purpose ['relatedto'] taste ['relatedto'] poison
+mind ['isa'] purpose ['synonym'] matter ['relatedto'] poison
+mind ['isa'] purpose ['usedfor'] tool ['relatedto'] poison
+mind ['relatedto'] peace ['relatedto'] white ['relatedto'] poison
+mind ['relatedto'] nothing ['antonym'] matter ['relatedto'] poison
+mind ['relatedto'] nothing ['relatedto'] gas ['synonym'] poison
+mind ['relatedto'] calm ['relatedto'] water ['relatedto'] poison
+mind ['relatedto'] calm ['antonym'] irritation ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] water ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['usedfor'] food ['distinctfrom', 'relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] die ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['atlocation'] illness ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['isa'] kill ['usedfor', 'mannerof', 'relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] bones ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] material ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] matter ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] opinion ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] substance ['isa', 'relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] type ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] drug ['mannerof', 'relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] healing ['antonym'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] healthy ['distinctfrom'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] injury ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] rash ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] taste ['relatedto'] poison
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] toxic ['relatedto'] poison
+mind ['relatedto', 'synonym'] head ['hasa'] teeth ['relatedto'] poison
+mind ['relatedto', 'synonym'] head ['relatedto', 'partof'] skull ['relatedto'] poison
+mind ['relatedto', 'synonym'] head ['relatedto'] mister ['relatedto'] poison
+mind ['relatedto', 'synonym'] head ['relatedto'] drug ['mannerof', 'relatedto'] poison
+mind ['relatedto', 'synonym'] head ['relatedto'] fluid ['relatedto'] poison
+mind ['relatedto', 'synonym'] head ['synonym'] lead ['relatedto'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto'] change ['mannerof'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto'] three ['relatedto'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto'] contaminate ['synonym'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto', 'hasproperty'] liquid ['relatedto'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto'] gas ['synonym'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto', 'synonym'] material ['relatedto'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto'] opinion ['relatedto'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto', 'synonym'] stuff ['relatedto'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto', 'synonym'] substance ['isa', 'relatedto'] poison
+mind ['antonym', 'relatedto'] matter ['relatedto'] mister ['relatedto'] poison
+mind ['atlocation'] god ['etymologicallyrelatedto'] good ['distinctfrom'] poison
+mind ['atlocation'] god ['relatedto'] power ['relatedto'] poison
+mind ['createdby', 'relatedto'] thought ['relatedto'] negative ['relatedto'] poison
+mind ['createdby', 'relatedto'] thought ['relatedto', 'synonym'] opinion ['relatedto'] poison
+mind ['distinctfrom', 'relatedto', 'synonym'] brain ['relatedto'] matter ['relatedto'] poison
+mind ['distinctfrom', 'relatedto', 'synonym'] brain ['atlocation'] illness ['relatedto'] poison
+mind ['distinctfrom', 'relatedto', 'synonym'] brain ['mannerof'] kill ['usedfor', 'mannerof', 'relatedto'] poison
+mind ['distinctfrom', 'relatedto', 'synonym'] brain ['relatedto', 'atlocation'] skull ['relatedto'] poison
+mind ['etymologicallyrelatedto'] mint ['isa'] leaf ['relatedto'] poison
+mind ['hasproperty'] subjective ['relatedto'] agent ['relatedto'] poison
+mind ['hasproperty'] subjective ['relatedto'] opinion ['relatedto'] poison
+mind ['hasproperty'] subjective ['relatedto'] environment ['relatedto'] poison
+mind ['hasproperty'] subjective ['relatedto'] substance ['isa', 'relatedto'] poison
+mind ['hasproperty'] subjective ['relatedto'] taste ['relatedto'] poison
+mind ['isa'] intangible ['relatedto'] material ['relatedto'] poison
+mind ['isa', 'relatedto', 'synonym'] intelligence ['relatedto'] agent ['relatedto'] poison
+mind ['isa', 'relatedto'] notice ['relatedto'] warning ['relatedto'] poison
+mind ['isa', 'relatedto'] recall ['relatedto'] material ['relatedto'] poison
+mind ['mannerof'] worry ['relatedto'] danger ['relatedto'] poison
+mind ['mannerof'] worry ['mannerof', 'relatedto'] eat ['relatedto'] poison
+mind ['mannerof'] worry ['relatedto', 'synonym'] bait ['relatedto'] poison
+mind ['partof'] emotion ['relatedto'] negative ['relatedto'] poison
+mind ['partof'] emotion ['isa', 'relatedto'] hate ['relatedto'] poison
+mind ['partof'] emotion ['relatedto'] irritation ['relatedto'] poison
+mind ['partof'] emotion ['relatedto'] drug ['mannerof', 'relatedto'] poison
+mind ['partof'] emotion ['relatedto'] method ['relatedto'] poison
+mind ['relatedto'] apperception ['relatedto'] present ['relatedto'] poison
+mind ['relatedto'] assimilate ['mannerof'] change ['mannerof'] poison
+mind ['relatedto'] assimilate ['relatedto'] nutrient ['antonym'] poison
+mind ['relatedto'] attitude ['relatedto'] negative ['relatedto'] poison
+mind ['relatedto'] attitude ['relatedto'] opinion ['relatedto'] poison
+mind ['relatedto'] attitude ['isa'] tolerance ['relatedto'] poison
+mind ['relatedto'] ballast ['isa', 'relatedto'] material ['relatedto'] poison
+mind ['relatedto'] behaviorism ['relatedto'] environment ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] negative ['relatedto'] poison
+mind ['relatedto'] blood ['distinctfrom', 'relatedto', 'hasa'] water ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] food ['distinctfrom', 'relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] white ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] wine ['isa'] poison
+mind ['relatedto'] blood ['relatedto'] hurt ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] fluid ['relatedto'] poison
+mind ['relatedto'] blood ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] nutrient ['antonym'] poison
+mind ['relatedto'] blood ['relatedto'] stuff ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] allantotoxicum ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] drinks ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] injury ['relatedto'] poison
+mind ['relatedto'] blood ['relatedto'] juice ['relatedto'] poison

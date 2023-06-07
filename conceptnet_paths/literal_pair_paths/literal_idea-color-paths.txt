@@ -1,0 +1,100 @@
+idea ['relatedto'] bright ['relatedto'] color
+idea ['relatedto'] light ['relatedto'] color
+idea ['relatedto'] eye ['relatedto'] color
+idea ['relatedto'] point ['relatedto'] color
+idea ['relatedto'] example ['relatedto'] color
+idea ['relatedto'] map ['relatedto'] color
+idea ['relatedto'] abstract ['relatedto', 'hasproperty'] art ['relatedto'] color
+idea ['relatedto'] abstract ['mannerof'] see ['relatedto'] color
+idea ['relatedto'] abstract ['relatedto'] cloud ['relatedto'] color
+idea ['relatedto'] abstract ['relatedto'] design ['relatedto'] color
+idea ['relatedto'] abstract ['relatedto'] influence ['mannerof'] color
+idea ['relatedto'] abstract ['relatedto'] property ['relatedto'] color
+idea ['relatedto'] abstract_noun ['relatedto'] quality ['relatedto'] color
+idea ['relatedto'] abstraction ['isa'] painting ['causes', 'relatedto'] color
+idea ['relatedto'] abstraction ['isa'] attribute ['relatedto'] color
+idea ['relatedto'] abstraction ['isa'] set ['relatedto'] color
+idea ['relatedto'] abstraction ['relatedto'] art ['relatedto'] color
+idea ['relatedto'] concretization ['relatedto'] general ['relatedto'] color
+idea ['relatedto'] potential ['relatedto'] oil ['relatedto'] color
+idea ['relatedto'] new ['isa', 'relatedto'] adjective ['relatedto'] color
+idea ['relatedto'] new ['antonym', 'distinctfrom'] used ['relatedto'] color
+idea ['relatedto'] new ['relatedto'] apple ['relatedto'] color
+idea ['relatedto'] new ['relatedto'] change ['mannerof'] color
+idea ['relatedto'] new ['relatedto'] exchange ['relatedto'] color
+idea ['relatedto'] new ['relatedto'] iron ['relatedto'] color
+idea ['relatedto'] new ['relatedto'] description ['relatedto'] color
+idea ['relatedto'] new ['relatedto'] paint ['relatedto'] color
+idea ['relatedto'] new ['similarto'] red_hot ['relatedto'] color
+idea ['relatedto'] new ['similarto'] sunrise ['relatedto'] color
+idea ['relatedto'] creation ['isa', 'relatedto'] art ['relatedto'] color
+idea ['relatedto'] creation ['relatedto'] design ['relatedto'] color
+idea ['relatedto'] creative ['relatedto'] art ['relatedto'] color
+idea ['relatedto'] creative ['relatedto'] artistic ['relatedto'] color
+idea ['relatedto'] creative ['relatedto'] set ['relatedto'] color
+idea ['relatedto'] creative ['relatedto'] design ['relatedto'] color
+idea ['partof'] answer ['antonym', 'relatedto'] call ['relatedto'] color
+idea ['partof'] answer ['relatedto'] light ['relatedto'] color
+idea ['partof'] answer ['relatedto'] shade ['isa', 'distinctfrom', 'relatedto'] color
+idea ['relatedto'] anticlimax ['isa'] fall ['relatedto'] color
+idea ['relatedto'] apprehension ['relatedto'] sense ['relatedto'] color
+idea ['relatedto'] apprehension ['relatedto'] perception ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto'] adjective ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto', 'similarto', 'synonym'] bright ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto', 'synonym'] clear ['antonym', 'relatedto'] color
+idea ['relatedto'] brilliant ['relatedto', 'synonym'] saturated ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto'] tone ['mannerof', 'relatedto', 'synonym'] color
+idea ['relatedto'] brilliant ['relatedto'] cotton ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto'] point ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto'] type ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto'] iridescent ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto'] prismatic ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto'] technicolored ['relatedto'] color
+idea ['relatedto'] brilliant ['relatedto'] ultramarine ['relatedto'] color
+idea ['relatedto'] brilliant ['similarto'] colorful ['derivedfrom'] color
+idea ['relatedto'] main ['relatedto'] adjective ['relatedto'] color
+idea ['relatedto'] main ['relatedto'] blue ['isa', 'relatedto'] color
+idea ['relatedto'] main ['relatedto'] general ['relatedto'] color
+idea ['relatedto'] main ['relatedto'] lead ['relatedto'] color
+idea ['relatedto'] main ['relatedto'] part ['relatedto'] color
+idea ['relatedto'] main ['relatedto'] type ['relatedto'] color
+idea ['relatedto'] main ['relatedto'] point ['relatedto'] color
+idea ['relatedto'] main ['relatedto'] rice ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] adjective ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] apple ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] art ['relatedto'] color
+idea ['relatedto'] good ['antonym'] mood ['relatedto'] color
+idea ['relatedto'] good ['isa', 'distinctfrom', 'relatedto'] quality ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] banner ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] beauty ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] clear ['antonym', 'relatedto'] color
+idea ['relatedto'] good ['relatedto'] corn ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] example ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] fair ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] flower ['relatedto'] color
+idea ['relatedto'] good ['relatedto'] description ['relatedto'] color
+idea ['relatedto'] good ['relatedto', 'similarto'] white ['antonym', 'distinctfrom', 'relatedto', 'isa'] color
+idea ['relatedto'] good ['relatedto'] kind ['isa'] color
+idea ['relatedto'] good ['relatedto'] sugar ['relatedto'] color
+idea ['relatedto'] good ['similarto'] solid ['relatedto'] color
+idea ['relatedto'] original ['relatedto'] scale ['relatedto'] color
+idea ['relatedto'] thing ['distinctfrom'] every ['relatedto'] color
+idea ['relatedto'] thing ['isa'] change ['mannerof'] color
+idea ['relatedto'] thing ['isa'] part ['relatedto'] color
+idea ['relatedto'] thing ['isa'] attribute ['relatedto'] color
+idea ['relatedto'] thing ['relatedto'] colour ['formof', 'relatedto', 'hasproperty', 'synonym'] color
+idea ['relatedto'] thing ['relatedto'] everything ['relatedto'] color
+idea ['relatedto'] thing ['relatedto'] eye ['relatedto'] color
+idea ['relatedto'] thing ['relatedto'] flower ['relatedto'] color
+idea ['relatedto'] thing ['relatedto'] individual ['relatedto'] color
+idea ['relatedto'] thing ['relatedto'] napkin ['relatedto'] color
+idea ['relatedto'] thing ['relatedto', 'synonym'] property ['relatedto'] color
+idea ['relatedto'] thing ['relatedto'] sand ['isa', 'relatedto'] color
+idea ['relatedto'] thing ['relatedto'] silver ['mannerof', 'relatedto'] color
+idea ['relatedto'] thing ['relatedto'] describing ['relatedto'] color
+idea ['relatedto'] thing ['relatedto'] general ['relatedto'] color
+idea ['relatedto'] thing ['relatedto', 'synonym'] stuff ['relatedto'] color
+idea ['relatedto'] thing ['relatedto'] quality ['relatedto'] color
+idea ['relatedto'] new_age ['relatedto'] variety ['relatedto'] color
+idea ['relatedto'] bright ['relatedto'] adjective ['relatedto'] color
+idea ['relatedto'] bright ['relatedto'] fire ['relatedto'] color

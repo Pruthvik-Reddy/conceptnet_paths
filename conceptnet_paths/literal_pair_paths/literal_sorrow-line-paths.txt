@@ -1,0 +1,100 @@
+sorrow ['isa'] band ['relatedto'] line
+sorrow ['relatedto'] sympathy ['relatedto'] path ['isa', 'relatedto'] line
+sorrow ['relatedto'] sympathy ['relatedto'] share ['relatedto'] line
+sorrow ['isa'] band ['relatedto'] ground ['relatedto'] line
+sorrow ['isa'] band ['atlocation'] triangle ['relatedto'] line
+sorrow ['isa'] band ['relatedto', 'derivedfrom'] bandhead ['relatedto'] line
+sorrow ['isa'] band ['etymologicallyrelatedto'] bend ['relatedto'] line
+sorrow ['isa'] band ['isa'] loop ['relatedto'] line
+sorrow ['isa'] band ['isa', 'synonym'] stripe ['relatedto'] line
+sorrow ['isa'] band ['isa'] range ['relatedto'] line
+sorrow ['isa'] band ['isa', 'relatedto'] sash ['relatedto'] line
+sorrow ['isa'] band ['mannerof', 'relatedto'] tie ['relatedto'] line
+sorrow ['isa'] band ['relatedto'] circle ['antonym', 'relatedto'] line
+sorrow ['isa'] band ['relatedto'] play ['atlocation'] line
+sorrow ['isa'] band ['relatedto'] ray ['relatedto'] line
+sorrow ['isa'] band ['relatedto'] item ['relatedto'] line
+sorrow ['isa'] band ['relatedto'] linen ['etymologicallyrelatedto', 'relatedto'] line
+sorrow ['isa'] band ['relatedto'] channel ['synonym'] line
+sorrow ['isa'] band ['relatedto'] cut ['relatedto'] line
+sorrow ['isa'] band ['relatedto'] division ['relatedto'] line
+sorrow ['isa'] band ['relatedto'] grolier ['relatedto'] line
+sorrow ['antonym'] happy ['antonym'] cross ['relatedto'] line
+sorrow ['antonym'] happy ['motivatedbygoal', 'hasfirstsubevent', 'relatedto'] smile ['relatedto'] line
+sorrow ['antonym'] happy ['relatedto'] face ['mannerof'] line
+sorrow ['antonym'] happy ['relatedto'] story ['relatedto'] line
+sorrow ['relatedto'] care ['relatedto'] home ['relatedto'] line
+sorrow ['relatedto'] care ['isa'] word ['relatedto'] line
+sorrow ['relatedto'] care ['relatedto'] sentence ['relatedto'] line
+sorrow ['relatedto'] care ['relatedto'] service ['relatedto'] line
+sorrow ['relatedto'] care ['relatedto'] stitch ['relatedto'] line
+sorrow ['relatedto'] sad ['relatedto'] widow ['relatedto'] line
+sorrow ['relatedto'] cry ['haslastsubevent'] lie ['mannerof', 'relatedto'] line
+sorrow ['relatedto'] cry ['relatedto'] state ['relatedto'] line
+sorrow ['relatedto'] cry ['relatedto'] communication ['relatedto'] line
+sorrow ['relatedto'] cry ['antonym'] smile ['relatedto'] line
+sorrow ['relatedto'] cry ['capableof', 'relatedto'] eye ['relatedto'] line
+sorrow ['relatedto'] cry ['relatedto'] chorus ['isa'] line
+sorrow ['relatedto'] cry ['relatedto'] express ['relatedto'] line
+sorrow ['relatedto'] cry ['relatedto'] face ['mannerof'] line
+sorrow ['relatedto'] cry ['relatedto'] fly ['relatedto'] line
+sorrow ['relatedto'] cry ['relatedto'] form ['relatedto'] line
+sorrow ['relatedto'] cry ['relatedto'] process ['relatedto'] line
+sorrow ['relatedto'] cry ['relatedto'] produce ['relatedto'] line
+sorrow ['relatedto'] cry ['relatedto'] production ['relatedto'] line
+sorrow ['partof'] life ['relatedto'] fish ['usedfor'] line
+sorrow ['partof'] life ['relatedto'] cell ['antonym'] line
+sorrow ['partof'] life ['relatedto', 'synonym'] state ['relatedto'] line
+sorrow ['partof'] life ['relatedto', 'atlocation'] meaning ['relatedto'] line
+sorrow ['partof'] life ['capableof'] end ['relatedto'] line
+sorrow ['partof'] life ['relatedto'] game ['synonym'] line
+sorrow ['partof'] life ['relatedto'] sentence ['relatedto'] line
+sorrow ['partof'] life ['relatedto'] road ['isa', 'relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] ground ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] home ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto', 'synonym'] long ['relatedto'] line
+sorrow ['relatedto'] deep ['antonym'] narrow ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] cut ['relatedto'] line
+sorrow ['relatedto'] deep ['isa'] middle ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] distance ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] measure ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto', 'synonym'] trench ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] meaning ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] road ['isa', 'relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] mark ['isa', 'relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] space ['relatedto'] line
+sorrow ['relatedto'] deep ['relatedto'] stitch ['relatedto'] line
+sorrow ['relatedto'] feeling ['relatedto'] home ['relatedto'] line
+sorrow ['relatedto'] feeling ['isa'] state ['relatedto'] line
+sorrow ['relatedto'] feeling ['relatedto'] course ['synonym'] line
+sorrow ['relatedto'] feeling ['relatedto'] smile ['relatedto'] line
+sorrow ['relatedto'] feeling ['relatedto'] oil ['relatedto'] line
+sorrow ['antonym'] joy ['relatedto'] term ['relatedto'] line
+sorrow ['antonym'] joy ['relatedto'] jump ['relatedto'] line
+sorrow ['antonym'] joy ['relatedto'] play ['atlocation'] line
+sorrow ['antonym'] joy ['relatedto'] wave ['antonym'] line
+sorrow ['synonym'] trouble ['synonym'] row ['isa', 'relatedto', 'synonym'] line
+sorrow ['synonym'] trouble ['synonym'] cross ['relatedto'] line
+sorrow ['synonym'] trouble ['relatedto'] news ['relatedto'] line
+sorrow ['synonym'] trouble ['relatedto'] game ['synonym'] line
+sorrow ['synonym'] trouble ['atlocation'] street ['relatedto'] line
+sorrow ['synonym'] trouble ['relatedto'] play ['atlocation'] line
+sorrow ['synonym'] trouble ['relatedto'] snag ['relatedto'] line
+sorrow ['synonym'] trouble ['relatedto'] fault ['relatedto'] line
+sorrow ['causes'] killing ['relatedto'] arrow ['relatedto'] line
+sorrow ['causes'] writing_letter ['usedfor'] communication ['relatedto'] line
+sorrow ['causes'] writing_letter ['hasprerequisite'] pencil ['relatedto'] line
+sorrow ['relatedto', 'derivedfrom'] sorry ['relatedto'] walk ['relatedto'] line
+sorrow ['relatedto', 'derivedfrom'] sorry ['relatedto'] window ['relatedto'] line
+sorrow ['isa', 'relatedto'] emotion ['relatedto'] cross ['relatedto'] line
+sorrow ['isa', 'relatedto'] emotion ['relatedto'] smile ['relatedto'] line
+sorrow ['isa', 'relatedto'] emotion ['relatedto'] drug ['relatedto'] line
+sorrow ['relatedto'] alas ['relatedto'] express ['relatedto'] line
+sorrow ['relatedto'] bewail ['relatedto'] express ['relatedto'] line
+sorrow ['relatedto', 'synonym'] dole ['etymologicallyrelatedto', 'synonym'] part ['isa', 'relatedto'] line
+sorrow ['relatedto', 'synonym'] dole ['relatedto'] boundary ['isa', 'relatedto'] line
+sorrow ['relatedto', 'synonym'] dole ['isa', 'synonym'] share ['relatedto'] line
+sorrow ['relatedto'] elegiac ['relatedto'] couplet ['relatedto'] line
+sorrow ['relatedto'] elegiac ['relatedto'] hexameter ['relatedto'] line
+sorrow ['relatedto'] elegiac ['relatedto'] pentameter ['relatedto'] line
+sorrow ['relatedto', 'synonym'] grieve ['relatedto'] file ['isa'] line

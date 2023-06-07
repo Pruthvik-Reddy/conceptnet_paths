@@ -1,0 +1,100 @@
+jet ['mannerof'] fly ['relatedto'] tie
+jet ['mannerof'] run ['relatedto'] tie
+jet ['atlocation'] air ['isa'] band ['mannerof', 'relatedto'] tie
+jet ['atlocation'] air ['isa'] note ['relatedto'] tie
+jet ['atlocation'] air ['relatedto'] around ['relatedto'] tie
+jet ['atlocation'] air ['relatedto'] fly ['relatedto'] tie
+jet ['atlocation'] air ['synonym'] beam ['isa'] tie
+jet ['relatedto'] leave ['antonym'] join ['relatedto'] tie
+jet ['relatedto'] leave ['relatedto'] someone ['relatedto'] tie
+jet ['relatedto'] leave ['mannerof'] run ['relatedto'] tie
+jet ['relatedto'] leave ['relatedto'] affiliation ['synonym'] tie
+jet ['relatedto'] plane ['relatedto'] bow ['usedfor', 'relatedto'] tie
+jet ['relatedto'] plane ['capableof', 'usedfor', 'relatedto'] fly ['relatedto'] tie
+jet ['relatedto'] plane ['relatedto'] form ['mannerof'] tie
+jet ['relatedto'] plane ['relatedto'] loop ['mannerof'] tie
+jet ['relatedto'] black ['isa'] clothing ['isa', 'relatedto'] tie
+jet ['relatedto'] black ['relatedto'] cloth ['relatedto'] tie
+jet ['relatedto'] black ['relatedto'] dress ['relatedto', 'synonym'] tie
+jet ['relatedto'] black ['relatedto'] fashion ['mannerof'] tie
+jet ['relatedto'] black ['relatedto'] fly ['relatedto'] tie
+jet ['relatedto'] black ['relatedto'] iron ['relatedto'] tie
+jet ['relatedto'] black ['relatedto'] note ['relatedto'] tie
+jet ['relatedto'] coal ['relatedto'] daughter ['relatedto'] tie
+jet ['relatedto'] colour ['isa', 'relatedto'] iron ['relatedto'] tie
+jet ['relatedto'] print ['relatedto'] cloth ['relatedto'] tie
+jet ['relatedto'] print ['relatedto'] string ['usedfor'] tie
+jet ['relatedto'] print ['relatedto'] run ['relatedto'] tie
+jet ['relatedto'] propulsion ['relatedto'] fly ['relatedto'] tie
+jet ['relatedto'] fast ['relatedto'] secure ['relatedto'] tie
+jet ['relatedto'] fast ['etymologicallyrelatedto', 'relatedto'] fasten ['mannerof', 'relatedto', 'synonym'] tie
+jet ['relatedto'] fast ['relatedto'] bend ['relatedto'] tie
+jet ['relatedto'] fast ['relatedto'] run ['relatedto'] tie
+jet ['relatedto'] flow ['antonym'] hold ['relatedto'] tie
+jet ['relatedto'] flow ['causes', 'relatedto', 'synonym'] run ['relatedto'] tie
+jet ['relatedto'] flow ['relatedto'] rail ['relatedto'] tie
+jet ['relatedto'] part ['antonym', 'relatedto'] join ['relatedto'] tie
+jet ['relatedto'] part ['relatedto'] post ['relatedto'] tie
+jet ['relatedto'] part ['synonym'] position ['relatedto'] tie
+jet ['relatedto'] part ['relatedto'] body ['relatedto'] tie
+jet ['relatedto'] part ['isa', 'relatedto'] line ['relatedto'] tie
+jet ['relatedto'] part ['relatedto'] note ['relatedto'] tie
+jet ['relatedto'] part ['synonym'] disconnect ['relatedto'] tie
+jet ['relatedto'] part ['relatedto'] dress ['relatedto', 'synonym'] tie
+jet ['relatedto'] part ['isa', 'relatedto'] item ['relatedto'] tie
+jet ['relatedto'] part ['isa', 'relatedto', 'synonym'] member ['relatedto'] tie
+jet ['relatedto'] part ['isa', 'relatedto'] neck ['relatedto'] tie
+jet ['relatedto'] part ['isa'] relation ['relatedto'] tie
+jet ['relatedto'] part ['relatedto', 'partof'] hair ['relatedto'] tie
+jet ['relatedto'] part ['relatedto', 'synonym'] link ['synonym'] tie
+jet ['relatedto'] part ['relatedto'] minute ['relatedto'] tie
+jet ['relatedto'] part ['relatedto'] stitch ['relatedto'] tie
+jet ['mannerof'] fly ['relatedto'] around ['relatedto'] tie
+jet ['mannerof'] fly ['relatedto'] line ['relatedto'] tie
+jet ['mannerof'] fly ['relatedto'] dress ['relatedto', 'synonym'] tie
+jet ['mannerof'] fly ['partof'] garment ['relatedto'] tie
+jet ['mannerof'] fly ['relatedto'] horizontal ['relatedto'] tie
+jet ['mannerof'] fly ['relatedto'] loop ['mannerof'] tie
+jet ['relatedto'] gas ['relatedto'] fly ['relatedto'] tie
+jet ['relatedto'] liquid ['relatedto'] run ['relatedto'] tie
+jet ['synonym'] gush ['relatedto'] rail ['relatedto'] tie
+jet ['relatedto'] stream ['relatedto'] draw ['relatedto', 'synonym'] tie
+jet ['relatedto'] stream ['mannerof'] run ['relatedto'] tie
+jet ['relatedto'] stream ['relatedto'] rope ['capableof', 'mannerof', 'synonym'] tie
+jet ['mannerof'] run ['relatedto'] distance ['relatedto'] tie
+jet ['mannerof'] run ['isa'] draw ['relatedto', 'synonym'] tie
+jet ['mannerof'] run ['relatedto'] suit ['relatedto'] tie
+jet ['mannerof'] run ['relatedto'] horizontal ['relatedto'] tie
+jet ['mannerof'] run ['relatedto'] iron ['relatedto'] tie
+jet ['mannerof'] run ['synonym'] play ['entails'] tie
+jet ['mannerof'] run ['isa', 'relatedto'] score ['relatedto'] tie
+jet ['relatedto'] particle ['isa'] body ['relatedto'] tie
+jet ['relatedto'] particle ['relatedto'] note ['relatedto'] tie
+jet ['atlocation'] airport ['atlocation'] connection ['relatedto'] tie
+jet ['isa', 'relatedto'] airplane ['usedfor', 'relatedto'] fly ['relatedto'] tie
+jet ['relatedto'] container ['relatedto'] body ['relatedto'] tie
+jet ['relatedto'] container ['isa', 'atlocation'] item ['relatedto'] tie
+jet ['atlocation'] bomb ['relatedto'] wrap ['relatedto'] tie
+jet ['derivedfrom'] overjet ['relatedto'] horizontal ['relatedto'] tie
+jet ['formof', 'etymologicallyrelatedto'] jess ['relatedto'] strap ['mannerof', 'synonym'] tie
+jet ['formof', 'etymologicallyrelatedto'] jess ['relatedto'] fasten ['mannerof', 'relatedto', 'synonym'] tie
+jet ['etymologicallyrelatedto'] ejaculate ['capableof'] male ['relatedto'] tie
+jet ['etymologicallyrelatedto'] gist ['relatedto'] knot ['usedfor', 'mannerof', 'relatedto'] tie
+jet ['isa'] discharge ['mannerof'] play ['entails'] tie
+jet ['isa'] discharge ['synonym'] run ['relatedto'] tie
+jet ['isa'] spray ['relatedto'] hair ['relatedto'] tie
+jet ['relatedto'] fuselage ['isa', 'relatedto'] body ['relatedto'] tie
+jet ['relatedto'] helijet ['relatedto'] fly ['relatedto'] tie
+jet ['relatedto'] jacuzzi ['relatedto'] body ['relatedto'] tie
+jet ['relatedto'] aeroplane ['relatedto'] fly ['relatedto'] tie
+jet ['relatedto'] engine ['relatedto'] run ['relatedto'] tie
+jet ['relatedto'] wings ['hasa', 'relatedto', 'usedfor'] fly ['relatedto'] tie
+jet ['relatedto'] cone ['relatedto'] line ['relatedto'] tie
+jet ['relatedto'] nozzle ['relatedto'] form ['mannerof'] tie
+jet ['relatedto'] quark ['relatedto', 'atlocation'] string ['usedfor'] tie
+jet ['relatedto'] rocket ['relatedto'] fly ['relatedto'] tie
+jet ['relatedto'] type ['relatedto'] bow ['usedfor', 'relatedto'] tie
+jet ['relatedto'] type ['relatedto'] band ['mannerof', 'relatedto'] tie
+jet ['relatedto'] type ['relatedto'] body ['relatedto'] tie
+jet ['relatedto'] type ['relatedto'] dress ['relatedto', 'synonym'] tie
+jet ['relatedto'] type ['relatedto'] silk ['atlocation'] tie

@@ -1,0 +1,100 @@
+crowd ['antonym', 'relatedto'] group ['relatedto'] flow
+crowd ['mannerof'] pour ['relatedto'] flow
+crowd ['relatedto'] excessive ['relatedto'] flow
+crowd ['relatedto'] wave ['relatedto'] flow
+crowd ['relatedto'] lave ['mannerof'] flow
+crowd ['relatedto'] accident ['relatedto', 'synonym'] property ['relatedto'] flow
+crowd ['relatedto'] accident ['relatedto'] fac ['relatedto'] flow
+crowd ['relatedto'] smaller ['relatedto'] river ['relatedto'] flow
+crowd ['relatedto'] smaller ['relatedto'] sand ['capableof'] flow
+crowd ['relatedto'] advance ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] flow
+crowd ['relatedto'] advance ['mannerof'] set ['relatedto'] flow
+crowd ['relatedto'] advance ['relatedto'] go ['relatedto'] flow
+crowd ['relatedto'] advance ['relatedto'] movement ['isa', 'relatedto'] flow
+crowd ['relatedto'] advance ['relatedto'] moving ['relatedto'] flow
+crowd ['relatedto'] advance ['relatedto'] proceed ['relatedto'] flow
+crowd ['relatedto'] advance ['relatedto', 'synonym'] rise ['relatedto'] flow
+crowd ['relatedto'] advance ['relatedto'] lead ['etymologicallyrelatedto'] flow
+crowd ['relatedto'] advance ['relatedto'] stagnate ['antonym'] flow
+crowd ['relatedto'] human ['relatedto', 'atlocation'] group ['relatedto'] flow
+crowd ['relatedto'] human ['atlocation'] motion ['isa', 'relatedto'] flow
+crowd ['relatedto'] human ['isa'] luo ['relatedto'] flow
+crowd ['relatedto'] human ['relatedto'] blood ['relatedto'] flow
+crowd ['relatedto'] human ['relatedto'] menstruation ['relatedto', 'synonym'] flow
+crowd ['relatedto'] human ['relatedto'] run ['causes', 'relatedto', 'synonym'] flow
+crowd ['relatedto'] number ['relatedto'] real ['relatedto'] flow
+crowd ['relatedto'] number ['isa'] constant ['relatedto'] flow
+crowd ['relatedto'] number ['relatedto'] forth ['relatedto'] flow
+crowd ['relatedto'] number ['relatedto'] group ['relatedto'] flow
+crowd ['relatedto'] number ['relatedto', 'synonym'] issue ['relatedto'] flow
+crowd ['relatedto'] number ['relatedto'] lead ['etymologicallyrelatedto'] flow
+crowd ['relatedto'] number ['relatedto'] real_number ['relatedto'] flow
+crowd ['relatedto'] number ['relatedto'] rate ['isa'] flow
+crowd ['synonym'] aggregation ['relatedto'] impedance ['relatedto'] flow
+crowd ['antonym', 'relatedto'] company ['isa'] real ['relatedto'] flow
+crowd ['antonym', 'relatedto'] company ['relatedto'] group ['relatedto'] flow
+crowd ['antonym', 'relatedto'] company ['relatedto'] profit ['relatedto'] flow
+crowd ['antonym', 'relatedto'] company ['relatedto'] property ['relatedto'] flow
+crowd ['antonym', 'relatedto'] company ['relatedto'] issue ['relatedto'] flow
+crowd ['antonym'] empty ['antonym'] filling ['isa'] flow
+crowd ['antonym'] empty ['mannerof', 'relatedto'] drain ['relatedto'] flow
+crowd ['antonym'] empty ['relatedto'] chao_phraya ['relatedto'] flow
+crowd ['antonym'] empty ['relatedto'] pour ['relatedto'] flow
+crowd ['antonym'] empty ['synonym'] discharge ['isa', 'relatedto'] flow
+crowd ['antonym', 'relatedto'] group ['relatedto'] go ['relatedto'] flow
+crowd ['antonym', 'relatedto'] group ['isa', 'relatedto'] set ['relatedto'] flow
+crowd ['antonym'] individual ['antonym', 'relatedto', 'partof'] group ['relatedto'] flow
+crowd ['antonym'] lone ['isa'] river ['relatedto'] flow
+crowd ['antonym'] one ['relatedto'] issue ['relatedto'] flow
+crowd ['antonym'] one ['relatedto'] run ['causes', 'relatedto', 'synonym'] flow
+crowd ['antonym'] single ['relatedto'] issue ['relatedto'] flow
+crowd ['antonym'] single ['relatedto'] sand ['capableof'] flow
+crowd ['antonym'] single ['relatedto'] run ['causes', 'relatedto', 'synonym'] flow
+crowd ['antonym'] single ['relatedto'] group ['relatedto'] flow
+crowd ['antonym', 'relatedto'] small ['relatedto'] low ['relatedto'] flow
+crowd ['antonym', 'relatedto'] small ['relatedto'] flower ['relatedto'] flow
+crowd ['antonym', 'relatedto'] small ['relatedto'] river ['relatedto'] flow
+crowd ['antonym', 'relatedto'] small ['relatedto'] sand ['capableof'] flow
+crowd ['antonym', 'relatedto'] small ['relatedto'] shed ['relatedto'] flow
+crowd ['antonym', 'relatedto'] small ['relatedto'] squirt ['relatedto'] flow
+crowd ['antonym', 'relatedto'] small ['relatedto'] wave ['relatedto'] flow
+crowd ['antonym', 'relatedto'] two ['relatedto'] real ['relatedto'] flow
+crowd ['antonym', 'relatedto'] two ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow
+crowd ['antonym', 'relatedto'] two ['relatedto'] set ['relatedto'] flow
+crowd ['antonym', 'relatedto'] two ['relatedto'] group ['relatedto'] flow
+crowd ['antonym', 'relatedto'] two ['relatedto'] rail ['relatedto'] flow
+crowd ['relatedto', 'atlocation'] noise ['isa', 'relatedto'] wave ['relatedto'] flow
+crowd ['relatedto', 'atlocation'] noise ['relatedto'] rap ['relatedto'] flow
+crowd ['relatedto', 'atlocation'] noise ['relatedto'] stridor ['relatedto'] flow
+crowd ['distinctfrom'] organized ['relatedto'] glomus ['relatedto'] flow
+crowd ['formof', 'relatedto'] crowded ['relatedto'] pedlock ['relatedto'] flow
+crowd ['formof', 'relatedto'] crowds ['relatedto'] move ['mannerof', 'relatedto'] flow
+crowd ['isa'] army ['relatedto'] group ['relatedto'] flow
+crowd ['isa', 'relatedto'] gathering ['relatedto'] group ['relatedto'] flow
+crowd ['isa', 'relatedto'] crush ['relatedto'] action ['relatedto'] flow
+crowd ['isa', 'relatedto'] crush ['synonym'] beat ['relatedto'] flow
+crowd ['isa', 'relatedto'] crush ['relatedto'] suppress ['relatedto'] flow
+crowd ['isa'] drove ['relatedto'] action ['relatedto'] flow
+crowd ['isa'] drove ['relatedto'] drain ['relatedto'] flow
+crowd ['isa', 'relatedto'] mob ['relatedto'] group ['relatedto'] flow
+crowd ['isa'] troop ['relatedto'] group ['relatedto'] flow
+crowd ['mannerof'] meet ['antonym'] go ['relatedto'] flow
+crowd ['mannerof'] meet ['mannerof'] group ['relatedto'] flow
+crowd ['mannerof'] occupy ['relatedto', 'similarto'] hold ['antonym'] flow
+crowd ['mannerof', 'relatedto', 'synonym'] herd ['relatedto'] group ['relatedto'] flow
+crowd ['mannerof', 'relatedto', 'synonym'] herd ['mannerof'] move ['mannerof', 'relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] group ['relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['isa', 'relatedto'] river ['relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] flowrate ['relatedto', 'derivedfrom'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] flush ['isa', 'relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] glib ['relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] lava_flow ['relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] lead ['etymologicallyrelatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] liquid ['capableof', 'relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] property ['relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] particle ['relatedto'] flow
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] quantized_vortex ['relatedto'] flow
+crowd ['mannerof'] pour ['relatedto'] action ['relatedto'] flow
+crowd ['mannerof'] pour ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow
+crowd ['mannerof'] pour ['causes', 'mannerof'] run ['causes', 'relatedto', 'synonym'] flow
+crowd ['mannerof'] pour ['formof', 'relatedto'] pouring ['relatedto'] flow

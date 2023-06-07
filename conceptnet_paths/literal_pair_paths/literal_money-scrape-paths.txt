@@ -1,0 +1,100 @@
+money ['relatedto'] scratch ['relatedto', 'synonym'] scrape
+money ['relatedto'] gain ['relatedto'] bind ['synonym'] scrape
+money ['relatedto'] accident ['relatedto'] damage ['relatedto'] scrape
+money ['relatedto'] accident ['synonym'] miscarriage ['relatedto'] scrape
+money ['hasprerequisite'] getting ['relatedto'] wound ['relatedto'] scrape
+money ['desires'] human ['antonym'] bird ['relatedto'] scrape
+money ['desires'] human ['relatedto'] cut ['relatedto'] scrape
+money ['atlocation'] ground ['relatedto'] grate ['synonym'] scrape
+money ['atlocation'] ground ['relatedto'] play ['relatedto'] scrape
+money ['relatedto'] dead ['relatedto'] play ['relatedto'] scrape
+money ['relatedto'] free ['mannerof'] cut ['relatedto'] scrape
+money ['relatedto'] free ['relatedto'] scratch ['relatedto', 'synonym'] scrape
+money ['relatedto'] back ['relatedto'] scratching ['synonym'] scrape
+money ['relatedto'] back ['relatedto'] palimpsest ['relatedto'] scrape
+money ['relatedto'] back ['relatedto'] rub ['mannerof'] scrape
+money ['relatedto'] front ['isa', 'relatedto'] bow ['isa', 'mannerof'] scrape
+money ['relatedto'] band ['etymologicallyrelatedto'] bind ['synonym'] scrape
+money ['relatedto'] band ['relatedto'] play ['relatedto'] scrape
+money ['relatedto'] band ['relatedto'] cut ['relatedto'] scrape
+money ['atlocation'] casino ['atlocation'] noise ['isa'] scrape
+money ['relatedto'] cover ['mannerof'] bind ['synonym'] scrape
+money ['relatedto'] cover ['mannerof'] play ['relatedto'] scrape
+money ['relatedto'] cover ['relatedto'] grate ['synonym'] scrape
+money ['relatedto'] bargain ['relatedto'] bind ['synonym'] scrape
+money ['relatedto'] benefit ['antonym'] injure ['relatedto'] scrape
+money ['isa', 'relatedto'] bill ['relatedto'] bird ['relatedto'] scrape
+money ['isa', 'relatedto'] bill ['relatedto'] broad ['relatedto'] scrape
+money ['isa', 'relatedto'] bill ['relatedto'] cut ['relatedto'] scrape
+money ['isa', 'relatedto'] bill ['relatedto'] weapon ['relatedto'] scrape
+money ['isa', 'relatedto'] bill ['relatedto'] bind ['synonym'] scrape
+money ['relatedto'] check ['relatedto'] play ['relatedto'] scrape
+money ['antonym', 'isa', 'relatedto'] coin ['relatedto'] broad ['relatedto'] scrape
+money ['isa', 'relatedto'] time ['synonym'] bird ['relatedto'] scrape
+money ['isa', 'relatedto'] time ['relatedto'] play ['relatedto'] scrape
+money ['relatedto'] board ['relatedto'] broad ['relatedto'] scrape
+money ['relatedto'] board ['relatedto'] cut ['relatedto'] scrape
+money ['relatedto'] board ['relatedto'] play ['relatedto'] scrape
+money ['relatedto'] board ['relatedto'] scratch ['relatedto', 'synonym'] scrape
+money ['isa'] magazine ['isa'] play ['relatedto'] scrape
+money ['relatedto'] interest ['relatedto'] damage ['relatedto'] scrape
+money ['relatedto'] bread ['relatedto'] broad ['relatedto'] scrape
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['antonym', 'distinctfrom', 'relatedto'] play ['relatedto'] scrape
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['atlocation'] noise ['isa'] scrape
+money ['antonym', 'isa', 'relatedto'] change ['isa', 'mannerof'] damage ['relatedto'] scrape
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] shallow ['relatedto'] scrape
+money ['antonym', 'relatedto'] tax ['relatedto'] cut ['relatedto'] scrape
+money ['relatedto', 'atlocation'] pocket ['relatedto'] play ['relatedto'] scrape
+money ['relatedto', 'atlocation'] till ['mannerof'] hoe ['relatedto'] scrape
+money ['causes', 'hasprerequisite'] starting_family ['causes'] depression ['relatedto'] scrape
+money ['causes'] thinking ['causes'] depression ['relatedto'] scrape
+money ['derivedfrom'] play_money ['derivedfrom'] play ['relatedto'] scrape
+money ['relatedto', 'derivedfrom'] smart_money ['relatedto'] injure ['relatedto'] scrape
+money ['etymologicallyrelatedto', 'relatedto'] fee ['relatedto'] rake ['entails'] scrape
+money ['hasa', 'relatedto'] budget ['receivesaction'] cut ['relatedto'] scrape
+money ['isa', 'relatedto'] boodle ['synonym'] scratch ['relatedto', 'synonym'] scrape
+money ['isa'] pile ['relatedto'] nest ['relatedto'] scrape
+money ['madeof', 'relatedto'] paper ['relatedto', 'receivesaction'] cut ['relatedto'] scrape
+money ['madeof', 'relatedto'] paper ['relatedto'] palimpsest ['relatedto'] scrape
+money ['motivatedbygoal'] commit_murder ['hasprerequisite'] weapon ['relatedto'] scrape
+money ['motivatedbygoal'] fiddle ['relatedto'] bow ['isa', 'mannerof'] scrape
+money ['motivatedbygoal'] fiddle ['mannerof', 'relatedto'] play ['relatedto'] scrape
+money ['motivatedbygoal'] fiddle ['etymologicallyrelatedto', 'relatedto'] piggle ['relatedto'] scrape
+money ['motivatedbygoal'] kill ['capableof'] wound ['relatedto'] scrape
+money ['motivatedbygoal'] kill ['usedfor'] weapon ['relatedto'] scrape
+money ['relatedto'] bean ['relatedto'] broad ['relatedto'] scrape
+money ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind ['synonym'] scrape
+money ['relatedto'] brass ['relatedto'] palimpsest ['relatedto'] scrape
+money ['relatedto'] buck ['etymologicallyrelatedto'] bow ['isa', 'mannerof'] scrape
+money ['relatedto'] cake ['relatedto', 'receivesaction'] cut ['relatedto'] scrape
+money ['relatedto'] cake ['relatedto'] rake ['entails'] scrape
+money ['relatedto'] card ['relatedto'] play ['relatedto'] scrape
+money ['relatedto'] cha_ching ['relatedto'] noise ['isa'] scrape
+money ['relatedto'] cheese ['relatedto'] grate ['synonym'] scrape
+money ['relatedto'] chicken_feed ['synonym'] scratch ['relatedto', 'synonym'] scrape
+money ['relatedto'] cost ['relatedto'] damage ['relatedto'] scrape
+money ['relatedto'] deposit ['relatedto'] cut ['relatedto'] scrape
+money ['relatedto'] deposit ['relatedto'] nest ['relatedto'] scrape
+money ['relatedto'] doctor ['isa'] play ['relatedto'] scrape
+money ['relatedto'] eagle ['isa', 'relatedto'] bird ['relatedto'] scrape
+money ['relatedto'] economics ['relatedto'] depression ['relatedto'] scrape
+money ['relatedto'] expense ['relatedto'] damage ['relatedto'] scrape
+money ['relatedto'] fine ['relatedto'] cut ['relatedto'] scrape
+money ['relatedto'] geld ['relatedto', 'synonym'] cut ['relatedto'] scrape
+money ['relatedto'] gold ['relatedto'] broad ['relatedto'] scrape
+money ['relatedto'] guard ['relatedto'] weapon ['relatedto'] scrape
+money ['relatedto'] guard ['relatedto'] bind ['synonym'] scrape
+money ['relatedto'] jack ['relatedto'] bow ['isa', 'mannerof'] scrape
+money ['relatedto'] loot ['partof'] cut ['relatedto'] scrape
+money ['relatedto'] loot ['isa'] play ['relatedto'] scrape
+money ['relatedto'] mark ['relatedto'] cut ['relatedto'] scrape
+money ['relatedto'] mark ['relatedto'] wound ['relatedto'] scrape
+money ['relatedto'] mark ['relatedto', 'synonym'] scratch ['relatedto', 'synonym'] scrape
+money ['relatedto'] mark ['relatedto'] scuff ['relatedto'] scrape
+money ['relatedto'] miser ['isa'] play ['relatedto'] scrape
+money ['relatedto'] backs ['relatedto'] rub ['mannerof'] scrape
+money ['relatedto'] form ['relatedto'] cut ['relatedto'] scrape
+money ['relatedto'] form ['relatedto'] play ['relatedto'] scrape
+money ['relatedto'] general ['relatedto'] noise ['isa'] scrape
+money ['relatedto'] general ['relatedto'] play ['relatedto'] scrape
+money ['relatedto'] general ['relatedto'] wound ['relatedto'] scrape

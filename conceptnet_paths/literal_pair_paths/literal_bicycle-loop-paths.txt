@@ -1,0 +1,100 @@
+bicycle ['relatedto'] man ['isa'] tile ['relatedto'] loop
+bicycle ['relatedto'] man ['relatedto'] eye ['relatedto'] loop
+bicycle ['relatedto'] man ['relatedto'] form ['relatedto'] loop
+bicycle ['relatedto'] bell ['capableof', 'usedfor', 'relatedto'] ring ['relatedto'] loop
+bicycle ['relatedto'] bell ['isa'] opening ['relatedto'] loop
+bicycle ['relatedto'] bell ['isa', 'relatedto'] curve ['relatedto'] loop
+bicycle ['relatedto'] bell ['relatedto'] round ['relatedto'] loop
+bicycle ['relatedto'] bell ['relatedto'] shape ['relatedto'] loop
+bicycle ['relatedto'] cable ['relatedto'] length ['relatedto'] loop
+bicycle ['relatedto'] cable ['isa', 'relatedto'] rope ['relatedto'] loop
+bicycle ['relatedto'] cable ['mannerof', 'relatedto'] fasten ['relatedto'] loop
+bicycle ['relatedto'] cable ['relatedto'] elliott_eye ['relatedto'] loop
+bicycle ['relatedto'] cable ['relatedto'] shifter ['relatedto'] loop
+bicycle ['relatedto'] cable ['synonym'] line ['relatedto'] loop
+bicycle ['isa', 'relatedto'] ordinary ['relatedto'] plane ['relatedto'] loop
+bicycle ['isa', 'relatedto'] ordinary ['isa', 'relatedto'] bend ['relatedto'] loop
+bicycle ['isa', 'relatedto'] ordinary ['isa'] condition ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] band ['isa'] loop
+bicycle ['madeof'] metal ['relatedto'] button ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] clew ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] coil ['synonym'] loop
+bicycle ['madeof'] metal ['relatedto'] dutch_hoe ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] eye ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] hook ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] intrauterine_device ['isa', 'relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] electrical ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] parrel ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] ring ['relatedto'] loop
+bicycle ['madeof'] metal ['relatedto'] shank ['relatedto'] loop
+bicycle ['atlocation'] park ['relatedto'] course ['relatedto'] loop
+bicycle ['usedfor', 'mannerof', 'relatedto'] ride ['mannerof'] continue ['relatedto'] loop
+bicycle ['usedfor', 'mannerof', 'relatedto'] ride ['mannerof'] train ['relatedto'] loop
+bicycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] coaster ['relatedto'] loop
+bicycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] move ['relatedto'] loop
+bicycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] repeat ['relatedto'] loop
+bicycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] shank ['relatedto'] loop
+bicycle ['relatedto'] exercise ['capableof'] condition ['relatedto'] loop
+bicycle ['relatedto'] exercise ['relatedto', 'hasprerequisite', 'entails'] move ['relatedto'] loop
+bicycle ['relatedto'] exercise ['mannerof', 'relatedto'] train ['relatedto'] loop
+bicycle ['relatedto'] exercise ['relatedto'] shape ['relatedto'] loop
+bicycle ['relatedto'] exercise ['relatedto'] fly ['relatedto'] loop
+bicycle ['relatedto'] exercise ['relatedto'] maneuver ['relatedto'] loop
+bicycle ['relatedto'] exercise ['relatedto'] repetition ['relatedto'] loop
+bicycle ['relatedto'] exercise ['relatedto'] stitch ['relatedto'] loop
+bicycle ['relatedto'] exercise ['usedfor'] trampoline ['relatedto'] loop
+bicycle ['relatedto'] fork ['atlocation'] plane ['relatedto'] loop
+bicycle ['relatedto'] fork ['mannerof'] form ['relatedto'] loop
+bicycle ['relatedto'] fork ['relatedto'] path ['relatedto'] loop
+bicycle ['relatedto'] fork ['relatedto'] program ['isa'] loop
+bicycle ['atlocation'] street ['relatedto'] block ['relatedto'] loop
+bicycle ['atlocation'] street ['relatedto'] line ['relatedto'] loop
+bicycle ['atlocation'] street ['relatedto'] cross ['relatedto'] loop
+bicycle ['atlocation'] street ['relatedto'] path ['relatedto'] loop
+bicycle ['atlocation'] street ['relatedto'] turn ['synonym'] loop
+bicycle ['atlocation'] store ['atlocation'] line ['relatedto'] loop
+bicycle ['atlocation'] store ['atlocation'] escalator ['relatedto'] loop
+bicycle ['atlocation'] store ['atlocation'] lamp ['relatedto'] loop
+bicycle ['atlocation'] store ['atlocation'] ring ['relatedto'] loop
+bicycle ['relatedto'] propel ['mannerof', 'relatedto', 'synonym'] move ['relatedto'] loop
+bicycle ['usedfor'] rush ['relatedto'] band ['isa'] loop
+bicycle ['usedfor'] rush ['relatedto'] block ['relatedto'] loop
+bicycle ['usedfor'] rush ['relatedto'] move ['relatedto'] loop
+bicycle ['relatedto'] seat ['relatedto'] plane ['relatedto'] loop
+bicycle ['relatedto'] seat ['relatedto', 'atlocation'] train ['relatedto'] loop
+bicycle ['relatedto'] travel ['usedfor'] plane ['relatedto'] loop
+bicycle ['relatedto'] travel ['mannerof', 'relatedto'] circle ['mannerof', 'relatedto'] loop
+bicycle ['relatedto'] travel ['relatedto'] cross ['relatedto'] loop
+bicycle ['relatedto'] travel ['mannerof'] round ['relatedto'] loop
+bicycle ['relatedto'] travel ['mannerof', 'relatedto'] fly ['relatedto'] loop
+bicycle ['relatedto'] travel ['relatedto', 'synonym'] move ['relatedto'] loop
+bicycle ['relatedto'] travel ['mannerof'] circuit ['relatedto'] loop
+bicycle ['relatedto'] travel ['mannerof', 'relatedto'] turn ['synonym'] loop
+bicycle ['relatedto'] travel ['relatedto'] shank ['relatedto'] loop
+bicycle ['isa', 'relatedto'] vehicle ['isa', 'relatedto'] plane ['relatedto'] loop
+bicycle ['isa', 'relatedto'] vehicle ['relatedto'] turn ['synonym'] loop
+bicycle ['isa', 'relatedto'] vehicle ['relatedto'] balloon_loop ['relatedto'] loop
+bicycle ['isa', 'relatedto'] vehicle ['relatedto'] train ['relatedto'] loop
+bicycle ['atlocation'] university ['relatedto'] course ['relatedto'] loop
+bicycle ['partof', 'synonym'] wheel ['relatedto'] circle ['mannerof', 'relatedto'] loop
+bicycle ['partof', 'synonym'] wheel ['relatedto'] round ['relatedto'] loop
+bicycle ['partof', 'synonym'] wheel ['relatedto'] track ['relatedto'] loop
+bicycle ['partof', 'synonym'] wheel ['usedfor', 'relatedto'] turn ['synonym'] loop
+bicycle ['partof', 'synonym'] wheel ['hasproperty'] circular ['relatedto'] loop
+bicycle ['partof', 'synonym'] wheel ['relatedto'] barrel_roll ['relatedto'] loop
+bicycle ['partof', 'synonym'] wheel ['relatedto'] coaster ['relatedto'] loop
+bicycle ['atlocation'] shed ['relatedto'] fly ['relatedto'] loop
+bicycle ['atlocation'] shed ['relatedto'] thread ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto'] length ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto'] ring ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto'] bend ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto', 'derivedfrom'] chain_stitch ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['isa', 'relatedto'] paper_chain ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['usedfor', 'mannerof', 'relatedto'] fasten ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto'] sequence ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto'] thread ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto'] chainwork ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto'] sling ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['relatedto'] stringer ['relatedto'] loop
+bicycle ['hasa', 'partof', 'atlocation'] chain ['synonym'] string ['relatedto'] loop
+bicycle ['isa'] toy ['relatedto'] trick ['relatedto'] loop

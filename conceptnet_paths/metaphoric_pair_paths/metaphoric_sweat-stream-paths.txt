@@ -1,0 +1,100 @@
+sweat ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] stream
+sweat ['relatedto'] liquid ['relatedto'] stream
+sweat ['relatedto'] run ['mannerof'] stream
+sweat ['relatedto', 'atlocation'] water ['antonym', 'synonym'] burn ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto', 'synonym'] stream
+sweat ['relatedto', 'atlocation'] water ['atlocation'] canoe ['atlocation'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] current ['relatedto', 'synonym'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] fish ['atlocation'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] bridge ['atlocation'] stream
+sweat ['relatedto', 'atlocation'] water ['hasa', 'relatedto', 'atlocation'] brook ['isa', 'relatedto', 'synonym'] stream
+sweat ['relatedto', 'atlocation'] water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] mud ['atlocation'] stream
+sweat ['relatedto', 'atlocation'] water ['hasa', 'relatedto', 'atlocation'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] spurt ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['atlocation'] torrent ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['atlocation'] tributary ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['capableof'] dribble ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['isa', 'relatedto', 'derivedfrom'] groundwater ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto', 'derivedfrom'] watercourse ['synonym'] stream
+sweat ['relatedto', 'atlocation'] water ['hasa', 'relatedto'] canal ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['usedfor', 'hasprerequisite'] bathing ['usedfor'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto', 'hasprerequisite'] swimming ['usedfor'] stream
+sweat ['relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] branch ['isa', 'relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] catchwork ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] derivation ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] fire_hose ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] float ['mannerof'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] floss ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] fresh ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] gulf ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] gutter ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] hydrophily ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] hyporheic ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] millpond ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] naiad ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] ombrotrophy ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] pour ['synonym'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] rundel ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] sluice ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] spout ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] squirt ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] stone ['atlocation'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] streamflow ['derivedfrom'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] streamful ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] streamless ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] streamwater ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] swim ['usedfor'] stream
+sweat ['relatedto', 'atlocation'] water ['usedfor', 'relatedto'] wash ['usedfor'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] streams ['formof', 'relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] wellhead ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['relatedto'] wellspring ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['synonym'] runnel ['relatedto'] stream
+sweat ['relatedto', 'atlocation'] water ['usedfor'] creek ['relatedto', 'synonym'] stream
+sweat ['relatedto'] cool ['antonym'] burn ['relatedto'] stream
+sweat ['relatedto'] cool ['hasproperty'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+sweat ['atlocation'] bed ['derivedfrom'] creek_bed ['relatedto'] stream
+sweat ['atlocation'] bed ['derivedfrom'] bed_load ['relatedto'] stream
+sweat ['atlocation'] bed ['isa'] streambed ['relatedto'] stream
+sweat ['atlocation'] bed ['relatedto'] course ['isa'] stream
+sweat ['atlocation'] bed ['relatedto'] stone ['atlocation'] stream
+sweat ['atlocation'] bed ['relatedto'] cell ['relatedto'] stream
+sweat ['atlocation'] bed ['relatedto'] downcutting ['relatedto'] stream
+sweat ['atlocation'] bed ['relatedto'] hyporheic ['relatedto'] stream
+sweat ['atlocation'] bed ['relatedto'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+sweat ['atlocation'] bed ['relatedto'] wadi ['relatedto'] stream
+sweat ['atlocation'] bed ['relatedto'] water_pocket ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] water ['relatedto', 'atlocation'] stream
+sweat ['relatedto'] body ['relatedto', 'partof'] cell ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] canal ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] derivation ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] flash ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] floss ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] gulf ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] lake ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+sweat ['relatedto'] body ['relatedto'] swim ['usedfor'] stream
+sweat ['relatedto'] body ['relatedto'] tail ['relatedto'] stream
+sweat ['relatedto'] body ['relatedto'] wash ['usedfor'] stream
+sweat ['relatedto'] skin ['relatedto'] burn ['relatedto'] stream
+sweat ['relatedto'] skin ['relatedto'] cell ['relatedto'] stream
+sweat ['relatedto'] skin ['relatedto'] liquid ['relatedto'] stream
+sweat ['hasprerequisite'] work ['isa'] wash ['usedfor'] stream
+sweat ['hasprerequisite'] work ['relatedto'] course ['isa'] stream
+sweat ['hasprerequisite'] work ['relatedto'] draw ['relatedto'] stream
+sweat ['hasprerequisite'] work ['relatedto'] run ['mannerof'] stream
+sweat ['hasprerequisite'] work ['relatedto'] burden ['relatedto'] stream
+sweat ['hasprerequisite'] work ['relatedto'] thread ['relatedto'] stream
+sweat ['isa'] single ['relatedto'] cell ['relatedto'] stream
+sweat ['isa'] single ['isa'] forest ['atlocation'] stream
+sweat ['isa'] single ['relatedto'] run ['mannerof'] stream
+sweat ['relatedto'] fluid ['isa', 'relatedto'] water ['relatedto', 'atlocation'] stream
+sweat ['relatedto'] fluid ['relatedto'] current ['relatedto', 'synonym'] stream
+sweat ['relatedto'] fluid ['hasa'] lake ['relatedto'] stream
+sweat ['relatedto'] fluid ['isa', 'relatedto', 'synonym'] liquid ['relatedto'] stream
+sweat ['relatedto'] fluid ['relatedto'] deflector ['relatedto'] stream
+sweat ['relatedto'] fluid ['relatedto'] entrainment ['relatedto'] stream
+sweat ['relatedto'] fluid ['relatedto'] feedstream ['derivedfrom'] stream
+sweat ['relatedto'] fluid ['relatedto'] floss ['relatedto'] stream
+sweat ['relatedto'] fluid ['relatedto'] flow ['relatedto', 'synonym'] stream

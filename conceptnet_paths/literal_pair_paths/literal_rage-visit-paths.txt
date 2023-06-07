@@ -1,0 +1,100 @@
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] harm ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] pain ['relatedto'] visit
+rage ['isa'] book ['relatedto'] punishment ['relatedto'] visit
+rage ['isa'] book ['synonym'] punish ['relatedto'] visit
+rage ['relatedto'] fashion ['relatedto'] go ['relatedto'] visit
+rage ['causesdesire'] kill ['relatedto'] harm ['relatedto'] visit
+rage ['causesdesire'] kill ['causesdesire'] vengeance ['relatedto'] visit
+rage ['causesdesire'] kill ['relatedto', 'hasprerequisite'] punish ['relatedto'] visit
+rage ['causesdesire'] kill ['relatedto'] pain ['relatedto'] visit
+rage ['isa'] violence ['relatedto'] pain ['relatedto'] visit
+rage ['relatedto'] protest ['relatedto'] go ['relatedto'] visit
+rage ['relatedto'] protest ['relatedto'] upon ['relatedto'] visit
+rage ['relatedto'] subside ['synonym'] drop ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] negative ['relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] negative ['relatedto'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] red ['relatedto'] apply ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] red ['relatedto'] go ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] hostility ['antonym'] friendliness ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['antonym', 'relatedto'] calm ['mannerof'] comfort ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] determining_truth ['causes'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] finding_truth ['causes'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] fishing ['relatedto'] go ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] flirting ['isa'] social_activity ['isa'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes', 'hasprerequisite'] hurting_else ['causes'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes', 'hasprerequisite'] hurting_else ['causes'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] passing_sentence ['causes'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] playing_game ['usedfor'] sociability ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] punishing ['etymologicallyrelatedto', 'relatedto'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] punishing ['formof', 'relatedto', 'derivedfrom'] punish ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causes'] singing ['causes'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causesdesire', 'relatedto'] fight ['relatedto'] go ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causesdesire'] kill ['relatedto'] harm ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causesdesire'] kill ['causesdesire'] vengeance ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causesdesire'] kill ['relatedto', 'hasprerequisite'] punish ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causesdesire'] kill ['relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causesdesire'] pass_sentence ['motivatedbygoal'] punish ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causesdesire'] punch ['relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['causesdesire'] punch ['relatedto'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['etymologicallyrelatedto', 'relatedto'] anguish ['isa', 'relatedto', 'synonym'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['hasprerequisite'] punching ['causes'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['hasprerequisite'] punching ['usedfor'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['hasproperty'] unpleasant ['relatedto', 'hasproperty'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['hasproperty'] unpleasant ['relatedto'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['isa', 'relatedto'] emotion ['relatedto'] comfort ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['isa', 'relatedto'] emotion ['relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['isa'] annoyance ['synonym'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['mannerof'] feel ['antonym', 'relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] bad ['relatedto', 'hasproperty'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] bad ['relatedto'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] cross ['relatedto'] monument ['usedfor'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] cross ['relatedto'] worship ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] feeling ['relatedto'] comfort ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] feeling ['relatedto'] home ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] feeling ['antonym', 'isa', 'relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] harm ['relatedto'] punish ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] harm ['relatedto'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] pain ['antonym', 'distinctfrom'] comfort ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] pain ['relatedto'] doctor ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] pain ['etymologicallyrelatedto', 'relatedto'] punish ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] pain ['relatedto', 'synonym'] afflict ['mannerof', 'relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] pain ['relatedto'] doctor_visit ['isa'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] pain ['relatedto', 'synonym'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] sting ['isa'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] cause ['relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] cause ['relatedto'] punish ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] come_round ['relatedto'] home ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] face ['relatedto'] see ['mannerof', 'synonym'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] flame ['mannerof'] chastise ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] gnash ['relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] irritate ['relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] mean ['motivatedbygoal'] punish ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] mean ['relatedto'] harm ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] mean ['relatedto'] punishment ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] personal_space ['relatedto'] space ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] protest ['relatedto'] go ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] protest ['relatedto'] upon ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] roar ['relatedto'] call ['isa', 'relatedto', 'synonym'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] roar ['relatedto'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] scorn ['relatedto'] punish ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto'] teen ['relatedto'] harm ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto', 'synonym'] upset ['mannerof'] afflict ['mannerof', 'relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['relatedto', 'synonym'] upset ['mannerof'] pain ['relatedto'] visit
+rage ['isa', 'relatedto', 'similarto'] anger ['usedfor'] killing_people ['causes'] vengeance ['relatedto'] visit
+rage ['relatedto'] current ['relatedto', 'synonym'] present ['relatedto', 'synonym'] appear ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] dc ['relatedto'] doctor ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] nothing ['relatedto'] space ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] nothing ['relatedto'] pain ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] adjective ['relatedto'] drop ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] adjective ['relatedto'] pain ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] air ['antonym', 'relatedto'] space ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] air ['relatedto'] see ['mannerof', 'synonym'] visit
+rage ['relatedto'] current ['relatedto'] earth ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] space ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] earth ['relatedto'] home ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] earth ['relatedto'] upon ['relatedto'] visit
+rage ['relatedto'] current ['relatedto', 'atlocation'] water ['relatedto'] bless ['relatedto'] visit
+rage ['relatedto'] current ['relatedto', 'atlocation'] water ['relatedto'] drop ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] together ['relatedto'] join ['relatedto'] visit
+rage ['relatedto'] current ['relatedto'] together ['relatedto'] meeting ['isa', 'relatedto'] visit
+rage ['relatedto'] current ['relatedto', 'synonym'] new ['relatedto'] apply ['relatedto'] visit
+rage ['relatedto'] current ['relatedto', 'synonym'] new ['relatedto'] appear ['relatedto'] visit

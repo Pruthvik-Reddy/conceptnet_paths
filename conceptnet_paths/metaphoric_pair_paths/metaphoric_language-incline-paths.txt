@@ -1,0 +1,100 @@
+language ['relatedto'] ability ['relatedto'] inclination ['relatedto', 'synonym'] incline
+language ['relatedto'] ability ['relatedto'] feel ['mannerof'] incline
+language ['relatedto'] nothing ['relatedto'] feel ['mannerof'] incline
+language ['relatedto'] human ['atlocation'] bank ['relatedto'] incline
+language ['relatedto'] human ['atlocation'] climate ['relatedto'] incline
+language ['relatedto'] human ['partof'] attitude ['relatedto'] incline
+language ['relatedto'] human ['relatedto'] feel ['mannerof'] incline
+language ['relatedto'] descendant ['relatedto'] descend ['relatedto'] incline
+language ['relatedto'] body ['relatedto'] attitude ['relatedto'] incline
+language ['relatedto'] body ['relatedto'] bend ['relatedto'] incline
+language ['relatedto'] body ['usedfor', 'relatedto'] move ['synonym'] incline
+language ['relatedto'] text ['relatedto'] slant ['relatedto'] incline
+language ['relatedto'] case ['relatedto'] decline ['antonym', 'relatedto', 'synonym'] incline
+language ['relatedto'] case ['relatedto'] lower ['mannerof'] incline
+language ['relatedto'] term ['relatedto'] bank ['relatedto'] incline
+language ['relatedto'] term ['relatedto'] dispose ['relatedto', 'synonym'] incline
+language ['relatedto'] term ['relatedto'] slope ['relatedto', 'synonym'] incline
+language ['relatedto'] community ['relatedto'] attitude ['relatedto'] incline
+language ['relatedto'] note ['relatedto'] bank ['relatedto'] incline
+language ['relatedto'] subject ['mannerof'] affect ['relatedto'] incline
+language ['relatedto'] country ['atlocation'] hill ['isa', 'relatedto'] incline
+language ['relatedto'] talk ['antonym', 'distinctfrom', 'relatedto', 'similarto', 'haslastsubevent', 'hasprerequisite', 'motivatedbygoal'] listen ['mannerof'] incline
+language ['relatedto'] extension ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] even ['relatedto', 'similarto'] straight ['relatedto'] incline
+language ['relatedto'] voice ['relatedto'] direction ['relatedto'] incline
+language ['relatedto'] voice ['relatedto'] listen ['mannerof'] incline
+language ['relatedto'] field ['antonym'] hill ['isa', 'relatedto'] incline
+language ['relatedto'] flash ['relatedto'] move ['synonym'] incline
+language ['relatedto'] form ['relatedto'] apply ['relatedto'] incline
+language ['relatedto'] form ['relatedto'] diagonal ['relatedto'] incline
+language ['relatedto'] form ['relatedto'] hill ['isa', 'relatedto'] incline
+language ['relatedto'] form ['relatedto'] slope ['relatedto', 'synonym'] incline
+language ['relatedto'] forth ['relatedto'] bank ['relatedto'] incline
+language ['relatedto'] forth ['relatedto'] direction ['relatedto'] incline
+language ['relatedto'] forth ['relatedto'] step ['relatedto'] incline
+language ['relatedto'] speak ['antonym', 'distinctfrom', 'similarto'] listen ['mannerof'] incline
+language ['relatedto'] way ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] way ['relatedto'] feel ['mannerof'] incline
+language ['relatedto'] way ['relatedto', 'synonym'] direction ['relatedto'] incline
+language ['relatedto'] way ['relatedto'] hill ['isa', 'relatedto'] incline
+language ['relatedto'] way ['synonym'] step ['relatedto'] incline
+language ['relatedto', 'synonym'] speech ['relatedto'] listen ['mannerof'] incline
+language ['isa', 'relatedto'] medium ['relatedto'] slant ['relatedto'] incline
+language ['relatedto'] speaking ['antonym', 'causesdesire', 'relatedto'] listen ['mannerof'] incline
+language ['relatedto', 'hasprerequisite'] talking ['antonym', 'distinctfrom', 'relatedto'] listen ['mannerof'] incline
+language ['relatedto'] manner ['relatedto'] attitude ['relatedto'] incline
+language ['relatedto'] humans ['capableof'] listen ['mannerof'] incline
+language ['relatedto'] humans ['capableof'] bend ['relatedto'] incline
+language ['isa', 'relatedto'] music ['causesdesire', 'relatedto'] listen ['mannerof'] incline
+language ['relatedto'] cant ['relatedto'] heel ['relatedto'] incline
+language ['relatedto'] cant ['synonym'] bank ['relatedto'] incline
+language ['relatedto'] cant ['mannerof'] move ['synonym'] incline
+language ['relatedto'] cant ['relatedto'] slope ['relatedto', 'synonym'] incline
+language ['relatedto'] cant ['relatedto', 'synonym'] tilt ['relatedto', 'synonym'] incline
+language ['relatedto'] cant ['relatedto'] hield ['relatedto'] incline
+language ['relatedto'] cant ['synonym'] slant ['relatedto'] incline
+language ['isa', 'relatedto'] polish ['relatedto'] apply ['relatedto'] incline
+language ['relatedto', 'hasprerequisite'] writing ['relatedto'] move ['synonym'] incline
+language ['relatedto'] register ['mannerof'] affect ['relatedto'] incline
+language ['etymologicallyrelatedto', 'relatedto'] slang ['relatedto'] chute ['relatedto'] incline
+language ['isa', 'relatedto'] afrikaans ['relatedto'] descend ['relatedto'] incline
+language ['relatedto'] culture ['isa'] attitude ['relatedto'] incline
+language ['relatedto'] culture ['relatedto'] slant ['relatedto'] incline
+language ['relatedto', 'synonym'] tongue ['relatedto'] move ['synonym'] incline
+language ['relatedto'] organ ['relatedto'] bank ['relatedto'] incline
+language ['relatedto'] passage ['relatedto'] chute ['relatedto'] incline
+language ['relatedto'] passage ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] passage ['relatedto'] step ['relatedto'] incline
+language ['relatedto'] pipe ['relatedto'] vertical ['relatedto'] incline
+language ['relatedto'] pipe ['relatedto'] ramp ['relatedto', 'synonym'] incline
+language ['relatedto'] sign ['relatedto'] nod ['relatedto'] incline
+language ['relatedto'] sign ['usedfor', 'relatedto'] direction ['relatedto'] incline
+language ['relatedto'] communicate ['haslastsubevent', 'hasprerequisite'] listen ['mannerof'] incline
+language ['relatedto'] communicate ['mannerof'] nod ['relatedto'] incline
+language ['relatedto'] albanian ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] anglo_saxon ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] aryan ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] gauge ['mannerof'] determine ['synonym'] incline
+language ['isa', 'relatedto', 'hasproperty'] latin ['relatedto'] descend ['relatedto'] incline
+language ['relatedto'] armenian ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] daughter_language ['relatedto'] descend ['relatedto'] incline
+language ['relatedto'] egyptian ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] euphuize ['relatedto'] affect ['relatedto'] incline
+language ['relatedto'] gagauz ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] hawaiian ['relatedto'] descend ['relatedto'] incline
+language ['relatedto'] karbi ['relatedto'] hill ['isa', 'relatedto'] incline
+language ['relatedto'] format ['mannerof'] determine ['synonym'] incline
+language ['relatedto'] native_speakerism ['relatedto'] attitude ['relatedto'] incline
+language ['relatedto'] paraguayan ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] translate ['mannerof', 'relatedto'] move ['synonym'] incline
+language ['relatedto'] translate ['mannerof'] determine ['synonym'] incline
+language ['relatedto'] translation ['relatedto'] move ['synonym'] incline
+language ['relatedto'] vietnamese ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] wallachian ['relatedto'] descent ['relatedto'] incline
+language ['relatedto'] ability ['derivedfrom'] stability ['relatedto'] stay ['relatedto'] incline
+language ['relatedto'] ability ['isa'] disposition ['relatedto'] inclined ['formof', 'relatedto'] incline
+language ['relatedto'] ability ['isa'] disposition ['relatedto', 'derivedfrom'] dispose ['relatedto', 'synonym'] incline
+language ['relatedto'] ability ['isa'] disposition ['relatedto'] attitude ['relatedto'] incline
+language ['relatedto'] ability ['isa'] disposition ['relatedto'] affect ['relatedto'] incline
+language ['relatedto'] ability ['isa'] disposition ['relatedto', 'synonym'] inclination ['relatedto', 'synonym'] incline

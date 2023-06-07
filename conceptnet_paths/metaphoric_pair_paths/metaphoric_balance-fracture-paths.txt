@@ -1,0 +1,100 @@
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['causes'] tying_shoelace ['causes'] breaking ['relatedto'] fracture
+balance ['hasprerequisite'] riding_bicycle ['causes'] injury ['isa'] fracture
+balance ['hasprerequisite'] skating ['causes'] injury ['isa'] fracture
+balance ['hasprerequisite'] surfing ['causes'] injury ['isa'] fracture
+balance ['isa', 'relatedto'] scale ['relatedto'] reduction ['relatedto'] fracture
+balance ['isa', 'relatedto'] scale ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['isa', 'relatedto', 'synonym'] remainder ['relatedto'] reduction ['relatedto'] fracture
+balance ['isa'] structure ['relatedto'] bone ['relatedto'] fracture
+balance ['isa'] structure ['etymologicallyrelatedto'] destroy ['mannerof'] fracture
+balance ['isa'] structure ['relatedto'] fragile ['etymologicallyrelatedto', 'relatedto'] fracture
+balance ['isa'] structure ['relatedto'] joint ['relatedto'] fracture
+balance ['isa', 'relatedto', 'synonym'] equilibrium ['relatedto'] rock ['relatedto'] fracture
+balance ['isa'] tension ['relatedto'] snap ['relatedto'] fracture
+balance ['mannerof'] cancel ['relatedto'] fraction ['etymologicallyrelatedto', 'relatedto'] fracture
+balance ['mannerof', 'relatedto', 'synonym'] trim ['relatedto', 'synonym'] reduce ['relatedto'] fracture
+balance ['relatedto'] amount ['relatedto'] reduction ['relatedto'] fracture
+balance ['relatedto'] amount ['relatedto'] reduce ['relatedto'] fracture
+balance ['relatedto'] even ['relatedto'] joint ['relatedto'] fracture
+balance ['relatedto'] keep ['antonym'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] steady ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] weight ['antonym', 'relatedto'] reduce ['relatedto'] fracture
+balance ['relatedto'] interest ['relatedto'] injury ['isa'] fracture
+balance ['relatedto'] level ['relatedto'] bone ['relatedto'] fracture
+balance ['relatedto'] level ['mannerof', 'relatedto'] destroy ['mannerof'] fracture
+balance ['relatedto'] level ['relatedto', 'atlocation'] video_game ['isa'] fracture
+balance ['relatedto'] level ['relatedto'] laddering ['relatedto'] fracture
+balance ['relatedto'] logan ['relatedto'] rock ['relatedto'] fracture
+balance ['relatedto'] roller ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] roller ['relatedto'] reduce ['relatedto'] fracture
+balance ['synonym'] clear ['relatedto'] reduce ['relatedto'] fracture
+balance ['synonym'] neutralize ['relatedto'] destroy ['mannerof'] fracture
+balance ['synonym'] square ['relatedto'] reduce ['relatedto'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] destroy ['mannerof'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] reduce ['relatedto'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['isa'] burst ['synonym'] fracture
+balance ['relatedto'] rest ['antonym', 'causesdesire', 'relatedto'] exercise ['relatedto'] reduction ['relatedto'] fracture
+balance ['relatedto'] rest ['antonym', 'causesdesire', 'relatedto'] exercise ['causes'] injury ['isa'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] motion ['isa'] snap ['relatedto'] fracture
+balance ['relatedto'] rest ['antonym', 'haslastsubevent', 'relatedto'] play ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['antonym', 'haslastsubevent', 'relatedto'] play ['relatedto'] snap ['relatedto'] fracture
+balance ['relatedto'] rest ['antonym', 'relatedto'] energy ['relatedto'] burst ['synonym'] fracture
+balance ['relatedto'] rest ['antonym', 'relatedto'] energy ['relatedto'] snap ['relatedto'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] work ['antonym', 'relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] working ['antonym', 'distinctfrom', 'relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] working ['antonym'] broken ['relatedto'] fracture
+balance ['relatedto'] rest ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] working ['relatedto'] joint ['relatedto'] fracture
+balance ['relatedto'] rest ['causesdesire'] fatigue ['relatedto'] cracking ['synonym'] fracture
+balance ['relatedto'] rest ['causesdesire'] running ['causes'] injury ['isa'] fracture
+balance ['relatedto'] rest ['isa', 'derivedfrom'] bedrest ['relatedto'] injury ['isa'] fracture
+balance ['relatedto'] rest ['derivedfrom'] rest_period ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['relatedto', 'derivedfrom'] restful ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['distinctfrom'] move ['mannerof', 'relatedto'] rock ['relatedto'] fracture
+balance ['relatedto'] rest ['distinctfrom'] move ['mannerof'] snap ['relatedto'] fracture
+balance ['relatedto'] rest ['distinctfrom', 'relatedto', 'hasprerequisite'] nap ['relatedto'] snap ['relatedto'] fracture
+balance ['relatedto'] rest ['distinctfrom', 'relatedto', 'synonym', 'hasprerequisite', 'mannerof', 'motivatedbygoal'] sleep ['relatedto'] reduce ['relatedto'] fracture
+balance ['relatedto'] rest ['formof', 'relatedto'] resting ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['haslastsubevent'] run ['relatedto'] knit ['relatedto'] fracture
+balance ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['isa'] bridge ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['isa'] bridge ['atlocation'] rock ['relatedto'] fracture
+balance ['relatedto'] rest ['isa'] support ['usedfor', 'relatedto'] bone ['relatedto'] fracture
+balance ['relatedto'] rest ['isa', 'relatedto'] death ['relatedto'] laddering ['relatedto'] fracture
+balance ['relatedto'] rest ['mannerof'] blow ['mannerof'] burst ['synonym'] fracture
+balance ['relatedto'] rest ['mannerof'] blow ['relatedto'] contrafissure ['relatedto'] fracture
+balance ['relatedto'] rest ['mannerof'] blow ['relatedto'] nightstick_fracture ['relatedto'] fracture
+balance ['relatedto'] rest ['mannerof', 'relatedto'] pause ['relatedto', 'synonym'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['mannerof', 'relatedto'] pause ['relatedto'] video_game ['isa'] fracture
+balance ['relatedto'] rest ['mannerof'] put ['antonym'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['motivatedbygoal'] weak ['relatedto', 'synonym'] frail ['etymologicallyrelatedto', 'relatedto'] fracture
+balance ['relatedto'] rest ['relatedto'] branch ['relatedto'] fractal ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto'] bone ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto', 'derivedfrom', 'synonym'] breakage ['isa', 'relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['etymologicallyrelatedto'] fraction ['etymologicallyrelatedto', 'relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['etymologicallyrelatedto', 'relatedto'] fragile ['etymologicallyrelatedto', 'relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['etymologicallyrelatedto', 'relatedto'] fragment ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['etymologicallyrelatedto', 'relatedto'] frail ['etymologicallyrelatedto', 'relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['formof', 'relatedto'] breaking ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['formof', 'relatedto'] broken ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['isa', 'mannerof', 'relatedto'] snap ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['mannerof', 'relatedto', 'synonym'] destroy ['mannerof'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['mannerof', 'relatedto', 'synonym'] burst ['synonym'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto', 'synonym'] crack ['relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto'] injure ['mannerof'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto'] injury ['isa'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto'] crisp ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto'] frangent ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto'] tocrack ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] break ['synonym'] fault ['relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] breather ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['relatedto'] coffee_break ['derivedfrom'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] cradle ['relatedto'] rock ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto', 'synonym'] ease ['relatedto'] reduce ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto'] equilibrium ['relatedto'] rock ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto'] five ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+balance ['relatedto'] rest ['relatedto'] grave ['relatedto'] bone ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto'] home ['relatedto'] bone ['relatedto'] fracture
+balance ['relatedto'] rest ['relatedto'] nest ['relatedto'] fragile ['etymologicallyrelatedto', 'relatedto'] fracture
+balance ['relatedto'] rest ['relatedto'] price ['relatedto'] reduction ['relatedto'] fracture

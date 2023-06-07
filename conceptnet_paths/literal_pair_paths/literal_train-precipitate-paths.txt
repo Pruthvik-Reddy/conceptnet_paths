@@ -1,0 +1,100 @@
+train ['relatedto'] ability ['relatedto'] wax ['relatedto'] precipitate
+train ['atlocation'] human ['relatedto'] wax ['relatedto'] precipitate
+train ['relatedto'] plant ['relatedto'] water ['relatedto'] precipitate
+train ['relatedto'] plant ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] plant ['relatedto'] snowflake ['isa'] precipitate
+train ['relatedto'] problem ['antonym', 'distinctfrom', 'relatedto'] solution ['relatedto'] precipitate
+train ['relatedto'] problem ['relatedto'] rash ['synonym'] precipitate
+train ['relatedto'] arrive ['relatedto'] fall ['synonym'] precipitate
+train ['synonym'] stick ['antonym'] fall ['synonym'] precipitate
+train ['synonym'] stick ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] battle ['relatedto'] fall ['synonym'] precipitate
+train ['relatedto'] board ['relatedto'] water ['relatedto'] precipitate
+train ['relatedto'] board ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] board ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+train ['relatedto', 'partof'] car ['hasproperty'] slow ['relatedto'] precipitate
+train ['relatedto', 'partof'] car ['relatedto'] wax ['relatedto'] precipitate
+train ['relatedto'] head ['derivedfrom'] headstrong ['relatedto'] precipitate
+train ['relatedto'] head ['relatedto', 'derivedfrom'] headlong ['relatedto', 'synonym'] precipitate
+train ['relatedto'] branch ['relatedto'] water ['relatedto'] precipitate
+train ['isa'] consequence ['relatedto'] fall ['synonym'] precipitate
+train ['isa'] consequence ['isa'] product ['relatedto'] precipitate
+train ['isa'] consequence ['relatedto', 'synonym'] effect ['mannerof'] precipitate
+train ['relatedto'] line ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] line ['relatedto'] wax ['relatedto'] precipitate
+train ['relatedto'] chief ['relatedto'] hail ['mannerof'] precipitate
+train ['relatedto'] release ['relatedto'] unleash ['relatedto'] precipitate
+train ['mannerof'] control ['relatedto'] effect ['mannerof'] precipitate
+train ['relatedto'] dress ['mannerof'] change_state ['mannerof'] precipitate
+train ['relatedto'] course ['relatedto'] liquid ['relatedto'] precipitate
+train ['relatedto'] course ['relatedto'] rape ['relatedto'] precipitate
+train ['synonym'] develop ['mannerof'] happen ['relatedto'] precipitate
+train ['synonym'] develop ['relatedto'] product ['relatedto'] precipitate
+train ['mannerof'] ride ['relatedto'] hurl ['mannerof'] precipitate
+train ['relatedto'] fast ['relatedto'] fall ['synonym'] precipitate
+train ['relatedto'] fast ['antonym', 'distinctfrom', 'relatedto'] slow ['relatedto'] precipitate
+train ['relatedto'] fast ['relatedto'] haste ['relatedto'] precipitate
+train ['relatedto'] express ['antonym', 'distinctfrom'] slow ['relatedto'] precipitate
+train ['relatedto'] express ['mannerof'] hurl ['mannerof'] precipitate
+train ['relatedto', 'synonym'] trail ['relatedto'] contrail ['relatedto'] precipitate
+train ['relatedto'] wood ['isa', 'relatedto', 'hasproperty'] solid ['isa', 'relatedto'] precipitate
+train ['relatedto'] wood ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] proceed ['relatedto'] slow ['relatedto'] precipitate
+train ['relatedto'] proceed ['mannerof'] happen ['relatedto'] precipitate
+train ['synonym'] prepare ['relatedto'] rash ['synonym'] precipitate
+train ['relatedto'] track ['atlocation'] snow ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] shape ['isa'] solid ['isa', 'relatedto'] precipitate
+train ['relatedto'] shape ['mannerof'] throw ['relatedto'] precipitate
+train ['relatedto'] steam ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] water ['relatedto'] precipitate
+train ['relatedto'] steam ['antonym', 'distinctfrom', 'relatedto'] liquid ['relatedto'] precipitate
+train ['relatedto'] steamer ['relatedto'] water ['relatedto'] precipitate
+train ['relatedto'] trick ['relatedto'] effect ['mannerof'] precipitate
+train ['relatedto'] vehicle ['relatedto'] liquid ['relatedto'] precipitate
+train ['relatedto'] canada ['atlocation'] snow ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] atmosphere ['isa'] natural_inanimate_thing ['isa'] precipitate
+train ['relatedto'] atmosphere ['relatedto'] precipitation ['relatedto'] precipitate
+train ['atlocation'] ticket ['relatedto'] solution ['relatedto'] precipitate
+train ['hasprerequisite'] play_football ['causesdesire'] fall ['synonym'] precipitate
+train ['relatedto'] cab ['relatedto'] liquid ['relatedto'] precipitate
+train ['relatedto'] locomotive ['relatedto'] slow ['relatedto'] precipitate
+train ['relatedto'] reed ['relatedto', 'atlocation'] water ['relatedto'] precipitate
+train ['relatedto'] cars ['relatedto'] wax ['relatedto'] precipitate
+train ['relatedto'] gang_rape ['mannerof', 'relatedto', 'derivedfrom'] rape ['relatedto'] precipitate
+train ['relatedto'] ion ['isa'] particle ['isa'] precipitate
+train ['relatedto'] merchandise ['relatedto', 'synonym'] product ['relatedto'] precipitate
+train ['relatedto'] meteor ['relatedto'] rain ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] meteor ['relatedto'] hail ['mannerof'] precipitate
+train ['relatedto'] meteor ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] procedure ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] sequence ['isa'] rain ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] sleigh ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] decoy ['relatedto'] water ['relatedto'] precipitate
+train ['synonym'] string ['relatedto'] rash ['synonym'] precipitate
+train ['relatedto'] ability ['isa'] quality ['relatedto'] solid ['isa', 'relatedto'] precipitate
+train ['relatedto'] ability ['isa'] quality ['relatedto'] liquid ['relatedto'] precipitate
+train ['relatedto'] ability ['isa'] quality ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] ability ['isa', 'relatedto', 'synonym'] capacity ['relatedto'] slow ['relatedto'] precipitate
+train ['relatedto'] ability ['isa', 'relatedto'] creativity ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] ability ['isa'] form ['relatedto'] water ['relatedto'] precipitate
+train ['relatedto'] ability ['isa'] interoperability ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] condition ['relatedto'] rain ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] condition ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] condition ['relatedto'] snow ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] condition ['relatedto'] throw ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] function ['relatedto'] particle ['isa'] precipitate
+train ['relatedto'] ability ['relatedto'] special ['relatedto'] effect ['mannerof'] precipitate
+train ['relatedto'] ability ['relatedto'] special ['relatedto'] snowflake ['isa'] precipitate
+train ['relatedto'] ability ['relatedto'] supportability ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] capable ['etymologicallyrelatedto'] participate ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] bowler ['relatedto'] throw ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] chops ['relatedto'] throw ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] course ['relatedto'] liquid ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] course ['relatedto'] rape ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] cripple ['relatedto'] product ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] draw ['mannerof'] effect ['mannerof'] precipitate
+train ['relatedto'] ability ['relatedto'] draw ['relatedto'] rain ['mannerof', 'relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] drive ['mannerof'] throw ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] ear ['relatedto'] wax ['relatedto'] precipitate
+train ['relatedto'] ability ['relatedto'] ear ['relatedto'] rash ['synonym'] precipitate
+train ['relatedto'] ability ['relatedto'] effectivity ['relatedto'] effect ['mannerof'] precipitate
+train ['relatedto'] ability ['relatedto'] effectivity ['relatedto'] product ['relatedto'] precipitate

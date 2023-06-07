@@ -1,0 +1,100 @@
+vision ['isa'] band ['isa'] knife ['relatedto'] sharpen
+vision ['isa'] band ['isa', 'relatedto'] strap ['mannerof', 'relatedto', 'synonym'] sharpen
+vision ['relatedto'] bat ['relatedto'] blunt ['antonym'] sharpen
+vision ['relatedto'] bat ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] blind ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto'] see ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+vision ['relatedto'] color ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto'] color ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] color ['relatedto'] steel ['relatedto'] sharpen
+vision ['relatedto'] double ['relatedto'] point ['synonym'] sharpen
+vision ['isa'] experience ['mannerof'] change ['mannerof'] sharpen
+vision ['usedfor', 'relatedto'] eye ['capableof'] focus ['mannerof', 'synonym'] sharpen
+vision ['usedfor', 'relatedto'] eye ['relatedto'] blunt ['antonym'] sharpen
+vision ['usedfor', 'relatedto'] eye ['relatedto'] kohl_pencil ['relatedto'] sharpen
+vision ['relatedto'] myopia ['relatedto'] blur ['antonym'] sharpen
+vision ['relatedto'] myopia ['relatedto'] focus ['mannerof', 'synonym'] sharpen
+vision ['relatedto'] goal ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] look ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] mole ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] clear_sighted ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] darken ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto'] darken ['mannerof'] change_intensity ['mannerof'] sharpen
+vision ['relatedto'] eagle ['relatedto'] keen ['relatedto'] sharpen
+vision ['relatedto'] fovea ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] kenning ['etymologicallyrelatedto'] keen ['relatedto'] sharpen
+vision ['relatedto'] perception ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] perspicience ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] perspicience ['relatedto'] keen ['relatedto'] sharpen
+vision ['relatedto'] revision ['relatedto'] change ['mannerof'] sharpen
+vision ['relatedto'] strabismus ['relatedto'] focus ['mannerof', 'synonym'] sharpen
+vision ['relatedto'] view ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] visualize ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto', 'synonym'] sight ['antonym', 'relatedto', 'synonym'] view ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['derivedfrom'] foresight ['relatedto'] rifle ['relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto', 'derivedfrom', 'synonym'] see ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['distinctfrom'] touch ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto', 'synonym'] sight ['formof', 'relatedto'] sights ['relatedto'] rifle ['relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['isa'] acuity ['relatedto'] acuition ['relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['isa'] compass ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['isa'] position ['isa', 'relatedto'] point ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['isa'] position ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['mannerof', 'synonym'] aim ['isa', 'relatedto'] point ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['partof'] perception ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] absolute_error ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] blind ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] bone ['relatedto'] kirschner_wire ['relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] cloud ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] ear ['etymologicallyrelatedto'] edge ['mannerof', 'relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] eye ['capableof'] focus ['mannerof', 'synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] eye ['relatedto'] blunt ['antonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] eye ['relatedto'] kohl_pencil ['relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto', 'synonym'] blur ['antonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] kenning ['etymologicallyrelatedto'] keen ['relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] label ['relatedto'] strap ['mannerof', 'relatedto', 'synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] look ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['relatedto'] blur ['antonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] job ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] projectile ['relatedto'] steel ['relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['relatedto'] sniper_rifle ['isa'] rifle ['relatedto'] sharpen
+vision ['relatedto', 'synonym'] sight ['usedfor'] light ['isa'] taper ['synonym'] sharpen
+vision ['relatedto', 'synonym'] sight ['usedfor'] light ['relatedto'] focus ['mannerof', 'synonym'] sharpen
+vision ['relatedto'] sense ['isa', 'relatedto', 'synonym'] meaning ['isa', 'relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] sense ['isa'] sensitivity ['relatedto'] change ['mannerof'] sharpen
+vision ['relatedto'] sense ['relatedto'] attractive ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] sense ['relatedto'] clear ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto'] sense ['relatedto'] clear ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] sense ['relatedto'] color ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto'] sense ['relatedto'] color ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] color ['relatedto'] steel ['relatedto'] sharpen
+vision ['relatedto'] sense ['relatedto'] colour ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] colour ['relatedto'] steel ['relatedto'] sharpen
+vision ['relatedto'] sense ['relatedto'] common ['relatedto'] steel ['relatedto'] sharpen
+vision ['relatedto'] sense ['relatedto'] ear ['etymologicallyrelatedto'] edge ['mannerof', 'relatedto'] sharpen
+vision ['relatedto'] sense ['relatedto'] eye ['capableof'] focus ['mannerof', 'synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] eye ['relatedto'] blunt ['antonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] eye ['relatedto'] kohl_pencil ['relatedto'] sharpen
+vision ['relatedto'] sense ['relatedto'] head ['antonym', 'isa', 'relatedto', 'synonym'] point ['synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] listen ['hasfirstsubevent'] focus ['mannerof', 'synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] look ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] memory ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] numb ['synonym'] blunt ['antonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] pain ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] sense ['relatedto'] reason ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] sagacity ['relatedto'] keen ['relatedto'] sharpen
+vision ['relatedto'] sense ['relatedto'] salt ['relatedto', 'similarto'] sharp ['relatedto', 'derivedfrom'] sharpen
+vision ['relatedto'] sense ['relatedto'] five ['relatedto'] steel ['relatedto'] sharpen
+vision ['relatedto'] sense ['relatedto'] touch ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto'] sense ['relatedto'] watch ['relatedto'] strap ['mannerof', 'relatedto', 'synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] shade ['mannerof'] change ['mannerof'] sharpen
+vision ['relatedto'] sense ['relatedto'] strong ['relatedto'] steel ['relatedto'] sharpen
+vision ['relatedto'] sense ['relatedto'] thought ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] sense ['relatedto'] translate ['mannerof', 'relatedto'] change ['mannerof'] sharpen
+vision ['relatedto'] sense ['relatedto'] translation ['relatedto'] change ['mannerof'] sharpen
+vision ['relatedto'] sense ['relatedto'] translation ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] religious ['relatedto'] canon ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] religious ['relatedto'] fast ['relatedto'] blur ['antonym'] sharpen
+vision ['relatedto'] religious ['relatedto'] illuminati ['relatedto'] taper ['synonym'] sharpen
+vision ['relatedto'] religious ['relatedto'] prime ['relatedto'] point ['synonym'] sharpen
+vision ['relatedto'] religious ['relatedto'] reformation ['relatedto'] change ['mannerof'] sharpen

@@ -1,0 +1,100 @@
+praise ['antonym'] condemnation ['isa'] condition ['relatedto'] shower
+praise ['relatedto'] activity ['isa', 'relatedto'] party ['isa'] shower
+praise ['relatedto'] activity ['relatedto'] attack ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] bath ['antonym', 'distinctfrom', 'relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] battle ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] exercise ['haslastsubevent'] shower
+praise ['relatedto'] activity ['relatedto'] flurry ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] overhead ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] wash ['usedfor', 'relatedto'] shower
+praise ['relatedto'] good ['hasprerequisite'] play_soccer ['haslastsubevent'] shower
+praise ['relatedto'] good ['hasproperty'] exercise ['haslastsubevent'] shower
+praise ['relatedto'] good ['hasproperty'] rain_shower ['synonym'] shower
+praise ['relatedto'] good ['relatedto'] party ['isa'] shower
+praise ['relatedto'] excellent ['relatedto'] condition ['relatedto'] shower
+praise ['relatedto'] church ['relatedto'] house ['partof', 'atlocation'] shower
+praise ['relatedto'] church ['isa', 'relatedto'] place ['relatedto'] shower
+praise ['relatedto'] church ['isa'] body ['relatedto'] shower
+praise ['relatedto'] honor ['isa'] standing ['relatedto'] shower
+praise ['relatedto'] honor ['relatedto'] bestow ['relatedto'] shower
+praise ['atlocation'] bed ['relatedto', 'atlocation'] house ['partof', 'atlocation'] shower
+praise ['atlocation'] bed ['atlocation'] snake ['atlocation'] shower
+praise ['atlocation'] bed ['isa', 'relatedto'] place ['relatedto'] shower
+praise ['atlocation'] bed ['relatedto'] apparatus ['relatedto'] shower
+praise ['atlocation'] bed ['relatedto'] bathroom ['relatedto'] shower
+praise ['relatedto'] big ['relatedto'] house ['partof', 'atlocation'] shower
+praise ['relatedto'] big ['relatedto'] battle ['relatedto'] shower
+praise ['relatedto'] big ['antonym', 'distinctfrom', 'relatedto'] little ['relatedto'] shower
+praise ['relatedto'] big ['relatedto'] erect ['relatedto'] shower
+praise ['relatedto'] big ['relatedto'] body ['relatedto'] shower
+praise ['relatedto'] big ['relatedto'] party ['isa'] shower
+praise ['relatedto'] fine ['relatedto'] condition ['relatedto'] shower
+praise ['relatedto'] fine ['relatedto'] spray ['mannerof'] shower
+praise ['etymologicallyrelatedto', 'relatedto'] love ['relatedto'] falling ['relatedto'] shower
+praise ['etymologicallyrelatedto', 'relatedto'] love ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] make_love ['usedfor'] shower
+praise ['isa', 'relatedto'] worship ['relatedto'] hail ['synonym'] shower
+praise ['mannerof'] flatter ['relatedto'] soap ['relatedto'] shower
+praise ['mannerof'] measure ['relatedto'] little ['relatedto'] shower
+praise ['mannerof'] rave ['relatedto'] body ['relatedto'] shower
+praise ['mannerof'] rave ['mannerof', 'relatedto'] party ['isa'] shower
+praise ['mannerof', 'relatedto'] salute ['relatedto'] hail ['synonym'] shower
+praise ['relatedto'] acclaim ['synonym'] hail ['synonym'] shower
+praise ['relatedto'] adulator ['relatedto'] lavish ['synonym'] shower
+praise ['relatedto'] beslobber ['relatedto'] wet ['relatedto'] shower
+praise ['relatedto'] blowjob ['relatedto'] penis ['relatedto'] shower
+praise ['relatedto'] celebrated ['relatedto'] party ['isa'] shower
+praise ['relatedto'] flattery ['relatedto'] soap ['relatedto'] shower
+praise ['relatedto'] glory ['relatedto'] battle ['relatedto'] shower
+praise ['relatedto'] lose ['relatedto'] body ['relatedto'] shower
+praise ['relatedto'] god ['relatedto'] body ['relatedto'] shower
+praise ['relatedto'] job ['relatedto'] place ['relatedto'] shower
+praise ['relatedto'] respect ['relatedto'] give ['relatedto'] shower
+praise ['relatedto'] respect ['relatedto'] show ['relatedto', 'derivedfrom'] shower
+praise ['relatedto'] reward ['relatedto'] give ['relatedto'] shower
+praise ['relatedto'] reward ['relatedto'] place ['relatedto'] shower
+praise ['synonym'] applause ['isa'] intelligent_agent_activity ['isa'] shower
+praise ['synonym'] celebrate ['mannerof', 'relatedto'] party ['isa'] shower
+praise ['synonym'] exalt ['mannerof', 'synonym'] lift ['relatedto'] body ['relatedto'] shower
+praise ['synonym'] exalt ['mannerof', 'synonym'] lift ['relatedto'] stall ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] high ['relatedto'] fountain ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] high ['relatedto'] steam ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] honor ['isa'] standing ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] honor ['relatedto'] bestow ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] raise ['relatedto'] exercise ['haslastsubevent'] shower
+praise ['synonym'] exalt ['relatedto'] raise ['synonym'] erect ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] rank ['relatedto'] condition ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] rank ['relatedto'] standing ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] rank ['mannerof'] place ['relatedto'] shower
+praise ['synonym'] exalt ['relatedto'] perk ['relatedto'] erect ['relatedto'] shower
+praise ['synonym'] exalt ['synonym'] advance ['relatedto'] battle ['relatedto'] shower
+praise ['antonym'] condemnation ['isa'] condition ['relatedto'] attack ['relatedto'] shower
+praise ['antonym'] condemnation ['isa'] condition ['relatedto'] wet ['relatedto'] shower
+praise ['antonym'] condemnation ['isa'] condition ['relatedto'] clean ['relatedto'] shower
+praise ['antonym'] condemnation ['isa'] condition ['relatedto'] rain ['isa', 'mannerof', 'relatedto'] shower
+praise ['antonym'] condemnation ['isa'] condition ['antonym', 'distinctfrom', 'mannerof', 'relatedto'] shampoo ['atlocation'] shower
+praise ['antonym'] condemnation ['isa'] condition ['capableof'] exercise ['haslastsubevent'] shower
+praise ['antonym'] condemnation ['isa'] condition ['isa'] light ['relatedto'] shower
+praise ['antonym'] condemnation ['isa'] condition ['isa'] place ['relatedto'] shower
+praise ['antonym'] condemnation ['isa'] condition ['relatedto'] hair_conditioner ['atlocation'] shower
+praise ['antonym'] condemnation ['isa'] condition ['relatedto'] descent ['isa'] shower
+praise ['antonym'] condemnation ['relatedto'] ground ['antonym', 'relatedto'] water ['relatedto', 'atlocation'] shower
+praise ['antonym'] condemnation ['relatedto'] ground ['atlocation'] fungus ['atlocation'] shower
+praise ['antonym'] condemnation ['relatedto'] ground ['atlocation'] pilot ['atlocation'] shower
+praise ['antonym'] condemnation ['relatedto'] ground ['relatedto'] falling ['relatedto'] shower
+praise ['antonym'] condemnation ['relatedto'] ground ['relatedto'] house ['partof', 'atlocation'] shower
+praise ['antonym'] condemnation ['relatedto'] ground ['relatedto'] place ['relatedto'] shower
+praise ['antonym'] condemnation ['relatedto'] ground ['relatedto'] standing ['relatedto'] shower
+praise ['antonym'] condemnation ['relatedto'] ground ['relatedto'] body ['relatedto'] shower
+praise ['antonym'] condemnation ['relatedto'] state ['mannerof'] give ['relatedto'] shower
+praise ['antonym'] condemnation ['relatedto'] state ['relatedto'] water ['relatedto', 'atlocation'] shower
+praise ['antonym'] condemnation ['relatedto'] state ['isa', 'relatedto'] condition ['relatedto'] shower
+praise ['antonym'] condemnation ['relatedto'] state ['isa'] conflict ['relatedto'] shower
+praise ['antonym'] condemnation ['relatedto'] state ['relatedto'] clean ['relatedto'] shower
+praise ['antonym'] condemnation ['relatedto'] wrong ['relatedto'] place ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] join ['relatedto'] getting ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] join ['relatedto'] oneself ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] presence ['relatedto'] condition ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] decline ['isa'] condition ['relatedto'] shower
+praise ['relatedto'] activity ['relatedto'] decline ['relatedto', 'synonym'] descent ['isa'] shower
+praise ['relatedto'] activity ['isa'] act ['mannerof'] attack ['relatedto'] shower
+praise ['relatedto'] activity ['isa'] act ['relatedto'] give ['relatedto'] shower

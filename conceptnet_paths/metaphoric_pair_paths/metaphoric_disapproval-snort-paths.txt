@@ -1,0 +1,100 @@
+disapproval ['relatedto'] grunt ['relatedto'] snort
+disapproval ['relatedto'] catcall ['relatedto'] boo ['synonym'] snort
+disapproval ['relatedto'] frown ['antonym'] laugh ['relatedto'] snort
+disapproval ['relatedto'] grunt ['isa'] noise ['relatedto'] snort
+disapproval ['relatedto'] grunt ['relatedto'] pig ['relatedto'] snort
+disapproval ['relatedto'] grunt ['mannerof'] utter ['mannerof'] snort
+disapproval ['relatedto'] grunt ['relatedto'] gruntle ['relatedto'] snort
+disapproval ['relatedto'] grunt ['relatedto'] harumph ['relatedto'] snort
+disapproval ['relatedto'] grunt ['relatedto'] huff ['synonym'] snort
+disapproval ['relatedto'] grunt ['relatedto', 'synonym'] oink ['distinctfrom'] snort
+disapproval ['relatedto'] hiss ['synonym'] boo ['synonym'] snort
+disapproval ['relatedto'] hiss ['isa'] noise ['relatedto'] snort
+disapproval ['relatedto'] hiss ['mannerof'] utter ['mannerof'] snort
+disapproval ['relatedto'] protest ['relatedto'] harumph ['relatedto'] snort
+disapproval ['relatedto'] tut_tut ['mannerof'] utter ['mannerof'] snort
+disapproval ['isa', 'relatedto', 'synonym'] condemnation ['relatedto'] condemn ['mannerof'] boo ['synonym'] snort
+disapproval ['isa', 'relatedto', 'synonym'] condemnation ['relatedto'] punishment ['relatedto'] function ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] condemnation ['relatedto'] state ['relatedto'] drink ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] disapprobation ['relatedto'] chide ['relatedto'] noise ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] disapprobation ['relatedto'] scrape ['isa'] noise ['relatedto'] snort
+disapproval ['relatedto', 'synonym'] reprobation ['relatedto'] punishment ['relatedto'] function ['relatedto'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['antonym'] resentment ['relatedto'] snuff ['relatedto', 'synonym'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['isa'] satisfaction ['relatedto'] laugh ['relatedto'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['isa'] cheer ['antonym'] boo ['synonym'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['relatedto'] state ['relatedto'] drink ['relatedto'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['relatedto'] compassionate_use ['relatedto'] drug ['relatedto', 'entails'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['relatedto', 'synonym'] go ['relatedto'] sail ['relatedto'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['relatedto', 'synonym'] go ['relatedto', 'synonym'] function ['relatedto'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['relatedto'] line ['relatedto'] drug ['relatedto', 'entails'] snort
+disapproval ['antonym', 'distinctfrom'] approval ['relatedto'] postapproval ['relatedto'] drug ['relatedto', 'entails'] snort
+disapproval ['causesdesire'] please_parents ['hasprerequisite'] good ['relatedto'] drink ['relatedto'] snort
+disapproval ['causesdesire'] please_parents ['motivatedbygoal'] happy ['motivatedbygoal', 'relatedto'] laugh ['relatedto'] snort
+disapproval ['causesdesire'] please_parents ['motivatedbygoal'] happy ['relatedto'] laughter ['relatedto'] snort
+disapproval ['causesdesire'] please_parents ['hasprerequisite'] nice ['distinctfrom'] noise ['relatedto'] snort
+disapproval ['causesdesire'] please_parents ['hasprerequisite'] nice ['relatedto'] nose ['relatedto'] snort
+disapproval ['causesdesire'] please_parents ['motivatedbygoal'] respect ['antonym'] rude ['relatedto'] snort
+disapproval ['causesdesire'] please_parents ['hasfirstsubevent'] smile ['distinctfrom', 'relatedto'] laugh ['relatedto'] snort
+disapproval ['causesdesire'] please_parents ['hasfirstsubevent'] smile ['relatedto'] laughter ['relatedto'] snort
+disapproval ['relatedto', 'derivedfrom'] disapprove ['relatedto', 'synonym'] condemn ['mannerof'] boo ['synonym'] snort
+disapproval ['relatedto', 'derivedfrom'] disapprove ['relatedto'] ridicule ['relatedto'] laugh ['relatedto'] snort
+disapproval ['isa'] contempt ['relatedto', 'synonym'] disdain ['relatedto'] harumph ['relatedto'] snort
+disapproval ['isa'] contempt ['antonym', 'distinctfrom'] respect ['antonym'] rude ['relatedto'] snort
+disapproval ['isa'] contempt ['relatedto', 'synonym'] scorn ['relatedto'] laugh ['relatedto'] snort
+disapproval ['isa'] contempt ['relatedto'] hoot ['synonym'] boo ['synonym'] snort
+disapproval ['isa'] contempt ['relatedto'] hoot ['mannerof'] utter ['mannerof'] snort
+disapproval ['isa'] contempt ['relatedto'] jerk ['relatedto'] rude ['relatedto'] snort
+disapproval ['isa'] contempt ['relatedto'] laughable ['derivedfrom'] laugh ['relatedto'] snort
+disapproval ['isa'] contempt ['relatedto'] laughable ['relatedto', 'derivedfrom'] laughter ['relatedto'] snort
+disapproval ['isa'] contempt ['relatedto'] laughable ['synonym'] funny ['relatedto'] snort
+disapproval ['isa'] contempt ['relatedto'] sarcasm ['synonym'] snark ['etymologicallyrelatedto', 'relatedto'] snort
+disapproval ['isa'] contempt ['relatedto'] scoff ['relatedto'] laugh ['relatedto'] snort
+disapproval ['isa'] contempt ['relatedto'] wastoid ['relatedto'] drug ['relatedto', 'entails'] snort
+disapproval ['isa'] criticism ['isa'] fire ['relatedto'] vent ['relatedto'] snort
+disapproval ['isa'] criticism ['isa'] analysis ['relatedto'] function ['relatedto'] snort
+disapproval ['isa'] criticism ['isa'] static ['isa', 'relatedto'] noise ['relatedto'] snort
+disapproval ['isa'] criticism ['isa'] attack ['mannerof'] submarine ['relatedto'] snort
+disapproval ['isa'] criticism ['relatedto'] insult ['relatedto'] rude ['relatedto'] snort
+disapproval ['isa'] criticism ['relatedto'] silence ['antonym', 'distinctfrom'] noise ['relatedto'] snort
+disapproval ['isa'] criticism ['isa'] writing ['relatedto'] function ['relatedto'] snort
+disapproval ['isa'] criticism ['relatedto'] pink ['relatedto'] noise ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['relatedto'] anger ['relatedto'] huff ['synonym'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['relatedto'] cry ['isa'] boo ['synonym'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['relatedto'] cry ['antonym', 'distinctfrom', 'relatedto', 'similarto'] laugh ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['relatedto'] cry ['isa', 'relatedto'] noise ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['relatedto'] cry ['mannerof'] utter ['mannerof'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['isa'] emotion ['relatedto'] laugh ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['isa'] emotion ['relatedto'] laughter ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['isa'] emotion ['relatedto'] drug ['relatedto', 'entails'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['isa'] annoyance ['relatedto'] noise ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['isa'] annoyance ['relatedto'] huff ['synonym'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['relatedto'] frown ['antonym'] laugh ['relatedto'] snort
+disapproval ['isa', 'relatedto', 'synonym'] displeasure ['relatedto'] resentment ['relatedto'] snuff ['relatedto', 'synonym'] snort
+disapproval ['isa'] judgment ['isa'] act ['relatedto'] function ['relatedto'] snort
+disapproval ['isa'] judgment ['isa'] act ['relatedto'] drink ['relatedto'] snort
+disapproval ['isa'] judgment ['isa'] act ['relatedto'] hot_rail ['relatedto'] snort
+disapproval ['isa'] judgment ['isa'] act ['relatedto'] laugh ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] sense ['relatedto'] noise ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] sense ['relatedto'] nose ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] bad ['relatedto'] noise ['relatedto'] snort
+disapproval ['isa'] judgment ['isa'] estimate ['relatedto'] roughly ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] voice ['relatedto'] function ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] voice ['relatedto'] noise ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] voice ['relatedto'] utter ['mannerof'] snort
+disapproval ['isa'] judgment ['relatedto'] law ['relatedto'] function ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] power ['relatedto'] nose ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] power ['relatedto'] grunt ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] power ['relatedto'] sail ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] reason ['relatedto'] function ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] silly ['relatedto'] laugh ['relatedto'] snort
+disapproval ['isa'] judgment ['relatedto'] puffing ['synonym'] snorting ['formof', 'relatedto'] snort
+disapproval ['isa'] message ['relatedto'] tell ['relatedto'] utter ['mannerof'] snort
+disapproval ['isa'] message ['relatedto'] away ['relatedto'] utter ['mannerof'] snort
+disapproval ['isa'] message ['relatedto'] bear ['relatedto'] alcoholic ['relatedto'] snort
+disapproval ['isa'] message ['relatedto'] bear ['relatedto'] boo ['synonym'] snort
+disapproval ['isa'] message ['relatedto'] bear ['relatedto'] drink ['relatedto'] snort
+disapproval ['isa'] message ['relatedto'] block ['relatedto'] function ['relatedto'] snort
+disapproval ['isa'] message ['relatedto'] block ['relatedto'] pig ['relatedto'] snort
+disapproval ['isa'] message ['isa'] body ['relatedto', 'partof'] nose ['relatedto'] snort
+disapproval ['isa'] message ['isa'] body ['relatedto'] drug ['relatedto', 'entails'] snort
+disapproval ['isa'] message ['relatedto'] bottle ['relatedto', 'atlocation'] drink ['relatedto'] snort

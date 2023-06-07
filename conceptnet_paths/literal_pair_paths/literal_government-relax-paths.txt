@@ -1,0 +1,100 @@
+government ['relatedto'] establishment ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+government ['relatedto'] reserve ['relatedto'] home ['usedfor'] relax
+government ['relatedto'] agent ['relatedto'] act ['mannerof'] relax
+government ['relatedto'] navy ['relatedto'] ocean ['usedfor'] relax
+government ['relatedto'] autonomy ['relatedto'] act ['mannerof'] relax
+government ['relatedto'] bank ['mannerof'] act ['mannerof'] relax
+government ['relatedto'] bank ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+government ['relatedto'] bank ['relatedto'] home ['usedfor'] relax
+government ['relatedto'] bank ['mannerof'] work ['antonym'] relax
+government ['relatedto'] big ['relatedto'] home ['usedfor'] relax
+government ['relatedto'] big ['relatedto'] ocean ['usedfor'] relax
+government ['relatedto'] big ['relatedto'] sigh ['hasfirstsubevent'] relax
+government ['relatedto'] bill ['synonym'] act ['mannerof'] relax
+government ['relatedto'] body ['relatedto'] healthy ['motivatedbygoal'] relax
+government ['relatedto'] body ['relatedto'] ocean ['usedfor'] relax
+government ['relatedto'] body ['relatedto'] pool ['usedfor'] relax
+government ['relatedto'] body ['relatedto'] ragdoll ['relatedto'] relax
+government ['relatedto'] body ['relatedto'] stretch ['antonym'] relax
+government ['relatedto'] branch ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+government ['isa'] palace ['isa', 'relatedto'] home ['usedfor'] relax
+government ['relatedto'] capital ['isa', 'relatedto'] seat ['usedfor'] relax
+government ['relatedto'] prison ['relatedto'] coop ['relatedto'] relax
+government ['relatedto'] charge ['mannerof'] change ['mannerof'] relax
+government ['relatedto'] chief ['relatedto'] work ['antonym'] relax
+government ['relatedto'] force ['mannerof'] act ['mannerof'] relax
+government ['relatedto'] force ['relatedto'] break ['relatedto'] relax
+government ['relatedto'] force ['relatedto'] work ['antonym'] relax
+government ['relatedto'] force ['relatedto'] change ['mannerof'] relax
+government ['relatedto'] force ['isa'] stress ['antonym', 'relatedto'] relax
+government ['relatedto'] force ['relatedto'] severe ['relatedto'] relax
+government ['relatedto'] force ['relatedto'] stretch ['antonym'] relax
+government ['hasproperty'] corrupt ['mannerof'] change ['mannerof'] relax
+government ['relatedto', 'atlocation'] city ['atlocation'] home ['usedfor'] relax
+government ['relatedto', 'atlocation'] country ['relatedto'] home ['usedfor'] relax
+government ['relatedto', 'atlocation'] country ['relatedto'] music ['usedfor', 'causesdesire'] relax
+government ['relatedto', 'atlocation'] country ['relatedto'] scenery ['usedfor'] relax
+government ['isa', 'relatedto'] state ['relatedto'] decay ['relatedto'] relax
+government ['isa', 'relatedto'] state ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+government ['isa', 'relatedto'] state ['relatedto'] calm ['relatedto'] relax
+government ['isa', 'relatedto'] state ['relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+government ['isa', 'relatedto'] state ['relatedto'] break ['relatedto'] relax
+government ['isa', 'relatedto'] state ['isa'] island ['usedfor'] relax
+government ['isa', 'relatedto'] state ['relatedto'] clean ['haslastsubevent'] relax
+government ['isa', 'relatedto'] state ['relatedto'] excite ['antonym'] relax
+government ['atlocation'] civilization ['synonym'] home ['usedfor'] relax
+government ['relatedto'] colony ['relatedto'] home ['usedfor'] relax
+government ['relatedto'] colony ['relatedto'] break ['relatedto'] relax
+government ['atlocation'] committee ['relatedto'] work ['antonym'] relax
+government ['atlocation'] control ['relatedto'] loose ['relatedto'] relax
+government ['atlocation'] control ['relatedto'] loosen_apron_strings ['relatedto'] relax
+government ['atlocation'] control ['relatedto'] loosen_purse_strings ['relatedto'] relax
+government ['relatedto'] department ['relatedto'] work ['antonym'] relax
+government ['relatedto'] union ['relatedto'] work ['antonym'] relax
+government ['relatedto'] politician ['relatedto'] change ['mannerof'] relax
+government ['atlocation'] everything ['causesdesire'] hear_music ['motivatedbygoal'] relax
+government ['atlocation'] everything ['relatedto'] music ['usedfor', 'causesdesire'] relax
+government ['atlocation'] nowhere ['relatedto'] home ['usedfor'] relax
+government ['distinctfrom'] evil ['relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+government ['relatedto'] rule ['relatedto'] act ['mannerof'] relax
+government ['relatedto'] rule ['relatedto'] break ['relatedto'] relax
+government ['relatedto'] local ['relatedto'] home ['usedfor'] relax
+government ['relatedto'] making ['relatedto'] work ['antonym'] relax
+government ['relatedto'] making ['relatedto'] knitting ['causes'] relax
+government ['relatedto'] making ['relatedto'] stretch ['antonym'] relax
+government ['atlocation'] trouble ['relatedto'] act ['mannerof'] relax
+government ['atlocation'] trouble ['antonym', 'distinctfrom'] calm ['relatedto'] relax
+government ['atlocation'] trouble ['mannerof'] affect ['mannerof'] relax
+government ['atlocation'] trouble ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+government ['relatedto', 'atlocation'] president ['relatedto'] change ['mannerof'] relax
+government ['isa', 'relatedto'] bureaucracy ['relatedto'] work ['antonym'] relax
+government ['isa', 'relatedto'] court ['mannerof'] act ['mannerof'] relax
+government ['isa', 'relatedto'] court ['usedfor'] play_game ['motivatedbygoal'] relax
+government ['isa', 'relatedto'] organization ['relatedto'] clean ['haslastsubevent'] relax
+government ['isa', 'relatedto'] organization ['isa'] pool ['usedfor'] relax
+government ['isa'] local_government ['relatedto'] remit ['relatedto'] relax
+government ['relatedto'] agency ['relatedto'] act ['mannerof'] relax
+government ['relatedto'] aristarchy ['relatedto'] severe ['relatedto'] relax
+government ['relatedto'] beehive ['relatedto'] home ['usedfor'] relax
+government ['relatedto'] blowout ['relatedto'] clean ['haslastsubevent'] relax
+government ['relatedto'] bounty ['relatedto'] act ['mannerof'] relax
+government ['relatedto'] broadway ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+government ['relatedto'] cabinet ['atlocation'] music ['usedfor', 'causesdesire'] relax
+government ['relatedto'] county_seat ['isa'] seat ['usedfor'] relax
+government ['relatedto'] democratic ['relatedto'] change ['mannerof'] relax
+government ['relatedto'] denationalize ['mannerof'] change ['mannerof'] relax
+government ['relatedto'] corruption ['isa', 'synonym'] decay ['relatedto'] relax
+government ['relatedto'] gopher ['atlocation'] garden ['usedfor'] relax
+government ['usedfor', 'relatedto'] management ['relatedto'] work ['antonym'] relax
+government ['relatedto'] structure ['relatedto'] home ['usedfor'] relax
+government ['relatedto'] structure ['relatedto'] work ['antonym'] relax
+government ['relatedto'] structure ['relatedto'] semifield ['relatedto'] relax
+government ['relatedto'] law ['synonym'] act ['mannerof'] relax
+government ['relatedto'] law ['relatedto'] break ['relatedto'] relax
+government ['relatedto'] legitimate ['mannerof'] change ['mannerof'] relax
+government ['relatedto'] monopoly ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+government ['relatedto'] holiday ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+government ['relatedto'] holiday ['relatedto'] break ['relatedto'] relax
+government ['relatedto'] holiday ['relatedto', 'synonym'] vacation ['usedfor'] relax
+government ['relatedto'] home_office ['relatedto'] home ['usedfor'] relax
+government ['relatedto'] home_office ['relatedto'] work ['antonym'] relax

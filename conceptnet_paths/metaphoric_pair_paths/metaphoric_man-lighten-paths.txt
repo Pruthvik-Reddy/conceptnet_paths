@@ -1,0 +1,100 @@
+man ['relatedto'] fire ['relatedto'] bright ['relatedto'] lighten
+man ['relatedto'] fire ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['antonym'] dress ['mannerof'] change ['mannerof'] lighten
+man ['antonym', 'relatedto'] politician ['relatedto'] change ['mannerof'] lighten
+man ['derivedfrom', 'synonym'] batman ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['derivedfrom'] manlift ['derivedfrom'] lift ['relatedto'] lighten
+man ['distinctfrom'] machine ['relatedto'] bleach ['relatedto'] lighten
+man ['distinctfrom'] machine ['usedfor', 'relatedto'] lift ['relatedto'] lighten
+man ['distinctfrom'] machine ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['isa'] black ['antonym'] bright ['relatedto'] lighten
+man ['isa'] black ['etymologicallyrelatedto'] bleach ['relatedto'] lighten
+man ['isa'] black ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['isa'] black ['relatedto'] change ['mannerof'] lighten
+man ['isa'] white ['isa', 'relatedto'] bleach ['relatedto'] lighten
+man ['isa'] white ['relatedto', 'similarto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['isa'] white ['relatedto'] bright ['relatedto'] lighten
+man ['mannerof'] work ['atlocation'] bleach ['relatedto'] lighten
+man ['mannerof'] work ['relatedto'] burden ['relatedto'] lighten
+man ['relatedto'] bear ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] bear ['relatedto'] burden ['relatedto'] lighten
+man ['relatedto'] bear ['relatedto'] lift ['relatedto'] lighten
+man ['relatedto'] board ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] body ['relatedto'] lift ['relatedto'] lighten
+man ['relatedto'] body ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] break ['isa', 'mannerof', 'relatedto'] change ['mannerof'] lighten
+man ['relatedto'] builder ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] engineer ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] eye ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] freak ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] gentle ['relatedto', 'similarto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] good ['synonym'] serious ['relatedto'] lighten
+man ['relatedto'] hunt ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] jacket ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] lightman ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] arms ['relatedto'] lift ['relatedto'] lighten
+man ['relatedto'] big ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] form ['mannerof'] change ['mannerof'] lighten
+man ['relatedto'] generic ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] living ['causes'] change ['mannerof'] lighten
+man ['relatedto'] minus ['relatedto'] reduce ['relatedto'] lighten
+man ['relatedto'] system ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] matter ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] matter ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] student ['relatedto'] serious ['relatedto'] lighten
+man ['relatedto'] supernatural ['relatedto'] bright ['relatedto'] lighten
+man ['relatedto'] brace ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] brace ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] position ['isa'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] moon ['relatedto'] bright ['relatedto'] lighten
+man ['relatedto'] moon ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] name ['capableof'] change ['mannerof'] lighten
+man ['relatedto'] president ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] press ['antonym', 'relatedto'] lift ['relatedto'] lighten
+man ['relatedto'] press ['relatedto'] reduce ['relatedto'] lighten
+man ['relatedto'] press ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] sage ['relatedto'] serious ['relatedto'] lighten
+man ['relatedto'] teacher ['capableof'] enlighten ['relatedto'] lighten
+man ['relatedto'] tin ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] tin ['relatedto'] burden ['relatedto'] lighten
+man ['relatedto'] wallet ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] establishment ['isa'] proof ['mannerof'] change ['mannerof'] lighten
+man ['relatedto'] establishment ['isa'] proof ['relatedto'] allege ['relatedto'] lighten
+man ['relatedto'] establishment ['relatedto'] coin ['isa', 'relatedto', 'atlocation'] change ['mannerof'] lighten
+man ['relatedto'] establishment ['relatedto'] stable ['antonym'] change ['mannerof'] lighten
+man ['relatedto'] establishment ['relatedto'] force ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] establishment ['relatedto'] force ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] establishment ['relatedto'] force ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] establishment ['relatedto'] force ['relatedto'] lift ['relatedto'] lighten
+man ['relatedto'] establishment ['relatedto'] permanent ['antonym'] change ['mannerof'] lighten
+man ['relatedto'] establishment ['relatedto'] state ['relatedto'] allege ['relatedto'] lighten
+man ['relatedto'] establishment ['relatedto'] state ['relatedto'] liss ['relatedto'] lighten
+man ['relatedto'] establishment ['relatedto'] hospital ['atlocation'] bleach ['relatedto'] lighten
+man ['relatedto'] establishment ['relatedto'] rest ['relatedto'] alight ['relatedto'] lighten
+man ['relatedto'] establishment ['relatedto'] rest ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] establishment ['relatedto'] rest ['synonym'] relieve ['synonym'] lighten
+man ['relatedto'] establishment ['relatedto'] rule ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] presence ['isa'] shadow ['distinctfrom', 'relatedto', 'atlocation'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] presence ['relatedto'] dry ['mannerof'] change ['mannerof'] lighten
+man ['relatedto'] presence ['relatedto'] state ['relatedto'] allege ['relatedto'] lighten
+man ['relatedto'] presence ['relatedto'] state ['relatedto'] liss ['relatedto'] lighten
+man ['relatedto'] presence ['relatedto'] condition ['relatedto'] serious ['relatedto'] lighten
+man ['relatedto'] presence ['relatedto'] condition ['isa'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+man ['relatedto'] presence ['relatedto'] felt ['mannerof'] change ['mannerof'] lighten
+man ['relatedto'] presence ['relatedto'] part ['isa'] jetsam ['relatedto'] lighten
+man ['relatedto'] presence ['relatedto'] poise ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] presence ['relatedto'] quality ['relatedto'] bright ['relatedto'] lighten
+man ['relatedto'] presence ['relatedto'] quality ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] presence ['relatedto'] symptom ['relatedto'] change ['mannerof'] lighten
+man ['relatedto'] presence ['synonym'] bearing ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+man ['relatedto'] child ['createdby'] birth ['isa'] change ['mannerof'] lighten
+man ['relatedto'] child ['createdby'] birth ['relatedto'] burden ['relatedto'] lighten
+man ['relatedto'] child ['antonym', 'distinctfrom', 'relatedto', 'hasa', 'isa'] parent ['relatedto'] descend ['relatedto'] lighten
+man ['relatedto'] child ['capableof'] pain ['relatedto'] liss ['relatedto'] lighten
+man ['relatedto'] child ['capableof'] pain ['relatedto'] alleviate ['relatedto'] lighten
+man ['relatedto'] child ['desires'] balloon ['relatedto'] jettison ['relatedto'] lighten
+man ['relatedto'] child ['relatedto', 'hasprerequisite'] play ['antonym'] serious ['relatedto'] lighten
+man ['relatedto'] child ['isa'] changeling ['derivedfrom'] change ['mannerof'] lighten
+man ['relatedto'] child ['isa', 'synonym'] descendant ['relatedto'] descend ['relatedto'] lighten
+man ['relatedto'] child ['relatedto'] ball ['relatedto'] bright ['relatedto'] lighten
+man ['relatedto'] child ['relatedto'] age ['mannerof'] change ['mannerof'] lighten

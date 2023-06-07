@@ -1,0 +1,100 @@
+meteor ['relatedto'] rain ['antonym'] shine ['mannerof'] blaze
+meteor ['isa'] light ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['isa'] light ['relatedto'] low ['relatedto'] blaze
+meteor ['isa'] light ['relatedto', 'synonym'] burn ['mannerof', 'synonym'] blaze
+meteor ['isa'] light ['relatedto'] flare ['relatedto'] blaze
+meteor ['isa'] light ['relatedto'] glare ['synonym'] blaze
+meteor ['isa'] light ['relatedto'] flame ['relatedto'] blaze
+meteor ['isa'] light ['relatedto'] shine ['mannerof'] blaze
+meteor ['relatedto'] matter ['isa', 'relatedto'] book ['isa'] blaze
+meteor ['relatedto'] frost ['isa'] book ['isa'] blaze
+meteor ['relatedto'] fiery ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['relatedto'] snow ['distinctfrom'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['relatedto'] wind ['antonym', 'relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['relatedto'] aurora ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['relatedto', 'similarto'] fireball ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['antonym', 'distinctfrom', 'relatedto', 'partof'] earth ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] low ['relatedto'] blaze
+meteor ['atlocation'] sky ['antonym', 'relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['antonym', 'relatedto'] water ['antonym', 'synonym'] burn ['mannerof', 'synonym'] blaze
+meteor ['atlocation'] sky ['etymologicallyrelatedto'] house ['atlocation'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['etymologicallyrelatedto'] house ['atlocation'] book ['isa'] blaze
+meteor ['atlocation'] sky ['relatedto'] fall ['isa'] book ['isa'] blaze
+meteor ['atlocation'] sky ['relatedto'] fall ['synonym'] shine ['mannerof'] blaze
+meteor ['atlocation'] sky ['antonym'] floor ['atlocation'] book ['isa'] blaze
+meteor ['atlocation'] sky ['relatedto'] straight ['relatedto'] marijuana ['relatedto'] blaze
+meteor ['atlocation'] sky ['hasproperty'] bright ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['hasproperty'] bright ['relatedto'] shine ['mannerof'] blaze
+meteor ['atlocation'] sky ['hasproperty'] bright ['relatedto'] flare ['relatedto'] blaze
+meteor ['atlocation'] sky ['hasproperty'] bright ['relatedto'] glare ['synonym'] blaze
+meteor ['atlocation'] sky ['hasproperty'] bright ['synonym'] blazing ['formof', 'synonym'] blaze
+meteor ['atlocation'] sky ['antonym', 'relatedto', 'hasproperty'] blue ['synonym'] low ['relatedto'] blaze
+meteor ['atlocation'] sky ['antonym', 'relatedto', 'hasproperty'] blue ['relatedto'] flame ['relatedto'] blaze
+meteor ['atlocation'] sky ['antonym', 'relatedto', 'hasproperty'] blue ['relatedto'] glare ['synonym'] blaze
+meteor ['atlocation'] sky ['antonym'] fog ['relatedto'] low ['relatedto'] blaze
+meteor ['atlocation'] sky ['usedfor', 'relatedto', 'atlocation'] fly ['isa'] flare ['relatedto'] blaze
+meteor ['atlocation'] sky ['atlocation'] painting ['isa'] marking ['isa', 'relatedto'] blaze
+meteor ['atlocation'] sky ['atlocation'] smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['atlocation'] smoke ['relatedto'] burn ['mannerof', 'synonym'] blaze
+meteor ['atlocation'] sky ['atlocation'] smoke ['relatedto'] flame ['relatedto'] blaze
+meteor ['atlocation'] sky ['relatedto', 'atlocation'] star ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto', 'atlocation'] star ['mannerof'] mark ['mannerof'] blaze
+meteor ['atlocation'] sky ['etymologicallyrelatedto'] hose ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['isa'] gas ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['isa'] gas ['relatedto'] flame ['relatedto'] blaze
+meteor ['atlocation'] sky ['relatedto'] altitude ['relatedto'] low ['relatedto'] blaze
+meteor ['atlocation'] sky ['relatedto'] aurora ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] bridge ['relatedto'] burn ['mannerof', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] empyreal ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] ether ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] exposure ['relatedto'] burn ['mannerof', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] force ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] fox ['atlocation'] book ['isa'] blaze
+meteor ['atlocation'] sky ['relatedto', 'synonym'] heaven ['antonym', 'distinctfrom', 'relatedto'] hell ['synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] high ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] high ['antonym', 'distinctfrom', 'relatedto'] low ['relatedto'] blaze
+meteor ['atlocation'] sky ['relatedto'] high ['relatedto'] marijuana ['relatedto'] blaze
+meteor ['atlocation'] sky ['relatedto'] high ['synonym'] blazed ['formof'] blaze
+meteor ['atlocation'] sky ['relatedto'] horizon ['relatedto'] low ['relatedto'] blaze
+meteor ['atlocation'] sky ['relatedto'] iceblink ['relatedto'] glare ['synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] mushroom_cloud ['relatedto'] flame ['relatedto'] blaze
+meteor ['atlocation'] sky ['usedfor', 'relatedto'] rain ['antonym'] shine ['mannerof'] blaze
+meteor ['atlocation'] sky ['relatedto'] rocket ['relatedto'] flare ['relatedto'] blaze
+meteor ['atlocation'] sky ['relatedto'] ruddy ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] area ['relatedto'] low ['relatedto'] blaze
+meteor ['atlocation'] sky ['relatedto'] color ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] fry ['relatedto'] burn ['mannerof', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] look ['relatedto'] glare ['synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] place ['relatedto'] hell ['synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] place ['relatedto'] book ['isa'] blaze
+meteor ['atlocation'] sky ['usedfor', 'relatedto'] sun ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['usedfor', 'relatedto'] sun ['relatedto'] burn ['mannerof', 'synonym'] blaze
+meteor ['atlocation'] sky ['usedfor', 'relatedto'] sun ['desires'] shine ['mannerof'] blaze
+meteor ['atlocation'] sky ['usedfor', 'relatedto'] sun ['relatedto'] glare ['synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] twinkle ['mannerof', 'relatedto'] shine ['mannerof'] blaze
+meteor ['atlocation'] sky ['relatedto'] snow ['distinctfrom'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['atlocation'] sky ['relatedto'] sunshine ['relatedto', 'synonym'] shine ['mannerof'] blaze
+meteor ['atlocation'] sky ['relatedto'] weather ['relatedto'] shine ['mannerof'] blaze
+meteor ['atlocation'] sky ['usedfor'] northern_lights ['isa'] book ['isa'] blaze
+meteor ['isa'] ship ['relatedto'] engage ['synonym'] book ['isa'] blaze
+meteor ['isa'] ship ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['isa'] ship ['relatedto'] water ['antonym', 'synonym'] burn ['mannerof', 'synonym'] blaze
+meteor ['isa'] ship ['relatedto'] departure ['relatedto', 'derivedfrom'] depart ['mannerof'] blaze
+meteor ['isa'] ship ['relatedto'] back ['relatedto'] book ['isa'] blaze
+meteor ['isa'] ship ['partof'] top ['distinctfrom'] low ['relatedto'] blaze
+meteor ['isa'] ship ['relatedto'] board ['antonym'] depart ['mannerof'] blaze
+meteor ['isa'] ship ['atlocation'] border ['relatedto'] mark ['mannerof'] blaze
+meteor ['isa'] ship ['atlocation'] john ['relatedto'] mark ['mannerof'] blaze
+meteor ['isa'] ship ['relatedto', 'derivedfrom'] fireship ['derivedfrom'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['isa'] ship ['hasa', 'relatedto'] bridge ['relatedto'] burn ['mannerof', 'synonym'] blaze
+meteor ['isa'] ship ['isa'] amsterdam ['isa'] book ['isa'] blaze
+meteor ['isa'] ship ['isa'] amsterdam ['atlocation'] marijuana ['relatedto'] blaze
+meteor ['isa'] ship ['isa'] coaster ['relatedto'] burn ['mannerof', 'synonym'] blaze
+meteor ['isa'] ship ['isa'] eclipse ['isa'] book ['isa'] blaze
+meteor ['isa'] ship ['isa'] vehicle ['relatedto'] low ['relatedto'] blaze
+meteor ['isa'] ship ['mannerof'] put ['relatedto'] burn ['mannerof', 'synonym'] blaze
+meteor ['isa'] ship ['mannerof'] hire ['antonym'] fire ['isa', 'relatedto', 'synonym'] blaze
+meteor ['isa'] ship ['partof'] log ['etymologicallyrelatedto'] book ['isa'] blaze
+meteor ['isa'] ship ['partof'] sheet ['relatedto'] book ['isa'] blaze
+meteor ['isa'] ship ['relatedto'] beam ['usedfor', 'relatedto', 'similarto', 'synonym'] shine ['mannerof'] blaze

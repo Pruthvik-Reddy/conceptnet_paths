@@ -1,0 +1,100 @@
+dream ['relatedto'] head ['partof'] match
+dream ['relatedto'] action ['relatedto'] join ['mannerof'] match
+dream ['relatedto'] action ['relatedto'] agree ['relatedto', 'synonym'] match
+dream ['relatedto'] action ['relatedto'] away ['relatedto'] match
+dream ['relatedto'] action ['relatedto'] call ['relatedto'] match
+dream ['relatedto'] action ['relatedto'] cope ['relatedto'] match
+dream ['relatedto'] action ['relatedto'] fight ['relatedto'] match
+dream ['relatedto'] action ['relatedto'] game ['relatedto', 'synonym'] match
+dream ['relatedto'] action ['relatedto'] look ['mannerof'] match
+dream ['relatedto'] action ['relatedto'] peel ['relatedto'] match
+dream ['relatedto'] action ['relatedto'] spark ['relatedto'] match
+dream ['relatedto'] action ['synonym'] achievement ['relatedto'] match
+dream ['relatedto'] action ['synonym'] contest ['isa'] match
+dream ['relatedto'] action ['synonym'] encounter ['relatedto'] match
+dream ['relatedto'] activity ['relatedto'] join ['mannerof'] match
+dream ['relatedto'] activity ['isa', 'relatedto'] game ['relatedto', 'synonym'] match
+dream ['relatedto'] activity ['relatedto'] call ['relatedto'] match
+dream ['relatedto'] activity ['relatedto'] fight ['relatedto'] match
+dream ['relatedto'] activity ['relatedto'] look ['mannerof'] match
+dream ['relatedto'] activity ['relatedto'] race ['relatedto'] match
+dream ['relatedto'] activity ['relatedto'] whole_shooting_match ['derivedfrom'] match
+dream ['relatedto'] sometimes ['relatedto'] ground ['relatedto'] match
+dream ['relatedto'] sometimes ['relatedto'] card ['relatedto'] match
+dream ['relatedto'] sometimes ['relatedto'] head ['partof'] match
+dream ['relatedto'] sometimes ['relatedto'] sock ['relatedto'] match
+dream ['relatedto'] sight ['relatedto'] look ['mannerof'] match
+dream ['relatedto', 'entails', 'hasfirstsubevent', 'hasprerequisite', 'motivatedbygoal'] sleep ['relatedto'] catch ['synonym'] match
+dream ['relatedto'] bad ['relatedto'] commit ['relatedto'] match
+dream ['relatedto'] bad ['relatedto'] sock ['relatedto'] match
+dream ['relatedto'] good ['hasproperty'] agreement ['relatedto'] match
+dream ['relatedto'] good ['relatedto'] fellow ['relatedto'] match
+dream ['relatedto'] good ['relatedto'] fit ['relatedto', 'synonym'] match
+dream ['isa'] band ['relatedto'] ground ['relatedto'] match
+dream ['isa'] band ['relatedto', 'synonym'] set ['relatedto'] match
+dream ['isa'] band ['isa', 'relatedto'] clash ['relatedto'] match
+dream ['isa'] band ['mannerof', 'relatedto'] tie ['relatedto'] match
+dream ['isa'] band ['relatedto'] rubber ['relatedto'] match
+dream ['relatedto'] bed ['relatedto'] square ['mannerof'] match
+dream ['relatedto'] bed ['isa', 'relatedto'] place ['relatedto'] match
+dream ['relatedto'] bed ['mannerof'] supply ['mannerof'] match
+dream ['relatedto'] bed ['relatedto'] double ['relatedto'] match
+dream ['relatedto'] bed ['relatedto'] twin ['mannerof', 'synonym'] match
+dream ['relatedto'] bed ['relatedto'] utensil ['isa'] match
+dream ['relatedto'] happy ['relatedto'] card ['relatedto'] match
+dream ['relatedto'] happy ['relatedto'] fellow ['relatedto'] match
+dream ['relatedto'] time ['relatedto'] answer ['mannerof'] match
+dream ['relatedto'] time ['synonym'] set ['relatedto'] match
+dream ['relatedto'] time ['antonym'] place ['relatedto'] match
+dream ['relatedto'] time ['mannerof'] adjust ['mannerof'] match
+dream ['relatedto'] time ['relatedto'] correspond ['relatedto', 'synonym'] match
+dream ['relatedto'] time ['relatedto'] double ['relatedto'] match
+dream ['relatedto'] time ['relatedto'] game ['relatedto', 'synonym'] match
+dream ['relatedto'] time ['relatedto'] round ['relatedto'] match
+dream ['relatedto'] time ['relatedto'] track ['relatedto'] match
+dream ['relatedto'] see ['synonym'] check ['synonym'] match
+dream ['relatedto'] see ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'entails'] look ['mannerof'] match
+dream ['relatedto'] see ['mannerof'] call ['relatedto'] match
+dream ['relatedto'] see ['mannerof'] card ['relatedto'] match
+dream ['relatedto'] see ['motivatedbygoal'] light_match ['hasprerequisite'] match
+dream ['relatedto'] seeing ['relatedto'] double ['relatedto'] match
+dream ['relatedto'] seeing ['relatedto'] look ['mannerof'] match
+dream ['usedfor'] sky ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] match
+dream ['usedfor'] sky ['relatedto'] straight ['relatedto'] match
+dream ['usedfor'] sky ['relatedto'] head ['partof'] match
+dream ['usedfor'] sky ['relatedto'] look ['mannerof'] match
+dream ['usedfor'] sky ['relatedto'] place ['relatedto'] match
+dream ['relatedto'] head ['relatedto'] fuse ['relatedto'] match
+dream ['relatedto'] head ['relatedto'] place ['relatedto'] match
+dream ['relatedto'] head ['relatedto'] round ['relatedto'] match
+dream ['relatedto'] mind ['relatedto', 'synonym'] head ['partof'] match
+dream ['relatedto'] mind ['relatedto', 'synonym'] look ['mannerof'] match
+dream ['relatedto'] mind ['relatedto'] place ['relatedto'] match
+dream ['relatedto'] nice ['relatedto'] fellow ['relatedto'] match
+dream ['relatedto'] state ['mannerof'] answer ['mannerof'] match
+dream ['relatedto'] state ['relatedto'] away ['relatedto'] match
+dream ['relatedto'] state ['relatedto'] main ['relatedto'] match
+dream ['relatedto'] state ['relatedto'] call ['relatedto'] match
+dream ['relatedto'] state ['relatedto'] fit ['relatedto', 'synonym'] match
+dream ['relatedto'] state ['relatedto'] fixture ['relatedto'] match
+dream ['isa'] company ['relatedto'] join ['mannerof'] match
+dream ['isa'] company ['isa'] square ['mannerof'] match
+dream ['isa'] company ['isa'] head ['partof'] match
+dream ['isa'] company ['isa'] dual ['relatedto'] match
+dream ['isa'] company ['isa'] google ['relatedto'] match
+dream ['isa'] company ['isa'] look ['mannerof'] match
+dream ['isa'] company ['relatedto'] place ['relatedto'] match
+dream ['relatedto'] perfect ['relatedto'] fit ['relatedto', 'synonym'] match
+dream ['relatedto'] life ['relatedto'] mate ['relatedto', 'synonym'] match
+dream ['relatedto'] life ['relatedto'] game ['relatedto', 'synonym'] match
+dream ['relatedto'] think ['relatedto'] agree ['relatedto', 'synonym'] match
+dream ['relatedto'] think ['motivatedbygoal'] answer ['mannerof'] match
+dream ['relatedto'] think ['usedfor', 'relatedto'] head ['partof'] match
+dream ['relatedto'] random ['relatedto'] pattern ['mannerof', 'relatedto'] match
+dream ['relatedto'] pictures ['relatedto'] card ['relatedto'] match
+dream ['isa'] information ['relatedto'] answer ['mannerof'] match
+dream ['isa'] information ['atlocation'] google ['relatedto'] match
+dream ['relatedto'] wild ['relatedto'] card ['relatedto'] match
+dream ['relatedto'] wild ['atlocation'] mouse ['relatedto'] match
+dream ['capableof'] humans ['relatedto'] leg ['relatedto'] match
+dream ['capableof'] humans ['capableof'] light_match ['hasprerequisite'] match

@@ -1,0 +1,100 @@
+mother ['relatedto'] relative ['relatedto'] increase ['mannerof'] swell
+mother ['relatedto'] birth ['relatedto'] act ['mannerof'] swell
+mother ['antonym', 'relatedto'] child ['desires'] balloon ['relatedto'] swell
+mother ['antonym', 'relatedto'] child ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] children ['relatedto'] bag ['relatedto'] swell
+mother ['relatedto'] children ['relatedto'] grow ['mannerof', 'relatedto'] swell
+mother ['relatedto'] adult ['relatedto', 'synonym'] big ['relatedto'] swell
+mother ['relatedto'] relationship ['relatedto'] bosom ['relatedto'] swell
+mother ['relatedto'] human ['hasproperty'] good ['relatedto'] swell
+mother ['relatedto'] human ['relatedto'] neck ['relatedto'] swell
+mother ['relatedto'] human ['relatedto'] posthitis ['relatedto'] swell
+mother ['relatedto'] air ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] wind ['relatedto'] swell
+mother ['relatedto'] air ['relatedto', 'atlocation'] balloon ['relatedto'] swell
+mother ['relatedto'] air ['relatedto'] pump ['relatedto'] swell
+mother ['relatedto'] earth ['antonym', 'relatedto', 'atlocation'] sea ['relatedto'] swell
+mother ['relatedto'] earth ['relatedto', 'atlocation'] ocean ['relatedto'] swell
+mother ['relatedto'] earth ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] earth ['relatedto'] huge ['relatedto'] swell
+mother ['relatedto'] earth ['relatedto'] wind ['relatedto'] swell
+mother ['relatedto'] animal ['relatedto'] chop ['relatedto'] swell
+mother ['relatedto'] animal ['relatedto'] division ['relatedto'] swell
+mother ['relatedto'] home ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] home ['relatedto'] good ['relatedto'] swell
+mother ['relatedto'] superior ['relatedto'] excellent ['relatedto'] swell
+mother ['relatedto'] superior ['relatedto'] fancy ['relatedto'] swell
+mother ['relatedto'] egg ['relatedto'] good ['relatedto'] swell
+mother ['relatedto'] egg ['relatedto'] excellent ['relatedto'] swell
+mother ['relatedto'] egg ['relatedto'] scrambled ['relatedto'] swell
+mother ['relatedto'] egg ['relatedto'] neck ['relatedto'] swell
+mother ['relatedto'] bear ['etymologicallyrelatedto'] burgeon ['relatedto'] swell
+mother ['relatedto'] bear ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] bear ['relatedto'] huge ['relatedto'] swell
+mother ['relatedto'] head ['relatedto'] balloon ['relatedto'] swell
+mother ['relatedto'] head ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] head ['antonym', 'relatedto', 'atlocation'] neck ['relatedto'] swell
+mother ['isa'] book ['relatedto'] social ['relatedto'] swell
+mother ['isa'] book ['relatedto', 'synonym'] volume ['relatedto'] swell
+mother ['relatedto'] kind ['relatedto'] good ['relatedto'] swell
+mother ['relatedto'] kind ['relatedto'] excellent ['relatedto'] swell
+mother ['relatedto'] cow ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] cow ['atlocation'] belly ['mannerof', 'relatedto'] swell
+mother ['relatedto'] female ['relatedto'] bosom ['relatedto'] swell
+mother ['relatedto'] female ['relatedto'] bulbus_glandis ['relatedto'] swell
+mother ['mannerof'] care ['relatedto'] good ['relatedto'] swell
+mother ['mannerof'] care ['relatedto'] well ['relatedto', 'synonym'] swell
+mother ['relatedto'] community ['relatedto'] social ['relatedto'] swell
+mother ['relatedto'] chick ['relatedto'] slang ['relatedto'] swell
+mother ['relatedto'] chicken ['relatedto'] good ['relatedto'] swell
+mother ['relatedto'] chicken ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] chicken ['relatedto'] scrambled ['relatedto'] swell
+mother ['antonym', 'relatedto'] colony ['relatedto'] social ['relatedto'] swell
+mother ['antonym', 'distinctfrom', 'relatedto'] dad ['relatedto'] slang ['relatedto'] swell
+mother ['antonym', 'distinctfrom', 'relatedto', 'similarto', 'formof'] father ['relatedto'] act ['mannerof'] swell
+mother ['isa', 'relatedto', 'synonym'] parent ['relatedto'] act ['mannerof'] swell
+mother ['relatedto'] aglaea ['relatedto'] good ['relatedto'] swell
+mother ['relatedto'] bellyband ['relatedto'] belly ['mannerof', 'relatedto'] swell
+mother ['relatedto'] bitch ['relatedto'] act ['mannerof'] swell
+mother ['relatedto'] brood ['relatedto'] social ['relatedto'] swell
+mother ['relatedto'] family ['relatedto'] social ['relatedto'] swell
+mother ['relatedto'] language ['etymologicallyrelatedto', 'relatedto'] slang ['relatedto'] swell
+mother ['relatedto'] boobs ['relatedto'] bosom ['relatedto'] swell
+mother ['relatedto'] breasts ['distinctfrom'] bosom ['relatedto'] swell
+mother ['relatedto'] figure ['relatedto'] balloon ['relatedto'] swell
+mother ['relatedto'] formal ['relatedto'] well ['relatedto', 'synonym'] swell
+mother ['relatedto'] formal ['antonym'] slang ['relatedto'] swell
+mother ['relatedto'] giving ['hasproperty'] good ['relatedto'] swell
+mother ['relatedto'] kids ['relatedto'] balloon ['relatedto'] swell
+mother ['relatedto'] lady ['relatedto'] good ['relatedto'] swell
+mother ['relatedto'] lady ['relatedto'] elegant ['relatedto'] swell
+mother ['relatedto'] lady ['relatedto'] fancy ['relatedto'] swell
+mother ['relatedto', 'synonym'] mum ['relatedto'] act ['mannerof'] swell
+mother ['relatedto'] woman ['relatedto'] balloon ['relatedto'] swell
+mother ['relatedto'] woman ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] woman ['isa'] wave ['isa', 'relatedto'] swell
+mother ['relatedto'] woman ['relatedto'] bag ['relatedto'] swell
+mother ['relatedto'] woman ['relatedto'] bosom ['relatedto'] swell
+mother ['relatedto'] woman ['relatedto'] plumper ['relatedto'] swell
+mother ['relatedto'] pregnant ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] pregnant ['relatedto'] bag ['relatedto'] swell
+mother ['relatedto'] greatest ['relatedto'] greater ['relatedto'] swell
+mother ['relatedto'] significant ['relatedto'] well ['relatedto', 'synonym'] swell
+mother ['relatedto'] significant ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] membrane ['relatedto'] blister ['mannerof'] swell
+mother ['relatedto'] nait ['relatedto'] good ['relatedto'] swell
+mother ['relatedto'] nature ['relatedto'] chop ['relatedto'] swell
+mother ['relatedto'] nature ['relatedto'] wind ['relatedto'] swell
+mother ['relatedto'] puppy ['antonym'] big ['relatedto'] swell
+mother ['relatedto'] womb ['relatedto'] belly ['mannerof', 'relatedto'] swell
+mother ['relatedto'] relative ['hasproperty'] freedom ['hasproperty'] good ['relatedto'] swell
+mother ['relatedto'] relative ['hasproperty'] truth ['hasproperty'] good ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] ally ['relatedto'] social ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] awareness_ribbon ['relatedto'] social ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] bel ['relatedto'] volume ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] caseload ['relatedto'] volume ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] child ['desires'] balloon ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] child ['relatedto'] big ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] close ['mannerof'] bung ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] close ['relatedto'] bosom ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] close ['relatedto'] wind ['relatedto'] swell
+mother ['relatedto'] relative ['relatedto'] cold ['relatedto'] wind ['relatedto'] swell

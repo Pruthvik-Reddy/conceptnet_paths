@@ -1,0 +1,100 @@
+defense ['usedfor', 'relatedto'] army ['relatedto'] base ['synonym'] build
+defense ['usedfor', 'relatedto'] army ['relatedto'] branch ['relatedto'] build
+defense ['usedfor', 'relatedto'] army ['relatedto'] destroyer ['antonym'] build
+defense ['usedfor', 'relatedto'] army ['relatedto'] rear ['synonym'] build
+defense ['antonym', 'distinctfrom', 'relatedto'] attack ['relatedto'] action ['relatedto'] build
+defense ['antonym', 'distinctfrom', 'relatedto'] attack ['relatedto'] activity ['relatedto'] build
+defense ['antonym', 'distinctfrom', 'relatedto'] attack ['relatedto'] together ['relatedto'] build
+defense ['antonym', 'distinctfrom', 'relatedto'] attack ['relatedto'] put ['relatedto'] build
+defense ['antonym', 'distinctfrom', 'relatedto'] attack ['relatedto'] put_together ['relatedto'] build
+defense ['antonym', 'distinctfrom', 'relatedto'] attack ['relatedto'] tool ['usedfor'] build
+defense ['formof', 'synonym'] defence ['relatedto'] castle ['relatedto'] build
+defense ['relatedto', 'derivedfrom'] defensive ['relatedto'] castle ['relatedto'] build
+defense ['isa'] protection ['isa'] activity ['relatedto'] build
+defense ['isa'] protection ['usedfor'] house ['relatedto'] build
+defense ['isa'] protection ['relatedto'] castle ['relatedto'] build
+defense ['isa'] protection ['relatedto'] beild ['etymologicallyrelatedto'] build
+defense ['isa'] collection ['relatedto'] activity ['relatedto'] build
+defense ['isa'] collection ['relatedto'] forest ['relatedto'] build
+defense ['isa'] collection ['relatedto'] nest ['relatedto'] build
+defense ['isa'] collection ['relatedto'] stuff ['relatedto'] build
+defense ['isa'] collection ['isa'] compilation ['relatedto'] build
+defense ['isa'] organization ['relatedto'] action ['relatedto'] build
+defense ['isa'] organization ['isa'] activity ['relatedto'] build
+defense ['isa'] organization ['relatedto'] big ['relatedto'] build
+defense ['isa'] organization ['relatedto'] board ['usedfor', 'relatedto'] build
+defense ['isa'] organization ['isa', 'relatedto'] branch ['relatedto'] build
+defense ['isa'] organization ['relatedto'] making ['relatedto'] build
+defense ['isa'] organization ['relatedto'] form ['relatedto'] build
+defense ['isa'] organization ['isa', 'relatedto'] structure ['relatedto'] build
+defense ['isa'] organization ['isa'] pool ['relatedto'] build
+defense ['isa'] organization ['relatedto'] place ['relatedto'] build
+defense ['isa'] organization ['relatedto'] plan ['relatedto'] build
+defense ['isa'] organization ['synonym'] constitution ['relatedto'] build
+defense ['isa'] due_process ['derivedfrom'] process ['relatedto'] build
+defense ['isa'] military_action ['synonym'] action ['relatedto'] build
+defense ['isa', 'relatedto'] team ['relatedto'] together ['relatedto'] build
+defense ['isa', 'relatedto'] team ['partof'] player ['relatedto'] build
+defense ['isa', 'relatedto'] team ['relatedto'] place ['relatedto'] build
+defense ['isa', 'relatedto'] team ['relatedto'] work ['relatedto'] build
+defense ['isa'] excuse ['relatedto'] manufacture ['relatedto', 'synonym'] build
+defense ['isa'] stand ['relatedto', 'synonym'] base ['synonym'] build
+defense ['isa'] stand ['mannerof'] put ['relatedto'] build
+defense ['isa'] stand ['relatedto'] erect ['synonym'] build
+defense ['isa'] stand ['relatedto'] place ['relatedto'] build
+defense ['isa'] umbrella ['relatedto'] stretcher ['relatedto'] build
+defense ['partof'] trial ['relatedto'] process ['relatedto'] build
+defense ['relatedto'] ball_hawk ['relatedto'] player ['relatedto'] build
+defense ['relatedto'] battlement ['relatedto'] castle ['relatedto'] build
+defense ['relatedto'] battlement ['relatedto'] castellate ['relatedto'] build
+defense ['relatedto'] bulwark ['etymologicallyrelatedto'] work ['relatedto'] build
+defense ['relatedto'] circuit_intendant ['relatedto'] oversee ['mannerof'] build
+defense ['relatedto'] coverage ['isa'] extent ['relatedto'] build
+defense ['relatedto'] cup ['relatedto'] board ['usedfor', 'relatedto'] build
+defense ['relatedto'] cup ['relatedto'] bottle ['etymologicallyrelatedto'] build
+defense ['relatedto'] cup ['mannerof'] form ['relatedto'] build
+defense ['relatedto'] cup ['relatedto'] player ['relatedto'] build
+defense ['relatedto'] danger ['relatedto'] shorter ['relatedto'] build
+defense ['relatedto'] injury ['relatedto'] break ['antonym'] build
+defense ['relatedto'] injury ['isa', 'relatedto'] burn ['antonym'] build
+defense ['relatedto'] military ['relatedto'] base ['synonym'] build
+defense ['relatedto'] military ['relatedto'] camp ['relatedto'] build
+defense ['relatedto'] protect ['relatedto'] action ['relatedto'] build
+defense ['relatedto'] protect ['relatedto'] castle ['relatedto'] build
+defense ['relatedto'] score ['isa'] break ['antonym'] build
+defense ['relatedto'] score ['relatedto'] play ['relatedto'] build
+defense ['relatedto'] strategy ['relatedto'] action ['relatedto'] build
+defense ['relatedto'] strategy ['relatedto'] plan ['relatedto'] build
+defense ['relatedto'] support ['isa', 'relatedto'] base ['synonym'] build
+defense ['relatedto'] support ['isa'] activity ['relatedto'] build
+defense ['relatedto'] support ['relatedto'] branch ['relatedto'] build
+defense ['relatedto'] support ['relatedto'] structure ['relatedto'] build
+defense ['relatedto'] support ['relatedto'] buildings ['relatedto'] build
+defense ['relatedto'] support ['relatedto'] underbuild ['relatedto'] build
+defense ['relatedto'] support ['relatedto'] vault ['relatedto'] build
+defense ['relatedto'] forework ['relatedto', 'derivedfrom'] work ['relatedto'] build
+defense ['relatedto'] forework ['relatedto'] structure ['relatedto'] build
+defense ['relatedto'] fortification ['relatedto'] strengthen ['relatedto'] build
+defense ['relatedto'] fortification ['relatedto'] work ['relatedto'] build
+defense ['relatedto'] fortification ['isa', 'relatedto'] castle ['relatedto'] build
+defense ['relatedto'] fortify ['relatedto', 'synonym'] strengthen ['relatedto'] build
+defense ['relatedto'] fortify ['synonym'] castle ['relatedto'] build
+defense ['relatedto'] fortify ['relatedto'] inbuild ['relatedto'] build
+defense ['relatedto'] fortress ['relatedto', 'synonym'] castle ['relatedto'] build
+defense ['relatedto'] fortress ['relatedto'] place ['relatedto'] build
+defense ['relatedto'] guard ['relatedto'] branch ['relatedto'] build
+defense ['relatedto'] guard ['relatedto'] part ['relatedto'] build
+defense ['relatedto'] guard ['relatedto'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+defense ['relatedto'] guard ['relatedto'] stuff ['relatedto'] build
+defense ['relatedto'] guard ['relatedto'] player ['relatedto'] build
+defense ['relatedto'] hard_count ['relatedto'] play ['relatedto'] build
+defense ['relatedto'] jack ['relatedto'] increase ['relatedto'] build
+defense ['relatedto'] jack ['mannerof', 'relatedto'] raise ['relatedto'] build
+defense ['relatedto'] jack ['isa', 'relatedto'] tool ['usedfor'] build
+defense ['relatedto'] jack ['synonym'] bob ['relatedto'] build
+defense ['relatedto'] line ['relatedto'] establish ['mannerof', 'relatedto', 'synonym'] build
+defense ['relatedto'] line ['relatedto'] strengthen ['relatedto'] build
+defense ['relatedto'] line ['relatedto'] break ['antonym'] build
+defense ['relatedto'] line ['relatedto'] construct ['relatedto', 'synonym'] build
+defense ['relatedto'] line ['atlocation'] play ['relatedto'] build
+defense ['relatedto'] line ['relatedto', 'atlocation'] place ['relatedto'] build

@@ -1,0 +1,100 @@
+room ['relatedto'] issue ['mannerof'] communicate
+room ['relatedto'] smaller ['relatedto'] plant ['mannerof'] communicate
+room ['relatedto'] affair ['relatedto'] intercourse ['relatedto'] communicate
+room ['atlocation'] human ['capableof'] write ['mannerof', 'motivatedbygoal', 'hasprerequisite'] communicate
+room ['atlocation'] human ['relatedto'] ask ['mannerof'] communicate
+room ['atlocation'] human ['relatedto'] type ['motivatedbygoal'] communicate
+room ['atlocation'] human ['relatedto'] intercourse ['relatedto'] communicate
+room ['atlocation'] human ['relatedto'] language ['relatedto'] communicate
+room ['atlocation'] human ['relatedto'] sound ['usedfor'] communicate
+room ['atlocation'] human ['relatedto'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate
+room ['atlocation'] human ['relatedto'] voice ['usedfor', 'relatedto'] communicate
+room ['relatedto'] crowd ['relatedto'] type ['motivatedbygoal'] communicate
+room ['relatedto'] post ['hasprerequisite'] mail_letter ['motivatedbygoal'] communicate
+room ['relatedto'] post ['mannerof'] call ['usedfor', 'relatedto'] communicate
+room ['relatedto'] post ['relatedto'] address ['mannerof'] communicate
+room ['relatedto'] post ['relatedto'] express ['relatedto'] communicate
+room ['relatedto'] post ['relatedto'] internet ['usedfor'] communicate
+room ['relatedto'] post ['relatedto'] newspaper ['capableof'] communicate
+room ['relatedto'] post ['relatedto'] communication ['relatedto', 'derivedfrom'] communicate
+room ['relatedto'] post ['relatedto'] message ['mannerof', 'relatedto'] communicate
+room ['relatedto'] post ['relatedto', 'synonym'] write ['mannerof', 'motivatedbygoal', 'hasprerequisite'] communicate
+room ['relatedto'] post ['relatedto'] pass ['synonym'] communicate
+room ['relatedto'] post ['relatedto'] relay ['mannerof'] communicate
+room ['relatedto'] post ['relatedto', 'synonym'] carry ['mannerof'] communicate
+room ['relatedto'] post ['relatedto'] inform ['mannerof', 'relatedto'] communicate
+room ['relatedto'] post ['relatedto'] blog ['mannerof'] communicate
+room ['relatedto'] post ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+room ['relatedto'] house ['relatedto', 'atlocation'] plant ['mannerof'] communicate
+room ['relatedto'] house ['relatedto', 'atlocation'] address ['mannerof'] communicate
+room ['relatedto'] house ['atlocation'] newspaper ['capableof'] communicate
+room ['relatedto'] house ['relatedto'] type ['motivatedbygoal'] communicate
+room ['usedfor'] sleep ['relatedto'] plant ['mannerof'] communicate
+room ['relatedto'] around ['relatedto'] pass ['synonym'] communicate
+room ['isa'] position ['relatedto'] carry ['mannerof'] communicate
+room ['relatedto'] silent ['antonym', 'relatedto'] sound ['usedfor'] communicate
+room ['relatedto'] silent ['antonym', 'distinctfrom', 'relatedto'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate
+room ['relatedto'] silent ['relatedto'] prayer ['relatedto'] communicate
+room ['relatedto'] silent ['similarto'] uncommunicative ['relatedto'] communicate
+room ['relatedto'] home ['relatedto'] address ['mannerof'] communicate
+room ['relatedto'] home ['relatedto'] call ['usedfor', 'relatedto'] communicate
+room ['relatedto'] home ['relatedto'] internet ['usedfor'] communicate
+room ['relatedto'] home ['relatedto'] telephone ['isa', 'usedfor'] communicate
+room ['relatedto'] square ['relatedto'] bread ['relatedto'] communicate
+room ['relatedto'] square ['relatedto'] telephone ['isa', 'usedfor'] communicate
+room ['relatedto'] bar ['relatedto', 'atlocation'] wine ['relatedto'] communicate
+room ['relatedto'] bar ['relatedto', 'synonym'] pipe ['relatedto'] communicate
+room ['relatedto'] bar ['relatedto'] conclude ['haslastsubevent'] communicate
+room ['relatedto'] bar ['relatedto'] speak ['relatedto', 'hasfirstsubevent', 'haslastsubevent', 'hasprerequisite', 'isa', 'mannerof'] communicate
+room ['atlocation'] cover ['antonym'] reveal ['relatedto', 'synonym'] communicate
+room ['atlocation'] cover ['mannerof'] bread ['relatedto'] communicate
+room ['atlocation'] cover ['mannerof'] flash ['relatedto'] communicate
+room ['atlocation'] cover ['relatedto'] discuss ['relatedto'] communicate
+room ['atlocation'] cover ['synonym'] address ['mannerof'] communicate
+room ['relatedto'] plate ['relatedto'] type ['motivatedbygoal'] communicate
+room ['isa', 'relatedto'] basement ['atlocation'] wine ['relatedto'] communicate
+room ['relatedto', 'atlocation'] bed ['mannerof', 'relatedto'] plant ['mannerof'] communicate
+room ['relatedto', 'atlocation'] chair ['relatedto'] carry ['mannerof'] communicate
+room ['isa', 'relatedto', 'partof', 'atlocation'] floor ['atlocation'] newspaper ['capableof'] communicate
+room ['isa', 'relatedto', 'partof', 'atlocation'] floor ['relatedto'] call ['usedfor', 'relatedto'] communicate
+room ['isa', 'relatedto', 'partof', 'atlocation'] floor ['relatedto'] type ['motivatedbygoal'] communicate
+room ['usedfor', 'relatedto', 'atlocation'] furniture ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+room ['antonym', 'isa', 'relatedto'] bedroom ['atlocation'] radio ['mannerof'] communicate
+room ['relatedto'] living ['relatedto'] plant ['mannerof'] communicate
+room ['relatedto'] living ['causes'] interaction ['motivatedbygoal'] communicate
+room ['relatedto'] living ['relatedto'] address ['mannerof'] communicate
+room ['relatedto'] living ['relatedto'] spiritualism ['relatedto'] communicate
+room ['antonym', 'isa', 'relatedto'] cell ['relatedto'] plant ['mannerof'] communicate
+room ['antonym', 'isa', 'relatedto'] cell ['relatedto'] call ['usedfor', 'relatedto'] communicate
+room ['antonym', 'isa', 'relatedto'] cell ['etymologicallyrelatedto', 'relatedto'] telephone ['isa', 'usedfor'] communicate
+room ['antonym', 'isa', 'relatedto'] cell ['relatedto'] type ['motivatedbygoal'] communicate
+room ['antonym', 'isa', 'relatedto'] cell ['relatedto'] knowledge ['relatedto'] communicate
+room ['antonym', 'isa', 'relatedto'] hall ['relatedto'] pass ['synonym'] communicate
+room ['antonym'] outside ['relatedto', 'atlocation'] plant ['mannerof'] communicate
+room ['antonym'] outside ['relatedto'] bread ['relatedto'] communicate
+room ['atlocation'] baggage ['antonym'] carry ['mannerof'] communicate
+room ['atlocation'] books ['relatedto'] write ['mannerof', 'motivatedbygoal', 'hasprerequisite'] communicate
+room ['atlocation'] books ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+room ['isa', 'relatedto', 'atlocation'] door ['relatedto'] common ['relatedto'] communicate
+room ['isa', 'relatedto', 'atlocation'] door ['relatedto'] reveal ['relatedto', 'synonym'] communicate
+room ['isa', 'relatedto', 'atlocation'] door ['relatedto'] pass ['synonym'] communicate
+room ['isa', 'relatedto', 'atlocation'] door ['relatedto'] type ['motivatedbygoal'] communicate
+room ['atlocation'] electricity ['relatedto'] type ['motivatedbygoal'] communicate
+room ['atlocation'] light_bulb ['usedfor', 'relatedto'] flash ['relatedto'] communicate
+room ['atlocation'] pillow ['relatedto'] pipe ['relatedto'] communicate
+room ['relatedto', 'atlocation'] school ['atlocation'] radio ['mannerof'] communicate
+room ['relatedto', 'atlocation'] school ['relatedto'] language ['relatedto'] communicate
+room ['relatedto', 'atlocation'] school ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+room ['atlocation'] use ['mannerof'] give ['mannerof'] communicate
+room ['atlocation'] use ['relatedto'] call ['usedfor', 'relatedto'] communicate
+room ['atlocation'] use ['relatedto'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate
+room ['atlocation'] use ['relatedto'] think ['hasprerequisite'] communicate
+room ['atlocation'] use ['relatedto'] listen ['haslastsubevent', 'hasprerequisite'] communicate
+room ['atlocation'] use ['mannerof'] address ['mannerof'] communicate
+room ['atlocation'] use ['mannerof', 'relatedto'] share ['mannerof', 'relatedto'] communicate
+room ['atlocation'] use ['relatedto'] dactylology ['relatedto'] communicate
+room ['atlocation'] use ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+room ['atlocation'] use ['relatedto'] write ['mannerof', 'motivatedbygoal', 'hasprerequisite'] communicate
+room ['atlocation'] use ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+room ['atlocation'] shelf ['atlocation'] plant ['mannerof'] communicate
+room ['atlocation'] shelf ['atlocation'] project ['mannerof'] communicate

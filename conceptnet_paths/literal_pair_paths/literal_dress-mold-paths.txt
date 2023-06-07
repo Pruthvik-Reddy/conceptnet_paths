@@ -1,0 +1,100 @@
+dress ['capableof'] action ['relatedto'] mold
+dress ['relatedto'] black ['relatedto'] mold
+dress ['hasproperty'] blue ['relatedto'] mold
+dress ['relatedto'] drag ['relatedto'] mold
+dress ['mannerof'] change ['mannerof'] mold
+dress ['relatedto'] fashion ['relatedto'] mold
+dress ['relatedto'] fit ['relatedto'] mold
+dress ['capableof'] action ['isa', 'relatedto'] change ['mannerof'] mold
+dress ['capableof'] action ['relatedto'] character ['relatedto'] mold
+dress ['capableof'] action ['relatedto'] cope ['relatedto'] mold
+dress ['capableof'] action ['relatedto'] guide ['relatedto'] mold
+dress ['capableof'] action ['relatedto'] plant ['relatedto'] mold
+dress ['capableof'] action ['relatedto'] stale ['relatedto'] mold
+dress ['capableof'] action ['synonym'] influence ['relatedto'] mold
+dress ['relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] mold
+dress ['relatedto'] activity ['relatedto'] growth ['relatedto'] mold
+dress ['relatedto'] activity ['relatedto'] humus ['relatedto'] mold
+dress ['relatedto'] getting ['hasprerequisite'] action ['relatedto'] mold
+dress ['relatedto'] getting ['relatedto'] growth ['relatedto'] mold
+dress ['relatedto'] short ['relatedto'] blue ['relatedto'] mold
+dress ['relatedto'] red ['antonym', 'distinctfrom', 'relatedto'] blue ['relatedto'] mold
+dress ['relatedto'] red ['antonym', 'distinctfrom', 'relatedto'] green ['relatedto'] mold
+dress ['relatedto'] red ['relatedto'] black ['relatedto'] mold
+dress ['antonym'] man ['distinctfrom'] machine ['usedfor'] mold
+dress ['antonym'] man ['isa'] black ['relatedto'] mold
+dress ['antonym'] man ['relatedto'] form ['isa', 'relatedto'] mold
+dress ['relatedto'] bottom ['relatedto'] ground ['relatedto'] mold
+dress ['relatedto'] bottom ['relatedto'] astragal ['relatedto'] mold
+dress ['relatedto'] bottom ['relatedto'] character ['relatedto'] mold
+dress ['synonym'] set ['relatedto', 'synonym'] plant ['relatedto'] mold
+dress ['synonym'] set ['relatedto', 'synonym'] fixed ['relatedto'] mold
+dress ['synonym'] set ['isa'] core ['relatedto'] mold
+dress ['synonym'] set ['mannerof'] change ['mannerof'] mold
+dress ['synonym'] set ['relatedto'] cast ['relatedto', 'synonym'] mold
+dress ['synonym'] set ['relatedto', 'similarto', 'synonym'] determine ['relatedto', 'synonym'] mold
+dress ['synonym'] set ['relatedto'] fit ['relatedto'] mold
+dress ['relatedto'] arm ['relatedto'] lance ['relatedto'] mold
+dress ['isa', 'relatedto'] clothing ['relatedto'] pattern ['relatedto'] mold
+dress ['isa', 'relatedto'] clothing ['isa'] black ['relatedto'] mold
+dress ['isa', 'relatedto'] clothing ['isa', 'relatedto'] blue ['relatedto'] mold
+dress ['isa', 'relatedto'] clothing ['isa', 'relatedto'] change ['mannerof'] mold
+dress ['isa', 'relatedto'] clothing ['isa', 'relatedto'] drag ['relatedto'] mold
+dress ['isa', 'relatedto'] clothing ['relatedto'] fashion ['relatedto'] mold
+dress ['isa', 'relatedto'] clothing ['relatedto'] fit ['relatedto'] mold
+dress ['isa', 'relatedto'] clothing ['relatedto'] mothball ['relatedto'] mold
+dress ['mannerof'] position ['relatedto'] stale ['relatedto'] mold
+dress ['relatedto'] full ['mannerof'] change ['mannerof'] mold
+dress ['mannerof'] cover ['relatedto'] action ['relatedto'] mold
+dress ['mannerof'] cover ['mannerof'] bread ['relatedto'] mold
+dress ['mannerof'] cover ['mannerof', 'relatedto'] carpet ['atlocation'] mold
+dress ['mannerof'] cover ['mannerof'] spray ['relatedto'] mold
+dress ['mannerof'] cover ['relatedto'] container ['isa'] mold
+dress ['relatedto'] top ['relatedto'] astragal ['relatedto'] mold
+dress ['relatedto'] top ['relatedto'] bread ['relatedto'] mold
+dress ['mannerof'] beautify ['synonym'] ornament ['relatedto'] mold
+dress ['mannerof'] finish ['relatedto'] metal ['relatedto'] mold
+dress ['relatedto'] big ['relatedto'] fashion ['relatedto'] mold
+dress ['relatedto'] big ['relatedto'] flask ['relatedto'] mold
+dress ['relatedto'] night ['relatedto', 'hasproperty'] black ['relatedto'] mold
+dress ['relatedto'] night ['relatedto'] blue ['relatedto'] mold
+dress ['relatedto'] black ['relatedto'] change ['mannerof'] mold
+dress ['relatedto'] black ['relatedto'] fashion ['relatedto'] mold
+dress ['hasproperty'] blue ['antonym', 'distinctfrom', 'relatedto'] green ['relatedto'] mold
+dress ['hasproperty'] blue ['relatedto'] blue_green ['relatedto'] mold
+dress ['relatedto'] body ['relatedto'] ground ['relatedto'] mold
+dress ['relatedto'] body ['relatedto'] container ['isa'] mold
+dress ['relatedto'] body ['relatedto'] form ['isa', 'relatedto'] mold
+dress ['relatedto'] body ['relatedto'] frame ['relatedto'] mold
+dress ['relatedto'] body ['relatedto'] shape ['relatedto', 'synonym'] mold
+dress ['relatedto'] body ['relatedto'] substance ['relatedto'] mold
+dress ['relatedto'] body ['relatedto'] bread ['relatedto'] mold
+dress ['relatedto'] body ['relatedto'] fit ['relatedto'] mold
+dress ['relatedto'] body ['relatedto'] lifecasting ['relatedto'] mold
+dress ['relatedto'] girl ['relatedto'] pig ['relatedto'] mold
+dress ['relatedto'] piece ['relatedto'] black ['relatedto'] mold
+dress ['relatedto'] piece ['relatedto'] bread ['relatedto'] mold
+dress ['relatedto'] piece ['etymologicallyrelatedto'] fit ['relatedto'] mold
+dress ['relatedto'] work ['isa', 'relatedto'] action ['relatedto'] mold
+dress ['relatedto'] work ['mannerof'] scab ['relatedto'] mold
+dress ['relatedto'] work ['relatedto'] fashion ['relatedto'] mold
+dress ['relatedto'] work ['usedfor', 'relatedto'] machine ['usedfor'] mold
+dress ['relatedto'] work ['relatedto'] making ['relatedto'] mold
+dress ['relatedto'] work ['relatedto'] form ['isa', 'relatedto'] mold
+dress ['relatedto'] work ['relatedto', 'synonym'] influence ['relatedto'] mold
+dress ['relatedto'] work ['relatedto', 'synonym'] shape ['relatedto', 'synonym'] mold
+dress ['antonym', 'relatedto'] long ['relatedto'] stale ['relatedto'] mold
+dress ['hasproperty'] dark ['relatedto', 'synonym'] black ['relatedto'] mold
+dress ['hasproperty'] dark ['relatedto'] blue ['relatedto'] mold
+dress ['hasproperty'] dark ['atlocation'] fungus ['antonym', 'isa', 'relatedto', 'synonym'] mold
+dress ['hasproperty'] dark ['relatedto', 'hasproperty'] cellar ['atlocation'] mold
+dress ['relatedto'] female ['relatedto'] fashion ['relatedto'] mold
+dress ['relatedto'] female ['relatedto'] fridge ['atlocation'] mold
+dress ['relatedto'] female ['relatedto'] sow ['relatedto'] mold
+dress ['relatedto'] drag ['relatedto'] casting ['relatedto'] mold
+dress ['relatedto'] drag ['relatedto'] cope ['relatedto'] mold
+dress ['mannerof'] change ['isa', 'relatedto'] action ['relatedto'] mold
+dress ['mannerof'] change ['relatedto'] black ['relatedto'] mold
+dress ['mannerof'] change ['relatedto'] cast ['relatedto', 'synonym'] mold
+dress ['mannerof'] change ['isa', 'relatedto'] development ['relatedto'] mold
+dress ['mannerof'] change ['mannerof'] form ['isa', 'relatedto'] mold

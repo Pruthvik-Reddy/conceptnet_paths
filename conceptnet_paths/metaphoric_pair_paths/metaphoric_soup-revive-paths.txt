@@ -1,0 +1,100 @@
+soup ['relatedto'] comfort ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] revive
+soup ['antonym', 'isa', 'relatedto'] food ['relatedto'] comfort ['synonym'] revive
+soup ['relatedto'] blow ['relatedto'] boom ['mannerof'] revive
+soup ['relatedto'] bread ['relatedto'] life ['relatedto'] revive
+soup ['relatedto'] warm ['relatedto'] comfort ['synonym'] revive
+soup ['relatedto'] warm ['relatedto', 'similarto'] cordial ['relatedto'] revive
+soup ['antonym'] cold ['relatedto'] life ['relatedto'] revive
+soup ['relatedto'] heat ['mannerof', 'relatedto'] reheat ['relatedto'] revive
+soup ['relatedto'] develop ['relatedto'] vitality ['relatedto'] revive
+soup ['relatedto'] eat ['motivatedbygoal'] survive ['etymologicallyrelatedto'] revive
+soup ['relatedto'] eating ['usedfor'] life ['relatedto'] revive
+soup ['relatedto'] healing ['formof', 'relatedto'] heal ['relatedto'] revive
+soup ['relatedto'] healing ['relatedto'] regenerate ['mannerof'] revive
+soup ['relatedto'] comforting ['formof', 'relatedto', 'derivedfrom'] comfort ['synonym'] revive
+soup ['relatedto'] hearty ['relatedto', 'synonym'] cordial ['relatedto'] revive
+soup ['relatedto'] juice ['relatedto'] vitality ['relatedto'] revive
+soup ['relatedto'] lunch ['atlocation'] desk ['relatedto'] return ['relatedto'] revive
+soup ['relatedto'] lunch ['atlocation'] school ['isa'] life ['relatedto'] revive
+soup ['relatedto'] lunch ['relatedto', 'hasproperty'] good ['relatedto'] comfort ['synonym'] revive
+soup ['relatedto'] lunch ['relatedto', 'hasproperty'] good ['hasproperty'] life ['relatedto'] revive
+soup ['relatedto'] lunch ['mannerof', 'relatedto'] eat ['motivatedbygoal'] survive ['etymologicallyrelatedto'] revive
+soup ['relatedto'] lunch ['motivatedbygoal'] kill ['relatedto'] life ['relatedto'] revive
+soup ['relatedto'] lunch ['motivatedbygoal'] kill ['relatedto'] unkill ['synonym'] revive
+soup ['relatedto'] lunch ['relatedto'] bread ['relatedto'] life ['relatedto'] revive
+soup ['relatedto'] lunch ['relatedto'] break ['antonym'] heal ['relatedto'] revive
+soup ['relatedto'] lunch ['relatedto'] food ['relatedto'] comfort ['synonym'] revive
+soup ['relatedto'] lunch ['relatedto'] work ['derivedfrom'] dreamwork ['relatedto'] revive
+soup ['relatedto'] lunch ['usedfor'] sating_hunger ['causes'] comfort ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] freshen ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['antonym', 'relatedto'] earth ['relatedto', 'atlocation'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['antonym', 'relatedto'] bread ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] freshen ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['antonym', 'isa'] food ['relatedto'] comfort ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] boat ['relatedto'] boom ['mannerof'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['atlocation'] bottom ['relatedto'] rear ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] fish ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation', 'hasa', 'madeof', 'partof'] oxygen ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['hasa', 'relatedto', 'atlocation'] brook ['usedfor'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['atlocation'] juice ['relatedto'] vitality ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['hasa', 'relatedto', 'atlocation'] well ['relatedto'] heal ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['capableof'] spring_forth ['capableof'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['distinctfrom', 'relatedto', 'hasa'] blood ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['distinctfrom', 'relatedto', 'hasa'] blood ['relatedto'] vital ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['hasa'] world ['hasa', 'synonym'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] enliven ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] vitality ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] rear ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] resuscitate ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] revivable ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] revivificate ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] revivification ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] vital ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] vivific ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['hasprerequisite'] watering_plant ['causes'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto', 'hasproperty'] clear ['relatedto', 'similarto'] vivid ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['hasproperty'] cold ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto', 'hasproperty'] important ['hasproperty'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto', 'hasproperty'] important ['relatedto'] vital ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['hasproperty'] refreshing ['synonym'] cordial ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['hasproperty'] refreshing ['relatedto'] vitality ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] ammonia ['relatedto'] hartshorn ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] aqueous ['relatedto'] hartshorn ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] board ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] body ['relatedto'] heal ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] bore ['isa'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] buoy ['synonym'] animate ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] buoy ['relatedto'] boom ['mannerof'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] calm ['mannerof'] comfort ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] daily_bread ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] dewy ['synonym'] cordial ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] duck ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] fresh ['relatedto', 'derivedfrom'] freshen ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] heat ['mannerof', 'relatedto'] reheat ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] indigested ['relatedto'] heal ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] issue ['synonym'] return ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] lead ['relatedto'] return ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] membrane ['relatedto'] recover ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] plant ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] plaster ['relatedto'] heal ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] preslug ['relatedto'] recover ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] recharge ['relatedto'] revitalize ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] rice ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] rush ['relatedto'] boom ['mannerof'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] sail ['relatedto'] boom ['mannerof'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] saline ['relatedto'] freshen ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] ship ['relatedto'] boom ['mannerof'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] essential ['relatedto'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] form ['mannerof'] regenerate ['mannerof'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] form ['relatedto'] return ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] necessary ['relatedto'] vital ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] state ['relatedto'] comfort ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] state ['relatedto', 'synonym'] life ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] state ['relatedto'] restore ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] linen ['usedfor'] comfort ['synonym'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] metal ['relatedto'] revivification ['relatedto'] revive
+soup ['madeof', 'relatedto', 'atlocation'] water ['usedfor'] hole ['etymologicallyrelatedto'] heal ['relatedto'] revive
+soup ['relatedto'] alphabet ['relatedto', 'partof'] en ['antonym'] quicken ['relatedto'] revive
+soup ['relatedto'] alphabet ['relatedto'] six ['relatedto'] rear ['relatedto'] revive
+soup ['relatedto'] alphabet ['relatedto'] finite ['hasproperty'] life ['relatedto'] revive

@@ -1,0 +1,100 @@
+currency ['relatedto'] deflate
+currency ['distinctfrom', 'relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] bill ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] coin ['isa', 'relatedto', 'atlocation'] change ['mannerof'] deflate
+currency ['relatedto'] buy ['relatedto'] price ['relatedto'] deflate
+currency ['isa', 'relatedto'] money ['antonym', 'isa', 'relatedto'] change ['mannerof'] deflate
+currency ['isa', 'relatedto'] money ['antonym', 'relatedto'] credit ['relatedto'] deflate
+currency ['isa', 'relatedto'] money ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] paper ['relatedto'] flat ['synonym'] deflate
+currency ['relatedto'] paper ['antonym', 'relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] cent ['relatedto'] change ['mannerof'] deflate
+currency ['isa', 'relatedto'] dollar ['relatedto'] lower ['relatedto'] deflate
+currency ['isa', 'relatedto'] dollar ['antonym', 'relatedto'] change ['mannerof'] deflate
+currency ['isa', 'relatedto'] dollar ['relatedto'] price ['relatedto'] deflate
+currency ['distinctfrom', 'relatedto'] change ['mannerof'] lower ['relatedto'] deflate
+currency ['distinctfrom', 'relatedto'] change ['isa', 'mannerof'] decrease ['mannerof'] deflate
+currency ['distinctfrom', 'relatedto'] change ['mannerof'] collapse ['mannerof'] deflate
+currency ['distinctfrom', 'relatedto'] change ['mannerof'] inflate ['antonym', 'relatedto'] deflate
+currency ['distinctfrom', 'relatedto'] change ['mannerof'] reflate ['etymologicallyrelatedto'] deflate
+currency ['distinctfrom', 'relatedto'] change ['mannerof', 'relatedto', 'synonym'] turn ['mannerof'] deflate
+currency ['isa'] paper_money ['antonym'] change ['mannerof'] deflate
+currency ['isa'] cash ['isa', 'relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] pay ['relatedto'] credit ['relatedto'] deflate
+currency ['relatedto'] pay ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] course ['relatedto'] credit ['relatedto'] deflate
+currency ['relatedto'] exchange ['etymologicallyrelatedto', 'relatedto', 'synonym'] change ['mannerof'] deflate
+currency ['relatedto'] exchange ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] mark ['mannerof'] change ['mannerof'] deflate
+currency ['atlocation'] drawer ['atlocation'] change ['mannerof'] deflate
+currency ['relatedto'] candlestick_chart ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] rate ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] rate ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] debase ['relatedto'] lower ['relatedto'] deflate
+currency ['relatedto'] dime ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] penny ['relatedto', 'atlocation'] change ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] absolute ['relatedto'] flat ['synonym'] deflate
+currency ['relatedto'] real ['antonym'] act ['synonym'] turn ['mannerof'] deflate
+currency ['relatedto'] real ['antonym', 'distinctfrom'] character ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] real ['antonym', 'relatedto'] nominal ['relatedto'] deflation ['relatedto', 'derivedfrom'] deflate
+currency ['relatedto'] real ['antonym', 'distinctfrom', 'relatedto'] fake ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] real ['distinctfrom', 'relatedto'] story ['relatedto'] serialize ['synonym'] deflate
+currency ['relatedto'] real ['isa'] coin ['isa', 'relatedto', 'atlocation'] change ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] authenticate ['relatedto'] credit ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] bit ['relatedto'] compress ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] cast ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] castle ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] concretize ['mannerof'] change ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] deal ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] decreasing_function ['relatedto'] decrease ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] land ['relatedto'] flat ['synonym'] deflate
+currency ['relatedto'] real ['relatedto'] legitimate ['mannerof'] change ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] orientation ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] phase ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] property ['relatedto'] deflationary ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] credibility ['relatedto'] credit ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] number ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] street ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] truth ['relatedto'] deflationary ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] complete ['relatedto'] reduce ['mannerof', 'relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] complete ['relatedto', 'synonym'] turn ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] counterfeit ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] real ['relatedto'] inflation ['relatedto'] inflate ['antonym', 'relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] inflation ['antonym'] deflation ['relatedto', 'derivedfrom'] deflate
+currency ['relatedto'] real ['relatedto'] inflation ['relatedto', 'derivedfrom'] inflationary ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] inflation ['relatedto'] deflationary ['relatedto'] deflate
+currency ['relatedto'] real ['relatedto'] common ['relatedto'] serialize ['synonym'] deflate
+currency ['relatedto'] real ['relatedto'] strictly_decreasing_function ['relatedto'] decrease ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] parallel ['mannerof'] change ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] air ['atlocation'] helium_balloon ['capableof'] deflate
+currency ['relatedto'] current ['relatedto'] earth ['distinctfrom', 'hasproperty'] flat ['synonym'] deflate
+currency ['relatedto'] current ['relatedto', 'synonym'] new ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] current ['antonym'] back ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] current ['antonym'] back ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['antonym'] still ['mannerof'] change ['mannerof'] deflate
+currency ['relatedto'] current ['antonym'] still ['antonym'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['isa', 'relatedto'] rate ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] current ['isa', 'relatedto'] rate ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] current ['relatedto'] blow ['relatedto', 'synonym'] inflate ['antonym', 'relatedto'] deflate
+currency ['relatedto'] current ['relatedto'] bower_barff_process ['relatedto'] reduce ['mannerof', 'relatedto'] deflate
+currency ['relatedto'] current ['relatedto'] also ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] alternating ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] alternation ['synonym'] change ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] alternation ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] description ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] current ['relatedto'] description ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] electrons ['relatedto'] reduce ['mannerof', 'relatedto'] deflate
+currency ['relatedto'] current ['relatedto'] force ['relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] force ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] happening ['isa'] change ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] happening ['isa'] collapse ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] items ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] current ['relatedto'] measure ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] current ['relatedto'] measurement ['relatedto'] price ['relatedto'] deflate
+currency ['relatedto'] current ['relatedto'] measurement ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] motion ['isa', 'relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] motion ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] movement ['isa', 'relatedto'] change ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] movement ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] moving ['relatedto'] turn ['mannerof'] deflate
+currency ['relatedto'] current ['relatedto'] paper ['relatedto'] flat ['synonym'] deflate

@@ -1,0 +1,100 @@
+food ['relatedto'] bar ['isa', 'relatedto'] bolt
+food ['relatedto'] bullet ['relatedto'] bolt
+food ['relatedto'] fast ['relatedto'] bolt
+food ['relatedto'] party ['relatedto'] bolt
+food ['relatedto'] range ['relatedto'] bolt
+food ['relatedto'] roll ['isa'] bolt
+food ['relatedto'] seed ['relatedto'] bolt
+food ['relatedto'] swallow ['mannerof'] bolt
+food ['relatedto'] fire ['causes', 'relatedto'] spark ['relatedto'] bolt
+food ['relatedto'] fire ['relatedto', 'derivedfrom'] firebolt ['derivedfrom'] bolt
+food ['relatedto'] fire ['hasproperty'] useful ['relatedto'] bolt
+food ['relatedto'] fire ['relatedto'] bullet ['relatedto'] bolt
+food ['relatedto'] fire ['relatedto'] escape ['relatedto'] bolt
+food ['relatedto'] fire ['relatedto'] video_game ['isa'] bolt
+food ['relatedto'] fire ['relatedto'] range ['relatedto'] bolt
+food ['relatedto'] fire ['relatedto'] rifle ['partof'] bolt
+food ['antonym', 'isa'] water ['relatedto'] metal ['relatedto'] bolt
+food ['relatedto'] order ['relatedto'] bar ['isa', 'relatedto'] bolt
+food ['relatedto'] order ['relatedto'] secure ['relatedto'] bolt
+food ['relatedto'] order ['relatedto'] security ['relatedto'] bolt
+food ['usedfor'] animal ['isa'] single ['relatedto'] bolt
+food ['usedfor'] animal ['isa', 'relatedto'] fox ['relatedto'] bolt
+food ['usedfor'] animal ['relatedto', 'partof'] head ['partof'] bolt
+food ['usedfor'] animal ['relatedto'] type ['relatedto'] bolt
+food ['usedfor'] animal ['relatedto'] fetter ['relatedto'] bolt
+food ['usedfor'] animal ['relatedto'] mechanical ['relatedto'] bolt
+food ['usedfor'] animal ['relatedto'] move ['mannerof'] bolt
+food ['usedfor'] animal ['relatedto'] party ['relatedto'] bolt
+food ['usedfor'] animal ['relatedto'] toe ['relatedto'] bolt
+food ['relatedto'] plant ['capableof', 'relatedto', 'synonym'] grow ['relatedto'] bolt
+food ['relatedto'] plant ['antonym', 'createdby', 'relatedto'] seed ['relatedto'] bolt
+food ['relatedto'] plant ['isa'] escape ['relatedto'] bolt
+food ['relatedto'] plant ['relatedto', 'partof'] stem ['relatedto'] bolt
+food ['relatedto'] plant ['relatedto'] building ['relatedto'] bolt
+food ['relatedto'] plant ['relatedto'] construction ['relatedto'] bolt
+food ['relatedto'] ankle ['relatedto'] shackle ['relatedto'] bolt
+food ['atlocation'] house ['atlocation'] dresser ['relatedto'] bolt
+food ['atlocation'] house ['atlocation'] iron ['relatedto'] bolt
+food ['atlocation'] house ['hasa', 'relatedto', 'atlocation'] yard ['relatedto'] bolt
+food ['atlocation'] house ['hasa', 'relatedto', 'partof'] door ['relatedto'] bolt
+food ['atlocation'] house ['isa', 'relatedto'] building ['relatedto'] bolt
+food ['atlocation'] house ['madeof'] metal ['relatedto'] bolt
+food ['atlocation'] house ['mannerof', 'relatedto'] chamber ['relatedto'] bolt
+food ['atlocation'] house ['partof'] nail ['antonym', 'relatedto'] bolt
+food ['atlocation'] house ['relatedto'] bar ['isa', 'relatedto'] bolt
+food ['atlocation'] house ['relatedto'] construction ['relatedto'] bolt
+food ['atlocation'] house ['relatedto'] fox ['relatedto'] bolt
+food ['atlocation'] house ['relatedto'] gate ['relatedto'] bolt
+food ['atlocation'] house ['relatedto'] head ['partof'] bolt
+food ['atlocation'] house ['relatedto'] single ['relatedto'] bolt
+food ['atlocation'] house ['relatedto'] type ['relatedto'] bolt
+food ['atlocation'] house ['relatedto'] move ['mannerof'] bolt
+food ['atlocation'] house ['relatedto'] party ['relatedto'] bolt
+food ['atlocation'] house ['relatedto'] pin ['relatedto'] bolt
+food ['relatedto'] apple ['relatedto', 'partof'] stem ['relatedto'] bolt
+food ['relatedto'] apple ['relatedto'] head ['partof'] bolt
+food ['relatedto'] apple ['relatedto'] seed ['relatedto'] bolt
+food ['relatedto'] apple ['relatedto'] shape ['relatedto'] bolt
+food ['relatedto'] apple ['relatedto'] type ['relatedto'] bolt
+food ['relatedto'] apple ['relatedto'] neck ['relatedto'] bolt
+food ['atlocation'] home ['antonym', 'atlocation'] party ['relatedto'] bolt
+food ['atlocation'] home ['atlocation'] dresser ['relatedto'] bolt
+food ['atlocation'] home ['atlocation'] security ['relatedto'] bolt
+food ['atlocation'] home ['relatedto'] door ['relatedto'] bolt
+food ['atlocation'] home ['relatedto'] building ['relatedto'] bolt
+food ['atlocation'] home ['relatedto'] yard ['relatedto'] bolt
+food ['atlocation'] home ['relatedto'] move ['mannerof'] bolt
+food ['atlocation'] home ['relatedto'] range ['relatedto'] bolt
+food ['isa'] good ['relatedto'] useful ['relatedto'] bolt
+food ['isa'] good ['relatedto'] party ['relatedto'] bolt
+food ['isa', 'usedfor', 'relatedto'] egg ['relatedto'] seed ['relatedto'] bolt
+food ['isa', 'usedfor', 'relatedto'] egg ['relatedto'] shape ['relatedto'] bolt
+food ['isa', 'usedfor', 'relatedto'] egg ['relatedto'] neck ['relatedto'] bolt
+food ['isa', 'usedfor', 'relatedto'] egg ['relatedto'] roll ['isa'] bolt
+food ['relatedto'] bar ['atlocation'] fox ['relatedto'] bolt
+food ['relatedto'] bar ['isa'] shackle ['relatedto'] bolt
+food ['relatedto'] bar ['mannerof'] fasten ['usedfor'] bolt
+food ['relatedto'] bar ['relatedto'] building ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] iron ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] metal ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] party ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] shape ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] bit ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] lock ['mannerof', 'relatedto', 'partof'] bolt
+food ['relatedto'] bar ['relatedto'] cheater ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] dart ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] latch ['relatedto'] bolt
+food ['relatedto'] bar ['relatedto'] spar ['relatedto'] bolt
+food ['relatedto'] full ['antonym'] seed ['relatedto'] bolt
+food ['relatedto'] full ['relatedto'] bullet ['relatedto'] bolt
+food ['relatedto'] full ['relatedto'] cloth ['atlocation'] bolt
+food ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] plate ['atlocation'] hutch ['relatedto'] bolt
+food ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] plate ['relatedto'] metal ['relatedto'] bolt
+food ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] plate ['relatedto'] shape ['relatedto'] bolt
+food ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] plate ['relatedto'] type ['relatedto'] bolt
+food ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] plate ['relatedto'] used ['relatedto'] bolt
+food ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] plate ['relatedto'] slide ['relatedto'] bolt
+food ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] plate ['relatedto'] strike_plate ['relatedto'] bolt
+food ['hasprerequisite'] living ['relatedto'] grow ['relatedto'] bolt
+food ['antonym', 'isa', 'relatedto'] beverage ['relatedto'] bar ['isa', 'relatedto'] bolt

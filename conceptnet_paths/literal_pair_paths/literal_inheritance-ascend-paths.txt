@@ -1,0 +1,100 @@
+inheritance ['relatedto'] fall ['antonym'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['antonym', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['relatedto', 'synonym'] ascend
+inheritance ['relatedto'] fall ['antonym'] fly ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym', 'distinctfrom', 'relatedto'] rise ['relatedto', 'synonym'] ascend
+inheritance ['relatedto'] fall ['antonym'] ascent ['relatedto'] ascend
+inheritance ['relatedto'] fall ['causes'] climbing ['relatedto'] ascend
+inheritance ['relatedto'] fall ['mannerof', 'relatedto'] slope ['mannerof', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['mannerof'] travel ['mannerof'] ascend
+inheritance ['relatedto'] fall ['relatedto'] plummet ['antonym'] ascend
+inheritance ['isa'] book ['isa'] fall ['antonym'] ascend
+inheritance ['isa'] book ['relatedto'] translate ['relatedto'] ascend
+inheritance ['relatedto'] tail ['relatedto'] follow ['mannerof'] ascend
+inheritance ['relatedto'] portion ['relatedto'] amount ['relatedto'] ascend
+inheritance ['relatedto'] fee ['relatedto'] amount ['relatedto'] ascend
+inheritance ['relatedto'] aspect ['isa'] surface ['mannerof'] ascend
+inheritance ['relatedto'] aspect ['relatedto'] upcome ['relatedto'] ascend
+inheritance ['relatedto'] heir ['relatedto'] succeed ['relatedto'] ascend
+inheritance ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] inherit ['relatedto'] succeed ['relatedto'] ascend
+inheritance ['isa', 'relatedto', 'partof'] heirloom ['relatedto'] succeed ['relatedto'] ascend
+inheritance ['relatedto'] transmit ['relatedto'] travel ['mannerof'] ascend
+inheritance ['relatedto'] transmit ['mannerof'] translate ['relatedto'] ascend
+inheritance ['relatedto'] windfall ['relatedto', 'derivedfrom'] fall ['antonym'] ascend
+inheritance ['isa'] acquisition ['isa', 'synonym'] accession ['etymologicallyrelatedto'] accede ['etymologicallyrelatedto', 'mannerof'] ascend
+inheritance ['isa'] acquisition ['isa'] assumption ['relatedto'] ascent ['relatedto'] ascend
+inheritance ['isa'] acquisition ['isa'] assumption ['synonym'] ascension ['relatedto'] ascend
+inheritance ['isa'] acquisition ['isa'] succession ['relatedto'] follow ['mannerof'] ascend
+inheritance ['isa'] acquisition ['isa'] succession ['relatedto'] succeed ['relatedto'] ascend
+inheritance ['isa'] acquisition ['relatedto'] adopt ['synonym'] follow ['mannerof'] ascend
+inheritance ['isa'] acquisition ['relatedto'] getting ['relatedto'] arise ['relatedto'] ascend
+inheritance ['isa'] acquisition ['relatedto'] getting ['relatedto'] climb ['relatedto', 'synonym'] ascend
+inheritance ['isa'] acquisition ['relatedto'] getting ['relatedto'] rise ['relatedto', 'synonym'] ascend
+inheritance ['isa'] acquisition ['synonym'] skill ['hasprerequisite'] climbing ['relatedto'] ascend
+inheritance ['isa'] accretion ['relatedto'] accession ['etymologicallyrelatedto'] accede ['etymologicallyrelatedto', 'mannerof'] ascend
+inheritance ['isa'] accretion ['etymologicallyrelatedto'] accrue ['relatedto', 'synonym'] arise ['relatedto'] ascend
+inheritance ['isa'] accretion ['etymologicallyrelatedto'] accrue ['synonym'] fall ['antonym'] ascend
+inheritance ['isa'] accretion ['isa', 'etymologicallyrelatedto'] increase ['antonym'] fall ['antonym'] ascend
+inheritance ['isa'] accretion ['isa', 'etymologicallyrelatedto'] increase ['isa'] amount ['relatedto'] ascend
+inheritance ['isa'] accretion ['isa', 'etymologicallyrelatedto'] increase ['isa', 'relatedto'] rise ['relatedto', 'synonym'] ascend
+inheritance ['isa'] accretion ['isa'] deposition ['relatedto'] surface ['mannerof'] ascend
+inheritance ['isa'] accretion ['relatedto'] concretion ['relatedto'] node ['relatedto'] ascend
+inheritance ['isa'] accretion ['relatedto'] externally ['relatedto'] surface ['mannerof'] ascend
+inheritance ['isa'] accretion ['relatedto'] promote ['relatedto'] succeed ['relatedto'] ascend
+inheritance ['isa'] accretion ['relatedto'] watermark ['relatedto'] surface ['mannerof'] ascend
+inheritance ['relatedto'] fall ['relatedto'] decline ['mannerof'] descend ['antonym', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto'] decline ['relatedto'] plummet ['antonym'] ascend
+inheritance ['relatedto'] fall ['relatedto'] decline ['relatedto', 'synonym'] slope ['mannerof', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['synonym'] accrue ['relatedto', 'synonym'] arise ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto'] action ['relatedto'] arise ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto'] action ['relatedto'] climb ['relatedto', 'synonym'] ascend
+inheritance ['relatedto'] fall ['relatedto'] action ['relatedto'] fly ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto'] action ['relatedto'] follow ['mannerof'] ascend
+inheritance ['relatedto'] fall ['relatedto'] action ['relatedto'] lift ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto'] action ['relatedto'] rise ['relatedto', 'synonym'] ascend
+inheritance ['relatedto'] fall ['relatedto'] action ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto'] action ['relatedto'] travel ['mannerof'] ascend
+inheritance ['relatedto'] fall ['relatedto'] evening ['relatedto'] follow ['mannerof'] ascend
+inheritance ['relatedto'] fall ['haslastsubevent'] land ['antonym', 'haslastsubevent'] fly ['relatedto'] ascend
+inheritance ['relatedto'] fall ['haslastsubevent'] land ['relatedto'] surface ['mannerof'] ascend
+inheritance ['relatedto'] fall ['haslastsubevent'] land ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['isa'] anticlimax ['antonym', 'relatedto'] climax ['relatedto'] ascend
+inheritance ['relatedto'] fall ['isa'] anticlimax ['synonym'] catacosmesis ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto'] bottom ['distinctfrom'] surface ['mannerof'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['antonym'] descend ['antonym', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['relatedto'] lift ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['relatedto', 'synonym'] rise ['relatedto', 'synonym'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['relatedto'] upward ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['synonym'] ascent ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['synonym'] follow ['mannerof'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['synonym'] soar ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['synonym'] surface ['mannerof'] ascend
+inheritance ['relatedto'] fall ['antonym'] arise ['synonym'] uprise ['mannerof', 'synonym'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] node ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['antonym'] arise ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['antonym'] climb ['relatedto', 'synonym'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['antonym'] rise ['relatedto', 'synonym'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['mannerof'] travel ['mannerof'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] catacosmesis ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] catanadromous ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] hemicolectomy ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] melodic_minor_scale ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] penrose_staircase ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] penrose_stairs ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] penrose_steps ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['relatedto'] succeed ['relatedto'] ascend
+inheritance ['relatedto'] fall ['relatedto', 'synonym'] descend ['usedfor'] stairwell ['usedfor'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['antonym'] descend ['antonym', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['antonym', 'relatedto'] ladder ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['formof', 'relatedto', 'hasprerequisite', 'synonym'] climbing ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['isa', 'mannerof', 'relatedto', 'synonym'] rise ['relatedto', 'synonym'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['mannerof'] slope ['mannerof', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['mannerof', 'relatedto', 'synonym'] scale ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['relatedto'] ascending ['formof', 'relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['relatedto'] ascension ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['relatedto', 'synonym'] ascent ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['relatedto'] travel ['mannerof'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['relatedto'] upward ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['relatedto'] clive ['relatedto'] ascend
+inheritance ['relatedto'] fall ['antonym'] climb ['relatedto'] soar ['relatedto'] ascend

@@ -1,0 +1,100 @@
+face ['relatedto'] blush ['relatedto'] glow
+face ['synonym'] look ['mannerof'] glow
+face ['relatedto'] human ['atlocation'] train ['relatedto'] glow
+face ['relatedto'] human ['relatedto'] feel ['mannerof'] glow
+face ['relatedto'] anger ['mannerof'] feel ['mannerof'] glow
+face ['relatedto'] anger ['relatedto'] feeling ['isa'] glow
+face ['relatedto'] anger ['relatedto'] glower ['relatedto'] glow
+face ['relatedto'] anger ['relatedto'] incandescence ['synonym'] glow
+face ['relatedto'] anger ['relatedto'] red_hot ['relatedto'] glow
+face ['relatedto'] anger ['synonym'] inflame ['relatedto'] glow
+face ['partof'] animal ['relatedto'] train ['relatedto'] glow
+face ['relatedto'] social ['relatedto'] mgtow ['relatedto'] glow
+face ['isa', 'relatedto'] appearance ['isa', 'relatedto'] look ['mannerof'] glow
+face ['isa', 'relatedto'] appearance ['relatedto'] shine ['synonym'] glow
+face ['isa', 'relatedto', 'synonym'] front ['synonym'] look ['mannerof'] glow
+face ['mannerof'] cover ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['mannerof'] cover ['relatedto'] scance ['relatedto'] glow
+face ['relatedto'] plate ['madeof', 'relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto'] die ['mannerof'] feel ['mannerof'] glow
+face ['relatedto'] happy ['relatedto'] feel ['mannerof'] glow
+face ['relatedto'] happy ['relatedto'] feeling ['isa'] glow
+face ['relatedto'] happy ['relatedto'] glory ['relatedto'] glow
+face ['relatedto'] see ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'entails'] look ['mannerof'] glow
+face ['relatedto'] see ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto'] blush ['relatedto', 'synonym'] flush ['mannerof'] glow
+face ['relatedto'] blush ['relatedto'] outflush ['relatedto'] glow
+face ['antonym', 'relatedto', 'partof'] body ['relatedto'] heat ['synonym'] glow
+face ['relatedto', 'partof'] head ['relatedto'] train ['relatedto'] glow
+face ['relatedto'] book ['relatedto'] illuminate ['relatedto'] glow
+face ['relatedto'] hand ['relatedto', 'atlocation'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto'] hand ['relatedto'] feel ['mannerof'] glow
+face ['relatedto'] hand ['relatedto'] flush ['mannerof'] glow
+face ['relatedto'] hand ['relatedto'] feeling ['isa'] glow
+face ['mannerof'] line ['relatedto'] train ['relatedto'] glow
+face ['relatedto'] edge ['relatedto'] backlighting ['relatedto'] glow
+face ['relatedto'] two ['relatedto'] look ['mannerof'] glow
+face ['relatedto'] cry ['relatedto'] feeling ['isa'] glow
+face ['relatedto'] smile ['mannerof', 'relatedto', 'synonym'] beam ['synonym'] glow
+face ['relatedto'] smile ['relatedto'] feeling ['isa'] glow
+face ['relatedto'] smile ['relatedto'] look ['mannerof'] glow
+face ['relatedto'] smile ['relatedto'] shine ['synonym'] glow
+face ['relatedto'] round ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto'] doll ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto'] doll ['relatedto'] look ['mannerof'] glow
+face ['relatedto'] eyes ['relatedto'] look ['mannerof'] glow
+face ['relatedto'] part ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto', 'partof', 'atlocation'] eye ['relatedto'] light ['isa', 'relatedto'] glow
+face ['relatedto', 'partof', 'atlocation'] eye ['mannerof', 'relatedto'] look ['mannerof'] glow
+face ['relatedto', 'partof', 'atlocation'] eye ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto', 'partof', 'atlocation'] eye ['relatedto'] eyeshine ['relatedto'] glow
+face ['atlocation'] pimple ['relatedto'] inflame ['relatedto'] glow
+face ['derivedfrom'] lightface ['derivedfrom'] light ['isa', 'relatedto'] glow
+face ['formof', 'relatedto'] faced ['relatedto'] blush ['relatedto'] glow
+face ['isa'] external_anatomical_part ['isa'] burn ['synonym'] glow
+face ['isa'] solid_object ['isa'] glass ['etymologicallyrelatedto'] glow
+face ['isa'] status ['relatedto'] glory ['relatedto'] glow
+face ['mannerof', 'relatedto'] turn ['relatedto'] blush ['relatedto'] glow
+face ['mannerof', 'relatedto'] turn ['relatedto'] heat ['synonym'] glow
+face ['mannerof', 'relatedto'] turn ['relatedto'] flush ['mannerof'] glow
+face ['relatedto', 'partof'] cheek ['relatedto'] blush ['relatedto'] glow
+face ['relatedto', 'partof'] watch ['relatedto', 'similarto', 'synonym', 'entails'] look ['mannerof'] glow
+face ['relatedto', 'partof'] facial ['relatedto'] look ['mannerof'] glow
+face ['relatedto'] backhander ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto'] bandit ['relatedto'] train ['relatedto'] glow
+face ['relatedto'] beak ['relatedto'] beam ['synonym'] glow
+face ['relatedto'] blusher ['relatedto', 'synonym'] blush ['relatedto'] glow
+face ['relatedto'] chimney ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto'] contouring ['relatedto'] blush ['relatedto'] glow
+face ['relatedto'] exposure ['relatedto'] burn ['synonym'] glow
+face ['relatedto', 'synonym'] expression ['relatedto', 'synonym'] look ['mannerof'] glow
+face ['relatedto'] hair ['isa', 'relatedto'] filament ['relatedto'] glow
+face ['relatedto'] cog ['relatedto'] beam ['synonym'] glow
+face ['relatedto'] makeup ['isa', 'relatedto'] blush ['relatedto'] glow
+face ['relatedto'] regard ['relatedto'] feeling ['isa'] glow
+face ['relatedto'] regard ['mannerof', 'relatedto', 'synonym'] look ['mannerof'] glow
+face ['relatedto'] regard ['relatedto', 'synonym'] gaze ['relatedto'] glow
+face ['relatedto'] fireplace ['relatedto'] heat ['synonym'] glow
+face ['relatedto'] fireplace ['relatedto'] light ['isa', 'relatedto'] glow
+face ['relatedto'] flag ['relatedto'] glory ['relatedto'] glow
+face ['relatedto'] gleamer ['relatedto'] shine ['synonym'] glow
+face ['relatedto'] gleamer ['derivedfrom'] gleam ['synonym'] glow
+face ['relatedto'] heliotrope ['relatedto'] light ['isa', 'relatedto'] glow
+face ['relatedto'] kibun ['relatedto'] feeling ['isa'] glow
+face ['relatedto'] leer ['mannerof', 'relatedto'] look ['mannerof'] glow
+face ['relatedto'] lunette ['relatedto'] glass ['etymologicallyrelatedto'] glow
+face ['relatedto'] moon ['relatedto'] light ['isa', 'relatedto'] glow
+face ['relatedto'] pitch ['relatedto'] light ['isa', 'relatedto'] glow
+face ['relatedto'] pretty ['relatedto'] look ['mannerof'] glow
+face ['relatedto'] red_faced ['relatedto'] blush ['relatedto'] glow
+face ['relatedto'] scowl ['relatedto'] glower ['relatedto'] glow
+face ['relatedto'] shadow ['distinctfrom', 'relatedto', 'atlocation'] light ['isa', 'relatedto'] glow
+face ['relatedto'] shadow ['relatedto'] backlighting ['relatedto'] glow
+face ['relatedto', 'synonym'] side ['isa'] beam ['synonym'] glow
+face ['relatedto'] smoke ['relatedto'] burn ['synonym'] glow
+face ['relatedto'] smoke ['relatedto'] light ['isa', 'relatedto'] glow
+face ['relatedto'] smother ['relatedto'] burn ['synonym'] glow
+face ['relatedto'] stroke ['relatedto'] heat ['synonym'] glow
+face ['relatedto'] stroke ['relatedto'] feel ['mannerof'] glow
+face ['synonym'] look ['mannerof'] feel ['mannerof'] glow
+face ['synonym'] look ['mannerof', 'relatedto'] gaze ['relatedto'] glow

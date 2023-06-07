@@ -1,0 +1,100 @@
+cost ['relatedto'] interest ['mannerof'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] interest ['mannerof'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] expensive ['relatedto'] steep ['synonym'] absorb
+cost ['relatedto'] number ['isa', 'relatedto'] root ['relatedto'] absorb
+cost ['antonym'] benefit ['relatedto'] fund ['mannerof'] absorb
+cost ['antonym'] benefit ['relatedto', 'synonym'] use ['synonym'] absorb
+cost ['relatedto'] food ['relatedto'] swallow ['relatedto'] absorb
+cost ['relatedto'] bill ['relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] interest ['relatedto'] learn ['mannerof', 'relatedto'] absorb
+cost ['relatedto'] interest ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] interest ['relatedto'] use ['synonym'] absorb
+cost ['relatedto'] interest ['similarto'] involve ['mannerof'] absorb
+cost ['relatedto'] buy ['relatedto'] consume ['mannerof', 'synonym'] absorb
+cost ['relatedto'] buy ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] buy ['relatedto'] use ['synonym'] absorb
+cost ['relatedto'] buy ['relatedto'] engross ['relatedto', 'synonym'] absorb
+cost ['relatedto'] money ['relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] money ['relatedto'] root ['relatedto'] absorb
+cost ['relatedto'] money ['isa', 'relatedto'] fund ['mannerof'] absorb
+cost ['relatedto'] money ['relatedto'] lickpenny ['relatedto'] absorb
+cost ['relatedto'] money ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] sale ['relatedto'] commercial ['relatedto'] absorb
+cost ['relatedto'] sale ['relatedto'] transaction ['relatedto'] absorb
+cost ['hasa'] change ['mannerof'] separate ['relatedto'] absorb
+cost ['hasa'] change ['mannerof'] receive ['mannerof'] absorb
+cost ['hasa'] change ['mannerof'] assimilate ['mannerof', 'relatedto', 'synonym'] absorb
+cost ['hasa'] change ['mannerof'] assume ['synonym'] absorb
+cost ['hasa'] change ['mannerof'] draw ['synonym'] absorb
+cost ['relatedto'] characteristic ['relatedto'] blackbody ['relatedto'] absorb
+cost ['isa', 'relatedto'] charge ['relatedto'] interest ['mannerof'] absorb
+cost ['isa', 'relatedto'] charge ['mannerof'] overwhelm ['relatedto'] absorb
+cost ['isa', 'relatedto'] charge ['relatedto'] transaction ['relatedto'] absorb
+cost ['isa', 'relatedto'] charge ['relatedto'] use ['synonym'] absorb
+cost ['relatedto'] pay ['relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] pay ['antonym'] receive ['mannerof'] absorb
+cost ['relatedto'] pay ['mannerof', 'relatedto'] defray ['relatedto'] absorb
+cost ['relatedto'] pay ['relatedto'] fund ['mannerof'] absorb
+cost ['relatedto'] pay ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] pay ['relatedto'] use ['synonym'] absorb
+cost ['etymologicallyrelatedto'] choose ['mannerof'] draw ['synonym'] absorb
+cost ['relatedto'] related ['relatedto'] read ['relatedto'] absorb
+cost ['antonym'] income ['relatedto'] interest ['mannerof'] absorb
+cost ['antonym'] revenue ['relatedto'] receive ['mannerof'] absorb
+cost ['distinctfrom', 'relatedto'] profit ['relatedto'] interest ['mannerof'] absorb
+cost ['distinctfrom', 'relatedto'] profit ['relatedto'] commercial ['relatedto'] absorb
+cost ['distinctfrom', 'relatedto'] profit ['relatedto'] transaction ['relatedto'] absorb
+cost ['distinctfrom', 'relatedto'] profit ['relatedto'] use ['synonym'] absorb
+cost ['isa'] capital_expenditure ['relatedto'] fund ['mannerof'] absorb
+cost ['mannerof'] necessitate ['mannerof'] draw ['synonym'] absorb
+cost ['mannerof'] necessitate ['synonym'] involve ['mannerof'] absorb
+cost ['relatedto'] amount ['relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] amount ['relatedto'] capacity ['relatedto'] absorb
+cost ['relatedto'] coase_theorem ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] accounting ['relatedto'] use ['synonym'] absorb
+cost ['relatedto'] accounting ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] fee ['isa', 'relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] host ['relatedto'] receive ['mannerof'] absorb
+cost ['relatedto'] involved ['relatedto'] include ['relatedto'] absorb
+cost ['relatedto'] involved ['formof', 'relatedto'] involve ['mannerof'] absorb
+cost ['relatedto'] item ['relatedto'] sponge ['relatedto'] absorb
+cost ['relatedto'] merchandise ['relatedto'] engage ['relatedto', 'synonym'] absorb
+cost ['relatedto'] paid ['relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] payment_amount ['relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] rate ['relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] store ['relatedto'] root ['relatedto'] absorb
+cost ['relatedto'] store ['synonym'] fund ['mannerof'] absorb
+cost ['relatedto'] supply ['mannerof', 'relatedto'] fund ['mannerof'] absorb
+cost ['relatedto'] supply ['mannerof'] patch ['relatedto'] absorb
+cost ['relatedto'] supply ['relatedto'] use ['synonym'] absorb
+cost ['relatedto'] total ['relatedto'] include ['relatedto'] absorb
+cost ['relatedto'] using ['relatedto'] draw ['synonym'] absorb
+cost ['relatedto'] using ['formof', 'relatedto'] use ['synonym'] absorb
+cost ['relatedto'] habit ['synonym'] use ['synonym'] absorb
+cost ['relatedto'] manner ['relatedto'] assume ['synonym'] absorb
+cost ['relatedto'] way ['synonym'] use ['synonym'] absorb
+cost ['relatedto'] incur ['relatedto', 'synonym'] receive ['mannerof'] absorb
+cost ['relatedto'] damage ['relatedto'] interest ['mannerof'] absorb
+cost ['relatedto'] incoterm ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] rent ['relatedto'] use ['synonym'] absorb
+cost ['relatedto'] rent ['relatedto'] occupy ['relatedto', 'synonym'] absorb
+cost ['relatedto'] run ['isa'] draw ['synonym'] absorb
+cost ['relatedto'] tax ['relatedto'] fund ['mannerof'] absorb
+cost ['relatedto'] tax ['relatedto'] transaction ['relatedto'] absorb
+cost ['relatedto'] admissible ['relatedto'] admit ['mannerof'] involve ['mannerof'] absorb
+cost ['relatedto'] admissible ['relatedto'] admit ['relatedto'] read ['relatedto'] absorb
+cost ['relatedto'] admissible ['relatedto'] admit ['relatedto'] receive ['mannerof'] absorb
+cost ['relatedto'] admissible ['relatedto'] admit ['synonym'] include ['relatedto'] absorb
+cost ['relatedto'] admissible ['relatedto'] capable ['relatedto'] capacity ['relatedto'] absorb
+cost ['relatedto'] admissible ['relatedto'] capable ['relatedto'] protocarnivorous ['relatedto'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] action ['relatedto'] draw ['synonym'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] action ['relatedto'] learn ['mannerof', 'relatedto'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] action ['relatedto'] read ['relatedto'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] action ['relatedto'] receive ['mannerof'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] action ['relatedto'] swallow ['relatedto'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] give ['antonym', 'relatedto'] receive ['mannerof'] absorb
+cost ['isa', 'relatedto'] payment ['relatedto'] give ['mannerof'] use ['synonym'] absorb
+cost ['isa', 'relatedto'] payment ['antonym'] change ['mannerof'] separate ['relatedto'] absorb
+cost ['isa', 'relatedto'] payment ['antonym'] change ['mannerof'] receive ['mannerof'] absorb
+cost ['isa', 'relatedto'] payment ['antonym'] change ['mannerof'] assimilate ['mannerof', 'relatedto', 'synonym'] absorb

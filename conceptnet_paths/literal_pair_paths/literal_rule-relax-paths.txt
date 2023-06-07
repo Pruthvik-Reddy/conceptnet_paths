@@ -1,0 +1,100 @@
+rule ['relatedto'] act ['mannerof'] relax
+rule ['relatedto'] break ['relatedto'] relax
+rule ['relatedto'] establishment ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+rule ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+rule ['relatedto'] act ['relatedto'] listen ['haslastsubevent'] relax
+rule ['relatedto'] act ['relatedto'] remember ['hasprerequisite'] relax
+rule ['relatedto'] act ['relatedto', 'synonym'] work ['antonym'] relax
+rule ['relatedto'] action ['isa', 'relatedto', 'derivedfrom'] act ['mannerof'] relax
+rule ['relatedto'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+rule ['relatedto'] action ['isa', 'relatedto'] work ['antonym'] relax
+rule ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] relax
+rule ['relatedto'] action ['isa', 'relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+rule ['relatedto'] action ['isa'] swing ['relatedto'] relax
+rule ['relatedto'] action ['relatedto'] break ['relatedto'] relax
+rule ['relatedto'] action ['relatedto'] clean ['haslastsubevent'] relax
+rule ['relatedto'] action ['relatedto'] knitting ['causes'] relax
+rule ['relatedto'] action ['relatedto'] listen ['haslastsubevent'] relax
+rule ['relatedto'] action ['relatedto'] remember ['hasprerequisite'] relax
+rule ['relatedto'] action ['relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+rule ['relatedto'] action ['relatedto'] stretch ['antonym'] relax
+rule ['relatedto'] action ['relatedto'] tense ['motivatedbygoal', 'relatedto'] relax
+rule ['relatedto'] action ['relatedto'] think ['hasprerequisite'] relax
+rule ['relatedto'] activity ['isa'] act ['mannerof'] relax
+rule ['relatedto'] activity ['antonym', 'distinctfrom', 'relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+rule ['relatedto'] activity ['isa', 'relatedto'] music ['usedfor', 'causesdesire'] relax
+rule ['relatedto'] activity ['isa'] playing_games ['usedfor'] relax
+rule ['relatedto'] activity ['isa', 'relatedto'] work ['antonym'] relax
+rule ['relatedto'] activity ['relatedto'] icebreaker ['relatedto'] relax
+rule ['relatedto'] activity ['relatedto'] knitting ['causes'] relax
+rule ['relatedto'] activity ['relatedto'] listen ['haslastsubevent'] relax
+rule ['relatedto'] activity ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+rule ['relatedto'] activity ['relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+rule ['relatedto'] activity ['relatedto'] stretch ['antonym'] relax
+rule ['relatedto'] activity ['relatedto'] think ['hasprerequisite'] relax
+rule ['relatedto'] activity ['relatedto'] vacation ['usedfor'] relax
+rule ['relatedto'] almost ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+rule ['relatedto'] exact ['antonym'] change ['mannerof'] relax
+rule ['relatedto'] exact ['antonym'] loose ['relatedto'] relax
+rule ['relatedto'] exact ['relatedto'] clean ['haslastsubevent'] relax
+rule ['relatedto'] short ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+rule ['relatedto'] short ['relatedto'] break ['relatedto'] relax
+rule ['relatedto'] short ['relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+rule ['relatedto'] stick ['antonym'] loose ['relatedto'] relax
+rule ['relatedto'] stick ['relatedto'] pool ['usedfor'] relax
+rule ['relatedto'] stick ['relatedto'] skateboard ['motivatedbygoal'] relax
+rule ['relatedto'] plate ['relatedto'] home ['usedfor'] relax
+rule ['relatedto'] small ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+rule ['relatedto'] small ['relatedto'] change ['mannerof'] relax
+rule ['relatedto'] small ['relatedto'] garden ['usedfor'] relax
+rule ['relatedto'] small ['relatedto'] ocean ['usedfor'] relax
+rule ['relatedto'] straight ['relatedto'] unbend ['mannerof', 'synonym'] relax
+rule ['relatedto'] see ['isa', 'relatedto'] seat ['usedfor'] relax
+rule ['relatedto'] see ['mannerof'] think ['hasprerequisite'] relax
+rule ['relatedto'] head ['relatedto'] music ['usedfor', 'causesdesire'] relax
+rule ['relatedto'] head ['usedfor', 'relatedto'] think ['hasprerequisite'] relax
+rule ['partof'] book ['causesdesire'] sleep ['relatedto', 'hasprerequisite'] relax
+rule ['partof'] book ['isa'] island ['usedfor'] relax
+rule ['partof'] book ['isa', 'relatedto'] work ['antonym'] relax
+rule ['relatedto'] break ['mannerof', 'relatedto'] decay ['relatedto'] relax
+rule ['relatedto'] break ['relatedto', 'synonym'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+rule ['relatedto'] break ['antonym', 'relatedto'] work ['antonym'] relax
+rule ['relatedto'] break ['isa', 'mannerof', 'relatedto'] change ['mannerof'] relax
+rule ['relatedto'] break ['mannerof'] change_state ['mannerof'] relax
+rule ['relatedto'] break ['partof'] pool ['usedfor'] relax
+rule ['relatedto'] break ['usedfor', 'relatedto'] relaxing ['formof', 'relatedto'] relax
+rule ['relatedto'] break ['relatedto'] vacation ['usedfor'] relax
+rule ['relatedto'] break ['relatedto'] icebreaker ['relatedto'] relax
+rule ['relatedto'] break ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+rule ['relatedto'] break ['relatedto'] stretch ['antonym'] relax
+rule ['relatedto'] nice ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+rule ['relatedto'] nice ['hasproperty'] garden ['usedfor'] relax
+rule ['relatedto'] nice ['relatedto'] music ['usedfor', 'causesdesire'] relax
+rule ['relatedto'] call ['relatedto'] home ['usedfor'] relax
+rule ['antonym'] chaos ['antonym'] calm ['relatedto'] relax
+rule ['atlocation'] school ['relatedto'] break ['relatedto'] relax
+rule ['atlocation'] school ['relatedto'] music ['usedfor', 'causesdesire'] relax
+rule ['atlocation'] school ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+rule ['atlocation'] school ['usedfor'] playing_games ['usedfor'] relax
+rule ['relatedto'] castle ['isa', 'relatedto'] home ['usedfor'] relax
+rule ['relatedto'] castle ['relatedto'] seat ['usedfor'] relax
+rule ['relatedto'] line ['relatedto'] home ['usedfor'] relax
+rule ['relatedto'] line ['relatedto'] break ['relatedto'] relax
+rule ['relatedto'] line ['atlocation'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+rule ['relatedto'] line ['relatedto'] clean ['haslastsubevent'] relax
+rule ['relatedto'] line ['usedfor'] play_games ['motivatedbygoal'] relax
+rule ['relatedto'] cheat ['hasprerequisite'] pass_university_exams ['hasfirstsubevent'] relax
+rule ['relatedto'] cheat ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+rule ['relatedto'] fair ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+rule ['relatedto'] fair ['synonym'] clean ['haslastsubevent'] relax
+rule ['relatedto'] command ['relatedto'] listen ['haslastsubevent'] relax
+rule ['relatedto'] follow ['mannerof'] act ['mannerof'] relax
+rule ['antonym'] obey ['relatedto', 'synonym'] listen ['haslastsubevent'] relax
+rule ['antonym'] serve ['mannerof'] act ['mannerof'] relax
+rule ['antonym'] serve ['mannerof', 'relatedto'] work ['antonym'] relax
+rule ['relatedto'] condition ['relatedto'] decay ['relatedto'] relax
+rule ['relatedto'] condition ['relatedto'] clean ['haslastsubevent'] relax
+rule ['relatedto', 'receivesaction'] broken ['formof', 'relatedto'] break ['relatedto'] relax
+rule ['relatedto', 'receivesaction'] broken ['relatedto'] change ['mannerof'] relax
+rule ['relatedto', 'receivesaction'] broken ['relatedto'] garden ['usedfor'] relax
+rule ['relatedto'] control ['relatedto'] loose ['relatedto'] relax

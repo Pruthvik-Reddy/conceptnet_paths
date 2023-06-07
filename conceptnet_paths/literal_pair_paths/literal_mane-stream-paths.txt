@@ -1,0 +1,100 @@
+mane ['relatedto'] long ['relatedto'] branch ['isa', 'relatedto'] stream
+mane ['relatedto'] long ['relatedto'] bridge ['atlocation'] stream
+mane ['relatedto'] long ['relatedto'] canal ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] canoe ['atlocation'] stream
+mane ['relatedto'] long ['relatedto'] course ['isa'] stream
+mane ['relatedto'] long ['relatedto'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+mane ['relatedto'] long ['relatedto'] rope ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] streamer ['relatedto', 'derivedfrom'] stream
+mane ['relatedto'] long ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] horse ['relatedto'] rip ['relatedto'] stream
+mane ['relatedto'] horse ['atlocation'] countryside ['atlocation'] stream
+mane ['relatedto'] horse ['relatedto'] course ['isa'] stream
+mane ['relatedto'] horse ['atlocation'] woods ['atlocation'] stream
+mane ['relatedto'] horse ['relatedto'] burden ['relatedto'] stream
+mane ['relatedto'] horse ['relatedto'] run ['mannerof'] stream
+mane ['relatedto'] horse ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] horse ['relatedto'] rope ['relatedto'] stream
+mane ['relatedto'] face ['relatedto'] spin ['mannerof'] stream
+mane ['relatedto'] neck ['atlocation'] woods ['atlocation'] stream
+mane ['relatedto'] name ['relatedto'] course ['isa'] stream
+mane ['relatedto'] name ['relatedto'] stone ['atlocation'] stream
+mane ['isa', 'relatedto'] hair ['relatedto'] tail ['relatedto'] stream
+mane ['isa', 'relatedto'] hair ['relatedto'] drill ['relatedto'] stream
+mane ['relatedto'] fur ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] furry ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] horses ['atlocation'] countryside ['atlocation'] stream
+mane ['relatedto'] horses ['relatedto'] course ['isa'] stream
+mane ['relatedto'] horses ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] beard ['relatedto'] fish ['atlocation'] stream
+mane ['relatedto'] beard ['relatedto'] burnside ['relatedto'] stream
+mane ['relatedto'] andalusian ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] horsehair ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] black_forest_horse ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] curled_hair ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] manticore ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] snow_lion ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] lions ['relatedto'] main ['relatedto'] water ['relatedto', 'atlocation'] stream
+mane ['relatedto'] lions ['relatedto'] main ['derivedfrom'] mainstem ['relatedto'] stream
+mane ['relatedto'] lions ['relatedto'] main ['isa', 'relatedto'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+mane ['relatedto'] lions ['relatedto'] main ['relatedto'] backstream ['relatedto'] stream
+mane ['relatedto'] lions ['relatedto'] main ['relatedto'] course ['isa'] stream
+mane ['relatedto'] lions ['relatedto'] main ['relatedto'] junction ['relatedto'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['atlocation'] countryside ['atlocation'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['capableof'] swim ['usedfor'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['formof', 'etymologicallyrelatedto', 'relatedto'] born ['relatedto'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['relatedto'] fish ['atlocation'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['relatedto'] forest ['atlocation'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['relatedto'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['relatedto'] sharp ['relatedto'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['relatedto'] woods ['atlocation'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['relatedto'] burden ['relatedto'] stream
+mane ['relatedto'] lions ['antonym', 'relatedto'] bear ['relatedto'] brook ['isa', 'relatedto', 'synonym'] stream
+mane ['relatedto'] lions ['capableof'] hunt ['mannerof'] course ['isa'] stream
+mane ['relatedto'] lions ['capableof'] hunt ['synonym'] run ['mannerof'] stream
+mane ['relatedto'] lions ['capableof'] kill ['mannerof'] draw ['relatedto'] stream
+mane ['relatedto'] lions ['capableof'] kill ['haslastsubevent'] run ['mannerof'] stream
+mane ['relatedto'] lions ['capableof'] kill ['mannerof', 'relatedto'] stone ['atlocation'] stream
+mane ['relatedto'] lions ['capableof'] kill ['relatedto'] creek ['relatedto', 'synonym'] stream
+mane ['relatedto'] lions ['hasa'] fur ['relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] lions ['isa'] animals ['isa', 'relatedto'] fish ['atlocation'] stream
+mane ['relatedto'] lions ['isa'] animals ['hasa', 'relatedto'] tail ['relatedto'] stream
+mane ['relatedto'] lions ['isa'] animals ['relatedto'] lick ['relatedto'] stream
+mane ['relatedto'] lions ['isa'] wild_animals ['atlocation'] forest ['atlocation'] stream
+mane ['relatedto'] lions ['relatedto'] collective_noun ['relatedto'] fish ['atlocation'] stream
+mane ['relatedto'] long ['relatedto'] trough ['relatedto'] riffle ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] trough ['relatedto'] canal ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] trough ['relatedto', 'synonym'] gutter ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] trough ['relatedto'] narrow ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] adjective ['relatedto'] current ['relatedto', 'synonym'] stream
+mane ['relatedto'] long ['relatedto'] adjective ['relatedto'] fresh ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] adjective ['relatedto'] narrow ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] age ['relatedto'] born ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] old ['antonym', 'distinctfrom'] current ['relatedto', 'synonym'] stream
+mane ['relatedto'] long ['relatedto'] old ['antonym', 'distinctfrom'] fresh ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] behind ['relatedto'] motion ['isa'] stream
+mane ['relatedto'] long ['relatedto'] land ['antonym'] cell ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] land ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto', 'atlocation'] stream
+mane ['relatedto'] long ['relatedto'] land ['antonym'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+mane ['relatedto'] long ['relatedto'] land ['relatedto', 'atlocation'] countryside ['atlocation'] stream
+mane ['relatedto'] long ['relatedto'] land ['isa', 'relatedto'] forest ['atlocation'] stream
+mane ['relatedto'] long ['relatedto'] land ['relatedto'] bridge ['atlocation'] stream
+mane ['relatedto'] long ['relatedto'] land ['relatedto'] canal ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] land ['relatedto'] course ['isa'] stream
+mane ['relatedto'] long ['relatedto'] land ['relatedto'] lake ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] land ['relatedto'] mud ['atlocation'] stream
+mane ['relatedto'] long ['relatedto'] land ['relatedto'] wilderness ['atlocation'] stream
+mane ['relatedto'] long ['antonym', 'distinctfrom', 'relatedto'] short ['relatedto'] flash ['relatedto'] stream
+mane ['relatedto'] long ['antonym'] low ['relatedto'] flow ['relatedto', 'synonym'] stream
+mane ['relatedto'] long ['antonym'] low ['relatedto'] burn ['relatedto'] stream
+mane ['relatedto'] long ['antonym'] low ['relatedto'] suppress ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] arm ['relatedto', 'synonym'] branch ['isa', 'relatedto'] stream
+mane ['relatedto'] long ['relatedto'] arm ['relatedto'] narrow ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] arm ['relatedto'] swim ['usedfor'] stream
+mane ['relatedto'] long ['relatedto'] leg ['relatedto'] ability ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] leg ['relatedto', 'synonym'] branch ['isa', 'relatedto'] stream
+mane ['relatedto'] long ['relatedto'] leg ['relatedto'] course ['isa'] stream
+mane ['relatedto'] long ['relatedto'] leg ['relatedto'] run ['mannerof'] stream
+mane ['relatedto'] long ['relatedto'] arrow ['relatedto'] sharp ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] arrow ['relatedto'] draw ['relatedto'] stream
+mane ['relatedto'] long ['relatedto'] article ['synonym'] branch ['isa', 'relatedto'] stream

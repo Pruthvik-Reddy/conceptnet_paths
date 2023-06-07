@@ -1,0 +1,100 @@
+drug ['relatedto'] action ['relatedto'] push
+drug ['relatedto'] blow ['relatedto'] push
+drug ['relatedto'] deal ['mannerof'] push
+drug ['relatedto'] pushing ['formof', 'relatedto', 'synonym'] push
+drug ['mannerof'] inject ['relatedto'] push
+drug ['relatedto'] pusher ['relatedto'] push
+drug ['relatedto'] fix ['antonym'] move ['mannerof', 'relatedto', 'entails'] push
+drug ['relatedto'] fix ['relatedto'] action ['relatedto'] push
+drug ['relatedto'] fix ['synonym'] jam ['mannerof'] push
+drug ['relatedto'] action ['isa', 'relatedto'] drive ['mannerof', 'relatedto'] push
+drug ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] motion ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] away ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] bid ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] blow ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] deal ['mannerof'] push
+drug ['relatedto'] action ['relatedto'] dial ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] draw ['antonym'] push
+drug ['relatedto'] action ['relatedto'] effort ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] fight ['relatedto'] push
+drug ['relatedto'] action ['relatedto', 'synonym'] force ['isa', 'relatedto', 'synonym'] push
+drug ['relatedto'] action ['relatedto'] impulse ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] jolt ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] lift ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+drug ['relatedto'] action ['relatedto'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+drug ['relatedto'] action ['relatedto'] pull ['antonym', 'relatedto'] push
+drug ['relatedto'] action ['relatedto'] pushwall ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] raise ['antonym'] push
+drug ['relatedto'] action ['relatedto'] reach ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] ring ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] roll ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] rub ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] sail ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] sticker ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] stimulation ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] touch ['relatedto'] push
+drug ['relatedto'] action ['relatedto'] travel ['mannerof'] push
+drug ['relatedto'] action ['relatedto'] tuck ['relatedto'] push
+drug ['relatedto'] action ['synonym'] energy ['synonym'] push
+drug ['relatedto'] getting ['hasprerequisite'] action ['relatedto'] push
+drug ['relatedto'] getting ['hasprerequisite'] energy ['synonym'] push
+drug ['relatedto'] getting ['relatedto'] drive ['mannerof', 'relatedto'] push
+drug ['relatedto'] getting ['relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+drug ['relatedto'] getting ['relatedto'] progress ['isa'] push
+drug ['relatedto'] getting ['relatedto'] pull ['antonym', 'relatedto'] push
+drug ['relatedto'] getting ['relatedto'] reach ['relatedto'] push
+drug ['isa'] agent ['relatedto'] action ['relatedto'] push
+drug ['isa'] agent ['relatedto'] client ['relatedto'] push
+drug ['isa'] agent ['relatedto'] server ['relatedto'] push
+drug ['isa'] ecstasy ['relatedto'] roll ['relatedto'] push
+drug ['relatedto'] synergy ['relatedto'] energy ['synonym'] push
+drug ['relatedto'] junk ['atlocation'] drawer ['relatedto'] push
+drug ['relatedto'] demand ['relatedto'] action ['relatedto'] push
+drug ['relatedto'] demand ['relatedto'] pushy ['relatedto', 'derivedfrom'] push
+drug ['relatedto'] demand ['relatedto'] rude ['relatedto'] push
+drug ['relatedto'] demand ['relatedto'] urge ['mannerof'] push
+drug ['relatedto'] dependency ['relatedto'] power ['relatedto'] push
+drug ['relatedto'] blow ['relatedto'] action ['relatedto'] push
+drug ['relatedto'] blow ['relatedto'] someone ['relatedto'] push
+drug ['relatedto'] blow ['etymologicallyrelatedto'] bull ['mannerof'] push
+drug ['relatedto'] blow ['mannerof', 'relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+drug ['relatedto'] blow ['partof'] fight ['relatedto'] push
+drug ['relatedto'] blow ['relatedto'] expel ['relatedto'] push
+drug ['relatedto'] blow ['relatedto'] hard ['relatedto'] push
+drug ['relatedto'] blow ['relatedto', 'synonym'] inflate ['relatedto'] push
+drug ['relatedto'] blow ['relatedto'] movement ['relatedto'] push
+drug ['relatedto'] blow ['relatedto'] moving ['relatedto'] push
+drug ['relatedto'] blow ['relatedto'] nose ['mannerof', 'relatedto'] push
+drug ['relatedto'] blow ['relatedto'] pushing ['formof', 'relatedto', 'synonym'] push
+drug ['relatedto'] body ['relatedto'] crowd ['relatedto', 'synonym'] push
+drug ['relatedto'] body ['relatedto', 'partof'] nose ['mannerof', 'relatedto'] push
+drug ['relatedto'] body ['relatedto', 'partof'] shoulder ['relatedto'] push
+drug ['relatedto'] body ['relatedto'] abdomen ['relatedto'] push
+drug ['relatedto'] body ['relatedto'] movement ['relatedto'] push
+drug ['relatedto'] body ['relatedto'] moving ['relatedto'] push
+drug ['relatedto'] body ['relatedto'] effort ['relatedto'] push
+drug ['relatedto'] body ['relatedto'] elbow ['relatedto'] push
+drug ['relatedto'] body ['relatedto'] lift ['relatedto'] push
+drug ['relatedto'] body ['usedfor', 'relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+drug ['relatedto'] body ['relatedto'] touch ['relatedto'] push
+drug ['relatedto'] head ['antonym'] rub ['relatedto'] push
+drug ['relatedto'] head ['isa'] formation ['relatedto'] push
+drug ['relatedto'] head ['relatedto', 'partof'] nose ['mannerof', 'relatedto'] push
+drug ['relatedto'] head ['relatedto'] abdomen ['relatedto'] push
+drug ['relatedto'] head ['relatedto'] shoulder ['relatedto'] push
+drug ['relatedto'] head ['relatedto'] energy ['synonym'] push
+drug ['relatedto'] head ['relatedto'] progress ['isa'] push
+drug ['atlocation'] bottle ['relatedto'] punt ['entails'] push
+drug ['atlocation'] bottle ['relatedto'] shoulder ['relatedto'] push
+drug ['formof'] drag ['etymologicallyrelatedto', 'relatedto'] draw ['antonym'] push
+drug ['formof'] drag ['isa', 'mannerof', 'relatedto', 'synonym'] pull ['antonym', 'relatedto'] push
+drug ['formof'] drag ['mannerof'] move ['mannerof', 'relatedto', 'entails'] push
+drug ['formof'] drag ['mannerof'] travel ['mannerof'] push
+drug ['formof'] drag ['relatedto'] cue_ball ['relatedto'] push
+drug ['formof'] drag ['relatedto'] tug ['synonym'] push
+drug ['mannerof'] drop ['relatedto'] action ['relatedto'] push
+drug ['mannerof'] drop ['antonym'] lift ['relatedto'] push
+drug ['mannerof'] drop ['distinctfrom', 'relatedto'] raise ['antonym'] push
+drug ['mannerof'] drop ['mannerof'] move ['mannerof', 'relatedto', 'entails'] push

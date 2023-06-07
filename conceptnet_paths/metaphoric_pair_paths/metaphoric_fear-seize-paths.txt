@@ -1,0 +1,100 @@
+fear ['isa', 'relatedto'] apprehension ['relatedto'] seize
+fear ['entails'] apprehend ['similarto'] seize
+fear ['mannerof', 'relatedto'] worry ['relatedto'] seize
+fear ['distinctfrom'] safe ['relatedto'] lock ['relatedto'] seize
+fear ['relatedto'] human ['atlocation'] distress ['synonym'] seize
+fear ['relatedto'] human ['isa'] fang ['relatedto'] seize
+fear ['antonym', 'relatedto'] calm ['relatedto'] worry ['relatedto'] seize
+fear ['relatedto'] sense ['relatedto'] apprehension ['relatedto'] seize
+fear ['isa', 'relatedto'] apprehension ['relatedto', 'derivedfrom'] apprehend ['similarto'] seize
+fear ['isa', 'relatedto'] apprehension ['isa'] capture ['relatedto'] seize
+fear ['isa', 'relatedto'] apprehension ['relatedto', 'synonym'] arrest ['relatedto'] seize
+fear ['isa', 'relatedto'] apprehension ['relatedto'] seizure ['relatedto'] seize
+fear ['isa', 'relatedto'] apprehension ['relatedto'] take_hold ['relatedto'] seize
+fear ['isa', 'relatedto'] apprehension ['synonym'] catch ['mannerof', 'relatedto'] seize
+fear ['isa', 'relatedto'] apprehension ['synonym'] collar ['mannerof', 'relatedto'] seize
+fear ['isa'] book ['isa'] seizure ['relatedto'] seize
+fear ['isa'] book ['relatedto'] bind ['relatedto'] seize
+fear ['isa'] book ['relatedto'] hook ['mannerof'] seize
+fear ['antonym', 'relatedto', 'synonym'] afraid ['relatedto'] apprehension ['relatedto'] seize
+fear ['isa', 'mannerof', 'relatedto'] panic ['isa'] distress ['synonym'] seize
+fear ['isa', 'mannerof', 'relatedto'] panic ['relatedto'] overwhelm ['mannerof'] seize
+fear ['relatedto'] capable ['relatedto'] fast ['relatedto'] seize
+fear ['relatedto', 'synonym'] concern ['relatedto', 'synonym'] worry ['relatedto'] seize
+fear ['relatedto'] condition ['isa', 'relatedto', 'synonym'] circumstance ['relatedto'] seize
+fear ['relatedto'] condition ['relatedto'] fast ['relatedto'] seize
+fear ['antonym'] hope ['relatedto'] opportunity ['relatedto'] seize
+fear ['causes'] committing_murder ['causes'] distress ['synonym'] seize
+fear ['causes'] obstructing_justice ['causes'] arrest ['relatedto'] seize
+fear ['causes', 'relatedto'] pain ['isa', 'relatedto', 'similarto', 'synonym'] distress ['synonym'] seize
+fear ['causes', 'relatedto'] pain ['synonym'] gripe ['relatedto', 'synonym'] seize
+fear ['causes'] reading_news ['causes'] worry ['relatedto'] seize
+fear ['causes'] vampire ['relatedto'] fang ['relatedto'] seize
+fear ['causes'] zombie ['relatedto'] hijack ['relatedto'] seize
+fear ['causesdesire'] run ['relatedto'] fast ['relatedto'] seize
+fear ['definedas'] key ['usedfor', 'relatedto'] lock ['relatedto'] seize
+fear ['definedas'] key ['relatedto'] wrest ['mannerof', 'relatedto'] seize
+fear ['derivedfrom'] never_fear ['relatedto'] worry ['relatedto'] seize
+fear ['entails'] apprehend ['relatedto', 'derivedfrom'] apprehension ['relatedto'] seize
+fear ['entails'] apprehend ['similarto', 'synonym'] catch ['mannerof', 'relatedto'] seize
+fear ['entails'] apprehend ['synonym'] collar ['mannerof', 'relatedto'] seize
+fear ['entails'] apprehend ['relatedto', 'similarto'] capture ['relatedto'] seize
+fear ['entails'] apprehend ['similarto'] arrest ['relatedto'] seize
+fear ['isa', 'relatedto'] alarm ['relatedto', 'synonym'] apprehension ['relatedto'] seize
+fear ['isa', 'relatedto', 'synonym'] dread ['relatedto', 'synonym'] apprehension ['relatedto'] seize
+fear ['isa', 'relatedto'] emotion ['relatedto'] possessed ['relatedto'] seize
+fear ['isa'] displeasure ['isa'] distress ['synonym'] seize
+fear ['mannerof'] regret ['relatedto'] opportunity ['relatedto'] seize
+fear ['mannerof', 'relatedto'] worry ['relatedto', 'similarto'] distress ['synonym'] seize
+fear ['relatedto'] alarming ['relatedto'] apprehension ['relatedto'] seize
+fear ['relatedto'] anxiety ['relatedto'] apprehension ['relatedto'] seize
+fear ['relatedto'] anxiety ['relatedto'] distress ['synonym'] seize
+fear ['relatedto'] anxiety ['isa', 'relatedto', 'synonym'] worry ['relatedto'] seize
+fear ['relatedto'] chill ['isa'] apprehension ['relatedto'] seize
+fear ['relatedto'] danger ['relatedto'] distress ['synonym'] seize
+fear ['relatedto'] danger ['relatedto'] worry ['relatedto'] seize
+fear ['relatedto'] demon ['relatedto'] possessed ['relatedto'] seize
+fear ['relatedto'] emotional_cripple ['relatedto'] worry ['relatedto'] seize
+fear ['relatedto'] false_alarm ['relatedto'] distress ['synonym'] seize
+fear ['relatedto'] angst ['relatedto'] apprehension ['relatedto'] seize
+fear ['relatedto'] anguish ['isa', 'relatedto', 'synonym'] distress ['synonym'] seize
+fear ['relatedto'] anguish ['synonym'] rack ['mannerof'] seize
+fear ['relatedto'] emotional ['relatedto'] distress ['synonym'] seize
+fear ['relatedto'] feeling ['relatedto'] worry ['relatedto'] seize
+fear ['relatedto'] worried ['formof', 'relatedto', 'derivedfrom'] worry ['relatedto'] seize
+fear ['relatedto'] sound ['relatedto'] abstract ['synonym'] seize
+fear ['relatedto'] sound ['relatedto'] fast ['relatedto'] seize
+fear ['relatedto'] sound ['mannerof'] snap ['relatedto'] seize
+fear ['relatedto'] feel ['relatedto'] abstract ['synonym'] seize
+fear ['relatedto'] flay ['relatedto'] lash ['relatedto'] seize
+fear ['relatedto'] hobgoblin ['relatedto'] apprehension ['relatedto'] seize
+fear ['relatedto'] misgive ['mannerof'] worry ['relatedto'] seize
+fear ['relatedto'] phobosophy ['relatedto'] abstract ['synonym'] seize
+fear ['relatedto'] qualm ['relatedto'] apprehension ['relatedto'] seize
+fear ['relatedto'] shock ['isa', 'relatedto'] distress ['synonym'] seize
+fear ['relatedto'] turn_hair ['relatedto'] distress ['synonym'] seize
+fear ['relatedto'] white_knuckle ['relatedto'] apprehension ['relatedto'] seize
+fear ['relatedto'] reassure ['hasfirstsubevent'] comfort_friend ['haslastsubevent'] hold ['relatedto'] seize
+fear ['relatedto'] reassure ['mannerof', 'relatedto', 'synonym'] assure ['distinctfrom'] distress ['synonym'] seize
+fear ['relatedto'] reassure ['mannerof'] calm ['relatedto'] worry ['relatedto'] seize
+fear ['relatedto'] able ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] ability ['relatedto'] hold ['relatedto'] seize
+fear ['relatedto'] able ['antonym'] cane ['usedfor'] hold ['relatedto'] seize
+fear ['relatedto'] able ['similarto', 'relatedto', 'derivedfrom', 'synonym'] capable ['relatedto'] fast ['relatedto'] seize
+fear ['relatedto'] able ['derivedfrom'] stable ['relatedto'] fix ['relatedto'] seize
+fear ['relatedto'] able ['derivedfrom'] stable ['relatedto'] fast ['relatedto'] seize
+fear ['relatedto'] able ['derivedfrom'] table ['relatedto'] upon ['relatedto'] seize
+fear ['relatedto'] able ['etymologicallyrelatedto'] deflagrable ['relatedto'] snap ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] adjective ['relatedto'] fast ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] capacity ['relatedto'] hold ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] capacity ['relatedto'] arrest ['relatedto'] seize
+fear ['relatedto'] able ['relatedto', 'synonym'] good ['distinctfrom'] distress ['synonym'] seize
+fear ['relatedto'] able ['relatedto', 'synonym'] good ['relatedto'] opportunity ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] ready ['synonym'] fix ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] ready ['relatedto'] abstract ['synonym'] seize
+fear ['relatedto'] able ['relatedto'] say ['isa'] opportunity ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] legal ['relatedto'] apprehension ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] legal ['relatedto'] arrest ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] prevent ['mannerof', 'relatedto'] hold ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] prevent ['relatedto'] lock ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] bound ['formof', 'relatedto'] bind ['relatedto'] seize
+fear ['relatedto'] able ['relatedto'] fit ['relatedto'] appropriate ['synonym'] seize

@@ -1,0 +1,100 @@
+mountain ['relatedto'] pass ['mannerof'] negociate
+mountain ['formof', 'relatedto'] mountains ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] form ['relatedto'] treat ['mannerof'] negociate
+mountain ['relatedto'] mass ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] physical ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] range ['partof'] pass ['mannerof'] negociate
+mountain ['relatedto'] task ['relatedto'] sell ['mannerof'] negociate
+mountain ['relatedto'] mountain_pass ['derivedfrom', 'synonym'] pass ['mannerof'] negociate
+mountain ['relatedto'] notch ['relatedto', 'synonym'] pass ['mannerof'] negociate
+mountain ['relatedto'] pass ['mannerof', 'relatedto'] transfer ['mannerof'] negociate
+mountain ['relatedto'] point ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] earth ['definedas', 'relatedto'] round ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] earth ['hasa'] surface ['relatedto'] transfer ['mannerof'] negociate
+mountain ['relatedto'] earth ['isa'] location ['isa'] pass ['mannerof'] negociate
+mountain ['relatedto'] earth ['mannerof', 'relatedto'] hide ['relatedto'] dicker ['mannerof'] negociate
+mountain ['relatedto'] earth ['relatedto'] carry ['mannerof'] transfer ['mannerof'] negociate
+mountain ['relatedto'] earth ['relatedto'] dig ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] earth ['relatedto'] ball ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] advance ['mannerof', 'relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['atlocation'] dog ['relatedto'] treat ['mannerof'] negociate
+mountain ['antonym'] ground ['atlocation'] money ['motivatedbygoal', 'relatedto'] sell ['mannerof'] negociate
+mountain ['antonym'] ground ['atlocation'] money ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym'] ground ['isa', 'relatedto'] surface ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym'] ground ['isa'] connection ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym'] ground ['mannerof'] throw ['isa', 'mannerof', 'relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['mannerof'] reach ['synonym'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] bottom ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] drop ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] end ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] grade ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] football ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] football_play ['isa', 'relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] house ['usedfor'] sell ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] play ['distinctfrom', 'relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] round ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] term ['relatedto'] negotiate ['synonym'] negociate
+mountain ['antonym'] ground ['relatedto'] market ['relatedto'] sell ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] post ['mannerof'] transfer ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] post ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] range ['partof'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] road ['relatedto', 'synonym'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] roll ['relatedto'] treat ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] seep ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] slip ['mannerof', 'relatedto'] pass ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] slip ['relatedto'] broker ['mannerof'] negociate
+mountain ['antonym'] ground ['relatedto'] tail_lift ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] action ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] action ['relatedto'] sell ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['haslastsubevent'] fall ['synonym'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] bridge ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] canal ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] carry ['mannerof'] transfer ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] excamb ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] hide ['relatedto'] dicker ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] house ['usedfor'] sell ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] mass ['relatedto'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] term ['relatedto'] negotiate ['synonym'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] iron ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] plate ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] surface ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] play ['distinctfrom', 'relatedto'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] profit ['relatedto'] sell ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] range ['partof'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] retrocession ['relatedto'] transfer ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] road ['relatedto', 'synonym'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto', 'synonym'] state ['synonym'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] thrust ['synonym'] pass ['mannerof'] negociate
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] transgress ['mannerof'] pass ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] bar ['relatedto'] treat ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] bone ['relatedto'] treat ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] book ['isa'] broker ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] cake ['relatedto'] treat ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] condition ['relatedto'] treat ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] condition ['synonym'] pass ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] cut ['mannerof'] pass ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] door ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] head ['synonym'] pass ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] mass ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] shock ['mannerof'] treat ['mannerof'] negociate
+mountain ['relatedto'] sometimes ['relatedto'] steel ['relatedto'] treat ['mannerof'] negociate
+mountain ['relatedto'] apex ['relatedto'] advance ['mannerof', 'relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] apex ['antonym'] bottom ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] apex ['relatedto'] point ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] apex ['relatedto'] purchase ['relatedto'] sell ['mannerof'] negociate
+mountain ['relatedto'] apex ['relatedto'] root ['relatedto'] treat ['mannerof'] negociate
+mountain ['relatedto'] apex ['relatedto'] success ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] apex ['relatedto'] surface ['relatedto'] transfer ['mannerof'] negociate
+mountain ['relatedto'] apex ['relatedto'] tip ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] apex ['synonym'] end ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] backslope ['relatedto'] bank ['relatedto'] transfer ['mannerof'] negociate
+mountain ['relatedto'] top ['relatedto'] remove ['mannerof', 'relatedto', 'synonym'] transfer ['mannerof'] negociate
+mountain ['relatedto'] top ['relatedto'] ahead ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] top ['antonym', 'distinctfrom', 'relatedto'] bottom ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] top ['relatedto', 'synonym'] cover ['synonym'] treat ['mannerof'] negociate
+mountain ['relatedto'] top ['relatedto'] plate ['relatedto'] transfer ['mannerof'] negociate
+mountain ['relatedto'] top ['isa', 'relatedto', 'synonym'] head ['synonym'] pass ['mannerof'] negociate
+mountain ['relatedto'] top ['isa'] turn ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] top ['mannerof'] reach ['synonym'] pass ['mannerof'] negociate
+mountain ['relatedto'] top ['partof'] ship ['relatedto'] pass ['mannerof'] negociate
+mountain ['relatedto'] top ['relatedto'] business ['relatedto'] negotiate ['synonym'] negociate

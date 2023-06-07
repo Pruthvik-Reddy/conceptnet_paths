@@ -1,0 +1,100 @@
+employee ['relatedto'] man ['distinctfrom'] machine ['usedfor'] dump
+employee ['relatedto'] man ['relatedto'] break ['relatedto'] dump
+employee ['relatedto'] man ['relatedto'] system ['relatedto'] dump
+employee ['antonym'] chief ['relatedto'] boat ['relatedto'] dump
+employee ['antonym'] chief ['relatedto'] lead ['relatedto'] dump
+employee ['antonym'] chief ['relatedto'] site ['isa', 'relatedto'] dump
+employee ['antonym', 'relatedto'] servant ['relatedto'] inside ['relatedto'] dump
+employee ['atlocation'] office ['relatedto'] boring ['relatedto'] dump
+employee ['atlocation'] office ['relatedto'] copy ['isa', 'relatedto'] dump
+employee ['atlocation'] office ['atlocation'] machine ['usedfor'] dump
+employee ['atlocation'] office ['relatedto'] inside ['relatedto'] dump
+employee ['atlocation'] office ['relatedto'] defecation ['relatedto'] dump
+employee ['atlocation'] office ['relatedto'] program ['relatedto'] dump
+employee ['atlocation'] office ['relatedto'] storage ['relatedto'] dump
+employee ['desires'] raise ['distinctfrom', 'relatedto'] drop ['mannerof'] dump
+employee ['isa'] bartender ['relatedto'] tip ['relatedto'] dump
+employee ['isa'] copywriter ['relatedto'] copy ['isa', 'relatedto'] dump
+employee ['isa', 'relatedto'] worker ['relatedto'] program ['relatedto'] dump
+employee ['isa', 'relatedto'] hireling ['relatedto'] unpleasant ['relatedto'] dump
+employee ['relatedto', 'partof'] company ['relatedto'] sell ['mannerof', 'relatedto'] dump
+employee ['relatedto'] casekeeper ['relatedto'] counter ['relatedto'] dump
+employee ['relatedto'] change_management ['relatedto'] system ['relatedto'] dump
+employee ['relatedto'] company_car ['relatedto'] car ['relatedto'] dump
+employee ['relatedto'] e_benefits ['relatedto'] system ['relatedto'] dump
+employee ['relatedto'] work ['relatedto', 'hasproperty'] boring ['relatedto'] dump
+employee ['relatedto'] work ['antonym', 'relatedto'] break ['relatedto'] dump
+employee ['relatedto'] work ['usedfor', 'relatedto'] machine ['usedfor'] dump
+employee ['relatedto'] individual ['relatedto'] drop ['mannerof'] dump
+employee ['relatedto'] individual ['relatedto'] system ['relatedto'] dump
+employee ['relatedto'] excess ['relatedto'] waste ['relatedto'] dump
+employee ['relatedto'] excess ['relatedto'] lead ['relatedto'] dump
+employee ['relatedto'] guard ['relatedto'] car ['relatedto'] dump
+employee ['relatedto'] guard ['relatedto'] machine ['usedfor'] dump
+employee ['relatedto'] guard ['relatedto'] program ['relatedto'] dump
+employee ['relatedto'] hatchet_man ['relatedto'] unpleasant ['relatedto'] dump
+employee ['relatedto'] holiday ['relatedto'] break ['relatedto'] dump
+employee ['relatedto'] labour_law ['relatedto'] relationship ['relatedto'] dump
+employee ['relatedto'] lateral ['relatedto'] tip ['relatedto'] dump
+employee ['relatedto'] monkey ['relatedto'] mess ['relatedto'] dump
+employee ['relatedto'] page ['relatedto'] dirty ['relatedto'] dump
+employee ['relatedto'] page ['relatedto'] contents ['relatedto'] dump
+employee ['relatedto'] page ['relatedto'] copy ['isa', 'relatedto'] dump
+employee ['relatedto'] page ['relatedto'] inside ['relatedto'] dump
+employee ['relatedto'] pay ['antonym'] sell ['mannerof', 'relatedto'] dump
+employee ['relatedto'] performance_driven ['relatedto'] system ['relatedto'] dump
+employee ['relatedto'] portability ['relatedto'] program ['relatedto'] dump
+employee ['relatedto'] portability ['relatedto'] system ['relatedto'] dump
+employee ['relatedto'] report ['relatedto'] data ['relatedto'] dump
+employee ['relatedto'] telltale ['relatedto'] lead ['relatedto'] dump
+employee ['relatedto'] telltale ['relatedto'] machine ['usedfor'] dump
+employee ['relatedto'] telltale ['relatedto'] counter ['relatedto'] dump
+employee ['relatedto'] temp ['relatedto'] storage ['relatedto'] dump
+employee ['relatedto'] termination ['isa'] release ['relatedto'] dump
+employee ['relatedto'] tip_wage_credit ['relatedto'] tip ['relatedto'] dump
+employee ['relatedto'] valet ['relatedto'] car ['relatedto'] dump
+employee ['relatedto'] cooperative ['antonym'] contrarious ['relatedto'] counter ['relatedto'] dump
+employee ['relatedto'] cooperative ['derivedfrom'] cooperativity ['relatedto'] site ['isa', 'relatedto'] dump
+employee ['relatedto'] cooperative ['isa'] organization ['isa', 'synonym'] machine ['usedfor'] dump
+employee ['relatedto'] cooperative ['isa'] organization ['antonym'] mess ['relatedto'] dump
+employee ['relatedto'] cooperative ['isa'] organization ['isa'] listing ['relatedto'] dump
+employee ['relatedto'] cooperative ['isa'] organization ['isa'] disposal ['relatedto'] dump
+employee ['relatedto'] cooperative ['isa'] organization ['usedfor', 'relatedto', 'synonym'] system ['relatedto'] dump
+employee ['relatedto'] cooperative ['isa'] commercial_enterprise ['isa'] storage ['relatedto'] dump
+employee ['relatedto'] cooperative ['isa'] association ['relatedto'] relationship ['relatedto'] dump
+employee ['relatedto'] cooperative ['relatedto'] company ['relatedto'] sell ['mannerof', 'relatedto'] dump
+employee ['relatedto'] cooperative ['relatedto'] takaful ['relatedto'] system ['relatedto'] dump
+employee ['relatedto'] man ['relatedto'] establishment ['relatedto'] coin ['relatedto'] dump
+employee ['relatedto'] man ['relatedto'] presence ['relatedto'] relationship ['relatedto'] dump
+employee ['relatedto'] man ['relatedto'] child ['relatedto'] data ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'isa', 'relatedto'] adult ['relatedto'] cat ['relatedto'] dump
+employee ['relatedto'] man ['relatedto'] affair ['antonym', 'relatedto'] relationship ['relatedto'] dump
+employee ['relatedto'] man ['relatedto', 'synonym'] human ['antonym'] machine ['usedfor'] dump
+employee ['relatedto'] man ['relatedto', 'synonym'] human ['atlocation'] boat ['relatedto'] dump
+employee ['relatedto'] man ['relatedto', 'synonym'] human ['relatedto'] dance ['relatedto'] dump
+employee ['relatedto'] man ['relatedto', 'synonym'] human ['relatedto'] waste ['relatedto'] dump
+employee ['relatedto'] man ['relatedto'] old ['relatedto'] unfashionable ['relatedto'] dump
+employee ['relatedto'] man ['relatedto'] alien ['relatedto'] bug ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'distinctfrom'] animal ['distinctfrom'] bug ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] cat ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto'] system ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto'] drop ['mannerof'] dump
+employee ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto'] mess ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'relatedto'] baby ['relatedto'] cat ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'relatedto'] farmer ['relatedto'] dirty ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'distinctfrom', 'relatedto', 'isa'] woman ['isa', 'relatedto'] cat ['relatedto'] dump
+employee ['relatedto'] man ['antonym'] nature ['atlocation'] cat ['relatedto'] dump
+employee ['relatedto'] man ['antonym'] nature ['atlocation'] system ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'relatedto'] prisoner ['relatedto'] inside ['relatedto'] dump
+employee ['relatedto'] man ['antonym', 'relatedto'] servant ['relatedto'] inside ['relatedto'] dump
+employee ['relatedto'] man ['derivedfrom'] superman ['relatedto'] release ['relatedto'] dump
+employee ['relatedto'] man ['derivedfrom'] superman ['relatedto'] lead ['relatedto'] dump
+employee ['relatedto'] man ['distinctfrom'] machine ['isa', 'relatedto', 'synonym'] car ['relatedto'] dump
+employee ['relatedto'] man ['distinctfrom'] machine ['relatedto'] cat ['relatedto'] dump
+employee ['relatedto'] man ['distinctfrom'] machine ['relatedto'] copy ['isa', 'relatedto'] dump
+employee ['relatedto'] man ['etymologicallyrelatedto'] alderman ['relatedto'] coin ['relatedto'] dump
+employee ['relatedto'] man ['etymologicallyrelatedto'] leadsman ['etymologicallyrelatedto', 'relatedto'] lead ['relatedto'] dump
+employee ['relatedto'] man ['etymologicallyrelatedto'] resurrection_man ['relatedto'] sell ['mannerof', 'relatedto'] dump
+employee ['relatedto'] man ['isa'] black ['relatedto'] lead ['relatedto'] dump
+employee ['relatedto'] man ['isa', 'relatedto'] bull ['relatedto'] coin ['relatedto'] dump
+employee ['relatedto'] man ['isa', 'relatedto'] father ['relatedto'] relationship ['relatedto'] dump

@@ -1,0 +1,100 @@
+music ['relatedto', 'hasproperty'] good ['relatedto'] swell
+music ['relatedto'] pod ['relatedto'] swell
+music ['relatedto'] nothing ['antonym'] act ['mannerof'] swell
+music ['relatedto'] nothing ['relatedto'] wind ['relatedto'] swell
+music ['isa', 'relatedto'] activity ['isa'] act ['mannerof'] swell
+music ['isa', 'relatedto'] activity ['relatedto'] grow ['mannerof', 'relatedto'] swell
+music ['isa', 'relatedto'] activity ['relatedto'] wave ['isa', 'relatedto'] swell
+music ['relatedto'] rest ['relatedto'] slang ['relatedto'] swell
+music ['relatedto'] rest ['relatedto'] standing ['relatedto'] swell
+music ['relatedto'] rest ['relatedto'] wind ['relatedto'] swell
+music ['relatedto'] together ['antonym'] division ['relatedto'] swell
+music ['relatedto'] together ['relatedto'] well ['relatedto', 'synonym'] swell
+music ['relatedto'] sometimes ['relatedto'] belly ['mannerof', 'relatedto'] swell
+music ['relatedto'] periodic ['relatedto'] wave ['isa', 'relatedto'] swell
+music ['relatedto'] arrangement ['relatedto'] act ['mannerof'] swell
+music ['distinctfrom', 'relatedto'] art ['relatedto'] fancy ['relatedto'] swell
+music ['distinctfrom', 'relatedto'] art ['relatedto'] good ['relatedto'] swell
+music ['antonym'] quiet ['relatedto'] volume ['relatedto'] swell
+music ['hasproperty'] bad ['antonym', 'distinctfrom', 'relatedto'] good ['relatedto'] swell
+music ['hasproperty'] bad ['antonym'] excellent ['relatedto'] swell
+music ['hasproperty'] bad ['antonym'] well ['relatedto', 'synonym'] swell
+music ['hasproperty'] bad ['synonym'] big ['relatedto'] swell
+music ['relatedto', 'hasproperty'] good ['relatedto'] act ['mannerof'] swell
+music ['relatedto', 'hasproperty'] good ['relatedto'] excellent ['relatedto'] swell
+music ['relatedto', 'hasproperty'] good ['relatedto', 'synonym'] well ['relatedto', 'synonym'] swell
+music ['relatedto', 'hasproperty'] good ['relatedto'] wave ['isa', 'relatedto'] swell
+music ['relatedto'] band ['antonym'] act ['mannerof'] swell
+music ['relatedto'] band ['relatedto'] division ['relatedto'] swell
+music ['usedfor', 'relatedto'] guitar ['relatedto', 'partof'] neck ['relatedto'] swell
+music ['relatedto'] orchestra ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] orchestra ['relatedto'] huge ['relatedto'] swell
+music ['relatedto'] cover ['relatedto'] terrain ['relatedto'] swell
+music ['relatedto'] top ['relatedto'] excellent ['relatedto'] swell
+music ['relatedto'] top ['relatedto'] wave ['isa', 'relatedto'] swell
+music ['relatedto'] bass ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] bass ['relatedto'] huge ['relatedto'] swell
+music ['relatedto'] beautiful ['synonym'] excellent ['relatedto'] swell
+music ['relatedto'] beautiful ['relatedto'] well ['relatedto', 'synonym'] swell
+music ['relatedto'] beautiful ['hasproperty'] ocean ['relatedto'] swell
+music ['distinctfrom'] stop ['isa'] act ['mannerof'] swell
+music ['relatedto'] bell ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] bell ['relatedto'] mushroom ['synonym'] swell
+music ['relatedto'] best ['formof', 'distinctfrom', 'relatedto'] good ['relatedto'] swell
+music ['relatedto'] best ['relatedto'] excellent ['relatedto'] swell
+music ['relatedto'] best ['formof'] well ['relatedto', 'synonym'] swell
+music ['relatedto'] time ['relatedto'] division ['relatedto'] swell
+music ['relatedto'] head ['relatedto'] balloon ['relatedto'] swell
+music ['relatedto'] head ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] head ['antonym', 'relatedto', 'atlocation'] neck ['relatedto'] swell
+music ['relatedto'] fun ['hasproperty'] good ['relatedto'] swell
+music ['capableof'] heal ['relatedto'] well ['relatedto', 'synonym'] swell
+music ['relatedto'] kind ['relatedto'] good ['relatedto'] swell
+music ['relatedto'] kind ['relatedto'] excellent ['relatedto'] swell
+music ['usedfor', 'relatedto'] pleasure ['relatedto'] good ['relatedto'] swell
+music ['relatedto'] nice ['relatedto'] grow ['mannerof', 'relatedto'] swell
+music ['relatedto'] nice ['relatedto', 'similarto'] good ['relatedto'] swell
+music ['relatedto'] nice ['relatedto'] bosom ['relatedto'] swell
+music ['relatedto'] school ['relatedto'] social ['relatedto'] swell
+music ['relatedto'] school ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] school ['relatedto'] bag ['relatedto'] swell
+music ['usedfor'] flat ['antonym'] wave ['isa', 'relatedto'] swell
+music ['relatedto'] term ['relatedto'] division ['relatedto'] swell
+music ['relatedto'] catch ['relatedto'] bag ['relatedto'] swell
+music ['relatedto'] catch ['relatedto'] wave ['isa', 'relatedto'] swell
+music ['relatedto'] cathedral ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] cathedral ['relatedto'] fancy ['relatedto'] swell
+music ['relatedto'] cathedral ['relatedto'] huge ['relatedto'] swell
+music ['relatedto'] cathedral ['relatedto'] wells ['relatedto'] swell
+music ['relatedto'] country ['atlocation'] well ['relatedto', 'synonym'] swell
+music ['relatedto'] country ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] country ['relatedto'] division ['relatedto'] swell
+music ['relatedto'] close ['mannerof'] bung ['relatedto'] swell
+music ['relatedto'] close ['relatedto'] bosom ['relatedto'] swell
+music ['relatedto'] close ['relatedto'] wind ['relatedto'] swell
+music ['relatedto'] club ['relatedto'] social ['relatedto'] swell
+music ['relatedto'] club ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] course ['relatedto'] division ['relatedto'] swell
+music ['relatedto'] group ['relatedto'] act ['mannerof'] swell
+music ['relatedto'] group ['relatedto'] division ['relatedto'] swell
+music ['relatedto'] group ['relatedto'] bunch ['relatedto'] swell
+music ['relatedto'] group ['relatedto'] fancy ['relatedto'] swell
+music ['relatedto'] group ['relatedto'] plump ['relatedto'] swell
+music ['causesdesire', 'relatedto'] dance ['isa', 'relatedto'] social ['relatedto'] swell
+music ['causesdesire', 'relatedto'] dance ['antonym'] standing ['relatedto'] swell
+music ['causesdesire', 'relatedto'] dance ['relatedto'] fancy ['relatedto'] swell
+music ['relatedto'] singer ['relatedto'] good ['relatedto'] swell
+music ['relatedto'] pleasant ['relatedto'] good ['relatedto'] swell
+music ['antonym', 'relatedto'] record ['relatedto'] act ['mannerof'] swell
+music ['antonym', 'relatedto'] record ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] performance ['isa', 'relatedto'] act ['mannerof'] swell
+music ['relatedto'] performance ['antonym', 'relatedto'] excellent ['relatedto'] swell
+music ['usedfor', 'causesdesire'] relax ['mannerof'] act ['mannerof'] swell
+music ['usedfor', 'causesdesire'] relax ['usedfor'] ocean ['relatedto'] swell
+music ['relatedto'] finger ['atlocation'] blister ['mannerof'] swell
+music ['relatedto'] finger ['relatedto'] larger ['relatedto'] swell
+music ['relatedto'] form ['relatedto'] expand ['mannerof', 'relatedto'] swell
+music ['relatedto'] form ['mannerof'] bunch ['relatedto'] swell
+music ['relatedto'] form ['relatedto'] wave ['isa', 'relatedto'] swell
+music ['relatedto'] general ['relatedto'] big ['relatedto'] swell
+music ['relatedto'] gig ['relatedto'] act ['mannerof'] swell

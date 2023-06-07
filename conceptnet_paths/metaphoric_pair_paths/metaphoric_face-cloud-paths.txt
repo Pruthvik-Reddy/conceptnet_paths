@@ -1,0 +1,100 @@
+face ['isa', 'relatedto'] appearance ['relatedto'] cloud
+face ['mannerof'] cover ['relatedto'] cloud
+face ['relatedto', 'partof'] feature ['relatedto'] cloud
+face ['relatedto'] smoke ['isa', 'relatedto'] cloud
+face ['relatedto'] erosion ['relatedto'] rock ['relatedto'] cloud
+face ['relatedto'] child ['desires'] candy ['relatedto'] cloud
+face ['relatedto'] child ['relatedto'] ball ['relatedto'] cloud
+face ['relatedto'] child ['relatedto'] nice ['relatedto'] cloud
+face ['relatedto'] child ['relatedto'] single ['relatedto'] cloud
+face ['relatedto'] child ['relatedto'] anything ['relatedto'] cloud
+face ['relatedto'] child ['relatedto'] item ['relatedto'] cloud
+face ['relatedto'] child ['relatedto'] natural ['relatedto'] cloud
+face ['relatedto'] child ['relatedto'] container ['relatedto'] cloud
+face ['relatedto'] human ['atlocation'] bank ['relatedto'] cloud
+face ['relatedto'] human ['atlocation'] coma ['isa', 'relatedto'] cloud
+face ['relatedto'] human ['relatedto', 'atlocation'] group ['relatedto'] cloud
+face ['relatedto'] human ['relatedto', 'atlocation'] home ['relatedto'] cloud
+face ['relatedto'] human ['relatedto'] mamma ['relatedto'] cloud
+face ['relatedto'] together ['relatedto'] atom ['relatedto'] cloud
+face ['relatedto'] together ['relatedto'] mass ['relatedto'] cloud
+face ['relatedto'] anger ['mannerof', 'relatedto'] steam ['relatedto'] cloud
+face ['partof'] animal ['relatedto'] sometimes ['relatedto'] cloud
+face ['partof'] animal ['formof', 'relatedto'] animals ['relatedto'] cloud
+face ['partof'] animal ['isa'] single ['relatedto'] cloud
+face ['partof'] animal ['isa', 'relatedto'] sheep ['relatedto'] cloud
+face ['partof'] animal ['relatedto'] anything ['relatedto'] cloud
+face ['partof'] animal ['relatedto'] everything ['relatedto'] cloud
+face ['partof'] animal ['relatedto'] related ['relatedto'] cloud
+face ['partof'] animal ['relatedto'] dropping ['relatedto'] cloud
+face ['partof'] animal ['relatedto'] grey ['relatedto'] cloud
+face ['partof'] animal ['relatedto'] heaven ['relatedto'] cloud
+face ['partof'] animal ['relatedto'] wool ['relatedto'] cloud
+face ['relatedto'] social ['relatedto'] club ['etymologicallyrelatedto'] cloud
+face ['relatedto'] social ['relatedto'] gathering ['relatedto'] cloud
+face ['relatedto'] social ['relatedto'] smac ['relatedto'] cloud
+face ['isa', 'relatedto'] appearance ['synonym'] air ['relatedto', 'atlocation'] cloud
+face ['isa', 'relatedto'] appearance ['isa', 'relatedto'] blemish ['relatedto'] cloud
+face ['isa', 'relatedto'] appearance ['isa', 'relatedto'] color ['relatedto'] cloud
+face ['isa', 'relatedto'] appearance ['relatedto'] phenomenon ['relatedto'] cloud
+face ['isa', 'relatedto'] appearance ['relatedto'] shape ['relatedto'] cloud
+face ['relatedto'] around ['relatedto'] air ['relatedto', 'atlocation'] cloud
+face ['relatedto'] around ['relatedto'] ball ['relatedto'] cloud
+face ['relatedto'] around ['relatedto'] inside ['relatedto'] cloud
+face ['relatedto'] around ['relatedto'] atmosphere ['relatedto', 'atlocation'] cloud
+face ['relatedto'] around ['relatedto'] cover ['relatedto'] cloud
+face ['relatedto'] around ['relatedto'] sun ['antonym', 'relatedto'] cloud
+face ['relatedto'] around ['relatedto'] weather ['usedfor', 'relatedto'] cloud
+face ['relatedto'] ugly ['relatedto'] shade ['usedfor', 'relatedto'] cloud
+face ['antonym'] back ['antonym', 'relatedto'] cover ['relatedto'] cloud
+face ['antonym'] back ['relatedto'] internet ['relatedto'] cloud
+face ['antonym'] back ['relatedto'] change ['mannerof'] cloud
+face ['antonym', 'relatedto'] heel ['relatedto'] club ['etymologicallyrelatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['isa', 'relatedto'] appearance ['relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['relatedto'] home ['relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['isa', 'relatedto'] weather ['usedfor', 'relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['isa'] atmospheric_phenomenon ['isa', 'relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['relatedto'] color ['relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['relatedto'] cover ['relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['relatedto'] atmospheric ['relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['relatedto'] element ['relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['relatedto'] precipitation ['relatedto'] cloud
+face ['isa', 'relatedto', 'synonym'] front ['relatedto'] leader ['relatedto'] cloud
+face ['mannerof'] cover ['mannerof'] bank ['relatedto'] cloud
+face ['mannerof'] cover ['antonym', 'relatedto'] nice ['relatedto'] cloud
+face ['mannerof'] cover ['mannerof', 'relatedto'] dust ['relatedto'] cloud
+face ['mannerof'] cover ['mannerof'] mist ['isa', 'relatedto'] cloud
+face ['mannerof'] cover ['relatedto'] container ['relatedto'] cloud
+face ['mannerof'] cover ['relatedto'] pillow ['relatedto'] cloud
+face ['mannerof'] cover ['relatedto'] fog ['isa', 'relatedto'] cloud
+face ['mannerof'] cover ['relatedto'] overcast ['relatedto', 'synonym'] cloud
+face ['mannerof'] cover ['relatedto'] overcloud ['relatedto', 'derivedfrom'] cloud
+face ['mannerof'] cover ['relatedto'] shade ['usedfor', 'relatedto'] cloud
+face ['mannerof'] cover ['relatedto'] sneeze ['relatedto'] cloud
+face ['mannerof'] cover ['relatedto'] wool ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] home ['relatedto'] cloud
+face ['relatedto'] plate ['atlocation'] dust ['relatedto'] cloud
+face ['relatedto'] plate ['mannerof', 'relatedto'] silver ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] bearer ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] apparatus ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] container ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] holder ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] holds ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] item ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] shape ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] shapes ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] white ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] whiteness ['relatedto'] cloud
+face ['relatedto'] plate ['relatedto'] lining ['relatedto'] cloud
+face ['relatedto'] bat ['relatedto'] ball ['relatedto'] cloud
+face ['relatedto'] bat ['isa', 'relatedto', 'synonym'] club ['etymologicallyrelatedto'] cloud
+face ['relatedto'] bat ['relatedto'] dark ['relatedto', 'hasproperty'] cloud
+face ['relatedto'] bat ['relatedto'] item ['relatedto'] cloud
+face ['relatedto'] bat ['relatedto'] cotton ['relatedto'] cloud
+face ['relatedto'] bat ['relatedto'] number_nine ['relatedto'] cloud
+face ['relatedto'] bill ['relatedto'] bank ['relatedto'] cloud
+face ['relatedto'] bill ['relatedto'] single ['relatedto'] cloud
+face ['relatedto'] bill ['relatedto'] shape ['relatedto'] cloud
+face ['relatedto'] die ['relatedto'] number ['relatedto'] cloud
+face ['relatedto'] die ['motivatedbygoal', 'haslastsubevent'] smoke ['isa', 'relatedto'] cloud
+face ['relatedto'] die ['mannerof'] change ['mannerof'] cloud

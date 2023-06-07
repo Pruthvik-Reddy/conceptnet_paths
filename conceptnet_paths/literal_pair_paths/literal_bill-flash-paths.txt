@@ -1,0 +1,100 @@
+bill ['relatedto'] expensive ['relatedto'] flash
+bill ['relatedto'] short ['relatedto'] flash
+bill ['relatedto'] amount ['relatedto'] flash
+bill ['relatedto'] edge ['relatedto'] flash
+bill ['relatedto'] public ['relatedto'] flash
+bill ['relatedto'] content ['relatedto'] flash
+bill ['relatedto'] fob ['relatedto'] flash
+bill ['relatedto'] passing ['relatedto'] flash
+bill ['relatedto'] present ['isa', 'relatedto'] time ['relatedto'] flash
+bill ['relatedto'] present ['relatedto'] card ['relatedto'] flash
+bill ['relatedto'] present ['relatedto'] quick ['relatedto'] flash
+bill ['relatedto'] present ['relatedto', 'synonym'] appear ['mannerof'] flash
+bill ['relatedto'] present ['relatedto'] attention ['relatedto'] flash
+bill ['relatedto'] present ['relatedto', 'synonym'] show ['mannerof'] flash
+bill ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] flash
+bill ['synonym'] act ['distinctfrom', 'relatedto', 'partof'] scene ['relatedto'] flash
+bill ['synonym'] act ['relatedto'] function ['relatedto'] flash
+bill ['synonym'] act ['relatedto'] part ['relatedto'] flash
+bill ['synonym'] act ['relatedto'] show ['mannerof'] flash
+bill ['synonym'] act ['relatedto'] fast ['relatedto'] flash
+bill ['synonym'] act ['relatedto'] flush ['relatedto'] flash
+bill ['synonym'] act ['relatedto', 'synonym'] move ['relatedto'] flash
+bill ['synonym'] act ['relatedto'] slash ['etymologicallyrelatedto'] flash
+bill ['relatedto'] future ['isa', 'relatedto'] time ['relatedto'] flash
+bill ['relatedto'] future ['relatedto'] flashforward ['derivedfrom'] flash
+bill ['relatedto'] future ['relatedto'] experience ['isa'] flash
+bill ['relatedto'] payment ['relatedto'] action ['relatedto'] flash
+bill ['relatedto'] payment ['relatedto'] card ['relatedto'] flash
+bill ['relatedto'] payment ['relatedto'] amount ['relatedto'] flash
+bill ['relatedto'] payment ['relatedto'] ready_money ['relatedto'] flash
+bill ['relatedto'] affair ['synonym'] action ['relatedto'] flash
+bill ['relatedto'] affair ['relatedto'] happening ['isa'] flash
+bill ['relatedto'] affair ['synonym'] function ['relatedto'] flash
+bill ['relatedto'] getting ['hasprerequisite'] action ['relatedto'] flash
+bill ['relatedto'] getting ['relatedto'] liquor ['relatedto'] flash
+bill ['relatedto'] getting ['relatedto'] move ['relatedto'] flash
+bill ['relatedto'] getting ['relatedto'] preparation ['relatedto'] flash
+bill ['relatedto'] almost ['relatedto'] time ['relatedto'] flash
+bill ['relatedto'] almost ['relatedto'] edge ['relatedto'] flash
+bill ['relatedto'] short ['relatedto'] body ['relatedto'] flash
+bill ['relatedto'] short ['relatedto', 'similarto', 'synonym'] brief ['relatedto'] flash
+bill ['relatedto'] short ['relatedto'] memory ['relatedto'] flash
+bill ['relatedto'] short ['relatedto'] morse_code ['relatedto'] flash
+bill ['relatedto'] short ['relatedto'] report ['relatedto'] flash
+bill ['relatedto'] short ['relatedto'] briefly ['relatedto'] flash
+bill ['relatedto'] short ['relatedto'] time ['relatedto'] flash
+bill ['relatedto'] short ['relatedto'] xenon_flash_lamp ['relatedto'] flash
+bill ['relatedto'] short ['synonym'] light ['isa', 'usedfor', 'relatedto'] flash
+bill ['relatedto'] animal ['atlocation'] bone ['relatedto'] flash
+bill ['relatedto'] animal ['relatedto'] body ['relatedto'] flash
+bill ['relatedto'] animal ['relatedto'] eyes ['relatedto'] flash
+bill ['relatedto'] animal ['relatedto'] move ['relatedto'] flash
+bill ['relatedto'] bird ['relatedto'] flush ['relatedto'] flash
+bill ['relatedto'] bird ['relatedto'] layer ['relatedto'] flash
+bill ['relatedto'] bird ['synonym'] time ['relatedto'] flash
+bill ['relatedto'] man ['relatedto'] body ['relatedto'] flash
+bill ['relatedto'] man ['relatedto'] hero ['relatedto'] flash
+bill ['relatedto'] announcement ['antonym', 'relatedto'] card ['relatedto'] flash
+bill ['relatedto'] announcement ['relatedto'] report ['relatedto'] flash
+bill ['relatedto'] one ['relatedto'] card ['relatedto'] flash
+bill ['relatedto'] one ['relatedto'] wink ['synonym'] flash
+bill ['relatedto'] wrong ['antonym', 'distinctfrom'] write ['relatedto'] flash
+bill ['relatedto'] wrong ['relatedto'] cloth ['relatedto'] flash
+bill ['relatedto'] post ['relatedto'] lamp ['isa'] flash
+bill ['relatedto'] post ['relatedto'] part ['relatedto'] flash
+bill ['relatedto'] post ['relatedto', 'synonym'] write ['relatedto'] flash
+bill ['relatedto'] post ['relatedto'] military ['relatedto'] flash
+bill ['relatedto'] arm ['relatedto', 'atlocation'] bone ['relatedto'] flash
+bill ['relatedto'] arm ['relatedto', 'partof'] body ['relatedto'] flash
+bill ['relatedto'] arm ['relatedto'] part ['relatedto'] flash
+bill ['relatedto'] arm ['relatedto'] insignia ['relatedto'] flash
+bill ['relatedto'] arm ['relatedto'] slash ['etymologicallyrelatedto'] flash
+bill ['relatedto'] demand ['relatedto'] action ['relatedto'] flash
+bill ['relatedto'] demand ['relatedto'] market ['relatedto'] flash
+bill ['relatedto'] excellent ['relatedto', 'synonym'] brilliant ['relatedto'] flash
+bill ['relatedto'] excellent ['relatedto'] super ['relatedto'] flash
+bill ['relatedto'] excellent ['relatedto'] passing ['relatedto'] flash
+bill ['relatedto'] bank ['mannerof'] cover ['mannerof'] flash
+bill ['relatedto'] bank ['relatedto'] edge ['relatedto'] flash
+bill ['relatedto'] tab ['relatedto'] material ['relatedto'] flash
+bill ['relatedto'] furniture ['isa', 'relatedto'] lamp ['isa'] flash
+bill ['relatedto'] furniture ['relatedto'] move ['relatedto'] flash
+bill ['antonym', 'isa', 'relatedto'] check ['relatedto'] pattern ['relatedto'] flash
+bill ['antonym', 'isa', 'relatedto'] check ['mannerof', 'entails'] move ['relatedto'] flash
+bill ['antonym', 'distinctfrom'] coin ['relatedto'] edge ['relatedto'] flash
+bill ['antonym', 'distinctfrom'] coin ['relatedto'] card ['relatedto'] flash
+bill ['antonym'] straight ['relatedto'] edge ['relatedto'] flash
+bill ['relatedto', 'atlocation'] congress ['relatedto'] body ['relatedto'] flash
+bill ['atlocation'] envelope ['relatedto'] cover ['mannerof'] flash
+bill ['atlocation'] envelope ['relatedto'] card ['relatedto'] flash
+bill ['relatedto', 'atlocation'] restaurant ['relatedto'] cover ['mannerof'] flash
+bill ['relatedto', 'atlocation'] wallet ['relatedto'] card ['relatedto'] flash
+bill ['relatedto', 'atlocation'] wallet ['isa'] software ['relatedto'] flash
+bill ['relatedto', 'atlocation'] wallet ['relatedto'] accessory ['relatedto'] flash
+bill ['hasa', 'relatedto'] numbers ['relatedto'] time ['relatedto'] flash
+bill ['hasa', 'relatedto'] numbers ['relatedto'] card ['relatedto'] flash
+bill ['hasa', 'relatedto'] duck ['relatedto'] cover ['mannerof'] flash
+bill ['hasa', 'relatedto'] duck ['mannerof'] move ['relatedto'] flash
+bill ['hasproperty'] nuts ['relatedto'] bolt ['relatedto'] flash
+bill ['isa'] butcher ['relatedto', 'atlocation'] market ['relatedto'] flash

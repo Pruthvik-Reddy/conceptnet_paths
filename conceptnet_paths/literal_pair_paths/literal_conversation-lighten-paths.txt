@@ -1,0 +1,100 @@
+conversation ['relatedto'] call ['mannerof'] lift ['relatedto'] lighten
+conversation ['relatedto'] drop ['mannerof'] descend ['relatedto'] lighten
+conversation ['relatedto'] drop ['antonym'] lift ['relatedto'] lighten
+conversation ['relatedto'] drop ['mannerof'] change ['mannerof'] lighten
+conversation ['isa', 'relatedto'] exchange ['etymologicallyrelatedto', 'relatedto', 'synonym'] change ['mannerof'] lighten
+conversation ['relatedto'] say ['synonym'] allege ['relatedto'] lighten
+conversation ['causes'] meeting_friend ['causes'] cheer ['mannerof'] lighten
+conversation ['relatedto'] system ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['usedfor'] tearoom ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] engage ['derivedfrom'] en ['etymologicallyrelatedto'] enlighten ['relatedto'] lighten
+conversation ['relatedto'] engage ['mannerof'] touch ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] engage ['mannerof'] touch ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] engage ['mannerof'] move ['isa', 'mannerof', 'relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] engage ['mannerof'] move ['mannerof', 'relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] engage ['mannerof', 'synonym'] lock ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] engage ['mannerof'] ride ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] engage ['mannerof'] throw ['mannerof'] jettison ['relatedto'] lighten
+conversation ['relatedto'] engage ['relatedto'] catch ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] engage ['relatedto'] hold ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] engage ['relatedto', 'synonym'] use ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] engage ['relatedto', 'synonym'] use ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['relatedto'] engage ['relatedto'] ship ['relatedto'] jetsam ['relatedto'] lighten
+conversation ['relatedto'] engage ['relatedto'] sign ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] engage ['synonym'] book ['relatedto'] illuminate ['relatedto'] lighten
+conversation ['relatedto'] engage ['synonym'] book ['usedfor'] enlightenment ['relatedto'] lighten
+conversation ['relatedto'] question ['relatedto'] getting ['relatedto'] reduce ['relatedto'] lighten
+conversation ['relatedto'] question ['antonym', 'distinctfrom', 'relatedto', 'desires'] answer ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] question ['causesdesire'] find_information ['motivatedbygoal'] enlightenment ['relatedto'] lighten
+conversation ['relatedto'] question ['causesdesire'] think ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] question ['motivatedbygoal'] send_e_mail ['motivatedbygoal'] enlighten ['relatedto'] lighten
+conversation ['relatedto'] question ['relatedto'] call ['mannerof'] lift ['relatedto'] lighten
+conversation ['relatedto'] question ['relatedto'] chance ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] question ['relatedto'] imponderable ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] question ['relatedto'] imponderable ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['relatedto'] question ['relatedto'] mark ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] question ['relatedto'] pass ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] question ['relatedto'] form ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] question ['relatedto'] information ['hasprerequisite'] change ['mannerof'] lighten
+conversation ['relatedto'] question ['relatedto'] part ['isa'] jetsam ['relatedto'] lighten
+conversation ['relatedto'] question ['relatedto'] phrase ['relatedto'] burden ['relatedto'] lighten
+conversation ['relatedto'] question ['relatedto'] say ['synonym'] allege ['relatedto'] lighten
+conversation ['relatedto'] question ['relatedto'] really ['antonym', 'relatedto'] bright ['relatedto'] lighten
+conversation ['relatedto'] question ['synonym'] head ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['relatedto'] question ['synonym'] motion ['isa', 'relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] question ['synonym'] motion ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] reply ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] reply ['relatedto'] action ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] reply ['relatedto'] action ['relatedto'] reduce ['relatedto'] lighten
+conversation ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] reply ['antonym', 'distinctfrom', 'relatedto'] forward ['relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] reply ['antonym'] receive ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] reply ['relatedto'] back ['relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] reply ['relatedto'] call ['mannerof'] lift ['relatedto'] lighten
+conversation ['relatedto'] reply ['relatedto'] fly ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] reply ['relatedto'] good ['synonym'] serious ['relatedto'] lighten
+conversation ['relatedto'] reply ['relatedto'] line ['relatedto'] reduce ['relatedto'] lighten
+conversation ['relatedto'] reply ['relatedto'] phrase ['relatedto'] burden ['relatedto'] lighten
+conversation ['relatedto'] reply ['relatedto'] play ['antonym'] serious ['relatedto'] lighten
+conversation ['relatedto'] reply ['relatedto'] put ['antonym', 'relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] reply ['relatedto'] put ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] reply ['relatedto'] return ['relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] reply ['relatedto'] returned ['relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] reply ['relatedto'] say ['synonym'] allege ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] plate ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['relatedto'] blade ['antonym'] handle ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] blade ['isa'] ribbon ['relatedto'] bright ['relatedto'] lighten
+conversation ['relatedto'] blade ['isa', 'relatedto'] leaf ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] blade ['relatedto', 'partof'] chuck ['synonym'] jettison ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] axe ['relatedto'] reduce ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] metal ['relatedto'] bright ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] metal ['relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] blade ['relatedto'] metal ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] part ['isa'] jetsam ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] tool ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] airfoil ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] blade ['usedfor', 'relatedto'] cut ['relatedto', 'synonym'] reduce ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] grass ['relatedto'] bleach ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] thin ['mannerof', 'synonym'] reduce ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] thin ['similarto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] blade ['relatedto'] throw ['mannerof'] jettison ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] gyroplane ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] lightsaber ['relatedto', 'derivedfrom'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['relatedto'] blade ['relatedto'] ripper ['relatedto'] reduce ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] shave ['mannerof'] reduce ['relatedto'] lighten
+conversation ['relatedto'] blade ['relatedto'] slip ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['atlocation'] dinner ['relatedto'] evening ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['atlocation'] dinner ['relatedto'] plate ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['atlocation'] dinner ['relatedto'] bell ['relatedto'] change ['mannerof'] lighten
+conversation ['atlocation'] dinner ['relatedto'] food ['synonym'] cheer ['mannerof'] lighten
+conversation ['atlocation'] dinner ['relatedto'] time ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['atlocation'] dinner ['relatedto'] time ['relatedto'] change ['mannerof'] lighten
+conversation ['atlocation'] dinner ['relatedto', 'atlocation'] soup ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['atlocation'] dinner ['relatedto'] candlelight ['isa', 'derivedfrom'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+conversation ['atlocation'] dinner ['relatedto'] roll ['mannerof'] change ['mannerof'] lighten
+conversation ['relatedto'] call ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] lighten
+conversation ['relatedto'] call ['relatedto'] action ['relatedto'] lift ['relatedto'] lighten
+conversation ['relatedto'] call ['relatedto'] action ['relatedto'] reduce ['relatedto'] lighten
+conversation ['relatedto'] call ['relatedto'] getting ['relatedto'] reduce ['relatedto'] lighten
+conversation ['relatedto'] call ['relatedto'] number ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+conversation ['relatedto'] call ['antonym', 'relatedto'] answer ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten

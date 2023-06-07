@@ -1,0 +1,100 @@
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['antonym'] repair
+suffering ['relatedto'] accident ['relatedto'] damage ['antonym'] repair
+suffering ['relatedto'] accident ['relatedto'] point ['mannerof'] repair
+suffering ['relatedto'] accident ['relatedto'] contraflow ['relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] smash ['antonym'] repair
+suffering ['relatedto'] accident ['synonym'] condition ['isa', 'relatedto'] repair
+suffering ['relatedto'] sympathy ['relatedto'] care ['isa'] repair
+suffering ['relatedto'] comfort ['isa'] condition ['isa', 'relatedto'] repair
+suffering ['relatedto'] comfort ['relatedto'] care ['isa'] repair
+suffering ['relatedto'] comfort ['relatedto'] good ['relatedto'] repair
+suffering ['relatedto'] burn ['mannerof'] destroy ['antonym', 'relatedto'] repair
+suffering ['relatedto'] burn ['isa', 'mannerof', 'relatedto'] damage ['antonym'] repair
+suffering ['relatedto'] burn ['relatedto'] condition ['isa', 'relatedto'] repair
+suffering ['synonym'] hurt ['relatedto', 'synonym'] detriment ['relatedto'] repair
+suffering ['synonym'] hurt ['relatedto'] break ['antonym'] repair
+suffering ['synonym'] hurt ['antonym'] care ['isa'] repair
+suffering ['synonym'] hurt ['mannerof', 'relatedto', 'synonym'] damage ['antonym'] repair
+suffering ['synonym'] hurt ['relatedto'] damaged ['relatedto'] repair
+suffering ['relatedto', 'synonym'] distress ['distinctfrom'] good ['relatedto'] repair
+suffering ['causes'] fighting_war ['causes'] damage ['antonym'] repair
+suffering ['formof', 'relatedto', 'derivedfrom'] suffer ['relatedto'] damaged ['relatedto'] repair
+suffering ['isa'] discomfort ['isa'] condition ['isa', 'relatedto'] repair
+suffering ['isa'] emotion ['relatedto'] care ['isa'] repair
+suffering ['isa', 'relatedto'] pain ['antonym'] good ['relatedto'] repair
+suffering ['isa', 'relatedto'] pain ['relatedto'] doctor ['synonym'] repair
+suffering ['isa', 'relatedto'] pain ['isa', 'relatedto'] stitch ['relatedto'] repair
+suffering ['partof'] war ['distinctfrom'] piece ['mannerof'] repair
+suffering ['partof'] war ['relatedto'] destroy ['antonym', 'relatedto'] repair
+suffering ['partof'] war ['relatedto'] damage ['antonym'] repair
+suffering ['partof'] war ['isa'] resort ['synonym'] repair
+suffering ['relatedto'] afflict ['mannerof'] damage ['antonym'] repair
+suffering ['relatedto'] compassion ['relatedto'] care ['isa'] repair
+suffering ['relatedto'] gall ['relatedto'] pit ['relatedto'] repair
+suffering ['relatedto'] penance ['relatedto'] bote ['relatedto'] repair
+suffering ['relatedto'] penance ['relatedto'] reparation ['relatedto', 'synonym'] repair
+suffering ['relatedto'] soothe ['relatedto'] restore ['relatedto', 'synonym'] repair
+suffering ['relatedto'] thanatourism ['relatedto'] travel ['mannerof'] repair
+suffering ['relatedto', 'synonym'] travail ['relatedto'] travel ['mannerof'] repair
+suffering ['relatedto'] wound ['relatedto'] break ['antonym'] repair
+suffering ['relatedto'] wound ['antonym', 'relatedto'] heal ['relatedto'] repair
+suffering ['relatedto'] wound ['isa', 'relatedto'] damage ['antonym'] repair
+suffering ['relatedto'] wound ['antonym', 'usedfor'] healing ['relatedto'] repair
+suffering ['relatedto'] wound ['relatedto'] autoplasty ['relatedto'] repair
+suffering ['relatedto'] wound ['relatedto'] band_aid ['isa'] repair
+suffering ['relatedto'] wound ['relatedto'] patch ['mannerof', 'relatedto', 'synonym'] repair
+suffering ['relatedto'] wound ['relatedto'] stitch ['relatedto'] repair
+suffering ['synonym'] grief ['relatedto'] care ['isa'] repair
+suffering ['synonym'] trouble ['antonym', 'distinctfrom', 'relatedto'] good ['relatedto'] repair
+suffering ['synonym'] trouble ['synonym'] care ['isa'] repair
+suffering ['synonym'] trouble ['relatedto'] condition ['isa', 'relatedto'] repair
+suffering ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['relatedto'] break ['antonym'] repair
+suffering ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['relatedto'] point ['mannerof'] repair
+suffering ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['usedfor'] tool ['relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto', 'synonym'] detriment ['relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto'] break ['antonym'] repair
+suffering ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto'] heal ['relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['isa', 'relatedto', 'synonym'] damage ['antonym'] repair
+suffering ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto'] stitch ['relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto'] episiorrhaphy ['relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto'] redress ['relatedto'] repair
+suffering ['relatedto'] accident ['causes'] driving ['isa'] travel ['mannerof'] repair
+suffering ['relatedto'] accident ['causes'] driving_car ['causes'] travel ['mannerof'] repair
+suffering ['relatedto'] accident ['causes'] moving_car ['usedfor'] travel ['mannerof'] repair
+suffering ['relatedto'] accident ['relatedto', 'derivedfrom'] accidental ['relatedto'] break ['antonym'] repair
+suffering ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['isa'] piece ['mannerof'] repair
+suffering ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['relatedto', 'derivedfrom'] recase ['relatedto'] repair
+suffering ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['relatedto'] condition ['isa', 'relatedto'] repair
+suffering ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['relatedto'] travel ['mannerof'] repair
+suffering ['relatedto'] accident ['isa'] physical_event ['isa'] repairing ['formof', 'relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto', 'synonym'] mishap ['relatedto'] mend_fences ['relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['antonym', 'distinctfrom', 'relatedto'] fix ['relatedto', 'synonym'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto', 'synonym'] better ['mannerof'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['antonym'] heal ['relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['antonym', 'relatedto'] mend ['relatedto', 'similarto', 'synonym'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['antonym', 'relatedto'] piece ['mannerof'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['mannerof', 'relatedto'] damage ['antonym'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] destroy ['antonym', 'relatedto'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['mannerof', 'relatedto'] smash ['antonym'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto'] point ['mannerof'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto'] fill ['mannerof'] repair
+suffering ['relatedto'] accident ['isa'] collision ['isa', 'relatedto'] smash ['antonym'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] crash ['etymologicallyrelatedto'] break ['antonym'] repair
+suffering ['relatedto'] accident ['isa', 'relatedto'] crash ['relatedto', 'synonym'] smash ['antonym'] repair
+suffering ['relatedto'] accident ['isa'] shipwreck ['mannerof'] destroy ['antonym', 'relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] bad ['antonym', 'distinctfrom', 'relatedto'] good ['relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] bad ['relatedto'] break ['antonym'] repair
+suffering ['relatedto'] accident ['relatedto'] bad ['relatedto'] destroy ['antonym', 'relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] car ['isa'] tool ['relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] car ['relatedto'] body_shop ['relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] car ['relatedto'] break ['antonym'] repair
+suffering ['relatedto'] accident ['relatedto'] car ['relatedto'] travel ['mannerof'] repair
+suffering ['relatedto'] accident ['relatedto'] car ['relatedto'] fill ['mannerof'] repair
+suffering ['relatedto'] accident ['relatedto'] car ['relatedto'] ship_railway ['relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] car ['relatedto'] smash ['antonym'] repair
+suffering ['relatedto'] accident ['relatedto'] car_crash ['relatedto'] smash ['antonym'] repair
+suffering ['relatedto'] accident ['relatedto'] damage ['isa', 'relatedto', 'synonym'] detriment ['relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] damage ['mannerof', 'relatedto'] break ['antonym'] repair
+suffering ['relatedto'] accident ['relatedto'] damage ['relatedto'] destroy ['antonym', 'relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] damage ['formof', 'relatedto', 'derivedfrom'] damaged ['relatedto'] repair
+suffering ['relatedto'] accident ['relatedto'] damage ['relatedto'] body_shop ['relatedto'] repair

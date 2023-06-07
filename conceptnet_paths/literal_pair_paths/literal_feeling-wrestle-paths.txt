@@ -1,0 +1,100 @@
+feeling ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto'] move ['relatedto'] wrestle
+feeling ['relatedto'] peace ['antonym'] battle ['mannerof'] wrestle
+feeling ['relatedto'] peace ['antonym', 'distinctfrom'] fight ['mannerof'] wrestle
+feeling ['relatedto'] negative ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] negative ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto'] negative ['relatedto'] writhe ['synonym'] wrestle
+feeling ['relatedto'] agony ['antonym', 'relatedto'] defeat ['relatedto'] wrestle
+feeling ['relatedto'] agony ['etymologicallyrelatedto', 'relatedto'] agonize ['relatedto'] wrestle
+feeling ['relatedto'] agony ['synonym'] struggle ['isa', 'relatedto'] wrestle
+feeling ['relatedto'] air ['relatedto'] consider ['mannerof'] wrestle
+feeling ['relatedto'] air ['relatedto', 'synonym'] lift ['relatedto'] wrestle
+feeling ['relatedto'] air ['relatedto'] throw ['relatedto'] wrestle
+feeling ['relatedto'] anger ['causesdesire', 'relatedto'] fight ['mannerof'] wrestle
+feeling ['relatedto'] calm ['antonym', 'relatedto'] anger ['causesdesire'] wrestle
+feeling ['isa'] happiness ['antonym'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] sense ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] love_match ['derivedfrom'] match ['relatedto'] wrestle
+feeling ['relatedto'] stick ['relatedto'] rule ['relatedto'] wrestle
+feeling ['relatedto'] stick ['relatedto'] difficulty ['relatedto'] wrestle
+feeling ['relatedto'] home ['relatedto'] move ['relatedto'] wrestle
+feeling ['relatedto'] good ['hasproperty'] exercise ['hasprerequisite'] wrestle
+feeling ['relatedto'] good ['relatedto'] stretch ['hasprerequisite'] wrestle
+feeling ['relatedto'] good ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] wet ['relatedto'] strength ['causesdesire'] wrestle
+feeling ['relatedto'] better ['etymologicallyrelatedto'] battle ['mannerof'] wrestle
+feeling ['isa'] soul ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto', 'synonym'] spirit ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto', 'synonym'] spirit ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] burn ['relatedto'] defeat ['relatedto'] wrestle
+feeling ['relatedto'] burn ['relatedto'] brand ['relatedto'] wrestle
+feeling ['relatedto'] burn ['relatedto'] exercise ['hasprerequisite'] wrestle
+feeling ['relatedto'] burn ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['isa', 'relatedto'] pleasure ['relatedto'] power ['motivatedbygoal'] wrestle
+feeling ['isa', 'relatedto'] pleasure ['usedfor'] wrestling ['formof', 'relatedto', 'synonym'] wrestle
+feeling ['relatedto'] hate ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] lust ['relatedto'] power ['motivatedbygoal'] wrestle
+feeling ['relatedto'] sad ['relatedto'] defeat ['relatedto'] wrestle
+feeling ['isa'] state ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto'] heart ['relatedto'] exercise ['hasprerequisite'] wrestle
+feeling ['relatedto'] heat ['isa', 'relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto'] heat ['relatedto'] power ['motivatedbygoal'] wrestle
+feeling ['isa'] complex ['relatedto'] power ['motivatedbygoal'] wrestle
+feeling ['relatedto'] fear ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['antonym', 'relatedto'] respect ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] smooth ['relatedto'] difficulty ['relatedto'] wrestle
+feeling ['relatedto'] dance ['haslastsubevent', 'hasprerequisite'] stretch ['hasprerequisite'] wrestle
+feeling ['relatedto'] dance ['hasprerequisite'] take_lessons ['hasprerequisite'] wrestle
+feeling ['relatedto'] dance ['relatedto', 'hasprerequisite'] exercise ['hasprerequisite'] wrestle
+feeling ['relatedto'] dance ['mannerof', 'relatedto'] move ['relatedto'] wrestle
+feeling ['relatedto'] high ['synonym'] strong ['hasprerequisite'] wrestle
+feeling ['isa'] despair ['isa'] defeat ['relatedto'] wrestle
+feeling ['isa', 'relatedto'] hope ['distinctfrom'] defeat ['relatedto'] wrestle
+feeling ['isa', 'relatedto'] love ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] health ['relatedto'] exercise ['hasprerequisite'] wrestle
+feeling ['relatedto'] health ['relatedto'] stretch ['hasprerequisite'] wrestle
+feeling ['relatedto'] displeasure ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] hard ['relatedto'] difficulty ['relatedto'] wrestle
+feeling ['relatedto'] hard ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto'] hard ['relatedto'] exercise ['hasprerequisite'] wrestle
+feeling ['relatedto'] hard ['relatedto', 'synonym'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] energy ['relatedto'] strength ['causesdesire'] wrestle
+feeling ['relatedto'] energy ['hasprerequisite'] exercise ['hasprerequisite'] wrestle
+feeling ['relatedto'] energy ['relatedto'] power ['motivatedbygoal'] wrestle
+feeling ['relatedto'] energy ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] energy ['relatedto'] move ['relatedto'] wrestle
+feeling ['relatedto'] scorn ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] opinion ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['usedfor'] success ['distinctfrom'] defeat ['relatedto'] wrestle
+feeling ['relatedto'] faith ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['formof', 'relatedto'] feel ['relatedto'] defeat ['relatedto'] wrestle
+feeling ['formof', 'relatedto'] feel ['mannerof'] anger ['causesdesire'] wrestle
+feeling ['antonym', 'isa', 'relatedto'] pain ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['antonym', 'isa', 'relatedto'] pain ['capableof'] immobilize ['relatedto'] wrestle
+feeling ['antonym', 'isa', 'relatedto'] pain ['mannerof'] agonize ['relatedto'] wrestle
+feeling ['antonym', 'isa', 'relatedto'] pain ['relatedto'] stretch ['hasprerequisite'] wrestle
+feeling ['antonym', 'relatedto', 'synonym'] touch ['relatedto'] stretch ['hasprerequisite'] wrestle
+feeling ['usedfor', 'relatedto', 'synonym', 'createdby', 'isa'] emotion ['isa', 'relatedto'] anger ['causesdesire'] wrestle
+feeling ['usedfor', 'relatedto', 'synonym', 'createdby', 'isa'] emotion ['relatedto'] throw ['relatedto'] wrestle
+feeling ['usedfor', 'relatedto', 'synonym', 'createdby', 'isa'] emotion ['relatedto'] move ['relatedto'] wrestle
+feeling ['derivedfrom'] hard_feelings ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['isa', 'relatedto'] affect ['mannerof', 'synonym'] move ['relatedto'] wrestle
+feeling ['isa', 'relatedto'] affect ['relatedto'] power ['motivatedbygoal'] wrestle
+feeling ['isa', 'relatedto'] desire ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['isa'] passion ['relatedto'] move ['relatedto'] wrestle
+feeling ['isa', 'relatedto'] sentiment ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['isa', 'relatedto'] temper ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] anxiety ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] buzz ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto', 'synonym'] impression ['relatedto'] energy ['causesdesire'] wrestle
+feeling ['relatedto'] frustration ['synonym'] defeat ['relatedto'] wrestle
+feeling ['relatedto'] frustration ['isa', 'relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] glory ['relatedto'] battle ['mannerof'] wrestle
+feeling ['relatedto'] glory ['relatedto'] power ['motivatedbygoal'] wrestle
+feeling ['relatedto'] grudge ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] hatred ['relatedto'] anger ['causesdesire'] wrestle
+feeling ['relatedto'] hatred ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] heavy_heart ['relatedto'] strong ['hasprerequisite'] wrestle
+feeling ['relatedto'] idea ['relatedto'] consider ['mannerof'] wrestle

@@ -1,0 +1,100 @@
+man ['relatedto'] bird ['relatedto'] drift
+man ['relatedto'] club ['relatedto'] drift
+man ['relatedto'] establishment ['isa'] natural_process ['isa'] drift
+man ['relatedto'] establishment ['relatedto'] force ['isa', 'relatedto'] drift
+man ['relatedto'] establishment ['relatedto'] gallery ['relatedto', 'synonym'] drift
+man ['relatedto'] child ['relatedto'] ball ['relatedto'] drift
+man ['relatedto'] child ['relatedto'] heap ['relatedto'] drift
+man ['antonym', 'isa', 'relatedto'] adult ['relatedto'] sheep ['relatedto'] drift
+man ['relatedto', 'synonym'] human ['antonym'] bird ['relatedto'] drift
+man ['relatedto', 'synonym'] human ['atlocation'] motion ['relatedto'] drift
+man ['relatedto', 'synonym'] human ['relatedto'] run ['relatedto'] drift
+man ['relatedto'] old ['antonym', 'distinctfrom'] current ['relatedto'] drift
+man ['relatedto'] old ['relatedto'] sheep ['relatedto'] drift
+man ['relatedto'] agent ['relatedto'] act ['relatedto'] drift
+man ['relatedto'] agent ['relatedto'] vehicle ['relatedto'] drift
+man ['relatedto'] fire ['derivedfrom'] fireship ['relatedto'] drift
+man ['relatedto'] fire ['relatedto'] collection ['relatedto'] drift
+man ['relatedto'] fire ['relatedto'] force ['isa', 'relatedto'] drift
+man ['relatedto'] fire ['relatedto'] tool ['relatedto'] drift
+man ['relatedto'] fire ['relatedto'] projectile ['relatedto'] drift
+man ['relatedto'] alien ['relatedto'] crop ['mannerof'] drift
+man ['relatedto'] alive ['relatedto'] force ['isa', 'relatedto'] drift
+man ['relatedto'] alive ['relatedto'] motion ['relatedto'] drift
+man ['antonym', 'distinctfrom'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] drift
+man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] crab ['relatedto'] drift
+man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] sheep ['relatedto'] drift
+man ['antonym', 'distinctfrom'] animal ['relatedto'] movement ['synonym'] drift
+man ['antonym', 'distinctfrom'] animal ['relatedto'] drive ['etymologicallyrelatedto'] drift
+man ['antonym', 'distinctfrom'] animal ['relatedto'] flock ['relatedto'] drift
+man ['antonym', 'distinctfrom'] animal ['relatedto'] shaft ['relatedto'] drift
+man ['antonym', 'distinctfrom'] animal ['relatedto'] traction ['relatedto'] drift
+man ['antonym', 'distinctfrom'] animal ['relatedto'] tunnel ['relatedto'] drift
+man ['relatedto'] bird ['relatedto', 'partof'] flock ['relatedto'] drift
+man ['relatedto'] bird ['relatedto'] flight ['relatedto'] drift
+man ['relatedto'] bird ['relatedto'] crop ['mannerof'] drift
+man ['antonym', 'relatedto'] baby ['relatedto'] bird ['relatedto'] drift
+man ['antonym', 'relatedto'] baby ['relatedto'] cattle ['relatedto'] drift
+man ['antonym', 'relatedto'] baby ['relatedto'] sheep ['relatedto'] drift
+man ['antonym'] dress ['synonym'] set ['relatedto'] drift
+man ['antonym'] dress ['mannerof'] change ['mannerof'] drift
+man ['antonym', 'relatedto'] farmer ['relatedto'] crop ['mannerof'] drift
+man ['antonym', 'relatedto'] farmer ['relatedto'] cattle ['relatedto'] drift
+man ['antonym', 'relatedto'] farmer ['relatedto'] sheep ['relatedto'] drift
+man ['antonym', 'distinctfrom', 'relatedto'] lady ['relatedto'] bird ['relatedto'] drift
+man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['relatedto'] sheep ['relatedto'] drift
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['synonym'] bird ['relatedto'] drift
+man ['antonym', 'distinctfrom', 'relatedto'] women ['relatedto'] club ['relatedto'] drift
+man ['antonym'] nature ['relatedto'] force ['isa', 'relatedto'] drift
+man ['antonym'] nature ['relatedto'] natural_process ['isa'] drift
+man ['antonym', 'relatedto'] politician ['relatedto'] change ['mannerof'] drift
+man ['derivedfrom', 'synonym'] batman ['relatedto'] vary ['mannerof'] drift
+man ['isa', 'relatedto', 'derivedfrom'] gentleman ['atlocation'] club ['relatedto'] drift
+man ['distinctfrom'] machine ['relatedto'] movement ['synonym'] drift
+man ['distinctfrom'] machine ['isa', 'relatedto'] rocket ['relatedto'] drift
+man ['distinctfrom'] machine ['isa'] vehicle ['relatedto'] drift
+man ['distinctfrom'] machine ['mannerof'] shape ['relatedto'] drift
+man ['distinctfrom'] machine ['relatedto'] tool ['relatedto'] drift
+man ['distinctfrom'] machine ['relatedto'] run ['relatedto'] drift
+man ['formof', 'etymologicallyrelatedto', 'relatedto'] men ['relatedto'] club ['relatedto'] drift
+man ['etymologicallyrelatedto'] shipman ['etymologicallyrelatedto'] sheep ['relatedto'] drift
+man ['isa'] black ['relatedto'] change ['mannerof'] drift
+man ['isa'] black ['relatedto'] club ['relatedto'] drift
+man ['isa'] black ['relatedto'] sheep ['relatedto'] drift
+man ['isa'] black ['usedfor'] hole ['relatedto'] drift
+man ['isa'] bouncer ['relatedto'] ball ['relatedto'] drift
+man ['isa', 'relatedto'] bull ['isa', 'relatedto', 'partof'] cattle ['relatedto'] drift
+man ['isa', 'relatedto'] bull ['relatedto'] force ['isa', 'relatedto'] drift
+man ['isa'] checker ['mannerof'] vary ['mannerof'] drift
+man ['isa', 'relatedto'] father ['relatedto'] act ['relatedto'] drift
+man ['isa', 'relatedto'] fellow ['relatedto'] bird ['relatedto'] drift
+man ['isa', 'relatedto'] guy ['synonym'] bird ['relatedto'] drift
+man ['isa'] male_person ['isa'] tenor ['isa'] drift
+man ['isa'] game_equipment ['isa'] ball ['relatedto'] drift
+man ['isa'] subordinate ['relatedto'] rocket ['relatedto'] drift
+man ['isa', 'relatedto'] policeman ['relatedto'] ball ['relatedto'] drift
+man ['isa'] white ['relatedto'] bird ['relatedto'] drift
+man ['isa'] white ['relatedto'] sheep ['relatedto'] drift
+man ['mannerof', 'relatedto'] staff ['isa', 'synonym'] force ['isa', 'relatedto'] drift
+man ['mannerof', 'relatedto'] staff ['relatedto'] club ['relatedto'] drift
+man ['mannerof', 'relatedto'] staff ['relatedto'] horizontal ['relatedto'] drift
+man ['mannerof', 'relatedto'] staff ['relatedto'] raft ['relatedto'] drift
+man ['mannerof'] work ['relatedto', 'synonym'] act ['relatedto'] drift
+man ['mannerof'] work ['relatedto'] set ['relatedto'] drift
+man ['mannerof'] work ['mannerof', 'relatedto'] drive ['etymologicallyrelatedto'] drift
+man ['mannerof'] work ['usedfor', 'mannerof', 'relatedto'] tool ['relatedto'] drift
+man ['mannerof'] work ['relatedto'] course ['relatedto'] drift
+man ['mannerof'] work ['relatedto'] run ['relatedto'] drift
+man ['mannerof'] work ['relatedto'] surface ['relatedto'] drift
+man ['mannerof'] work ['relatedto'] distance ['relatedto'] drift
+man ['mannerof'] work ['relatedto'] force ['isa', 'relatedto'] drift
+man ['mannerof'] work ['relatedto', 'synonym'] shape ['relatedto'] drift
+man ['relatedto'] art ['usedfor', 'relatedto', 'atlocation'] gallery ['relatedto', 'synonym'] drift
+man ['relatedto'] art ['relatedto'] movement ['synonym'] drift
+man ['relatedto'] art ['relatedto'] shape ['relatedto'] drift
+man ['relatedto'] artificial ['relatedto'] shaft ['relatedto'] drift
+man ['relatedto'] axle ['isa', 'relatedto'] shaft ['relatedto'] drift
+man ['relatedto'] bear ['mannerof'] crop ['mannerof'] drift
+man ['relatedto'] bear ['relatedto'] direction ['relatedto'] drift
+man ['relatedto'] bill ['synonym'] act ['relatedto'] drift
+man ['relatedto'] bill ['relatedto'] bird ['relatedto'] drift

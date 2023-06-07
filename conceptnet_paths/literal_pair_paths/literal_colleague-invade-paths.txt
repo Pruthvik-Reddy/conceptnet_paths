@@ -1,0 +1,100 @@
+colleague ['relatedto'] staff ['isa', 'synonym'] force ['relatedto'] invade
+colleague ['relatedto'] organization ['isa'] force ['relatedto'] invade
+colleague ['relatedto'] unite ['mannerof', 'relatedto', 'synonym'] join ['relatedto'] enter ['relatedto'] invade
+colleague ['relatedto'] unite ['antonym'] divide ['relatedto'] conquer ['relatedto'] invade
+colleague ['relatedto'] unite ['mannerof'] consolidate ['synonym'] entrench ['relatedto'] invade
+colleague ['relatedto'] unite ['mannerof', 'relatedto'] marry ['relatedto'] enter ['relatedto'] invade
+colleague ['relatedto'] unite ['mannerof'] change ['isa', 'mannerof', 'relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] unite ['mannerof'] change ['relatedto'] force ['relatedto'] invade
+colleague ['relatedto'] unite ['relatedto'] coming ['relatedto'] enter ['relatedto'] invade
+colleague ['relatedto'] unite ['relatedto'] put ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto'] unite ['relatedto'] put ['antonym', 'mannerof'] move ['relatedto'] invade
+colleague ['relatedto'] unite ['relatedto'] put ['mannerof'] trench ['relatedto'] invade
+colleague ['relatedto'] unite ['relatedto'] put_together ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto'] unite ['relatedto'] together ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto'] unite ['relatedto'] come ['relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] unite ['relatedto'] come ['relatedto'] enter ['relatedto'] invade
+colleague ['relatedto'] unite ['relatedto'] come ['relatedto'] intrude ['relatedto'] invade
+colleague ['relatedto'] unite ['synonym'] fasten ['mannerof'] entrench ['relatedto'] invade
+colleague ['isa', 'relatedto'] associate ['relatedto', 'synonym'] join ['relatedto'] enter ['relatedto'] invade
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['entails'] enter ['relatedto'] invade
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['mannerof'] attack ['mannerof'] invade
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['mannerof'] evade ['antonym'] invade
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['mannerof'] force ['relatedto'] invade
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['relatedto', 'synonym'] move ['relatedto'] invade
+colleague ['isa', 'relatedto'] associate ['relatedto'] habit ['relatedto'] inhabit ['mannerof'] invade
+colleague ['isa', 'relatedto'] associate ['relatedto'] astral_body ['relatedto'] inhabit ['mannerof'] invade
+colleague ['isa'] employee ['derivedfrom'] employ ['synonym'] occupy ['synonym'] invade
+colleague ['isa'] employee ['desires'] raise ['mannerof'] move ['relatedto'] invade
+colleague ['isa'] employee ['isa', 'relatedto'] floater ['relatedto'] move ['relatedto'] invade
+colleague ['isa'] employee ['relatedto'] work ['mannerof', 'relatedto'] move ['relatedto'] invade
+colleague ['isa'] employee ['relatedto'] work ['relatedto'] force ['relatedto'] invade
+colleague ['isa'] employee ['relatedto'] guard ['antonym'] attack ['mannerof'] invade
+colleague ['isa'] employee ['relatedto'] outplace ['relatedto'] move ['relatedto'] invade
+colleague ['isa'] employee ['relatedto'] pension ['relatedto'] force ['relatedto'] invade
+colleague ['isa'] employee ['relatedto'] personnel ['synonym'] force ['relatedto'] invade
+colleague ['isa'] employee ['relatedto'] staff ['isa', 'synonym'] force ['relatedto'] invade
+colleague ['isa'] employee ['relatedto'] wage ['relatedto'] attack ['mannerof'] invade
+colleague ['isa'] employee ['relatedto'] yahoo ['relatedto'] inhabit ['mannerof'] invade
+colleague ['relatedto'] mate ['relatedto'] together ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto'] mate ['isa', 'relatedto'] animal ['relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto'] check ['mannerof'] attack ['mannerof'] invade
+colleague ['relatedto'] mate ['relatedto'] check ['mannerof', 'entails'] move ['relatedto'] invade
+colleague ['relatedto'] mate ['capableof'] dogs ['capableof'] attack ['mannerof'] invade
+colleague ['relatedto'] mate ['capableof'] mammal ['relatedto'] babesia ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto', 'derivedfrom'] stalemate ['mannerof'] move ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto'] china ['relatedto'] occupy ['synonym'] invade
+colleague ['relatedto'] mate ['relatedto'] duck ['mannerof'] move ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto'] duck ['relatedto'] evade ['antonym'] invade
+colleague ['relatedto'] mate ['relatedto'] fork ['mannerof', 'relatedto'] attack ['mannerof'] invade
+colleague ['relatedto'] mate ['relatedto'] king ['hasprerequisite'] conquer_nation ['hasfirstsubevent'] invade
+colleague ['relatedto'] mate ['relatedto'] chess ['relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto'] life ['relatedto'] force ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto'] term ['relatedto'] force ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto'] technical ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto'] mate ['relatedto'] marry ['relatedto'] enter ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto'] space ['relatedto'] invader ['relatedto', 'derivedfrom'] invade
+colleague ['relatedto'] mate ['relatedto'] space ['relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] mate ['relatedto'] space ['relatedto'] occupy ['synonym'] invade
+colleague ['relatedto'] mate ['relatedto'] win ['relatedto'] conquer ['relatedto'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] human ['relatedto'] babesia ['relatedto'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] human ['relatedto'] piroplasma ['relatedto'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] another ['relatedto'] move ['relatedto'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] good ['relatedto'] force ['relatedto'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] mean ['motivatedbygoal'] conquer_nation ['hasfirstsubevent'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] term ['relatedto'] force ['relatedto'] invade
+colleague ['relatedto', 'synonym'] fellow ['synonym'] dog ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto', 'synonym'] fellow ['synonym'] dog ['relatedto'] piroplasma ['relatedto'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] condition ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] general ['relatedto'] move ['relatedto'] invade
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] trump ['mannerof'] move ['relatedto'] invade
+colleague ['isa'] subordinate ['mannerof'] lower ['mannerof'] move ['relatedto'] invade
+colleague ['isa'] subordinate ['relatedto'] position ['antonym'] attack ['mannerof'] invade
+colleague ['isa'] subordinate ['relatedto'] position ['relatedto'] move ['relatedto'] invade
+colleague ['isa'] subordinate ['relatedto'] rocket ['relatedto'] attack ['mannerof'] invade
+colleague ['isa'] subordinate ['relatedto'] authority ['relatedto'] trench ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto'] present ['relatedto'] inhabit ['mannerof'] invade
+colleague ['relatedto'] staff ['isa', 'relatedto'] stick ['mannerof'] force ['relatedto'] invade
+colleague ['relatedto'] staff ['synonym'] stay ['antonym', 'distinctfrom'] move ['relatedto'] invade
+colleague ['relatedto'] staff ['isa'] body ['relatedto'] invasive ['relatedto'] invade
+colleague ['relatedto'] staff ['isa'] body ['usedfor', 'relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto'] line ['relatedto'] enter ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto'] line ['relatedto'] trench ['relatedto'] invade
+colleague ['relatedto'] staff ['isa', 'synonym'] force ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto'] staff ['isa', 'synonym'] force ['relatedto'] invasive ['relatedto'] invade
+colleague ['relatedto'] staff ['mannerof'] serve ['relatedto'] attack ['mannerof'] invade
+colleague ['relatedto'] staff ['mannerof'] serve ['mannerof'] move ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto', 'partof'] space ['relatedto'] invader ['relatedto', 'derivedfrom'] invade
+colleague ['relatedto'] staff ['relatedto', 'partof'] space ['relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto', 'partof'] space ['relatedto'] occupy ['synonym'] invade
+colleague ['relatedto'] staff ['etymologicallyrelatedto', 'relatedto', 'synonym'] stave ['relatedto'] force ['relatedto'] invade
+colleague ['relatedto'] staff ['isa', 'relatedto'] crook ['etymologicallyrelatedto'] encroach ['synonym'] invade
+colleague ['relatedto'] staff ['relatedto', 'synonym'] personnel ['synonym'] force ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto'] representation ['relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto'] shake ['mannerof', 'relatedto'] move ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto'] shake ['relatedto'] evade ['antonym'] invade
+colleague ['relatedto'] staff ['relatedto', 'synonym'] cudgel ['relatedto'] force ['relatedto'] invade
+colleague ['relatedto'] staff ['relatedto'] target ['relatedto'] force ['relatedto'] invade
+colleague ['relatedto'] member ['relatedto'] join ['relatedto'] enter ['relatedto'] invade
+colleague ['relatedto'] member ['relatedto'] human ['relatedto'] babesia ['relatedto'] invade
+colleague ['relatedto'] member ['relatedto'] human ['relatedto'] piroplasma ['relatedto'] invade

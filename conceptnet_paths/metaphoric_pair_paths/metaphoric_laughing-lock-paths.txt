@@ -1,0 +1,100 @@
+laughing ['relatedto'] appearance ['relatedto'] dag ['relatedto'] lock
+laughing ['similarto'] happy ['relatedto'] thing ['relatedto'] lock
+laughing ['similarto'] happy ['relatedto', 'synonym'] glad ['relatedto'] lock
+laughing ['hasproperty'] relaxing ['usedfor'] bar ['relatedto'] lock
+laughing ['relatedto'] party ['relatedto'] bar ['relatedto'] lock
+laughing ['relatedto'] party ['relatedto'] bolt ['mannerof', 'relatedto', 'partof'] lock
+laughing ['relatedto'] party ['relatedto'] ritual ['relatedto'] lock
+laughing ['usedfor'] site ['isa'] lake ['etymologicallyrelatedto'] lock
+laughing ['usedfor'] site ['isa'] fixed_freestanding_structure ['isa'] lock
+laughing ['relatedto'] appearance ['relatedto'] presence ['relatedto'] close ['usedfor'] lock
+laughing ['relatedto'] appearance ['synonym'] air ['derivedfrom'] airlock ['derivedfrom'] lock
+laughing ['relatedto'] appearance ['synonym'] air ['relatedto'] four ['relatedto'] lock
+laughing ['relatedto'] appearance ['synonym'] air ['relatedto'] open ['capableof'] lock
+laughing ['relatedto'] appearance ['synonym'] air ['relatedto', 'synonym'] lift ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] apparent ['relatedto'] limb ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto', 'synonym'] appear ['synonym'] open ['capableof'] lock
+laughing ['relatedto'] appearance ['isa', 'derivedfrom'] reappearance ['isa'] egress ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] transfer ['mannerof'] post ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] transfer ['relatedto'] control ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] transfer ['mannerof', 'relatedto'] pass ['mannerof'] lock
+laughing ['relatedto'] appearance ['isa'] transfer ['mannerof', 'relatedto', 'synonym', 'entails'] move ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'synonym'] arrival ['isa'] entrance ['atlocation'] lock
+laughing ['relatedto'] appearance ['isa'] quality ['relatedto'] thing ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] quality ['relatedto'] control ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] quality ['relatedto'] success ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] quality ['relatedto'] thread ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] representation ['relatedto'] move ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] happening ['isa'] thing ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] happening ['isa'] success ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] happening ['relatedto'] prevent ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] beauty ['relatedto'] hair ['isa'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] color ['relatedto'] metal ['madeof', 'relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] color ['relatedto'] turn ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] complexion ['isa'] combination ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] emergence ['synonym'] egress ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] face ['relatedto'] bat ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] face ['mannerof', 'relatedto'] turn ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] face ['relatedto'] hair ['isa'] lock
+laughing ['relatedto'] appearance ['isa'] form ['relatedto', 'synonym'] construct ['mannerof'] lock
+laughing ['relatedto'] appearance ['isa'] form ['mannerof'] turn ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] form ['relatedto'] clicker ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] form ['relatedto'] ritual ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] form ['relatedto'] tuft ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] format ['relatedto'] container ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] front ['relatedto'] forward ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] front ['relatedto'] door ['relatedto', 'partof', 'atlocation'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] front ['relatedto'] entrance ['atlocation'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] front ['relatedto'] forelock ['isa'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] front ['relatedto'] move ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] front ['relatedto'] gate ['relatedto', 'partof', 'atlocation'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] front ['relatedto'] line_lock ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] front ['relatedto'] zipper ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa'] illusion ['isa'] security ['usedfor', 'relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] look ['relatedto'] open ['capableof'] lock
+laughing ['relatedto'] appearance ['isa', 'relatedto'] look ['etymologicallyrelatedto', 'relatedto'] luke ['relatedto'] lock
+laughing ['relatedto'] appearance ['isa', 'synonym'] view ['relatedto'] open ['capableof'] lock
+laughing ['relatedto'] appearance ['relatedto'] connect ['relatedto'] bolt ['mannerof', 'relatedto', 'partof'] lock
+laughing ['relatedto'] appearance ['relatedto'] connect ['relatedto', 'synonym'] fasten ['usedfor', 'mannerof', 'relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] first ['relatedto'] wheel ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] mirror ['relatedto'] resource ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] external ['relatedto'] door ['relatedto', 'partof', 'atlocation'] lock
+laughing ['relatedto'] appearance ['relatedto'] outward ['relatedto'] ward ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] phenomenon ['relatedto'] thing ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] phenomenon ['relatedto'] mechanism ['isa', 'relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto', 'synonym'] show ['relatedto'] device ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] substance ['relatedto'] bar ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] substance ['isa'] thing ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] substance ['relatedto'] metal ['madeof', 'relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] substance ['atlocation'] container ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] bail ['relatedto'] bar ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] bail ['isa', 'relatedto'] handle ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] bail ['relatedto'] secure ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] bail ['relatedto'] security ['usedfor', 'relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] bail ['relatedto'] restraint ['isa'] lock
+laughing ['relatedto'] appearance ['relatedto'] bail ['relatedto'] stump ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] become ['relatedto', 'synonym'] turn ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] cap ['relatedto'] keep ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] cap ['relatedto', 'synonym'] lid ['partof'] lock
+laughing ['relatedto'] appearance ['relatedto'] cap ['relatedto'] firearm ['partof'] lock
+laughing ['relatedto'] appearance ['relatedto'] cast ['relatedto'] device ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] cast ['relatedto'] hair ['isa'] lock
+laughing ['relatedto'] appearance ['relatedto'] cast ['relatedto'] gate ['relatedto', 'partof', 'atlocation'] lock
+laughing ['relatedto'] appearance ['relatedto'] cloud ['relatedto'] container ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] dag ['synonym'] daglock ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] delicacy ['relatedto'] need ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] distress ['synonym'] seize ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] elegance ['relatedto'] restraint ['isa'] lock
+laughing ['relatedto'] appearance ['relatedto'] expression ['relatedto'] glad ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] fit ['causes', 'mannerof'] dovetail ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] font ['relatedto'] receptacle ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] gloomy_gus ['relatedto'] pessimistic ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] guy ['relatedto'] thing ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] guy ['relatedto'] secure ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] habit ['relatedto'] keep ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] habit ['isa', 'relatedto'] ritual ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] haircut_band ['relatedto'] success ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] hairlike ['relatedto'] hair ['isa'] lock
+laughing ['relatedto'] appearance ['relatedto'] lire ['relatedto'] limb ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] looks ['relatedto'] need ['relatedto'] lock
+laughing ['relatedto'] appearance ['relatedto'] marble ['relatedto'] interlace ['synonym'] lock

@@ -1,0 +1,100 @@
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto', 'atlocation'] drain
+life ['relatedto'] wick ['capableof', 'relatedto'] drain
+life ['relatedto'] biological ['relatedto'] dry ['etymologicallyrelatedto'] drain
+life ['relatedto', 'partof'] birth ['relatedto'] mole ['relatedto'] drain
+life ['relatedto', 'partof'] age ['etymologicallyrelatedto'] sewage ['relatedto'] drain
+life ['relatedto', 'partof'] age ['relatedto'] hair ['atlocation'] drain
+life ['desires'] grow ['relatedto'] pot ['relatedto'] drain
+life ['relatedto'] human ['atlocation'] swimming_pool ['atlocation'] drain
+life ['relatedto'] human ['relatedto', 'partof'] hair ['atlocation'] drain
+life ['relatedto'] human ['relatedto'] run ['mannerof'] drain
+life ['relatedto'] human ['relatedto'] sewer ['isa', 'relatedto', 'partof'] drain
+life ['relatedto'] human ['relatedto'] waste ['relatedto'] drain
+life ['relatedto', 'atlocation'] earth ['antonym', 'relatedto'] water ['relatedto', 'atlocation'] drain
+life ['relatedto', 'atlocation'] earth ['relatedto'] barrow ['relatedto'] drain
+life ['relatedto', 'atlocation'] earth ['relatedto'] mole ['relatedto'] drain
+life ['relatedto', 'atlocation'] earth ['relatedto'] pipe ['isa'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['atlocation'] underground ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto', 'atlocation'] pipe ['isa'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['atlocation'] sewer ['isa', 'relatedto', 'partof'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto', 'atlocation'] shower ['partof'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto', 'atlocation'] sink ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto', 'atlocation'] toilet ['partof'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['capableof'] circle_drain ['derivedfrom'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['hasa', 'relatedto'] basin ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['mannerof', 'relatedto'] fill ['antonym'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] catchdrain ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] conduit ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] drainage ['derivedfrom', 'synonym'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] draincock ['derivedfrom'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] dry ['etymologicallyrelatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] gutter ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] issue ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] lade ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] pot ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] soak ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] soy_nut ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] stench_trap ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] surf ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] thorough ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] underdrain ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] unplug ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] vault ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] washbasin ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] washbowl ['relatedto'] drain
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] water_gang ['relatedto'] drain
+life ['relatedto', 'synonym'] alive ['relatedto'] wick ['capableof', 'relatedto'] drain
+life ['antonym', 'distinctfrom', 'relatedto'] dead ['synonym'] drained ['formof', 'relatedto'] drain
+life ['relatedto'] animal ['isa'] leech ['relatedto', 'synonym'] drain
+life ['relatedto'] animal ['isa', 'relatedto'] mole ['relatedto'] drain
+life ['relatedto'] animal ['relatedto'] issue ['relatedto'] drain
+life ['relatedto'] plant ['relatedto'] underground ['relatedto'] drain
+life ['relatedto'] plant ['relatedto'] water ['relatedto', 'atlocation'] drain
+life ['relatedto'] plant ['relatedto', 'atlocation'] pot ['relatedto'] drain
+life ['relatedto'] plant ['relatedto'] sew ['relatedto'] drain
+life ['relatedto'] hide ['relatedto'] run ['mannerof'] drain
+life ['relatedto'] go ['antonym', 'distinctfrom', 'relatedto'] stop ['relatedto'] drain
+life ['relatedto'] go ['relatedto'] flow ['relatedto'] drain
+life ['relatedto'] go ['relatedto', 'synonym'] run ['mannerof'] drain
+life ['partof'] sleep ['causesdesire'] fatigue ['similarto'] drain
+life ['relatedto'] art ['isa', 'relatedto'] drawing ['isa'] drain
+life ['relatedto'] art ['relatedto'] fill ['antonym'] drain
+life ['relatedto'] atom ['relatedto'] mole ['relatedto'] drain
+life ['causes', 'relatedto', 'synonym', 'usedfor'] living ['relatedto'] vampire ['relatedto'] drain
+life ['relatedto'] fish ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] drain
+life ['relatedto'] fish ['usedfor', 'relatedto', 'atlocation'] lake ['relatedto'] drain
+life ['relatedto'] fish ['relatedto'] fry ['relatedto'] drain
+life ['relatedto'] fish ['relatedto'] waterhorse ['relatedto'] drain
+life ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] death ['relatedto'] terminal ['relatedto'] drain
+life ['antonym', 'capableof', 'relatedto'] die ['relatedto'] stop ['relatedto'] drain
+life ['synonym'] time ['relatedto'] stop ['relatedto'] drain
+life ['synonym'] time ['isa'] resource ['relatedto'] drain
+life ['synonym'] time ['relatedto'] issue ['relatedto'] drain
+life ['synonym'] time ['relatedto'] run ['mannerof'] drain
+life ['synonym'] time ['relatedto'] terminal ['relatedto'] drain
+life ['synonym'] time ['relatedto'] waste ['relatedto'] drain
+life ['relatedto'] board ['relatedto'] water ['relatedto', 'atlocation'] drain
+life ['relatedto'] board ['isa', 'derivedfrom'] drainboard ['relatedto', 'derivedfrom'] drain
+life ['relatedto'] board ['entails'] consume ['mannerof'] drain
+life ['relatedto'] board ['relatedto'] drawing ['isa'] drain
+life ['relatedto'] board ['relatedto'] surf ['relatedto'] drain
+life ['relatedto'] board ['relatedto'] draining_board ['relatedto'] drain
+life ['relatedto'] board ['relatedto'] kennel ['synonym'] drain
+life ['isa'] magazine ['relatedto'] issue ['relatedto'] drain
+life ['isa'] bore ['relatedto'] water ['relatedto', 'atlocation'] drain
+life ['isa'] bore ['usedfor', 'relatedto', 'synonym'] drill ['relatedto'] drain
+life ['isa'] bore ['relatedto'] flow ['relatedto'] drain
+life ['isa'] bore ['similarto'] fatigue ['similarto'] drain
+life ['partof'] fun ['motivatedbygoal'] surf ['relatedto'] drain
+life ['partof'] fun ['usedfor', 'relatedto'] lake ['relatedto'] drain
+life ['partof'] fun ['usedfor'] swimming_pool ['atlocation'] drain
+life ['hasprerequisite'] dying ['relatedto'] terminal ['relatedto'] drain
+life ['locatednear', 'causes', 'createdby'] poop ['madeof', 'relatedto'] waste ['relatedto'] drain
+life ['locatednear', 'causes', 'createdby'] poop ['usedfor'] toilet ['partof'] drain
+life ['relatedto'] bread ['antonym', 'relatedto'] water ['relatedto', 'atlocation'] drain
+life ['isa'] school ['atlocation'] swimming_pool ['atlocation'] drain
+life ['isa'] gift ['relatedto'] lake ['relatedto'] drain
+life ['relatedto'] remain ['distinctfrom'] empty ['mannerof', 'relatedto'] drain

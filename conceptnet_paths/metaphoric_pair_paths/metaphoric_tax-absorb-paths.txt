@@ -1,0 +1,100 @@
+tax ['relatedto'] fund ['mannerof'] absorb
+tax ['relatedto'] transaction ['relatedto'] absorb
+tax ['relatedto'] accumulation ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] reduction ['relatedto'] platinum_black ['relatedto'] absorb
+tax ['relatedto'] payment ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] payment ['relatedto'] transaction ['relatedto'] absorb
+tax ['relatedto'] expensive ['relatedto'] steep ['synonym'] absorb
+tax ['relatedto'] hide ['relatedto'] disappear ['relatedto'] absorb
+tax ['relatedto'] bill ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] bland ['etymologicallyrelatedto', 'relatedto'] blend ['mannerof'] absorb
+tax ['relatedto'] bland ['relatedto'] flatness ['relatedto'] absorb
+tax ['antonym', 'relatedto'] money ['relatedto'] interest ['mannerof'] absorb
+tax ['antonym', 'relatedto'] money ['relatedto'] root ['relatedto'] absorb
+tax ['antonym', 'relatedto'] money ['isa', 'relatedto'] fund ['mannerof'] absorb
+tax ['antonym', 'relatedto'] money ['relatedto'] lickpenny ['relatedto'] absorb
+tax ['antonym', 'relatedto'] money ['relatedto'] transaction ['relatedto'] absorb
+tax ['relatedto'] flat ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] flat ['relatedto', 'derivedfrom'] flatness ['relatedto'] absorb
+tax ['mannerof', 'relatedto'] charge ['relatedto'] interest ['mannerof'] absorb
+tax ['mannerof', 'relatedto'] charge ['mannerof'] overwhelm ['relatedto'] absorb
+tax ['mannerof', 'relatedto'] charge ['relatedto'] transaction ['relatedto'] absorb
+tax ['mannerof', 'relatedto'] charge ['relatedto'] use ['synonym'] absorb
+tax ['relatedto'] pay ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] pay ['antonym'] receive ['mannerof'] absorb
+tax ['relatedto'] pay ['mannerof', 'relatedto'] defray ['relatedto'] absorb
+tax ['relatedto'] pay ['relatedto'] fund ['mannerof'] absorb
+tax ['relatedto'] pay ['relatedto'] transaction ['relatedto'] absorb
+tax ['relatedto'] pay ['relatedto'] use ['synonym'] absorb
+tax ['relatedto'] subject ['relatedto'] read ['relatedto'] absorb
+tax ['relatedto'] related ['relatedto'] read ['relatedto'] absorb
+tax ['relatedto'] cost ['relatedto'] interest ['mannerof'] absorb
+tax ['antonym', 'relatedto'] income ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] revenue ['relatedto'] receive ['mannerof'] absorb
+tax ['relatedto'] cut ['mannerof', 'relatedto'] separate ['relatedto'] absorb
+tax ['relatedto'] cut ['relatedto'] commercial ['relatedto'] absorb
+tax ['relatedto'] cut ['relatedto'] draw ['synonym'] absorb
+tax ['relatedto'] cut ['relatedto'] use ['synonym'] absorb
+tax ['antonym'] credit ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] debt ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] paid ['relatedto'] interest ['mannerof'] absorb
+tax ['isa', 'relatedto', 'synonym'] duty ['relatedto'] assume ['synonym'] absorb
+tax ['isa', 'relatedto', 'synonym'] duty ['relatedto'] learn ['mannerof', 'relatedto'] absorb
+tax ['antonym'] spend ['mannerof', 'relatedto'] consume ['mannerof', 'synonym'] absorb
+tax ['antonym'] spend ['relatedto'] defray ['relatedto'] absorb
+tax ['relatedto'] extra ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] extra ['relatedto'] patch ['relatedto'] absorb
+tax ['relatedto'] form ['isa'] root ['relatedto'] absorb
+tax ['relatedto'] form ['mannerof', 'relatedto'] draw ['synonym'] absorb
+tax ['relatedto'] goods ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] goods ['relatedto'] consume ['mannerof', 'synonym'] absorb
+tax ['relatedto'] giving ['antonym', 'relatedto'] receive ['mannerof'] absorb
+tax ['relatedto'] taking ['relatedto'] receive ['mannerof'] absorb
+tax ['relatedto'] taking ['relatedto'] swallow ['relatedto'] absorb
+tax ['relatedto'] service ['relatedto'] receive ['mannerof'] absorb
+tax ['relatedto'] return ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] fee ['isa', 'relatedto'] interest ['mannerof'] absorb
+tax ['isa', 'relatedto'] rates ['relatedto'] interest ['mannerof'] absorb
+tax ['isa'] transfer_tax ['relatedto'] transaction ['relatedto'] absorb
+tax ['isa'] use_tax ['relatedto'] use ['synonym'] absorb
+tax ['mannerof'] strain ['relatedto'] separate ['relatedto'] absorb
+tax ['mannerof'] strain ['mannerof'] use ['synonym'] absorb
+tax ['mannerof'] determine ['relatedto'] draw ['synonym'] absorb
+tax ['mannerof'] determine ['synonym'] learn ['mannerof', 'relatedto'] absorb
+tax ['relatedto'] alcavala ['relatedto'] transaction ['relatedto'] absorb
+tax ['relatedto'] concession ['relatedto'] use ['synonym'] absorb
+tax ['relatedto'] custom ['synonym'] use ['synonym'] absorb
+tax ['relatedto'] decima ['relatedto'] separate ['relatedto'] absorb
+tax ['relatedto'] ebit ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] ebitda ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] fixed_charge ['isa'] interest ['mannerof'] absorb
+tax ['relatedto'] liabilities ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] national_insurance ['relatedto'] fund ['mannerof'] absorb
+tax ['relatedto'] payroll ['relatedto'] receive ['mannerof'] absorb
+tax ['relatedto'] piti_payment ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] rate ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] additional ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] budget ['relatedto'] use ['synonym'] absorb
+tax ['relatedto'] budget ['isa'] fund ['mannerof'] absorb
+tax ['relatedto'] collect ['relatedto'] receive ['mannerof'] absorb
+tax ['relatedto'] collecting ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] collecting_money ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] fees ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] fund ['relatedto'] transaction ['relatedto'] absorb
+tax ['relatedto'] funding ['formof', 'relatedto', 'derivedfrom'] fund ['mannerof'] absorb
+tax ['relatedto'] funds ['formof'] fund ['mannerof'] absorb
+tax ['relatedto'] given ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] given ['relatedto'] receive ['mannerof'] absorb
+tax ['relatedto'] grab ['usedfor'] use ['synonym'] absorb
+tax ['relatedto'] grab ['relatedto'] consume ['mannerof', 'synonym'] absorb
+tax ['relatedto'] involved ['relatedto'] include ['relatedto'] absorb
+tax ['relatedto'] involved ['formof', 'relatedto'] involve ['mannerof'] absorb
+tax ['relatedto'] money_given ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] owed ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] percent ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] percentage ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] percentages ['relatedto'] interest ['mannerof'] absorb
+tax ['relatedto'] program ['isa'] patch ['relatedto'] absorb
+tax ['relatedto'] schools ['relatedto'] learn ['mannerof', 'relatedto'] absorb
+tax ['relatedto'] share ['entails'] separate ['relatedto'] absorb
+tax ['relatedto'] share ['isa', 'relatedto'] interest ['mannerof'] absorb

@@ -1,0 +1,100 @@
+foundation ['isa'] bed ['relatedto'] lay
+foundation ['relatedto'] lay_groundwork ['derivedfrom'] lay
+foundation ['synonym'] establishment ['relatedto'] establish ['relatedto'] lay
+foundation ['synonym'] establishment ['relatedto'] rest ['relatedto', 'synonym'] lay
+foundation ['relatedto'] concrete ['atlocation'] carpet ['relatedto'] lay
+foundation ['relatedto'] concrete ['relatedto'] ballast ['relatedto'] lay
+foundation ['relatedto'] concrete ['relatedto'] float ['relatedto'] lay
+foundation ['relatedto', 'synonym'] base ['synonym'] establish ['relatedto'] lay
+foundation ['relatedto', 'synonym'] base ['relatedto', 'synonym'] stand ['antonym'] lay
+foundation ['relatedto', 'synonym'] base ['relatedto'] standing ['distinctfrom'] lay
+foundation ['relatedto', 'synonym'] base ['relatedto'] hoggin ['relatedto'] lay
+foundation ['relatedto', 'synonym'] base ['relatedto'] lewd ['relatedto'] lay
+foundation ['relatedto'] ground ['synonym'] establish ['relatedto'] lay
+foundation ['relatedto'] ground ['mannerof'] put ['mannerof', 'relatedto', 'synonym'] lay
+foundation ['relatedto'] ground ['relatedto'] bury ['mannerof'] lay
+foundation ['relatedto'] ground ['relatedto'] carpet ['relatedto'] lay
+foundation ['relatedto'] ground ['relatedto'] coffin ['relatedto'] lay
+foundation ['relatedto'] ground ['relatedto'] play ['relatedto'] lay
+foundation ['relatedto'] ground ['relatedto'] stand ['antonym'] lay
+foundation ['relatedto'] ground ['relatedto'] standing ['distinctfrom'] lay
+foundation ['relatedto'] ground ['relatedto'] type ['relatedto'] lay
+foundation ['relatedto'] ground ['relatedto'] stake ['relatedto'] lay
+foundation ['relatedto'] ground ['relatedto'] twist ['relatedto'] lay
+foundation ['relatedto'] basement ['atlocation'] bed ['relatedto'] lay
+foundation ['isa'] bed ['relatedto', 'hasprerequisite'] rest ['relatedto', 'synonym'] lay
+foundation ['isa'] bed ['relatedto'] arise ['antonym'] lay
+foundation ['isa'] bed ['relatedto'] go ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] lie ['formof', 'causes', 'relatedto'] lay
+foundation ['isa'] bed ['antonym', 'usedfor', 'relatedto'] sleep ['relatedto'] lay
+foundation ['isa'] bed ['relatedto', 'hasprerequisite', 'atlocation'] sleeping ['relatedto'] lay
+foundation ['isa'] bed ['atlocation'] carpet ['relatedto'] lay
+foundation ['isa'] bed ['relatedto', 'derivedfrom'] embed ['relatedto'] lay
+foundation ['isa'] bed ['mannerof'] put ['mannerof', 'relatedto', 'synonym'] lay
+foundation ['isa'] bed ['relatedto'] ballast ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] coffin ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] horizontal ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] laying ['formof', 'relatedto'] lay
+foundation ['isa'] bed ['relatedto'] lying ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] made ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] relaxation ['relatedto'] lay
+foundation ['isa'] bed ['usedfor', 'relatedto'] resting ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] stand ['antonym'] lay
+foundation ['isa'] bed ['relatedto', 'synonym'] layer ['relatedto', 'derivedfrom'] lay
+foundation ['isa'] bed ['relatedto'] sexual_intercourse ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] nest ['relatedto'] lay
+foundation ['isa'] bed ['relatedto'] river ['isa'] lay
+foundation ['relatedto'] skin ['isa', 'relatedto'] layer ['relatedto', 'derivedfrom'] lay
+foundation ['relatedto'] skin ['relatedto'] layout ['relatedto', 'derivedfrom'] lay
+foundation ['isa'] book ['causesdesire'] sleep ['relatedto'] lay
+foundation ['isa'] book ['isa', 'relatedto'] reader ['relatedto'] lay
+foundation ['isa'] book ['atlocation'] bed ['relatedto'] lay
+foundation ['isa'] book ['atlocation'] poem ['relatedto'] lay
+foundation ['isa'] book ['hasa'] past ['relatedto'] lay
+foundation ['isa'] book ['isa'] job ['relatedto'] lay
+foundation ['isa'] book ['isa'] stand ['antonym'] lay
+foundation ['isa'] book ['relatedto'] type ['relatedto'] lay
+foundation ['isa'] book ['relatedto'] charge ['relatedto'] lay
+foundation ['isa'] book ['relatedto'] bet ['relatedto'] lay
+foundation ['isa'] book ['relatedto'] case ['relatedto'] lay
+foundation ['relatedto'] card ['antonym'] chip ['relatedto'] lay
+foundation ['relatedto'] card ['relatedto'] play ['relatedto'] lay
+foundation ['relatedto'] card ['relatedto'] tables ['relatedto'] lay
+foundation ['relatedto'] card ['relatedto'] type ['relatedto'] lay
+foundation ['relatedto'] card ['relatedto'] charge ['relatedto'] lay
+foundation ['relatedto'] card ['relatedto'] sword ['relatedto'] lay
+foundation ['relatedto'] card ['relatedto'] twist ['relatedto'] lay
+foundation ['isa'] charity ['isa', 'relatedto'] giving ['relatedto'] lay
+foundation ['atlocation'] closet ['relatedto'] hang ['antonym'] lay
+foundation ['atlocation'] closet ['atlocation'] carpet ['relatedto'] lay
+foundation ['isa', 'relatedto'] support ['isa'] rest ['relatedto', 'synonym'] lay
+foundation ['isa', 'relatedto'] support ['relatedto'] bed ['relatedto'] lay
+foundation ['isa', 'relatedto'] support ['relatedto'] stand ['antonym'] lay
+foundation ['isa', 'relatedto'] support ['relatedto'] rail ['mannerof'] lay
+foundation ['isa', 'relatedto'] support ['relatedto'] stake ['relatedto'] lay
+foundation ['isa', 'relatedto'] support ['relatedto'] giving ['relatedto'] lay
+foundation ['isa', 'relatedto'] support ['relatedto'] resting ['relatedto'] lay
+foundation ['relatedto'] wall ['relatedto'] hang ['antonym'] lay
+foundation ['relatedto'] wall ['relatedto'] bed ['relatedto'] lay
+foundation ['relatedto'] wall ['relatedto'] brick ['relatedto'] lay
+foundation ['relatedto'] wall ['isa'] layer ['relatedto', 'derivedfrom'] lay
+foundation ['relatedto'] wall ['relatedto'] rope ['relatedto'] lay
+foundation ['antonym'] roof ['relatedto', 'derivedfrom', 'atlocation'] roofer ['relatedto'] lay
+foundation ['antonym'] roof ['relatedto'] plan ['relatedto'] lay
+foundation ['hasa', 'relatedto', 'partof'] building ['relatedto'] brick ['relatedto'] lay
+foundation ['hasa', 'relatedto', 'partof'] building ['relatedto'] nest ['relatedto'] lay
+foundation ['hasa', 'relatedto', 'partof'] building ['atlocation'] carpet ['relatedto'] lay
+foundation ['hasa', 'relatedto', 'partof'] building ['relatedto'] plan ['relatedto'] lay
+foundation ['hasa', 'relatedto', 'partof'] building ['relatedto'] planching ['relatedto'] lay
+foundation ['hasa'] houses ['relatedto'] bed ['relatedto'] lay
+foundation ['hasa'] houses ['madeof', 'relatedto'] brick ['relatedto'] lay
+foundation ['hasa'] houses ['relatedto'] chick ['relatedto'] lay
+foundation ['hasa'] houses ['relatedto'] chicken ['relatedto'] lay
+foundation ['hasa'] houses ['relatedto'] move ['antonym'] lay
+foundation ['hasa'] houses ['relatedto'] carpet ['relatedto'] lay
+foundation ['isa', 'relatedto'] footing ['relatedto'] rest ['relatedto', 'synonym'] lay
+foundation ['isa', 'relatedto'] footing ['relatedto'] position ['relatedto'] lay
+foundation ['isa', 'relatedto'] footing ['relatedto'] stand ['antonym'] lay
+foundation ['isa', 'relatedto'] footing ['relatedto'] standing ['distinctfrom'] lay
+foundation ['isa'] liquid ['relatedto'] egg ['relatedto'] lay
+foundation ['isa'] liquid ['relatedto'] case ['relatedto'] lay

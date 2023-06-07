@@ -1,0 +1,100 @@
+blow ['relatedto'] action ['relatedto'] land
+blow ['relatedto'] air ['antonym', 'distinctfrom'] land
+blow ['relatedto'] fall ['haslastsubevent'] land
+blow ['relatedto'] plate ['relatedto'] land
+blow ['relatedto'] big ['relatedto'] land
+blow ['isa', 'relatedto'] clip ['relatedto'] land
+blow ['relatedto'] play ['relatedto'] land
+blow ['relatedto'] inshore ['relatedto'] land
+blow ['relatedto'] tropæan ['relatedto'] land
+blow ['synonym'] waste ['relatedto'] land
+blow ['relatedto'] action ['isa'] plot ['relatedto'] land
+blow ['relatedto'] action ['isa'] state ['relatedto', 'synonym'] land
+blow ['relatedto'] action ['isa', 'relatedto', 'synonym'] course ['relatedto'] land
+blow ['relatedto'] action ['isa', 'relatedto'] play ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] part ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] arrive ['etymologicallyrelatedto', 'mannerof'] land
+blow ['relatedto'] action ['relatedto'] bring ['mannerof', 'synonym'] land
+blow ['relatedto'] action ['relatedto'] carry ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] chop ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] claim ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] connect ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] crop ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] deliver ['mannerof', 'relatedto'] land
+blow ['relatedto'] action ['relatedto'] drove ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] fall ['haslastsubevent'] land
+blow ['relatedto'] action ['relatedto'] fly ['antonym', 'haslastsubevent'] land
+blow ['relatedto'] action ['relatedto'] hide ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] hundreder ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] labour ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] seek ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] slash ['isa', 'relatedto'] land
+blow ['relatedto'] action ['relatedto'] slope ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] stale ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] stick ['relatedto'] land
+blow ['relatedto'] action ['relatedto'] touch ['relatedto'] land
+blow ['mannerof'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] land
+blow ['mannerof'] rest ['antonym', 'haslastsubevent', 'relatedto'] play ['relatedto'] land
+blow ['mannerof'] rest ['isa'] bridge ['relatedto'] land
+blow ['mannerof'] rest ['relatedto'] alight ['mannerof', 'relatedto'] land
+blow ['mannerof'] rest ['relatedto'] grave ['relatedto'] land
+blow ['mannerof'] rest ['relatedto'] house ['relatedto'] land
+blow ['mannerof'] rest ['relatedto'] feet ['relatedto'] land
+blow ['mannerof'] rest ['relatedto'] road ['relatedto'] land
+blow ['mannerof'] rest ['relatedto'] state ['relatedto', 'synonym'] land
+blow ['relatedto'] human ['atlocation'] aircraft ['usedfor'] land
+blow ['relatedto'] human ['atlocation'] airplane ['relatedto'] land
+blow ['relatedto'] human ['atlocation'] boat ['relatedto'] land
+blow ['relatedto'] human ['atlocation'] country ['relatedto', 'synonym', 'atlocation'] land
+blow ['relatedto'] human ['atlocation'] farm ['relatedto'] land
+blow ['relatedto'] human ['atlocation'] grave ['relatedto'] land
+blow ['relatedto'] human ['atlocation'] graveyard ['relatedto'] land
+blow ['relatedto'] human ['atlocation'] state ['relatedto', 'synonym'] land
+blow ['relatedto'] human ['relatedto'] canal ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] cell ['antonym'] land
+blow ['relatedto'] human ['relatedto'] death_zone ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land
+blow ['relatedto'] human ['relatedto'] farmer ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] feet ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] geography ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] living ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] lord ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] native ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] neck ['isa', 'relatedto'] land
+blow ['relatedto'] human ['relatedto'] touch ['relatedto'] land
+blow ['relatedto'] human ['relatedto'] waste ['relatedto'] land
+blow ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land
+blow ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto', 'synonym'] land
+blow ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land
+blow ['relatedto'] air ['atlocation'] bridge ['relatedto'] land
+blow ['relatedto'] air ['atlocation'] house ['relatedto'] land
+blow ['relatedto'] air ['atlocation'] pocket ['relatedto'] land
+blow ['relatedto'] air ['relatedto', 'atlocation'] sky ['antonym', 'distinctfrom', 'relatedto'] land
+blow ['relatedto'] air ['relatedto', 'atlocation'] aircraft ['usedfor'] land
+blow ['relatedto'] air ['atlocation'] airplane ['relatedto'] land
+blow ['relatedto'] air ['atlocation'] birds ['capableof'] land
+blow ['relatedto'] air ['atlocation'] plain ['isa', 'relatedto'] land
+blow ['relatedto'] air ['derivedfrom'] airland ['derivedfrom'] land
+blow ['relatedto'] air ['relatedto', 'hasprerequisite'] living ['relatedto'] land
+blow ['relatedto'] air ['isa'] medium ['relatedto'] land
+blow ['relatedto'] air ['isa'] region ['relatedto'] land
+blow ['relatedto'] air ['mannerof', 'relatedto'] dry ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] everywhere ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] term ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] army ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] bottle_flipping ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] chicken ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] coast ['antonym', 'relatedto'] land
+blow ['relatedto'] air ['relatedto'] fly ['antonym', 'haslastsubevent'] land
+blow ['relatedto'] air ['relatedto'] indraught ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] ridge ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] terra_firma ['relatedto', 'synonym'] land
+blow ['relatedto'] air ['relatedto'] tongue ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] triphibian ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] triphibious ['relatedto'] land
+blow ['relatedto'] air ['relatedto'] vessel ['relatedto'] land
+blow ['antonym'] vacuum ['antonym', 'distinctfrom', 'relatedto'] air ['antonym', 'distinctfrom'] land
+blow ['antonym'] vacuum ['isa', 'relatedto'] region ['relatedto'] land
+blow ['antonym'] vacuum ['relatedto'] fly ['antonym', 'haslastsubevent'] land
+blow ['antonym'] vacuum ['relatedto'] medium ['relatedto'] land
+blow ['antonym'] vacuum ['relatedto'] dirt ['relatedto'] land

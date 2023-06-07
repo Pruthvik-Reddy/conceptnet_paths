@@ -1,0 +1,100 @@
+son ['isa', 'relatedto'] child ['relatedto'] ball ['relatedto'] drift
+son ['isa', 'relatedto'] child ['relatedto'] heap ['relatedto'] drift
+son ['relatedto'] children ['relatedto'] ball ['relatedto'] drift
+son ['relatedto'] human ['antonym'] bird ['relatedto'] drift
+son ['relatedto'] human ['atlocation'] motion ['relatedto'] drift
+son ['relatedto'] human ['relatedto'] run ['relatedto'] drift
+son ['relatedto'] short ['relatedto'] crop ['mannerof'] drift
+son ['relatedto'] short ['relatedto'] horizontal ['relatedto'] drift
+son ['relatedto'] man ['relatedto'] bird ['relatedto'] drift
+son ['relatedto'] man ['relatedto'] club ['relatedto'] drift
+son ['relatedto'] one ['hasproperty'] hole ['relatedto'] drift
+son ['relatedto'] one ['relatedto'] ball ['relatedto'] drift
+son ['relatedto'] one ['relatedto'] run ['relatedto'] drift
+son ['relatedto'] apple ['relatedto'] ball ['relatedto'] drift
+son ['relatedto'] apple ['relatedto'] fall ['relatedto'] drift
+son ['relatedto'] apple ['relatedto'] shape ['relatedto'] drift
+son ['relatedto'] spring ['antonym', 'distinctfrom', 'relatedto'] fall ['relatedto'] drift
+son ['relatedto'] spring ['relatedto'] run ['relatedto'] drift
+son ['relatedto'] spring ['relatedto'] force ['isa', 'relatedto'] drift
+son ['relatedto'] spring ['relatedto'] arch ['relatedto'] drift
+son ['relatedto'] bear ['mannerof'] crop ['mannerof'] drift
+son ['relatedto'] bear ['relatedto'] direction ['relatedto'] drift
+son ['distinctfrom', 'relatedto'] female ['relatedto'] sheep ['relatedto'] drift
+son ['relatedto'] chicken ['isa', 'relatedto'] bird ['relatedto'] drift
+son ['antonym', 'relatedto'] father ['relatedto'] act ['relatedto'] drift
+son ['relatedto'] parents ['relatedto'] sheep ['relatedto'] drift
+son ['relatedto'] heat ['mannerof'] change ['mannerof'] drift
+son ['derivedfrom'] johnson ['relatedto'] bird ['relatedto'] drift
+son ['relatedto'] cadet ['relatedto'] sheep ['relatedto'] drift
+son ['relatedto'] family ['relatedto'] set ['relatedto'] drift
+son ['relatedto'] family ['relatedto'] driftfish ['derivedfrom'] drift
+son ['relatedto'] family ['relatedto'] collection ['relatedto'] drift
+son ['relatedto'] lord ['relatedto'] act ['relatedto'] drift
+son ['relatedto'] phaëthon ['relatedto'] drive ['etymologicallyrelatedto'] drift
+son ['relatedto'] range ['isa', 'relatedto'] set ['relatedto'] drift
+son ['relatedto'] range ['relatedto'] bolt ['relatedto'] drift
+son ['relatedto'] range ['synonym'] crop ['mannerof'] drift
+son ['relatedto'] range ['relatedto'] distance ['relatedto'] drift
+son ['relatedto'] range ['relatedto'] cattle ['relatedto'] drift
+son ['relatedto'] range ['relatedto'] collection ['relatedto'] drift
+son ['relatedto'] range ['relatedto'] wander ['synonym'] drift
+son ['relatedto'] range ['relatedto', 'synonym'] run ['relatedto'] drift
+son ['relatedto'] range ['synonym'] roll ['synonym'] drift
+son ['relatedto'] hair ['relatedto'] mass ['isa'] drift
+son ['relatedto'] hair ['relatedto'] sheep ['relatedto'] drift
+son ['relatedto'] hair ['relatedto'] flock ['relatedto'] drift
+son ['relatedto'] hair ['relatedto'] collection ['relatedto'] drift
+son ['relatedto'] member ['relatedto'] set ['relatedto'] drift
+son ['relatedto'] member ['relatedto'] club ['relatedto'] drift
+son ['relatedto'] penis ['relatedto'] bird ['relatedto'] drift
+son ['relatedto'] penis ['relatedto'] tool ['relatedto'] drift
+son ['relatedto'] relation ['isa'] change ['mannerof'] drift
+son ['relatedto'] type ['relatedto'] bird ['relatedto'] drift
+son ['relatedto'] type ['relatedto'] set ['relatedto'] drift
+son ['relatedto'] type ['relatedto'] bolt ['relatedto'] drift
+son ['relatedto'] type ['relatedto'] course ['relatedto'] drift
+son ['relatedto'] type ['relatedto'] motion ['relatedto'] drift
+son ['relatedto'] type ['relatedto'] roll ['synonym'] drift
+son ['relatedto'] type ['relatedto'] meridian ['relatedto'] drift
+son ['relatedto'] god ['relatedto'] set ['relatedto'] drift
+son ['relatedto'] address ['relatedto'] ball ['relatedto'] drift
+son ['relatedto'] address ['isa', 'relatedto'] direction ['relatedto'] drift
+son ['relatedto'] produce ['relatedto'] crop ['mannerof'] drift
+son ['relatedto'] produce ['relatedto'] run ['relatedto'] drift
+son ['relatedto'] produce ['relatedto'] sheep ['relatedto'] drift
+son ['relatedto'] relative ['hasproperty'] freedom ['relatedto', 'synonym'] leeway ['isa', 'relatedto'] drift
+son ['relatedto'] relative ['relatedto'] aerodynamics ['relatedto'] flight ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] attitude ['relatedto'] motion ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] attitude ['relatedto'] vehicle ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] attitude ['isa'] inclination ['isa'] drift
+son ['relatedto'] relative ['relatedto'] attitude ['relatedto'] direction ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] away ['relatedto'] direction ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] away ['relatedto'] distance ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] away ['relatedto'] movement ['synonym'] drift
+son ['relatedto'] relative ['relatedto'] away ['relatedto'] run ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] away ['relatedto'] stray ['synonym'] drift
+son ['relatedto'] relative ['relatedto'] bundle_adjustment ['relatedto'] motion ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] child ['relatedto'] ball ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] child ['relatedto'] heap ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] chromatography ['isa'] natural_process ['isa'] drift
+son ['relatedto'] relative ['relatedto'] close ['relatedto'] distance ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] distribution ['isa'] act ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] duplicate_bridge ['relatedto'] club ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] family ['relatedto'] set ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] family ['relatedto'] driftfish ['derivedfrom'] drift
+son ['relatedto'] relative ['relatedto'] family ['relatedto'] collection ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] far ['relatedto'] distance ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] far ['relatedto'] direction ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] father ['relatedto'] act ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] folk ['etymologicallyrelatedto'] flock ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] friction ['isa', 'relatedto'] force ['isa', 'relatedto'] drift
+son ['relatedto'] relative ['relatedto'] friction ['relatedto'] motion ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] friction ['relatedto'] surface ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] friction ['relatedto'] tendency ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] friction ['relatedto'] traction ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] geography ['relatedto'] course ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] gnatcatcher ['isa', 'relatedto'] bird ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] gradient ['isa', 'relatedto'] change ['mannerof'] drift
+son ['relatedto'] relative ['relatedto'] gradient ['relatedto'] distance ['relatedto'] drift
+son ['relatedto'] relative ['relatedto'] gradient ['relatedto'] inclination ['isa'] drift

@@ -1,0 +1,100 @@
+disease ['relatedto'] communicate
+disease ['relatedto'] communicable ['derivedfrom'] communicate
+disease ['relatedto', 'partof'] sign ['mannerof', 'relatedto'] communicate
+disease ['relatedto'] transmit ['relatedto'] communicate
+disease ['relatedto'] abnormal ['relatedto'] issue ['mannerof'] communicate
+disease ['relatedto'] getting ['relatedto'] ask ['mannerof'] communicate
+disease ['relatedto'] getting ['relatedto'] call ['usedfor', 'relatedto'] communicate
+disease ['relatedto'] getting ['relatedto'] carry ['mannerof'] communicate
+disease ['relatedto'] getting ['relatedto'] reach ['mannerof'] communicate
+disease ['relatedto'] getting ['relatedto'] wine ['relatedto'] communicate
+disease ['relatedto'] sometimes ['relatedto'] bread ['relatedto'] communicate
+disease ['relatedto'] sometimes ['relatedto'] plant ['mannerof'] communicate
+disease ['relatedto'] annoy ['usedfor'] sound ['usedfor'] communicate
+disease ['relatedto'] problem ['isa'] request ['mannerof'] communicate
+disease ['relatedto'] problem ['isa', 'relatedto'] riddle ['mannerof'] communicate
+disease ['relatedto'] problem ['relatedto'] issue ['mannerof'] communicate
+disease ['relatedto'] fall ['mannerof'] issue ['mannerof'] communicate
+disease ['relatedto'] fall ['synonym'] pass ['synonym'] communicate
+disease ['relatedto'] attack ['relatedto'] verbal ['relatedto'] communicate
+disease ['relatedto'] bad ['hasproperty'] joke ['mannerof'] communicate
+disease ['antonym'] well ['relatedto'] connected ['relatedto'] communicate
+disease ['antonym'] well ['relatedto'] acknowledge ['mannerof'] communicate
+disease ['relatedto'] bane ['relatedto'] plant ['mannerof'] communicate
+disease ['relatedto'] black ['relatedto'] express ['relatedto'] communicate
+disease ['relatedto'] black ['relatedto'] pass ['synonym'] communicate
+disease ['relatedto'] black ['relatedto'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate
+disease ['relatedto'] black ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+disease ['relatedto'] body ['atlocation'] lips ['usedfor'] communicate
+disease ['relatedto'] body ['isa'] message ['mannerof', 'relatedto'] communicate
+disease ['relatedto'] body ['partof'] address ['mannerof'] communicate
+disease ['relatedto'] body ['relatedto'] information ['motivatedbygoal', 'relatedto'] communicate
+disease ['relatedto'] body ['relatedto'] knowledge ['relatedto'] communicate
+disease ['relatedto'] body ['relatedto'] type ['motivatedbygoal'] communicate
+disease ['relatedto'] body ['relatedto'] bread ['relatedto'] communicate
+disease ['relatedto'] body ['relatedto'] exformation ['relatedto'] communicate
+disease ['relatedto'] body ['relatedto'] flash ['relatedto'] communicate
+disease ['relatedto'] body ['relatedto'] issue ['mannerof'] communicate
+disease ['relatedto'] body ['relatedto'] language ['relatedto'] communicate
+disease ['relatedto'] term ['relatedto'] plant ['mannerof'] communicate
+disease ['relatedto'] term ['relatedto'] express ['relatedto'] communicate
+disease ['relatedto'] term ['relatedto'] language ['relatedto'] communicate
+disease ['relatedto'] term ['relatedto'] sound ['usedfor'] communicate
+disease ['relatedto'] term ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+disease ['relatedto'] cause ['relatedto', 'similarto'] render ['mannerof'] communicate
+disease ['relatedto'] effect ['mannerof'] carry ['mannerof'] communicate
+disease ['relatedto'] effect ['relatedto'] respond ['haslastsubevent'] communicate
+disease ['relatedto'] effect ['relatedto'] interaction ['motivatedbygoal'] communicate
+disease ['relatedto'] chicken ['relatedto'] common ['relatedto'] communicate
+disease ['relatedto'] chicken ['relatedto'] type ['motivatedbygoal'] communicate
+disease ['relatedto'] chicken ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+disease ['relatedto'] communicable ['relatedto'] communicability ['derivedfrom'] communicate
+disease ['relatedto'] communicable ['antonym', 'derivedfrom'] incommunicable ['relatedto'] communicate
+disease ['relatedto'] communicable ['relatedto'] communicated ['formof', 'relatedto'] communicate
+disease ['relatedto'] communicable ['relatedto'] transmit ['relatedto'] communicate
+disease ['relatedto'] communicable ['similarto'] communicative ['relatedto', 'derivedfrom'] communicate
+disease ['relatedto'] insult ['relatedto'] carry ['mannerof'] communicate
+disease ['relatedto'] condition ['relatedto'] clear ['hasprerequisite'] communicate
+disease ['relatedto'] condition ['relatedto'] issue ['mannerof'] communicate
+disease ['relatedto'] condition ['relatedto'] request ['mannerof'] communicate
+disease ['relatedto'] condition ['synonym'] pass ['synonym'] communicate
+disease ['relatedto'] contagious ['relatedto'] communicable ['derivedfrom'] communicate
+disease ['relatedto'] contagious ['relatedto'] transmit ['relatedto'] communicate
+disease ['isa'] corn ['relatedto'] plant ['mannerof'] communicate
+disease ['isa'] corn ['relatedto'] type ['motivatedbygoal'] communicate
+disease ['relatedto'] income ['relatedto'] issue ['mannerof'] communicate
+disease ['antonym'] healthy ['relatedto', 'similarto'] sound ['usedfor'] communicate
+disease ['atlocation'] hospital ['atlocation'] telephone ['isa', 'usedfor'] communicate
+disease ['atlocation'] host ['isa', 'relatedto'] bread ['relatedto'] communicate
+disease ['atlocation'] host ['relatedto'] network ['mannerof'] communicate
+disease ['atlocation'] host ['relatedto'] eucharist ['relatedto'] communicate
+disease ['atlocation'] rug ['atlocation'] newspaper ['capableof'] communicate
+disease ['capableof'] strike ['relatedto'] flash ['relatedto'] communicate
+disease ['capableof'] strike ['relatedto'] reach ['mannerof'] communicate
+disease ['causes', 'relatedto'] germ ['relatedto'] project ['mannerof'] communicate
+disease ['causes'] kissing ['hasprerequisite'] lips ['usedfor'] communicate
+disease ['relatedto', 'derivedfrom'] panama_disease ['relatedto'] plant ['mannerof'] communicate
+disease ['relatedto', 'hasproperty'] infectious ['relatedto'] transmit ['relatedto'] communicate
+disease ['isa'] abortion ['isa'] issue ['mannerof'] communicate
+disease ['isa'] allochiria ['relatedto'] respond ['haslastsubevent'] communicate
+disease ['isa'] ankyloglossia ['relatedto'] speech ['relatedto'] communicate
+disease ['isa'] aphasia ['relatedto'] language ['relatedto'] communicate
+disease ['isa'] ascites ['isa'] sign ['mannerof', 'relatedto'] communicate
+disease ['isa'] atopy ['relatedto'] interaction ['motivatedbygoal'] communicate
+disease ['isa'] autophony ['relatedto'] voice ['usedfor', 'relatedto'] communicate
+disease ['isa'] basal_cell_carcinoma ['relatedto'] common ['relatedto'] communicate
+disease ['isa'] basal_cell_carcinoma ['relatedto'] type ['motivatedbygoal'] communicate
+disease ['isa'] carpal_tunnel_syndrome ['causes'] writing ['usedfor', 'relatedto'] communicate
+disease ['isa'] communicable_disease ['derivedfrom'] communicable ['derivedfrom'] communicate
+disease ['isa'] dichromacy ['relatedto'] convey ['mannerof', 'relatedto', 'synonym'] communicate
+disease ['isa'] dysgraphia ['relatedto'] write ['mannerof', 'motivatedbygoal', 'hasprerequisite'] communicate
+disease ['isa'] dysgraphia ['relatedto'] language ['relatedto'] communicate
+disease ['isa'] dyslexia ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+disease ['isa'] embolism ['relatedto'] prayer ['relatedto'] communicate
+disease ['isa'] endemic ['isa'] plant ['mannerof'] communicate
+disease ['isa'] fistula ['relatedto', 'synonym'] pipe ['relatedto'] communicate
+disease ['isa'] goiter ['relatedto'] tracheocele ['relatedto'] communicate
+disease ['isa'] lisp ['relatedto'] speech ['relatedto'] communicate
+disease ['isa'] monochromacy ['relatedto'] convey ['mannerof', 'relatedto', 'synonym'] communicate
+disease ['isa'] otosclerosis ['relatedto'] sound ['usedfor'] communicate
+disease ['isa', 'relatedto'] plant_disease ['relatedto'] plant ['mannerof'] communicate

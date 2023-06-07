@@ -1,0 +1,100 @@
+question ['relatedto'] pose
+question ['mannerof', 'relatedto'] ask ['relatedto'] pose
+question ['relatedto'] appose ['relatedto'] pose
+question ['relatedto', 'synonym'] interrogate ['relatedto'] pose
+question ['relatedto'] poser ['relatedto', 'derivedfrom'] pose
+question ['relatedto'] propose ['relatedto'] pose
+question ['relatedto'] getting ['relatedto'] ask ['relatedto'] pose
+question ['relatedto'] getting ['relatedto'] propose ['relatedto'] pose
+question ['relatedto'] please ['relatedto'] ask ['relatedto'] pose
+question ['antonym', 'distinctfrom', 'relatedto', 'desires'] answer ['antonym', 'relatedto'] ask ['relatedto'] pose
+question ['antonym', 'distinctfrom', 'relatedto', 'desires'] answer ['relatedto'] propose ['relatedto'] pose
+question ['mannerof', 'relatedto'] ask ['mannerof', 'relatedto'] interrogate ['relatedto'] pose
+question ['mannerof', 'relatedto'] ask ['relatedto'] posing ['formof', 'relatedto'] pose
+question ['mannerof', 'relatedto'] ask ['relatedto'] put ['synonym'] pose
+question ['mannerof', 'relatedto'] ask ['relatedto'] propose ['relatedto'] pose
+question ['isa', 'relatedto'] problem ['isa', 'relatedto'] poser ['relatedto', 'derivedfrom'] pose
+question ['antonym'] explain ['antonym'] ask ['relatedto'] pose
+question ['antonym'] explain ['relatedto'] model ['synonym'] pose
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+question ['antonym', 'distinctfrom', 'relatedto'] reply ['antonym', 'distinctfrom'] ask ['relatedto'] pose
+question ['antonym', 'distinctfrom', 'relatedto'] reply ['relatedto'] put ['synonym'] pose
+question ['causesdesire'] think ['synonym'] suppose ['relatedto'] pose
+question ['relatedto', 'derivedfrom'] questioner ['relatedto'] ask ['relatedto'] pose
+question ['formof', 'isa', 'relatedto', 'derivedfrom'] questioning ['relatedto'] ask ['relatedto'] pose
+question ['isa', 'etymologicallyrelatedto', 'relatedto', 'synonym'] query ['relatedto', 'synonym'] ask ['relatedto'] pose
+question ['isa', 'etymologicallyrelatedto', 'relatedto', 'synonym'] query ['relatedto', 'synonym'] interrogate ['relatedto'] pose
+question ['formof', 'relatedto'] questions ['relatedto'] ask ['relatedto'] pose
+question ['isa', 'relatedto'] sentence ['relatedto'] postpose ['etymologicallyrelatedto', 'relatedto'] pose
+question ['isa', 'relatedto', 'synonym'] subject ['mannerof'] put ['synonym'] pose
+question ['isa', 'relatedto', 'synonym'] subject ['mannerof'] expose ['relatedto'] pose
+question ['isa'] riddle ['mannerof'] perplex ['relatedto', 'synonym'] pose
+question ['mannerof'] examine ['relatedto'] interrogate ['relatedto'] pose
+question ['mannerof'] pump ['synonym'] interrogate ['relatedto'] pose
+question ['relatedto'] admiralty ['isa'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+question ['relatedto'] appeal ['relatedto'] ask ['relatedto'] pose
+question ['relatedto'] appose ['mannerof'] put ['synonym'] pose
+question ['relatedto'] appose ['etymologicallyrelatedto'] oppose ['relatedto'] pose
+question ['relatedto'] appose ['etymologicallyrelatedto'] compose ['relatedto'] pose
+question ['relatedto'] appose ['relatedto'] interrogate ['relatedto'] pose
+question ['relatedto'] appose ['etymologicallyrelatedto'] suppose ['relatedto'] pose
+question ['relatedto'] appose ['relatedto'] juxtapose ['etymologicallyrelatedto', 'relatedto'] pose
+question ['relatedto'] asker ['formof', 'etymologicallyrelatedto', 'relatedto'] ask ['relatedto'] pose
+question ['relatedto'] call ['mannerof', 'relatedto'] ask ['relatedto'] pose
+question ['relatedto'] call ['relatedto'] put ['synonym'] pose
+question ['relatedto'] contest ['mannerof', 'relatedto'] oppose ['relatedto'] pose
+question ['relatedto'] grill ['relatedto'] interrogate ['relatedto'] pose
+question ['relatedto'] guess ['relatedto'] suppose ['relatedto'] pose
+question ['relatedto', 'synonym'] inquiry ['relatedto'] ask ['relatedto'] pose
+question ['relatedto'] inquisitee ['relatedto'] ask ['relatedto'] pose
+question ['relatedto', 'synonym'] interrogate ['mannerof', 'relatedto'] ask ['relatedto'] pose
+question ['relatedto', 'synonym'] interrogate ['relatedto'] depose ['relatedto'] pose
+question ['relatedto', 'synonym'] interrogate ['relatedto'] appose ['relatedto'] pose
+question ['relatedto'] interrogatingly ['relatedto'] interrogate ['relatedto'] pose
+question ['relatedto', 'synonym'] interrogative ['relatedto'] ask ['relatedto'] pose
+question ['relatedto', 'synonym'] interrogative ['relatedto'] interrogate ['relatedto'] pose
+question ['relatedto'] interrogatively ['relatedto'] interrogate ['relatedto'] pose
+question ['relatedto'] interrogatory ['etymologicallyrelatedto', 'relatedto'] interrogate ['relatedto'] pose
+question ['relatedto', 'synonym'] interview ['relatedto'] ask ['relatedto'] pose
+question ['relatedto', 'synonym'] issue ['relatedto'] posture ['relatedto', 'synonym'] pose
+question ['relatedto'] judge ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+question ['relatedto'] judge ['relatedto'] back_double_biceps ['relatedto'] pose
+question ['relatedto'] judge ['relatedto'] front_double_biceps ['relatedto'] pose
+question ['relatedto'] judge ['relatedto', 'synonym'] suppose ['relatedto'] pose
+question ['relatedto'] judge ['relatedto'] rear_double_biceps ['relatedto'] pose
+question ['relatedto'] judge ['relatedto'] side_chest ['relatedto'] pose
+question ['relatedto'] judge ['relatedto'] side_triceps ['relatedto'] pose
+question ['relatedto'] mark ['relatedto'] ask ['relatedto'] pose
+question ['relatedto', 'synonym'] oppugn ['relatedto'] oppose ['relatedto'] pose
+question ['relatedto'] pass ['relatedto'] present ['synonym'] pose
+question ['relatedto'] poser ['synonym'] model ['synonym'] pose
+question ['relatedto'] poser ['relatedto'] attitude ['relatedto'] pose
+question ['relatedto'] poser ['synonym'] sticker ['relatedto'] pose
+question ['relatedto'] probe ['relatedto'] model ['synonym'] pose
+question ['relatedto'] propose ['synonym'] present ['synonym'] pose
+question ['relatedto'] propose ['relatedto'] ask ['relatedto'] pose
+question ['relatedto'] propose ['synonym'] put ['synonym'] pose
+question ['relatedto'] quaere ['relatedto'] ask ['relatedto'] pose
+question ['relatedto'] answers ['relatedto'] ask ['relatedto'] pose
+question ['relatedto'] asked ['formof', 'relatedto'] ask ['relatedto'] pose
+question ['relatedto'] asking ['formof', 'relatedto'] ask ['relatedto'] pose
+question ['relatedto'] asking ['relatedto'] propose ['relatedto'] pose
+question ['relatedto'] asks ['formof', 'relatedto'] ask ['relatedto'] pose
+question ['relatedto'] conversation ['relatedto'] masquerade ['mannerof'] pose
+question ['relatedto'] everything ['isa'] attitude ['relatedto'] pose
+question ['relatedto'] form ['mannerof', 'relatedto', 'synonym'] constitute ['relatedto'] pose
+question ['relatedto'] form ['relatedto'] compose ['relatedto'] pose
+question ['relatedto'] frame ['relatedto'] present ['synonym'] pose
+question ['relatedto'] frame ['synonym'] put ['synonym'] pose
+question ['relatedto'] frame ['relatedto', 'synonym'] compose ['relatedto'] pose
+question ['relatedto'] getting_answers ['relatedto'] ask ['relatedto'] pose
+question ['relatedto'] information ['relatedto'] ask ['relatedto'] pose
+question ['relatedto'] inquire ['relatedto', 'synonym'] ask ['relatedto'] pose
+question ['relatedto', 'synonym'] interrogation ['relatedto'] depose ['relatedto'] pose
+question ['relatedto', 'synonym'] interrogation ['relatedto'] interrogate ['relatedto'] pose
+question ['relatedto'] opposition ['relatedto'] oppose ['relatedto'] pose
+question ['relatedto'] part ['synonym'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+question ['relatedto'] phrase ['relatedto'] postpose ['etymologicallyrelatedto', 'relatedto'] pose
+question ['relatedto'] quiz ['relatedto'] interrogate ['relatedto'] pose
+question ['relatedto'] request ['mannerof', 'relatedto', 'synonym'] ask ['relatedto'] pose
+question ['relatedto'] request ['mannerof', 'relatedto'] propose ['relatedto'] pose

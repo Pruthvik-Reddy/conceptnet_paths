@@ -1,0 +1,100 @@
+administration ['relatedto'] position ['antonym'] attack ['mannerof'] blister
+administration ['relatedto'] position ['relatedto'] finger ['atlocation'] blister
+administration ['isa'] body ['relatedto', 'atlocation'] pain ['relatedto'] blister
+administration ['isa'] body ['relatedto', 'partof', 'atlocation'] skin ['relatedto'] blister
+administration ['isa'] body ['relatedto', 'atlocation'] wound ['relatedto'] blister
+administration ['isa'] body ['relatedto', 'partof'] foot ['relatedto'] blister
+administration ['isa'] body ['relatedto'] feet ['relatedto'] blister
+administration ['isa'] body ['relatedto'] disease ['isa'] blister
+administration ['isa'] body ['relatedto'] finger ['atlocation'] blister
+administration ['isa'] body ['relatedto'] injury ['isa'] blister
+administration ['relatedto'] vote ['relatedto'] whip ['synonym'] blister
+administration ['relatedto'] insolvent ['antonym'] solvent ['relatedto'] blister
+administration ['isa', 'synonym'] organization ['relatedto'] red ['relatedto'] blister
+administration ['relatedto'] power ['usedfor'] disease ['isa'] blister
+administration ['isa'] running ['usedfor'] foot ['relatedto'] blister
+administration ['isa'] running ['relatedto'] feet ['relatedto'] blister
+administration ['isa'] running ['causes'] pain ['relatedto'] blister
+administration ['isa'] running ['causes'] injury ['isa'] blister
+administration ['isa'] running ['relatedto'] sore ['relatedto'] blister
+administration ['relatedto'] seroprophylaxis ['relatedto'] disease ['isa'] blister
+administration ['relatedto'] seroprophylaxis ['relatedto'] serum ['relatedto'] blister
+administration ['synonym'] establishment ['isa', 'relatedto'] bar ['relatedto'] mark ['relatedto'] blister
+administration ['synonym'] establishment ['isa'] proof ['mannerof'] change ['mannerof'] blister
+administration ['synonym'] establishment ['isa', 'relatedto'] organization ['relatedto'] red ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] band ['isa'] pain ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] coin ['isa', 'relatedto', 'atlocation'] change ['mannerof'] blister
+administration ['synonym'] establishment ['relatedto'] stable ['antonym'] change ['mannerof'] blister
+administration ['synonym'] establishment ['relatedto'] force ['relatedto'] attack ['mannerof'] blister
+administration ['synonym'] establishment ['relatedto'] force ['relatedto'] change ['mannerof'] blister
+administration ['synonym'] establishment ['relatedto'] force ['isa', 'relatedto'] friction ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] force ['relatedto'] membrane ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] permanent ['antonym'] change ['mannerof'] blister
+administration ['synonym'] establishment ['relatedto'] farm ['relatedto'] red ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] hospital ['relatedto'] red ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] hospital ['atlocation'] disease ['isa'] blister
+administration ['synonym'] establishment ['relatedto'] hospital ['atlocation'] wound ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] hospital ['relatedto', 'atlocation'] injury ['isa'] blister
+administration ['synonym'] establishment ['relatedto'] rest ['relatedto'] feet ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] rule ['relatedto'] foot ['relatedto'] blister
+administration ['synonym'] establishment ['relatedto'] school ['relatedto'] mark ['relatedto'] blister
+administration ['synonym'] establishment ['synonym'] foundation ['relatedto'] skin ['relatedto'] blister
+administration ['synonym'] establishment ['synonym'] foundation ['synonym'] foot ['relatedto'] blister
+administration ['relatedto'] administrative ['relatedto'] country ['relatedto'] defect ['isa'] blister
+administration ['relatedto'] administrative ['relatedto'] crime ['isa'] attack ['mannerof'] blister
+administration ['relatedto'] administrative ['relatedto'] office ['atlocation'] feet ['relatedto'] blister
+administration ['relatedto'] administrative ['relatedto'] rape ['isa'] disease ['isa'] blister
+administration ['relatedto'] position ['relatedto'] rest ['relatedto'] feet ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] retreat ['antonym', 'distinctfrom'] attack ['mannerof'] blister
+administration ['relatedto'] position ['relatedto'] wrong ['isa', 'relatedto', 'synonym'] injury ['isa'] blister
+administration ['relatedto'] position ['isa', 'relatedto', 'synonym'] post ['relatedto'] mark ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] low ['relatedto'] feet ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] low ['relatedto'] foot ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] low ['relatedto'] burn ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] bottom ['isa', 'relatedto'] foot ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] bottom ['relatedto'] feet ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] bottom ['relatedto'] substrate ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] lay ['relatedto'] substrate ['relatedto'] blister
+administration ['relatedto'] position ['antonym'] attack ['relatedto'] pain ['relatedto'] blister
+administration ['relatedto'] position ['antonym'] attack ['relatedto'] disease ['isa'] blister
+administration ['relatedto'] position ['antonym'] attack ['relatedto'] injury ['isa'] blister
+administration ['relatedto'] position ['isa'] anomaly ['relatedto'] defect ['isa'] blister
+administration ['relatedto'] position ['isa'] back ['atlocation'] pain ['relatedto'] blister
+administration ['relatedto'] position ['isa'] back ['isa'] external_anatomical_part ['isa'] blister
+administration ['relatedto'] position ['isa'] back ['relatedto'] change ['mannerof'] blister
+administration ['relatedto'] position ['isa'] direction ['relatedto'] change ['mannerof'] blister
+administration ['relatedto'] position ['isa'] forward ['relatedto'] change ['mannerof'] blister
+administration ['relatedto'] position ['isa'] gradient ['isa', 'relatedto'] change ['mannerof'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] guard ['antonym'] attack ['mannerof'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] guard ['relatedto'] mark ['relatedto'] blister
+administration ['relatedto'] position ['isa'] left ['relatedto'] change ['mannerof'] blister
+administration ['relatedto'] position ['isa'] left ['relatedto'] feet ['relatedto'] blister
+administration ['relatedto'] position ['isa'] light ['relatedto', 'synonym'] burn ['relatedto'] blister
+administration ['relatedto'] position ['isa'] occlusion ['isa'] attack ['mannerof'] blister
+administration ['relatedto'] position ['isa'] pitch ['relatedto'] change ['mannerof'] blister
+administration ['relatedto'] position ['isa'] pitch ['relatedto'] yaw ['relatedto'] blister
+administration ['relatedto'] position ['isa'] pitcher ['relatedto'] whip ['synonym'] blister
+administration ['relatedto'] position ['isa'] plum ['relatedto'] red ['relatedto'] blister
+administration ['relatedto'] position ['isa'] relation ['isa'] change ['mannerof'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] point ['relatedto'] foot ['relatedto'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] point ['capableof', 'usedfor', 'relatedto'] finger ['atlocation'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] point ['isa', 'relatedto', 'synonym'] mark ['relatedto'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] presentation ['relatedto'] disease ['isa'] blister
+administration ['relatedto'] position ['isa'] right ['mannerof'] change ['mannerof'] blister
+administration ['relatedto'] position ['isa'] room ['relatedto'] enclosed ['relatedto'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] setting ['relatedto'] mark ['relatedto'] blister
+administration ['relatedto'] position ['isa'] site ['relatedto'] wound ['relatedto'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] stand ['relatedto'] feet ['relatedto'] blister
+administration ['relatedto'] position ['isa', 'relatedto'] stand ['relatedto'] foot ['relatedto'] blister
+administration ['relatedto'] position ['isa'] tilt ['relatedto'] shear_steel ['relatedto'] blister
+administration ['relatedto'] position ['mannerof'] aim ['relatedto'] attack ['mannerof'] blister
+administration ['relatedto'] position ['mannerof'] dress ['relatedto'] red ['relatedto'] blister
+administration ['relatedto'] position ['mannerof'] dress ['mannerof'] change ['mannerof'] blister
+administration ['relatedto'] position ['mannerof', 'relatedto', 'synonym'] put ['relatedto'] attack ['mannerof'] blister
+administration ['relatedto'] position ['mannerof', 'relatedto', 'synonym'] put ['mannerof'] change ['mannerof'] blister
+administration ['relatedto'] position ['mannerof', 'relatedto', 'synonym'] put ['relatedto'] burn ['relatedto'] blister
+administration ['relatedto'] position ['mannerof', 'relatedto', 'synonym'] put ['relatedto'] finger ['atlocation'] blister
+administration ['relatedto'] position ['relatedto'] assume ['mannerof'] change ['mannerof'] blister
+administration ['relatedto'] position ['relatedto'] bearing ['relatedto'] friction ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] bridge ['relatedto'] burn ['relatedto'] blister
+administration ['relatedto'] position ['relatedto'] candidate ['relatedto'] disease ['isa'] blister

@@ -1,0 +1,100 @@
+word ['relatedto'] action ['relatedto'] swallow
+word ['relatedto'] bird ['isa', 'relatedto'] swallow
+word ['relatedto'] small ['relatedto'] swallow
+word ['relatedto'] single ['isa'] swallow
+word ['antonym'] talk ['mannerof', 'hasprerequisite'] swallow
+word ['relatedto'] action ['relatedto'] accept ['relatedto', 'synonym'] swallow
+word ['relatedto'] action ['isa', 'relatedto', 'synonym'] activity ['relatedto'] swallow
+word ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] swallow
+word ['relatedto'] action ['relatedto'] believe ['mannerof', 'relatedto'] swallow
+word ['relatedto'] action ['relatedto'] chew ['relatedto', 'hasprerequisite'] swallow
+word ['relatedto'] action ['relatedto'] deglutitive ['relatedto'] swallow
+word ['relatedto'] action ['relatedto'] drink ['relatedto', 'synonym', 'hasfirstsubevent', 'haslastsubevent', 'hasprerequisite'] swallow
+word ['relatedto'] action ['relatedto'] drop ['relatedto'] swallow
+word ['relatedto'] action ['relatedto'] eat ['antonym', 'relatedto', 'entails', 'haslastsubevent', 'hasprerequisite'] swallow
+word ['relatedto'] action ['relatedto'] feed ['relatedto'] swallow
+word ['relatedto'] action ['relatedto'] move ['relatedto'] swallow
+word ['relatedto'] action ['relatedto'] nip ['isa'] swallow
+word ['relatedto'] action ['relatedto'] talk ['mannerof', 'hasprerequisite'] swallow
+word ['relatedto'] action ['relatedto'] taste ['isa'] swallow
+word ['relatedto'] action ['relatedto'] throw ['antonym'] swallow
+word ['relatedto'] action ['synonym'] process ['relatedto'] swallow
+word ['relatedto'] adjective ['relatedto'] drop ['relatedto'] swallow
+word ['relatedto'] adjective ['relatedto'] long ['relatedto'] swallow
+word ['relatedto'] together ['relatedto'] body ['relatedto'] swallow
+word ['relatedto'] together ['relatedto'] family ['relatedto'] swallow
+word ['relatedto'] always ['relatedto'] eat ['antonym', 'relatedto', 'entails', 'haslastsubevent', 'hasprerequisite'] swallow
+word ['relatedto'] always ['relatedto'] small ['relatedto'] swallow
+word ['isa', 'relatedto'] order ['relatedto', 'partof', 'synonym'] family ['relatedto'] swallow
+word ['isa', 'relatedto'] order ['relatedto'] eating ['relatedto'] swallow
+word ['isa', 'relatedto'] order ['relatedto'] food ['relatedto'] swallow
+word ['isa', 'relatedto'] order ['relatedto'] small ['relatedto'] swallow
+word ['relatedto'] bird ['usedfor', 'relatedto', 'partof', 'atlocation'] wing ['relatedto'] swallow
+word ['relatedto'] bird ['isa', 'relatedto'] barn_swallow ['isa', 'relatedto', 'derivedfrom'] swallow
+word ['relatedto'] bird ['isa', 'relatedto'] martin ['isa', 'relatedto', 'synonym'] swallow
+word ['relatedto'] bird ['isa', 'relatedto'] sand_martin ['relatedto'] swallow
+word ['relatedto'] bird ['isa'] swift ['relatedto'] swallow
+word ['relatedto'] bird ['isa'] tree_swallow ['isa'] swallow
+word ['relatedto'] bird ['relatedto'] flight ['relatedto'] swallow
+word ['relatedto'] bird ['relatedto'] small ['relatedto'] swallow
+word ['relatedto'] bird ['relatedto'] cliff_swallow ['isa'] swallow
+word ['relatedto'] bird ['relatedto'] fairy_martin ['relatedto'] swallow
+word ['relatedto'] bird ['relatedto'] martlet ['relatedto'] swallow
+word ['relatedto'] question ['isa'] single ['isa'] swallow
+word ['isa'] diminutive ['relatedto'] small ['relatedto'] swallow
+word ['relatedto'] thing ['isa'] action ['relatedto'] swallow
+word ['relatedto'] thing ['isa'] pill ['relatedto'] swallow
+word ['relatedto'] thing ['relatedto'] body ['relatedto'] swallow
+word ['relatedto'] small ['relatedto'] bird ['isa', 'relatedto'] swallow
+word ['relatedto'] small ['relatedto'] drop ['relatedto'] swallow
+word ['relatedto'] small ['relatedto'] nip ['isa'] swallow
+word ['relatedto'] small ['relatedto'] taste ['isa'] swallow
+word ['relatedto'] bit ['relatedto'] action ['relatedto'] swallow
+word ['relatedto'] bit ['relatedto'] small ['relatedto'] swallow
+word ['relatedto'] bit ['relatedto'] eating ['relatedto'] swallow
+word ['relatedto'] bit ['relatedto'] mouth ['relatedto'] swallow
+word ['relatedto'] bit ['relatedto'] bolt ['mannerof'] swallow
+word ['relatedto'] bit ['relatedto'] block ['relatedto'] swallow
+word ['relatedto'] bit ['relatedto'] drop ['relatedto'] swallow
+word ['relatedto'] bit ['relatedto'] nip ['isa'] swallow
+word ['isa'] head ['relatedto'] block ['relatedto'] swallow
+word ['isa'] head ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'partof'] body ['relatedto'] swallow
+word ['isa'] head ['antonym', 'relatedto'] tail ['relatedto'] swallow
+word ['isa'] head ['relatedto', 'partof', 'atlocation'] mouth ['relatedto'] swallow
+word ['isa'] head ['partof'] bolt ['mannerof'] swallow
+word ['atlocation'] book ['atlocation'] blowfish ['relatedto'] swallow
+word ['atlocation'] book ['isa'] abyss ['relatedto'] swallow
+word ['relatedto'] root ['relatedto'] absorb ['relatedto'] swallow
+word ['relatedto'] stem ['relatedto'] small ['relatedto'] swallow
+word ['relatedto'] stem ['relatedto'] bolt ['mannerof'] swallow
+word ['relatedto'] stem ['relatedto'] long ['relatedto'] swallow
+word ['relatedto'] stem ['relatedto', 'synonym'] tail ['relatedto'] swallow
+word ['relatedto'] text ['relatedto'] gobbet ['relatedto'] swallow
+word ['relatedto'] paper ['relatedto'] single ['isa'] swallow
+word ['relatedto'] cardinal ['isa', 'relatedto'] bird ['isa', 'relatedto'] swallow
+word ['isa'] care ['relatedto'] action ['relatedto'] swallow
+word ['isa'] care ['relatedto'] feed ['relatedto'] swallow
+word ['capableof'] mean ['relatedto'] small ['relatedto'] swallow
+word ['isa', 'relatedto', 'synonym'] term ['relatedto'] bird ['isa', 'relatedto'] swallow
+word ['isa', 'relatedto', 'synonym'] term ['relatedto'] drink ['relatedto', 'synonym', 'hasfirstsubevent', 'haslastsubevent', 'hasprerequisite'] swallow
+word ['relatedto'] line ['relatedto'] long ['relatedto'] swallow
+word ['relatedto'] line ['isa', 'relatedto', 'synonym'] rope ['relatedto'] swallow
+word ['relatedto'] line ['relatedto'] family ['relatedto'] swallow
+word ['relatedto'] line ['relatedto'] process ['relatedto'] swallow
+word ['isa'] cent ['relatedto'] small ['relatedto'] swallow
+word ['isa'] cent ['relatedto'] single ['isa'] swallow
+word ['relatedto', 'partof'] character ['relatedto'] action ['relatedto'] swallow
+word ['relatedto'] single ['relatedto'] bolt ['mannerof'] swallow
+word ['relatedto'] single ['relatedto'] drop ['relatedto'] swallow
+word ['relatedto'] single ['antonym'] family ['relatedto'] swallow
+word ['relatedto'] single ['relatedto'] withdraw ['synonym'] swallow
+word ['relatedto'] tonic ['synonym'] pop ['relatedto'] swallow
+word ['relatedto'] command ['relatedto'] body ['relatedto'] swallow
+word ['relatedto'] communication ['relatedto'] talk ['mannerof', 'hasprerequisite'] swallow
+word ['usedfor'] insult ['relatedto'] body ['relatedto'] swallow
+word ['relatedto'] vowel ['relatedto'] long ['relatedto'] swallow
+word ['relatedto'] vowel ['relatedto'] liquid ['relatedto'] swallow
+word ['relatedto'] construction ['relatedto'] bolt ['mannerof'] swallow
+word ['relatedto'] construction ['relatedto'] process ['relatedto'] swallow
+word ['relatedto'] group ['relatedto'] bird ['isa', 'relatedto'] swallow
+word ['relatedto'] group ['relatedto'] body ['relatedto'] swallow

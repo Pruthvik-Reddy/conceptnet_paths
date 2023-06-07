@@ -1,0 +1,100 @@
+idea ['relatedto'] light ['relatedto'] square
+idea ['relatedto'] form ['mannerof'] square
+idea ['relatedto'] point ['relatedto'] square
+idea ['relatedto'] shape ['isa', 'relatedto'] square
+idea ['relatedto'] abstract ['relatedto'] number ['isa', 'relatedto'] square
+idea ['relatedto'] potential ['relatedto'] field ['relatedto'] square
+idea ['relatedto'] potential ['relatedto'] market ['relatedto'] square
+idea ['relatedto'] take_away ['mannerof', 'relatedto'] reduce ['relatedto'] square
+idea ['relatedto'] new ['antonym'] regular ['relatedto'] square
+idea ['relatedto'] new ['relatedto'] paper ['relatedto'] square
+idea ['relatedto'] new ['relatedto'] statue ['relatedto'] square
+idea ['relatedto'] new ['relatedto'] trend ['relatedto'] square
+idea ['relatedto'] creation ['isa'] artifact ['isa'] square
+idea ['relatedto'] creation ['isa'] product ['relatedto'] square
+idea ['relatedto'] creation ['relatedto'] story ['relatedto'] square
+idea ['partof'] answer ['relatedto'] agreement ['relatedto'] square
+idea ['partof'] answer ['mannerof'] match ['mannerof'] square
+idea ['partof'] answer ['mannerof', 'relatedto'] field ['relatedto'] square
+idea ['partof'] answer ['relatedto'] line ['relatedto', 'atlocation'] square
+idea ['partof'] answer ['relatedto'] harmony ['relatedto'] square
+idea ['partof'] answer ['relatedto'] light ['relatedto'] square
+idea ['partof'] answer ['relatedto'] product ['relatedto'] square
+idea ['partof'] answer ['synonym'] resolve ['relatedto'] square
+idea ['relatedto'] anticlimax ['partof'] story ['relatedto'] square
+idea ['relatedto'] brilliant ['relatedto'] point ['relatedto'] square
+idea ['relatedto'] brilliant ['relatedto'] pane ['relatedto'] square
+idea ['relatedto'] main ['antonym'] minor ['relatedto'] square
+idea ['relatedto'] main ['relatedto'] bread ['relatedto'] square
+idea ['relatedto'] main ['relatedto'] door ['relatedto'] square
+idea ['relatedto'] main ['relatedto'] hand ['relatedto'] square
+idea ['relatedto'] main ['relatedto'] line ['relatedto', 'atlocation'] square
+idea ['relatedto'] main ['relatedto'] town ['relatedto', 'atlocation'] square
+idea ['relatedto'] main ['relatedto'] town_center ['atlocation'] square
+idea ['relatedto'] main ['relatedto'] power ['relatedto'] square
+idea ['relatedto'] main ['relatedto'] dice ['relatedto'] square
+idea ['relatedto'] main ['relatedto'] match ['mannerof'] square
+idea ['relatedto'] main ['relatedto'] outpost ['relatedto'] square
+idea ['relatedto'] main ['relatedto'] point ['relatedto'] square
+idea ['relatedto'] main ['relatedto'] side ['relatedto'] square
+idea ['relatedto'] good ['relatedto'] gain ['relatedto'] square
+idea ['relatedto'] good ['hasproperty'] agreement ['relatedto'] square
+idea ['relatedto'] good ['relatedto'] ball ['antonym'] square
+idea ['relatedto'] good ['relatedto'] bed ['relatedto'] square
+idea ['relatedto'] good ['relatedto'] bread ['relatedto'] square
+idea ['relatedto'] good ['relatedto'] company ['isa'] square
+idea ['relatedto'] good ['relatedto'] fair ['relatedto'] square
+idea ['relatedto'] good ['relatedto'] satisfying ['synonym'] square
+idea ['relatedto'] good ['relatedto', 'synonym'] honest ['relatedto'] square
+idea ['relatedto'] good ['relatedto'] product ['relatedto'] square
+idea ['relatedto'] good ['relatedto'] value ['relatedto'] square
+idea ['relatedto'] good ['relatedto'] wallet ['relatedto'] square
+idea ['relatedto'] thing ['isa'] house ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] bed ['relatedto'] square
+idea ['relatedto'] thing ['distinctfrom', 'relatedto'] place ['relatedto', 'synonym'] square
+idea ['relatedto'] thing ['isa'] artifact ['isa'] square
+idea ['relatedto'] thing ['relatedto'] book ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] box ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] desk ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] napkin ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] page ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] paper ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] product ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] side ['relatedto'] square
+idea ['relatedto'] thing ['relatedto'] fad ['relatedto'] square
+idea ['relatedto'] bright ['relatedto'] ball ['antonym'] square
+idea ['relatedto'] bright ['relatedto', 'similarto', 'synonym'] light ['relatedto'] square
+idea ['relatedto'] head ['antonym'] base ['relatedto'] square
+idea ['relatedto'] head ['relatedto'] house ['relatedto'] square
+idea ['relatedto'] head ['relatedto'] column ['relatedto'] square
+idea ['relatedto'] head ['relatedto'] ball ['antonym'] square
+idea ['relatedto'] head ['relatedto'] board ['relatedto'] square
+idea ['relatedto'] head ['antonym', 'isa', 'relatedto', 'synonym'] point ['relatedto'] square
+idea ['relatedto'] head ['isa'] company ['isa'] square
+idea ['relatedto'] head ['mannerof'] form ['mannerof'] square
+idea ['relatedto'] head ['partof'] match ['mannerof'] square
+idea ['relatedto'] head ['relatedto'] flat ['relatedto'] square
+idea ['relatedto'] head ['relatedto'] hand ['relatedto'] square
+idea ['relatedto'] head ['relatedto'] box ['relatedto'] square
+idea ['relatedto'] head ['relatedto'] circle ['antonym', 'distinctfrom', 'relatedto'] square
+idea ['relatedto'] head ['relatedto'] place ['relatedto', 'synonym'] square
+idea ['relatedto'] head ['relatedto'] round ['antonym', 'distinctfrom'] square
+idea ['relatedto'] head ['relatedto'] nut ['relatedto'] square
+idea ['relatedto'] head ['relatedto'] shawl ['relatedto'] square
+idea ['relatedto', 'synonym'] mind ['etymologicallyrelatedto'] mint ['relatedto'] square
+idea ['relatedto', 'synonym'] mind ['relatedto'] place ['relatedto', 'synonym'] square
+idea ['relatedto', 'synonym'] mind ['relatedto'] power ['relatedto'] square
+idea ['relatedto'] construct ['relatedto'] draw ['relatedto'] square
+idea ['relatedto'] construct ['relatedto', 'synonym'] form ['mannerof'] square
+idea ['relatedto'] construct ['relatedto'] geometric ['relatedto'] square
+idea ['relatedto'] construct ['relatedto'] line ['relatedto', 'atlocation'] square
+idea ['relatedto'] construct ['relatedto'] square_circle ['relatedto', 'derivedfrom'] square
+idea ['relatedto'] construct ['relatedto'] squinch ['relatedto'] square
+idea ['relatedto'] construct ['usedfor'] brick ['relatedto'] square
+idea ['relatedto'] characteristic ['relatedto'] bar ['relatedto'] square
+idea ['relatedto'] characteristic ['isa', 'relatedto'] point ['relatedto'] square
+idea ['relatedto'] characteristic ['relatedto'] field ['relatedto'] square
+idea ['relatedto'] characteristic ['relatedto'] light ['relatedto'] square
+idea ['relatedto'] characteristic ['relatedto'] round ['antonym', 'distinctfrom'] square
+idea ['relatedto'] dear ['relatedto'] term ['relatedto'] square
+idea ['relatedto'] dear ['relatedto'] expression ['relatedto'] square

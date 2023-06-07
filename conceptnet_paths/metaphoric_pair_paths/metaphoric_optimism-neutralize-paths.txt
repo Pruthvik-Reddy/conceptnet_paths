@@ -1,0 +1,100 @@
+optimism ['relatedto'] evil ['motivatedbygoal'] kill ['mannerof'] neutralize
+optimism ['relatedto'] positive ['antonym', 'relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] thought ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] gain ['antonym'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] act ['isa'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] act ['relatedto'] counteract ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] lunch ['motivatedbygoal'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['hasproperty'] human ['relatedto'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['hasproperty'] agreement ['relatedto'] liquidate ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] cool ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] cool ['relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['relatedto', 'similarto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['relatedto'] destroy ['relatedto'] neutralize
+optimism ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['relatedto'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] evil ['motivatedbygoal'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['antonym'] pain ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['antonym'] pain ['relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['antonym'] sin ['relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['formof', 'distinctfrom', 'relatedto', 'isa'] better ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['distinctfrom'] debt ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['distinctfrom'] debt ['relatedto'] balance ['synonym'] neutralize
+optimism ['relatedto'] good ['distinctfrom'] debt ['relatedto'] liquidate ['synonym'] neutralize
+optimism ['relatedto'] good ['distinctfrom'] die ['causes', 'motivatedbygoal', 'relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['distinctfrom'] die ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['distinctfrom'] poison ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['distinctfrom'] poison ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['distinctfrom'] poison ['usedfor', 'mannerof', 'relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['formof', 'relatedto'] goods ['relatedto'] contra_trading ['relatedto'] neutralize
+optimism ['relatedto'] good ['hasproperty'] faith ['causesdesire'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] health ['relatedto'] balance ['synonym'] neutralize
+optimism ['relatedto'] good ['hasproperty'] life ['relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] ball ['relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] bat ['relatedto'] swat ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] business ['relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] clear ['synonym'] balance ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] clear ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] clear ['relatedto'] liquidate ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] cost ['hasa'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] cynic ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] extra ['relatedto'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] extra ['relatedto'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] feeling ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] positive ['antonym', 'relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] result ['relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] effective ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto', 'synonym'] full ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] useful ['antonym', 'distinctfrom'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto', 'synonym'] right ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] force ['relatedto'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] fatten ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] repair ['antonym', 'relatedto'] destroy ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] dung ['relatedto'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] manure ['relatedto'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] grace ['relatedto'] balance ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] killer ['capableof', 'relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] love ['capableof'] destroy ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] manufacture ['antonym'] destroy ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] opportunity ['relatedto'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] permanent ['antonym'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] plate ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] preserve ['antonym'] destroy ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] preserve ['antonym'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] product ['relatedto'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] profit ['relatedto'] balance ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] progress ['relatedto'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] skill ['relatedto'] balance ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto'] smell ['relatedto'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto', 'synonym'] sound ['relatedto'] secure ['synonym'] neutralize
+optimism ['relatedto'] good ['relatedto', 'synonym'] sound ['relatedto'] antinoise ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] squirrel ['relatedto'] kill ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] surprise ['isa'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['relatedto'] value ['relatedto'] countervail ['relatedto'] neutralize
+optimism ['relatedto'] good ['relatedto'] wallet ['relatedto'] change ['mannerof'] neutralize
+optimism ['relatedto'] good ['similarto'] solid ['relatedto'] waste ['synonym'] neutralize
+optimism ['relatedto'] good ['synonym'] dependable ['synonym'] secure ['synonym'] neutralize
+optimism ['relatedto'] best ['etymologicallyrelatedto', 'relatedto', 'synonym'] better ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] best ['motivatedbygoal'] buy_products ['motivatedbygoal'] change ['mannerof'] neutralize
+optimism ['relatedto'] best ['motivatedbygoal'] conquer_opponent ['haslastsubevent'] kill ['mannerof'] neutralize
+optimism ['relatedto'] best ['relatedto'] even ['relatedto'] balance ['synonym'] neutralize
+optimism ['relatedto'] best ['relatedto'] even ['mannerof'] change ['mannerof'] neutralize
+optimism ['relatedto'] best ['relatedto'] positive ['antonym', 'relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] best ['relatedto'] beat ['relatedto'] swat ['relatedto'] neutralize
+optimism ['relatedto'] optimistic ['synonym'] affirmative ['antonym', 'relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] optimistic ['antonym'] pessimistic ['relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] optimistic ['relatedto'] expand ['relatedto'] change ['mannerof'] neutralize
+optimism ['relatedto'] optimistic ['relatedto'] conflict ['isa'] neutralizing ['formof', 'relatedto'] neutralize
+optimism ['relatedto'] optimistic ['relatedto'] data ['relatedto'] destroy ['relatedto'] neutralize
+optimism ['relatedto'] optimistic ['relatedto'] positive ['antonym', 'relatedto'] negative ['relatedto'] neutralize
+optimism ['relatedto'] optimistic ['relatedto'] verlig ['relatedto'] change ['mannerof'] neutralize
+optimism ['synonym'] confidence ['relatedto', 'synonym'] trust ['relatedto'] secure ['synonym'] neutralize
+optimism ['synonym'] confidence ['antonym'] fear ['relatedto'] negative ['relatedto'] neutralize
+optimism ['synonym'] confidence ['isa'] attitude ['relatedto'] negative ['relatedto'] neutralize
+optimism ['synonym'] confidence ['isa'] emotion ['relatedto'] negative ['relatedto'] neutralize
+optimism ['synonym'] confidence ['isa', 'relatedto'] secret ['relatedto'] secure ['synonym'] neutralize
+optimism ['synonym'] confidence ['isa'] security ['relatedto'] secure ['synonym'] neutralize
+optimism ['synonym'] confidence ['isa'] safety ['relatedto'] secure ['synonym'] neutralize
+optimism ['synonym'] confidence ['relatedto'] assure ['relatedto', 'synonym'] secure ['synonym'] neutralize
+optimism ['synonym'] confidence ['relatedto'] assure ['distinctfrom'] weaken ['mannerof'] neutralize
+optimism ['synonym'] confidence ['relatedto'] faith ['causesdesire'] kill ['mannerof'] neutralize
+optimism ['derivedfrom'] cyberoptimism ['antonym'] cyberpessimism ['relatedto'] negative ['relatedto'] neutralize

@@ -1,0 +1,100 @@
+oxygen ['isa'] book ['relatedto'] bind
+oxygen ['relatedto'] haem ['relatedto'] bind
+oxygen ['relatedto'] heme ['relatedto'] bind
+oxygen ['relatedto'] reduction ['relatedto'] gain ['relatedto'] bind
+oxygen ['hasa', 'relatedto', 'partof', 'atlocation'] air ['isa'] band ['etymologicallyrelatedto'] bind
+oxygen ['hasa', 'relatedto', 'partof', 'atlocation'] air ['relatedto'] whipping ['relatedto'] bind
+oxygen ['relatedto', 'hasprerequisite'] fire ['isa'] cover ['mannerof'] bind
+oxygen ['relatedto', 'hasprerequisite'] fire ['isa'] book ['relatedto'] bind
+oxygen ['relatedto', 'hasprerequisite'] fire ['isa'] software ['isa'] bind
+oxygen ['relatedto', 'hasprerequisite'] fire ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto', 'hasprerequisite'] fire ['synonym'] loose ['antonym'] bind
+oxygen ['relatedto', 'atlocation', 'hasa', 'madeof', 'partof'] water ['relatedto'] cement ['mannerof'] bind
+oxygen ['relatedto'] atom ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto'] atom ['relatedto'] chemical_bond ['relatedto'] bind
+oxygen ['relatedto'] atom ['relatedto'] delocalization ['relatedto'] bind
+oxygen ['capableof'] freeze ['mannerof'] fixate ['mannerof'] bind
+oxygen ['isa'] book ['synonym'] engage ['relatedto'] bind
+oxygen ['isa'] book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['mannerof'] bind
+oxygen ['isa'] book ['antonym', 'relatedto', 'partof'] page ['relatedto'] bind
+oxygen ['isa'] book ['derivedfrom'] bookbinder ['relatedto'] bind
+oxygen ['isa'] book ['relatedto', 'derivedfrom'] bookbinding ['relatedto'] bind
+oxygen ['isa'] book ['relatedto', 'partof'] binding ['formof', 'relatedto'] bind
+oxygen ['isa'] book ['relatedto'] bound ['formof', 'relatedto'] bind
+oxygen ['isa'] book ['relatedto'] bookmaker ['relatedto'] bind
+oxygen ['relatedto'] mother ['isa'] book ['relatedto'] bind
+oxygen ['relatedto'] essential ['relatedto'] bound ['formof', 'relatedto'] bind
+oxygen ['relatedto'] essential ['relatedto'] obligate ['relatedto'] bind
+oxygen ['relatedto'] two ['relatedto'] join ['relatedto'] bind
+oxygen ['relatedto'] two ['relatedto'] book ['relatedto'] bind
+oxygen ['relatedto'] two ['isa', 'relatedto', 'hasproperty'] couple ['relatedto'] bind
+oxygen ['relatedto'] two ['relatedto'] page ['relatedto'] bind
+oxygen ['antonym'] space ['relatedto'] knot ['synonym'] bind
+oxygen ['relatedto'] reduce ['antonym'] gain ['relatedto'] bind
+oxygen ['createdby'] trees ['relatedto'] page ['relatedto'] bind
+oxygen ['isa', 'relatedto'] element ['relatedto'] book ['relatedto'] bind
+oxygen ['isa', 'relatedto'] element ['relatedto'] page ['relatedto'] bind
+oxygen ['isa', 'relatedto'] element ['relatedto'] stitch ['relatedto'] bind
+oxygen ['isa', 'relatedto'] element ['relatedto'] binding ['formof', 'relatedto'] bind
+oxygen ['isa', 'relatedto'] element ['relatedto'] bindstone ['relatedto'] bind
+oxygen ['isa', 'relatedto'] element ['relatedto'] haptophore ['relatedto'] bind
+oxygen ['isa'] television_station ['relatedto'] band ['etymologicallyrelatedto'] bind
+oxygen ['relatedto', 'partof'] atmosphere ['isa'] band ['etymologicallyrelatedto'] bind
+oxygen ['relatedto'] en ['derivedfrom'] engage ['relatedto'] bind
+oxygen ['relatedto'] en ['isa'] software ['isa'] bind
+oxygen ['relatedto'] blood ['relatedto'] bend ['relatedto'] bind
+oxygen ['relatedto'] clumped_isotope ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto'] dead_zone ['isa'] book ['relatedto'] bind
+oxygen ['relatedto'] efaproxiral ['relatedto'] allosteric ['relatedto'] bind
+oxygen ['relatedto'] epoxidate ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto'] erythrocyte ['relatedto'] haptoglobin ['relatedto'] bind
+oxygen ['relatedto'] faint ['isa'] band ['etymologicallyrelatedto'] bind
+oxygen ['relatedto'] haem ['synonym'] heme ['relatedto'] bind
+oxygen ['relatedto'] heme ['synonym'] haem ['relatedto'] bind
+oxygen ['relatedto'] hemoglobin ['relatedto'] haptoglobin ['relatedto'] bind
+oxygen ['relatedto'] hemoglobin ['relatedto'] heme ['relatedto'] bind
+oxygen ['relatedto'] hydrogen_bond ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto'] hydrogen_bond ['isa', 'relatedto'] chemical_bond ['relatedto'] bind
+oxygen ['relatedto'] lung ['relatedto'] calretinin ['relatedto'] bind
+oxygen ['relatedto'] myoglobin ['relatedto'] heme ['relatedto'] bind
+oxygen ['relatedto'] oxidize ['relatedto'] combine ['relatedto'] bind
+oxygen ['relatedto'] oxon ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto'] oxyferryl ['relatedto'] heme ['relatedto'] bind
+oxygen ['relatedto'] chemical ['relatedto'] bend ['relatedto'] bind
+oxygen ['relatedto'] chemical ['derivedfrom'] chemical_bond ['relatedto'] bind
+oxygen ['relatedto'] chemical ['relatedto'] immunochemistry ['relatedto'] bind
+oxygen ['relatedto'] component ['relatedto'] page ['relatedto'] bind
+oxygen ['relatedto'] component ['relatedto'] haem ['relatedto'] bind
+oxygen ['relatedto'] component ['relatedto'] heme ['relatedto'] bind
+oxygen ['relatedto'] ingredient ['relatedto'] page ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] affinity_reagent ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] aptamer ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto'] molecule ['relatedto'] chemical_bond ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] cointegrate ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] delocalization ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] haem ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] heme ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] immunochemistry ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] importin ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] paratope ['relatedto'] bind
+oxygen ['relatedto'] molecule ['relatedto'] tropoelastin ['relatedto'] bind
+oxygen ['relatedto'] hydroxyl ['relatedto'] gallotannin ['relatedto'] bind
+oxygen ['relatedto'] protoxidize ['relatedto'] combine ['relatedto'] bind
+oxygen ['relatedto'] red_blood_cell ['relatedto'] heme ['relatedto'] bind
+oxygen ['relatedto'] red_blood_cell ['relatedto'] haem ['relatedto'] bind
+oxygen ['relatedto'] respiratory_pigment ['relatedto'] combine ['relatedto'] bind
+oxygen ['relatedto'] steel ['mannerof', 'relatedto'] cover ['mannerof'] bind
+oxygen ['usedfor', 'relatedto'] tree ['relatedto'] page ['relatedto'] bind
+oxygen ['relatedto'] reduction ['relatedto'] decline ['relatedto'] offer ['relatedto'] bind
+oxygen ['relatedto'] reduction ['antonym', 'relatedto'] addition ['relatedto', 'synonym'] gain ['relatedto'] bind
+oxygen ['relatedto'] reduction ['antonym'] increase ['mannerof', 'relatedto', 'synonym'] gain ['relatedto'] bind
+oxygen ['relatedto'] reduction ['antonym'] increase ['relatedto'] stitch ['relatedto'] bind
+oxygen ['relatedto'] reduction ['antonym'] promotion ['relatedto'] offer ['relatedto'] bind
+oxygen ['relatedto'] reduction ['isa'] chemical_reaction ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto'] reduction ['isa', 'relatedto'] reduce ['antonym'] gain ['relatedto'] bind
+oxygen ['relatedto'] reduction ['isa'] change ['relatedto'] loose ['antonym'] bind
+oxygen ['relatedto'] reduction ['relatedto'] bond_discount ['derivedfrom'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+oxygen ['relatedto'] reduction ['relatedto'] contraction ['relatedto'] bound ['formof', 'relatedto'] bind
+oxygen ['relatedto'] reduction ['relatedto'] contraction ['relatedto'] astriction ['relatedto'] bind
+oxygen ['relatedto'] reduction ['relatedto', 'synonym'] decrease ['antonym'] gain ['relatedto'] bind

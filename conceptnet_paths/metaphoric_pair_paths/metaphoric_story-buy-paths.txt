@@ -1,0 +1,100 @@
+story ['distinctfrom', 'relatedto'] real ['relatedto'] deal ['relatedto'] buy
+story ['distinctfrom', 'relatedto'] real ['relatedto'] currency ['relatedto'] buy
+story ['relatedto'] children ['hasproperty'] impulsive ['relatedto'] buy
+story ['relatedto'] children ['relatedto'] birthday ['causesdesire'] buy
+story ['relatedto'] children ['relatedto'] nursery ['relatedto'] buy
+story ['relatedto'] adventure ['relatedto'] action ['relatedto'] buy
+story ['relatedto'] adventure ['relatedto'] fun ['relatedto'] buy
+story ['relatedto'] adventure ['relatedto'] good ['relatedto'] buy
+story ['relatedto'] adventure ['relatedto'] merchant ['relatedto'] buy
+story ['relatedto'] ago ['relatedto'] birthday ['causesdesire'] buy
+story ['relatedto'] short ['relatedto'] ownership ['relatedto'] buy
+story ['relatedto'] creation ['isa'] activity ['relatedto'] buy
+story ['relatedto', 'partof'] climax ['relatedto'] order ['hasprerequisite'] buy
+story ['relatedto', 'partof'] climax ['relatedto'] bring ['relatedto'] buy
+story ['relatedto'] lie ['relatedto'] action ['relatedto'] buy
+story ['relatedto'] lie ['haslastsubevent'] cry ['relatedto'] buy
+story ['relatedto'] lie ['relatedto'] charge ['relatedto'] buy
+story ['relatedto'] lie ['relatedto'] white ['relatedto'] buy
+story ['relatedto'] article ['relatedto', 'synonym'] item ['relatedto'] buy
+story ['relatedto'] article ['relatedto'] thing ['motivatedbygoal'] buy
+story ['relatedto'] article ['relatedto'] receipt ['relatedto'] buy
+story ['relatedto'] column ['relatedto'] white ['relatedto'] buy
+story ['relatedto'] tell ['relatedto'] give ['relatedto'] buy
+story ['relatedto'] tell ['relatedto', 'synonym'] order ['hasprerequisite'] buy
+story ['relatedto'] tell ['relatedto'] bid ['relatedto'] buy
+story ['isa', 'relatedto', 'atlocation'] plot ['isa'] action ['relatedto'] buy
+story ['relatedto'] goodie ['relatedto', 'derivedfrom'] good ['relatedto'] buy
+story ['relatedto'] goodie ['relatedto'] treat ['relatedto'] buy
+story ['relatedto'] square ['relatedto'] market ['relatedto'] buy
+story ['relatedto'] square ['relatedto'] value ['relatedto'] buy
+story ['relatedto'] bed ['relatedto'] good ['relatedto'] buy
+story ['relatedto'] bed ['relatedto'] furnish ['relatedto'] buy
+story ['relatedto'] bed ['relatedto'] item ['relatedto'] buy
+story ['relatedto'] bed ['relatedto'] thing ['motivatedbygoal'] buy
+story ['capableof', 'relatedto', 'synonym'] floor ['antonym'] sky ['relatedto'] buy
+story ['capableof', 'relatedto', 'synonym'] floor ['atlocation'] store ['relatedto', 'atlocation'] buy
+story ['capableof', 'relatedto', 'synonym'] floor ['atlocation'] money ['antonym', 'relatedto'] buy
+story ['capableof', 'relatedto', 'synonym'] floor ['partof'] exchange ['relatedto'] buy
+story ['capableof', 'relatedto', 'synonym'] floor ['relatedto'] furnish ['relatedto'] buy
+story ['relatedto'] beginning ['relatedto'] action ['relatedto'] buy
+story ['relatedto'] beginning ['relatedto'] sheep ['relatedto'] buy
+story ['relatedto'] happy ['relatedto'] good ['relatedto'] buy
+story ['relatedto'] happy ['relatedto'] thing ['motivatedbygoal'] buy
+story ['relatedto'] happy ['antonym', 'relatedto'] birthday ['causesdesire'] buy
+story ['relatedto'] happy ['antonym'] cry ['relatedto'] buy
+story ['relatedto'] happy ['motivatedbygoal'] please_parents ['motivatedbygoal'] buy
+story ['relatedto'] happy ['relatedto'] fun ['relatedto'] buy
+story ['relatedto'] time ['antonym', 'relatedto'] birthday ['causesdesire'] buy
+story ['relatedto'] time ['etymologicallyrelatedto'] buy_time ['etymologicallyrelatedto', 'derivedfrom'] buy
+story ['relatedto'] time ['hasprerequisite'] spending_money ['causes', 'relatedto', 'hasprerequisite'] buy
+story ['relatedto'] time ['isa', 'relatedto'] money ['antonym', 'relatedto'] buy
+story ['relatedto'] time ['relatedto'] sale ['antonym', 'distinctfrom', 'relatedto'] buy
+story ['relatedto'] time ['relatedto'] use ['relatedto'] buy
+story ['distinctfrom', 'relatedto', 'hasa'] book ['relatedto'] thing ['motivatedbygoal'] buy
+story ['distinctfrom', 'relatedto', 'hasa'] book ['relatedto'] white ['relatedto'] buy
+story ['distinctfrom', 'relatedto', 'hasa'] book ['atlocation'] store ['relatedto', 'atlocation'] buy
+story ['distinctfrom', 'relatedto', 'hasa'] book ['relatedto'] item ['relatedto'] buy
+story ['distinctfrom', 'relatedto', 'hasa'] book ['relatedto'] charge ['relatedto'] buy
+story ['distinctfrom', 'relatedto', 'hasa'] book ['relatedto'] register ['relatedto'] buy
+story ['usedfor'] entertain ['relatedto'] fun ['relatedto'] buy
+story ['relatedto'] piece ['relatedto'] white ['relatedto'] buy
+story ['relatedto'] piece ['isa'] item ['relatedto'] buy
+story ['relatedto'] piece ['relatedto'] currency ['relatedto'] buy
+story ['relatedto'] long ['relatedto'] farewell ['relatedto'] buy
+story ['relatedto'] long ['relatedto'] go_long ['relatedto'] buy
+story ['relatedto'] long ['relatedto'] hunger ['causesdesire'] buy
+story ['relatedto'] long ['relatedto'] desire ['causesdesire'] buy
+story ['relatedto'] text ['relatedto'] item ['relatedto'] buy
+story ['atlocation'] cat ['atlocation'] charge ['relatedto'] buy
+story ['atlocation'] cat ['synonym'] guy ['relatedto'] buy
+story ['relatedto'] line ['relatedto'] order ['hasprerequisite'] buy
+story ['relatedto'] line ['usedfor'] fish ['hasprerequisite'] buy
+story ['relatedto'] line ['relatedto'] business ['relatedto'] buy
+story ['relatedto'] line ['usedfor'] save ['antonym', 'entails'] buy
+story ['relatedto'] line ['atlocation'] store ['relatedto', 'atlocation'] buy
+story ['relatedto'] line ['atlocation'] stores ['relatedto'] buy
+story ['relatedto'] line ['relatedto'] item ['relatedto'] buy
+story ['relatedto'] character ['relatedto'] action ['relatedto'] buy
+story ['relatedto'] comic ['isa'] wanted ['motivatedbygoal'] buy
+story ['relatedto'] news ['hasproperty'] fun ['relatedto'] buy
+story ['relatedto'] news ['causesdesire', 'motivatedbygoal'] read_newspaper ['hasprerequisite'] buy
+story ['relatedto'] news ['relatedto'] local ['relatedto'] buy
+story ['relatedto'] news ['relatedto'] giving ['relatedto'] buy
+story ['relatedto'] news ['relatedto'] stuff ['relatedto'] buy
+story ['atlocation'] past ['relatedto'] choose ['hasprerequisite', 'entails'] buy
+story ['atlocation'] past ['relatedto'] stuff ['relatedto'] buy
+story ['antonym'] truth ['hasproperty'] good ['relatedto'] buy
+story ['relatedto'] level ['synonym'] charge ['relatedto'] buy
+story ['relatedto'] level ['relatedto'] gaining ['relatedto'] buy
+story ['relatedto'] entire ['relatedto'] good ['relatedto'] buy
+story ['relatedto'] describe ['relatedto'] action ['relatedto'] buy
+story ['relatedto'] describe ['relatedto'] give ['relatedto'] buy
+story ['relatedto'] dream ['relatedto'] action ['relatedto'] buy
+story ['relatedto'] dream ['relatedto'] activity ['relatedto'] buy
+story ['relatedto'] dream ['relatedto'] good ['relatedto'] buy
+story ['relatedto'] dream ['usedfor'] sky ['relatedto'] buy
+story ['relatedto'] dream ['relatedto'] sheep ['relatedto'] buy
+story ['relatedto'] end ['relatedto'] action ['relatedto'] buy
+story ['relatedto'] end ['relatedto'] steal ['antonym', 'distinctfrom'] buy
+story ['relatedto'] five ['relatedto'] value ['relatedto'] buy

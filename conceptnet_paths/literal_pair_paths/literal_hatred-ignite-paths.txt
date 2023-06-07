@@ -1,0 +1,100 @@
+hatred ['relatedto'] red ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] anger ['synonym'] inflame ['synonym'] ignite
+hatred ['relatedto', 'synonym'] animosity ['relatedto'] reignite ['mannerof', 'relatedto', 'derivedfrom'] ignite
+hatred ['relatedto'] feeling ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['causesdesire'] punch ['relatedto'] strike ['relatedto'] ignite
+hatred ['relatedto'] emotion ['relatedto'] fiery ['relatedto'] ignite
+hatred ['relatedto'] pyrophobia ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto', 'synonym'] acrimony ['relatedto'] corrosiveness ['relatedto'] substance ['relatedto'] ignite
+hatred ['relatedto', 'synonym'] acrimony ['synonym'] animosity ['relatedto'] reignite ['mannerof', 'relatedto', 'derivedfrom'] ignite
+hatred ['relatedto'] despise ['relatedto'] emotion ['relatedto'] fiery ['relatedto'] ignite
+hatred ['relatedto'] despise ['relatedto'] similar ['relatedto'] primer ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] accident ['relatedto'] substance ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] accident ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] defeat ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] enemy ['antonym', 'distinctfrom', 'relatedto'] friend ['isa'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] board ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] bomb ['relatedto'] shell ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] bow_chaser ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] bullet ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] bullet ['relatedto'] shell ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] corbeil ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] cover ['isa'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] cover ['relatedto'] shell ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] covering_fire ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] dugout ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] bad ['relatedto'] shell ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] thing ['isa'] substance ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] force ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] force ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] injury ['isa', 'relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] foxhole ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] friendly_fire ['isa', 'relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] issue ['relatedto'] primer ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] johar ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] missile ['relatedto'] soft_launch ['relatedto'] ignite
+hatred ['relatedto'] enemy ['relatedto'] scorch ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] scorch ['isa', 'mannerof', 'relatedto', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] enemy ['relatedto'] stand_fire ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] almost ['relatedto'] rest ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] almost ['relatedto'] evening ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] almost ['relatedto'] time ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] almost ['relatedto'] time ['relatedto'] primer ['relatedto'] ignite
+hatred ['relatedto'] almost ['relatedto'] competition ['capableof'] match ['usedfor'] ignite
+hatred ['relatedto'] almost ['relatedto'] cool ['antonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] almost ['relatedto'] difference ['relatedto'] match ['usedfor'] ignite
+hatred ['relatedto'] almost ['relatedto'] lyre ['relatedto'] shell ['relatedto'] ignite
+hatred ['relatedto'] almost ['relatedto'] print ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] almost ['relatedto'] print ['relatedto'] shell ['relatedto'] ignite
+hatred ['relatedto'] almost ['relatedto'] run ['synonym'] tend ['relatedto'] ignite
+hatred ['relatedto'] almost ['relatedto'] simile ['relatedto'] phoenix ['relatedto'] ignite
+hatred ['relatedto'] almost ['relatedto'] slip ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] almost ['relatedto'] squint ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] almost ['relatedto'] sub ['relatedto'] substance ['relatedto'] ignite
+hatred ['relatedto'] almost ['relatedto'] upset ['relatedto'] trigger ['relatedto'] ignite
+hatred ['relatedto'] almost ['relatedto'] warmth ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] almost ['synonym'] really ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] old ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] old ['relatedto'] fuse ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['causes', 'relatedto', 'usedfor'] match ['usedfor'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['causes', 'relatedto'] spark ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto', 'derivedfrom'] firepot ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto', 'entails'] trigger ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['isa', 'relatedto'] ignition ['relatedto', 'derivedfrom'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['isa'] smudge ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] extinguish ['distinctfrom'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] fiery ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] substance ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] incombustible ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto', 'synonym'] inflame ['synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] kindle ['mannerof'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] lighter ['usedfor'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] primer ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] pyrophoric ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] slow_match ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] snaplock ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['relatedto'] tend ['relatedto'] ignite
+hatred ['relatedto'] red ['relatedto'] fire ['synonym'] set_alight ['synonym'] ignite
+hatred ['relatedto'] red ['antonym', 'distinctfrom', 'relatedto'] blue ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['antonym', 'distinctfrom', 'relatedto'] green ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['antonym', 'distinctfrom', 'relatedto'] yellow ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] red ['relatedto', 'derivedfrom'] red_hot ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] red ['derivedfrom'] red_shift ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['hasproperty'] car ['atlocation'] lighter ['usedfor'] ignite
+hatred ['relatedto'] red ['hasproperty'] car ['relatedto'] ignition ['relatedto', 'derivedfrom'] ignite
+hatred ['relatedto'] red ['hasproperty'] car ['relatedto'] spark ['relatedto'] ignite
+hatred ['relatedto'] red ['isa', 'relatedto'] blood ['relatedto'] substance ['relatedto'] ignite
+hatred ['relatedto'] red ['isa', 'relatedto'] cerise ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['isa', 'relatedto'] color ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] red ['isa', 'relatedto'] color ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['isa', 'relatedto'] colour ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['isa', 'relatedto'] colour ['relatedto'] fiery ['relatedto'] ignite
+hatred ['relatedto'] red ['partof'] spectrum ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] autumn ['relatedto'] fire ['synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] black ['relatedto'] light ['relatedto', 'synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] black ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] blister ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+hatred ['relatedto'] red ['relatedto'] burn ['capableof', 'relatedto', 'synonym'] fire ['synonym'] ignite
