@@ -49,7 +49,7 @@ for filename in os.listdir(literal_path):
                         new_words.append(new.strip("'"))
                     path.append(new_words)
                 output1 = generate_combinations(path)
-                path_name="Path"+count
+                path_name="Path"+str(count)
                 count+=1
                 path_dict[path_name]=output1
 
