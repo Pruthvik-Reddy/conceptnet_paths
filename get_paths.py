@@ -63,7 +63,7 @@ def get_paths(path,metaphor):
                         all_paths.append(output)
                         path_name="path"+str(count)
                         count+=1
-                        path_dict[path_name]=output1
+                        path_dict[path_name]=output
                     
                 all_paths=list(set(all_paths))
 
