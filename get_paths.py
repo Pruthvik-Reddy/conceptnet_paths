@@ -25,14 +25,14 @@ metaphor_path = "./conceptnet_paths/metaphoric_pair_paths/"
 
 def get_paths(path,metaphor):
     if metaphor:
-        path="./conceptnet_paths/metaphoric_pair_paths/"
+        folder_path="./conceptnet_paths/metaphoric_pair_paths/"
     else:
-        path="./conceptnet_paths/literal_pair_paths/"
-    print(type(path))
-    for filename in os.listdir(path):
-        print(type(filename))
-        print(type(path))
-        file_path = os.path.join(path, filename)
+        folder_path="./conceptnet_paths/literal_pair_paths/"
+    #print(type(path))
+    for filename in os.listdir(folder_path):
+        #print(type(filename))
+        #print(type(path))
+        file_path = os.path.join(folder_path, filename)
         if os.path.isfile(file_path):
             print(file_path)
             with open(file_path, 'r') as file:
