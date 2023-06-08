@@ -18,7 +18,7 @@ for i in range(1,501):
 
 df = pd.DataFrame(columns=columns)
 df.columns = df.columns.str.lower()
-
+all_unique_paths=set()
 literal_path = "./conceptnet_paths/literal_pair_paths/"
 metaphor_path = "./conceptnet_paths/metaphoric_pair_paths/"
 
@@ -61,6 +61,7 @@ def get_paths(path,metaphor):
                     output1 = generate_combinations(path)
                     count2=0
                     for output in output1:
+                        all_unique_paths.add(output)
                         if output not in all_paths and count2<20:
                             all_paths.add(output)
                             path_name="path"+str(count)
@@ -135,5 +136,7 @@ get_paths("./conceptnet_paths/literal_pair_paths/",0)
 get_paths("./conceptnet_paths/metaphoric_pair_paths/",1)
 #print(path_dict)
 print("The length of Data Frame is : ",len(df))
-df.to_excel("Path_features.xlsx",index=False)
-    
+#df.to_excel("Path_features.xlsx",index=False)
+all_unique_paths=list(all_unique_paths)
+all_paths_df=pd.DataFrame(all_unique_paths)
+all_unique_paths.to_excel("all_unique_paths.xlsx",index=False)
