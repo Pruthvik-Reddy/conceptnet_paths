@@ -120,8 +120,8 @@ for filename in os.listdir(metaphor_path):
 """
 
 
-get_paths(literal_path,0)
-get_paths(metaphor_path,1)
+get_paths("./conceptnet_paths/literal_pair_paths/",0)
+get_paths("./conceptnet_paths/metaphoric_pair_paths/",1)
 #print(path_dict)
 print("The length of Data Frame is : ",len(df))
 df.to_excel("Path_features.xlsx",index=False)
