@@ -109,7 +109,7 @@ for filename in os.listdir(metaphor_path):
             new_row = {col: [path_dict.get(col, 0)] for col in df.columns}
             df.loc[len(df)]=new_row
             
-
+print(path_dict)
 print("The length of Data Frame is : ",len(df))
-df.to_excel("Path_features.xlsx",index=False)
+#df.to_excel("Path_features.xlsx",index=False)
     
