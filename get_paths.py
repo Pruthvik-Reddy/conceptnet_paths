@@ -49,7 +49,7 @@ for filename in os.listdir(literal_path):
                         new_words.append(new.strip("'"))
                     path.append(new_words)
                 output1 = generate_combinations(path)
-                path_name="Path"+str(count)
+                path_name="path"+str(count)
                 count+=1
                 path_dict[path_name]=output1
 
@@ -93,7 +93,7 @@ for filename in os.listdir(metaphor_path):
                         new_words.append(new.strip("'"))
                     path.append(new_words)
                 output1 = generate_combinations(path)
-                path_name="Path"+str(count)
+                path_name="path"+str(count)
                 count+=1
                 path_dict[path_name]=output1
 
@@ -106,10 +106,10 @@ for filename in os.listdir(metaphor_path):
             word2 = segments[1].split("-")[1]
             path_dict["verb1"]=word1
             path_dict["verb2"]=word2
-            new_row = {col: [path_dict.get(col, 0)] for col in df.columns}
+            new_row = {col: path_dict.get(col, 0) for col in df.columns}
             df.loc[len(df)]=new_row
             
-print(path_dict)
+#print(path_dict)
 print("The length of Data Frame is : ",len(df))
-#df.to_excel("Path_features.xlsx",index=False)
+df.to_excel("Path_features.xlsx",index=False)
     
