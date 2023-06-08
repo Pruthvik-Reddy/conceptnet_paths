@@ -12,8 +12,8 @@ def generate_combinations(arr):
 columns = [
     'verb1', 'verb2',  "metaphor"
 ]
-for i in range(100):
-    path_name="Path"+(i+1)
+for i in range(1,101):
+    path_name="Path"+str(i)
     columns.append(path_name)
 
 df = pd.DataFrame(columns=columns)
@@ -93,7 +93,7 @@ for filename in os.listdir(metaphor_path):
                         new_words.append(new.strip("'"))
                     path.append(new_words)
                 output1 = generate_combinations(path)
-                path_name="Path"+count
+                path_name="Path"+str(count)
                 count+=1
                 path_dict[path_name]=output1
 
