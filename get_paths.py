@@ -38,7 +38,7 @@ def get_paths(path,metaphor):
             with open(file_path, 'r') as file:
                 lines = file.readlines()
                 path_dict=dict()
-                all_paths=[]
+                all_paths=set()
                 count=1
                 for line in lines:
                     curr_path=[]
@@ -59,11 +59,15 @@ def get_paths(path,metaphor):
                             new_words.append(new.strip("'"))
                         path.append(new_words)
                     output1 = generate_combinations(path)
+                    count2=0
                     for output in output1:
-                        all_paths.append(output)
-                        path_name="path"+str(count)
-                        count+=1
-                        path_dict[path_name]=output
+                        if output not in all_paths and count2<20:
+                            all_paths.add(output)
+                            path_name="path"+str(count)
+                            count+=1
+                            path_dict[path_name]=output
+                            count2+=1
+
                     
                 all_paths=list(set(all_paths))
 
