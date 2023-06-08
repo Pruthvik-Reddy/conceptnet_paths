@@ -22,6 +22,7 @@ df.columns = df.columns.str.lower()
 literal_path = "./conceptnet_paths/literal_pair_paths/"
 metaphor_path = "./conceptnet_paths/metaphoric_pair_paths/"
 
+
 def get_paths(path,metaphor):
     if metaphor:
         path="./conceptnet_paths/metaphoric_pair_paths/"
@@ -30,6 +31,7 @@ def get_paths(path,metaphor):
     print(type(path))
     for filename in os.listdir(path):
         print(type(filename))
+        print(type(path))
         file_path = os.path.join(path, filename)
         if os.path.isfile(file_path):
             print(file_path)
