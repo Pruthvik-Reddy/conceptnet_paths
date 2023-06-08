@@ -29,6 +29,7 @@ def get_paths(path,metaphor):
         path="./conceptnet_paths/literal_pair_paths/"
     print(type(path))
     for filename in os.listdir(path):
+        print(type(filename))
         file_path = os.path.join(path, filename)
         if os.path.isfile(file_path):
             print(file_path)
