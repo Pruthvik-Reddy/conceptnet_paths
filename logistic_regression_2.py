@@ -51,6 +51,16 @@ print('Precision:', precision)
 print('Recall:', recall)
 print('F1 Score:', f1)
 
+feature_names = X_train.columns
+coefficients = model.coef_
+# Create a DataFrame to display the feature importance
+feature_importance = pd.DataFrame({'Feature': feature_names, 'Coefficient': coefficients[0]})
+
+# Sort the DataFrame by the absolute value of coefficients in descending order
+feature_importance = feature_importance.reindex(feature_importance['Coefficient'].abs().sort_values(ascending=False).index)
+feature_importance.to_excel("Feature_Importance_2.xlsx",index=False)
+
+
 X = data2[columns]
 y = data2['metaphor']
 
