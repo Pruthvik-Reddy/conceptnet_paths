@@ -3,7 +3,7 @@ import csv
 import os
 import itertools
 
-df=pd.read_excel("all_unique_paths.xlsx")
+df=pd.read_excel("all_unique_paths_2.xlsx")
 column_list = df[0].tolist()
 column_list.extend(["metaphor","verb1","verb2"])
 
