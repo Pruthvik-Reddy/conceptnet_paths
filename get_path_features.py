@@ -73,7 +73,7 @@ def get_paths(path,metaphor):
                 word2 = segments[1].split("-")[1]
                 relation_dict["verb1"]=word1
                 relation_dict["verb2"]=word2
-                new_row = {col: relation_dict.get(col, 0) for col in df.columns}
+                new_row = {col: relation_dict.get(col, 0) for col in new_df.columns}
                 print(new_row)
                 new_df.loc[len(new_df)]=new_row
                 
