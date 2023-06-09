@@ -74,11 +74,11 @@ def get_paths(path,metaphor):
                 relation_dict["verb1"]=word1
                 relation_dict["verb2"]=word2
                 new_row = {col: relation_dict.get(col, 0) for col in new_df.columns}
-                print(new_row)
+                #print(new_row)
                 new_df.loc[len(new_df)]=new_row
                 
 get_paths("./conceptnet_paths/literal_pair_paths/",0)
 get_paths("./conceptnet_paths/metaphoric_pair_paths/",1)
 #print(path_dict)
 print("The length of Data Frame is : ",len(new_df))
-#new_df.to_excel("Relation_Features.xlsx",index=False)
+new_df.to_excel("Relation_Features.xlsx",index=False)
