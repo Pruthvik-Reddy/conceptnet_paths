@@ -1,0 +1,100 @@
+speaker ['relatedto'] audio ['relatedto'] attack
+speaker ['antonym'] listener ['relatedto'] event ['relatedto'] attack
+speaker ['atlocation'] magnet ['relatedto'] force ['relatedto'] attack
+speaker ['atlocation'] demonstration ['atlocation'] crime ['isa'] attack
+speaker ['atlocation'] demonstration ['relatedto'] salut_des_armes ['relatedto'] attack
+speaker ['atlocation'] desk ['relatedto'] set ['relatedto'] attack
+speaker ['atlocation'] desk ['relatedto'] put ['relatedto'] attack
+speaker ['atlocation'] desk ['atlocation'] dog ['relatedto'] attack
+speaker ['relatedto', 'atlocation'] woofer ['relatedto'] dog ['relatedto'] attack
+speaker ['relatedto', 'derivedfrom'] speak ['relatedto', 'synonym'] articulate ['relatedto'] attack
+speaker ['relatedto', 'derivedfrom'] speak ['relatedto'] round ['synonym'] attack
+speaker ['isa'] product ['relatedto'] together ['relatedto'] attack
+speaker ['isa'] product ['relatedto'] put ['relatedto'] attack
+speaker ['isa'] product ['relatedto'] put_together ['relatedto'] attack
+speaker ['isa'] product ['relatedto'] condition ['relatedto'] attack
+speaker ['isa'] product ['relatedto'] gas ['mannerof'] attack
+speaker ['isa'] articulator ['relatedto'] articulate ['relatedto'] attack
+speaker ['isa', 'relatedto'] witness ['relatedto'] action ['relatedto'] attack
+speaker ['isa', 'relatedto'] witness ['relatedto'] crime ['isa'] attack
+speaker ['isa', 'relatedto'] witness ['relatedto'] execution ['isa'] attack
+speaker ['isa', 'relatedto'] witness ['relatedto'] event ['relatedto'] attack
+speaker ['isa', 'relatedto'] witness ['relatedto'] credibility ['relatedto'] attack
+speaker ['relatedto'] abscission ['relatedto'] act ['mannerof'] attack
+speaker ['relatedto'] altrilocal ['relatedto'] event ['relatedto'] attack
+speaker ['relatedto'] amplifier ['relatedto'] signal ['relatedto'] attack
+speaker ['relatedto'] amplifier ['relatedto'] audio ['relatedto'] attack
+speaker ['relatedto'] boy ['relatedto'] surprise ['relatedto'] attack
+speaker ['relatedto'] boy ['relatedto'] dog ['relatedto'] attack
+speaker ['relatedto'] broadcast ['relatedto'] raid ['mannerof', 'relatedto', 'synonym'] attack
+speaker ['relatedto'] broadcast ['relatedto'] bolo ['relatedto'] attack
+speaker ['relatedto'] broadcast ['relatedto'] conelrad ['relatedto'] attack
+speaker ['relatedto'] broadcast ['relatedto'] run ['relatedto'] attack
+speaker ['relatedto'] diarization ['relatedto'] turn ['isa'] attack
+speaker ['relatedto'] diarization ['relatedto'] audio ['relatedto'] attack
+speaker ['relatedto'] feedback ['relatedto'] signal ['relatedto'] attack
+speaker ['relatedto'] fire_alarm ['relatedto', 'derivedfrom'] fire ['antonym', 'isa', 'synonym'] attack
+speaker ['relatedto'] flip ['mannerof'] move ['relatedto'] attack
+speaker ['relatedto'] flip ['relatedto'] side ['relatedto'] attack
+speaker ['relatedto'] flip ['mannerof'] submarine ['mannerof'] attack
+speaker ['relatedto'] flip ['mannerof', 'relatedto', 'synonym'] turn ['isa'] attack
+speaker ['relatedto'] flip ['relatedto'] snap ['relatedto'] attack
+speaker ['relatedto'] illocution ['relatedto'] aim ['relatedto'] attack
+speaker ['relatedto'] lightning_talk ['relatedto'] verbal ['relatedto'] attack
+speaker ['relatedto'] minister ['relatedto'] dog ['relatedto'] attack
+speaker ['relatedto'] mouth ['relatedto'] bite ['relatedto'] attack
+speaker ['relatedto'] mouth ['relatedto'] chop ['relatedto'] attack
+speaker ['relatedto'] mouth ['relatedto'] round ['synonym'] attack
+speaker ['relatedto'] mouth ['mannerof'] touch ['isa'] attack
+speaker ['relatedto'] mouth ['relatedto'] fang ['relatedto'] attack
+speaker ['relatedto'] mouth ['relatedto'] fork ['mannerof', 'relatedto'] attack
+speaker ['relatedto'] pan_pot ['relatedto'] signal ['relatedto'] attack
+speaker ['relatedto'] pan_pot ['relatedto'] audio ['relatedto'] attack
+speaker ['relatedto'] phone ['isa', 'relatedto'] tool ['relatedto'] attack
+speaker ['relatedto'] smart_speaker ['relatedto'] audio ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto'] activity ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto', 'synonym'] go ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto'] force ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto'] secure ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto'] volume ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto'] signal ['relatedto'] attack
+speaker ['relatedto'] sound ['isa', 'relatedto'] knock ['mannerof'] attack
+speaker ['relatedto'] sound ['mannerof'] snap ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto', 'synonym'] audio ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto'] bomb ['relatedto'] attack
+speaker ['relatedto'] sound ['relatedto'] event ['relatedto'] attack
+speaker ['relatedto'] audio ['relatedto'] signal ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] aggressive ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] bat ['relatedto'] attack
+speaker ['relatedto'] box ['atlocation'] check ['mannerof'] attack
+speaker ['relatedto'] box ['atlocation'] surprise ['relatedto'] attack
+speaker ['relatedto'] box ['mannerof'] hit ['relatedto'] attack
+speaker ['relatedto'] box ['mannerof', 'relatedto'] fight ['mannerof', 'relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] fighting ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] nine ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] physical ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] volume ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] batsman ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto', 'synonym'] punch ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] strike ['isa', 'mannerof', 'relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] side ['relatedto'] attack
+speaker ['relatedto'] box ['relatedto'] tool ['relatedto'] attack
+speaker ['relatedto'] component ['isa'] audio ['relatedto'] attack
+speaker ['relatedto'] cone ['relatedto'] set ['relatedto'] attack
+speaker ['relatedto'] cone ['relatedto'] two ['relatedto'] attack
+speaker ['relatedto'] cone ['relatedto'] round ['synonym'] attack
+speaker ['relatedto'] cone ['relatedto'] bowl ['relatedto'] attack
+speaker ['relatedto'] cone ['relatedto'] spike ['relatedto'] attack
+speaker ['relatedto'] device ['relatedto'] action ['relatedto'] attack
+speaker ['relatedto'] device ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack
+speaker ['relatedto'] device ['relatedto'] rip ['mannerof'] attack
+speaker ['relatedto'] device ['relatedto'] bat ['relatedto'] attack
+speaker ['relatedto'] device ['isa'] design ['relatedto'] attack
+speaker ['relatedto'] device ['isa', 'relatedto'] drive ['synonym'] attack
+speaker ['relatedto'] device ['relatedto'] jump ['relatedto'] attack
+speaker ['relatedto'] device ['isa'] guard ['antonym'] attack
+speaker ['relatedto'] device ['relatedto'] kick ['relatedto'] attack
+speaker ['relatedto'] device ['relatedto'] punch ['relatedto'] attack
+speaker ['relatedto'] device ['isa', 'relatedto'] bomb ['relatedto'] attack
+speaker ['relatedto'] device ['isa'] weapon ['relatedto'] attack
+speaker ['relatedto'] device ['isa', 'relatedto'] tool ['relatedto'] attack

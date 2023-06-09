@@ -1,0 +1,100 @@
+anxiety ['relatedto'] rest ['relatedto'] type ['motivatedbygoal'] communicate
+anxiety ['relatedto'] anger ['causesdesire'] write_letter ['motivatedbygoal', 'hasprerequisite'] communicate
+anxiety ['relatedto'] apprehension ['relatedto'] pass ['synonym'] communicate
+anxiety ['isa', 'relatedto'] panic ['relatedto'] plant ['mannerof'] communicate
+anxiety ['synonym'] care ['relatedto'] give ['mannerof'] communicate
+anxiety ['synonym'] care ['relatedto'] interaction ['motivatedbygoal'] communicate
+anxiety ['synonym'] care ['relatedto'] issue ['mannerof'] communicate
+anxiety ['isa', 'relatedto'] concern ['relatedto'] information ['motivatedbygoal', 'relatedto'] communicate
+anxiety ['relatedto'] fear ['relatedto'] sound ['usedfor'] communicate
+anxiety ['relatedto'] smile ['hasfirstsubevent'] reach_tentative_agreement ['hasprerequisite'] communicate
+anxiety ['relatedto'] smile ['mannerof'] grimace ['mannerof'] communicate
+anxiety ['relatedto'] smile ['mannerof', 'relatedto'] express ['relatedto'] communicate
+anxiety ['relatedto'] smile ['relatedto'] lips ['usedfor'] communicate
+anxiety ['relatedto'] smile ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+anxiety ['relatedto'] secure ['relatedto'] preshared ['relatedto'] communicate
+anxiety ['relatedto'] secure ['relatedto'] sound ['usedfor'] communicate
+anxiety ['distinctfrom'] relaxation ['usedfor'] writing ['usedfor', 'relatedto'] communicate
+anxiety ['relatedto'] feeling ['relatedto'] express_oneself ['relatedto'] communicate
+anxiety ['relatedto'] horror ['relatedto'] type ['motivatedbygoal'] communicate
+anxiety ['synonym'] trouble ['relatedto'] disease ['relatedto'] communicate
+anxiety ['relatedto'] tense ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+anxiety ['relatedto'] tense ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+anxiety ['causes'] listening ['antonym'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate
+anxiety ['causes'] listening ['formof', 'relatedto', 'derivedfrom'] listen ['haslastsubevent', 'hasprerequisite'] communicate
+anxiety ['causes'] listening ['relatedto'] radio ['mannerof'] communicate
+anxiety ['causes'] listening ['usedfor', 'relatedto'] sound ['usedfor'] communicate
+anxiety ['causes'] listening ['usedfor'] communicating ['formof', 'relatedto'] communicate
+anxiety ['relatedto'] stew ['relatedto'] think ['hasprerequisite'] communicate
+anxiety ['isa'] emotion ['relatedto'] issue ['mannerof'] communicate
+anxiety ['isa'] mental_illness ['hasproperty'] common ['relatedto'] communicate
+anxiety ['causes'] making_phone_call ['hasprerequisite'] call ['usedfor', 'relatedto'] communicate
+anxiety ['causes'] making_phone_call ['usedfor'] communication ['relatedto', 'derivedfrom'] communicate
+anxiety ['causes'] making_phone_call ['usedfor'] information ['motivatedbygoal', 'relatedto'] communicate
+anxiety ['causes'] making_phone_call ['usedfor', 'hasprerequisite'] telephone ['isa', 'usedfor'] communicate
+anxiety ['causes'] performing ['isa'] project ['mannerof'] communicate
+anxiety ['causes'] signing_contract ['hasprerequisite'] writing ['usedfor', 'relatedto'] communicate
+anxiety ['causes'] socialising ['usedfor'] communicating ['formof', 'relatedto'] communicate
+anxiety ['causes'] taking_exam ['causes'] pass ['synonym'] communicate
+anxiety ['causes'] taking_exam ['hasprerequisite'] knowledge ['relatedto'] communicate
+anxiety ['causes'] taking_examination ['hasprerequisite'] knowledge ['relatedto'] communicate
+anxiety ['causes'] taking_final_exams ['hasprerequisite'] knowledge ['relatedto'] communicate
+anxiety ['causes'] taking_midterm ['causes'] pass ['synonym'] communicate
+anxiety ['causes'] taking_stand ['hasprerequisite'] knowledge ['relatedto'] communicate
+anxiety ['causesdesire'] perform ['mannerof'] give ['mannerof'] communicate
+anxiety ['causesdesire'] perform ['mannerof'] carry ['mannerof'] communicate
+anxiety ['causesdesire'] perform ['relatedto'] duet ['relatedto'] communicate
+anxiety ['causesdesire'] perform ['relatedto'] issue ['mannerof'] communicate
+anxiety ['relatedto'] adjustment_disorder ['isa'] disease ['relatedto'] communicate
+anxiety ['relatedto'] angor ['relatedto'] language ['relatedto'] communicate
+anxiety ['relatedto'] worried ['relatedto'] think ['hasprerequisite'] communicate
+anxiety ['relatedto'] desire ['mannerof', 'relatedto'] request ['mannerof'] communicate
+anxiety ['relatedto'] uneasiness ['relatedto'] disease ['relatedto'] communicate
+anxiety ['relatedto'] anxiety_disorder ['isa'] disease ['relatedto'] communicate
+anxiety ['relatedto'] avoidant_personality_disorder ['isa'] disease ['relatedto'] communicate
+anxiety ['relatedto'] disquiet ['relatedto'] disease ['relatedto'] communicate
+anxiety ['relatedto'] nepenthes ['isa'] plant ['mannerof'] communicate
+anxiety ['relatedto'] neurosis ['isa'] disease ['relatedto'] communicate
+anxiety ['relatedto'] night_terror ['isa'] disease ['relatedto'] communicate
+anxiety ['relatedto'] obsessive_compulsive_disorder ['isa'] disease ['relatedto'] communicate
+anxiety ['relatedto'] oenophobia ['relatedto'] wine ['relatedto'] communicate
+anxiety ['relatedto'] panic_attack ['isa'] disease ['relatedto'] communicate
+anxiety ['relatedto'] serene ['similarto'] clear ['hasprerequisite'] communicate
+anxiety ['synonym'] unease ['etymologicallyrelatedto', 'relatedto'] disease ['relatedto'] communicate
+anxiety ['relatedto'] rest ['relatedto', 'synonym'] peace ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+anxiety ['relatedto'] rest ['relatedto'] nothing ['relatedto'] clear ['hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['relatedto'] nothing ['relatedto'] language ['relatedto'] communicate
+anxiety ['relatedto'] rest ['relatedto'] nothing ['relatedto'] sound ['usedfor'] communicate
+anxiety ['relatedto'] rest ['relatedto'] nothing ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['isa'] interaction ['motivatedbygoal'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] share ['mannerof', 'relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] request ['mannerof'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] ask ['mannerof'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] call ['usedfor', 'relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] carry ['mannerof'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] clear ['hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] flash ['relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] give ['mannerof'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] issue ['mannerof'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] listen ['haslastsubevent', 'hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] nod ['mannerof'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] pass ['synonym'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] plant ['mannerof'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] reach ['mannerof'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] respond ['haslastsubevent'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] telegraph ['relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] think ['hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] type ['motivatedbygoal'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] voice ['usedfor', 'relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] write ['mannerof', 'motivatedbygoal', 'hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom'] active ['relatedto'] listen ['haslastsubevent', 'hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['isa', 'relatedto'] writing ['usedfor', 'relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] call ['usedfor', 'relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] listen ['haslastsubevent', 'hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] prayer ['relatedto'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] sound ['usedfor'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] think ['hasprerequisite'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] type ['motivatedbygoal'] communicate
+anxiety ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] motion ['atlocation'] lips ['usedfor'] communicate

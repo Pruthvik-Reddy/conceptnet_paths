@@ -1,0 +1,100 @@
+foot ['relatedto'] bound ['formof', 'relatedto'] bind
+foot ['mannerof'] add ['relatedto', 'synonym'] join ['relatedto'] bind
+foot ['mannerof'] add ['relatedto'] operator ['relatedto'] bind
+foot ['mannerof'] add ['relatedto'] offer ['relatedto'] bind
+foot ['relatedto'] human ['atlocation'] band ['etymologicallyrelatedto'] bind
+foot ['relatedto'] human ['atlocation'] predicament ['relatedto'] bind
+foot ['relatedto'] human ['relatedto'] anticalin ['relatedto'] bind
+foot ['relatedto'] ground ['relatedto', 'atlocation'] cement ['mannerof'] bind
+foot ['relatedto'] ground ['mannerof'] restrain ['synonym'] bind
+foot ['relatedto'] ground ['relatedto'] band ['etymologicallyrelatedto'] bind
+foot ['relatedto'] ground ['relatedto'] context ['relatedto'] bind
+foot ['relatedto'] animal ['relatedto'] alligator ['relatedto'] bind
+foot ['relatedto'] animal ['relatedto'] bill ['relatedto'] bind
+foot ['relatedto'] animal ['relatedto'] entrail ['relatedto'] bind
+foot ['relatedto'] animal ['relatedto'] fetter ['relatedto', 'synonym'] bind
+foot ['relatedto'] animal ['relatedto'] wanty ['relatedto'] bind
+foot ['relatedto'] plant ['isa'] book ['relatedto'] bind
+foot ['relatedto'] plant ['relatedto'] bindin ['derivedfrom'] bind
+foot ['relatedto'] plant ['relatedto'] bindweed ['derivedfrom'] bind
+foot ['relatedto'] plant ['relatedto'] bine ['etymologicallyrelatedto', 'relatedto'] bind
+foot ['relatedto'] plant ['relatedto'] hop ['relatedto'] bind
+foot ['relatedto'] plant ['relatedto'] knot ['synonym'] bind
+foot ['relatedto'] one ['relatedto'] bill ['relatedto'] bind
+foot ['relatedto'] one ['relatedto'] page ['relatedto'] bind
+foot ['relatedto'] one ['relatedto'] stitch ['relatedto'] bind
+foot ['relatedto'] low ['relatedto'] hop ['relatedto'] bind
+foot ['isa', 'relatedto'] bottom ['relatedto'] page ['relatedto'] bind
+foot ['relatedto'] lower ['relatedto'] bargain ['relatedto'] bind
+foot ['antonym', 'relatedto'] arm ['relatedto'] holding ['relatedto'] bind
+foot ['antonym', 'relatedto'] arm ['relatedto'] armbinder ['relatedto'] bind
+foot ['antonym', 'relatedto'] arm ['relatedto'] bill ['relatedto'] bind
+foot ['antonym', 'relatedto'] arm ['relatedto'] book ['relatedto'] bind
+foot ['antonym', 'relatedto'] arm ['relatedto'] bracer ['relatedto'] bind
+foot ['antonym', 'relatedto'] arm ['synonym'] gird ['mannerof', 'relatedto'] bind
+foot ['hasa', 'relatedto', 'partof'] leg ['relatedto'] fetter ['relatedto', 'synonym'] bind
+foot ['hasa', 'relatedto', 'partof'] leg ['relatedto'] attach ['mannerof', 'synonym'] bind
+foot ['relatedto'] ball ['antonym'] hoop ['relatedto'] bind
+foot ['relatedto'] ball ['isa'] software ['isa'] bind
+foot ['relatedto'] plate ['usedfor', 'relatedto'] holding ['relatedto'] bind
+foot ['antonym'] top ['relatedto', 'synonym'] cover ['mannerof'] bind
+foot ['antonym'] top ['isa'] software ['isa'] bind
+foot ['antonym'] top ['relatedto'] collar ['relatedto'] bind
+foot ['relatedto'] floor ['relatedto'] gain ['relatedto'] bind
+foot ['relatedto'] floor ['relatedto'] cover ['mannerof'] bind
+foot ['relatedto'] floor ['atlocation'] book ['relatedto'] bind
+foot ['relatedto'] small ['relatedto'] band ['etymologicallyrelatedto'] bind
+foot ['relatedto'] small ['relatedto'] hop ['relatedto'] bind
+foot ['relatedto'] small ['relatedto'] stitch ['relatedto'] bind
+foot ['relatedto', 'partof'] body ['relatedto'] cover ['mannerof'] bind
+foot ['relatedto', 'partof'] body ['derivedfrom'] monobody ['relatedto'] bind
+foot ['relatedto', 'partof'] body ['relatedto'] bend ['relatedto'] bind
+foot ['relatedto', 'partof'] body ['relatedto'] tie ['relatedto', 'synonym'] bind
+foot ['relatedto', 'partof'] body ['relatedto'] bracer ['relatedto'] bind
+foot ['relatedto', 'partof'] body ['relatedto'] directive ['relatedto'] bind
+foot ['antonym', 'distinctfrom', 'relatedto', 'similarto'] head ['relatedto'] bill ['relatedto'] bind
+foot ['antonym', 'distinctfrom', 'relatedto', 'similarto'] head ['partof'] muzzle ['relatedto'] bind
+foot ['antonym', 'distinctfrom', 'relatedto', 'similarto'] head ['relatedto'] holding ['relatedto'] bind
+foot ['antonym', 'distinctfrom', 'relatedto', 'similarto'] head ['relatedto'] stitch ['relatedto'] bind
+foot ['relatedto'] skin ['relatedto'] cover ['mannerof'] bind
+foot ['relatedto'] skin ['relatedto'] stitch ['relatedto'] bind
+foot ['relatedto'] bound ['relatedto'] book ['relatedto'] bind
+foot ['relatedto'] bound ['antonym'] loose ['antonym'] bind
+foot ['relatedto'] bound ['derivedfrom'] spellbound ['relatedto'] bind
+foot ['relatedto'] bound ['relatedto'] binded ['formof', 'relatedto'] bind
+foot ['relatedto'] bound ['relatedto'] ybound ['formof'] bind
+foot ['relatedto'] bound ['similarto'] brassbound ['relatedto'] bind
+foot ['relatedto'] bound ['synonym'] bounden ['relatedto'] bind
+foot ['relatedto'] length ['relatedto'] bindle ['relatedto'] bind
+foot ['relatedto'] length ['relatedto'] page ['relatedto'] bind
+foot ['relatedto'] heal ['relatedto'] cover ['mannerof'] bind
+foot ['antonym', 'distinctfrom', 'relatedto'] hand ['relatedto'] clip ['usedfor'] bind
+foot ['antonym', 'distinctfrom', 'relatedto'] hand ['relatedto'] holding ['relatedto'] bind
+foot ['antonym', 'distinctfrom', 'relatedto'] hand ['relatedto'] stitch ['relatedto'] bind
+foot ['antonym', 'distinctfrom', 'relatedto'] hand ['relatedto'] sway ['relatedto'] bind
+foot ['relatedto'] flat ['relatedto'] page ['relatedto'] bind
+foot ['relatedto'] dog ['relatedto'] collar ['relatedto'] bind
+foot ['relatedto'] dog ['relatedto'] guard ['relatedto'] bind
+foot ['relatedto'] dog ['relatedto'] muzzle ['relatedto'] bind
+foot ['relatedto'] stand ['isa'] book ['relatedto'] bind
+foot ['relatedto', 'atlocation'] table ['relatedto'] join ['relatedto'] bind
+foot ['relatedto', 'atlocation'] table ['relatedto'] cover ['mannerof'] bind
+foot ['relatedto', 'atlocation'] table ['atlocation'] book ['relatedto'] bind
+foot ['relatedto', 'atlocation'] table ['relatedto'] bindless ['relatedto', 'derivedfrom'] bind
+foot ['mannerof', 'relatedto'] pay ['relatedto'] bill ['relatedto'] bind
+foot ['mannerof', 'relatedto'] pay ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+foot ['relatedto'] single ['relatedto'] bill ['relatedto'] bind
+foot ['relatedto'] single ['relatedto'] page ['relatedto'] bind
+foot ['relatedto'] single ['relatedto'] stitch ['relatedto'] bind
+foot ['relatedto'] domain ['relatedto'] monobody ['relatedto'] bind
+foot ['relatedto'] domain ['relatedto'] operator ['relatedto'] bind
+foot ['isa'] support ['relatedto'] gain ['relatedto'] bind
+foot ['isa'] support ['relatedto'] bandage ['synonym'] bind
+foot ['isa'] support ['relatedto'] bine ['etymologicallyrelatedto', 'relatedto'] bind
+foot ['isa'] support ['relatedto'] holding ['relatedto'] bind
+foot ['isa'] support ['relatedto'] tie ['relatedto', 'synonym'] bind
+foot ['isa'] support ['relatedto'] truss ['relatedto'] bind
+foot ['relatedto', 'partof'] sole ['relatedto'] band ['etymologicallyrelatedto'] bind
+foot ['relatedto', 'partof'] sole ['relatedto'] bend ['relatedto'] bind
+foot ['similarto'] horse ['isa'] band ['etymologicallyrelatedto'] bind
+foot ['isa', 'usedfor', 'mannerof', 'relatedto'] walk ['relatedto'] hop ['relatedto'] bind

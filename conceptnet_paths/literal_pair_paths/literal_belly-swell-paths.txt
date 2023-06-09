@@ -1,0 +1,100 @@
+belly ['mannerof', 'relatedto'] swell
+belly ['relatedto'] slang ['relatedto'] swell
+belly ['formof', 'derivedfrom'] bellying ['relatedto'] swell
+belly ['etymologicallyrelatedto'] boln ['relatedto'] swell
+belly ['formof', 'relatedto'] bellied ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['mannerof', 'relatedto'] swell
+belly ['relatedto'] billow ['relatedto'] swell
+belly ['relatedto'] protuberant ['relatedto'] swell
+belly ['relatedto'] bosom ['relatedto'] swell
+belly ['relatedto'] back ['relatedto'] neck ['relatedto'] swell
+belly ['relatedto'] back ['relatedto'] wind ['relatedto'] swell
+belly ['relatedto'] back ['relatedto'] backhander ['relatedto'] swell
+belly ['relatedto'] back ['relatedto'] wave ['isa', 'relatedto'] swell
+belly ['relatedto'] body ['relatedto'] balloon ['relatedto'] swell
+belly ['relatedto'] body ['relatedto'] big ['relatedto'] swell
+belly ['relatedto'] body ['partof', 'atlocation'] bladder ['relatedto'] swell
+belly ['relatedto'] body ['relatedto', 'partof', 'atlocation'] neck ['relatedto'] swell
+belly ['relatedto'] body ['relatedto'] bulk ['relatedto'] swell
+belly ['relatedto'] body ['relatedto'] bunch ['relatedto'] swell
+belly ['relatedto'] body ['relatedto'] ocean ['relatedto'] swell
+belly ['relatedto'] body ['relatedto'] sea ['relatedto'] swell
+belly ['atlocation'] cow ['relatedto'] big ['relatedto'] swell
+belly ['relatedto'] fill ['relatedto'] engorge ['relatedto'] swell
+belly ['relatedto'] fill ['relatedto'] inflate ['relatedto'] swell
+belly ['relatedto'] fill ['relatedto'] pod ['relatedto'] swell
+belly ['relatedto'] fill ['relatedto'] pump ['relatedto'] swell
+belly ['relatedto'] show ['relatedto'] act ['mannerof'] swell
+belly ['relatedto'] corporation ['relatedto'] big ['relatedto'] swell
+belly ['relatedto'] round ['relatedto'] balloon ['relatedto'] swell
+belly ['relatedto'] round ['relatedto', 'synonym'] plump ['relatedto'] swell
+belly ['relatedto'] part ['relatedto'] act ['mannerof'] swell
+belly ['relatedto'] part ['relatedto', 'synonym'] division ['relatedto'] swell
+belly ['relatedto'] part ['isa'] bulb ['relatedto'] swell
+belly ['relatedto'] part ['isa', 'relatedto'] neck ['relatedto'] swell
+belly ['relatedto'] part ['relatedto'] bulk ['relatedto'] swell
+belly ['relatedto'] part ['relatedto'] wave ['isa', 'relatedto'] swell
+belly ['relatedto'] body_part ['isa', 'relatedto'] neck ['relatedto'] swell
+belly ['isa'] inside ['relatedto'] balloon ['relatedto'] swell
+belly ['isa'] inside ['relatedto'] bag ['relatedto'] swell
+belly ['relatedto'] pack ['mannerof'] bag ['relatedto'] swell
+belly ['relatedto'] pack ['synonym'] bunch ['relatedto'] swell
+belly ['isa', 'relatedto'] pot ['relatedto'] act ['mannerof'] swell
+belly ['isa', 'relatedto'] pot ['relatedto'] grow ['mannerof', 'relatedto'] swell
+belly ['isa', 'relatedto'] pot ['relatedto'] chop ['relatedto'] swell
+belly ['isa', 'relatedto'] pot ['relatedto'] volume ['relatedto'] swell
+belly ['isa', 'relatedto'] pot ['relatedto'] bag ['relatedto'] swell
+belly ['relatedto'] slang ['relatedto'] fancy ['relatedto'] swell
+belly ['relatedto'] airplane ['partof'] pod ['relatedto'] swell
+belly ['etymologicallyrelatedto'] budget ['etymologicallyrelatedto'] bulge ['mannerof', 'relatedto'] swell
+belly ['etymologicallyrelatedto'] budget ['relatedto'] bag ['relatedto'] swell
+belly ['atlocation'] grape ['relatedto'] bunch ['relatedto'] swell
+belly ['derivedfrom'] belly_laugh ['synonym'] howler ['relatedto'] swell
+belly ['formof', 'derivedfrom'] bellying ['relatedto'] bellied ['relatedto'] swell
+belly ['formof', 'derivedfrom'] bellying ['relatedto'] billow ['relatedto'] swell
+belly ['formof', 'derivedfrom'] bellying ['relatedto', 'synonym'] bulge ['mannerof', 'relatedto'] swell
+belly ['formof', 'derivedfrom'] bellying ['synonym'] protuberant ['relatedto'] swell
+belly ['etymologicallyrelatedto', 'relatedto'] bellows ['etymologicallyrelatedto'] boln ['relatedto'] swell
+belly ['etymologicallyrelatedto'] boln ['relatedto'] swollen ['formof', 'relatedto'] swell
+belly ['etymologicallyrelatedto'] boln ['relatedto'] puff ['mannerof', 'relatedto'] swell
+belly ['formof', 'relatedto'] bellied ['relatedto'] bellying ['relatedto'] swell
+belly ['formof', 'relatedto'] bellied ['relatedto'] billow ['relatedto'] swell
+belly ['formof', 'relatedto'] bellied ['relatedto'] bulge ['mannerof', 'relatedto'] swell
+belly ['formof', 'relatedto'] bellied ['synonym'] protuberant ['relatedto'] swell
+belly ['isa'] adipose_tissue ['relatedto', 'synonym'] blubber ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['relatedto'] wave ['isa', 'relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['synonym'] bag ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['relatedto'] bellied ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['relatedto', 'synonym'] bellying ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['relatedto'] strut ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['etymologicallyrelatedto', 'relatedto'] bilge ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['relatedto'] bosom ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['mannerof', 'synonym'] bulk ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['mannerof', 'relatedto'] protuberate ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['relatedto'] billow ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['relatedto'] bung ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['relatedto'] protuberant ['relatedto'] swell
+belly ['isa', 'relatedto'] bulge ['synonym'] swelling ['formof', 'relatedto'] swell
+belly ['isa'] musical_artist ['isa'] fancy ['relatedto'] swell
+belly ['partof'] torso ['relatedto'] neck ['relatedto'] swell
+belly ['relatedto', 'synonym'] abdomen ['relatedto'] wind ['relatedto'] swell
+belly ['relatedto'] area ['relatedto'] sea ['relatedto'] swell
+belly ['relatedto'] area ['relatedto'] neck ['relatedto'] swell
+belly ['relatedto'] area ['relatedto'] enclosed ['relatedto'] swell
+belly ['relatedto'] area ['relatedto'] terrain ['relatedto'] swell
+belly ['relatedto'] surface ['mannerof'] well ['relatedto', 'synonym'] swell
+belly ['relatedto'] surface ['relatedto'] wavy ['relatedto'] swell
+belly ['relatedto'] bouk ['etymologicallyrelatedto'] bulk ['relatedto'] swell
+belly ['relatedto'] billow ['synonym'] balloon ['relatedto'] swell
+belly ['relatedto'] billow ['relatedto'] sea ['relatedto'] swell
+belly ['relatedto'] billow ['mannerof'] inflate ['relatedto'] swell
+belly ['relatedto'] billow ['isa', 'relatedto'] wave ['isa', 'relatedto'] swell
+belly ['relatedto'] billow ['relatedto'] bellied ['relatedto'] swell
+belly ['relatedto'] billow ['relatedto'] bellying ['relatedto'] swell
+belly ['relatedto'] billow ['relatedto'] bosom ['relatedto'] swell
+belly ['relatedto'] billow ['relatedto'] bulge ['mannerof', 'relatedto'] swell
+belly ['relatedto'] billow ['relatedto', 'synonym'] surge ['relatedto'] swell
+belly ['relatedto'] protuberant ['synonym'] bellied ['relatedto'] swell
+belly ['relatedto'] protuberant ['synonym'] bellying ['relatedto'] swell
+belly ['relatedto'] protuberant ['relatedto'] strut ['relatedto'] swell
+belly ['relatedto'] protuberant ['relatedto'] bulge ['mannerof', 'relatedto'] swell

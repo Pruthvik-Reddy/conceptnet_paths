@@ -1,0 +1,100 @@
+galaxy ['relatedto'] star_chart ['relatedto'] map
+galaxy ['relatedto'] big ['relatedto'] land ['atlocation'] map
+galaxy ['relatedto'] big ['relatedto'] capital ['relatedto'] map
+galaxy ['relatedto'] big ['relatedto'] coast ['relatedto', 'atlocation'] map
+galaxy ['relatedto'] big ['relatedto'] continent ['relatedto'] map
+galaxy ['relatedto'] big ['relatedto'] country ['relatedto'] map
+galaxy ['relatedto'] big ['relatedto'] nation ['relatedto'] map
+galaxy ['relatedto'] big ['relatedto'] street ['relatedto', 'atlocation'] map
+galaxy ['relatedto'] big ['relatedto'] table ['atlocation'] map
+galaxy ['relatedto'] big ['relatedto'] z ['relatedto'] map
+galaxy ['relatedto'] black_hole ['isa'] region ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] land ['atlocation'] map
+galaxy ['relatedto'] term ['relatedto'] paper ['relatedto'] map
+galaxy ['relatedto'] term ['isa', 'relatedto'] point ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] color ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] continent ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] country ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] course ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] function ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] geography ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] nation ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] place ['atlocation'] map
+galaxy ['relatedto'] term ['relatedto'] property ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] sign ['relatedto'] map
+galaxy ['relatedto'] term ['relatedto'] table ['atlocation'] map
+galaxy ['relatedto'] term ['synonym'] boundary ['atlocation'] map
+galaxy ['relatedto'] dog ['atlocation'] table ['atlocation'] map
+galaxy ['relatedto'] dog ['relatedto'] point ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] act ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] board ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] country ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] continent ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] culture ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] fundamental_group ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] homomorphism ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] nation ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] place ['atlocation'] map
+galaxy ['relatedto'] group ['relatedto'] portfolio ['relatedto'] map
+galaxy ['relatedto'] group ['relatedto'] representation ['isa', 'relatedto'] map
+galaxy ['relatedto', 'atlocation'] space ['relatedto'] board ['relatedto'] map
+galaxy ['relatedto', 'atlocation'] space ['relatedto'] card ['relatedto'] map
+galaxy ['relatedto', 'atlocation'] space ['atlocation'] table ['atlocation'] map
+galaxy ['relatedto', 'atlocation'] space ['atlocation'] suitcase ['atlocation'] map
+galaxy ['relatedto', 'atlocation'] space ['relatedto', 'derivedfrom'] secondspace ['relatedto'] map
+galaxy ['relatedto', 'atlocation'] space ['isa', 'relatedto', 'similarto'] area ['relatedto'] map
+galaxy ['relatedto', 'atlocation'] space ['relatedto', 'synonym'] place ['atlocation'] map
+galaxy ['relatedto', 'atlocation'] space ['relatedto'] region ['relatedto'] map
+galaxy ['relatedto', 'atlocation'] space ['relatedto'] territory ['relatedto'] map
+galaxy ['relatedto', 'atlocation'] space ['relatedto'] point ['relatedto'] map
+galaxy ['relatedto'] void ['antonym'] place ['atlocation'] map
+galaxy ['relatedto'] way ['isa', 'relatedto', 'synonym'] course ['relatedto'] map
+galaxy ['relatedto'] way ['derivedfrom'] expressway ['atlocation'] map
+galaxy ['relatedto'] way ['derivedfrom'] parkway ['atlocation'] map
+galaxy ['relatedto'] way ['relatedto'] represent ['mannerof', 'synonym'] map
+galaxy ['relatedto'] way ['relatedto'] route ['atlocation'] map
+galaxy ['relatedto'] way ['relatedto'] sign ['relatedto'] map
+galaxy ['relatedto'] way ['relatedto', 'synonym'] street ['relatedto', 'atlocation'] map
+galaxy ['relatedto'] way ['relatedto'] travel ['hasprerequisite'] map
+galaxy ['relatedto'] outer ['relatedto'] face ['relatedto'] map
+galaxy ['relatedto'] outer ['relatedto'] border ['atlocation'] map
+galaxy ['relatedto'] outer_space ['relatedto'] region ['relatedto'] map
+galaxy ['atlocation'] planet ['atlocation'] coast ['relatedto', 'atlocation'] map
+galaxy ['atlocation'] planet ['relatedto'] continent ['relatedto'] map
+galaxy ['atlocation'] planet ['relatedto'] geography ['relatedto'] map
+galaxy ['atlocation'] planet ['isa'] atlas ['relatedto', 'partof', 'atlocation'] map
+galaxy ['atlocation'] world ['relatedto', 'atlocation'] country ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] continent ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] east ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] nation ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] place ['atlocation'] map
+galaxy ['atlocation'] world ['relatedto'] geography ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] georama ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] globe ['isa', 'relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] homolosine ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] mappemonde ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] overworld ['relatedto'] map
+galaxy ['atlocation'] world ['relatedto'] area ['relatedto'] map
+galaxy ['isa', 'relatedto'] collection ['relatedto'] country ['relatedto'] map
+galaxy ['isa', 'relatedto'] collection ['isa', 'relatedto'] library ['atlocation'] map
+galaxy ['isa', 'relatedto'] collection ['relatedto'] atlas ['relatedto', 'partof', 'atlocation'] map
+galaxy ['isa', 'relatedto'] collection ['relatedto'] portfolio ['relatedto'] map
+galaxy ['partof'] solar_system ['isa'] place ['atlocation'] map
+galaxy ['relatedto', 'partof', 'atlocation'] star ['relatedto'] act ['relatedto'] map
+galaxy ['relatedto', 'partof', 'atlocation'] star ['relatedto'] capital ['relatedto'] map
+galaxy ['relatedto', 'partof', 'atlocation'] star ['relatedto'] point ['relatedto'] map
+galaxy ['relatedto', 'partof', 'atlocation'] star ['isa'] atlas ['relatedto', 'partof', 'atlocation'] map
+galaxy ['relatedto', 'partof', 'atlocation'] star ['relatedto'] star_chart ['relatedto'] map
+galaxy ['relatedto'] astronomical ['relatedto'] star_chart ['relatedto'] map
+galaxy ['relatedto'] formation ['relatedto'] coast ['relatedto', 'atlocation'] map
+galaxy ['relatedto'] formation ['relatedto'] globe ['isa', 'relatedto'] map
+galaxy ['relatedto'] formation ['relatedto'] cambrian_symbol ['relatedto'] map
+galaxy ['relatedto'] milky ['relatedto'] color ['relatedto'] map
+galaxy ['relatedto'] milky ['relatedto'] image ['relatedto'] map
+galaxy ['relatedto'] system ['relatedto'] relationship ['relatedto'] map
+galaxy ['relatedto'] system ['usedfor'] store ['atlocation'] map
+galaxy ['relatedto'] system ['atlocation'] place ['atlocation'] map
+galaxy ['relatedto'] system ['relatedto'] culture ['relatedto'] map
+galaxy ['relatedto'] system ['relatedto'] endomorphism ['relatedto'] map
+galaxy ['relatedto'] system ['relatedto'] scale ['relatedto'] map
+galaxy ['relatedto'] system ['relatedto'] thunk ['relatedto'] map

@@ -1,0 +1,100 @@
+water ['antonym', 'capableof', 'relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] stagnosol ['relatedto'] stagnate
+water ['relatedto'] stank ['etymologicallyrelatedto'] stagnate
+water ['relatedto'] basic ['antonym'] advance ['relatedto'] stagnate
+water ['antonym', 'relatedto'] ground ['relatedto'] advance ['relatedto'] stagnate
+water ['antonym', 'relatedto'] ground ['relatedto'] stand ['relatedto'] stagnate
+water ['antonym', 'capableof', 'relatedto'] flow ['antonym', 'relatedto'] stagnant ['relatedto', 'derivedfrom'] stagnate
+water ['antonym', 'capableof', 'relatedto'] flow ['isa', 'relatedto'] motion ['relatedto'] stagnate
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] restagnate ['relatedto'] stagnate
+water ['antonym', 'relatedto'] sand ['capableof'] flow ['antonym'] stagnate
+water ['antonym'] refine ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['antonym', 'relatedto'] wave ['relatedto'] activity ['relatedto'] stagnate
+water ['antonym', 'relatedto'] wave ['relatedto'] flow ['antonym'] stagnate
+water ['antonym', 'relatedto'] wave ['isa', 'relatedto'] motion ['relatedto'] stagnate
+water ['relatedto', 'atlocation'] boat ['relatedto'] activity ['relatedto'] stagnate
+water ['relatedto', 'atlocation'] current ['isa', 'relatedto', 'synonym'] flow ['antonym'] stagnate
+water ['relatedto', 'atlocation'] current ['relatedto'] motion ['relatedto'] stagnate
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['atlocation'] motion ['relatedto'] stagnate
+water ['atlocation'] silt ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto', 'atlocation'] bath ['relatedto'] activity ['relatedto'] stagnate
+water ['atlocation'] bubble ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['atlocation'] dam ['relatedto'] stank ['etymologicallyrelatedto'] stagnate
+water ['atlocation'] delta ['relatedto'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto', 'atlocation'] drain ['relatedto'] flow ['antonym'] stagnate
+water ['usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] activity ['relatedto'] stagnate
+water ['atlocation'] drip ['isa'] flow ['antonym'] stagnate
+water ['relatedto', 'atlocation'] flood ['isa', 'mannerof', 'relatedto'] flow ['antonym'] stagnate
+water ['relatedto', 'atlocation'] fountain ['isa', 'relatedto'] flow ['antonym'] stagnate
+water ['relatedto', 'atlocation'] jar ['atlocation'] change ['mannerof', 'relatedto'] stagnate
+water ['hasa', 'relatedto', 'atlocation'] pool ['relatedto'] stank ['etymologicallyrelatedto'] stagnate
+water ['isa', 'relatedto', 'atlocation'] puddle ['relatedto'] stagnant ['relatedto', 'derivedfrom'] stagnate
+water ['hasa', 'relatedto', 'atlocation'] river ['relatedto'] flow ['antonym'] stagnate
+water ['atlocation'] septic_tank ['relatedto'] flow ['antonym'] stagnate
+water ['madeof', 'relatedto', 'atlocation'] soup ['relatedto'] develop ['relatedto'] stagnate
+water ['relatedto', 'atlocation'] stream ['relatedto', 'synonym'] flow ['antonym'] stagnate
+water ['relatedto', 'atlocation'] stream ['isa'] motion ['relatedto'] stagnate
+water ['atlocation'] torrent ['relatedto'] flow ['antonym'] stagnate
+water ['atlocation'] waterfall ['relatedto'] flow ['antonym'] stagnate
+water ['hasa', 'relatedto', 'atlocation'] well ['relatedto'] progress ['relatedto'] stagnate
+water ['etymologicallyrelatedto', 'relatedto', 'atlocation', 'capableof', 'mannerof'] wet ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['capableof'] dribble ['relatedto'] advance ['relatedto'] stagnate
+water ['capableof'] evaporate ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['capableof'] freeze ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['capableof'] short_circuit ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto', 'derivedfrom'] backwater ['relatedto'] progress ['relatedto'] stagnate
+water ['relatedto', 'derivedfrom'] ditchwater ['relatedto'] stagnant ['relatedto', 'derivedfrom'] stagnate
+water ['relatedto', 'derivedfrom'] watercourse ['relatedto'] flow ['antonym'] stagnate
+water ['desires'] tree ['relatedto'] stand ['relatedto'] stagnate
+water ['distinctfrom', 'relatedto', 'hasa'] blood ['relatedto'] flow ['antonym'] stagnate
+water ['hasa'] surface ['relatedto'] stagnosol ['relatedto'] stagnate
+water ['hasa'] weight ['relatedto'] stand ['relatedto'] stagnate
+water ['hasa'] weight ['relatedto'] change ['mannerof', 'relatedto'] stagnate
+water ['hasfirstsubevent', 'hasprerequisite'] make_grow ['relatedto', 'synonym'] develop ['relatedto'] stagnate
+water ['hasprerequisite'] climb ['relatedto'] activity ['relatedto'] stagnate
+water ['hasprerequisite'] climb ['mannerof'] progress ['relatedto'] stagnate
+water ['hasprerequisite'] climb ['relatedto'] motion ['relatedto'] stagnate
+water ['relatedto', 'hasprerequisite'] fishing ['relatedto'] activity ['relatedto'] stagnate
+water ['hasprerequisite'] surfing ['usedfor'] activity ['relatedto'] stagnate
+water ['relatedto', 'hasprerequisite'] swimming ['relatedto'] activity ['relatedto'] stagnate
+water ['relatedto', 'hasproperty'] clear ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto', 'hasproperty'] clear ['relatedto'] foul ['relatedto'] stagnate
+water ['isa', 'relatedto', 'hasproperty'] liquid ['capableof', 'relatedto'] flow ['antonym'] stagnate
+water ['isa', 'relatedto'] fluid ['relatedto'] flow ['antonym'] stagnate
+water ['mannerof', 'relatedto'] flush ['isa', 'relatedto'] flow ['antonym'] stagnate
+water ['mannerof'] hush ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['mannerof', 'relatedto'] fill ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['mannerof'] supply ['relatedto'] advance ['relatedto'] stagnate
+water ['relatedto'] babble ['relatedto'] idle ['relatedto', 'synonym'] stagnate
+water ['relatedto'] backwash ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] bioconvection ['relatedto'] motion ['relatedto'] stagnate
+water ['relatedto'] boating ['isa', 'relatedto'] activity ['relatedto'] stagnate
+water ['relatedto'] boil ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto'] bore ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] breach ['relatedto'] foul ['relatedto'] stagnate
+water ['relatedto'] cast ['relatedto'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto'] cloud ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto'] cry ['relatedto'] activity ['relatedto'] stagnate
+water ['relatedto'] cry ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto'] diffuse ['relatedto'] motion ['relatedto'] stagnate
+water ['relatedto'] dive ['relatedto'] activity ['relatedto'] stagnate
+water ['relatedto'] dive ['relatedto'] motion ['relatedto'] stagnate
+water ['relatedto'] dive ['relatedto'] foul ['relatedto'] stagnate
+water ['relatedto'] drinking_bird ['relatedto'] motion ['relatedto'] stagnate
+water ['relatedto'] drop ['relatedto'] cease ['relatedto'] stagnate
+water ['relatedto'] drop ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto'] drop ['relatedto'] motion ['relatedto'] stagnate
+water ['relatedto'] dry ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto'] duck ['antonym'] stand ['relatedto'] stagnate
+water ['relatedto'] duck ['relatedto'] foul ['relatedto'] stagnate
+water ['relatedto'] earthflow ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] electrolyte ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] embankment ['relatedto'] stank ['etymologicallyrelatedto'] stagnate
+water ['relatedto'] float ['relatedto'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto'] flowstone ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] fowl ['relatedto'] foul ['relatedto'] stagnate
+water ['relatedto'] gush ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] gutter ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] headgate ['relatedto'] flow ['antonym'] stagnate
+water ['relatedto'] heat ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+water ['relatedto'] hydrate ['mannerof'] change ['mannerof', 'relatedto'] stagnate

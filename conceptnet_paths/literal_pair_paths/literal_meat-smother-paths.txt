@@ -1,0 +1,100 @@
+meat ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] ground ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] smother
+meat ['relatedto'] ground ['relatedto'] covering ['relatedto'] smother
+meat ['relatedto'] ground ['relatedto'] kill ['mannerof'] smother
+meat ['relatedto'] dead ['distinctfrom'] breathing ['distinctfrom'] smother
+meat ['relatedto'] dead ['motivatedbygoal', 'relatedto'] kill ['mannerof'] smother
+meat ['relatedto'] dead ['relatedto'] burn ['relatedto'] smother
+meat ['relatedto'] dead ['relatedto'] deaden ['relatedto'] smother
+meat ['hasa', 'relatedto', 'atlocation'] animal ['partof'] face ['relatedto'] smother
+meat ['hasa', 'relatedto', 'atlocation'] animal ['relatedto'] hide ['relatedto'] smother
+meat ['isa'] bird ['relatedto', 'atlocation'] air ['relatedto'] smother
+meat ['antonym'] plant ['relatedto'] smoke ['isa'] smother
+meat ['antonym'] vegetable ['relatedto'] burn ['relatedto'] smother
+meat ['usedfor'] clothing ['isa', 'relatedto'] covering ['relatedto'] smother
+meat ['usedfor'] clothing ['relatedto'] iron ['relatedto'] smother
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['relatedto'] fire ['relatedto'] smother
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['causes', 'relatedto', 'hasprerequisite'] cooking ['relatedto'] smother
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['relatedto'] cookery ['relatedto'] smother
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['usedfor', 'relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] bone ['relatedto'] surround ['synonym'] smother
+meat ['relatedto'] bone ['relatedto'] stifle ['relatedto', 'synonym'] smother
+meat ['isa', 'relatedto', 'synonym'] flesh ['relatedto'] burn ['relatedto'] smother
+meat ['isa', 'relatedto', 'synonym'] flesh ['relatedto'] covering ['relatedto'] smother
+meat ['isa', 'madeof', 'relatedto'] muscle ['relatedto'] burn ['relatedto'] smother
+meat ['antonym', 'relatedto'] bread ['mannerof'] cover ['mannerof', 'entails'] smother
+meat ['antonym'] drink ['causesdesire'] breathing ['distinctfrom'] smother
+meat ['antonym'] drink ['relatedto'] use ['relatedto'] smother
+meat ['antonym'] produce ['relatedto'] fire ['relatedto'] smother
+meat ['antonym'] produce ['relatedto'] dish ['relatedto'] smother
+meat ['antonym'] produce ['relatedto'] smoke ['isa'] smother
+meat ['antonym', 'relatedto'] soup ['isa', 'relatedto'] dish ['relatedto'] smother
+meat ['atlocation'] fridge ['relatedto'] kill ['mannerof'] smother
+meat ['atlocation'] frying_pan ['usedfor'] cooking ['relatedto'] smother
+meat ['atlocation'] market ['relatedto'] air ['relatedto'] smother
+meat ['atlocation'] oven ['usedfor', 'relatedto'] burn ['relatedto'] smother
+meat ['atlocation'] oven ['atlocation'] smoke ['isa'] smother
+meat ['atlocation'] oven ['usedfor', 'relatedto'] cooking ['relatedto'] smother
+meat ['atlocation'] package ['relatedto'] cover ['mannerof', 'entails'] smother
+meat ['atlocation'] resturant ['atlocation'] dish ['relatedto'] smother
+meat ['relatedto', 'atlocation'] stew ['synonym'] burn ['relatedto'] smother
+meat ['relatedto', 'atlocation'] stew ['isa', 'relatedto'] dish ['relatedto'] smother
+meat ['relatedto', 'atlocation'] stew ['relatedto'] cooking ['relatedto'] smother
+meat ['relatedto', 'atlocation'] stew ['relatedto'] method ['relatedto'] smother
+meat ['relatedto', 'derivedfrom'] meatball ['isa'] dish ['relatedto'] smother
+meat ['desires'] dog ['capableof'] breathe ['relatedto'] smother
+meat ['desires'] dog ['relatedto'] smell ['etymologicallyrelatedto'] smother
+meat ['hasprerequisite'] cat ['relatedto'] clutter ['synonym'] smother
+meat ['isa', 'relatedto'] beef ['relatedto'] hide ['relatedto'] smother
+meat ['isa', 'relatedto'] chicken ['relatedto'] air ['relatedto'] smother
+meat ['isa', 'relatedto'] chicken ['relatedto'] cooking ['relatedto'] smother
+meat ['isa', 'relatedto'] chicken ['relatedto'] dish ['relatedto'] smother
+meat ['isa'] cut ['relatedto'] air ['relatedto'] smother
+meat ['isa'] cut ['synonym'] burn ['relatedto'] smother
+meat ['isa'] cut ['relatedto'] use ['relatedto'] smother
+meat ['isa'] cut ['relatedto', 'synonym'] reduce ['relatedto'] smother
+meat ['isa', 'relatedto'] duck ['relatedto'] cover ['mannerof', 'entails'] smother
+meat ['isa'] escargot ['relatedto'] dish ['relatedto'] smother
+meat ['isa'] game ['relatedto'] hide ['relatedto'] smother
+meat ['isa'] goose ['relatedto'] iron ['relatedto'] smother
+meat ['isa'] snail ['relatedto'] slow ['relatedto'] smother
+meat ['isa', 'relatedto'] steak ['usedfor'] cooking ['relatedto'] smother
+meat ['relatedto'] ants_climbing_tree ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] au_jus ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] bard ['relatedto'] cover ['mannerof', 'entails'] smother
+meat ['relatedto'] bark ['mannerof', 'relatedto'] cover ['mannerof', 'entails'] smother
+meat ['relatedto'] bark ['isa', 'relatedto'] covering ['relatedto'] smother
+meat ['relatedto'] brisket ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] brown_bits ['relatedto'] cooking ['relatedto'] smother
+meat ['relatedto'] burgoo ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] burrito ['isa', 'relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] butcher ['mannerof', 'relatedto', 'synonym'] kill ['mannerof'] smother
+meat ['relatedto'] butcher ['synonym'] murder ['relatedto'] smother
+meat ['relatedto'] cacciatora ['relatedto'] cooking ['relatedto'] smother
+meat ['relatedto'] canon ['relatedto'] use ['relatedto'] smother
+meat ['relatedto'] cevapcici ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] chanpuru ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] chasseur ['relatedto'] cooking ['relatedto'] smother
+meat ['relatedto'] chili_con_carne ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] chop ['relatedto'] cooking ['relatedto'] smother
+meat ['relatedto'] chow_mein ['isa'] dish ['relatedto'] smother
+meat ['relatedto'] cleaver ['relatedto'] cooking ['relatedto'] smother
+meat ['relatedto'] cow ['relatedto'] hide ['relatedto'] smother
+meat ['relatedto'] crispy ['relatedto'] burn ['relatedto'] smother
+meat ['relatedto'] croquette ['isa'] dish ['relatedto'] smother
+meat ['relatedto'] department ['relatedto'] fire ['relatedto'] smother
+meat ['relatedto'] dhabihah ['relatedto'] method ['relatedto'] smother
+meat ['relatedto'] donburi ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] dry_pot ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] dushbara ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] eggah ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] fajita ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] fifth_quarter ['relatedto'] hide ['relatedto'] smother
+meat ['relatedto'] foo_yung ['relatedto'] dish ['relatedto'] smother
+meat ['relatedto'] gamey ['relatedto'] smell ['etymologicallyrelatedto'] smother
+meat ['relatedto'] heat ['antonym', 'relatedto'] air ['relatedto'] smother
+meat ['relatedto'] heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] smother
+meat ['relatedto'] heat ['relatedto'] burn ['relatedto'] smother
+meat ['relatedto'] heat ['relatedto', 'entails'] iron ['relatedto'] smother
+meat ['relatedto'] heat ['usedfor', 'relatedto', 'hasprerequisite'] cooking ['relatedto'] smother
+meat ['relatedto'] heat ['relatedto'] combustion ['relatedto'] smother

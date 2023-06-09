@@ -1,0 +1,100 @@
+snow ['relatedto'] fall ['relatedto'] drift
+snow ['derivedfrom'] snowdrift ['isa', 'derivedfrom'] drift
+snow ['relatedto'] drifty ['relatedto', 'derivedfrom'] drift
+snow ['relatedto'] drifting ['formof', 'relatedto'] drift
+snow ['relatedto'] drifts ['formof', 'relatedto'] drift
+snow ['relatedto'] surface ['relatedto'] drift
+snow ['relatedto'] accumulation ['relatedto'] accumulate ['mannerof', 'relatedto'] drift
+snow ['relatedto'] accumulation ['synonym'] collection ['relatedto'] drift
+snow ['relatedto'] base ['relatedto'] ball ['relatedto'] drift
+snow ['relatedto'] base ['relatedto'] set ['relatedto'] drift
+snow ['relatedto'] base ['relatedto'] shaft ['relatedto'] drift
+snow ['relatedto'] base ['relatedto'] run ['relatedto'] drift
+snow ['usedfor'] children ['relatedto'] ball ['relatedto'] drift
+snow ['distinctfrom'] fire ['derivedfrom'] fireship ['relatedto'] drift
+snow ['distinctfrom'] fire ['relatedto'] collection ['relatedto'] drift
+snow ['distinctfrom'] fire ['relatedto'] force ['isa', 'relatedto'] drift
+snow ['distinctfrom'] fire ['relatedto'] tool ['relatedto'] drift
+snow ['distinctfrom'] fire ['relatedto'] projectile ['relatedto'] drift
+snow ['atlocation'] ground ['relatedto', 'atlocation'] hole ['relatedto'] drift
+snow ['atlocation'] ground ['isa', 'relatedto'] surface ['relatedto'] drift
+snow ['atlocation'] ground ['relatedto'] roll ['synonym'] drift
+snow ['atlocation'] ground ['relatedto'] tunnel ['relatedto'] drift
+snow ['isa', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] current ['relatedto'] drift
+snow ['isa', 'relatedto', 'atlocation'] water ['hasa'] surface ['relatedto'] drift
+snow ['isa', 'relatedto', 'atlocation'] water ['relatedto'] beach ['relatedto'] drift
+snow ['isa', 'relatedto', 'atlocation'] water ['relatedto'] float ['mannerof', 'synonym'] drift
+snow ['isa', 'relatedto', 'atlocation'] water ['relatedto'] gurt ['relatedto'] drift
+snow ['isa', 'relatedto', 'atlocation'] water ['relatedto'] raft ['relatedto'] drift
+snow ['isa', 'relatedto', 'atlocation'] water ['relatedto'] vault ['relatedto'] drift
+snow ['isa', 'relatedto', 'atlocation'] water ['usedfor'] hole ['relatedto'] drift
+snow ['relatedto'] sight ['relatedto'] projectile ['relatedto'] drift
+snow ['relatedto'] apple ['relatedto'] ball ['relatedto'] drift
+snow ['relatedto'] apple ['relatedto'] fall ['relatedto'] drift
+snow ['relatedto'] apple ['relatedto'] shape ['relatedto'] drift
+snow ['relatedto'] fall ['mannerof', 'relatedto'] change ['mannerof'] drift
+snow ['relatedto'] fall ['relatedto'] motion ['relatedto'] drift
+snow ['relatedto'] fall ['relatedto'] tackle ['relatedto'] drift
+snow ['relatedto'] stick ['antonym'] fall ['relatedto'] drift
+snow ['relatedto'] stick ['isa', 'relatedto'] club ['relatedto'] drift
+snow ['relatedto'] stick ['mannerof'] force ['isa', 'relatedto'] drift
+snow ['relatedto'] stick ['relatedto'] ball ['relatedto'] drift
+snow ['relatedto'] stick ['relatedto'] shaft ['relatedto'] drift
+snow ['relatedto'] stick ['relatedto'] shape ['relatedto'] drift
+snow ['relatedto'] stick ['relatedto'] tool ['relatedto'] drift
+snow ['relatedto'] stick ['relatedto'] drive ['etymologicallyrelatedto'] drift
+snow ['relatedto'] stick ['relatedto'] thrust ['relatedto'] drift
+snow ['relatedto'] stick ['relatedto'] traction ['relatedto'] drift
+snow ['relatedto'] wet ['mannerof'] change ['mannerof'] drift
+snow ['relatedto'] time ['synonym'] bird ['relatedto'] drift
+snow ['relatedto'] time ['synonym'] set ['relatedto'] drift
+snow ['relatedto'] time ['relatedto'] current ['relatedto'] drift
+snow ['relatedto'] time ['relatedto'] force ['isa', 'relatedto'] drift
+snow ['relatedto'] time ['relatedto'] motion ['relatedto'] drift
+snow ['relatedto'] time ['relatedto'] run ['relatedto'] drift
+snow ['relatedto'] time ['relatedto'] change ['mannerof'] drift
+snow ['relatedto'] time ['relatedto'] vary ['mannerof'] drift
+snow ['isa', 'relatedto'] white ['relatedto'] bird ['relatedto'] drift
+snow ['isa', 'relatedto'] white ['relatedto'] sheep ['relatedto'] drift
+snow ['synonym'] blow ['relatedto'] fall ['relatedto'] drift
+snow ['synonym'] blow ['relatedto'] current ['relatedto'] drift
+snow ['synonym'] blow ['derivedfrom'] blowy ['relatedto'] drift
+snow ['synonym'] blow ['relatedto'] hole ['relatedto'] drift
+snow ['synonym'] blow ['relatedto'] movement ['synonym'] drift
+snow ['synonym'] blow ['synonym'] float ['mannerof', 'synonym'] drift
+snow ['relatedto'] sky ['relatedto', 'atlocation'] bird ['relatedto'] drift
+snow ['relatedto'] sky ['relatedto'] fall ['relatedto'] drift
+snow ['relatedto'] sky ['relatedto'] force ['isa', 'relatedto'] drift
+snow ['relatedto'] sky ['relatedto'] rocket ['relatedto'] drift
+snow ['relatedto'] sky ['relatedto'] vault ['relatedto'] drift
+snow ['relatedto'] board ['relatedto'] set ['relatedto'] drift
+snow ['relatedto'] board ['isa', 'relatedto'] surface ['relatedto'] drift
+snow ['relatedto'] board ['relatedto'] shape ['relatedto'] drift
+snow ['relatedto'] board ['relatedto'] tool ['relatedto'] drift
+snow ['relatedto'] board ['relatedto'] distance ['relatedto'] drift
+snow ['relatedto'] board ['relatedto'] hole ['relatedto'] drift
+snow ['relatedto'] freeze ['mannerof'] act ['relatedto'] drift
+snow ['relatedto'] freeze ['mannerof'] change ['mannerof'] drift
+snow ['relatedto'] freeze ['relatedto'] movement ['synonym'] drift
+snow ['distinctfrom', 'relatedto'] ice ['isa'] drift_ice ['derivedfrom'] drift
+snow ['relatedto'] paper ['relatedto'] current ['relatedto'] drift
+snow ['relatedto'] paper ['antonym', 'relatedto'] change ['mannerof'] drift
+snow ['relatedto'] paper ['relatedto'] surface ['relatedto'] drift
+snow ['relatedto'] paper ['relatedto'] tool ['relatedto'] drift
+snow ['relatedto'] paper ['relatedto'] roll ['synonym'] drift
+snow ['relatedto'] paper ['relatedto'] scroll ['relatedto'] drift
+snow ['usedfor', 'relatedto'] christmas ['relatedto'] mass ['isa'] drift
+snow ['antonym'] summer ['antonym', 'distinctfrom', 'relatedto'] fall ['relatedto'] drift
+snow ['antonym'] summer ['relatedto'] current ['relatedto'] drift
+snow ['antonym'] summer ['relatedto'] beach ['relatedto'] drift
+snow ['antonym'] summer ['relatedto'] horizontal ['relatedto'] drift
+snow ['relatedto'] solid ['relatedto', 'atlocation'] surface ['relatedto'] drift
+snow ['relatedto'] solid ['isa'] shape ['relatedto'] drift
+snow ['relatedto'] solid ['relatedto'] hole ['relatedto'] drift
+snow ['relatedto'] falling ['formof', 'relatedto'] fall ['relatedto'] drift
+snow ['relatedto'] falling ['isa'] movement ['synonym'] drift
+snow ['relatedto'] falling ['relatedto'] roll ['synonym'] drift
+snow ['relatedto'] mountain ['relatedto'] tunnel ['relatedto'] drift
+snow ['relatedto'] mountain ['relatedto'] mass ['isa'] drift
+snow ['usedfor', 'relatedto'] cloud ['relatedto'] ball ['relatedto'] drift
+snow ['usedfor', 'relatedto'] cloud ['mannerof'] change ['mannerof'] drift

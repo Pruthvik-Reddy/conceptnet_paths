@@ -1,0 +1,100 @@
+dictionary ['relatedto'] order ['relatedto'] function ['relatedto'] computerize
+dictionary ['isa', 'relatedto'] book ['atlocation'] store ['mannerof'] computerize
+dictionary ['isa', 'relatedto'] book ['relatedto'] data ['relatedto'] computerize
+dictionary ['atlocation'] table ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['atlocation'] table ['relatedto'] data ['relatedto'] computerize
+dictionary ['atlocation'] table ['relatedto'] enter ['relatedto'] computerize
+dictionary ['atlocation'] anemone ['atlocation'] store ['mannerof'] computerize
+dictionary ['atlocation'] classroom ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto', 'atlocation'] library ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto', 'atlocation'] library ['antonym', 'relatedto'] store ['mannerof'] computerize
+dictionary ['atlocation'] shelf ['relatedto'] store ['mannerof'] computerize
+dictionary ['isa', 'relatedto'] reference_work ['isa'] manual ['relatedto'] computerize
+dictionary ['relatedto', 'partof'] word ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] bible ['relatedto'] manual ['relatedto'] computerize
+dictionary ['relatedto'] help ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] knowledge ['relatedto'] data ['relatedto'] computerize
+dictionary ['relatedto'] language ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] look ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] material ['relatedto'] data ['relatedto'] computerize
+dictionary ['relatedto'] tool ['mannerof'] supply ['mannerof'] computerize
+dictionary ['relatedto'] tool ['isa'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] tool ['relatedto'] equip ['relatedto'] computerize
+dictionary ['relatedto'] entry ['relatedto'] enter ['relatedto'] computerize
+dictionary ['relatedto'] order ['antonym', 'relatedto', 'synonym'] law ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto', 'desires'] judge ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['distinctfrom'] functional ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['hasprerequisite'] buy ['relatedto', 'atlocation'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['isa', 'relatedto'] organization ['usedfor', 'relatedto', 'synonym'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['isa', 'relatedto', 'synonym'] rule ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['isa', 'mannerof', 'relatedto', 'synonym'] command ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] order ['isa', 'mannerof', 'relatedto', 'synonym'] command ['relatedto'] enter ['relatedto'] computerize
+dictionary ['relatedto'] order ['isa'] state ['relatedto'] convert ['relatedto'] computerize
+dictionary ['relatedto'] order ['isa'] state ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['isa', 'relatedto'] word ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] order ['mannerof'] call ['atlocation'] voice_mail ['relatedto'] computerize
+dictionary ['relatedto'] order ['mannerof'] call ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['mannerof', 'synonym'] commission ['mannerof'] equip ['relatedto'] computerize
+dictionary ['relatedto'] order ['mannerof', 'relatedto'] instruct ['relatedto'] manual ['relatedto'] computerize
+dictionary ['relatedto'] order ['mannerof', 'relatedto'] place ['relatedto'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['mannerof', 'relatedto'] place ['atlocation'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['mannerof', 'relatedto'] systematize ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] alphabetize ['mannerof'] supply ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] antichaos ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] antihomomorphism ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] backlog ['relatedto'] supply ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] bank ['relatedto'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] bar ['relatedto'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] basket ['atlocation'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] born ['relatedto'] enter ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] bug ['relatedto'] convert ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] come ['relatedto'] enter ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] contravariance ['relatedto'] data ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] control ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] order ['relatedto'] count ['capableof'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] order ['relatedto'] cyberstore ['derivedfrom'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] demand ['antonym', 'distinctfrom', 'relatedto'] supply ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto', 'synonym'] discipline ['isa'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] fill ['relatedto'] enter ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] fill ['relatedto'] supply ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] kaput ['distinctfrom'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] knaster_tarski_theorem ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] arranged ['relatedto'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] arrangement ['synonym'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] food ['atlocation'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] line ['atlocation'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] line ['relatedto'] enter ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] line ['relatedto'] supply ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] logic ['isa', 'relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] ordinary ['relatedto'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] organized ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto', 'synonym'] sequence ['isa'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] structure ['relatedto'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] structure ['isa'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] structure ['relatedto'] data ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] function ['relatedto'] convert ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] graph ['relatedto'] data ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] group ['isa'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] group ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] order ['relatedto'] organism ['isa'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] power ['relatedto'] supply ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] power ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] order ['relatedto'] product ['relatedto'] convert ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] product ['relatedto', 'atlocation'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] rank ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] relation ['isa'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] service ['mannerof', 'relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] service ['relatedto'] equip ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] service ['relatedto'] videotex ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] sum ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] issue ['synonym'] supply ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] issue ['isa'] store ['mannerof'] computerize
+dictionary ['relatedto'] order ['relatedto'] particular ['relatedto'] convert ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] polygamma_function ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] sampling ['relatedto'] convert ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] secular ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] security ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+dictionary ['relatedto'] order ['relatedto'] sequencer ['relatedto'] system ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] sobolev_space ['relatedto'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['relatedto'] symmetric_function ['isa'] function ['relatedto'] computerize
+dictionary ['relatedto'] order ['similarto'] taxonomy ['relatedto'] system ['relatedto'] computerize

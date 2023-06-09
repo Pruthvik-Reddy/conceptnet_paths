@@ -1,0 +1,100 @@
+guest ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] house ['isa', 'mannerof', 'relatedto'] lodge ['synonym'] accommodate
+guest ['relatedto'] house ['relatedto'] box ['usedfor'] accommodate
+guest ['atlocation'] front_door ['relatedto', 'atlocation'] house ['mannerof', 'synonym'] accommodate
+guest ['motivatedbygoal'] entertain ['relatedto'] provide ['mannerof'] accommodate
+guest ['relatedto'] company ['isa'] seat ['mannerof'] accommodate
+guest ['antonym', 'relatedto'] host ['relatedto'] lodge ['synonym'] accommodate
+guest ['atlocation'] motel ['atlocation'] sleep ['mannerof', 'relatedto'] accommodate
+guest ['atlocation'] motel ['distinctfrom', 'relatedto'] lodge ['synonym'] accommodate
+guest ['derivedfrom', 'synonym'] houseguest ['derivedfrom'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto', 'derivedfrom'] guesthouse ['isa', 'relatedto', 'derivedfrom'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] cloakroom ['relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] coatroom ['relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] front_room ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] hotel ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] hotel ['usedfor'] sleep ['mannerof', 'relatedto'] accommodate
+guest ['relatedto'] hotel ['distinctfrom'] lodge ['synonym'] accommodate
+guest ['relatedto'] institution ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] nest ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] nest ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+guest ['relatedto'] nest ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] play ['isa'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] play ['relatedto'] harmonize ['mannerof'] accommodate
+guest ['relatedto'] hospitate ['relatedto'] lodge ['synonym'] accommodate
+guest ['relatedto'] house_party ['relatedto', 'derivedfrom'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] sleepover ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] sleepover ['derivedfrom'] sleep ['mannerof', 'relatedto'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] base ['partof'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['synonym'] act ['relatedto'] provide ['mannerof'] accommodate
+guest ['relatedto'] number ['antonym', 'distinctfrom', 'relatedto'] letter ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['atlocation'] office ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['atlocation'] office ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['atlocation'] store ['synonym'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['atlocation'] store ['usedfor', 'relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['atlocation'] store ['relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] number ['atlocation'] telephone_book ['atlocation'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] coordinate ['mannerof'] harmonize ['mannerof'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto', 'synonym'] count ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto', 'synonym'] count ['relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] cube ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['isa'] minority ['relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] nine ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['isa'] information ['relatedto'] booth ['relatedto'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] amount ['relatedto'] dunam ['relatedto'] accommodate
+guest ['relatedto'] number ['isa'] item ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['isa'] item ['relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['isa'] company ['isa'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] one ['relatedto'] admit ['synonym'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] one ['relatedto'] harmony ['relatedto'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] six ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] square ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] square ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] square ['relatedto'] dunam ['relatedto'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] square ['relatedto'] harmony ['relatedto'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] square ['relatedto'] reconcile ['relatedto', 'synonym'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] ten ['relatedto'] suit ['synonym'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] three ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['isa', 'relatedto'] two ['relatedto'] suit ['synonym'] accommodate
+guest ['relatedto'] number ['mannerof'] limit ['relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] number ['partof'] scale ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] account ['relatedto'] reconcile ['relatedto', 'synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] address ['relatedto', 'atlocation'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] address ['relatedto'] suit ['synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] average ['isa', 'relatedto'] mode ['etymologicallyrelatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] bracket ['mannerof'] hold ['synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] burthen ['relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] combination ['relatedto'] harmony ['relatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] complement ['relatedto'] provide ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] contents ['relatedto', 'atlocation'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['relatedto'] eight ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['relatedto', 'synonym'] figure ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] four ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] four ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['relatedto'] four ['relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] genus ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['relatedto'] lead ['relatedto'] provide ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] level ['relatedto'] dunam ['relatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] mean ['relatedto'] mode ['etymologicallyrelatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] nest ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] nest ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] nest ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['relatedto'] counter ['usedfor', 'relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] device ['isa', 'relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] example ['relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] generic ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] generic ['relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] part ['isa', 'relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] phone ['atlocation'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] phone ['relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] single ['relatedto'] house ['mannerof', 'synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] single ['relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] term ['relatedto'] seat ['mannerof'] accommodate
+guest ['relatedto'] number ['relatedto'] time ['relatedto'] sleep ['mannerof', 'relatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] time ['relatedto'] harmony ['relatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] tool ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['relatedto'] unit ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['relatedto'] unit ['relatedto'] dunam ['relatedto'] accommodate
+guest ['relatedto'] number ['relatedto'] used ['relatedto'] box ['usedfor'] accommodate
+guest ['relatedto'] number ['relatedto'] value ['relatedto'] hold ['synonym'] accommodate
+guest ['relatedto'] number ['relatedto'] values ['relatedto'] retrogreen ['relatedto'] accommodate

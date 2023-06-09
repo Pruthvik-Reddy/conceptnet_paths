@@ -1,0 +1,100 @@
+grape ['relatedto'] stum ['relatedto'] ferment
+grape ['relatedto'] substance ['isa'] ferment
+grape ['relatedto'] grape_wine ['relatedto'] ferment
+grape ['relatedto'] vinify ['mannerof'] ferment
+grape ['relatedto'] wine_grape ['relatedto'] ferment
+grape ['atlocation'] lunch ['relatedto'] work ['relatedto', 'synonym'] ferment
+grape ['atlocation'] water ['hasa', 'atlocation'] beer ['relatedto'] ferment
+grape ['atlocation'] water ['relatedto'] balché ['relatedto'] ferment
+grape ['atlocation'] water ['relatedto'] gin ['relatedto'] ferment
+grape ['atlocation'] water ['relatedto'] grape_wine ['relatedto'] ferment
+grape ['atlocation'] water ['relatedto'] petiotization ['relatedto'] ferment
+grape ['atlocation'] water ['usedfor', 'relatedto'] wash ['relatedto'] ferment
+grape ['atlocation'] water ['relatedto'] substance ['isa'] ferment
+grape ['relatedto'] red ['relatedto'] fox ['relatedto'] ferment
+grape ['atlocation'] art ['atlocation'] fox ['relatedto'] ferment
+grape ['atlocation'] art ['relatedto'] work ['relatedto', 'synonym'] ferment
+grape ['atlocation'] food ['isa'] dosa ['relatedto'] ferment
+grape ['atlocation'] food ['isa', 'relatedto'] substance ['isa'] ferment
+grape ['atlocation'] food ['isa'] injera ['relatedto'] ferment
+grape ['atlocation'] food ['isa'] pla_ra ['relatedto'] ferment
+grape ['atlocation'] food ['relatedto'] hopper ['relatedto'] ferment
+grape ['atlocation'] food ['relatedto'] sauerkraut ['relatedto'] ferment
+grape ['atlocation'] food ['relatedto'] sugar ['relatedto'] ferment
+grape ['atlocation'] food ['relatedto'] tapai ['relatedto'] ferment
+grape ['relatedto'] small ['relatedto'] change ['relatedto'] ferment
+grape ['relatedto'] small ['relatedto'] fox ['relatedto'] ferment
+grape ['relatedto'] black ['relatedto', 'hasproperty'] pepper ['relatedto'] ferment
+grape ['relatedto'] black ['relatedto'] cider ['relatedto'] ferment
+grape ['relatedto'] black ['relatedto'] change ['relatedto'] ferment
+grape ['relatedto'] blush ['relatedto'] fermentation ['relatedto'] ferment
+grape ['relatedto'] blush ['relatedto'] excitement ['relatedto'] ferment
+grape ['relatedto', 'partof', 'atlocation'] wine ['antonym', 'distinctfrom', 'relatedto'] beer ['relatedto'] ferment
+grape ['relatedto', 'partof', 'atlocation'] wine ['isa', 'hasa', 'relatedto', 'atlocation'] alcohol ['relatedto'] ferment
+grape ['relatedto', 'partof', 'atlocation'] wine ['createdby', 'relatedto'] fermentation ['relatedto'] ferment
+grape ['relatedto', 'partof', 'atlocation'] wine ['relatedto', 'receivesaction'] fermented ['formof', 'relatedto'] ferment
+grape ['relatedto', 'partof', 'atlocation'] wine ['relatedto'] bee_wine ['relatedto'] ferment
+grape ['relatedto', 'partof', 'atlocation'] wine ['relatedto'] petiotization ['relatedto'] ferment
+grape ['relatedto', 'partof', 'atlocation'] wine ['relatedto'] vinify ['mannerof'] ferment
+grape ['relatedto', 'partof', 'atlocation'] wine ['relatedto'] sour ['causes', 'synonym'] ferment
+grape ['atlocation'] farm ['mannerof', 'relatedto'] work ['relatedto', 'synonym'] ferment
+grape ['relatedto'] horse ['relatedto'] work ['relatedto', 'synonym'] ferment
+grape ['atlocation'] picture ['atlocation'] fox ['relatedto'] ferment
+grape ['relatedto'] pick ['relatedto'] pepper ['relatedto'] ferment
+grape ['relatedto'] round ['relatedto'] change ['relatedto'] ferment
+grape ['relatedto'] round ['relatedto'] fermentation ['relatedto'] ferment
+grape ['relatedto'] round ['relatedto'] yeast ['relatedto'] ferment
+grape ['atlocation'] painting ['atlocation'] fox ['relatedto'] ferment
+grape ['atlocation'] season ['isa'] pepper ['relatedto'] ferment
+grape ['relatedto'] fruit ['relatedto'] sweet ['relatedto'] ferment
+grape ['relatedto'] fruit ['hasproperty'] sour ['causes', 'synonym'] ferment
+grape ['relatedto'] fruit ['hasa'] sugar ['relatedto'] ferment
+grape ['relatedto'] fruit ['isa'] pepper ['relatedto'] ferment
+grape ['relatedto'] fruit ['relatedto'] guarri ['relatedto'] ferment
+grape ['relatedto'] fruit ['relatedto'] guarriboom ['relatedto'] ferment
+grape ['relatedto'] fruit ['relatedto'] gwarri ['relatedto'] ferment
+grape ['relatedto'] fruit ['relatedto'] vinify ['mannerof'] ferment
+grape ['relatedto'] generic ['relatedto'] alcohol ['relatedto'] ferment
+grape ['relatedto'] jelly ['relatedto'] sweet ['relatedto'] ferment
+grape ['relatedto'] jelly ['isa'] substance ['isa'] ferment
+grape ['relatedto'] must ['relatedto'] grape_wine ['relatedto'] ferment
+grape ['relatedto'] must ['relatedto'] stum ['relatedto'] ferment
+grape ['atlocation'] fridge ['atlocation'] alcohol ['relatedto'] ferment
+grape ['atlocation'] fridge ['atlocation'] beer ['relatedto'] ferment
+grape ['atlocation'] bowl ['usedfor', 'relatedto'] sugar ['relatedto'] ferment
+grape ['atlocation'] kitchen ['atlocation'] sugar ['relatedto'] ferment
+grape ['atlocation'] canada ['atlocation'] fox ['relatedto'] ferment
+grape ['atlocation'] belly ['relatedto'] beer ['relatedto'] ferment
+grape ['relatedto'] dime ['relatedto'] change ['relatedto'] ferment
+grape ['atlocation'] fruit_cocktail ['relatedto'] sweet ['relatedto'] ferment
+grape ['atlocation'] fruits ['hasproperty'] sour ['causes', 'synonym'] ferment
+grape ['relatedto'] british_wine ['relatedto'] fermentation ['relatedto'] ferment
+grape ['relatedto'] chapeau ['relatedto'] fermentation ['relatedto'] ferment
+grape ['relatedto'] chaptalize ['relatedto'] sugar ['relatedto'] ferment
+grape ['relatedto'] chaptalize ['relatedto'] alcohol ['relatedto'] ferment
+grape ['relatedto'] chaptalize ['relatedto'] fermentation ['relatedto'] ferment
+grape ['relatedto'] chicha ['relatedto'] fermented ['formof', 'relatedto'] ferment
+grape ['relatedto'] enrichment ['relatedto'] sugar ['relatedto'] ferment
+grape ['relatedto'] federweisser ['relatedto'] fermented ['formof', 'relatedto'] ferment
+grape ['relatedto'] gallize ['relatedto'] sugar ['relatedto'] ferment
+grape ['relatedto'] juice ['relatedto'] sour ['causes', 'synonym'] ferment
+grape ['relatedto'] juice ['relatedto', 'partof'] sugar ['relatedto'] ferment
+grape ['relatedto'] juice ['relatedto'] cider ['relatedto'] ferment
+grape ['relatedto'] juice ['relatedto'] grape_wine ['relatedto'] ferment
+grape ['relatedto'] juice ['relatedto'] petiotization ['relatedto'] ferment
+grape ['relatedto'] juice ['relatedto'] stum ['relatedto'] ferment
+grape ['relatedto'] juice ['relatedto'] tequila ['relatedto'] ferment
+grape ['relatedto'] juice ['relatedto'] vinify ['mannerof'] ferment
+grape ['relatedto'] flavor ['relatedto'] sweet ['relatedto'] ferment
+grape ['relatedto'] flavor ['relatedto'] sugar ['relatedto'] ferment
+grape ['relatedto'] flavor ['relatedto'] retsina_wine ['relatedto'] ferment
+grape ['relatedto'] scuppernong ['relatedto'] sweet ['relatedto'] ferment
+grape ['relatedto'] stum ['relatedto'] fermentation ['relatedto'] ferment
+grape ['relatedto'] substance ['relatedto'] sweet ['relatedto'] ferment
+grape ['relatedto'] substance ['relatedto'] catalyst ['relatedto'] ferment
+grape ['relatedto'] substance ['relatedto'] convert ['mannerof'] ferment
+grape ['relatedto'] substance ['relatedto'] sugar ['relatedto'] ferment
+grape ['relatedto'] substance ['relatedto'] beer ['relatedto'] ferment
+grape ['relatedto'] texture ['relatedto'] substance ['isa'] ferment
+grape ['relatedto'] grape_wine ['relatedto'] sugar ['relatedto'] ferment
+grape ['relatedto'] grape_wine ['relatedto'] alcohol ['relatedto'] ferment

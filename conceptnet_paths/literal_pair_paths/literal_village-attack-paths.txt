@@ -1,0 +1,100 @@
+village ['relatedto'] side ['relatedto'] attack
+village ['relatedto'] smaller ['relatedto'] pin ['mannerof', 'relatedto'] attack
+village ['relatedto', 'atlocation'] human ['atlocation'] battle ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['atlocation'] charge ['isa', 'relatedto'] attack
+village ['relatedto', 'atlocation'] human ['atlocation'] command ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['atlocation'] pain ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['atlocation'] plane ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['atlocation'] submarine ['mannerof'] attack
+village ['relatedto', 'atlocation'] human ['relatedto', 'atlocation'] war ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['formof', 'relatedto'] humans ['capableof'] attack
+village ['relatedto', 'atlocation'] human ['isa'] fang ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['relatedto'] articulate ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['relatedto'] block ['antonym', 'relatedto'] attack
+village ['relatedto', 'atlocation'] human ['relatedto'] dog ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['relatedto'] two ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['relatedto'] run ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['relatedto'] shark_attack ['relatedto'] attack
+village ['relatedto', 'atlocation'] human ['relatedto'] touch ['isa'] attack
+village ['relatedto'] old ['relatedto'] dog ['relatedto'] attack
+village ['relatedto'] old ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack
+village ['relatedto'] old ['relatedto'] death ['relatedto'] attack
+village ['atlocation'] house ['atlocation'] fire ['antonym', 'isa', 'synonym'] attack
+village ['atlocation'] house ['atlocation'] couch ['relatedto'] attack
+village ['atlocation'] house ['relatedto', 'atlocation'] dog ['relatedto'] attack
+village ['atlocation'] house ['atlocation'] dogs ['capableof'] attack
+village ['atlocation'] house ['partof', 'atlocation'] shower ['relatedto'] attack
+village ['atlocation'] house ['relatedto'] drive ['synonym'] attack
+village ['atlocation'] house ['relatedto'] harbor ['relatedto'] attack
+village ['atlocation'] house ['relatedto'] manner ['relatedto'] attack
+village ['atlocation'] house ['relatedto'] move ['relatedto'] attack
+village ['atlocation'] house ['relatedto'] pin ['mannerof', 'relatedto'] attack
+village ['atlocation'] house ['relatedto'] whang ['mannerof'] attack
+village ['usedfor'] sleeping ['causes'] death ['relatedto'] attack
+village ['usedfor'] sleeping ['usedfor'] couch ['relatedto'] attack
+village ['relatedto'] navy ['antonym', 'distinctfrom', 'relatedto'] army ['relatedto'] attack
+village ['relatedto'] navy ['antonym', 'relatedto'] force ['relatedto'] attack
+village ['relatedto'] navy ['relatedto'] fighting ['relatedto'] attack
+village ['relatedto'] church ['usedfor'] serve ['relatedto'] attack
+village ['relatedto'] small ['relatedto'] bat ['relatedto'] attack
+village ['relatedto'] small ['relatedto'] battle ['relatedto'] attack
+village ['relatedto'] small ['hasproperty'] dogs ['capableof'] attack
+village ['relatedto'] small ['relatedto'] chop ['relatedto'] attack
+village ['relatedto'] small ['relatedto'] dog ['relatedto'] attack
+village ['relatedto'] small ['relatedto'] flea ['antonym'] attack
+village ['relatedto'] small ['relatedto'] pin ['mannerof', 'relatedto'] attack
+village ['relatedto'] small ['relatedto'] side ['relatedto'] attack
+village ['relatedto'] small ['relatedto'] worth ['relatedto'] attack
+village ['isa', 'instanceof'] pale ['relatedto'] fence ['causesdesire', 'hasprerequisite'] attack
+village ['isa', 'instanceof'] pale ['relatedto'] strike ['isa', 'mannerof', 'relatedto'] attack
+village ['relatedto'] bridge ['relatedto'] position ['antonym'] attack
+village ['relatedto'] bridge ['atlocation'] bat ['relatedto'] attack
+village ['relatedto'] bridge ['relatedto'] rider ['relatedto'] attack
+village ['relatedto'] bridge ['relatedto'] transition ['relatedto'] attack
+village ['atlocation'] cow ['atlocation'] fence ['causesdesire', 'hasprerequisite'] attack
+village ['atlocation'] cow ['relatedto'] field ['relatedto'] attack
+village ['atlocation'] cow ['relatedto'] setter ['relatedto'] attack
+village ['etymologicallyrelatedto', 'relatedto'] villa ['relatedto'] retreat ['antonym', 'distinctfrom'] attack
+village ['relatedto'] rural ['relatedto'] field ['relatedto'] attack
+village ['isa', 'relatedto'] town ['relatedto'] battle ['relatedto'] attack
+village ['isa', 'relatedto'] town ['atlocation'] war ['relatedto'] attack
+village ['isa', 'relatedto'] town ['relatedto'] fence ['causesdesire', 'hasprerequisite'] attack
+village ['isa', 'relatedto'] community ['relatedto'] together ['relatedto'] attack
+village ['relatedto'] chief ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack
+village ['relatedto'] chief ['relatedto'] position ['antonym'] attack
+village ['relatedto'] chief ['relatedto'] dog ['relatedto'] attack
+village ['relatedto'] chief ['relatedto'] charge ['isa', 'relatedto'] attack
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] block ['antonym', 'relatedto'] attack
+village ['antonym', 'isa', 'relatedto'] city ['atlocation'] war ['relatedto'] attack
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] side ['relatedto'] attack
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] siege ['relatedto'] attack
+village ['relatedto'] country ['relatedto', 'atlocation'] war ['relatedto'] attack
+village ['relatedto'] country ['relatedto', 'atlocation'] field ['relatedto'] attack
+village ['relatedto'] country ['atlocation'] humans ['capableof'] attack
+village ['relatedto'] country ['relatedto'] side ['relatedto'] attack
+village ['atlocation'] countryside ['isa', 'relatedto', 'atlocation'] field ['relatedto'] attack
+village ['atlocation'] lane ['relatedto'] two ['relatedto'] attack
+village ['atlocation'] lane ['relatedto'] approach ['synonym'] attack
+village ['relatedto', 'atlocation'] market ['isa'] activity ['relatedto'] attack
+village ['relatedto', 'atlocation'] market ['relatedto'] flea ['antonym'] attack
+village ['relatedto', 'atlocation'] market ['relatedto'] event ['relatedto'] attack
+village ['relatedto', 'atlocation'] market ['relatedto'] worth ['relatedto'] attack
+village ['relatedto', 'atlocation'] market ['relatedto'] systempunkt ['relatedto'] attack
+village ['atlocation'] mill ['mannerof'] move ['relatedto'] attack
+village ['atlocation'] africa ['relatedto'] fang ['relatedto'] attack
+village ['atlocation'] rural_area ['atlocation'] field ['relatedto'] attack
+village ['atlocation'] world ['hasproperty'] round ['synonym'] attack
+village ['atlocation'] world ['relatedto'] war ['relatedto'] attack
+village ['atlocation'] world ['synonym'] humans ['capableof'] attack
+village ['atlocation'] world ['relatedto'] dr_strangelove ['relatedto'] attack
+village ['isa', 'instanceof'] burst ['isa'] activity ['relatedto'] attack
+village ['isa', 'instanceof'] burst ['mannerof'] jump ['relatedto'] attack
+village ['isa', 'instanceof'] dol ['relatedto'] pain ['relatedto'] attack
+village ['isa'] harang ['relatedto'] criticism ['isa'] attack
+village ['isa'] leper_colony ['relatedto'] disease ['relatedto'] attack
+village ['isa'] lepsy ['relatedto'] seizure ['isa'] attack
+village ['isa'] lepsy ['derivedfrom'] hysteroepilepsy ['relatedto'] attack
+village ['isa'] libel ['relatedto'] action ['relatedto'] attack
+village ['isa'] libel ['relatedto'] crime ['isa'] attack
+village ['isa'] libel ['relatedto'] damage ['relatedto'] attack
+village ['isa'] lug ['relatedto'] condition ['relatedto'] attack

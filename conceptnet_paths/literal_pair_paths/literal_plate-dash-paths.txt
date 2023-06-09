@@ -1,0 +1,100 @@
+plate ['relatedto', 'atlocation'] cake ['relatedto'] dash
+plate ['atlocation'] corn ['relatedto'] dash
+plate ['relatedto'] mine ['relatedto'] dash
+plate ['relatedto'] run ['isa', 'relatedto'] dash
+plate ['antonym', 'relatedto'] base ['relatedto'] short ['relatedto'] dash
+plate ['antonym', 'relatedto'] base ['relatedto'] run ['isa', 'relatedto'] dash
+plate ['relatedto'] negative ['relatedto'] subtraction ['relatedto'] dash
+plate ['relatedto'] negative ['relatedto'] minus_sign ['relatedto'] dash
+plate ['relatedto'] negative ['relatedto'] quantity ['relatedto'] dash
+plate ['relatedto'] negative ['relatedto'] shake ['relatedto'] dash
+plate ['relatedto'] negative ['relatedto'] short ['relatedto'] dash
+plate ['relatedto'] land ['relatedto'] splatter ['relatedto'] dash
+plate ['relatedto'] animal ['relatedto'] drop ['relatedto'] dash
+plate ['relatedto'] house ['relatedto'] card ['relatedto'] dash
+plate ['relatedto'] house ['relatedto'] draw ['relatedto'] dash
+plate ['relatedto'] home ['relatedto', 'atlocation'] mine ['relatedto'] dash
+plate ['relatedto'] good ['relatedto'] cake ['relatedto'] dash
+plate ['relatedto'] good ['relatedto'] corn ['relatedto'] dash
+plate ['relatedto'] good ['relatedto'] style ['synonym'] dash
+plate ['atlocation'] egg ['madeof', 'relatedto'] cake ['relatedto'] dash
+plate ['atlocation'] egg ['relatedto'] drop ['relatedto'] dash
+plate ['atlocation'] egg ['relatedto'] liquid ['relatedto'] dash
+plate ['relatedto'] full ['relatedto'] short ['relatedto'] dash
+plate ['relatedto'] full ['relatedto'] quantity ['relatedto'] dash
+plate ['relatedto'] full ['similarto'] plangent ['relatedto'] dash
+plate ['relatedto', 'synonym'] home_plate ['relatedto'] run ['isa', 'relatedto'] dash
+plate ['antonym', 'distinctfrom', 'relatedto'] bowl ['relatedto'] liquid ['relatedto'] dash
+plate ['antonym', 'distinctfrom', 'relatedto'] cup ['relatedto'] cake ['relatedto'] dash
+plate ['antonym', 'distinctfrom', 'relatedto'] cup ['hasa', 'relatedto', 'atlocation'] liquid ['relatedto'] dash
+plate ['antonym', 'distinctfrom', 'relatedto'] cup ['relatedto'] dop ['relatedto'] dash
+plate ['antonym', 'distinctfrom', 'relatedto'] cup ['relatedto'] teaspoon ['relatedto'] dash
+plate ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] fork ['relatedto'] corn ['relatedto'] dash
+plate ['atlocation'] cheese ['synonym'] rush ['relatedto'] dash
+plate ['atlocation'] colors ['relatedto'] draw ['relatedto'] dash
+plate ['atlocation'] corn ['relatedto'] rash ['relatedto'] dash
+plate ['atlocation'] corn ['relatedto'] ring ['relatedto'] dash
+plate ['atlocation'] design ['relatedto'] break ['isa'] dash
+plate ['atlocation'] design ['antonym'] destroy ['relatedto'] dash
+plate ['atlocation'] design ['relatedto'] draw ['relatedto'] dash
+plate ['atlocation'] design ['relatedto'] style ['synonym'] dash
+plate ['atlocation'] dust ['relatedto'] leave ['relatedto'] dash
+plate ['atlocation'] dust ['relatedto'] ruin ['relatedto'] dash
+plate ['relatedto', 'atlocation'] eat ['relatedto'] destroy ['relatedto'] dash
+plate ['relatedto', 'atlocation'] eat ['usedfor', 'relatedto'] cake ['relatedto'] dash
+plate ['relatedto', 'atlocation'] eat ['relatedto'] corn ['relatedto'] dash
+plate ['atlocation'] edible ['relatedto', 'receivesaction'] cake ['relatedto'] dash
+plate ['atlocation'] edible ['relatedto'] corn ['relatedto'] dash
+plate ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] food ['isa', 'relatedto'] cake ['relatedto'] dash
+plate ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] food ['isa', 'relatedto'] corn ['relatedto'] dash
+plate ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] food ['relatedto'] ring ['relatedto'] dash
+plate ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] food ['relatedto'] shake ['relatedto'] dash
+plate ['atlocation'] fruit ['relatedto'] cake ['relatedto'] dash
+plate ['atlocation'] fruit ['relatedto'] corn ['relatedto'] dash
+plate ['relatedto', 'atlocation'] knife ['relatedto'] dah ['synonym'] dash
+plate ['relatedto', 'atlocation'] meal ['relatedto'] break ['isa'] dash
+plate ['relatedto', 'atlocation'] meal ['relatedto'] cake ['relatedto'] dash
+plate ['relatedto', 'atlocation'] meal ['relatedto'] corn ['relatedto'] dash
+plate ['atlocation'] pie ['antonym', 'distinctfrom', 'relatedto'] cake ['relatedto'] dash
+plate ['relatedto', 'atlocation'] piece ['antonym', 'relatedto'] break ['isa'] dash
+plate ['relatedto', 'atlocation'] piece ['isa'] case ['relatedto'] dash
+plate ['relatedto', 'atlocation'] piece ['relatedto'] cake ['relatedto'] dash
+plate ['relatedto', 'atlocation'] piece ['relatedto'] card ['relatedto'] dash
+plate ['relatedto', 'atlocation'] piece ['relatedto'] drop ['relatedto'] dash
+plate ['relatedto', 'atlocation'] piece ['relatedto'] stitch ['relatedto'] dash
+plate ['relatedto', 'atlocation'] piece ['relatedto'] verse ['relatedto'] dash
+plate ['atlocation'] hutch ['relatedto'] bolt ['synonym'] dash
+plate ['atlocation'] hutch ['relatedto'] case ['relatedto'] dash
+plate ['atlocation'] hutch ['relatedto'] mine ['relatedto'] dash
+plate ['relatedto', 'atlocation'] kitchen ['atlocation'] teaspoon ['relatedto'] dash
+plate ['atlocation'] restaurant ['atlocation'] corn ['relatedto'] dash
+plate ['atlocation'] sink ['relatedto', 'synonym'] drop ['relatedto'] dash
+plate ['atlocation'] sink ['relatedto'] liquid ['relatedto'] dash
+plate ['atlocation'] potato ['relatedto'] smash ['synonym'] dash
+plate ['atlocation'] potatoes ['relatedto'] smash ['synonym'] dash
+plate ['atlocation'] sauce ['isa', 'relatedto'] liquid ['relatedto'] dash
+plate ['relatedto', 'atlocation'] teeth ['relatedto'] corn ['relatedto'] dash
+plate ['derivedfrom'] drawplate ['derivedfrom'] draw ['relatedto'] dash
+plate ['distinctfrom', 'relatedto'] saucer ['relatedto'] teaspoon ['relatedto'] dash
+plate ['distinctfrom', 'relatedto'] spoon ['isa', 'derivedfrom'] teaspoon ['relatedto'] dash
+plate ['formof', 'relatedto'] plates ['relatedto'] smash ['synonym'] dash
+plate ['isa'] baffle ['relatedto', 'synonym'] thwart ['mannerof'] dash
+plate ['isa'] comb ['relatedto'] card ['relatedto'] dash
+plate ['isa'] dinner_plate ['relatedto'] mine ['relatedto'] dash
+plate ['isa', 'relatedto', 'synonym'] dish ['relatedto'] break ['isa'] dash
+plate ['isa', 'relatedto', 'synonym'] dish ['relatedto'] cake ['relatedto'] dash
+plate ['isa', 'relatedto', 'synonym'] dish ['relatedto'] ruin ['relatedto'] dash
+plate ['isa', 'relatedto', 'synonym'] dish ['relatedto'] mine ['relatedto'] dash
+plate ['isa', 'relatedto'] illustration ['relatedto'] draw ['relatedto'] dash
+plate ['isa'] sheet ['relatedto'] case ['relatedto'] dash
+plate ['isa'] sheet ['relatedto'] card ['relatedto'] dash
+plate ['isa', 'partof'] structure ['etymologicallyrelatedto'] destroy ['relatedto'] dash
+plate ['isa', 'partof'] structure ['relatedto'] ruin ['relatedto'] dash
+plate ['isa', 'partof'] structure ['relatedto'] verse ['relatedto'] dash
+plate ['isa', 'relatedto'] crust ['relatedto', 'synonym'] cake ['relatedto'] dash
+plate ['isa'] containerful ['isa'] case ['relatedto'] dash
+plate ['isa'] containerful ['isa'] teaspoon ['relatedto'] dash
+plate ['isa'] tap ['mannerof', 'relatedto'] draw ['relatedto'] dash
+plate ['isa'] tap ['relatedto'] liquid ['relatedto'] dash
+plate ['isa'] tap ['relatedto'] quick ['relatedto'] dash
+plate ['isa'] tap ['relatedto'] morse ['partof'] dash

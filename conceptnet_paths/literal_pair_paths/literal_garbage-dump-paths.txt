@@ -1,0 +1,100 @@
+garbage ['relatedto', 'atlocation'] dump
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'atlocation'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] dump
+garbage ['atlocation'] dumpster ['derivedfrom'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['relatedto', 'atlocation'] dump
+garbage ['derivedfrom'] garbage_dump ['synonym'] dump
+garbage ['motivatedbygoal'] throw_away ['synonym'] dump
+garbage ['relatedto'] fly_tip ['relatedto'] dump
+garbage ['usedfor'] disposal ['relatedto'] dump
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['atlocation'] tip ['relatedto'] dump
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['isa', 'relatedto', 'synonym', 'atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'hasproperty', 'synonym'] waste ['relatedto'] dump
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto'] dumpage ['relatedto'] dump
+garbage ['atlocation'] ground ['atlocation'] cat ['relatedto'] dump
+garbage ['atlocation'] ground ['atlocation'] coin ['relatedto'] dump
+garbage ['atlocation'] ground ['relatedto', 'atlocation'] dirty ['relatedto'] dump
+garbage ['atlocation'] ground ['atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['atlocation'] ground ['relatedto'] ditch ['synonym'] dump
+garbage ['atlocation'] ground ['relatedto'] drop ['mannerof'] dump
+garbage ['atlocation'] ground ['relatedto'] stump ['relatedto'] dump
+garbage ['relatedto', 'synonym'] junk ['isa'] boat ['relatedto'] dump
+garbage ['relatedto', 'synonym'] junk ['isa', 'relatedto', 'synonym'] trash ['relatedto', 'atlocation'] dump
+garbage ['relatedto', 'synonym'] junk ['relatedto', 'synonym'] discard ['mannerof', 'relatedto'] dump
+garbage ['relatedto', 'synonym'] junk ['relatedto'] waste ['relatedto'] dump
+garbage ['relatedto', 'synonym'] junk ['relatedto', 'synonym'] throw_away ['synonym'] dump
+garbage ['relatedto', 'synonym'] junk ['synonym'] chuck ['relatedto'] dump
+garbage ['relatedto'] cover ['relatedto'] car ['relatedto'] dump
+garbage ['relatedto'] cover ['relatedto'] lead ['relatedto'] dump
+garbage ['atlocation'] floor ['atlocation'] cat ['relatedto'] dump
+garbage ['atlocation'] floor ['hasproperty'] dirty ['relatedto'] dump
+garbage ['atlocation'] floor ['relatedto'] dance ['relatedto'] dump
+garbage ['atlocation'] floor ['relatedto', 'synonym'] deck ['synonym'] dump
+garbage ['atlocation'] floor ['relatedto'] drop ['mannerof'] dump
+garbage ['atlocation'] floor ['relatedto'] inside ['relatedto'] dump
+garbage ['atlocation'] paper ['antonym', 'distinctfrom'] coin ['relatedto'] dump
+garbage ['atlocation'] paper ['atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['atlocation'] paper ['relatedto'] copy ['isa', 'relatedto'] dump
+garbage ['atlocation'] paper ['relatedto'] contents ['relatedto'] dump
+garbage ['atlocation'] paper ['relatedto'] inside ['relatedto'] dump
+garbage ['atlocation'] paper ['relatedto'] output ['relatedto'] dump
+garbage ['atlocation'] paper ['relatedto'] waste ['relatedto'] dump
+garbage ['relatedto'] chute ['relatedto'] trash ['relatedto', 'atlocation'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto', 'hasproperty', 'synonym'] refuse ['relatedto', 'atlocation'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] dirty ['relatedto'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto', 'atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['isa'] slop ['relatedto'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['mannerof', 'relatedto'] discard ['mannerof', 'relatedto'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] fly_tip ['relatedto'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] throw_away ['synonym'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] disposal ['relatedto'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] dumps ['formof'] dump
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] tip ['relatedto'] dump
+garbage ['relatedto'] dirt ['atlocation'] cat ['relatedto'] dump
+garbage ['relatedto'] dirt ['relatedto', 'derivedfrom'] dirty ['relatedto'] dump
+garbage ['relatedto'] disposable ['relatedto'] waste ['relatedto'] dump
+garbage ['relatedto'] disposable ['derivedfrom'] disposal ['relatedto'] dump
+garbage ['relatedto'] disposable ['relatedto'] discard ['mannerof', 'relatedto'] dump
+garbage ['relatedto'] entropy ['relatedto'] waste ['relatedto'] dump
+garbage ['relatedto'] entropy ['relatedto'] system ['relatedto'] dump
+garbage ['relatedto'] fly ['relatedto'] dirty ['relatedto'] dump
+garbage ['relatedto'] fly ['relatedto'] waste ['relatedto'] dump
+garbage ['relatedto'] fly ['relatedto'] bug ['relatedto'] dump
+garbage ['relatedto'] fly ['usedfor'] machine ['usedfor'] dump
+garbage ['relatedto'] sink ['relatedto', 'synonym'] drop ['mannerof'] dump
+garbage ['relatedto'] sink ['relatedto'] disposal ['relatedto'] dump
+garbage ['antonym'] artifact ['isa'] car ['relatedto'] dump
+garbage ['antonym'] artifact ['isa'] machine ['usedfor'] dump
+garbage ['atlocation'] disposable_razor ['atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['atlocation'] flies ['hasproperty'] boring ['relatedto'] dump
+garbage ['atlocation'] flies ['atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['capableof', 'atlocation'] container ['atlocation'] contents ['relatedto'] dump
+garbage ['capableof', 'atlocation'] container ['atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['atlocation'] dumpster ['relatedto', 'atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['atlocation'] garbage_cans ['relatedto'] waste ['relatedto'] dump
+garbage ['derivedfrom', 'atlocation'] garbage_truck ['relatedto'] waste ['relatedto'] dump
+garbage ['derivedfrom', 'atlocation'] garbage_truck ['relatedto'] dumpster ['derivedfrom'] dump
+garbage ['usedfor', 'relatedto', 'atlocation'] landfill ['relatedto'] refuse ['relatedto', 'atlocation'] dump
+garbage ['usedfor', 'relatedto', 'atlocation'] landfill ['relatedto'] waste ['relatedto'] dump
+garbage ['usedfor', 'relatedto', 'atlocation'] landfill ['hasa'] trash ['relatedto', 'atlocation'] dump
+garbage ['usedfor', 'relatedto', 'atlocation'] landfill ['relatedto'] garbage_dump ['synonym'] dump
+garbage ['usedfor', 'relatedto', 'atlocation'] landfill ['relatedto'] site ['isa', 'relatedto'] dump
+garbage ['usedfor', 'relatedto', 'atlocation'] landfill ['relatedto'] rubbish_dump ['synonym'] dump
+garbage ['atlocation'] television ['isa'] machine ['usedfor'] dump
+garbage ['atlocation'] television ['relatedto', 'atlocation'] program ['relatedto'] dump
+garbage ['atlocation'] television ['relatedto'] bug ['relatedto'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'atlocation'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['relatedto', 'atlocation'] waste ['relatedto'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['relatedto'] throw_away ['synonym'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['relatedto'] mess ['relatedto'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['mannerof', 'relatedto'] discard ['mannerof', 'relatedto'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['relatedto', 'atlocation'] dumpster ['derivedfrom'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['atlocation'] garbage_dump ['synonym'] dump
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['usedfor'] disposal ['relatedto'] dump
+garbage ['atlocation'] trash_truck ['atlocation'] refuse ['relatedto', 'atlocation'] dump
+garbage ['atlocation'] trashcan ['atlocation'] cat ['relatedto'] dump
+garbage ['atlocation'] waste_bin ['atlocation'] refuse ['relatedto', 'atlocation'] dump
+garbage ['atlocation'] waste_bin ['relatedto', 'derivedfrom', 'atlocation'] waste ['relatedto'] dump
+garbage ['atlocation'] waste_bin ['atlocation'] trash ['relatedto', 'atlocation'] dump
+garbage ['atlocation'] mouse ['relatedto', 'desires', 'atlocation'] cat ['relatedto'] dump
+garbage ['atlocation'] mouse ['atlocation'] trash ['relatedto', 'atlocation'] dump

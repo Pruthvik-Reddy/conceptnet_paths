@@ -1,0 +1,100 @@
+smoke ['isa', 'relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto', 'atlocation'] cloud
+smoke ['relatedto'] cloudy ['relatedto', 'derivedfrom'] cloud
+smoke ['relatedto'] white ['relatedto'] cloud
+smoke ['relatedto'] blue ['antonym', 'relatedto'] cloud
+smoke ['atlocation'] sky ['antonym', 'relatedto', 'partof', 'atlocation'] cloud
+smoke ['relatedto'] dark ['relatedto', 'hasproperty'] cloud
+smoke ['antonym'] clear ['antonym'] cloud
+smoke ['relatedto'] foggy ['relatedto'] cloud
+smoke ['relatedto'] obscure ['relatedto', 'similarto', 'synonym'] cloud
+smoke ['relatedto'] related ['relatedto'] cloud
+smoke ['relatedto'] color ['relatedto'] cloud
+smoke ['relatedto'] fog ['isa', 'relatedto'] cloud
+smoke ['relatedto'] gray ['relatedto'] cloud
+smoke ['antonym', 'relatedto'] mist ['isa', 'relatedto'] cloud
+smoke ['relatedto'] haze ['relatedto'] cloud
+smoke ['distinctfrom', 'relatedto'] steam ['relatedto'] cloud
+smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff ['relatedto'] cloud
+smoke ['isa'] opaque_thing ['isa'] cloud
+smoke ['isa', 'relatedto'] aerosol ['isa'] cloud
+smoke ['relatedto'] billow ['mannerof', 'relatedto'] cloud
+smoke ['relatedto'] nepheligenous ['relatedto'] cloud
+smoke ['relatedto'] atmosphere ['relatedto', 'atlocation'] cloud
+smoke ['relatedto'] billowing ['relatedto'] cloud
+smoke ['relatedto'] billows ['relatedto'] cloud
+smoke ['relatedto'] clouds ['formof', 'relatedto'] cloud
+smoke ['relatedto'] dust ['relatedto'] cloud
+smoke ['relatedto'] element ['relatedto'] cloud
+smoke ['relatedto'] grey ['relatedto'] cloud
+smoke ['relatedto'] makes ['relatedto'] cloud
+smoke ['relatedto'] particles ['relatedto'] cloud
+smoke ['relatedto'] plume ['isa', 'relatedto'] cloud
+smoke ['relatedto'] puffy ['relatedto'] cloud
+smoke ['relatedto'] vapor ['relatedto'] cloud
+smoke ['relatedto'] vapour ['relatedto'] cloud
+smoke ['relatedto'] white_air ['relatedto'] cloud
+smoke ['relatedto'] white_gray ['relatedto'] cloud
+smoke ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] cloud
+smoke ['relatedto'] action ['relatedto'] effect ['relatedto'] cloud
+smoke ['relatedto'] action ['relatedto'] clear ['antonym'] cloud
+smoke ['relatedto'] action ['relatedto'] cover ['relatedto'] cloud
+smoke ['relatedto'] action ['relatedto'] klesha ['relatedto'] cloud
+smoke ['relatedto'] action ['relatedto'] obnubilation ['relatedto'] cloud
+smoke ['relatedto'] action ['relatedto'] sneeze ['relatedto'] cloud
+smoke ['relatedto'] action ['relatedto'] weather ['usedfor', 'relatedto'] cloud
+smoke ['relatedto'] activity ['relatedto'] thunder ['usedfor', 'relatedto'] cloud
+smoke ['relatedto'] activity ['relatedto'] weather ['usedfor', 'relatedto'] cloud
+smoke ['relatedto'] give ['relatedto'] sun ['antonym', 'relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['antonym', 'relatedto'] steam ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto', 'atlocation'] sky ['antonym', 'relatedto', 'partof', 'atlocation'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto', 'atlocation'] clouds ['formof', 'relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto', 'atlocation'] dust ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['atlocation'] moisture ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto', 'atlocation'] rain ['antonym', 'usedfor', 'relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['atlocation'] snowflake ['atlocation'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto', 'atlocation'] vapor ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['derivedfrom'] airy ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['isa', 'relatedto', 'synonym'] atmosphere ['relatedto', 'atlocation'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['isa', 'relatedto'] element ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['madeof', 'relatedto'] molecules ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] aerosol ['isa'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] atmospheric ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] clear ['antonym'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] component ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] everything ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] sky_stuff ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] source ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] stuff ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] airborne ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] ambient ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] ball ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] bubble ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] condition ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] haze ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] heaven ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] mist ['isa', 'relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] nubivagant ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] sneeze ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] thunder ['usedfor', 'relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] vapour ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['relatedto'] weather ['usedfor', 'relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['synonym'] appearance ['relatedto'] cloud
+smoke ['antonym', 'relatedto', 'atlocation'] air ['synonym'] nimbus ['isa', 'relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['antonym', 'distinctfrom'] air ['relatedto', 'atlocation'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['antonym'] wet ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['distinctfrom'] snow ['usedfor', 'relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['isa'] cover ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['isa', 'relatedto'] element ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] color ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] high ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] natural ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] source ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] stuff ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] sun ['antonym', 'relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] video_game ['isa'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] perlin_noise ['relatedto'] cloud
+smoke ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] fire ['relatedto'] steam ['relatedto'] cloud
+smoke ['relatedto'] plant ['relatedto'] water ['relatedto'] cloud

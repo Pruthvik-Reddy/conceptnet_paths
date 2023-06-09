@@ -1,0 +1,100 @@
+circumstance ['relatedto'] lose ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] squirrel ['relatedto'] trace
+circumstance ['relatedto'] problem ['relatedto'] decipher ['synonym'] trace
+circumstance ['relatedto'] state ['relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+circumstance ['isa', 'relatedto', 'synonym'] condition ['relatedto'] current ['relatedto'] trace
+circumstance ['relatedto'] crown ['relatedto'] mark ['isa', 'mannerof'] trace
+circumstance ['relatedto'] lose ['relatedto'] go ['relatedto'] trace
+circumstance ['relatedto'] lose ['relatedto'] follow ['synonym'] trace
+circumstance ['relatedto'] lose ['relatedto'] draw ['relatedto', 'synonym'] trace
+circumstance ['relatedto'] lose ['relatedto', 'synonym'] leave_behind ['relatedto'] trace
+circumstance ['relatedto'] lose ['relatedto'] trail ['relatedto'] trace
+circumstance ['relatedto'] detail ['relatedto'] describe ['synonym'] trace
+circumstance ['relatedto'] detail ['relatedto'] outline ['relatedto'] trace
+circumstance ['isa'] information ['relatedto'] indication ['isa'] trace
+circumstance ['isa'] information ['relatedto'] suggestion ['synonym'] trace
+circumstance ['relatedto'] graduation ['isa'] line ['isa', 'usedfor', 'synonym'] trace
+circumstance ['relatedto'] happen ['relatedto'] go ['relatedto'] trace
+circumstance ['relatedto'] happen ['mannerof'] proceed ['mannerof'] trace
+circumstance ['relatedto'] trouble ['relatedto'] kids ['relatedto'] trace
+circumstance ['relatedto'] property ['relatedto'] pencil ['entails'] trace
+circumstance ['relatedto'] property ['relatedto', 'synonym'] dimension ['relatedto'] trace
+circumstance ['isa', 'relatedto'] event ['relatedto'] go ['relatedto'] trace
+circumstance ['isa', 'relatedto'] event ['relatedto'] current ['relatedto'] trace
+circumstance ['isa', 'relatedto'] event ['relatedto'] lose ['relatedto'] trace
+circumstance ['isa', 'relatedto'] event ['relatedto'] track ['etymologicallyrelatedto', 'synonym'] trace
+circumstance ['isa', 'relatedto'] event ['relatedto'] coordinate ['relatedto'] trace
+circumstance ['isa', 'relatedto'] event ['relatedto'] traceability ['relatedto'] trace
+circumstance ['relatedto'] affect ['mannerof', 'relatedto', 'synonym'] touch ['synonym'] trace
+circumstance ['relatedto'] randomness ['relatedto'] describe ['synonym'] trace
+circumstance ['relatedto'] circumstantiate ['relatedto'] describe ['synonym'] trace
+circumstance ['relatedto'] attend ['relatedto'] go ['relatedto'] trace
+circumstance ['relatedto'] basis ['relatedto'] dimension ['relatedto'] trace
+circumstance ['relatedto'] bego ['relatedto'] go ['relatedto'] trace
+circumstance ['relatedto'] relate ['synonym'] describe ['synonym'] trace
+circumstance ['relatedto'] seize ['mannerof', 'relatedto'] collar ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] nothing ['relatedto'] current ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] nothing ['relatedto'] empty ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] nothing ['relatedto'] squirrel ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] nothing ['relatedto'] touch ['synonym'] trace
+circumstance ['relatedto'] never ['relatedto'] adverb ['relatedto'] describe ['synonym'] trace
+circumstance ['relatedto'] never ['relatedto'] negative ['relatedto'] image ['relatedto'] trace
+circumstance ['relatedto'] never ['antonym', 'distinctfrom', 'relatedto'] always ['relatedto'] suggestion ['synonym'] trace
+circumstance ['relatedto'] never ['antonym', 'distinctfrom', 'relatedto'] always ['relatedto'] grass ['relatedto'] trace
+circumstance ['relatedto'] never ['antonym', 'relatedto'] happen ['relatedto'] go ['relatedto'] trace
+circumstance ['relatedto'] never ['antonym', 'relatedto'] happen ['mannerof'] proceed ['mannerof'] trace
+circumstance ['relatedto'] never ['antonym', 'distinctfrom'] often ['relatedto'] collar ['relatedto'] trace
+circumstance ['relatedto'] never ['distinctfrom'] happening ['relatedto'] current ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] energy ['relatedto', 'synonym'] go ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] energy ['relatedto'] current ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] energy ['hasprerequisite'] travel ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] infinite ['hasproperty'] line ['isa', 'usedfor', 'synonym'] trace
+circumstance ['relatedto'] never ['relatedto'] nerve ['relatedto'] touch ['synonym'] trace
+circumstance ['relatedto'] never ['relatedto'] time ['relatedto'] go ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] time ['relatedto'] current ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] time ['isa', 'relatedto'] dimension ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] time ['relatedto'] track ['etymologicallyrelatedto', 'synonym'] trace
+circumstance ['relatedto'] never ['relatedto'] story ['relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+circumstance ['relatedto'] never ['relatedto'] story ['relatedto'] describe ['synonym'] trace
+circumstance ['relatedto'] never ['relatedto'] story ['relatedto'] outline ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] story ['relatedto'] kids ['relatedto'] trace
+circumstance ['relatedto'] never ['relatedto'] sucker ['relatedto'] draw ['relatedto', 'synonym'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] ground ['relatedto', 'atlocation'] grass ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] ground ['atlocation'] shadow ['synonym'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] ground ['relatedto'] trail ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] ground ['relatedto'] walk ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] ground ['relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] ground ['synonym'] track ['etymologicallyrelatedto', 'synonym'] trace
+circumstance ['relatedto'] sometimes ['antonym', 'distinctfrom', 'relatedto'] always ['relatedto'] suggestion ['synonym'] trace
+circumstance ['relatedto'] sometimes ['antonym', 'distinctfrom', 'relatedto'] always ['relatedto'] grass ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] animal ['isa', 'relatedto'] squirrel ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] animal ['relatedto'] category ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] animal ['relatedto'] grass ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] animal ['relatedto'] ichnotaxon ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bar ['isa'] track ['etymologicallyrelatedto', 'synonym'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bar ['relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bar ['relatedto'] mark ['isa', 'mannerof'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bar ['relatedto'] roller_bolt ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bar ['relatedto'] tracery ['derivedfrom'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bed ['relatedto'] go ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bed ['relatedto'] structure ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bed ['relatedto'] matrix ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bed ['relatedto'] uptrace ['derivedfrom'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] board ['relatedto'] plane ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] board ['relatedto'] chalk ['entails'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] board ['relatedto'] construction ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] board ['relatedto'] drawing ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] board ['relatedto'] write ['mannerof'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bone ['partof'] matrix ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] bone ['relatedto'] structure ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] book ['relatedto', 'atlocation'] line ['isa', 'usedfor', 'synonym'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] book ['isa', 'relatedto'] copy ['mannerof'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] book ['relatedto'] write ['mannerof'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] card ['relatedto'] mark ['isa', 'mannerof'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] card ['relatedto'] write ['mannerof'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] card ['relatedto'] draw ['relatedto', 'synonym'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] card ['relatedto'] return ['mannerof'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] card ['relatedto'] walk ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] case ['relatedto'] pencil ['entails'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] case ['relatedto'] travel ['relatedto'] trace
+circumstance ['relatedto'] sometimes ['relatedto'] chart ['relatedto'] drawing ['relatedto'] trace

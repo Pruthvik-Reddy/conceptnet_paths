@@ -1,0 +1,100 @@
+bird ['relatedto'] tread
+bird ['relatedto', 'partof', 'atlocation'] feather ['relatedto'] tread
+bird ['antonym'] human ['relatedto'] foot ['relatedto'] tread
+bird ['antonym'] human ['relatedto'] male ['relatedto'] tread
+bird ['antonym'] human ['relatedto'] run ['relatedto', 'similarto', 'synonym'] tread
+bird ['antonym'] human ['relatedto'] swim ['relatedto'] tread
+bird ['antonym'] human ['relatedto'] walk ['mannerof', 'relatedto', 'similarto'] tread
+bird ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom'] fire ['relatedto'] tread
+bird ['relatedto', 'atlocation'] air ['relatedto'] rise ['antonym'] tread
+bird ['relatedto', 'atlocation'] air ['relatedto'] tromp ['relatedto'] tread
+bird ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['isa', 'relatedto'] horse ['relatedto'] tread
+bird ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['isa'] male ['relatedto'] tread
+bird ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] beat ['entails'] tread
+bird ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] foot ['relatedto'] tread
+bird ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] move ['similarto'] tread
+bird ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] traction ['relatedto'] tread
+bird ['antonym'] fish ['capableof', 'relatedto'] swim ['relatedto'] tread
+bird ['antonym', 'relatedto'] plane ['isa', 'relatedto'] surface ['isa'] tread
+bird ['antonym', 'relatedto'] plane ['relatedto'] contact ['isa'] tread
+bird ['antonym', 'relatedto'] mammal ['isa', 'relatedto'] horse ['relatedto'] tread
+bird ['relatedto', 'atlocation'] cage ['atlocation'] feather ['relatedto'] tread
+bird ['atlocation'] countryside ['atlocation'] horse ['relatedto'] tread
+bird ['atlocation'] forest ['atlocation'] fire ['relatedto'] tread
+bird ['atlocation'] garden ['relatedto'] truck ['relatedto'] tread
+bird ['atlocation'] garden ['relatedto'] path ['relatedto', 'synonym'] tread
+bird ['atlocation'] garden ['relatedto'] squash ['mannerof'] tread
+bird ['relatedto', 'atlocation'] nest ['relatedto'] shoe ['relatedto'] tread
+bird ['atlocation'] roof ['partof'] truck ['relatedto'] tread
+bird ['atlocation'] sea ['usedfor'] swim ['relatedto'] tread
+bird ['relatedto', 'atlocation'] sky ['etymologicallyrelatedto'] shoe ['relatedto'] tread
+bird ['relatedto', 'atlocation'] tree ['relatedto'] path ['relatedto', 'synonym'] tread
+bird ['relatedto', 'atlocation'] wild ['atlocation'] horse ['relatedto'] tread
+bird ['relatedto', 'partof', 'atlocation'] feather ['relatedto'] horse ['relatedto'] tread
+bird ['relatedto', 'partof', 'atlocation'] feather ['mannerof'] paddle ['relatedto'] tread
+bird ['usedfor', 'relatedto', 'partof', 'atlocation'] wing ['relatedto'] feather ['relatedto'] tread
+bird ['capableof', 'relatedto', 'desires'] fly ['relatedto'] go ['similarto'] tread
+bird ['capableof', 'relatedto', 'desires'] fly ['antonym'] walk ['mannerof', 'relatedto', 'similarto'] tread
+bird ['capableof', 'relatedto', 'desires'] fly ['antonym'] swim ['relatedto'] tread
+bird ['capableof', 'relatedto', 'desires'] fly ['mannerof'] move ['similarto'] tread
+bird ['capableof', 'relatedto'] pet ['capableof'] horse ['relatedto'] tread
+bird ['derivedfrom'] thunderbird ['relatedto'] male ['relatedto'] tread
+bird ['relatedto', 'derivedfrom'] bird_table ['relatedto'] surface ['isa'] tread
+bird ['derivedfrom'] early_bird ['isa'] riser ['antonym'] tread
+bird ['distinctfrom', 'relatedto'] bat ['isa'] paddle ['relatedto'] tread
+bird ['distinctfrom', 'relatedto'] bat ['mannerof'] beat ['entails'] tread
+bird ['formof', 'relatedto'] birds ['atlocation'] feather ['relatedto'] tread
+bird ['hasa', 'relatedto'] feathers ['formof', 'relatedto', 'synonym'] feather ['relatedto'] tread
+bird ['hasa'] two_legs ['relatedto'] walk ['mannerof', 'relatedto', 'similarto'] tread
+bird ['isa', 'relatedto'] biped ['relatedto'] foot ['relatedto'] tread
+bird ['isa'] vertebrate ['relatedto'] horse ['relatedto'] tread
+bird ['isa', 'relatedto'] chicken ['relatedto'] feather ['relatedto'] tread
+bird ['isa', 'relatedto'] cock ['relatedto'] fire ['relatedto'] tread
+bird ['isa', 'relatedto'] cock ['relatedto'] male ['relatedto'] tread
+bird ['isa', 'relatedto'] cock ['relatedto'] copulate ['mannerof', 'relatedto'] tread
+bird ['isa', 'relatedto'] cock ['relatedto'] feather ['relatedto'] tread
+bird ['isa', 'relatedto'] dove ['relatedto'] feather ['relatedto'] tread
+bird ['isa', 'relatedto'] emu_wren ['relatedto'] feather ['relatedto'] tread
+bird ['isa', 'relatedto'] hen ['relatedto'] male ['relatedto'] tread
+bird ['isa'] northern_cardinal ['relatedto'] male ['relatedto'] tread
+bird ['isa', 'relatedto'] quail ['relatedto'] feather ['relatedto'] tread
+bird ['isa'] racket_tail ['relatedto'] feather ['relatedto'] tread
+bird ['isa', 'relatedto'] rail ['relatedto', 'synonym'] track ['etymologicallyrelatedto', 'relatedto', 'synonym'] tread
+bird ['isa', 'relatedto'] roller ['relatedto'] truck ['relatedto'] tread
+bird ['isa', 'relatedto'] roller ['relatedto'] surface ['isa'] tread
+bird ['isa', 'relatedto'] roller ['relatedto'] pedrail ['relatedto'] tread
+bird ['isa', 'relatedto'] ruff ['relatedto'] male ['relatedto'] tread
+bird ['isa', 'relatedto'] shoebill ['derivedfrom'] shoe ['relatedto'] tread
+bird ['isa', 'relatedto'] skimmer ['relatedto'] shoe ['relatedto'] tread
+bird ['isa', 'relatedto'] swallow ['relatedto'] move ['similarto'] tread
+bird ['isa'] tit ['relatedto'] horse ['relatedto'] tread
+bird ['isa'] trogon ['relatedto'] feather ['relatedto'] tread
+bird ['isa'] violetear ['relatedto'] male ['relatedto'] tread
+bird ['mannerof'] observe ['mannerof', 'relatedto'] track ['etymologicallyrelatedto', 'relatedto', 'synonym'] tread
+bird ['relatedto'] anting ['relatedto'] feather ['relatedto'] tread
+bird ['relatedto'] antitrochanter ['relatedto'] surface ['isa'] tread
+bird ['relatedto'] anvil ['relatedto'] surface ['isa'] tread
+bird ['relatedto'] auriculars ['relatedto'] feather ['relatedto'] tread
+bird ['relatedto'] aylet ['relatedto'] foot ['relatedto'] tread
+bird ['relatedto'] baby ['relatedto'] foot ['relatedto'] tread
+bird ['relatedto'] baby ['relatedto'] step ['similarto', 'relatedto', 'partof', 'synonym'] tread
+bird ['relatedto'] basal_bristle ['relatedto'] feather ['relatedto'] tread
+bird ['relatedto'] beard ['relatedto'] horse ['relatedto'] tread
+bird ['relatedto'] beard ['relatedto'] feather ['relatedto'] tread
+bird ['relatedto'] bill ['relatedto'] male ['relatedto'] tread
+bird ['relatedto'] animals ['capableof'] move ['similarto'] tread
+bird ['relatedto'] animals ['capableof'] copulate ['mannerof', 'relatedto'] tread
+bird ['relatedto'] duck ['mannerof'] move ['similarto'] tread
+bird ['relatedto'] eats ['relatedto'] horse ['relatedto'] tread
+bird ['relatedto'] egg ['partof'] chalaza ['relatedto'] tread
+bird ['relatedto'] egg_tooth ['relatedto'] surface ['isa'] tread
+bird ['relatedto'] feathered ['formof', 'relatedto', 'derivedfrom'] feather ['relatedto'] tread
+bird ['relatedto'] feathery ['relatedto'] feather ['relatedto'] tread
+bird ['relatedto'] flight ['distinctfrom'] walk ['mannerof', 'relatedto', 'similarto'] tread
+bird ['relatedto'] flight ['usedfor', 'relatedto'] feather ['relatedto'] tread
+bird ['relatedto'] flight ['relatedto'] run ['relatedto', 'similarto', 'synonym'] tread
+bird ['relatedto'] flight ['relatedto'] staircase ['partof'] tread
+bird ['relatedto'] flyer ['relatedto'] step ['similarto', 'relatedto', 'partof', 'synonym'] tread
+bird ['relatedto'] flyer ['relatedto'] staircase ['partof'] tread
+bird ['relatedto'] flying ['antonym'] swim ['relatedto'] tread
+bird ['relatedto'] friend ['relatedto'] contact ['isa'] tread

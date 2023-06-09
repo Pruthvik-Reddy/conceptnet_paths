@@ -1,0 +1,100 @@
+pine ['isa'] plant ['isa'] book ['isa'] blaze
+pine ['relatedto'] long ['antonym'] low ['relatedto'] blaze
+pine ['relatedto'] forest ['atlocation'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa', 'relatedto'] wood ['antonym', 'relatedto', 'atlocation'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa', 'relatedto'] wood ['capableof', 'relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] software ['isa'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['etymologicallyrelatedto'] pain ['causes'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['etymologicallyrelatedto'] pain ['isa', 'relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['relatedto'] painful ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['relatedto'] tree ['relatedto'] marijuana ['relatedto'] blaze
+pine ['relatedto'] candle ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['relatedto'] candle ['relatedto'] flame ['relatedto'] blaze
+pine ['synonym'] ache ['mannerof'] burn ['mannerof', 'synonym'] blaze
+pine ['relatedto'] cone ['relatedto'] marijuana ['relatedto'] blaze
+pine ['synonym'] decline ['relatedto', 'derivedfrom', 'synonym'] declination ['relatedto'] low ['relatedto'] blaze
+pine ['synonym'] decline ['etymologicallyrelatedto'] lean ['relatedto'] low ['relatedto'] blaze
+pine ['synonym'] decline ['isa'] album ['isa', 'relatedto'] book ['isa'] blaze
+pine ['synonym'] decline ['isa'] condition ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['synonym'] decline ['isa', 'relatedto', 'synonym'] ebb ['relatedto'] low ['relatedto'] blaze
+pine ['synonym'] decline ['isa'] loss ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['synonym'] decline ['isa'] twilight ['relatedto'] book ['isa'] blaze
+pine ['synonym'] decline ['relatedto'] afternoon ['relatedto'] low ['relatedto'] blaze
+pine ['synonym'] decline ['relatedto'] correction ['isa'] book ['isa'] blaze
+pine ['synonym'] decline ['relatedto'] correction ['relatedto'] mark ['mannerof'] blaze
+pine ['synonym'] decline ['relatedto'] activity ['isa'] burst ['synonym'] blaze
+pine ['synonym'] decline ['relatedto'] downward ['relatedto'] flare ['relatedto'] blaze
+pine ['synonym'] decline ['relatedto'] fall ['isa'] book ['isa'] blaze
+pine ['synonym'] decline ['relatedto'] fall ['synonym'] shine ['mannerof'] blaze
+pine ['synonym'] decline ['relatedto'] case ['relatedto'] book ['isa'] blaze
+pine ['synonym'] decline ['relatedto'] number ['relatedto'] marijuana ['relatedto'] blaze
+pine ['synonym'] decline ['relatedto'] weak ['synonym'] low ['relatedto'] blaze
+pine ['synonym'] decline ['relatedto'] reduce ['relatedto'] low ['relatedto'] blaze
+pine ['synonym'] decline ['relatedto'] smother ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['synonym'] decline ['relatedto'] smother ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['synonym'] decline ['synonym'] autumn ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['synonym'] decline ['synonym'] correct ['relatedto'] mark ['mannerof'] blaze
+pine ['synonym'] decline ['synonym'] avoid ['relatedto'] depart ['mannerof'] blaze
+pine ['synonym'] decline ['synonym'] fail ['relatedto'] mark ['mannerof'] blaze
+pine ['isa'] plant ['relatedto'] underground ['isa'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto'] action ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] earth ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] ground ['relatedto'] low ['relatedto'] blaze
+pine ['isa'] plant ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] water ['antonym', 'synonym'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] sometimes ['relatedto'] book ['isa'] blaze
+pine ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] marking ['isa', 'relatedto'] blaze
+pine ['isa'] plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] marijuana ['relatedto'] blaze
+pine ['isa'] plant ['atlocation'] lizard ['atlocation'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto', 'atlocation'] house ['atlocation'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa'] plant ['relatedto', 'atlocation'] house ['atlocation'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto', 'atlocation'] pot ['relatedto'] marijuana ['relatedto'] blaze
+pine ['isa'] plant ['atlocation'] shelf ['relatedto', 'atlocation'] book ['isa'] blaze
+pine ['isa'] plant ['atlocation'] table ['atlocation'] book ['isa'] blaze
+pine ['isa'] plant ['distinctfrom', 'relatedto'] vegetable ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['isa'] anemone ['atlocation'] book ['isa'] blaze
+pine ['isa'] plant ['isa'] annual ['relatedto'] book ['isa'] blaze
+pine ['isa'] plant ['isa'] beech ['etymologicallyrelatedto'] book ['isa'] blaze
+pine ['isa'] plant ['isa', 'relatedto'] buckwheat ['etymologicallyrelatedto'] book ['isa'] blaze
+pine ['isa'] plant ['isa'] cannabis ['isa', 'synonym'] marijuana ['relatedto'] blaze
+pine ['isa'] plant ['isa'] cannabis_sativa ['synonym'] marijuana ['relatedto'] blaze
+pine ['isa'] plant ['isa'] caper ['relatedto'] shine ['mannerof'] blaze
+pine ['isa'] plant ['isa'] dracula ['isa'] book ['isa'] blaze
+pine ['isa'] plant ['isa'] escape ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa'] plant ['isa'] ficus ['atlocation'] book ['isa'] blaze
+pine ['isa'] plant ['isa', 'relatedto'] grass ['relatedto'] low ['relatedto'] blaze
+pine ['isa'] plant ['isa', 'relatedto'] grass ['capableof'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['isa', 'relatedto'] grass ['relatedto'] marijuana ['relatedto'] blaze
+pine ['isa'] plant ['isa', 'relatedto'] phlox ['relatedto'] flame ['relatedto'] blaze
+pine ['isa'] plant ['isa'] book ['isa'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa'] plant ['mannerof', 'relatedto'] bed ['atlocation'] book ['isa'] blaze
+pine ['isa'] plant ['mannerof', 'relatedto'] put ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] bass ['relatedto', 'similarto'] low ['relatedto'] blaze
+pine ['isa'] plant ['relatedto'] board ['antonym'] depart ['mannerof'] blaze
+pine ['isa'] plant ['relatedto'] border ['relatedto'] mark ['mannerof'] blaze
+pine ['isa'] plant ['relatedto'] branch ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] brand ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] brand ['mannerof', 'relatedto', 'synonym'] mark ['mannerof'] blaze
+pine ['isa'] plant ['relatedto'] bud ['relatedto'] marijuana ['relatedto'] blaze
+pine ['isa'] plant ['relatedto'] budburst ['derivedfrom'] burst ['synonym'] blaze
+pine ['isa'] plant ['relatedto'] cell ['isa'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto'] division ['relatedto'] depart ['mannerof'] blaze
+pine ['isa'] plant ['relatedto'] energy ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] energy ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] energy ['relatedto'] burst ['synonym'] blaze
+pine ['isa'] plant ['relatedto'] fire_blast ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] fire_blast ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['relatedto', 'synonym'] flora ['relatedto'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto'] green ['relatedto'] marijuana ['relatedto'] blaze
+pine ['isa'] plant ['relatedto'] herb ['relatedto'] marijuana ['relatedto'] blaze
+pine ['isa'] plant ['relatedto'] hill ['relatedto'] low ['relatedto'] blaze
+pine ['isa'] plant ['relatedto'] hop ['relatedto'] low ['relatedto'] blaze
+pine ['isa'] plant ['relatedto'] indicator ['relatedto'] mark ['mannerof'] blaze
+pine ['isa'] plant ['relatedto'] kingdom ['atlocation'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto'] leaflet ['antonym', 'relatedto'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto'] leave ['mannerof', 'relatedto', 'synonym'] depart ['mannerof'] blaze
+pine ['isa'] plant ['relatedto'] loose_leaf ['relatedto'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto'] peat ['relatedto'] burn ['mannerof', 'synonym'] blaze
+pine ['isa'] plant ['relatedto'] description ['relatedto'] low ['relatedto'] blaze
+pine ['isa'] plant ['relatedto'] fauna ['relatedto'] book ['isa'] blaze
+pine ['isa'] plant ['relatedto'] food ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze

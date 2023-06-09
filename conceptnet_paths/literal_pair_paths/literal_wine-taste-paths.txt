@@ -1,0 +1,100 @@
+wine ['isa'] food ['relatedto'] taste
+wine ['hasproperty'] tasty ['relatedto', 'derivedfrom'] taste
+wine ['isa'] poison ['relatedto'] taste
+wine ['usedfor', 'mannerof', 'relatedto'] drink ['relatedto'] taste
+wine ['relatedto'] cork_taint ['relatedto'] taste
+wine ['relatedto'] flatness ['isa'] taste
+wine ['relatedto'] legs ['relatedto'] taste
+wine ['relatedto'] tastevin ['relatedto'] taste
+wine ['relatedto'] tears ['relatedto'] taste
+wine ['relatedto'] vinegar ['relatedto'] taste
+wine ['usedfor', 'relatedto'] drinking ['usedfor'] taste
+wine ['relatedto'] nose ['relatedto'] taste
+wine ['relatedto'] sour ['isa', 'relatedto'] taste
+wine ['relatedto'] tasting ['formof', 'relatedto', 'synonym'] taste
+wine ['relatedto'] wine_thief ['relatedto'] taste
+wine ['relatedto'] winetaster ['relatedto'] taste
+wine ['relatedto'] reserve ['relatedto'] use ['relatedto'] taste
+wine ['relatedto'] getting ['hasprerequisite'] action ['relatedto'] taste
+wine ['relatedto'] getting ['relatedto'] chicken ['relatedto'] taste
+wine ['relatedto'] getting ['relatedto'] drink ['relatedto'] taste
+wine ['relatedto'] getting ['relatedto'] preference ['relatedto', 'synonym'] taste
+wine ['relatedto'] old ['relatedto'] chicken ['relatedto'] taste
+wine ['relatedto'] water ['antonym', 'isa'] food ['relatedto'] taste
+wine ['relatedto'] water ['relatedto', 'atlocation'] salt ['isa', 'relatedto'] taste
+wine ['relatedto'] water ['atlocation'] dip ['relatedto'] taste
+wine ['relatedto'] water ['usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] taste
+wine ['relatedto'] water ['atlocation'] mouth ['relatedto', 'atlocation'] taste
+wine ['relatedto'] water ['atlocation'] saliva ['relatedto'] taste
+wine ['relatedto'] water ['madeof', 'relatedto', 'atlocation'] soup ['relatedto'] taste
+wine ['relatedto'] water ['atlocation'] tears ['relatedto'] taste
+wine ['relatedto'] water ['isa'] chemical ['relatedto'] taste
+wine ['relatedto'] water ['relatedto'] body ['relatedto'] taste
+wine ['relatedto'] water ['relatedto'] cookie_dough ['relatedto'] taste
+wine ['relatedto'] water ['relatedto'] poison ['relatedto'] taste
+wine ['relatedto'] water ['relatedto'] rice ['relatedto'] taste
+wine ['relatedto'] water ['relatedto'] vinegar ['relatedto'] taste
+wine ['relatedto'] water ['usedfor', 'relatedto'] drinking ['usedfor'] taste
+wine ['relatedto'] alcoholic ['relatedto'] bourbon ['relatedto'] taste
+wine ['relatedto'] alcoholic ['relatedto'] drink ['relatedto'] taste
+wine ['relatedto'] alcoholic ['relatedto'] drinking ['usedfor'] taste
+wine ['relatedto'] alcoholic ['relatedto'] louche ['relatedto'] taste
+wine ['relatedto'] alcoholic ['relatedto'] seasoning ['relatedto'] taste
+wine ['relatedto'] red ['relatedto'] ginger ['relatedto'] taste
+wine ['relatedto'] red ['relatedto'] type ['relatedto'] taste
+wine ['relatedto'] aroma ['antonym', 'isa', 'relatedto'] smell ['antonym', 'distinctfrom', 'relatedto'] taste
+wine ['relatedto'] aroma ['relatedto'] tang ['relatedto'] taste
+wine ['relatedto', 'atlocation'] bar ['atlocation'] human ['relatedto'] taste
+wine ['relatedto', 'atlocation'] bar ['relatedto'] drink ['relatedto'] taste
+wine ['relatedto', 'atlocation'] bar ['usedfor', 'relatedto'] drinking ['usedfor'] taste
+wine ['relatedto', 'atlocation'] bar ['relatedto'] food ['relatedto'] taste
+wine ['relatedto', 'atlocation'] bar ['relatedto'] related ['relatedto'] taste
+wine ['relatedto', 'atlocation'] bar ['relatedto'] judge ['relatedto'] taste
+wine ['relatedto', 'atlocation'] bar ['relatedto'] mouth ['relatedto', 'atlocation'] taste
+wine ['relatedto', 'atlocation'] bar ['relatedto'] use ['relatedto'] taste
+wine ['relatedto', 'atlocation'] bar ['synonym'] cake ['relatedto'] taste
+wine ['atlocation'] church ['atlocation'] human ['relatedto'] taste
+wine ['atlocation'] church ['isa'] body ['relatedto'] taste
+wine ['atlocation'] church ['relatedto'] modality ['isa', 'relatedto'] taste
+wine ['atlocation'] basement ['atlocation'] human ['relatedto'] taste
+wine ['isa', 'relatedto'] beverage ['antonym', 'isa', 'relatedto'] food ['relatedto'] taste
+wine ['isa', 'relatedto'] beverage ['relatedto', 'synonym'] drink ['relatedto'] taste
+wine ['isa', 'relatedto'] beverage ['usedfor', 'relatedto'] drinking ['usedfor'] taste
+wine ['isa', 'relatedto'] beverage ['relatedto'] bland ['antonym', 'relatedto'] taste
+wine ['isa', 'relatedto'] beverage ['relatedto'] bourbon ['relatedto'] taste
+wine ['isa', 'relatedto'] beverage ['relatedto'] louche ['relatedto'] taste
+wine ['isa', 'relatedto'] beverage ['relatedto'] poison ['relatedto'] taste
+wine ['isa'] food ['isa'] good ['relatedto'] taste
+wine ['isa'] food ['antonym', 'distinctfrom', 'relatedto'] drink ['relatedto'] taste
+wine ['isa'] food ['antonym', 'isa', 'relatedto'] soup ['relatedto'] taste
+wine ['isa'] food ['relatedto', 'atlocation'] mouth ['relatedto', 'atlocation'] taste
+wine ['isa'] food ['usedfor', 'relatedto', 'atlocation'] salt ['isa', 'relatedto'] taste
+wine ['isa'] food ['capableof', 'isa', 'relatedto'] chicken ['relatedto'] taste
+wine ['isa'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['relatedto'] taste
+wine ['isa'] food ['distinctfrom', 'relatedto'] poison ['relatedto'] taste
+wine ['isa'] food ['formof', 'relatedto'] foods ['relatedto'] taste
+wine ['isa'] food ['usedfor', 'relatedto', 'hasprerequisite'] eating ['relatedto'] taste
+wine ['isa'] food ['isa', 'relatedto'] cake ['relatedto'] taste
+wine ['isa'] food ['motivatedbygoal'] cook_meal ['haslastsubevent'] taste
+wine ['isa'] food ['relatedto'] cinnamon ['relatedto'] taste
+wine ['isa'] food ['relatedto'] cream ['hasa'] taste
+wine ['isa'] food ['relatedto'] delicacy ['isa', 'relatedto'] taste
+wine ['isa'] food ['relatedto'] dip ['relatedto'] taste
+wine ['isa'] food ['relatedto'] flavor_enhancer ['relatedto'] taste
+wine ['isa'] food ['relatedto'] flavour ['relatedto'] taste
+wine ['isa'] food ['relatedto'] fletcherism ['relatedto'] taste
+wine ['isa'] food ['relatedto'] ginger ['relatedto'] taste
+wine ['isa'] food ['relatedto'] helping ['partof'] taste
+wine ['isa'] food ['relatedto'] morsel ['isa'] taste
+wine ['isa'] food ['relatedto'] radish ['relatedto'] taste
+wine ['isa'] food ['relatedto'] rice ['relatedto'] taste
+wine ['isa'] food ['relatedto'] season ['causes'] taste
+wine ['isa'] food ['relatedto'] seasoning ['relatedto'] taste
+wine ['isa'] food ['relatedto'] sugar ['relatedto'] taste
+wine ['isa'] food ['relatedto'] swallow ['isa'] taste
+wine ['isa'] food ['relatedto'] sweetener ['relatedto'] taste
+wine ['isa'] food ['relatedto'] taste_pore ['relatedto'] taste
+wine ['isa'] food ['relatedto'] tasting ['formof', 'relatedto', 'synonym'] taste
+wine ['isa'] food ['relatedto'] tongue ['relatedto'] taste
+wine ['isa'] food ['usedfor'] body ['relatedto'] taste
+wine ['isa'] food ['usedfor'] eating_vegetables ['usedfor'] taste

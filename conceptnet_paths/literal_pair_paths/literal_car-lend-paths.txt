@@ -1,0 +1,100 @@
+car ['relatedto'] acceleration ['isa'] change ['mannerof'] lend
+car ['relatedto'] accident ['synonym'] change ['mannerof'] lend
+car ['relatedto'] accident ['synonym'] condition ['relatedto'] lend
+car ['relatedto'] payment ['relatedto'] give ['mannerof'] lend
+car ['relatedto'] payment ['antonym', 'relatedto'] advance ['mannerof'] lend
+car ['relatedto'] payment ['antonym'] change ['mannerof'] lend
+car ['relatedto'] payment ['antonym', 'relatedto'] debt ['antonym'] lend
+car ['relatedto'] payment ['isa', 'relatedto', 'derivedfrom'] pay ['antonym'] lend
+car ['relatedto'] payment ['relatedto'] aid ['relatedto'] lend
+car ['relatedto'] payment ['relatedto'] loan ['distinctfrom', 'etymologicallyrelatedto', 'relatedto', 'synonym'] lend
+car ['relatedto'] payment ['relatedto'] rent ['relatedto'] lend
+car ['atlocation'] land ['mannerof', 'synonym'] bring ['synonym'] lend
+car ['relatedto'] short ['relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['hasproperty'] red ['relatedto'] debt ['antonym'] lend
+car ['hasproperty'] new ['relatedto'] change ['mannerof'] lend
+car ['hasproperty'] new ['relatedto'] condition ['relatedto'] lend
+car ['relatedto'] around ['formof', 'relatedto', 'derivedfrom', 'synonym'] round ['etymologicallyrelatedto'] lend
+car ['relatedto'] balloon ['relatedto'] round ['etymologicallyrelatedto'] lend
+car ['relatedto'] bar ['relatedto'] allow ['relatedto'] lend
+car ['relatedto'] bar ['relatedto'] round ['etymologicallyrelatedto'] lend
+car ['relatedto'] stop ['relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['relatedto'] stop ['relatedto'] temporarily ['relatedto'] lend
+car ['relatedto'] honk ['mannerof', 'relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['relatedto'] small ['relatedto'] change ['mannerof'] lend
+car ['relatedto'] handle ['relatedto'] aid ['relatedto'] lend
+car ['relatedto', 'atlocation'] city ['relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['atlocation'] show ['mannerof'] give ['mannerof'] lend
+car ['atlocation'] show ['relatedto'] factor ['mannerof'] lend
+car ['atlocation'] show ['relatedto'] rent ['relatedto'] lend
+car ['atlocation'] clock ['relatedto'] round ['etymologicallyrelatedto'] lend
+car ['atlocation'] flat ['antonym', 'distinctfrom'] round ['etymologicallyrelatedto'] lend
+car ['hasa', 'relatedto', 'partof', 'atlocation'] horn ['relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['madeof', 'atlocation'] metal ['relatedto'] change ['mannerof'] lend
+car ['atlocation'] stereo ['relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['partof', 'relatedto', 'hasprerequisite', 'atlocation'] tire ['relatedto'] round ['etymologicallyrelatedto'] lend
+car ['capableof'] crash ['mannerof'] change ['mannerof'] lend
+car ['capableof'] crash ['mannerof', 'relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['capableof'] turn_around ['relatedto'] change ['mannerof'] lend
+car ['usedfor', 'causesdesire', 'relatedto'] drive ['relatedto'] advance ['mannerof'] lend
+car ['usedfor', 'causesdesire', 'relatedto'] drive ['relatedto'] change ['mannerof'] lend
+car ['usedfor', 'causesdesire', 'relatedto'] drive ['relatedto'] rent ['relatedto'] lend
+car ['hasa', 'relatedto'] seat ['relatedto', 'synonym'] buttocks ['relatedto'] lend
+car ['hasa', 'relatedto', 'partof'] wheels ['hasproperty'] round ['etymologicallyrelatedto'] lend
+car ['isa'] artifact ['isa'] loin ['relatedto'] lend
+car ['isa'] estate ['relatedto'] trust ['mannerof'] lend
+car ['isa'] estate ['relatedto'] condition ['relatedto'] lend
+car ['isa'] estate ['relatedto'] factor ['mannerof'] lend
+car ['isa', 'relatedto'] limousine ['relatedto'] rent ['relatedto'] lend
+car ['isa'] loaner ['relatedto', 'synonym'] lender ['relatedto'] lend
+car ['isa'] loaner ['relatedto', 'derivedfrom'] loan ['distinctfrom', 'etymologicallyrelatedto', 'relatedto', 'synonym'] lend
+car ['isa', 'relatedto'] rental_car ['relatedto'] rent ['relatedto'] lend
+car ['isa'] tender ['mannerof', 'relatedto'] give ['mannerof'] lend
+car ['isa'] tender ['mannerof'] change ['mannerof'] lend
+car ['isa'] tender ['relatedto'] pay ['antonym'] lend
+car ['partof'] automobile_horn ['usedfor'] sound ['etymologicallyrelatedto'] lend
+car ['relatedto', 'partof'] chassis ['relatedto'] buttocks ['relatedto'] lend
+car ['partof'] generator ['relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['relatedto', 'partof'] hood ['relatedto'] condition ['relatedto'] lend
+car ['usedfor', 'relatedto', 'partof'] wheel ['relatedto'] round ['etymologicallyrelatedto'] lend
+car ['relatedto'] accord ['mannerof'] give ['mannerof'] lend
+car ['relatedto'] beep ['isa', 'relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['relatedto'] break ['isa', 'mannerof', 'relatedto'] change ['mannerof'] lend
+car ['relatedto'] break ['relatedto'] temporarily ['relatedto'] lend
+car ['relatedto'] caboose ['relatedto'] buttocks ['relatedto'] lend
+car ['relatedto'] american ['relatedto'] debt ['antonym'] lend
+car ['relatedto'] equipment ['relatedto'] rent ['relatedto'] lend
+car ['relatedto'] motor ['relatedto'] impart ['synonym'] lend
+car ['relatedto'] moving ['relatedto'] advance ['mannerof'] lend
+car ['relatedto'] moving ['relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['relatedto'] put ['relatedto'] add ['synonym'] lend
+car ['relatedto'] put ['mannerof'] change ['mannerof'] lend
+car ['relatedto'] put ['relatedto'] bring ['synonym'] lend
+car ['relatedto'] put ['relatedto'] condition ['relatedto'] lend
+car ['usedfor', 'relatedto'] transport ['mannerof', 'relatedto'] bring ['synonym'] lend
+car ['relatedto'] travel ['mannerof'] advance ['mannerof'] lend
+car ['relatedto'] travel ['mannerof'] round ['etymologicallyrelatedto'] lend
+car ['relatedto'] cable ['relatedto'] undergird ['relatedto'] lend
+car ['relatedto'] horse ['relatedto'] aid ['relatedto'] lend
+car ['relatedto'] turn ['mannerof', 'relatedto', 'synonym'] change ['mannerof'] lend
+car ['relatedto'] turn ['relatedto', 'synonym'] round ['etymologicallyrelatedto'] lend
+car ['relatedto'] deal ['relatedto'] give ['mannerof'] lend
+car ['relatedto'] deliver ['mannerof', 'relatedto'] give ['mannerof'] lend
+car ['relatedto'] deliver ['mannerof', 'relatedto'] bring ['synonym'] lend
+car ['relatedto'] ferry ['mannerof'] bring ['synonym'] lend
+car ['relatedto'] fill ['relatedto'] add ['synonym'] lend
+car ['relatedto'] fill ['mannerof'] change ['mannerof'] lend
+car ['relatedto'] fill ['relatedto'] sound ['etymologicallyrelatedto'] lend
+car ['relatedto'] guard ['relatedto'] advance ['mannerof'] lend
+car ['relatedto'] import ['relatedto'] bring ['synonym'] lend
+car ['relatedto'] jag ['relatedto'] fit ['relatedto'] lend
+car ['relatedto'] mile ['relatedto'] equivalent ['relatedto'] lend
+car ['relatedto'] part ['relatedto'] impart ['synonym'] lend
+car ['relatedto'] part ['relatedto'] sub ['relatedto'] lend
+car ['relatedto'] part ['relatedto'] factor ['mannerof'] lend
+car ['relatedto'] polish ['synonym'] round ['etymologicallyrelatedto'] lend
+car ['relatedto'] property ['isa'] trust ['mannerof'] lend
+car ['relatedto'] property ['relatedto'] round ['etymologicallyrelatedto'] lend
+car ['relatedto'] property ['relatedto'] factor ['mannerof'] lend
+car ['relatedto'] property ['relatedto'] rent ['relatedto'] lend
+car ['relatedto'] radio ['relatedto'] sound ['etymologicallyrelatedto'] lend

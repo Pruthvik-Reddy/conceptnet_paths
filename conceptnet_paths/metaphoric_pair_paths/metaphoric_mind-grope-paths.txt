@@ -1,0 +1,100 @@
+mind ['relatedto'] gratification ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] abstract ['relatedto'] sound ['relatedto'] grope
+mind ['isa'] purpose ['distinctfrom'] accidental ['relatedto'] grope
+mind ['relatedto'] nothing ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] nothing ['relatedto'] touch ['isa'] grope
+mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] touch ['isa'] grope
+mind ['etymologicallyrelatedto'] mint ['relatedto'] try ['mannerof'] grope
+mind ['isa', 'relatedto', 'synonym'] intelligence ['relatedto'] test ['relatedto'] grope
+mind ['isa', 'relatedto'] recall ['relatedto'] search ['mannerof'] grope
+mind ['mannerof', 'relatedto'] remember ['relatedto', 'hasprerequisite'] try ['mannerof'] grope
+mind ['mannerof'] worry ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] compos_mentis ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] control ['mannerof', 'relatedto'] test ['relatedto'] grope
+mind ['relatedto'] healthy ['relatedto', 'similarto'] sound ['relatedto'] grope
+mind ['relatedto'] generator ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto', 'synonym'] look ['relatedto', 'synonym', 'entails'] examine ['relatedto'] grope
+mind ['relatedto', 'synonym'] look ['mannerof'] sound ['relatedto'] grope
+mind ['relatedto', 'synonym'] look ['relatedto', 'synonym'] search ['mannerof'] grope
+mind ['relatedto', 'synonym'] look ['relatedto'] try ['mannerof'] grope
+mind ['relatedto'] makes ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] part ['isa'] wheel ['relatedto'] grope
+mind ['relatedto'] part ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] power ['relatedto'] wheel ['relatedto'] grope
+mind ['relatedto'] perception ['isa'] touch ['isa'] grope
+mind ['relatedto'] perception ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] rational ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] substance ['relatedto'] grape ['relatedto'] grope
+mind ['relatedto'] careful ['relatedto'] examine ['relatedto'] grope
+mind ['relatedto'] concern ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] intend ['antonym'] accidental ['relatedto'] grope
+mind ['relatedto'] non_compos_mentis ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] phenomenon ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] psychosonic ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] reproduce ['relatedto'] sexually ['relatedto'] grope
+mind ['relatedto'] sapiosexuality ['relatedto'] sexually ['relatedto'] grope
+mind ['relatedto'] splitting ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] tangible ['relatedto'] touch ['isa'] grope
+mind ['synonym'] judgment ['relatedto'] test ['relatedto'] grope
+mind ['synonym'] reason ['relatedto'] examine ['relatedto'] grope
+mind ['relatedto'] ability ['antonym'] blind ['relatedto'] gropingly ['relatedto'] grope
+mind ['relatedto'] ability ['derivedfrom'] durability ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['isa', 'relatedto', 'similarto'] aptitude ['relatedto'] examine ['relatedto'] grope
+mind ['relatedto'] ability ['isa', 'relatedto', 'similarto'] aptitude ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['isa'] form ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['isa'] form ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] ability ['isa'] hand ['relatedto'] glaum ['relatedto'] grope
+mind ['relatedto'] ability ['isa'] hand ['relatedto'] grip ['etymologicallyrelatedto', 'relatedto'] grope
+mind ['relatedto'] ability ['isa'] hand ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] ability ['isa', 'relatedto'] intelligence ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['isa', 'relatedto'] sensitivity ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['isa', 'relatedto', 'synonym'] skill ['relatedto'] examine ['relatedto'] grope
+mind ['relatedto'] ability ['isa', 'relatedto', 'synonym'] skill ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] condition ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] condition ['relatedto'] examine ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] function ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] ability ['relatedto'] conductivity ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] draw ['relatedto'] search ['mannerof'] grope
+mind ['relatedto'] ability ['relatedto'] drive ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] drive ['relatedto'] wheel ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] dynamic_headroom ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] ear ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] eidetic_memory ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] energy ['isa', 'relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] exercise ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] eye ['relatedto'] grape ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] eye ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] feel ['antonym', 'mannerof', 'relatedto', 'entails'] touch ['isa'] grope
+mind ['relatedto'] ability ['relatedto'] feel ['mannerof'] search ['mannerof'] grope
+mind ['relatedto'] ability ['relatedto'] feel ['relatedto'] grubble ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] fight ['mannerof', 'relatedto'] try ['mannerof'] grope
+mind ['relatedto'] ability ['relatedto'] graphesthesia ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] ability ['relatedto'] grasp ['relatedto', 'synonym'] grip ['etymologicallyrelatedto', 'relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] grasp ['relatedto'] glaum ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] grasp ['relatedto', 'synonym'] gripe ['etymologicallyrelatedto'] grope
+mind ['relatedto'] ability ['relatedto'] headroom ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] hold ['relatedto'] grip ['etymologicallyrelatedto', 'relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] hold ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] ability ['relatedto'] influence ['isa'] grip ['etymologicallyrelatedto', 'relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] influence ['relatedto'] wheel ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] leg ['relatedto'] grape ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] motor ['relatedto'] cart ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] photographic_memory ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] placement_test ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto', 'synonym'] power ['relatedto'] wheel ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto', 'synonym'] proficiency ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] recall ['relatedto'] search ['mannerof'] grope
+mind ['relatedto'] ability ['relatedto'] sense ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] ability ['relatedto'] sense ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] sight ['antonym', 'distinctfrom', 'relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] sight ['distinctfrom'] touch ['isa'] grope
+mind ['relatedto'] ability ['relatedto'] small ['relatedto'] cart ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] small ['relatedto'] grape ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] small ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] smell ['antonym', 'distinctfrom', 'relatedto'] touch ['isa'] grope
+mind ['relatedto'] ability ['relatedto'] smell ['relatedto'] test ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] smell ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] speech ['relatedto'] touch ['isa'] grope
+mind ['relatedto'] ability ['relatedto'] test ['relatedto'] sound ['relatedto'] grope
+mind ['relatedto'] ability ['relatedto'] test ['relatedto', 'synonym'] try ['mannerof'] grope

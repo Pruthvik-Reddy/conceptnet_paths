@@ -1,0 +1,100 @@
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['synonym'] ignite
+heat ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['distinctfrom'] light ['relatedto', 'synonym'] ignite
+heat ['entails'] fuse ['relatedto'] ignite
+heat ['relatedto'] fiery ['relatedto'] ignite
+heat ['synonym'] inflame ['synonym'] ignite
+heat ['relatedto'] action ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['relatedto'] action ['relatedto'] spark ['relatedto'] ignite
+heat ['antonym', 'relatedto'] air ['antonym', 'distinctfrom'] fire ['synonym'] ignite
+heat ['antonym', 'relatedto'] air ['relatedto'] light ['relatedto', 'synonym'] ignite
+heat ['antonym', 'relatedto'] air ['relatedto'] substance ['relatedto'] ignite
+heat ['antonym', 'relatedto'] air ['relatedto'] pyrophoric ['relatedto'] ignite
+heat ['antonym', 'relatedto'] air ['relatedto'] pyrophoric_iron ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['capableof', 'relatedto', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['causes', 'relatedto', 'usedfor'] match ['usedfor'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['causes', 'relatedto'] spark ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto', 'derivedfrom'] firepot ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto', 'entails'] trigger ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['isa', 'relatedto'] ignition ['relatedto', 'derivedfrom'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['isa'] smudge ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] extinguish ['distinctfrom'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] fiery ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] light ['relatedto', 'synonym'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] substance ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] incombustible ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto', 'synonym'] inflame ['synonym'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] kindle ['mannerof'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] lighter ['usedfor'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] primer ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] pyrophoric ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] slow_match ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] snaplock ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] tend ['relatedto'] ignite
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['synonym'] set_alight ['synonym'] ignite
+heat ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['synonym'] ignite
+heat ['relatedto'] water ['antonym', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['relatedto'] water ['relatedto'] shell ['relatedto'] ignite
+heat ['relatedto'] water ['relatedto'] substance ['relatedto'] ignite
+heat ['relatedto'] dead ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['relatedto'] dead ['relatedto'] primer ['relatedto'] ignite
+heat ['relatedto'] red ['relatedto'] fire ['synonym'] ignite
+heat ['relatedto'] red ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['relatedto'] anti ['relatedto'] light ['relatedto', 'synonym'] ignite
+heat ['relatedto'] ardor ['synonym'] fire ['synonym'] ignite
+heat ['relatedto'] extreme ['relatedto'] fire ['synonym'] ignite
+heat ['antonym', 'distinctfrom', 'relatedto'] cool ['antonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['relatedto'] food ['relatedto'] fire ['synonym'] ignite
+heat ['relatedto'] food ['isa', 'relatedto'] substance ['relatedto'] ignite
+heat ['relatedto'] time ['relatedto'] light ['relatedto', 'synonym'] ignite
+heat ['relatedto'] time ['relatedto'] primer ['relatedto'] ignite
+heat ['relatedto'] body ['relatedto'] shell ['relatedto'] ignite
+heat ['relatedto'] body ['relatedto'] substance ['relatedto'] ignite
+heat ['relatedto'] body ['relatedto'] phoenix ['relatedto'] ignite
+heat ['relatedto'] boil ['synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['relatedto'] really ['relatedto'] fire ['synonym'] ignite
+heat ['relatedto'] burn ['capableof', 'relatedto', 'synonym'] fire ['synonym'] ignite
+heat ['relatedto'] burn ['mannerof', 'relatedto'] set_ablaze ['entails'] ignite
+heat ['relatedto'] burn ['relatedto', 'synonym'] light ['relatedto', 'synonym'] ignite
+heat ['relatedto'] burn ['relatedto'] ignitable ['relatedto', 'derivedfrom'] ignite
+heat ['relatedto'] burn ['relatedto'] inflame ['synonym'] ignite
+heat ['relatedto'] burn ['relatedto'] noncombustible ['relatedto'] ignite
+heat ['relatedto'] burn ['relatedto'] smudge ['relatedto'] ignite
+heat ['relatedto'] burn ['relatedto'] tend ['relatedto'] ignite
+heat ['relatedto', 'hasproperty'] warm ['etymologicallyrelatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['relatedto'] state ['relatedto'] phoenix ['relatedto'] ignite
+heat ['causes', 'relatedto', 'usedfor'] sun ['relatedto'] fire ['synonym'] ignite
+heat ['causes', 'relatedto', 'usedfor'] sun ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['causes', 'relatedto', 'usedfor'] sun ['causes', 'relatedto', 'usedfor'] light ['relatedto', 'synonym'] ignite
+heat ['causes', 'relatedto', 'usedfor'] sun ['relatedto'] fiery ['relatedto'] ignite
+heat ['relatedto'] coal ['relatedto', 'atlocation'] fire ['synonym'] ignite
+heat ['relatedto'] coal ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['relatedto'] coal ['relatedto'] substance ['relatedto'] ignite
+heat ['antonym', 'distinctfrom', 'relatedto'] cold ['antonym', 'relatedto'] fire ['synonym'] ignite
+heat ['antonym', 'distinctfrom', 'relatedto'] cold ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['antonym', 'relatedto'] condition ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['antonym', 'relatedto'] condition ['isa'] light ['relatedto', 'synonym'] ignite
+heat ['antonym', 'relatedto'] shade ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto', 'synonym'] ignite
+heat ['relatedto', 'atlocation'] oven ['usedfor', 'relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['causes', 'relatedto'] friction ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['causes', 'relatedto'] friction ['relatedto'] strike ['relatedto'] ignite
+heat ['causes', 'relatedto'] friction ['causes'] match ['usedfor'] ignite
+heat ['causes', 'relatedto'] friction ['relatedto'] fuse ['relatedto'] ignite
+heat ['causes', 'relatedto'] friction ['relatedto'] pyrophoric ['relatedto'] ignite
+heat ['causes', 'relatedto'] friction ['relatedto'] safety_match ['relatedto'] ignite
+heat ['causes'] pain ['causes'] fire ['synonym'] ignite
+heat ['causes'] pain ['isa', 'relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['causes', 'hasprerequisite', 'usedfor'] lighting_fire ['causes'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['causes', 'hasprerequisite', 'usedfor'] lighting_fire ['causes', 'usedfor'] light ['relatedto', 'synonym'] ignite
+heat ['causes', 'hasprerequisite', 'usedfor'] lighting_fire ['usedfor', 'hasprerequisite'] match ['usedfor'] ignite
+heat ['causes', 'usedfor'] starting_fire ['usedfor'] fire ['synonym'] ignite
+heat ['causes', 'usedfor'] starting_fire ['usedfor'] light ['relatedto', 'synonym'] ignite
+heat ['causes', 'usedfor'] starting_fire ['usedfor', 'hasprerequisite'] lighter ['usedfor'] ignite
+heat ['causes', 'usedfor'] starting_fire ['usedfor', 'relatedto', 'hasprerequisite'] match ['usedfor'] ignite
+heat ['causes', 'usedfor'] starting_fire ['relatedto'] spark ['relatedto'] ignite
+heat ['createdby'] melting ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['createdby'] melting ['relatedto'] substance ['relatedto'] ignite
+heat ['distinctfrom'] light ['relatedto'] fire ['synonym'] ignite
+heat ['distinctfrom'] light ['relatedto', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+heat ['distinctfrom'] light ['antonym'] extinguish ['distinctfrom'] ignite
+heat ['distinctfrom'] light ['formof', 'relatedto', 'derivedfrom', 'synonym'] lighter ['usedfor'] ignite

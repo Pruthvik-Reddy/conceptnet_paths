@@ -1,0 +1,100 @@
+policeman ['relatedto'] ball ['isa'] punching_bag ['relatedto'] abuse
+policeman ['relatedto'] formal ['antonym'] slang ['mannerof', 'relatedto'] abuse
+policeman ['relatedto'] formal ['relatedto'] treatment ['relatedto'] abuse
+policeman ['relatedto'] guard ['antonym'] attack ['mannerof'] abuse
+policeman ['atlocation'] street ['relatedto'] slang ['mannerof', 'relatedto'] abuse
+policeman ['relatedto'] law ['relatedto'] abusion ['relatedto'] abuse
+policeman ['relatedto'] law ['relatedto'] education ['relatedto'] abuse
+policeman ['relatedto'] law ['relatedto'] physical ['relatedto'] abuse
+policeman ['relatedto', 'derivedfrom'] police ['relatedto'] stinger ['isa'] abuse
+policeman ['hasprerequisite'] kill_people ['hasfirstsubevent'] hurt ['relatedto'] abuse
+policeman ['isa'] bully ['formof', 'relatedto'] bullying ['relatedto'] abuse
+policeman ['isa'] bully ['relatedto'] kick_around ['relatedto'] abuse
+policeman ['relatedto'] authority ['relatedto'] respect ['antonym'] abuse
+policeman ['relatedto'] authority ['relatedto'] impose ['relatedto'] abuse
+policeman ['relatedto'] authority ['relatedto'] tin_god ['relatedto'] abuse
+policeman ['relatedto'] authority ['relatedto'] zabernism ['relatedto'] abuse
+policeman ['relatedto'] rubber ['relatedto'] stinger ['isa'] abuse
+policeman ['synonym'] pig ['isa'] invective ['synonym'] abuse
+policeman ['relatedto'] peace ['antonym'] battle ['relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['antonym', 'distinctfrom'] fight ['mannerof', 'relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['antonym', 'distinctfrom'] fight ['relatedto'] physical ['relatedto'] abuse
+policeman ['relatedto'] peace ['antonym', 'distinctfrom'] fight ['relatedto'] tyrant ['relatedto'] abuse
+policeman ['relatedto'] peace ['antonym', 'distinctfrom'] fighting ['relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['antonym', 'distinctfrom', 'relatedto'] war ['relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['antonym', 'distinctfrom', 'relatedto'] war ['atlocation'] cruelty ['relatedto'] abuse
+policeman ['relatedto'] peace ['antonym', 'distinctfrom', 'relatedto'] war ['relatedto'] injury ['relatedto'] abuse
+policeman ['relatedto'] peace ['antonym', 'relatedto'] violence ['isa', 'relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['antonym', 'relatedto'] violence ['relatedto'] violate ['relatedto'] abuse
+policeman ['relatedto'] peace ['antonym', 'relatedto'] violence ['relatedto'] tyrant ['relatedto'] abuse
+policeman ['relatedto'] peace ['antonym', 'relatedto'] violence ['relatedto'] rape ['relatedto'] abuse
+policeman ['relatedto'] peace ['causes'] forgiving ['causes'] respect ['antonym'] abuse
+policeman ['relatedto'] peace ['causes'] losing_consciousness ['causes'] injury ['relatedto'] abuse
+policeman ['relatedto'] peace ['causes'] serving_justice ['hasprerequisite'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['causes'] thanking ['usedfor'] respect ['antonym'] abuse
+policeman ['relatedto'] peace ['causes'] visiting_museum ['hasprerequisite'] respect ['antonym'] abuse
+policeman ['relatedto'] peace ['causes'] visiting_museum ['causes'] education ['relatedto'] abuse
+policeman ['relatedto'] peace ['distinctfrom'] violent ['relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['distinctfrom'] violent ['relatedto'] physical ['relatedto'] abuse
+policeman ['relatedto'] peace ['isa', 'relatedto'] treaty ['relatedto'] treatment ['relatedto'] abuse
+policeman ['relatedto'] peace ['motivatedbygoal'] fight_war ['hasprerequisite'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['motivatedbygoal'] forgive ['motivatedbygoal'] hurt ['relatedto'] abuse
+policeman ['relatedto'] peace ['motivatedbygoal'] sell_new_book ['motivatedbygoal'] respect ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] charity ['relatedto'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] disorder ['relatedto'] physical ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] locarnize ['relatedto'] corrupt ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] love ['relatedto'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] love ['capableof'] hurt ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] love ['relatedto'] respect ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] love ['receivesaction'] abused ['formof', 'relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] love ['relatedto'] child_neglect ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] mind ['isa'] purpose ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] mind ['relatedto'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] empathy ['relatedto'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] feeling ['relatedto'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] feeling ['antonym', 'relatedto'] respect ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] goal ['isa', 'relatedto'] purpose ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] goodbye ['relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['relatedto'] human ['relatedto'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] kind ['relatedto'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] meaning ['relatedto', 'synonym'] purpose ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] pigeon ['relatedto'] deceive ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] quiet ['antonym'] shout ['synonym'] abuse
+policeman ['relatedto'] peace ['relatedto', 'synonym'] rest ['relatedto'] slang ['mannerof', 'relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] sign ['relatedto'] use ['mannerof', 'derivedfrom'] abuse
+policeman ['relatedto'] peace ['relatedto'] sign ['relatedto'] physical ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] surrender ['antonym'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['relatedto'] tease ['synonym'] molest ['synonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] two ['relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['relatedto'] understanding ['relatedto'] care ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] understanding ['relatedto'] respect ['antonym'] abuse
+policeman ['relatedto'] peace ['relatedto'] wars ['relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['relatedto'] oppressive ['relatedto'] unjust ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] put ['relatedto'] attack ['mannerof'] abuse
+policeman ['relatedto'] peace ['relatedto'] put ['mannerof'] use ['mannerof', 'derivedfrom'] abuse
+policeman ['relatedto'] peace ['relatedto'] piece ['relatedto'] slang ['mannerof', 'relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] piece ['relatedto'] trick ['relatedto'] abuse
+policeman ['relatedto'] peace ['relatedto'] resolve ['relatedto', 'synonym'] purpose ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['relatedto'] child ['relatedto'] child_abuse ['derivedfrom'] abuse
+policeman ['isa', 'relatedto'] man ['relatedto'] child ['relatedto'] herodism ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['relatedto', 'synonym'] human ['relatedto'] care ['antonym'] abuse
+policeman ['isa', 'relatedto'] man ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['mannerof'] abuse
+policeman ['isa', 'relatedto'] man ['relatedto'] fire ['capableof'] hurt ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['relatedto'] bird ['relatedto'] tyrant ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['antonym', 'relatedto'] baby ['relatedto'] care ['antonym'] abuse
+policeman ['isa', 'relatedto'] man ['antonym'] dress ['relatedto'] trick ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] jaw ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['antonym'] nature ['relatedto'] malign ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['antonym'] nature ['relatedto'] physical ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['antonym', 'relatedto'] politician ['hasproperty'] corrupt ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['derivedfrom'] unman ['relatedto'] physical ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['distinctfrom'] machine ['relatedto'] manhandle ['synonym'] abuse
+policeman ['isa', 'relatedto'] man ['formof', 'etymologicallyrelatedto', 'relatedto'] men ['relatedto'] manhandle ['synonym'] abuse
+policeman ['isa', 'relatedto'] man ['isa'] black ['relatedto'] black_humor ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['isa', 'relatedto'] fellow ['relatedto'] slang ['mannerof', 'relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['isa', 'relatedto'] guy ['relatedto'] slang ['mannerof', 'relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['mannerof'] work ['isa'] care ['antonym'] abuse
+policeman ['isa', 'relatedto'] man ['mannerof'] work ['mannerof', 'relatedto', 'synonym'] use ['mannerof', 'derivedfrom'] abuse
+policeman ['isa', 'relatedto'] man ['mannerof'] work ['relatedto'] trick ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['mannerof'] work ['relatedto'] physical ['relatedto'] abuse
+policeman ['isa', 'relatedto'] man ['mannerof'] work ['relatedto'] usage ['relatedto'] abuse

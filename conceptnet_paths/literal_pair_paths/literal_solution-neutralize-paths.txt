@@ -1,0 +1,100 @@
+solution ['relatedto'] acid_base_equilibrium ['relatedto'] neutralize
+solution ['relatedto'] fix ['antonym'] destroy ['relatedto'] neutralize
+solution ['relatedto'] fix ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] air ['relatedto'] compensator ['relatedto'] neutralize
+solution ['relatedto'] dissolve ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] dissolve ['relatedto'] destroy ['relatedto'] neutralize
+solution ['isa'] set ['mannerof'] change ['mannerof'] neutralize
+solution ['distinctfrom'] cause ['relatedto'] kill ['mannerof'] neutralize
+solution ['relatedto'] solid ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] cure ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] weak ['relatedto', 'derivedfrom'] weaken ['mannerof'] neutralize
+solution ['relatedto'] gas ['relatedto'] kill ['mannerof'] neutralize
+solution ['relatedto'] liquid ['relatedto'] liquidate ['synonym'] neutralize
+solution ['relatedto'] vinegar ['relatedto'] acidic ['relatedto'] neutralize
+solution ['isa'] sap ['relatedto'] destroy ['relatedto'] neutralize
+solution ['isa'] sap ['relatedto'] weaken ['mannerof'] neutralize
+solution ['relatedto'] acid_base_equilibrium ['relatedto'] acidic ['relatedto'] neutralize
+solution ['relatedto'] btz_black_hole ['relatedto'] negative ['relatedto'] neutralize
+solution ['relatedto'] congo_red ['relatedto'] acidic ['relatedto'] neutralize
+solution ['relatedto'] dilute ['mannerof', 'relatedto', 'synonym'] weaken ['mannerof'] neutralize
+solution ['relatedto'] liqueur ['relatedto'] liquidate ['synonym'] neutralize
+solution ['relatedto'] remedy ['relatedto'] counteract ['synonym'] neutralize
+solution ['relatedto', 'synonym'] result ['relatedto'] kill ['mannerof'] neutralize
+solution ['relatedto'] product ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] solvate ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] normal ['antonym'] reverse ['relatedto'] negative ['relatedto'] neutralize
+solution ['relatedto'] normal ['relatedto', 'derivedfrom'] normalize ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] normal ['relatedto'] back ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] normal ['relatedto'] excess ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] normal ['relatedto'] extra ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] normal ['relatedto'] extra ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] normal ['relatedto'] state ['relatedto'] acid_base_equilibrium ['relatedto'] neutralize
+solution ['relatedto'] normal ['relatedto'] override ['mannerof', 'relatedto'] counteract ['synonym'] neutralize
+solution ['relatedto'] normality ['isa'] condition ['relatedto'] destroy ['relatedto'] neutralize
+solution ['relatedto'] normality ['relatedto'] concentration ['relatedto'] acid_base_equilibrium ['relatedto'] neutralize
+solution ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['isa', 'mannerof', 'relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['mannerof'] weaken ['mannerof'] neutralize
+solution ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] destroy ['relatedto'] neutralize
+solution ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['synonym'] kill ['mannerof'] neutralize
+solution ['relatedto'] fix ['antonym'] destroy ['mannerof', 'relatedto', 'synonym'] kill ['mannerof'] neutralize
+solution ['relatedto'] fix ['antonym'] destroy ['relatedto', 'synonym'] waste ['synonym'] neutralize
+solution ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] broken ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['antonym'] move ['isa', 'mannerof', 'relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['antonym'] ruin ['relatedto', 'synonym'] destroy ['relatedto'] neutralize
+solution ['relatedto'] fix ['antonym'] smash ['relatedto'] destroy ['relatedto'] neutralize
+solution ['relatedto'] fix ['relatedto', 'derivedfrom'] forefix ['relatedto'] secure ['synonym'] neutralize
+solution ['relatedto'] fix ['formof', 'relatedto'] fixed ['relatedto'] secure ['synonym'] neutralize
+solution ['relatedto'] fix ['mannerof'] brace ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['mannerof'] change ['mannerof'] weaken ['mannerof'] neutralize
+solution ['relatedto'] fix ['mannerof'] socialize ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] amendment ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] design ['antonym'] destroy ['relatedto'] neutralize
+solution ['relatedto'] fix ['relatedto'] entail ['isa'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] firm ['relatedto', 'similarto'] secure ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] action ['relatedto'] destroy ['relatedto'] neutralize
+solution ['relatedto'] fix ['relatedto'] action ['relatedto'] kill ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] better ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] modify ['mannerof', 'relatedto', 'synonym'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] put ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] rectify ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] remedy ['relatedto'] counteract ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto', 'synonym'] repair ['antonym', 'relatedto'] destroy ['relatedto'] neutralize
+solution ['relatedto'] fix ['relatedto'] right ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] stable ['antonym'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] stable ['relatedto'] haptophore ['relatedto'] neutralize
+solution ['relatedto'] fix ['relatedto'] stable ['relatedto'] secure ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto'] un ['relatedto'] negative ['relatedto'] neutralize
+solution ['relatedto'] fix ['relatedto'] corrective ['relatedto'] counteract ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto'] single ['isa'] kill ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] time ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] time ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto'] impale ['mannerof'] kill ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] moor ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto'] moor ['relatedto'] secure ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto'] pitch ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto', 'synonym'] settle ['relatedto'] balance ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto', 'synonym'] settle ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto', 'synonym'] settle ['relatedto'] secure ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto', 'synonym'] settle ['relatedto'] kill ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto', 'synonym'] settle ['mannerof', 'relatedto'] liquidate ['synonym'] neutralize
+solution ['relatedto'] fix ['relatedto'] tinkering ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['relatedto'] warp ['relatedto'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['synonym'] determine ['relatedto'] liquidate ['synonym'] neutralize
+solution ['relatedto'] fix ['synonym'] fasten ['synonym'] secure ['synonym'] neutralize
+solution ['relatedto'] fix ['synonym'] cook ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] fix ['synonym'] hole ['relatedto'] destroy ['relatedto'] neutralize
+solution ['relatedto'] fix ['synonym'] set ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] air ['relatedto'] nothing ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] air ['relatedto'] agent ['isa', 'relatedto'] antacid ['relatedto'] neutralize
+solution ['relatedto'] air ['antonym', 'distinctfrom'] fire ['capableof'] kill ['mannerof'] neutralize
+solution ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] kill ['mannerof'] neutralize
+solution ['relatedto'] air ['antonym', 'distinctfrom'] land ['relatedto'] secure ['synonym'] neutralize
+solution ['relatedto'] air ['antonym', 'distinctfrom'] land ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] air ['antonym', 'relatedto'] heat ['mannerof'] change ['mannerof'] neutralize
+solution ['relatedto'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] kill ['mannerof'] neutralize
+solution ['relatedto'] air ['antonym', 'relatedto'] steam ['relatedto'] waste ['synonym'] neutralize
+solution ['relatedto'] air ['atlocation'] bus ['usedfor'] kill ['mannerof'] neutralize
+solution ['relatedto'] air ['atlocation'] jar ['atlocation'] change ['mannerof'] neutralize

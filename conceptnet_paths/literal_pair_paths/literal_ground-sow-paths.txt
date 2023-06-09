@@ -1,0 +1,100 @@
+ground ['relatedto', 'atlocation'] mine ['relatedto'] sow
+ground ['mannerof'] put ['mannerof'] sow
+ground ['relatedto'] farm ['relatedto'] sow
+ground ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto'] metal ['relatedto'] sow
+ground ['relatedto'] mold ['relatedto'] sow
+ground ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['synonym'] establish ['synonym'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'derivedfrom'] underground ['relatedto'] mine ['relatedto'] sow
+ground ['relatedto', 'derivedfrom'] underground ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto'] concrete ['mannerof', 'relatedto'] solidify ['relatedto'] sow
+ground ['relatedto'] base ['relatedto'] farm ['relatedto'] sow
+ground ['relatedto'] potential ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto'] child ['relatedto'] female ['relatedto'] sow
+ground ['relatedto'] child ['relatedto'] pig ['relatedto', 'synonym'] sow
+ground ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'synonym'] broadcast ['mannerof', 'relatedto'] sow
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['antonym', 'relatedto'] water ['relatedto'] channel ['relatedto'] sow
+ground ['antonym', 'relatedto'] water ['relatedto'] hydropriming ['relatedto'] sow
+ground ['antonym', 'relatedto'] water ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['antonym', 'relatedto'] water ['relatedto'] metal ['relatedto'] sow
+ground ['antonym', 'isa', 'relatedto'] hill ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['antonym'] mountain ['atlocation'] mine ['relatedto'] sow
+ground ['antonym'] space ['mannerof'] put ['mannerof'] sow
+ground ['antonym'] space ['relatedto'] farm ['relatedto'] sow
+ground ['atlocation'] acorn ['isa', 'relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['atlocation'] acorn ['hasa'] seeds ['relatedto'] sow
+ground ['atlocation'] bacteria ['relatedto'] mold ['relatedto'] sow
+ground ['atlocation'] coin ['relatedto'] metal ['relatedto'] sow
+ground ['atlocation'] coin ['relatedto'] hog ['relatedto'] sow
+ground ['relatedto', 'atlocation'] dirt ['relatedto', 'atlocation'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] dirt ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] dirt ['relatedto'] planting ['relatedto'] sow
+ground ['relatedto', 'atlocation'] dirty ['relatedto'] pig ['relatedto', 'synonym'] sow
+ground ['atlocation'] dog ['distinctfrom', 'relatedto', 'similarto'] bitch ['synonym'] sow
+ground ['atlocation'] dog ['relatedto'] pig ['relatedto', 'synonym'] sow
+ground ['atlocation'] dust ['synonym'] scatter ['mannerof', 'relatedto'] sow
+ground ['atlocation'] ear ['relatedto'] crop ['antonym', 'relatedto'] sow
+ground ['relatedto', 'atlocation'] feet ['relatedto'] pig ['relatedto', 'synonym'] sow
+ground ['atlocation'] ficus ['isa'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] frost ['relatedto'] winter ['relatedto'] sow
+ground ['atlocation'] fungus ['antonym', 'isa', 'relatedto', 'synonym'] mold ['relatedto'] sow
+ground ['relatedto', 'atlocation'] garden ['relatedto', 'partof', 'atlocation'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] garden ['relatedto', 'synonym'] farm ['relatedto'] sow
+ground ['relatedto', 'atlocation'] garden ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] garden ['relatedto'] crop ['antonym', 'relatedto'] sow
+ground ['relatedto', 'atlocation'] garden ['relatedto'] plant_seeds ['relatedto'] sow
+ground ['relatedto', 'atlocation'] garden ['relatedto'] planting ['relatedto'] sow
+ground ['relatedto', 'atlocation'] garden ['relatedto'] seeds ['relatedto'] sow
+ground ['relatedto', 'atlocation'] grass ['isa', 'relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] grass ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] grass ['mannerof', 'relatedto'] crop ['antonym', 'relatedto'] sow
+ground ['atlocation'] tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['atlocation'] tree ['antonym', 'relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['atlocation'] tree ['relatedto'] metal ['relatedto'] sow
+ground ['atlocation'] tree ['relatedto'] crop ['antonym', 'relatedto'] sow
+ground ['atlocation'] tree ['atlocation'] seeds ['relatedto'] sow
+ground ['atlocation'] tree ['relatedto'] hook ['relatedto'] sow
+ground ['atlocation'] gum ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] hole ['relatedto'] put ['mannerof'] sow
+ground ['relatedto', 'atlocation'] hole ['usedfor'] planting ['relatedto'] sow
+ground ['relatedto', 'atlocation'] hole ['usedfor', 'relatedto'] drill ['relatedto'] sow
+ground ['relatedto', 'atlocation'] hole ['relatedto'] mine ['relatedto'] sow
+ground ['atlocation'] ice ['relatedto', 'atlocation'] winter ['relatedto'] sow
+ground ['atlocation'] insect ['relatedto'] contemptible ['relatedto'] sow
+ground ['atlocation'] leaf ['relatedto', 'partof'] plant ['relatedto', 'synonym'] sow
+ground ['atlocation'] leaf ['relatedto'] needle ['relatedto'] sow
+ground ['atlocation'] leaf ['relatedto'] pig ['relatedto', 'synonym'] sow
+ground ['atlocation'] leaf ['relatedto'] mine ['relatedto'] sow
+ground ['atlocation'] leaves ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] mine ['relatedto', 'atlocation'] metal ['relatedto'] sow
+ground ['atlocation'] moss ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['atlocation'] moss ['relatedto'] mold ['relatedto'] sow
+ground ['atlocation'] nut ['isa', 'relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] oil ['relatedto'] drill ['relatedto'] sow
+ground ['atlocation'] pebble ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] pit ['isa', 'relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] pit ['relatedto', 'atlocation'] mine ['relatedto'] sow
+ground ['relatedto', 'atlocation'] plants ['formof', 'relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] plants ['relatedto'] crop ['antonym', 'relatedto'] sow
+ground ['relatedto', 'atlocation'] plants ['relatedto'] farm ['relatedto'] sow
+ground ['relatedto', 'atlocation'] plants ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] rock ['antonym'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] rock ['distinctfrom', 'relatedto'] metal ['relatedto'] sow
+ground ['relatedto', 'atlocation'] rock ['atlocation'] mine ['relatedto'] sow
+ground ['relatedto', 'atlocation'] rock ['relatedto'] needle ['relatedto'] sow
+ground ['atlocation'] rosebush ['atlocation'] planting ['relatedto'] sow
+ground ['isa', 'relatedto', 'atlocation'] sand ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['isa', 'relatedto', 'atlocation'] sand ['relatedto'] hook ['relatedto'] sow
+ground ['isa', 'relatedto', 'atlocation'] sand ['relatedto'] sowback ['derivedfrom'] sow
+ground ['atlocation'] slush ['relatedto'] winter ['relatedto'] sow
+ground ['atlocation'] snow ['relatedto'] winter ['relatedto'] sow
+ground ['relatedto', 'atlocation'] soil ['relatedto'] plant ['relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] soil ['relatedto'] seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+ground ['relatedto', 'atlocation'] soil ['relatedto'] planting ['relatedto'] sow
+ground ['relatedto', 'atlocation'] soil ['isa', 'relatedto'] mold ['relatedto'] sow
+ground ['relatedto', 'atlocation'] well ['atlocation'] farm ['relatedto'] sow
+ground ['relatedto', 'atlocation'] well ['relatedto'] velvet ['relatedto'] sow
+ground ['definedas'] find_outside ['isa'] plant ['relatedto', 'synonym'] sow
+ground ['isa', 'relatedto'] surface ['relatedto'] plant ['relatedto', 'synonym'] sow

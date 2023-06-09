@@ -1,0 +1,100 @@
+back ['atlocation'] knife ['capableof'] hurt
+back ['atlocation'] pain ['usedfor', 'relatedto', 'synonym'] hurt
+back ['relatedto'] experience ['relatedto'] hurt
+back ['relatedto'] refuse ['relatedto'] limp ['relatedto'] hurt
+back ['relatedto'] rest ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] work ['relatedto'] hurt
+back ['relatedto'] rest ['relatedto', 'synonym'] break ['relatedto'] hurt
+back ['relatedto'] future ['relatedto'] experience ['relatedto'] hurt
+back ['relatedto', 'derivedfrom', 'synonym'] backward ['antonym'] smart ['relatedto', 'synonym'] hurt
+back ['relatedto', 'derivedfrom', 'synonym'] backward ['relatedto'] cut ['relatedto'] hurt
+back ['relatedto'] payment ['relatedto'] distress ['synonym'] hurt
+back ['relatedto'] payment ['relatedto'] aid ['relatedto'] hurt
+back ['relatedto'] payment ['relatedto'] work ['relatedto'] hurt
+back ['relatedto'] payment ['relatedto'] punishment ['relatedto'] hurt
+back ['relatedto'] retreat ['antonym', 'distinctfrom'] attack ['relatedto'] hurt
+back ['relatedto'] animal ['relatedto'] blood ['relatedto'] hurt
+back ['relatedto'] animal ['relatedto'] work ['relatedto'] hurt
+back ['relatedto'] animal ['relatedto'] sting ['mannerof', 'relatedto'] hurt
+back ['mannerof'] lie ['causesdesire'] danger ['relatedto'] hurt
+back ['mannerof'] lie ['causesdesire'] love ['capableof'] hurt
+back ['mannerof'] lie ['haslastsubevent'] cry ['motivatedbygoal'] hurt
+back ['relatedto'] far ['relatedto'] fire ['capableof'] hurt
+back ['antonym'] leave ['antonym'] help ['antonym'] hurt
+back ['antonym'] leave ['etymologicallyrelatedto'] love ['capableof'] hurt
+back ['antonym'] leave ['relatedto'] work ['relatedto'] hurt
+back ['isa'] position ['antonym'] attack ['relatedto'] hurt
+back ['isa'] position ['relatedto'] work ['relatedto'] hurt
+back ['antonym'] current ['etymologicallyrelatedto'] succor ['antonym'] hurt
+back ['antonym'] current ['relatedto'] shock ['relatedto'] hurt
+back ['antonym', 'relatedto'] cover ['isa'] fire ['capableof'] hurt
+back ['antonym', 'relatedto'] cover ['mannerof'] gravel ['relatedto'] hurt
+back ['antonym', 'relatedto'] cover ['mannerof'] indemnify ['relatedto'] hurt
+back ['antonym', 'relatedto'] cover ['relatedto'] barb ['relatedto'] hurt
+back ['antonym'] face ['relatedto'] cry ['motivatedbygoal'] hurt
+back ['antonym'] face ['relatedto'] punch ['motivatedbygoal'] hurt
+back ['antonym', 'distinctfrom', 'relatedto'] middle ['relatedto'] danger ['relatedto'] hurt
+back ['antonym', 'distinctfrom', 'relatedto'] middle ['distinctfrom', 'relatedto'] edges ['capableof'] hurt
+back ['antonym', 'distinctfrom', 'relatedto'] side ['relatedto'] attack ['relatedto'] hurt
+back ['antonym', 'distinctfrom', 'relatedto'] side ['isa'] cut ['relatedto'] hurt
+back ['antonym', 'distinctfrom', 'relatedto'] side ['relatedto'] hurting ['formof', 'relatedto'] hurt
+back ['antonym', 'distinctfrom', 'relatedto'] side ['relatedto'] edges ['capableof'] hurt
+back ['atlocation'] fork ['mannerof', 'relatedto'] attack ['relatedto'] hurt
+back ['atlocation'] fork ['antonym', 'distinctfrom', 'relatedto'] knife ['capableof'] hurt
+back ['atlocation'] knife ['capableof', 'usedfor', 'relatedto'] cut ['relatedto'] hurt
+back ['atlocation'] knife ['capableof', 'relatedto'] kill ['mannerof'] hurt
+back ['atlocation'] knife ['formof', 'relatedto'] knives ['capableof'] hurt
+back ['atlocation'] knife ['isa', 'relatedto'] weapon ['usedfor'] hurt
+back ['atlocation'] knife ['mannerof', 'relatedto'] injure ['mannerof', 'synonym'] hurt
+back ['atlocation'] knife ['relatedto'] wounded ['relatedto', 'synonym'] hurt
+back ['atlocation'] pain ['causes'] fire ['capableof'] hurt
+back ['atlocation'] pain ['relatedto'] attack ['relatedto'] hurt
+back ['atlocation'] pain ['capableof'] work ['relatedto'] hurt
+back ['atlocation'] pain ['isa', 'relatedto'] burn ['relatedto'] hurt
+back ['atlocation'] pain ['causes'] falling ['capableof'] hurt
+back ['atlocation'] pain ['isa', 'relatedto', 'similarto', 'synonym'] distress ['synonym'] hurt
+back ['atlocation'] pain ['relatedto'] cry ['motivatedbygoal'] hurt
+back ['atlocation'] pain ['relatedto'] cut ['relatedto'] hurt
+back ['atlocation'] pain ['causes'] love ['capableof'] hurt
+back ['atlocation'] pain ['isa', 'relatedto'] smart ['relatedto', 'synonym'] hurt
+back ['atlocation'] pain ['relatedto'] experience ['relatedto'] hurt
+back ['atlocation'] pain ['isa', 'relatedto'] suffering ['synonym'] hurt
+back ['atlocation'] pain ['relatedto'] wound ['relatedto', 'synonym'] hurt
+back ['atlocation'] pain ['relatedto', 'synonym'] hurting ['formof', 'relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] humiliation ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] punch ['motivatedbygoal'] hurt
+back ['atlocation'] pain ['relatedto'] kill ['mannerof'] hurt
+back ['atlocation'] pain ['capableof', 'causes', 'relatedto'] injury ['relatedto', 'synonym'] hurt
+back ['atlocation'] pain ['causes'] discovering_truth ['causes'] hurt
+back ['atlocation'] pain ['causes'] hurting_else ['causes'] hurt
+back ['atlocation'] pain ['causes', 'relatedto'] suffer ['synonym'] hurt
+back ['atlocation'] pain ['causes'] punching ['usedfor'] hurt
+back ['atlocation'] pain ['formof', 'relatedto', 'derivedfrom'] pained ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto', 'derivedfrom', 'hasproperty'] painful ['relatedto', 'hasproperty'] hurt
+back ['atlocation'] pain ['isa', 'relatedto'] ache ['causes', 'relatedto', 'synonym'] hurt
+back ['atlocation'] pain ['isa'] sting ['mannerof', 'relatedto'] hurt
+back ['atlocation'] pain ['isa', 'relatedto'] twinge ['mannerof'] hurt
+back ['atlocation'] pain ['relatedto', 'synonym'] afflict ['mannerof'] hurt
+back ['atlocation'] pain ['relatedto'] hurtsome ['derivedfrom'] hurt
+back ['atlocation'] pain ['relatedto'] moan ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] ouch ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] hurtful ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] hurts ['formof', 'relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] physical ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] wounded ['relatedto', 'synonym'] hurt
+back ['atlocation'] pain ['relatedto'] bodily ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto', 'synonym'] punishment ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] shock ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] stound ['relatedto'] hurt
+back ['atlocation'] pain ['relatedto'] sunburn ['relatedto'] hurt
+back ['derivedfrom'] back_annotation ['relatedto'] physical ['relatedto'] hurt
+back ['derivedfrom'] back_fire ['derivedfrom'] fire ['capableof'] hurt
+back ['derivedfrom'] backbreaker ['relatedto'] physical ['relatedto'] hurt
+back ['derivedfrom'] backfist ['relatedto'] punch ['motivatedbygoal'] hurt
+back ['derivedfrom'] backread ['relatedto'] experience ['relatedto'] hurt
+back ['relatedto', 'derivedfrom'] backstab ['relatedto'] attack ['relatedto'] hurt
+back ['derivedfrom'] cutback ['derivedfrom'] cut ['relatedto'] hurt
+back ['derivedfrom'] drawback ['synonym'] detriment ['relatedto', 'synonym'] hurt
+back ['derivedfrom'] drawback ['isa'] catch ['mannerof'] hurt
+back ['distinctfrom'] profile ['relatedto'] injury ['relatedto', 'synonym'] hurt
+back ['etymologicallyrelatedto'] backfire ['isa', 'etymologicallyrelatedto'] fire ['capableof'] hurt
+back ['etymologicallyrelatedto'] backfire ['mannerof'] burn ['relatedto'] hurt

@@ -1,0 +1,100 @@
+mistress ['relatedto'] jack ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] nice ['relatedto'] paint
+mistress ['synonym'] boss ['relatedto'] water ['relatedto'] paint
+mistress ['synonym'] boss ['relatedto', 'desires'] work ['atlocation'] paint
+mistress ['synonym'] boss ['relatedto'] material ['relatedto'] paint
+mistress ['synonym'] boss ['relatedto'] king ['relatedto'] paint
+mistress ['relatedto'] female ['distinctfrom', 'relatedto'] boy ['relatedto'] paint
+mistress ['relatedto'] female ['isa', 'relatedto'] queen ['relatedto'] paint
+mistress ['relatedto'] female ['relatedto'] layer ['relatedto'] paint
+mistress ['relatedto'] female ['relatedto'] radium_girl ['relatedto'] paint
+mistress ['relatedto'] lady ['relatedto'] nice ['relatedto'] paint
+mistress ['relatedto'] lady ['derivedfrom'] painted_lady ['derivedfrom'] paint
+mistress ['relatedto'] lady ['relatedto'] household ['relatedto'] paint
+mistress ['relatedto'] lady ['relatedto'] queen ['relatedto'] paint
+mistress ['isa', 'relatedto'] woman ['relatedto'] boy ['relatedto'] paint
+mistress ['isa', 'relatedto'] woman ['isa', 'relatedto'] queen ['relatedto'] paint
+mistress ['etymologicallyrelatedto', 'relatedto'] miss ['isa'] action ['relatedto'] paint
+mistress ['etymologicallyrelatedto', 'relatedto'] miss ['relatedto'] accomplish ['motivatedbygoal'] paint
+mistress ['distinctfrom', 'relatedto'] wife ['relatedto'] dutch ['relatedto'] paint
+mistress ['distinctfrom', 'relatedto'] wife ['relatedto'] queen ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] house ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] home ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] boy ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] work ['atlocation'] paint
+mistress ['antonym'] servant ['relatedto'] nice ['relatedto'] paint
+mistress ['antonym'] servant ['antonym'] charge ['mannerof'] paint
+mistress ['antonym'] servant ['antonym', 'relatedto'] king ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] queen ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] jack ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] household ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] houses ['relatedto'] paint
+mistress ['antonym'] servant ['relatedto'] housework ['relatedto'] paint
+mistress ['antonym', 'distinctfrom', 'relatedto'] master ['relatedto'] artist ['capableof', 'relatedto'] paint
+mistress ['antonym', 'distinctfrom', 'relatedto'] master ['relatedto'] charge ['mannerof'] paint
+mistress ['antonym', 'distinctfrom', 'relatedto'] master ['relatedto'] king ['relatedto'] paint
+mistress ['antonym', 'distinctfrom', 'relatedto'] master ['relatedto'] key ['synonym'] paint
+mistress ['antonym', 'distinctfrom', 'relatedto'] master ['relatedto'] device ['relatedto'] paint
+mistress ['antonym', 'distinctfrom', 'relatedto'] master ['relatedto'] scene ['usedfor', 'relatedto'] paint
+mistress ['isa', 'relatedto'] lover ['relatedto', 'derivedfrom', 'synonym'] love ['causesdesire'] paint
+mistress ['relatedto'] baleboste ['relatedto'] house ['relatedto'] paint
+mistress ['relatedto'] loon ['relatedto'] water ['relatedto'] paint
+mistress ['relatedto'] loon ['relatedto'] boy ['relatedto'] paint
+mistress ['relatedto'] madam ['relatedto'] household ['relatedto'] paint
+mistress ['relatedto'] mevrouw ['relatedto'] dutch ['relatedto'] paint
+mistress ['relatedto'] affairs ['atlocation'] work ['atlocation'] paint
+mistress ['relatedto'] authority ['relatedto'] lead ['relatedto'] paint
+mistress ['relatedto'] bowls ['relatedto'] soup ['relatedto'] paint
+mistress ['relatedto'] bowls ['relatedto'] jack ['relatedto'] paint
+mistress ['relatedto'] jack ['relatedto'] car ['relatedto'] paint
+mistress ['relatedto'] jack ['distinctfrom'] king ['relatedto'] paint
+mistress ['relatedto'] jack ['distinctfrom', 'relatedto'] queen ['relatedto'] paint
+mistress ['relatedto'] jack ['relatedto'] coat ['mannerof', 'relatedto'] paint
+mistress ['relatedto'] jack ['isa', 'relatedto'] tool ['relatedto'] paint
+mistress ['relatedto'] jack ['isa'] face_card ['relatedto', 'synonym'] paint
+mistress ['relatedto'] jack ['relatedto'] device ['relatedto'] paint
+mistress ['relatedto'] jack ['relatedto'] key ['synonym'] paint
+mistress ['relatedto'] sweetheart ['relatedto', 'synonym'] love ['causesdesire'] paint
+mistress ['relatedto'] teacher ['relatedto'] supply ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] embrace ['synonym'] cover ['mannerof', 'relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] relationship ['relatedto'] love ['causesdesire'] paint
+mistress ['relatedto'] friend ['etymologicallyrelatedto'] free ['capableof'] key ['synonym'] paint
+mistress ['relatedto'] friend ['etymologicallyrelatedto'] free ['distinctfrom'] charge ['mannerof'] paint
+mistress ['relatedto'] friend ['etymologicallyrelatedto'] free ['mannerof'] run ['relatedto'] paint
+mistress ['relatedto'] friend ['etymologicallyrelatedto'] free ['relatedto'] dry ['capableof', 'relatedto'] paint
+mistress ['relatedto'] friend ['etymologicallyrelatedto'] free ['relatedto'] scratch ['antonym'] paint
+mistress ['relatedto'] friend ['etymologicallyrelatedto'] free ['relatedto'] shade ['mannerof'] paint
+mistress ['relatedto'] friend ['relatedto', 'synonym'] ally ['relatedto'] love ['causesdesire'] paint
+mistress ['relatedto'] friend ['antonym', 'distinctfrom', 'relatedto'] enemy ['relatedto'] cover ['mannerof', 'relatedto'] paint
+mistress ['relatedto'] friend ['antonym', 'distinctfrom', 'relatedto'] enemy ['relatedto'] bad ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] bird ['atlocation'] windowsill ['atlocation'] paint
+mistress ['relatedto'] friend ['relatedto'] bird ['isa', 'relatedto'] roller ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] bird ['relatedto'] making ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] bird ['relatedto'] layer ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] bird ['relatedto'] wood ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] bird ['synonym'] finger ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] art ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] home ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] enjoy ['motivatedbygoal'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] example ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto', 'similarto'] nice ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] improvement ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] heavy ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] love ['causesdesire'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] manufacture ['createdby'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] smell ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['relatedto'] style ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto'] good ['similarto'] solid ['relatedto'] paint
+mistress ['relatedto'] friend ['antonym'] battle ['relatedto', 'synonym'] action ['relatedto'] paint
+mistress ['relatedto'] friend ['antonym'] battle ['relatedto'] activity ['relatedto'] paint
+mistress ['relatedto'] friend ['antonym'] battle ['relatedto'] charge ['mannerof'] paint
+mistress ['relatedto'] friend ['antonym', 'distinctfrom', 'relatedto'] stranger ['atlocation'] store ['relatedto', 'atlocation'] paint
+mistress ['relatedto'] friend ['relatedto', 'atlocation'] need ['relatedto'] water ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto', 'atlocation'] need ['relatedto'] weight ['relatedto'] paint
+mistress ['relatedto'] friend ['relatedto', 'atlocation'] need ['relatedto'] use ['antonym', 'relatedto'] paint
+mistress ['relatedto'] friend ['relatedto', 'atlocation'] need ['motivatedbygoal'] shop ['atlocation'] paint
+mistress ['relatedto'] friend ['relatedto', 'atlocation'] need ['relatedto'] oil ['relatedto'] paint
+mistress ['relatedto'] friend ['atlocation'] school ['relatedto'] house ['relatedto'] paint
+mistress ['relatedto'] friend ['atlocation'] school ['relatedto'] art ['relatedto'] paint
+mistress ['relatedto'] friend ['atlocation'] school ['relatedto', 'atlocation'] room ['usedfor', 'relatedto'] paint

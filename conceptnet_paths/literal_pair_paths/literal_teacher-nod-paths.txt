@@ -1,0 +1,100 @@
+teacher ['relatedto'] head ['relatedto'] nod
+teacher ['isa'] bob ['relatedto'] nod
+teacher ['relatedto'] apple ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] board ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] board ['relatedto'] move ['mannerof', 'relatedto'] nod
+teacher ['relatedto'] board ['relatedto'] sign ['relatedto'] nod
+teacher ['relatedto'] head ['relatedto'] beck ['relatedto'] nod
+teacher ['relatedto'] head ['relatedto'] noodle ['relatedto'] nod
+teacher ['relatedto'] boss ['relatedto', 'synonym'] head ['relatedto'] nod
+teacher ['relatedto'] class ['synonym'] head ['relatedto'] nod
+teacher ['relatedto'] course ['isa', 'relatedto', 'synonym'] action ['relatedto'] nod
+teacher ['capableof'] explain ['relatedto'] action ['relatedto'] nod
+teacher ['capableof'] explain ['relatedto'] saying ['relatedto'] nod
+teacher ['causesdesire'] study ['hasprerequisite'] understand_better ['hasfirstsubevent'] nod
+teacher ['desires'] attention ['relatedto'] action ['relatedto'] nod
+teacher ['desires'] attention ['relatedto'] inattentive ['relatedto'] nod
+teacher ['desires'] attention ['relatedto'] sign ['relatedto'] nod
+teacher ['relatedto'] master ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] organization ['relatedto'] action ['relatedto'] nod
+teacher ['relatedto'] pastor ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] principal ['relatedto', 'synonym'] head ['relatedto'] nod
+teacher ['derivedfrom'] headteacher ['derivedfrom', 'synonym'] head ['relatedto'] nod
+teacher ['isa'] apprentice ['relatedto'] agreement ['relatedto'] nod
+teacher ['isa'] bob ['mannerof'] move ['mannerof', 'relatedto'] nod
+teacher ['isa'] bob ['isa'] inclination ['isa'] nod
+teacher ['isa'] bob ['relatedto'] noddy ['relatedto'] nod
+teacher ['relatedto'] error_mistake_distinction ['relatedto'] mistake ['relatedto'] nod
+teacher ['relatedto'] rabbi ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] indication ['relatedto'] sign ['relatedto'] nod
+teacher ['relatedto'] indication ['isa'] gesture ['isa', 'relatedto'] nod
+teacher ['relatedto'] test ['relatedto'] yes ['relatedto', 'similarto'] nod
+teacher ['usedfor'] answers ['motivatedbygoal'] communicate ['mannerof'] nod
+teacher ['isa'] abstraction ['isa'] entity ['relatedto'] agreement ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] removal ['synonym'] move ['mannerof', 'relatedto'] nod
+teacher ['isa'] abstraction ['isa'] communication ['relatedto', 'derivedfrom'] communicate ['mannerof'] nod
+teacher ['isa'] abstraction ['isa'] communication ['isa', 'relatedto'] sign ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] information ['relatedto'] reference ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] information ['motivatedbygoal', 'relatedto'] communicate ['mannerof'] nod
+teacher ['isa'] abstraction ['isa'] information ['relatedto'] sign ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] measure ['relatedto', 'synonym'] action ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] relation ['relatedto'] reference ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] right ['relatedto'] agree ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] set ['relatedto'] movement ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] thing ['isa'] action ['relatedto'] nod
+teacher ['isa'] abstraction ['isa'] thing ['relatedto'] sign ['relatedto'] nod
+teacher ['isa'] abstraction ['relatedto'] idea ['relatedto'] head ['relatedto'] nod
+teacher ['isa'] abstraction ['relatedto'] notion ['relatedto'] inclination ['isa'] nod
+teacher ['isa'] abstraction ['relatedto'] software ['isa'] action ['relatedto'] nod
+teacher ['isa'] abstraction ['relatedto'] unrealistic ['relatedto'] opiate ['relatedto'] nod
+teacher ['isa'] abstraction ['relatedto'] art ['relatedto'] movement ['relatedto'] nod
+teacher ['isa'] abstraction ['relatedto'] concretism ['relatedto'] movement ['relatedto'] nod
+teacher ['isa'] abstraction ['relatedto'] orphism ['relatedto'] movement ['relatedto'] nod
+teacher ['isa'] abstraction ['relatedto'] prosopopoeia ['relatedto'] communicate ['mannerof'] nod
+teacher ['relatedto'] man ['relatedto'] affair ['synonym'] action ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto', 'synonym'] human ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] agent ['relatedto'] action ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] alive ['relatedto'] action ['relatedto'] nod
+teacher ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto', 'partof'] head ['relatedto'] nod
+teacher ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto'] movement ['relatedto'] nod
+teacher ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto'] dropping ['relatedto'] nod
+teacher ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto'] move ['mannerof', 'relatedto'] nod
+teacher ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto'] wag ['similarto'] nod
+teacher ['relatedto'] man ['antonym', 'relatedto'] baby ['relatedto'] shake ['antonym', 'relatedto'] nod
+teacher ['relatedto'] man ['antonym'] dress ['capableof'] action ['relatedto'] nod
+teacher ['relatedto'] man ['antonym'] dress ['mannerof'] bob ['relatedto'] nod
+teacher ['relatedto'] man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['antonym', 'relatedto'] husband ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['derivedfrom'] yes_man ['relatedto'] agree ['relatedto'] nod
+teacher ['relatedto'] man ['derivedfrom'] yes_man ['derivedfrom'] yes ['relatedto', 'similarto'] nod
+teacher ['relatedto'] man ['derivedfrom'] yesman ['derivedfrom'] yes ['relatedto', 'similarto'] nod
+teacher ['relatedto'] man ['distinctfrom'] machine ['relatedto'] movement ['relatedto'] nod
+teacher ['relatedto'] man ['isa', 'relatedto'] father ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['isa', 'relatedto'] guy ['relatedto'] reference ['relatedto'] nod
+teacher ['relatedto'] man ['isa'] subordinate ['antonym'] head ['relatedto'] nod
+teacher ['relatedto'] man ['mannerof', 'relatedto'] staff ['relatedto'] shake ['antonym', 'relatedto'] nod
+teacher ['relatedto'] man ['mannerof'] work ['isa', 'relatedto'] action ['relatedto'] nod
+teacher ['relatedto'] man ['mannerof'] work ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] nod
+teacher ['relatedto'] man ['mannerof'] work ['relatedto'] reference ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] art ['relatedto'] movement ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] balebos ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] bear ['entails'] move ['mannerof', 'relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] bear ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] bill ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] board ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] board ['relatedto'] move ['mannerof', 'relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] board ['relatedto'] sign ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] body ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'partof'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] body ['relatedto'] movement ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] body ['relatedto'] gesture ['isa', 'relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] body ['usedfor', 'relatedto'] move ['mannerof', 'relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] body ['relatedto'] nutation ['isa'] nod
+teacher ['relatedto'] man ['relatedto'] break ['relatedto'] action ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] break ['relatedto'] dropping ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] builder ['relatedto'] bob ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] captain ['mannerof', 'relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] chief ['etymologicallyrelatedto', 'relatedto', 'synonym'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] chinaman ['relatedto'] action ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] count ['relatedto'] action ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] count ['relatedto'] head ['relatedto'] nod
+teacher ['relatedto'] man ['relatedto'] demand ['relatedto'] action ['relatedto'] nod

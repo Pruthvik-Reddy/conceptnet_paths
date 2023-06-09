@@ -1,0 +1,100 @@
+furniture ['relatedto'] modern ['relatedto'] fashion ['relatedto'] mold
+furniture ['relatedto'] antique ['mannerof'] change ['mannerof'] mold
+furniture ['atlocation'] apartment ['atlocation'] refrigerator ['atlocation'] mold
+furniture ['hasa', 'atlocation'] house ['relatedto'] ground ['relatedto'] mold
+furniture ['hasa', 'atlocation'] house ['relatedto', 'atlocation'] plant ['relatedto'] mold
+furniture ['hasa', 'atlocation'] house ['atlocation'] carpet ['atlocation'] mold
+furniture ['hasa', 'atlocation'] house ['atlocation'] machine ['usedfor'] mold
+furniture ['hasa', 'atlocation'] house ['atlocation'] refrigerator ['atlocation'] mold
+furniture ['hasa', 'atlocation'] house ['madeof'] metal ['relatedto'] mold
+furniture ['hasa', 'atlocation'] house ['relatedto'] cellar ['atlocation'] mold
+furniture ['relatedto'] stick ['relatedto'] action ['relatedto'] mold
+furniture ['relatedto'] stick ['relatedto'] ground ['relatedto'] mold
+furniture ['relatedto'] stick ['synonym'] plant ['relatedto'] mold
+furniture ['relatedto'] stick ['relatedto'] chase ['relatedto'] mold
+furniture ['relatedto'] stick ['relatedto'] shape ['relatedto', 'synonym'] mold
+furniture ['relatedto'] stick ['relatedto'] cast ['relatedto', 'synonym'] mold
+furniture ['relatedto'] stick ['synonym'] cling ['mannerof'] mold
+furniture ['relatedto'] home ['atlocation'] refrigerator ['atlocation'] mold
+furniture ['relatedto'] home ['relatedto'] carpet ['atlocation'] mold
+furniture ['relatedto'] home ['relatedto'] form ['isa', 'relatedto'] mold
+furniture ['relatedto'] home ['relatedto'] lance ['relatedto'] mold
+furniture ['relatedto'] bar ['isa'] core ['relatedto'] mold
+furniture ['relatedto'] bar ['relatedto'] metal ['relatedto'] mold
+furniture ['relatedto'] bar ['relatedto'] shape ['relatedto', 'synonym'] mold
+furniture ['relatedto'] bar ['relatedto'] substance ['relatedto'] mold
+furniture ['antonym', 'isa', 'relatedto'] bed ['mannerof', 'relatedto'] plant ['relatedto'] mold
+furniture ['antonym', 'isa', 'relatedto'] bed ['atlocation'] carpet ['atlocation'] mold
+furniture ['antonym', 'isa', 'relatedto'] bed ['relatedto', 'partof', 'atlocation'] frame ['relatedto'] mold
+furniture ['antonym', 'isa', 'relatedto'] bed ['derivedfrom'] pig_bed ['isa', 'relatedto'] mold
+furniture ['antonym', 'isa', 'relatedto'] bed ['relatedto'] container ['isa'] mold
+furniture ['antonym', 'isa', 'relatedto'] bed ['relatedto'] making ['relatedto'] mold
+furniture ['antonym', 'isa', 'relatedto'] bed ['relatedto'] matrix ['isa', 'relatedto'] mold
+furniture ['antonym', 'isa', 'relatedto'] bed ['relatedto'] pig ['relatedto'] mold
+furniture ['isa', 'relatedto'] chair ['receivesaction'] fixed ['relatedto'] mold
+furniture ['usedfor', 'relatedto'] couch ['hasproperty'] black ['relatedto'] mold
+furniture ['usedfor', 'relatedto'] couch ['relatedto'] lance ['relatedto'] mold
+furniture ['usedfor', 'relatedto'] couch ['relatedto'] mould ['formof', 'synonym'] mold
+furniture ['usedfor', 'relatedto'] couch ['synonym'] frame ['relatedto'] mold
+furniture ['relatedto', 'atlocation'] floor ['distinctfrom', 'relatedto'] ground ['relatedto'] mold
+furniture ['relatedto', 'atlocation'] floor ['distinctfrom', 'relatedto', 'atlocation'] carpet ['atlocation'] mold
+furniture ['atlocation'] building ['relatedto'] ground ['relatedto'] mold
+furniture ['atlocation'] building ['relatedto'] plant ['relatedto'] mold
+furniture ['atlocation'] building ['relatedto'] cellar ['atlocation'] mold
+furniture ['atlocation'] building ['relatedto'] metal ['relatedto'] mold
+furniture ['atlocation'] building ['relatedto'] machine ['usedfor'] mold
+furniture ['atlocation'] building ['atlocation'] carpet ['atlocation'] mold
+furniture ['atlocation'] building ['isa'] foundry ['relatedto'] mold
+furniture ['atlocation'] building ['relatedto'] frame ['relatedto'] mold
+furniture ['atlocation'] loft ['relatedto'] fluid ['relatedto'] mold
+furniture ['usedfor', 'relatedto', 'atlocation'] room ['atlocation'] carpet ['atlocation'] mold
+furniture ['usedfor', 'relatedto', 'atlocation'] room ['relatedto'] cellar ['atlocation'] mold
+furniture ['usedfor', 'relatedto', 'atlocation'] room ['relatedto'] container ['isa'] mold
+furniture ['atlocation'] rug ['atlocation'] pattern ['relatedto'] mold
+furniture ['atlocation'] rug ['usedfor', 'relatedto', 'synonym'] carpet ['atlocation'] mold
+furniture ['atlocation'] rug ['atlocation'] fuzz ['relatedto'] mold
+furniture ['atlocation'] store ['atlocation'] bread ['relatedto'] mold
+furniture ['atlocation'] store ['relatedto'] change ['mannerof'] mold
+furniture ['atlocation'] store ['atlocation'] plastic ['relatedto'] mold
+furniture ['atlocation'] store ['atlocation'] carpet ['atlocation'] mold
+furniture ['atlocation'] store ['mannerof', 'relatedto'] mothball ['relatedto'] mold
+furniture ['atlocation'] store ['relatedto'] container ['isa'] mold
+furniture ['atlocation'] pad ['atlocation'] carpet ['atlocation'] mold
+furniture ['usedfor', 'relatedto', 'derivedfrom'] furnish ['relatedto'] action ['relatedto'] mold
+furniture ['usedfor', 'relatedto', 'derivedfrom'] furnish ['etymologicallyrelatedto'] frame ['relatedto'] mold
+furniture ['hasproperty'] opaque ['hasproperty'] carpet ['atlocation'] mold
+furniture ['hasproperty'] opaque ['hasproperty'] metal ['relatedto'] mold
+furniture ['hasproperty'] opaque ['hasproperty'] plastic ['relatedto'] mold
+furniture ['hasproperty'] opaque ['hasproperty'] refrigerator ['atlocation'] mold
+furniture ['isa'] bench ['relatedto'] form ['isa', 'relatedto'] mold
+furniture ['isa'] cabinet ['atlocation'] plastic ['relatedto'] mold
+furniture ['isa'] cabinet ['atlocation'] penicillin ['relatedto'] mold
+furniture ['isa'] cabinet ['atlocation'] container ['isa'] mold
+furniture ['isa'] cabinet ['atlocation'] trowel ['relatedto'] mold
+furniture ['isa'] chest ['isa', 'relatedto'] container ['isa'] mold
+furniture ['isa', 'relatedto'] desk ['atlocation'] carpet ['atlocation'] mold
+furniture ['isa', 'relatedto'] desk ['relatedto'] frame ['relatedto'] mold
+furniture ['isa', 'relatedto'] dresser ['relatedto'] shape ['relatedto', 'synonym'] mold
+furniture ['isa', 'relatedto'] dresser ['relatedto'] refrigerator ['atlocation'] mold
+furniture ['isa', 'relatedto'] etagere ['relatedto'] ornament ['relatedto'] mold
+furniture ['isa'] find_inside ['isa'] carpet ['atlocation'] mold
+furniture ['isa'] artifact ['isa'] machine ['usedfor'] mold
+furniture ['isa'] artifact ['isa'] model ['relatedto', 'synonym'] mold
+furniture ['isa'] artifact ['relatedto'] ornament ['relatedto'] mold
+furniture ['isa'] artifact ['relatedto'] matrix ['isa', 'relatedto'] mold
+furniture ['isa'] consumer_durable ['isa'] model ['relatedto', 'synonym'] mold
+furniture ['isa', 'relatedto'] hanging_rail ['madeof'] metal ['relatedto'] mold
+furniture ['isa', 'relatedto'] nest ['relatedto'] fit ['relatedto'] mold
+furniture ['isa', 'relatedto'] nest ['relatedto'] growing ['relatedto'] mold
+furniture ['isa', 'relatedto'] nest ['relatedto'] container ['isa'] mold
+furniture ['isa', 'relatedto'] nest ['relatedto'] moss ['relatedto'] mold
+furniture ['isa', 'relatedto'] nest ['relatedto'] shape ['relatedto', 'synonym'] mold
+furniture ['isa'] piano ['relatedto'] action ['relatedto'] mold
+furniture ['isa'] piano ['relatedto'] black ['relatedto'] mold
+furniture ['isa'] stand ['relatedto'] ground ['relatedto'] mold
+furniture ['isa'] stand ['etymologicallyrelatedto'] stale ['relatedto'] mold
+furniture ['isa'] stool ['relatedto'] plant ['relatedto'] mold
+furniture ['isa', 'usedfor', 'relatedto'] table ['atlocation'] plant ['relatedto'] mold
+furniture ['isa', 'usedfor', 'relatedto'] table ['atlocation'] carpet ['atlocation'] mold
+furniture ['isa', 'usedfor', 'relatedto'] table ['relatedto'] matrix ['isa', 'relatedto'] mold
+furniture ['madeof', 'relatedto'] wood ['relatedto'] plant ['relatedto'] mold

@@ -1,0 +1,100 @@
+woman ['relatedto'] pusher ['relatedto'] push
+woman ['relatedto'] children ['relatedto'] roundabout ['relatedto'] push
+woman ['relatedto'] children ['relatedto'] slide ['relatedto'] push
+woman ['relatedto'] children ['relatedto'] stroller ['relatedto'] push
+woman ['isa', 'relatedto'] adult ['isa', 'relatedto'] bull ['mannerof'] push
+woman ['relatedto'] affair ['synonym'] action ['relatedto'] push
+woman ['relatedto'] human ['atlocation'] motion ['relatedto'] push
+woman ['relatedto'] human ['relatedto'] audience ['relatedto'] push
+woman ['relatedto'] human ['relatedto'] blow ['relatedto'] push
+woman ['relatedto'] human ['relatedto'] crowd ['relatedto', 'synonym'] push
+woman ['relatedto'] human ['relatedto'] energy ['synonym'] push
+woman ['relatedto'] human ['relatedto'] nose ['mannerof', 'relatedto'] push
+woman ['relatedto'] human ['relatedto'] touch ['relatedto'] push
+woman ['relatedto'] old ['relatedto'] dial ['relatedto'] push
+woman ['relatedto'] old ['relatedto'] great ['relatedto'] push
+woman ['relatedto'] earth ['relatedto'] barrow ['relatedto'] push
+woman ['relatedto'] earth ['relatedto'] slide ['relatedto'] push
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['isa', 'relatedto'] bull ['mannerof'] push
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+woman ['relatedto'] balloon ['relatedto'] blow ['relatedto'] push
+woman ['relatedto'] balloon ['relatedto', 'synonym'] inflate ['relatedto'] push
+woman ['relatedto'] beautiful ['synonym'] great ['relatedto'] push
+woman ['relatedto'] beauty ['relatedto'] great ['relatedto'] push
+woman ['relatedto'] big ['relatedto'] crowd ['relatedto', 'synonym'] push
+woman ['relatedto'] big ['relatedto'] great ['relatedto'] push
+woman ['relatedto'] big ['relatedto'] blow ['relatedto'] push
+woman ['relatedto'] big ['relatedto', 'similarto', 'synonym'] heavy ['relatedto'] push
+woman ['relatedto'] big ['relatedto'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+woman ['relatedto'] big ['relatedto'] sail ['relatedto'] push
+woman ['relatedto'] blue ['etymologicallyrelatedto', 'relatedto'] blow ['relatedto'] push
+woman ['relatedto'] blue ['hasproperty'] ring ['relatedto'] push
+woman ['relatedto'] blue ['relatedto'] depression ['isa'] push
+woman ['relatedto'] body ['relatedto'] crowd ['relatedto', 'synonym'] push
+woman ['relatedto'] body ['relatedto', 'partof'] nose ['mannerof', 'relatedto'] push
+woman ['relatedto'] body ['relatedto', 'partof'] shoulder ['relatedto'] push
+woman ['relatedto'] body ['relatedto'] abdomen ['relatedto'] push
+woman ['relatedto'] body ['relatedto'] movement ['relatedto'] push
+woman ['relatedto'] body ['relatedto'] moving ['relatedto'] push
+woman ['relatedto'] body ['relatedto'] effort ['relatedto'] push
+woman ['relatedto'] body ['relatedto'] elbow ['relatedto'] push
+woman ['relatedto'] body ['relatedto'] lift ['relatedto'] push
+woman ['relatedto'] body ['usedfor', 'relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+woman ['relatedto'] body ['relatedto'] touch ['relatedto'] push
+woman ['relatedto'] boy ['relatedto'] buttons ['relatedto'] push
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['relatedto'] pusher ['relatedto'] push
+woman ['relatedto'] bra ['atlocation'] drawer ['relatedto'] push
+woman ['relatedto'] long ['relatedto'] cue ['relatedto'] push
+woman ['relatedto'] long ['relatedto'] great ['relatedto'] push
+woman ['relatedto'] long ['relatedto'] reach ['relatedto'] push
+woman ['relatedto'] cow ['antonym', 'distinctfrom', 'relatedto', 'similarto'] bull ['mannerof'] push
+woman ['relatedto'] cow ['relatedto'] cattle_prod ['relatedto'] push
+woman ['isa', 'etymologicallyrelatedto', 'relatedto', 'synonym'] female ['antonym'] bull ['mannerof'] push
+woman ['relatedto'] bump ['relatedto', 'synonym'] blow ['relatedto'] push
+woman ['relatedto'] bump ['isa', 'relatedto'] jolt ['relatedto'] push
+woman ['relatedto'] bump ['relatedto'] abdomen ['relatedto'] push
+woman ['relatedto'] bump ['relatedto'] jostle ['mannerof', 'relatedto'] push
+woman ['isa', 'relatedto'] baggage ['usedfor'] travel ['mannerof'] push
+woman ['isa', 'relatedto'] cat ['atlocation'] fight ['relatedto'] push
+woman ['isa', 'relatedto'] cat ['hasa'] nose ['mannerof', 'relatedto'] push
+woman ['isa', 'relatedto'] cat ['relatedto'] ring ['relatedto'] push
+woman ['relatedto'] dog ['hasa', 'relatedto'] nose ['mannerof', 'relatedto'] push
+woman ['relatedto'] dog ['relatedto'] roll ['relatedto'] push
+woman ['relatedto'] father ['relatedto'] pop ['antonym'] push
+woman ['relatedto'] single ['antonym'] crowd ['relatedto', 'synonym'] push
+woman ['relatedto'] dress ['capableof'] action ['relatedto'] push
+woman ['relatedto'] dress ['relatedto'] bundle ['relatedto'] push
+woman ['relatedto'] dress ['relatedto'] buttons ['relatedto'] push
+woman ['relatedto'] dress ['relatedto'] stroller ['relatedto'] push
+woman ['relatedto'] easy ['antonym', 'distinctfrom', 'relatedto'] hard ['relatedto'] push
+woman ['relatedto'] easy ['antonym'] move ['mannerof', 'relatedto', 'entails'] push
+woman ['relatedto'] easy ['distinctfrom', 'relatedto'] effort ['relatedto'] push
+woman ['relatedto'] dike ['relatedto'] raise ['antonym'] push
+woman ['antonym', 'distinctfrom'] male ['relatedto', 'synonym'] bull ['mannerof'] push
+woman ['relatedto'] marry ['relatedto'] action ['relatedto'] push
+woman ['relatedto'] marry ['relatedto'] ring ['relatedto'] push
+woman ['relatedto'] doll ['antonym', 'relatedto'] action ['relatedto'] push
+woman ['relatedto'] doll ['relatedto'] button ['relatedto'] push
+woman ['relatedto'] doll ['relatedto'] nose ['mannerof', 'relatedto'] push
+woman ['relatedto'] doll ['relatedto'] stroller ['relatedto'] push
+woman ['relatedto'] figure ['relatedto'] action ['relatedto'] push
+woman ['relatedto'] figure ['isa'] maneuver ['relatedto'] push
+woman ['relatedto'] figure ['relatedto'] draw ['antonym'] push
+woman ['relatedto'] figure ['relatedto'] ring ['relatedto'] push
+woman ['relatedto'] skirt ['relatedto'] gore ['relatedto'] push
+woman ['relatedto'] walker ['relatedto'] force ['isa', 'relatedto', 'synonym'] push
+woman ['relatedto'] goose ['mannerof'] prod ['relatedto'] push
+woman ['relatedto'] eye ['antonym', 'distinctfrom', 'relatedto'] nose ['mannerof', 'relatedto'] push
+woman ['relatedto'] eye ['relatedto'] ring ['relatedto'] push
+woman ['relatedto'] feel ['relatedto'] action ['relatedto'] push
+woman ['relatedto'] feel ['antonym', 'mannerof', 'relatedto', 'entails'] touch ['relatedto'] push
+woman ['relatedto'] feel ['relatedto'] rub ['relatedto'] push
+woman ['relatedto'] feminism ['relatedto'] movement ['relatedto'] push
+woman ['antonym', 'distinctfrom', 'relatedto'] men ['relatedto'] crowd ['relatedto', 'synonym'] push
+woman ['antonym', 'distinctfrom', 'relatedto'] men ['relatedto'] fight ['relatedto'] push
+woman ['formof', 'relatedto'] women ['relatedto'] blow ['relatedto'] push
+woman ['isa', 'relatedto'] queen ['mannerof'] promote ['relatedto'] push
+woman ['isa', 'relatedto'] queen ['antonym', 'relatedto'] pawn ['relatedto'] push
+woman ['isa'] wave ['relatedto'] action ['relatedto'] push
+woman ['isa'] wave ['relatedto'] crowd ['relatedto', 'synonym'] push
+woman ['isa'] wave ['relatedto'] force ['isa', 'relatedto', 'synonym'] push

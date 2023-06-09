@@ -1,0 +1,100 @@
+rifle ['relatedto'] fire ['relatedto'] substance ['relatedto'] lean
+rifle ['relatedto'] fire ['relatedto'] low ['relatedto'] lean
+rifle ['relatedto'] fire ['relatedto'] tend ['synonym'] lean
+rifle ['synonym'] go ['relatedto'] rest ['relatedto', 'synonym'] lean
+rifle ['synonym'] go ['antonym'] hang ['relatedto'] lean
+rifle ['synonym'] go ['relatedto', 'synonym'] fit ['relatedto'] lean
+rifle ['synonym'] go ['relatedto'] tend ['synonym'] lean
+rifle ['synonym'] go ['relatedto'] ladder ['etymologicallyrelatedto'] lean
+rifle ['synonym'] go ['relatedto'] slant ['relatedto', 'synonym'] lean
+rifle ['relatedto'] arm ['relatedto'] hang ['relatedto'] lean
+rifle ['relatedto'] association ['relatedto'] cut ['relatedto'] lean
+rifle ['relatedto'] stick ['relatedto'] skinny ['relatedto'] lean
+rifle ['relatedto'] stick ['relatedto'] slim ['relatedto'] lean
+rifle ['relatedto'] stick ['relatedto'] thin ['relatedto', 'synonym'] lean
+rifle ['relatedto'] stick ['relatedto'] compositor ['relatedto'] lean
+rifle ['synonym'] fish ['isa', 'distinctfrom', 'relatedto'] meat ['relatedto'] lean
+rifle ['synonym'] fish ['mannerof', 'relatedto', 'synonym'] angle ['synonym'] lean
+rifle ['synonym'] fish ['relatedto'] meagre ['relatedto'] lean
+rifle ['synonym'] fish ['relatedto'] pollock ['relatedto'] lean
+rifle ['relatedto'] bore ['mannerof'] cut ['relatedto'] lean
+rifle ['relatedto'] long ['antonym'] low ['relatedto'] lean
+rifle ['relatedto'] long ['relatedto'] side ['relatedto'] lean
+rifle ['relatedto'] long ['relatedto'] slim ['relatedto'] lean
+rifle ['relatedto'] long ['similarto'] lank ['relatedto'] lean
+rifle ['relatedto'] bullet ['relatedto'] tip ['synonym'] lean
+rifle ['relatedto'] shot ['relatedto'] put ['mannerof'] lean
+rifle ['atlocation'] closet ['relatedto'] hang ['relatedto'] lean
+rifle ['atlocation'] closet ['relatedto', 'synonym'] press ['relatedto'] lean
+rifle ['relatedto'] two ['relatedto'] side ['relatedto'] lean
+rifle ['relatedto'] dangerous ['relatedto'] stunt ['relatedto'] lean
+rifle ['relatedto'] twenty ['relatedto'] tip ['synonym'] lean
+rifle ['relatedto'] strip ['relatedto'] list ['mannerof', 'synonym'] lean
+rifle ['relatedto'] wood ['relatedto', 'receivesaction'] cut ['relatedto'] lean
+rifle ['relatedto'] wood ['relatedto'] substance ['relatedto'] lean
+rifle ['relatedto'] strike ['relatedto'] slant ['relatedto', 'synonym'] lean
+rifle ['usedfor', 'atlocation'] war ['relatedto'] side ['relatedto'] lean
+rifle ['usedfor'] murder ['relatedto'] hang ['relatedto'] lean
+rifle ['usedfor'] killing ['relatedto'] hang ['relatedto'] lean
+rifle ['isa', 'relatedto'] weapon ['relatedto'] sway ['relatedto'] lean
+rifle ['isa', 'relatedto'] weapon ['relatedto'] tilt ['synonym'] lean
+rifle ['relatedto'] bayonet ['relatedto'] fit ['relatedto'] lean
+rifle ['relatedto'] barrel ['mannerof'] put ['mannerof'] lean
+rifle ['relatedto'] deer ['relatedto'] meat ['relatedto'] lean
+rifle ['relatedto'] trigger ['relatedto'] declivity ['etymologicallyrelatedto'] lean
+rifle ['relatedto'] type ['relatedto'] rest ['relatedto', 'synonym'] lean
+rifle ['relatedto'] type ['relatedto'] fit ['relatedto'] lean
+rifle ['relatedto'] type ['relatedto'] weather ['mannerof'] lean
+rifle ['relatedto'] type ['relatedto'] compositor ['relatedto'] lean
+rifle ['relatedto'] scythe ['relatedto'] cut ['relatedto'] lean
+rifle ['relatedto'] stock ['relatedto'] economic ['relatedto'] lean
+rifle ['usedfor'] protection ['usedfor'] united_states ['relatedto'] lean
+rifle ['relatedto'] accuracy ['isa'] quality ['relatedto'] fit ['relatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto'] mistakes ['causesdesire'] lie ['etymologicallyrelatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto'] rule ['relatedto'] sway ['relatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto'] true ['antonym', 'distinctfrom'] lie ['etymologicallyrelatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto', 'synonym'] truth ['antonym', 'distinctfrom', 'relatedto'] lie ['etymologicallyrelatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto'] value ['relatedto'] rich ['antonym'] lean
+rifle ['relatedto'] accuracy ['relatedto'] chip_shot ['relatedto'] low ['relatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto'] rumor ['relatedto'] skinny ['relatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto'] stratum ['relatedto'] economic ['relatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto'] time ['relatedto'] rest ['relatedto', 'synonym'] lean
+rifle ['relatedto'] accuracy ['relatedto'] time ['relatedto'] efficient ['relatedto'] lean
+rifle ['relatedto'] accuracy ['relatedto'] time ['relatedto'] weather ['mannerof'] lean
+rifle ['relatedto'] accuracy ['usedfor'] determining_truth ['hasprerequisite'] concentration ['relatedto'] lean
+rifle ['relatedto'] accuracy ['usedfor'] laser ['usedfor'] cut ['relatedto'] lean
+rifle ['relatedto'] fire ['relatedto'] base ['isa'] ingredient ['relatedto'] lean
+rifle ['relatedto'] fire ['relatedto'] base ['relatedto'] low ['relatedto'] lean
+rifle ['relatedto'] fire ['mannerof'] remove ['mannerof'] tip ['synonym'] lean
+rifle ['relatedto'] fire ['mannerof'] remove ['relatedto'] cut ['relatedto'] lean
+rifle ['relatedto'] fire ['mannerof'] remove ['relatedto'] thin ['relatedto', 'synonym'] lean
+rifle ['relatedto'] fire ['mannerof'] remove ['relatedto'] trim ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'distinctfrom'] air ['relatedto'] substance ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'distinctfrom'] air ['relatedto'] thin ['relatedto', 'synonym'] lean
+rifle ['relatedto'] fire ['antonym', 'distinctfrom'] air ['relatedto'] cut ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'distinctfrom'] air ['relatedto'] rich ['antonym'] lean
+rifle ['relatedto'] fire ['antonym', 'distinctfrom'] air ['relatedto'] weather ['mannerof'] lean
+rifle ['relatedto'] fire ['relatedto'] earth ['relatedto'] substance ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['relatedto'] put ['mannerof'] lean
+rifle ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['relatedto'] side ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto'] cold ['relatedto'] low ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto'] cold ['relatedto'] climate ['etymologicallyrelatedto', 'relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto'] cold ['relatedto'] extra ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto'] cold ['relatedto'] weather ['mannerof'] lean
+rifle ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] substance ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] smoke ['relatedto'] conceal ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] smoke ['relatedto'] dutch_loaf ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto'] wind ['relatedto'] rest ['relatedto', 'synonym'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto'] wind ['isa', 'relatedto'] weather ['mannerof'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto'] wind ['synonym'] tip ['synonym'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto', 'atlocation'] wood ['relatedto', 'receivesaction'] cut ['relatedto'] lean
+rifle ['relatedto'] fire ['antonym', 'relatedto', 'atlocation'] wood ['relatedto'] substance ['relatedto'] lean
+rifle ['relatedto'] fire ['relatedto', 'atlocation'] coal ['relatedto'] put ['mannerof'] lean
+rifle ['relatedto'] fire ['relatedto', 'atlocation'] coal ['relatedto'] substance ['relatedto'] lean
+rifle ['relatedto'] fire ['relatedto', 'atlocation'] coal ['relatedto'] slant ['relatedto', 'synonym'] lean
+rifle ['relatedto'] fire ['atlocation'] house ['relatedto'] rest ['relatedto', 'synonym'] lean
+rifle ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['relatedto'] low ['relatedto'] lean
+rifle ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['relatedto'] rich ['antonym'] lean
+rifle ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['relatedto'] put ['mannerof'] lean
+rifle ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['relatedto'] tend ['synonym'] lean
+rifle ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['synonym'] cut ['relatedto'] lean

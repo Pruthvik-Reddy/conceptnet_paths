@@ -1,0 +1,100 @@
+smuggler ['isa'] criminal ['relatedto'] cell ['antonym'] land
+smuggler ['isa'] criminal ['relatedto'] firm ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] stale ['relatedto'] land
+smuggler ['synonym'] runner ['relatedto'] course ['relatedto'] land
+smuggler ['synonym'] runner ['relatedto'] strip ['relatedto'] land
+smuggler ['synonym'] runner ['relatedto'] play ['relatedto'] land
+smuggler ['isa', 'relatedto'] coyote ['relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land
+smuggler ['relatedto', 'derivedfrom'] smuggle ['relatedto'] landguard ['derivedfrom'] land
+smuggler ['relatedto'] snakehead ['relatedto'] marshland ['relatedto', 'derivedfrom'] land
+smuggler ['isa'] criminal ['relatedto'] con ['relatedto'] consonant ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['relatedto'] action ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['antonym', 'synonym'] fall ['haslastsubevent'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['mannerof'] fasten ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['relatedto'] dry ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['relatedto'] ending ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['relatedto'] fly ['antonym', 'haslastsubevent'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['relatedto'] neck ['isa', 'relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['relatedto'] phone ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] hang ['relatedto'] sky ['antonym', 'distinctfrom', 'relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] robber ['derivedfrom'] robber_baron ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto', 'synonym'] action ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] carry ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] airplane ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] office ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] part ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] place ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] state ['relatedto', 'synonym'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] quadrat ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] surface ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] dock ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] case ['relatedto'] road ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cell ['relatedto'] house ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cell ['relatedto'] living ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cell ['relatedto'] term ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cell ['relatedto'] area ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cell ['relatedto'] part ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cell ['relatedto'] phone ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cell ['relatedto'] place ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cell ['relatedto'] nook ['relatedto'] land
+smuggler ['isa'] criminal ['atlocation'] prison ['relatedto'] big ['relatedto'] land
+smuggler ['isa'] criminal ['atlocation'] prison ['antonym', 'relatedto'] cell ['antonym'] land
+smuggler ['isa'] criminal ['atlocation'] prison ['atlocation'] countryside ['relatedto', 'atlocation'] land
+smuggler ['isa'] criminal ['atlocation'] prison ['relatedto'] iron ['relatedto'] land
+smuggler ['isa'] criminal ['atlocation'] prison ['relatedto'] place ['relatedto'] land
+smuggler ['isa'] criminal ['synonym'] illegal ['relatedto'] executionism ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto', 'derivedfrom'] crime ['relatedto'] plot ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['relatedto'] action ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['relatedto'] bridge ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['relatedto'] connect ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['mannerof'] fold ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['relatedto'] place ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['usedfor', 'relatedto'] road ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['relatedto'] grave ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['relatedto'] padrão ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] cross ['relatedto'] wayleave ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] information ['relatedto'] registration_county ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] information ['relatedto'] surface ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] information ['usedfor'] map ['atlocation'] land
+smuggler ['isa'] criminal ['relatedto'] record ['relatedto'] action ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['relatedto'] plate ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['relatedto'] big ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['relatedto'] long ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['relatedto'] flat ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['antonym', 'relatedto'] compact_disc ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['antonym', 'distinctfrom', 'relatedto'] play ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['atlocation'] office ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['formof', 'relatedto', 'derivedfrom'] recording ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['relatedto'] groove ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['relatedto'] medium ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] record ['relatedto'] surface ['relatedto'] land
+smuggler ['isa'] criminal ['isa'] hood ['relatedto', 'partof'] car ['atlocation'] land
+smuggler ['isa'] criminal ['isa'] hood ['relatedto'] state ['relatedto', 'synonym'] land
+smuggler ['isa'] criminal ['isa'] hood ['partof'] airplane ['relatedto'] land
+smuggler ['isa'] criminal ['isa'] hood ['relatedto'] cape ['isa'] land
+smuggler ['isa'] criminal ['relatedto'] firm ['synonym'] house ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] firm ['relatedto'] stick ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] firm ['relatedto', 'synonym'] solid ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] firm ['relatedto', 'similarto'] secure ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] firm ['relatedto'] office ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] fraud ['distinctfrom'] real ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto', 'atlocation'] jail ['relatedto', 'atlocation'] cell ['antonym'] land
+smuggler ['isa'] criminal ['relatedto'] stale ['relatedto'] action ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] stale ['relatedto'] army ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] stale ['relatedto'] long ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] stale ['relatedto'] claim ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] stale ['relatedto'] fallow ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] stale ['relatedto'] urine ['etymologicallyrelatedto', 'relatedto'] land
+smuggler ['isa'] criminal ['synonym'] villain ['distinctfrom'] landowner ['relatedto'] land
+smuggler ['isa'] criminal ['synonym'] villain ['synonym'] serf ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] government ['relatedto'] reserve ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] government ['relatedto'] annex ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] government ['relatedto'] army ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] government ['relatedto'] big ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] government ['relatedto', 'atlocation'] country ['relatedto', 'synonym', 'atlocation'] land
+smuggler ['isa'] criminal ['relatedto'] government ['isa', 'relatedto'] state ['relatedto', 'synonym'] land
+smuggler ['isa'] criminal ['relatedto'] government ['relatedto'] colony ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] government ['isa', 'relatedto'] empire ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] government ['relatedto'] chiefery ['relatedto'] land
+smuggler ['isa'] criminal ['relatedto'] government ['relatedto'] concession_road ['relatedto'] land

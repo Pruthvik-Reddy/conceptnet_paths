@@ -1,0 +1,100 @@
+needle ['relatedto'] pierce
+needle ['relatedto'] fix ['relatedto'] pierce
+needle ['relatedto'] stick ['mannerof'] pierce
+needle ['mannerof', 'synonym'] prickle ['mannerof'] pierce
+needle ['relatedto'] acupunctuate ['relatedto'] pierce
+needle ['relatedto'] lebenswecker ['relatedto'] pierce
+needle ['relatedto'] piercing ['formof', 'relatedto', 'derivedfrom'] pierce
+needle ['relatedto'] quill ['relatedto'] pierce
+needle ['relatedto'] thorn ['relatedto'] pierce
+needle ['relatedto'] fix ['antonym', 'distinctfrom', 'relatedto'] break ['relatedto'] pierce
+needle ['relatedto'] fix ['relatedto'] transfix ['mannerof', 'relatedto'] pierce
+needle ['relatedto'] fix ['relatedto'] impale ['relatedto', 'entails'] pierce
+needle ['relatedto'] fix ['relatedto'] peg ['mannerof'] pierce
+needle ['relatedto'] fix ['synonym'] hole ['relatedto'] pierce
+needle ['relatedto'] stick ['relatedto'] arrow ['usedfor'] pierce
+needle ['relatedto'] stick ['relatedto'] bestick ['relatedto'] pierce
+needle ['relatedto'] stick ['relatedto'] peg ['mannerof'] pierce
+needle ['relatedto'] stick ['relatedto'] javelin ['relatedto'] pierce
+needle ['relatedto'] stick ['relatedto'] poke ['mannerof'] pierce
+needle ['relatedto'] stick ['relatedto'] prick ['relatedto'] pierce
+needle ['relatedto'] stick ['relatedto'] stab ['relatedto'] pierce
+needle ['relatedto'] stick ['relatedto'] thrust ['synonym'] pierce
+needle ['relatedto'] stick ['synonym'] sting ['mannerof'] pierce
+needle ['relatedto'] couch ['relatedto'] lance ['mannerof', 'relatedto'] pierce
+needle ['hasproperty'] small ['relatedto'] arrow ['usedfor'] pierce
+needle ['hasproperty'] small ['relatedto'] stick ['mannerof'] pierce
+needle ['hasproperty'] small ['relatedto'] cut ['entails'] pierce
+needle ['relatedto'] body ['relatedto', 'partof', 'atlocation'] skin ['relatedto'] pierce
+needle ['relatedto'] body ['relatedto'] cut ['entails'] pierce
+needle ['relatedto'] body ['relatedto'] tap ['mannerof'] pierce
+needle ['usedfor'] repair ['relatedto', 'synonym'] fix ['relatedto'] pierce
+needle ['usedfor'] repair ['antonym'] break ['relatedto'] pierce
+needle ['relatedto'] long ['relatedto'] arrow ['usedfor'] pierce
+needle ['relatedto'] long ['relatedto'] stick ['mannerof'] pierce
+needle ['relatedto'] thin ['relatedto'] stick ['mannerof'] pierce
+needle ['relatedto'] shot ['relatedto'] fix ['relatedto'] pierce
+needle ['relatedto'] shot ['relatedto'] arrow ['usedfor'] pierce
+needle ['relatedto'] shot ['relatedto'] break ['relatedto'] pierce
+needle ['relatedto'] shot ['relatedto'] punch ['mannerof'] pierce
+needle ['relatedto'] shot ['synonym'] peg ['mannerof'] pierce
+needle ['relatedto'] shot ['synonym'] stab ['relatedto'] pierce
+needle ['usedfor', 'relatedto'] sew ['antonym'] cut ['entails'] pierce
+needle ['relatedto'] evergreen ['relatedto'] county_seat ['relatedto'] pierce
+needle ['relatedto'] evergreen ['relatedto'] usa ['relatedto'] pierce
+needle ['atlocation'] doctor ['relatedto', 'synonym'] fix ['relatedto'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] arrow ['usedfor'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] stick ['mannerof'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] cut ['entails'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] prick ['relatedto'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] stab ['relatedto'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] sting ['mannerof'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] tap ['mannerof'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] thorn ['relatedto'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] transfix ['mannerof', 'relatedto'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['synonym'] abrupt ['relatedto'] pierce
+needle ['relatedto', 'hasproperty'] sharp ['synonym'] penetrating ['relatedto'] pierce
+needle ['relatedto'] record ['relatedto'] break ['relatedto'] pierce
+needle ['relatedto'] record ['mannerof', 'relatedto'] cut ['entails'] pierce
+needle ['relatedto'] record ['relatedto'] hole ['relatedto'] pierce
+needle ['relatedto'] record ['relatedto'] tap ['mannerof'] pierce
+needle ['relatedto', 'partof'] eye ['isa', 'relatedto'] hole ['relatedto'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] fix ['relatedto'] pierce
+needle ['relatedto', 'partof'] point ['relatedto', 'partof'] arrow ['usedfor'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] stick ['mannerof'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] break ['relatedto'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] cut ['entails'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] beak ['relatedto'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] horn ['mannerof'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] prick ['relatedto'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] prong ['relatedto'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] sting ['mannerof'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] thorn ['relatedto'] pierce
+needle ['relatedto', 'partof'] point ['relatedto'] transfix ['mannerof', 'relatedto'] pierce
+needle ['relatedto'] rock ['relatedto'] sting ['mannerof'] pierce
+needle ['relatedto'] pointed ['relatedto'] arrow ['usedfor'] pierce
+needle ['relatedto'] pointed ['relatedto'] stick ['mannerof'] pierce
+needle ['relatedto'] pointed ['relatedto'] beak ['relatedto'] pierce
+needle ['relatedto'] pointed ['relatedto'] pertusion ['relatedto'] pierce
+needle ['relatedto'] pointed ['relatedto'] quill ['relatedto'] pierce
+needle ['relatedto'] pointed ['relatedto'] stab ['relatedto'] pierce
+needle ['synonym'] spine ['isa'] quill ['relatedto'] pierce
+needle ['synonym'] spine ['relatedto', 'synonym'] thorn ['relatedto'] pierce
+needle ['synonym'] spine ['synonym'] prickle ['mannerof'] pierce
+needle ['relatedto'] blunt ['synonym'] abrupt ['relatedto'] pierce
+needle ['relatedto'] steel ['relatedto'] lance ['mannerof', 'relatedto'] pierce
+needle ['relatedto'] steel ['relatedto'] javelin ['relatedto'] pierce
+needle ['relatedto'] stitch ['relatedto'] fix ['relatedto'] pierce
+needle ['relatedto'] stitch ['etymologicallyrelatedto'] stick ['mannerof'] pierce
+needle ['relatedto'] stitch ['relatedto'] skin ['relatedto'] pierce
+needle ['relatedto'] stitch ['antonym', 'relatedto'] cut ['entails'] pierce
+needle ['relatedto'] graph ['relatedto'] cut ['entails'] pierce
+needle ['relatedto'] graph ['relatedto'] hole ['relatedto'] pierce
+needle ['relatedto', 'derivedfrom'] needlestick ['derivedfrom'] stick ['mannerof'] pierce
+needle ['distinctfrom'] thread ['relatedto'] quill ['relatedto'] pierce
+needle ['formof', 'relatedto'] needles ['relatedto'] acanthesthesia ['relatedto'] pierce
+needle ['hasa', 'relatedto'] sharp_point ['relatedto'] thorn ['relatedto'] pierce
+needle ['isa'] rigid_portable_object ['isa'] stick ['mannerof'] pierce
+needle ['isa'] rigid_portable_object ['isa'] pick ['mannerof'] pierce
+needle ['isa'] shaft ['relatedto', 'partof'] arrow ['usedfor'] pierce
+needle ['isa'] shaft ['relatedto'] stick ['mannerof'] pierce

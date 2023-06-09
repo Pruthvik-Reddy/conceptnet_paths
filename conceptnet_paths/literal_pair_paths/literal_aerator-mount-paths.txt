@@ -1,0 +1,100 @@
+aerator ['relatedto'] device ['relatedto'] mount
+aerator ['relatedto'] air ['mannerof'] rerun ['mannerof'] mount
+aerator ['relatedto'] air ['relatedto'] heaven ['relatedto'] mount
+aerator ['relatedto'] charge ['relatedto'] amount ['relatedto'] mount
+aerator ['relatedto'] gas ['relatedto'] drive ['relatedto'] mount
+aerator ['relatedto'] liquid ['relatedto'] broach ['relatedto'] mount
+aerator ['relatedto'] liquid ['relatedto'] wax ['synonym'] mount
+aerator ['relatedto'] fungus ['isa', 'relatedto'] mushroom ['synonym'] mount
+aerator ['relatedto'] substance ['relatedto'] wax ['synonym'] mount
+aerator ['isa'] apparatus ['relatedto'] production ['relatedto'] mount
+aerator ['isa'] apparatus ['synonym'] device ['relatedto'] mount
+aerator ['relatedto'] device ['relatedto'] hand ['relatedto'] mount
+aerator ['relatedto'] device ['isa'] support ['relatedto'] mount
+aerator ['relatedto'] device ['isa', 'relatedto'] drive ['relatedto'] mount
+aerator ['relatedto'] device ['isa'] pylon ['relatedto'] mount
+aerator ['relatedto'] device ['relatedto'] headmount ['derivedfrom'] mount
+aerator ['relatedto'] fumigator ['isa'] device ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto'] base ['isa', 'relatedto'] support ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto'] base ['relatedto'] horse ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto'] base ['relatedto'] set ['similarto'] mount
+aerator ['relatedto'] air ['relatedto'] nothing ['antonym'] play ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto'] nothing ['relatedto'] amount ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto'] agent ['relatedto'] hand ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['antonym', 'distinctfrom', 'relatedto'] heaven ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['relatedto'] hill ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['relatedto'] mountain ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['relatedto'] star_trail ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom'] fire ['relatedto'] device ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom'] fire ['relatedto'] wax ['synonym'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['antonym', 'isa', 'relatedto'] hill ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['antonym'] mountain ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['atlocation'] litter ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] building ['isa'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] play ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] framework ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom'] land ['antonym', 'relatedto'] hill ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom'] land ['antonym', 'madeof', 'relatedto'] mountain ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom'] land ['relatedto'] play ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] vacuum ['relatedto'] device ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['atlocation'] backpack ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['hasprerequisite'] climb ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] launch ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] device ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'relatedto'] heat ['atlocation'] building ['isa'] mount
+aerator ['relatedto'] air ['antonym', 'relatedto'] heat ['relatedto'] setting ['synonym'] mount
+aerator ['relatedto'] air ['antonym', 'relatedto'] space ['relatedto'] set ['similarto'] mount
+aerator ['relatedto'] air ['antonym', 'relatedto'] space ['relatedto'] mate ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] wind ['relatedto'] back ['relatedto'] mount
+aerator ['relatedto'] air ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] wind ['isa'] influence ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] airport ['atlocation'] litter ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] bridge ['isa'] support ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] bridge ['relatedto'] building ['isa'] mount
+aerator ['relatedto'] air ['atlocation'] bridge ['relatedto'] device ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] bus ['atlocation'] litter ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] bus ['mannerof', 'relatedto'] ride ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['atlocation'] bus ['relatedto'] drive ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] house ['isa', 'relatedto'] building ['isa'] mount
+aerator ['relatedto'] air ['atlocation'] house ['isa'] play ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] house ['relatedto'] bank ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] house ['relatedto'] climb ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['atlocation'] house ['relatedto'] drive ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] house ['relatedto'] heaven ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] house ['relatedto'] wax ['synonym'] mount
+aerator ['relatedto'] air ['atlocation'] pocket ['atlocation'] hand ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] pocket ['atlocation'] horse ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] pocket ['relatedto'] play ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] sky ['relatedto'] building ['isa'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] sky ['relatedto', 'synonym'] heaven ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] sky ['relatedto'] mountain ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] sky ['relatedto'] soar ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] sky ['relatedto'] star_trail ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] space_shuttle ['relatedto'] mate ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] theatre ['relatedto', 'atlocation'] play ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] theatre ['relatedto'] production ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] train_station ['isa'] building ['isa'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] aircraft ['relatedto'] mate ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] aircraft ['relatedto'] flaptrack ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] arm ['hasa', 'relatedto', 'partof'] hand ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] bird ['relatedto'] climber ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] bird ['relatedto'] soar ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] birds ['capableof'] mate ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] butterfly ['relatedto'] hand ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] cloud ['relatedto'] bank ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] cloud ['isa'] mushroom ['synonym'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] cloud ['relatedto'] heaven ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] cloud ['relatedto'] hill ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] clouds ['relatedto'] mountain ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] clouds ['relatedto'] heaven ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] clouds ['isa'] play ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] dust ['relatedto'] set ['similarto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] dust ['atlocation'] building ['isa'] mount
+aerator ['relatedto'] air ['atlocation'] frisbee ['usedfor'] play ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] helicopter ['relatedto'] tail_rotor ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] humidity ['relatedto'] amount ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] kite ['relatedto'] climb ['relatedto', 'synonym'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] kite ['relatedto'] soar ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] molecule ['atlocation'] hand ['relatedto'] mount
+aerator ['relatedto'] air ['relatedto', 'atlocation'] molecule ['relatedto'] amount ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] moon ['relatedto'] heaven ['relatedto'] mount
+aerator ['relatedto'] air ['atlocation'] moon ['relatedto'] heavenly_body ['relatedto'] mount

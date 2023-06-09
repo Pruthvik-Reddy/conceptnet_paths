@@ -1,0 +1,100 @@
+law ['synonym'] act ['mannerof'] support ['synonym'] digest
+law ['synonym'] act ['relatedto'] drink ['relatedto'] digest
+law ['synonym'] act ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+law ['synonym'] act ['relatedto'] stand ['synonym'] digest
+law ['antonym', 'relatedto', 'synonym'] order ['mannerof', 'relatedto', 'synonym'] arrange ['synonym'] digest
+law ['antonym', 'relatedto', 'synonym'] order ['mannerof', 'relatedto'] systematize ['mannerof'] digest
+law ['etymologicallyrelatedto', 'relatedto'] lay ['antonym'] stand ['synonym'] digest
+law ['relatedto'] right ['mannerof'] change ['mannerof'] digest
+law ['relatedto'] bar ['isa'] support ['synonym'] digest
+law ['relatedto'] bar ['relatedto'] drink ['relatedto'] digest
+law ['relatedto'] bill ['relatedto'] pay ['mannerof'] digest
+law ['relatedto'] bill ['relatedto'] suffer ['synonym'] digest
+law ['relatedto'] break ['isa', 'mannerof', 'relatedto'] change ['mannerof'] digest
+law ['relatedto'] break ['relatedto'] disintegrate ['mannerof'] digest
+law ['relatedto'] brief ['relatedto'] encapsulate ['mannerof'] digest
+law ['relatedto'] business ['relatedto'] permit ['mannerof'] digest
+law ['relatedto'] case ['relatedto'] docket ['relatedto'] digest
+law ['relatedto'] consequence ['isa'] change ['mannerof'] digest
+law ['relatedto'] force ['relatedto'] change ['mannerof'] digest
+law ['relatedto'] state ['relatedto'] drink ['relatedto'] digest
+law ['relatedto'] state ['relatedto'] process ['mannerof'] digest
+law ['relatedto'] broken ['relatedto'] change ['mannerof'] digest
+law ['relatedto'] contract ['synonym'] condense ['synonym'] digest
+law ['relatedto'] contract ['relatedto'] telescope ['mannerof'] digest
+law ['relatedto'] contract ['synonym'] abridge ['mannerof'] digest
+law ['relatedto'] request ['isa', 'relatedto'] message ['relatedto'] digest
+law ['relatedto'] similar ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+law ['antonym'] disorder ['mannerof'] change ['mannerof'] digest
+law ['relatedto'] holding ['relatedto'] support ['synonym'] digest
+law ['relatedto'] holding ['relatedto'] stomach ['mannerof', 'synonym'] digest
+law ['relatedto'] function ['relatedto'] support ['synonym'] digest
+law ['isa'] ban ['antonym'] permit ['mannerof'] digest
+law ['relatedto'] firm ['relatedto'] stand ['synonym'] digest
+law ['relatedto'] study ['usedfor', 'hasfirstsubevent', 'entails'] read ['relatedto'] digest
+law ['relatedto'] study ['motivatedbygoal', 'hasfirstsubevent', 'hasprerequisite'] concentrate ['synonym'] digest
+law ['relatedto'] job ['relatedto'] pay ['mannerof'] digest
+law ['relatedto'] legal ['relatedto'] permit ['mannerof'] digest
+law ['relatedto'] legitimate ['relatedto'] accept ['mannerof'] digest
+law ['relatedto'] legitimate ['mannerof'] change ['mannerof'] digest
+law ['relatedto'] judge ['mannerof'] accept ['mannerof'] digest
+law ['relatedto'] judge ['mannerof'] stand ['synonym'] digest
+law ['isa'] collection ['isa'] compilation ['synonym'] digest
+law ['isa'] collection ['relatedto'] sylloge ['relatedto'] digest
+law ['isa', 'relatedto'] legal_document ['relatedto'] permit ['mannerof'] digest
+law ['relatedto'] amendment ['relatedto'] change ['mannerof'] digest
+law ['relatedto'] canon ['relatedto'] accept ['mannerof'] digest
+law ['relatedto'] court ['relatedto'] stand ['synonym'] digest
+law ['relatedto'] court ['relatedto'] docket ['relatedto'] digest
+law ['relatedto'] derivation ['relatedto'] process ['mannerof'] digest
+law ['relatedto'] distribution ['relatedto'] process ['mannerof'] digest
+law ['relatedto'] draft ['isa'] drink ['relatedto'] digest
+law ['relatedto'] influence ['isa'] support ['synonym'] digest
+law ['relatedto'] code ['relatedto'] message ['relatedto'] digest
+law ['relatedto'] document ['relatedto'] permit ['mannerof'] digest
+law ['relatedto'] document ['isa'] periodical ['isa'] digest
+law ['relatedto'] legislation ['relatedto'] process ['mannerof'] digest
+law ['relatedto'] mandate ['relatedto'] process ['mannerof'] digest
+law ['relatedto'] result ['relatedto'] digestion ['relatedto'] digest
+law ['relatedto'] uphold ['relatedto'] support ['synonym'] digest
+law ['relatedto'] writing ['antonym', 'relatedto'] read ['relatedto'] digest
+law ['relatedto'] writing ['relatedto'] message ['relatedto'] digest
+law ['relatedto'] writing ['relatedto'] process ['mannerof'] digest
+law ['relatedto'] written ['relatedto'] read ['relatedto'] digest
+law ['relatedto'] written ['relatedto'] message ['relatedto'] digest
+law ['relatedto'] monetary ['relatedto'] pay ['mannerof'] digest
+law ['relatedto'] petition ['relatedto'] compilation ['synonym'] digest
+law ['relatedto'] standard ['etymologicallyrelatedto'] stand ['synonym'] digest
+law ['relatedto'] standard ['relatedto'] support ['synonym'] digest
+law ['relatedto'] statement ['isa'] message ['relatedto'] digest
+law ['relatedto'] nom ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+law ['relatedto'] prescription ['relatedto'] process ['mannerof'] digest
+law ['relatedto'] privilege ['mannerof'] permit ['mannerof'] digest
+law ['relatedto'] tax ['relatedto'] pay ['mannerof'] digest
+law ['relatedto'] transgression ['relatedto'] accept ['mannerof'] digest
+law ['relatedto'] abolish ['relatedto'] destroy ['mannerof', 'relatedto'] consume ['entails'] digest
+law ['relatedto'] abolish ['relatedto'] destroy ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+law ['relatedto'] abolish ['relatedto'] end ['mannerof'] change ['mannerof'] digest
+law ['relatedto'] abolish ['relatedto'] system ['isa', 'relatedto'] digestive_system ['relatedto'] digest
+law ['relatedto'] abolish ['relatedto'] system ['relatedto'] systematize ['mannerof'] digest
+law ['relatedto'] abolish ['relatedto'] root ['mannerof', 'relatedto'] support ['synonym'] digest
+law ['relatedto'] abolish ['synonym'] invalidate ['mannerof'] change ['mannerof'] digest
+law ['relatedto'] relativity ['isa'] quality ['relatedto'] drink ['relatedto'] digest
+law ['relatedto'] relativity ['relatedto'] general ['relatedto'] drink ['relatedto'] digest
+law ['synonym'] act ['relatedto'] purpose ['relatedto'] support ['synonym'] digest
+law ['synonym'] act ['capableof'] humans ['capableof'] change ['mannerof'] digest
+law ['synonym'] act ['definedas'] proceed ['relatedto'] process ['mannerof'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] accept ['mannerof'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['isa', 'relatedto'] change ['mannerof'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] docket ['relatedto'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] drink ['relatedto'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto', 'synonym'] pay ['mannerof'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] read ['relatedto'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] reduce ['relatedto'] digest
+law ['synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['synonym'] process ['mannerof'] digest
+law ['synonym'] act ['mannerof', 'relatedto', 'derivedfrom'] react ['mannerof'] accept ['mannerof'] digest
+law ['synonym'] act ['derivedfrom'] read_someone_riot_act ['derivedfrom'] read ['relatedto'] digest
+law ['synonym'] act ['derivedfrom'] support_act ['derivedfrom'] support ['synonym'] digest
+law ['synonym'] act ['isa'] acquiring ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+law ['synonym'] act ['isa'] legal_document ['relatedto'] permit ['mannerof'] digest

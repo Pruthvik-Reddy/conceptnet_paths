@@ -1,0 +1,100 @@
+surface ['relatedto'] plain ['relatedto'] dull
+surface ['relatedto'] edge ['antonym'] dull
+surface ['relatedto'] point ['antonym'] dull
+surface ['relatedto'] polish ['antonym'] dull
+surface ['relatedto'] matting ['relatedto'] dull
+surface ['hasa'] earth ['relatedto'] tin ['relatedto'] dull
+surface ['isa', 'relatedto'] ground ['atlocation'] dog ['relatedto'] dull
+surface ['isa', 'relatedto'] ground ['relatedto'] plain ['relatedto'] dull
+surface ['isa', 'relatedto'] ground ['relatedto'] matted_glass ['relatedto'] dull
+surface ['isa', 'relatedto'] ground ['relatedto'] matting ['relatedto'] dull
+surface ['isa', 'relatedto'] ground ['relatedto'] tin ['relatedto'] dull
+surface ['relatedto'] land ['isa', 'relatedto'] plain ['relatedto'] dull
+surface ['relatedto'] land ['relatedto'] iron ['antonym', 'relatedto'] dull
+surface ['hasa'] water ['isa', 'relatedto', 'derivedfrom'] dishwater ['relatedto'] dull
+surface ['hasa'] water ['hasproperty'] beautiful ['antonym'] dull
+surface ['hasa'] water ['relatedto', 'hasproperty'] clear ['relatedto'] dull
+surface ['hasa'] water ['hasproperty'] cloudy ['relatedto'] dull
+surface ['hasa'] water ['relatedto', 'hasproperty'] colorless ['relatedto'] dull
+surface ['hasa'] water ['relatedto'] cloud ['mannerof'] dull
+surface ['hasa'] water ['relatedto'] fresh ['antonym'] dull
+surface ['relatedto'] apex ['relatedto'] point ['antonym'] dull
+surface ['distinctfrom'] bottom ['relatedto'] character ['antonym'] dull
+surface ['distinctfrom'] bottom ['relatedto'] iron ['antonym', 'relatedto'] dull
+surface ['mannerof'] well ['relatedto'] beautiful ['antonym'] dull
+surface ['mannerof'] well ['relatedto'] bright ['antonym', 'distinctfrom', 'relatedto'] dull
+surface ['relatedto'] bar ['relatedto'] abate ['synonym'] dull
+surface ['relatedto'] bar ['relatedto'] iron ['antonym', 'relatedto'] dull
+surface ['relatedto'] bar ['relatedto'] ordinary ['relatedto'] dull
+surface ['relatedto'] plate ['relatedto', 'atlocation'] knife ['hasproperty'] dull
+surface ['relatedto'] plate ['mannerof'] tin ['relatedto'] dull
+surface ['relatedto'] plate ['relatedto'] edge ['antonym'] dull
+surface ['relatedto'] top ['relatedto'] edge ['antonym'] dull
+surface ['relatedto'] top ['relatedto'] point ['antonym'] dull
+surface ['relatedto'] top ['relatedto'] cut ['relatedto'] dull
+surface ['relatedto'] top ['synonym'] clear ['relatedto'] dull
+surface ['relatedto'] plain ['relatedto'] boring ['relatedto', 'synonym'] dull
+surface ['relatedto'] plain ['antonym'] beautiful ['antonym'] dull
+surface ['relatedto'] plain ['antonym', 'distinctfrom'] fancy ['distinctfrom'] dull
+surface ['relatedto'] plain ['relatedto'] drab ['relatedto'] dull
+surface ['relatedto'] plain ['relatedto'] monochromatic ['relatedto'] dull
+surface ['relatedto'] plain ['relatedto', 'synonym'] ordinary ['relatedto'] dull
+surface ['relatedto'] plain ['relatedto'] blunt ['relatedto', 'similarto', 'synonym'] dull
+surface ['relatedto'] plain ['relatedto'] character ['antonym'] dull
+surface ['relatedto'] plain ['relatedto'] clear ['relatedto'] dull
+surface ['relatedto'] plain ['relatedto'] prosaic ['relatedto'] dull
+surface ['relatedto'] plain ['relatedto'] unpolished ['relatedto'] dull
+surface ['isa', 'relatedto'] bed ['atlocation'] dog ['relatedto'] dull
+surface ['isa', 'relatedto'] bed ['relatedto'] sleepy ['relatedto'] dull
+surface ['relatedto'] chair ['relatedto'] iron ['antonym', 'relatedto'] dull
+surface ['relatedto'] chair ['synonym'] moderate ['relatedto'] dull
+surface ['isa', 'relatedto'] floor ['relatedto'] polish ['antonym'] dull
+surface ['isa', 'relatedto'] plane ['relatedto'] plain ['relatedto'] dull
+surface ['isa', 'relatedto'] plane ['antonym'] point ['antonym'] dull
+surface ['isa', 'relatedto'] plane ['mannerof'] cut ['relatedto'] dull
+surface ['isa', 'relatedto'] plane ['relatedto'] ordinary ['relatedto'] dull
+surface ['isa', 'relatedto'] board ['relatedto'] plain ['relatedto'] dull
+surface ['isa', 'relatedto'] board ['relatedto'] cut ['relatedto'] dull
+surface ['isa', 'relatedto'] board ['relatedto'] iron ['antonym', 'relatedto'] dull
+surface ['isa', 'relatedto'] board ['relatedto'] point ['antonym'] dull
+surface ['isa', 'relatedto'] skin ['relatedto'] cut ['relatedto'] dull
+surface ['relatedto'] work ['relatedto', 'hasproperty'] boring ['relatedto', 'synonym'] dull
+surface ['relatedto'] work ['relatedto'] ache ['relatedto'] dull
+surface ['relatedto'] thin ['relatedto'] edge ['antonym'] dull
+surface ['relatedto'] thin ['relatedto'] tin ['relatedto'] dull
+surface ['relatedto'] thin ['similarto'] spiritless ['relatedto'] dull
+surface ['relatedto'] rough ['relatedto'] blockish ['relatedto'] dull
+surface ['relatedto'] rough ['relatedto', 'similarto'] unpolished ['relatedto'] dull
+surface ['relatedto'] case ['relatedto'] edge ['antonym'] dull
+surface ['relatedto'] case ['synonym'] character ['antonym'] dull
+surface ['relatedto'] flat ['similarto'] inactive ['synonym'] dull
+surface ['relatedto'] flat ['synonym'] boring ['relatedto', 'synonym'] dull
+surface ['relatedto'] flat ['isa', 'relatedto'] plain ['relatedto'] dull
+surface ['relatedto'] flat ['antonym', 'relatedto'] sharp ['antonym', 'relatedto'] dull
+surface ['relatedto'] flat ['antonym'] point ['antonym'] dull
+surface ['relatedto'] flat ['relatedto'] dowf ['relatedto'] dull
+surface ['relatedto'] flat ['relatedto'] edge ['antonym'] dull
+surface ['relatedto'] flat ['relatedto'] iron ['antonym', 'relatedto'] dull
+surface ['relatedto'] flat ['relatedto'] lusterless ['relatedto'] dull
+surface ['relatedto'] flat ['synonym'] matted ['similarto'] dull
+surface ['relatedto'] paper ['relatedto'] plain ['relatedto'] dull
+surface ['relatedto'] paper ['antonym', 'relatedto'] change ['mannerof'] dull
+surface ['relatedto'] paper ['relatedto', 'receivesaction'] cut ['relatedto'] dull
+surface ['relatedto'] line ['antonym', 'distinctfrom', 'relatedto'] point ['antonym'] dull
+surface ['relatedto'] line ['relatedto'] cut ['relatedto'] dull
+surface ['relatedto'] line ['relatedto', 'synonym'] edge ['antonym'] dull
+surface ['relatedto'] periphery ['relatedto'] edge ['antonym'] dull
+surface ['relatedto'] edge ['relatedto'] disedge ['relatedto'] dull
+surface ['relatedto'] edge ['relatedto'] cut ['relatedto'] dull
+surface ['relatedto'] edge ['relatedto'] interesting ['relatedto'] dull
+surface ['relatedto'] edge ['relatedto'] knife ['hasproperty'] dull
+surface ['relatedto'] edge ['relatedto'] point ['antonym'] dull
+surface ['relatedto'] edge ['relatedto'] sharp ['antonym', 'relatedto'] dull
+surface ['relatedto'] edge ['relatedto'] edgeless ['similarto'] dull
+surface ['relatedto'] edge ['relatedto'] obtund ['relatedto', 'synonym'] dull
+surface ['relatedto'] edge ['relatedto'] retund ['relatedto'] dull
+surface ['relatedto'] table ['atlocation'] dog ['relatedto'] dull
+surface ['relatedto'] table ['relatedto'] edge ['antonym'] dull
+surface ['relatedto'] table ['atlocation'] knife ['hasproperty'] dull
+surface ['relatedto'] table ['atlocation'] polish ['antonym'] dull
+surface ['relatedto'] table ['relatedto'] point ['antonym'] dull

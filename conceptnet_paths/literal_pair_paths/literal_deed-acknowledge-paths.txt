@@ -1,0 +1,100 @@
+deed ['relatedto', 'similarto', 'synonym'] action ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] action ['relatedto'] allow ['relatedto'] acknowledge
+deed ['relatedto'] good ['relatedto', 'synonym'] well ['relatedto'] acknowledge
+deed ['relatedto'] paper ['relatedto'] receipt ['synonym'] acknowledge
+deed ['relatedto'] done ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+deed ['relatedto', 'synonym'] contract ['mannerof', 'relatedto'] stipulate ['relatedto'] acknowledge
+deed ['synonym'] truth ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+deed ['synonym'] truth ['relatedto'] know ['synonym'] acknowledge
+deed ['relatedto'] degree ['isa'] low ['relatedto'] acknowledge
+deed ['relatedto'] degree ['relatedto'] well ['relatedto'] acknowledge
+deed ['relatedto'] favor ['causesdesire'] thank ['mannerof'] acknowledge
+deed ['relatedto'] favour ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+deed ['similarto', 'synonym'] fact ['relatedto'] knowledge ['relatedto'] acknowledge
+deed ['relatedto'] legal ['relatedto'] allow ['relatedto'] acknowledge
+deed ['relatedto'] reward ['relatedto'] well ['relatedto'] acknowledge
+deed ['relatedto'] reward ['relatedto'] thank ['mannerof'] acknowledge
+deed ['relatedto'] reward ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+deed ['relatedto'] reward ['relatedto'] recognition ['relatedto'] acknowledge
+deed ['relatedto'] covenant ['mannerof'] confirm ['synonym'] acknowledge
+deed ['relatedto'] covenant ['mannerof'] communicate ['mannerof'] acknowledge
+deed ['relatedto', 'synonym'] document ['mannerof'] confirm ['synonym'] acknowledge
+deed ['relatedto'] issue ['mannerof'] communicate ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['antonym'] real ['relatedto', 'synonym'] genuine ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['capableof'] humans ['capableof'] appreciate ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['definedas'] proceed ['relatedto'] genuine ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['definedas'] proceed ['relatedto'] valid ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] allow ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof', 'relatedto', 'derivedfrom'] interact ['mannerof'] communicate ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof', 'relatedto', 'derivedfrom'] react ['mannerof'] accept ['mannerof', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof', 'relatedto', 'derivedfrom'] react ['mannerof'] notice ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['entails'] enter ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof', 'relatedto', 'hasprerequisite'] perform ['motivatedbygoal'] recognition ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['isa'] communication ['relatedto', 'derivedfrom'] communicate ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['isa', 'relatedto'] crime ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['isa'] injury ['relatedto'] receipt ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['isa'] judgment ['relatedto'] sell_oneself_short ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] serve ['mannerof'] admit ['relatedto', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof', 'relatedto'] anticipate ['mannerof', 'relatedto'] know ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] condescend ['relatedto'] vouchsafe ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] continue ['relatedto'] con ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] go ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] go ['relatedto'] valid ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] joke ['mannerof'] communicate ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['relatedto'] notice ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] reward ['relatedto'] well ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] reward ['relatedto'] thank ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] reward ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] reward ['relatedto'] recognition ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] support ['relatedto'] anonymous ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] support ['synonym'] confirm ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] surprise ['distinctfrom', 'relatedto'] know ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['mannerof'] swell ['relatedto', 'synonym'] well ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] fake ['antonym'] genuine ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] give ['mannerof', 'relatedto'] accept ['mannerof', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] give ['mannerof', 'relatedto', 'synonym'] allow ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] give ['mannerof'] concede ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] give ['mannerof'] communicate ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] give ['relatedto'] begreet ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] give ['relatedto'] receipt ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] give ['relatedto'] thanksgiver ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] performing ['relatedto'] allow ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] respond ['haslastsubevent'] communicate ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['usedfor', 'relatedto'] role ['relatedto'] knowledge ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] screen ['isa', 'synonym'] blind ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] skill ['relatedto'] knowledge ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] skill ['relatedto'] know ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] someone ['relatedto'] allow ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] someone ['relatedto'] recognition ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] someone ['relatedto'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] degree ['isa'] low ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] degree ['relatedto'] well ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] bishop ['relatedto'] confirm ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] bless ['relatedto'] well ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] bless ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] concession ['relatedto'] concede ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] concession ['relatedto'] acknowledge_corn ['derivedfrom'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] concession ['isa'] assent ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] conclusion ['relatedto'] valid ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] cry ['relatedto'] notify ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] delibidinization ['relatedto'] knowledge ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] entertain ['haslastsubevent'] thank ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] entertain ['hasprerequisite'] know ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] fast ['antonym', 'distinctfrom'] low ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] favour ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] fraud ['relatedto'] con ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] fraud ['antonym', 'distinctfrom'] genuine ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] good ['relatedto', 'synonym'] well ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] grow ['hasproperty'] anonymous ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] guilty ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] keep ['relatedto'] notice ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] laugh ['formof'] low ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] listen ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] listen ['haslastsubevent', 'hasprerequisite'] communicate ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] listen ['relatedto'] assent ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] manners ['relatedto'] well ['relatedto'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] manners ['relatedto'] thank ['mannerof'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] observation ['relatedto', 'synonym'] notice ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] office ['relatedto'] receipt ['synonym'] acknowledge
+deed ['relatedto', 'similarto', 'synonym'] act ['relatedto'] parent ['relatedto'] unparented ['relatedto'] acknowledge

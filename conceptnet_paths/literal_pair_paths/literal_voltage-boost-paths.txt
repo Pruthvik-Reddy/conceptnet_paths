@@ -1,0 +1,100 @@
+voltage ['relatedto'] booster ['relatedto', 'derivedfrom'] boost
+voltage ['relatedto'] direct_current ['relatedto'] booster ['relatedto', 'derivedfrom'] boost
+voltage ['relatedto'] charge ['relatedto'] advance ['synonym'] boost
+voltage ['relatedto'] charge ['relatedto'] supercharge ['synonym'] boost
+voltage ['relatedto'] energy ['synonym'] push ['isa', 'relatedto'] boost
+voltage ['relatedto'] overvolt ['relatedto'] increase ['mannerof'] boost
+voltage ['relatedto'] booster ['derivedfrom'] boosterism ['derivedfrom'] boost
+voltage ['relatedto'] booster ['relatedto'] thrust ['mannerof'] boost
+voltage ['relatedto'] booster ['relatedto'] unboosted ['relatedto'] boost
+voltage ['relatedto'] booster ['synonym'] booster_shot ['relatedto'] boost
+voltage ['relatedto'] amplification ['isa'] increase ['mannerof'] boost
+voltage ['isa'] multi_dimensional_quantity ['isa'] pressure ['relatedto'] boost
+voltage ['relatedto'] dynatron ['relatedto'] increase ['mannerof'] boost
+voltage ['relatedto'] ferranti_effect ['relatedto'] increase ['mannerof'] boost
+voltage ['relatedto'] snubber ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] potential ['relatedto'] future ['relatedto'] advance ['synonym'] boost
+voltage ['relatedto'] potential ['relatedto'] drive ['relatedto'] advance ['synonym'] boost
+voltage ['relatedto'] potential ['relatedto'] drive ['isa'] lift ['relatedto'] boost
+voltage ['relatedto'] potential ['relatedto'] drive ['mannerof', 'relatedto'] push ['isa', 'relatedto'] boost
+voltage ['relatedto'] potential ['relatedto'] drive ['synonym'] thrust ['mannerof'] boost
+voltage ['relatedto'] potential ['relatedto'] energy ['synonym'] push ['isa', 'relatedto'] boost
+voltage ['relatedto'] potential ['relatedto'] ground ['relatedto'] advance ['synonym'] boost
+voltage ['relatedto'] potential ['relatedto'] hard_sell ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] potential ['relatedto'] killer_application ['relatedto'] software ['isa'] boost
+voltage ['relatedto'] potential ['relatedto'] market ['relatedto'] promote ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto'] human ['relatedto'] agonistic_monoclonal_antibody ['relatedto'] boost
+voltage ['relatedto'] earth ['antonym', 'distinctfrom', 'relatedto'] air ['hasa', 'relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'synonym'] lift ['relatedto'] boost
+voltage ['relatedto'] earth ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] supercharge ['synonym'] boost
+voltage ['relatedto'] earth ['antonym', 'distinctfrom', 'relatedto', 'partof'] sky ['relatedto', 'synonym'] lift ['relatedto'] boost
+voltage ['relatedto'] earth ['mannerof', 'relatedto', 'synonym', 'atlocation'] ground ['relatedto'] advance ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto', 'atlocation'] fox ['relatedto'] ginger ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land ['relatedto'] thrust ['mannerof'] boost
+voltage ['relatedto'] earth ['capableof'] rotate ['relatedto'] advance ['synonym'] boost
+voltage ['relatedto'] earth ['hasa', 'relatedto', 'partof'] atmosphere ['relatedto', 'synonym'] lift ['relatedto'] boost
+voltage ['relatedto'] earth ['hasa'] surface ['relatedto', 'synonym'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['hasa'] surface ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['isa', 'relatedto'] planet ['relatedto'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['isa'] material ['relatedto'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['isa'] material ['relatedto'] aid ['isa'] boost
+voltage ['relatedto'] earth ['relatedto'] aeration_zone ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] barometric_pressure ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] barrow ['relatedto'] raise ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] barrow ['relatedto'] push ['isa', 'relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] break_ground ['relatedto'] advance ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto'] break_ground ['relatedto'] lift ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] carry ['mannerof'] promote ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto'] carry ['relatedto'] lift ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] dig ['mannerof', 'relatedto'] thrust ['mannerof'] boost
+voltage ['relatedto'] earth ['relatedto'] dig ['mannerof'] lift ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] ball ['isa'] software ['isa'] boost
+voltage ['relatedto'] earth ['relatedto'] big ['relatedto'] increase ['mannerof'] boost
+voltage ['relatedto'] earth ['relatedto'] fire ['isa'] software ['isa'] boost
+voltage ['relatedto'] earth ['relatedto'] home ['relatedto'] raise ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] large ['relatedto'] increase ['mannerof'] boost
+voltage ['relatedto'] earth ['relatedto'] lives ['isa'] software ['isa'] boost
+voltage ['relatedto'] earth ['relatedto'] marble ['isa'] software ['isa'] boost
+voltage ['relatedto'] earth ['relatedto'] men ['relatedto'] ginger ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] mother ['relatedto'] bellyband ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] name ['relatedto'] ginger ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] plant ['relatedto'] ginger ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] stuff ['synonym'] thrust ['mannerof'] boost
+voltage ['relatedto'] earth ['relatedto'] sun ['antonym', 'relatedto'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto'] fertile ['relatedto'] increase ['mannerof'] boost
+voltage ['relatedto'] earth ['relatedto'] earthrise ['derivedfrom'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto'] geostatic ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] geostatic_arch ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] global_warming ['relatedto'] increase ['mannerof'] boost
+voltage ['relatedto'] earth ['relatedto'] gnome ['isa', 'relatedto'] software ['isa'] boost
+voltage ['relatedto'] earth ['relatedto'] hill ['relatedto'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto'] horizon ['relatedto'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto'] isograd ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] isostasy ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] majorite ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] metamorphic_rock ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] nether ['relatedto'] thrust ['mannerof'] boost
+voltage ['relatedto'] earth ['relatedto'] plutonism ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] quake ['relatedto'] software ['isa'] boost
+voltage ['relatedto'] earth ['relatedto'] roller ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] shaft ['relatedto'] lift ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] shaft ['relatedto'] bellyband ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] slide ['relatedto'] push ['isa', 'relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] stone ['relatedto'] raise ['relatedto'] boost
+voltage ['relatedto'] earth ['relatedto'] tin ['isa'] software ['isa'] boost
+voltage ['relatedto'] earth ['relatedto'] upheaval ['isa'] rise ['synonym'] boost
+voltage ['relatedto'] earth ['relatedto'] upthrust ['relatedto', 'derivedfrom'] thrust ['mannerof'] boost
+voltage ['relatedto'] earth ['relatedto'] wind ['relatedto'] pressure ['relatedto'] boost
+voltage ['relatedto'] direct_current ['relatedto'] booster ['derivedfrom'] boosterism ['derivedfrom'] boost
+voltage ['relatedto'] direct_current ['relatedto'] booster ['relatedto'] thrust ['mannerof'] boost
+voltage ['relatedto'] direct_current ['relatedto'] booster ['relatedto'] unboosted ['relatedto'] boost
+voltage ['relatedto'] direct_current ['relatedto'] booster ['synonym'] booster_shot ['relatedto'] boost
+voltage ['relatedto'] direct_current ['relatedto'] flow ['relatedto'] rise ['synonym'] boost
+voltage ['relatedto'] anode ['isa'] terminal ['isa'] software ['isa'] boost
+voltage ['relatedto'] anode ['relatedto'] metal ['relatedto'] steal ['relatedto'] boost
+voltage ['relatedto'] anode ['relatedto'] oxidation ['relatedto'] increase ['mannerof'] boost
+voltage ['relatedto'] cathode ['relatedto'] reduction ['antonym'] increase ['mannerof'] boost
+voltage ['relatedto'] cathode ['isa'] terminal ['isa'] software ['isa'] boost
+voltage ['relatedto'] cathode ['relatedto'] battery ['relatedto'] jump_start ['synonym'] boost
+voltage ['relatedto'] cathode ['relatedto'] metal ['relatedto'] steal ['relatedto'] boost

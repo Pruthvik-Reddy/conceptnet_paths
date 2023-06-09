@@ -1,0 +1,100 @@
+camp ['relatedto'] pit ['relatedto'] trench
+camp ['relatedto'] action ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] action ['relatedto'] put ['mannerof'] trench
+camp ['relatedto'] activity ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] fire ['relatedto'] fire_bay ['relatedto'] trench
+camp ['relatedto'] fire ['relatedto'] fire_trench ['isa', 'relatedto'] trench
+camp ['relatedto'] fire ['synonym'] retrench ['etymologicallyrelatedto', 'relatedto'] trench
+camp ['relatedto'] ground ['relatedto', 'atlocation'] hole ['relatedto'] trench
+camp ['relatedto'] ground ['relatedto', 'atlocation'] pit ['relatedto'] trench
+camp ['relatedto'] ground ['mannerof'] put ['mannerof'] trench
+camp ['relatedto'] ground ['relatedto'] deep ['relatedto', 'synonym'] trench
+camp ['relatedto'] ground ['relatedto'] ditch ['isa', 'relatedto', 'synonym'] trench
+camp ['relatedto'] ground ['relatedto'] line ['relatedto'] trench
+camp ['relatedto'] together ['antonym', 'distinctfrom'] cut ['mannerof'] trench
+camp ['relatedto'] go ['relatedto'] authority ['relatedto'] trench
+camp ['relatedto'] sleep ['relatedto'] deep ['relatedto', 'synonym'] trench
+camp ['distinctfrom', 'relatedto'] home ['relatedto'] line ['relatedto'] trench
+camp ['distinctfrom', 'relatedto'] home ['relatedto'] deep ['relatedto', 'synonym'] trench
+camp ['isa', 'relatedto'] band ['relatedto'] line ['relatedto'] trench
+camp ['isa', 'relatedto'] band ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] green ['relatedto', 'atlocation'] hole ['relatedto'] trench
+camp ['relatedto'] green ['relatedto'] put ['mannerof'] trench
+camp ['relatedto'] center ['relatedto'] line ['relatedto'] trench
+camp ['relatedto'] build ['relatedto'] put ['mannerof'] trench
+camp ['isa', 'relatedto'] place ['relatedto', 'similarto', 'synonym'] put ['mannerof'] trench
+camp ['isa', 'relatedto'] place ['relatedto', 'atlocation'] line ['relatedto'] trench
+camp ['isa', 'relatedto'] shelter ['relatedto'] rifle_pit ['relatedto'] trench
+camp ['isa', 'relatedto'] site ['isa'] dig ['mannerof'] trench
+camp ['isa', 'relatedto'] site ['relatedto'] excavation ['relatedto'] trench
+camp ['mannerof'] change ['mannerof'] right ['relatedto'] trench
+camp ['mannerof'] change ['mannerof'] put ['mannerof'] trench
+camp ['mannerof', 'relatedto'] pitch ['relatedto'] deep ['relatedto', 'synonym'] trench
+camp ['mannerof', 'relatedto'] pitch ['relatedto'] chase ['relatedto'] trench
+camp ['mannerof', 'relatedto'] pitch ['relatedto'] sap ['relatedto'] trench
+camp ['mannerof'] inhabit ['mannerof'] invade ['relatedto'] trench
+camp ['relatedto'] area ['isa', 'relatedto'] pit ['relatedto'] trench
+camp ['relatedto'] bag ['synonym'] grip ['relatedto'] trench
+camp ['relatedto'] boot ['relatedto'] trench_boot ['derivedfrom'] trench
+camp ['relatedto'] characteristic ['synonym'] exclusive ['relatedto'] trench
+camp ['relatedto'] city ['atlocation'] excavation ['relatedto'] trench
+camp ['relatedto'] escape ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] field ['relatedto'] iron_harvest ['relatedto'] trench
+camp ['relatedto'] fire_pit ['isa'] pit ['relatedto'] trench
+camp ['relatedto'] forest ['relatedto'] deep ['relatedto', 'synonym'] trench
+camp ['relatedto'] grass ['hasa'] cut ['mannerof'] trench
+camp ['relatedto'] great ['synonym'] deep ['relatedto', 'synonym'] trench
+camp ['relatedto'] group ['relatedto'] right ['relatedto'] trench
+camp ['relatedto'] group ['formof', 'etymologicallyrelatedto'] groop ['relatedto'] trench
+camp ['relatedto'] habitation ['relatedto'] moat ['isa'] trench
+camp ['relatedto'] hunting ['relatedto'] chase ['relatedto'] trench
+camp ['relatedto'] kids ['hasa'] chase ['relatedto'] trench
+camp ['relatedto'] lake ['relatedto'] ditch ['isa', 'relatedto', 'synonym'] trench
+camp ['relatedto'] lake ['relatedto'] pit ['relatedto'] trench
+camp ['relatedto'] location ['isa'] line ['relatedto'] trench
+camp ['relatedto'] lodge ['relatedto'] authority ['relatedto'] trench
+camp ['relatedto'] log ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] memory ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] military ['relatedto'] trench_coat ['relatedto', 'derivedfrom'] trench
+camp ['relatedto'] military ['relatedto'] warfare ['relatedto'] trench
+camp ['relatedto'] outdoor ['relatedto'] coat ['relatedto'] trench
+camp ['relatedto'] outdoors ['relatedto'] coat ['relatedto'] trench
+camp ['relatedto'] outside ['similarto'] right ['relatedto'] trench
+camp ['relatedto'] outside ['relatedto'] coat ['relatedto'] trench
+camp ['relatedto'] park ['mannerof', 'relatedto'] put ['mannerof'] trench
+camp ['relatedto'] pit ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] pit ['isa'] excavation ['relatedto'] trench
+camp ['relatedto'] pit ['isa', 'relatedto'] hole ['relatedto'] trench
+camp ['relatedto'] pit ['relatedto'] inspection_pit ['relatedto'] trench
+camp ['relatedto'] pit ['relatedto'] latrine ['relatedto'] trench
+camp ['relatedto'] play ['atlocation'] line ['relatedto'] trench
+camp ['relatedto'] settlement ['relatedto'] right ['relatedto'] trench
+camp ['relatedto'] shorter ['relatedto'] put ['mannerof'] trench
+camp ['relatedto'] travel ['antonym'] put ['mannerof'] trench
+camp ['relatedto'] trees ['relatedto'] sap ['relatedto'] trench
+camp ['relatedto'] trip ['relatedto'] perpendicular ['relatedto'] trench
+camp ['relatedto'] usually ['relatedto'] line ['relatedto'] trench
+camp ['relatedto'] war ['isa'] trench_warfare ['relatedto', 'derivedfrom'] trench
+camp ['relatedto'] war ['relatedto', 'synonym'] warfare ['relatedto'] trench
+camp ['relatedto'] wilderness ['relatedto'] deep ['relatedto', 'synonym'] trench
+camp ['relatedto'] burrow ['mannerof', 'relatedto'] dig ['mannerof'] trench
+camp ['relatedto'] burrow ['isa', 'relatedto'] hole ['relatedto'] trench
+camp ['relatedto'] conflict ['relatedto'] warfare ['relatedto'] trench
+camp ['relatedto'] fight ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] moot ['etymologicallyrelatedto'] mote ['relatedto'] trench
+camp ['relatedto'] wood ['relatedto', 'receivesaction'] cut ['mannerof'] trench
+camp ['synonym'] clique ['relatedto'] exclusive ['relatedto'] trench
+camp ['relatedto'] base ['synonym'] establish ['relatedto'] entrench ['relatedto', 'derivedfrom', 'synonym'] trench
+camp ['relatedto'] base ['synonym'] establish ['relatedto'] line ['relatedto'] trench
+camp ['relatedto'] base ['antonym', 'relatedto', 'synonym'] home ['relatedto'] line ['relatedto'] trench
+camp ['relatedto'] base ['antonym', 'relatedto', 'synonym'] home ['relatedto'] deep ['relatedto', 'synonym'] trench
+camp ['relatedto'] base ['antonym', 'relatedto'] plate ['mannerof'] coat ['relatedto'] trench
+camp ['relatedto'] base ['antonym', 'relatedto'] plate ['relatedto'] chase ['relatedto'] trench
+camp ['relatedto'] base ['antonym', 'relatedto'] plate ['relatedto'] gully ['relatedto'] trench
+camp ['relatedto'] base ['antonym', 'relatedto'] plate ['relatedto'] put ['mannerof'] trench
+camp ['relatedto'] base ['antonym', 'relatedto'] plate ['relatedto'] trencher ['etymologicallyrelatedto', 'relatedto'] trench
+camp ['relatedto'] base ['antonym', 'distinctfrom'] top ['relatedto'] coat ['relatedto'] trench
+camp ['relatedto'] base ['antonym', 'distinctfrom'] top ['relatedto'] cut ['mannerof'] trench
+camp ['relatedto'] base ['antonym'] admirable ['relatedto'] grip ['relatedto'] trench
+camp ['relatedto'] base ['antonym'] apex ['relatedto'] deep ['relatedto', 'synonym'] trench
+camp ['relatedto'] base ['derivedfrom'] isobase ['relatedto'] line ['relatedto'] trench

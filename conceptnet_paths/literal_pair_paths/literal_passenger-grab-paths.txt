@@ -1,0 +1,100 @@
+passenger ['relatedto'] stop ['antonym', 'distinctfrom', 'relatedto'] move ['mannerof'] grab
+passenger ['relatedto'] stop ['relatedto', 'synonym'] arrest ['relatedto'] grab
+passenger ['relatedto'] stop ['relatedto'] mechanical ['relatedto'] grab
+passenger ['relatedto'] stop ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] stop ['relatedto'] touch ['relatedto'] grab
+passenger ['relatedto'] stop ['synonym'] catch ['relatedto', 'synonym'] grab
+passenger ['relatedto'] boat ['isa', 'relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] boat ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] boat ['usedfor', 'relatedto'] mast ['relatedto'] grab
+passenger ['relatedto'] boat ['relatedto'] catch ['relatedto', 'synonym'] grab
+passenger ['relatedto', 'atlocation'] car ['relatedto'] handle ['relatedto'] grab
+passenger ['relatedto', 'atlocation'] car ['partof'] clutch ['relatedto', 'synonym'] grab
+passenger ['relatedto', 'atlocation'] car ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto', 'atlocation'] car ['relatedto'] mechanical ['relatedto'] grab
+passenger ['relatedto', 'atlocation'] car ['relatedto'] grip ['relatedto'] grab
+passenger ['relatedto', 'atlocation'] car ['relatedto'] smash ['relatedto'] grab
+passenger ['relatedto'] ferry ['relatedto'] move ['mannerof'] grab
+passenger ['relatedto'] bus ['atlocation'] use ['usedfor'] grab
+passenger ['antonym', 'distinctfrom', 'relatedto'] drive ['mannerof'] pull ['relatedto'] grab
+passenger ['antonym', 'distinctfrom', 'relatedto'] drive ['isa', 'relatedto'] device ['relatedto'] grab
+passenger ['antonym', 'distinctfrom', 'relatedto'] drive ['mannerof', 'relatedto', 'synonym'] move ['mannerof'] grab
+passenger ['antonym', 'distinctfrom', 'relatedto'] drive ['relatedto'] use ['usedfor'] grab
+passenger ['antonym', 'distinctfrom', 'relatedto'] driver ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] aircraft ['relatedto'] hold ['relatedto'] grab
+passenger ['relatedto'] automobile ['partof'] clutch ['relatedto', 'synonym'] grab
+passenger ['relatedto'] barge ['relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] elevator ['isa'] mechanical_device ['isa'] grab
+passenger ['relatedto'] flyboat ['relatedto'] coast ['relatedto'] grab
+passenger ['relatedto'] flyboat ['relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] fuselage ['isa'] mechanical_device ['isa'] grab
+passenger ['relatedto'] jet_bridge ['relatedto'] use ['usedfor'] grab
+passenger ['relatedto', 'synonym'] rider ['relatedto'] hold ['relatedto'] grab
+passenger ['relatedto'] vehicle ['relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] vehicle ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] payload ['isa'] device ['relatedto'] grab
+passenger ['relatedto'] pedage ['relatedto'] tax ['relatedto'] grab
+passenger ['relatedto'] platform ['relatedto'] hold ['relatedto'] grab
+passenger ['relatedto'] port ['relatedto'] coast ['relatedto'] grab
+passenger ['relatedto'] port ['relatedto', 'atlocation'] vessel ['relatedto'] grab
+passenger ['relatedto'] ride ['isa'] mechanical_device ['isa'] grab
+passenger ['relatedto'] ride ['relatedto'] move ['mannerof'] grab
+passenger ['relatedto'] ride ['relatedto'] use ['usedfor'] grab
+passenger ['relatedto'] seat_belt ['isa'] mechanical_device ['isa'] grab
+passenger ['relatedto'] transport ['mannerof', 'relatedto'] move ['mannerof'] grab
+passenger ['relatedto'] transport ['relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] transport ['relatedto'] tong ['relatedto'] grab
+passenger ['relatedto'] transport ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] yacht ['isa'] vessel ['relatedto'] grab
+passenger ['relatedto'] bird ['antonym'] human ['relatedto'] touch ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'atlocation'] air ['relatedto'] coast ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'atlocation'] air ['relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] bird ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] mechanical ['relatedto'] grab
+passenger ['relatedto'] bird ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] move ['mannerof'] grab
+passenger ['relatedto'] bird ['antonym'] fish ['mannerof'] catch ['relatedto', 'synonym'] grab
+passenger ['relatedto'] bird ['atlocation'] bush ['relatedto'] tax ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'atlocation'] cage ['relatedto'] hold ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'atlocation'] nest ['relatedto'] use ['usedfor'] grab
+passenger ['relatedto'] bird ['atlocation'] sea ['antonym', 'relatedto'] coast ['relatedto'] grab
+passenger ['relatedto'] bird ['atlocation'] sea ['relatedto', 'atlocation'] vessel ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'atlocation'] tree ['relatedto'] mast ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'partof', 'atlocation'] feather ['usedfor'] tickle ['hasprerequisite'] grab
+passenger ['relatedto'] bird ['usedfor', 'relatedto', 'partof', 'atlocation'] wing ['relatedto'] hold ['relatedto'] grab
+passenger ['relatedto'] bird ['usedfor', 'relatedto', 'partof', 'atlocation'] wing ['isa'] mechanical_device ['isa'] grab
+passenger ['relatedto'] bird ['usedfor', 'relatedto', 'partof', 'atlocation'] wing ['relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] bird ['capableof', 'relatedto', 'desires'] fly ['mannerof'] move ['mannerof'] grab
+passenger ['relatedto'] bird ['capableof', 'relatedto', 'desires'] fly ['relatedto'] use ['usedfor'] grab
+passenger ['relatedto'] bird ['capableof', 'relatedto'] squawk ['synonym'] gripe ['relatedto'] grab
+passenger ['relatedto'] bird ['derivedfrom'] bower_bird ['relatedto'] collect ['relatedto'] grab
+passenger ['relatedto'] bird ['derivedfrom'] bird_feeder ['isa'] device ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'derivedfrom'] birdcall ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'derivedfrom'] birdcatcher ['relatedto'] catch ['relatedto', 'synonym'] grab
+passenger ['relatedto'] bird ['distinctfrom', 'relatedto'] bat ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] bird ['distinctfrom', 'relatedto'] bat ['relatedto'] handle ['relatedto'] grab
+passenger ['relatedto'] bird ['distinctfrom', 'relatedto'] bat ['relatedto'] swipe ['relatedto'] grab
+passenger ['relatedto'] bird ['isa'] african_penguin ['relatedto'] coast ['relatedto'] grab
+passenger ['relatedto'] bird ['isa'] meat ['etymologicallyrelatedto'] mast ['relatedto'] grab
+passenger ['relatedto'] bird ['isa'] meat ['relatedto'] collar ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] chicken ['relatedto'] clutch ['relatedto', 'synonym'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] cock ['relatedto'] nab ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] crane ['isa'] mechanical_device ['isa'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] crane ['relatedto'] grabber ['relatedto', 'derivedfrom'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] crane ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] crane ['relatedto'] mechanical ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] dipper ['relatedto'] handle ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] dipper ['relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] bird ['isa'] grouse ['synonym'] gripe ['relatedto'] grab
+passenger ['relatedto'] bird ['isa'] king_penguin ['relatedto'] coast ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] kite ['mannerof'] obtain ['mannerof'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] rail ['derivedfrom'] grabrail ['derivedfrom'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] raven ['mannerof', 'relatedto'] seize ['mannerof', 'relatedto', 'synonym'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] raven ['relatedto'] obtain ['mannerof'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] roller ['relatedto'] coast ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] roller ['relatedto'] device ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] ruff ['relatedto'] collar ['relatedto'] grab
+passenger ['relatedto'] bird ['isa'] stilt ['relatedto'] handle ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] swallow ['relatedto'] move ['mannerof'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] swallow ['relatedto'] consume ['relatedto'] grab
+passenger ['relatedto'] bird ['isa', 'relatedto'] vulture ['relatedto'] gripe ['relatedto'] grab
+passenger ['relatedto'] bird ['relatedto', 'partof'] beak ['relatedto'] vessel ['relatedto'] grab
+passenger ['relatedto'] bird ['partof'] furcula ['relatedto'] catch ['relatedto', 'synonym'] grab

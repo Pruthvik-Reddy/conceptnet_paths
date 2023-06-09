@@ -1,0 +1,100 @@
+critic ['relatedto'] criticize ['antonym'] praise ['mannerof'] puff
+critic ['relatedto'] crisis ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] appraise ['relatedto'] praise ['mannerof'] puff
+critic ['relatedto'] fault ['isa'] tangible_thing ['isa'] puff
+critic ['isa'] professional ['isa'] adult ['relatedto'] sheep ['relatedto'] puff
+critic ['isa'] professional ['relatedto'] function ['relatedto'] breath ['relatedto'] puff
+critic ['isa'] professional ['relatedto'] gun_shearer ['relatedto'] sheep ['relatedto'] puff
+critic ['isa'] professional ['relatedto'] livelihood ['etymologicallyrelatedto', 'relatedto'] life ['relatedto'] puff
+critic ['isa'] professional ['relatedto'] money ['relatedto'] cake ['relatedto'] puff
+critic ['isa'] professional ['relatedto'] living ['causes', 'relatedto', 'synonym', 'usedfor'] life ['relatedto'] puff
+critic ['isa'] professional ['relatedto'] living ['relatedto'] breath ['relatedto'] puff
+critic ['isa'] professional ['relatedto'] name ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+critic ['isa'] professional ['relatedto'] protest ['relatedto'] statement ['relatedto'] puff
+critic ['isa'] professional ['relatedto'] quack ['relatedto'] boast ['mannerof'] puff
+critic ['isa'] professional ['relatedto'] trade ['relatedto'] wind ['synonym'] puff
+critic ['relatedto'] critical ['relatedto'] shot ['isa'] blow ['mannerof', 'relatedto', 'synonym'] puff
+critic ['relatedto'] critical ['relatedto'] stable ['isa'] tangible_thing ['isa'] puff
+critic ['relatedto'] critical ['synonym'] essential ['relatedto'] cake ['relatedto'] puff
+critic ['relatedto'] critical ['synonym'] essential ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] condition ['relatedto'] cloud ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] condition ['isa'] statement ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] condition ['relatedto'] wind ['synonym'] puff
+critic ['relatedto'] critical ['distinctfrom'] laudatory ['relatedto'] praise ['mannerof'] puff
+critic ['relatedto'] critical ['distinctfrom'] praising ['formof', 'relatedto'] praise ['mannerof'] puff
+critic ['relatedto'] critical ['relatedto'] climacteric ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] crisis ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] critical_point ['relatedto'] gas ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] criticize ['antonym'] praise ['mannerof'] puff
+critic ['relatedto'] critical ['relatedto', 'synonym'] important ['hasproperty'] life ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] move ['mannerof', 'relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+critic ['relatedto'] critical ['relatedto'] move ['mannerof'] drag ['synonym'] puff
+critic ['relatedto'] critical ['relatedto'] move ['mannerof'] pull ['synonym'] puff
+critic ['relatedto'] critical ['relatedto'] move ['mannerof', 'relatedto'] draw ['synonym'] puff
+critic ['relatedto'] critical ['relatedto'] move ['mannerof', 'relatedto'] wind ['synonym'] puff
+critic ['relatedto'] critical ['relatedto'] flame ['relatedto'] gas ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] flame ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+critic ['relatedto'] critical ['relatedto'] flame ['relatedto'] flamboyant ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] notice ['relatedto'] advertise ['relatedto'] puff
+critic ['relatedto'] critical ['relatedto'] social_realism ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] critical ['similarto'] life_threatening ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] critical ['synonym'] dangerous ['relatedto'] cake ['relatedto'] puff
+critic ['relatedto'] critical ['synonym'] dangerous ['hasproperty'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+critic ['relatedto'] critical ['synonym'] tight ['similarto', 'synonym'] compact ['relatedto'] puff
+critic ['relatedto'] critical ['synonym'] vital ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] critically ['relatedto'] crisis ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] criticism ['isa'] fire ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+critic ['relatedto'] criticism ['isa'] fire ['antonym', 'relatedto'] wind ['synonym'] puff
+critic ['relatedto'] criticism ['isa'] fire ['causes'] cigarette ['relatedto'] puff
+critic ['relatedto'] criticism ['isa'] fire ['relatedto'] gas ['relatedto'] puff
+critic ['relatedto'] criticism ['isa'] fire ['relatedto'] vent ['relatedto'] puff
+critic ['relatedto'] criticism ['relatedto'] reply ['relatedto'] statement ['relatedto'] puff
+critic ['relatedto'] criticism ['isa'] attack ['mannerof'] gas ['relatedto'] puff
+critic ['relatedto'] criticism ['relatedto'] stick ['relatedto', 'synonym'] cigarette ['relatedto'] puff
+critic ['relatedto'] criticism ['relatedto'] stick ['relatedto'] gas ['relatedto'] puff
+critic ['relatedto'] criticism ['antonym'] compliment ['isa', 'mannerof', 'relatedto'] praise ['mannerof'] puff
+critic ['relatedto'] criticism ['antonym'] compliment ['relatedto'] statement ['relatedto'] puff
+critic ['relatedto'] criticism ['isa'] writing ['relatedto'] cake ['relatedto'] puff
+critic ['relatedto'] criticism ['isa'] writing ['relatedto'] draw ['synonym'] puff
+critic ['relatedto'] criticism ['isa', 'relatedto'] knock ['isa'] blow ['mannerof', 'relatedto', 'synonym'] puff
+critic ['relatedto'] criticism ['relatedto'] criticize ['antonym'] praise ['mannerof'] puff
+critic ['relatedto'] criticism ['relatedto'] stab ['isa'] blow ['mannerof', 'relatedto', 'synonym'] puff
+critic ['relatedto'] criticism ['relatedto'] whine ['relatedto'] blub ['relatedto'] puff
+critic ['relatedto'] specialist ['relatedto'] branch ['relatedto'] statement ['relatedto'] puff
+critic ['relatedto'] specialist ['relatedto'] especially ['relatedto'] puffin ['etymologicallyrelatedto'] puff
+critic ['relatedto'] specialist ['relatedto'] language ['relatedto'] pipe ['relatedto'] puff
+critic ['relatedto'] specialist ['relatedto'] environment ['isa'] tangible_thing ['isa'] puff
+critic ['relatedto'] specialist ['relatedto'] medicine ['isa'] tangible_thing ['isa'] puff
+critic ['relatedto'] specialist ['relatedto'] medicine ['isa', 'relatedto', 'synonym'] drug ['relatedto'] puff
+critic ['relatedto'] specialist ['relatedto'] organism ['relatedto'] life ['relatedto'] puff
+critic ['relatedto'] specialist ['relatedto'] specialty ['relatedto'] cigar ['relatedto'] puff
+critic ['relatedto'] specialist ['relatedto'] tail ['relatedto'] gas ['relatedto'] puff
+critic ['relatedto'] judge ['causesdesire'] activity ['relatedto'] breath ['relatedto'] puff
+critic ['relatedto'] judge ['causesdesire'] activity ['relatedto'] draw ['synonym'] puff
+critic ['relatedto'] judge ['causesdesire'] activity ['relatedto'] praise ['mannerof'] puff
+critic ['relatedto'] judge ['causesdesire'] activity ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+critic ['relatedto'] judge ['relatedto', 'desires'] order ['relatedto'] vent ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] question ['antonym', 'distinctfrom', 'relatedto'] statement ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] question ['relatedto'] sheep ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] position ['relatedto'] statement ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] bank ['relatedto'] cloud ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] bar ['atlocation'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+critic ['relatedto'] judge ['relatedto'] bar ['relatedto', 'synonym'] pipe ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] bar ['synonym'] cake ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] cover ['relatedto'] cloud ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] cover ['relatedto'] quilt ['synonym'] puff
+critic ['relatedto'] judge ['relatedto'] room ['atlocation'] vent ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] room ['relatedto'] wind ['synonym'] puff
+critic ['relatedto'] judge ['synonym'] believe ['relatedto'] statement ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] black ['relatedto'] sheep ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] black ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+critic ['relatedto'] judge ['relatedto'] white ['relatedto'] cake ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] white ['relatedto'] cigarette ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] white ['relatedto'] cloud ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] white ['relatedto'] sheep ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] white ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+critic ['relatedto'] judge ['relatedto'] head ['relatedto'] drug ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] head ['relatedto'] pompon ['relatedto'] puff
+critic ['relatedto'] judge ['relatedto'] call ['relatedto'] draw ['synonym'] puff
+critic ['relatedto'] judge ['mannerof'] choose ['mannerof'] draw ['synonym'] puff
+critic ['relatedto'] judge ['relatedto'] related ['relatedto'] cloud ['relatedto'] puff

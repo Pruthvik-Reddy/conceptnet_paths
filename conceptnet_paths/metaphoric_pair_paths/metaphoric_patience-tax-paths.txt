@@ -1,0 +1,100 @@
+patience ['relatedto'] reserve ['isa'] accumulation ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] government ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] price ['relatedto'] tax
+patience ['relatedto'] marriage ['relatedto'] proposal ['relatedto'] tax
+patience ['hasprerequisite'] getting ['causes'] death ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] getting ['hasprerequisite'] giving ['relatedto'] tax
+patience ['hasprerequisite'] getting ['hasprerequisite'] money ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] getting ['relatedto'] bill ['relatedto'] tax
+patience ['hasprerequisite'] getting ['relatedto'] charity ['relatedto'] tax
+patience ['hasprerequisite'] getting ['relatedto'] pay ['relatedto'] tax
+patience ['hasprerequisite'] getting ['relatedto'] robbery ['relatedto'] tax
+patience ['relatedto'] patient ['relatedto'] capitation ['isa', 'relatedto'] tax
+patience ['relatedto'] heel ['relatedto'] flat ['relatedto'] tax
+patience ['relatedto'] foundation ['isa'] charity ['relatedto'] tax
+patience ['hasprerequisite'] buying_small ['hasprerequisite'] money ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] buying_small ['usedfor'] gift ['antonym'] tax
+patience ['hasprerequisite'] buying_small ['causes'] pay ['relatedto'] tax
+patience ['hasprerequisite'] destroying_enemy ['causes'] death ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] driving_car ['causes'] death ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] fishing ['relatedto'] form ['relatedto'] tax
+patience ['hasprerequisite'] growing_vegetables ['relatedto'] farm ['relatedto'] tax
+patience ['hasprerequisite'] learning ['hasproperty'] free ['antonym'] tax
+patience ['hasprerequisite'] learning ['usedfor'] money ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] learning ['relatedto'] schools ['relatedto'] tax
+patience ['hasprerequisite'] living_life ['causes'] death ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] loving_else ['causes'] giving ['relatedto'] tax
+patience ['hasprerequisite'] proving_physical_endurance ['causes'] death ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] reading_newspaper ['hasprerequisite'] money ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] seeing_movie ['hasprerequisite'] money ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] seeing_movie ['causes'] annoyance ['relatedto'] tax
+patience ['hasprerequisite'] serving_customers ['usedfor'] money ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] taking_bus ['hasprerequisite'] money ['antonym', 'relatedto'] tax
+patience ['hasprerequisite'] writing ['relatedto'] bill ['relatedto'] tax
+patience ['hasprerequisite'] writing ['relatedto'] subject ['relatedto'] tax
+patience ['hasprerequisite'] writing ['relatedto'] form ['relatedto'] tax
+patience ['hasprerequisite'] writing ['relatedto'] law ['relatedto'] tax
+patience ['hasprerequisite'] writing ['relatedto'] forms ['relatedto'] tax
+patience ['hasprerequisite'] writing ['relatedto'] schools ['relatedto'] tax
+patience ['isa', 'relatedto'] virtue ['isa'] charity ['relatedto'] tax
+patience ['relatedto'] demanding ['formof'] demand ['relatedto'] tax
+patience ['relatedto'] demanding ['relatedto', 'synonym'] burdensome ['relatedto'] tax
+patience ['relatedto'] depot ['relatedto'] service ['relatedto'] tax
+patience ['relatedto'] napoleon ['relatedto'] form ['relatedto'] tax
+patience ['relatedto'] napoleon ['relatedto'] taking ['relatedto'] tax
+patience ['relatedto'] napoleon ['relatedto'] value ['relatedto'] tax
+patience ['relatedto'] napoleon ['relatedto'] indiana ['relatedto'] tax
+patience ['relatedto'] waiting ['relatedto'] due ['relatedto'] tax
+patience ['relatedto'] waiting ['relatedto'] service ['relatedto'] tax
+patience ['relatedto'] card_game ['partof'] cut ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] retain ['relatedto'] pay ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] retain ['relatedto'] service ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] fix ['isa'] exemption ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] fix ['relatedto'] service ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] fix ['synonym'] determine ['mannerof'] tax
+patience ['relatedto'] reserve ['isa'] accumulation ['relatedto'] price ['relatedto'] tax
+patience ['relatedto'] reserve ['isa'] accumulation ['synonym'] collection ['relatedto'] tax
+patience ['relatedto'] reserve ['isa'] accumulation ['synonym'] addition ['relatedto'] tax
+patience ['relatedto'] reserve ['derivedfrom'] federal_reserve_system ['relatedto'] united_states ['relatedto'] tax
+patience ['relatedto'] reserve ['derivedfrom'] reserve_price ['relatedto'] price ['relatedto'] tax
+patience ['relatedto'] reserve ['distinctfrom'] open ['relatedto', 'synonym'] free ['antonym'] tax
+patience ['relatedto'] reserve ['distinctfrom'] open ['relatedto'] country ['relatedto'] tax
+patience ['relatedto'] reserve ['distinctfrom'] open ['relatedto'] cut ['relatedto'] tax
+patience ['relatedto'] reserve ['distinctfrom'] open ['relatedto', 'similarto'] public ['relatedto'] tax
+patience ['relatedto'] reserve ['entails'] procure ['relatedto'] collection ['relatedto'] tax
+patience ['relatedto'] reserve ['entails'] procure ['etymologicallyrelatedto', 'relatedto'] procurator ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto', 'atlocation'] money ['antonym', 'relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['isa'] funds ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] federal ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] government ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] monetary ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] national ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] robbery ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] service ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] fund ['relatedto'] tax
+patience ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] bill ['relatedto'] tax
+patience ['relatedto'] reserve ['isa'] indefinite_quantity ['isa'] addition ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof'] devote ['relatedto'] doom ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof', 'relatedto'] request ['antonym', 'relatedto', 'synonym', 'isa', 'mannerof'] demand ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof', 'relatedto'] request ['relatedto'] bill ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof', 'relatedto'] request ['isa'] charge ['mannerof', 'relatedto'] tax
+patience ['relatedto'] reserve ['mannerof', 'relatedto'] request ['relatedto'] concession ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof', 'relatedto'] request ['relatedto'] law ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof', 'relatedto'] request ['relatedto'] tithe ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof'] withhold ['relatedto', 'derivedfrom'] overwithhold ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof'] withhold ['relatedto', 'derivedfrom'] underwithhold ['relatedto'] tax
+patience ['relatedto'] reserve ['mannerof'] withhold ['formof', 'relatedto'] withholding ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto', 'synonym'] bill ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] death ['antonym', 'relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] money ['antonym', 'relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] bills ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['mannerof', 'relatedto'] charge ['mannerof', 'relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] related ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['mannerof', 'relatedto'] credit ['antonym'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] debt ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] numbers ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] expense ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] service ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] value ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['etymologicallyrelatedto', 'relatedto'] roth_ira ['relatedto'] tax
+patience ['relatedto'] reserve ['relatedto'] account ['relatedto'] transaction ['relatedto'] tax

@@ -1,0 +1,100 @@
+story ['relatedto'] short ['relatedto'] sound ['etymologicallyrelatedto'] lend
+story ['relatedto', 'partof'] climax ['relatedto'] bring ['synonym'] lend
+story ['relatedto'] lie ['mannerof'] flank ['relatedto'] lend
+story ['relatedto'] lie ['relatedto'] condition ['relatedto'] lend
+story ['relatedto'] column ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['relatedto'] tell ['relatedto'] give ['mannerof'] lend
+story ['relatedto'] tell ['mannerof'] impart ['synonym'] lend
+story ['relatedto'] square ['antonym', 'distinctfrom'] round ['etymologicallyrelatedto'] lend
+story ['relatedto'] bed ['relatedto'] aid ['relatedto'] lend
+story ['relatedto'] time ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['relatedto'] time ['relatedto'] change ['mannerof'] lend
+story ['distinctfrom', 'relatedto', 'hasa'] book ['relatedto'] lending_library ['relatedto'] lend
+story ['relatedto'] piece ['etymologicallyrelatedto'] fit ['relatedto'] lend
+story ['relatedto'] level ['relatedto'] advance ['mannerof'] lend
+story ['relatedto'] restore ['relatedto'] give_back ['relatedto'] lend
+story ['relatedto'] restore ['mannerof'] change ['mannerof'] lend
+story ['relatedto'] restore ['relatedto'] condition ['relatedto'] lend
+story ['relatedto'] describe ['relatedto'] give ['mannerof'] lend
+story ['relatedto'] end ['mannerof'] change ['mannerof'] lend
+story ['relatedto'] five ['relatedto'] sound ['etymologicallyrelatedto'] lend
+story ['relatedto'] tail ['relatedto', 'synonym'] buttocks ['relatedto'] lend
+story ['relatedto'] hero ['synonym'] sub ['relatedto'] lend
+story ['relatedto'] material ['relatedto'] aid ['relatedto'] lend
+story ['relatedto'] moral ['relatedto'] undergird ['relatedto'] lend
+story ['usedfor'] teach ['mannerof'] condition ['relatedto'] lend
+story ['relatedto'] library ['relatedto'] borrow ['antonym', 'relatedto'] lend
+story ['relatedto'] library ['relatedto'] lender ['relatedto'] lend
+story ['relatedto'] library ['isa', 'relatedto'] lending_library ['relatedto'] lend
+story ['relatedto'] library ['relatedto'] lending ['formof', 'relatedto'] lend
+story ['relatedto'] library ['relatedto'] loan ['distinctfrom', 'etymologicallyrelatedto', 'relatedto', 'synonym'] lend
+story ['relatedto'] library ['relatedto'] rent ['relatedto'] lend
+story ['relatedto'] movie ['atlocation'] sound ['etymologicallyrelatedto'] lend
+story ['relatedto'] made ['relatedto'] sound ['etymologicallyrelatedto'] lend
+story ['atlocation'] quote ['mannerof'] give ['mannerof'] lend
+story ['atlocation'] quote ['relatedto'] equivalent ['relatedto'] lend
+story ['relatedto'] song ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['relatedto'] song ['isa', 'atlocation'] sound ['etymologicallyrelatedto'] lend
+story ['relatedto'] account ['relatedto'] allow ['relatedto'] lend
+story ['relatedto'] account ['relatedto'] debt ['antonym'] lend
+story ['relatedto'] gale ['relatedto'] rent ['relatedto'] lend
+story ['relatedto'] premise ['isa', 'relatedto'] condition ['relatedto'] lend
+story ['relatedto'] revision ['relatedto'] change ['mannerof'] lend
+story ['relatedto'] books ['relatedto'] add ['synonym'] lend
+story ['relatedto'] description ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['relatedto'] description ['relatedto'] fit ['relatedto'] lend
+story ['relatedto'] description ['relatedto'] sound ['etymologicallyrelatedto'] lend
+story ['relatedto'] meaning ['relatedto'] equivalent ['relatedto'] lend
+story ['relatedto'] event ['relatedto'] sound ['etymologicallyrelatedto'] lend
+story ['relatedto'] situation ['isa', 'relatedto', 'synonym'] condition ['relatedto'] lend
+story ['relatedto'] situation ['relatedto'] debt ['antonym'] lend
+story ['relatedto'] relate ['relatedto'] give ['mannerof'] lend
+story ['relatedto'] string ['mannerof'] add ['synonym'] lend
+story ['relatedto'] string ['mannerof'] advance ['mannerof'] lend
+story ['relatedto'] string ['mannerof'] change ['mannerof'] lend
+story ['relatedto'] string ['synonym'] condition ['relatedto'] lend
+story ['relatedto'] twist ['relatedto'] change ['mannerof'] lend
+story ['relatedto'] twist ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['synonym'] report ['relatedto'] give ['mannerof'] lend
+story ['synonym'] report ['relatedto'] condition ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] absolute ['relatedto'] condition ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['antonym'] act ['relatedto'] give ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['antonym', 'distinctfrom', 'relatedto'] false ['relatedto'] condition ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['distinctfrom'] fraud ['relatedto'] usury ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['instanceof'] subsidiary ['relatedto'] sub ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['isa'] coin ['isa', 'relatedto', 'atlocation'] change ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['isa'] coin ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['isa'] company ['isa'] trust ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['isa'] company ['relatedto'] pay ['antonym'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] agent ['relatedto', 'synonym'] factor ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] bit ['relatedto'] fit ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] bodily ['relatedto'] fit ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] cast ['mannerof'] give ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] cast ['relatedto'] change ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] castle ['relatedto'] add ['synonym'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] cob ['relatedto'] equivalent ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] concretize ['mannerof'] change ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] deal ['relatedto'] give ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] estate ['relatedto'] trust ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] estate ['relatedto'] condition ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] estate ['relatedto'] factor ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] fact ['relatedto'] factor ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] faction ['relatedto'] factor ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] land ['mannerof', 'synonym'] bring ['synonym'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] legitimate ['mannerof'] change ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] particular ['relatedto'] add ['synonym'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] phase ['relatedto'] change ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] property ['isa'] trust ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] property ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] property ['relatedto'] factor ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] property ['relatedto'] rent ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] adjective ['relatedto'] fit ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] adjective ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] correct ['relatedto'] fit ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] number ['isa'] factor ['mannerof'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] number ['relatedto'] aid ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] number ['relatedto'] round ['etymologicallyrelatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto', 'similarto', 'synonym'] true ['relatedto'] condition ['relatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] complete ['relatedto', 'synonym'] round ['etymologicallyrelatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] complete ['relatedto', 'similarto'] sound ['etymologicallyrelatedto'] lend
+story ['distinctfrom', 'relatedto'] real ['relatedto'] physical ['relatedto'] condition ['relatedto'] lend

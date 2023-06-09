@@ -1,0 +1,100 @@
+state ['relatedto'] bill ['relatedto'] tax
+state ['isa'] death ['antonym', 'relatedto'] tax
+state ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'atlocation'] country ['relatedto'] tax
+state ['isa'] indiana ['relatedto'] tax
+state ['isa'] obligation ['relatedto'] tax
+state ['isa', 'relatedto'] government ['relatedto'] tax
+state ['isa', 'relatedto', 'partof'] united_states ['relatedto'] tax
+state ['relatedto'] federal ['relatedto'] tax
+state ['relatedto'] law ['relatedto'] tax
+state ['relatedto'] national_insurance ['relatedto'] tax
+state ['relatedto'] render_unto_caesar ['relatedto'] tax
+state ['relatedto'] sales_tax ['isa', 'relatedto'] tax
+state ['relatedto'] national ['relatedto'] tax
+state ['relatedto'] tax_farming ['relatedto'] tax
+state ['relatedto'] retain ['relatedto'] pay ['relatedto'] tax
+state ['relatedto'] retain ['relatedto'] service ['relatedto'] tax
+state ['relatedto'] normal ['relatedto'] decima ['relatedto'] tax
+state ['relatedto'] normal ['relatedto'] extra ['relatedto'] tax
+state ['relatedto'] establishment ['relatedto'] government ['relatedto'] tax
+state ['relatedto'] establishment ['relatedto'] farm ['relatedto'] tax
+state ['mannerof'] present ['isa', 'relatedto'] date ['relatedto'] tax
+state ['mannerof'] present ['isa', 'relatedto', 'synonym'] gift ['antonym'] tax
+state ['mannerof'] present ['relatedto'] bill ['relatedto'] tax
+state ['mannerof'] present ['relatedto'] given ['relatedto'] tax
+state ['mannerof'] present ['usedfor', 'relatedto'] giving ['relatedto'] tax
+state ['mannerof'] present ['relatedto'] charge ['mannerof', 'relatedto'] tax
+state ['mannerof'] present ['relatedto'] paid ['relatedto'] tax
+state ['synonym'] accident ['relatedto'] death ['antonym', 'relatedto'] tax
+state ['synonym'] accident ['relatedto'] money ['antonym', 'relatedto'] tax
+state ['synonym'] accident ['relatedto', 'synonym'] property ['relatedto'] tax
+state ['relatedto'] condemnation ['relatedto'] censure ['relatedto'] tax
+state ['relatedto'] peace ['relatedto'] charity ['relatedto'] tax
+state ['relatedto'] peace ['relatedto'] truage ['relatedto'] tax
+state ['isa'] action ['relatedto'] charge ['mannerof', 'relatedto'] tax
+state ['isa'] action ['relatedto'] share ['relatedto'] tax
+state ['isa'] action ['relatedto'] cut ['relatedto'] tax
+state ['isa'] action ['relatedto'] debt ['relatedto'] tax
+state ['isa'] action ['relatedto'] demand ['relatedto'] tax
+state ['isa'] action ['relatedto'] hide ['relatedto'] tax
+state ['isa'] action ['relatedto'] march ['relatedto'] tax
+state ['isa'] action ['relatedto'] obligation ['relatedto'] tax
+state ['isa'] action ['relatedto', 'synonym'] pay ['relatedto'] tax
+state ['isa'] action ['relatedto'] payment ['relatedto'] tax
+state ['isa'] action ['relatedto'] return ['relatedto'] tax
+state ['isa'] action ['relatedto'] robbery ['relatedto'] tax
+state ['isa'] action ['synonym'] subject ['relatedto'] tax
+state ['relatedto'] rest ['isa', 'relatedto'] death ['antonym', 'relatedto'] tax
+state ['relatedto'] rest ['relatedto'] price ['relatedto'] tax
+state ['relatedto'] rest ['relatedto'] free ['antonym'] tax
+state ['relatedto'] rest ['relatedto'] relief ['relatedto'] tax
+state ['relatedto'] rest ['relatedto'] taking ['relatedto'] tax
+state ['relatedto'] rest ['relatedto'] annoyance ['relatedto'] tax
+state ['relatedto'] rest ['relatedto'] fund ['relatedto'] tax
+state ['relatedto'] smaller ['relatedto'] reduction ['relatedto'] tax
+state ['mannerof'] add ['relatedto', 'derivedfrom', 'synonym'] addition ['relatedto'] tax
+state ['mannerof'] add ['etymologicallyrelatedto'] date ['relatedto'] tax
+state ['mannerof'] add ['formof', 'relatedto'] added ['relatedto'] tax
+state ['mannerof'] add ['mannerof'] form ['relatedto'] tax
+state ['mannerof'] add ['relatedto'] giving ['relatedto'] tax
+state ['mannerof'] add ['relatedto'] numbers ['relatedto'] tax
+state ['mannerof'] add ['relatedto'] additional ['relatedto'] tax
+state ['mannerof'] give ['antonym', 'relatedto'] return ['relatedto'] tax
+state ['mannerof'] give ['formof', 'relatedto', 'derivedfrom'] given ['relatedto'] tax
+state ['mannerof'] give ['formof', 'relatedto'] giving ['relatedto'] tax
+state ['mannerof'] give ['mannerof', 'relatedto', 'synonym'] pay ['relatedto'] tax
+state ['mannerof'] give ['relatedto'] charity ['relatedto'] tax
+state ['mannerof'] give ['relatedto'] debt ['relatedto'] tax
+state ['mannerof'] give ['relatedto'] free ['antonym'] tax
+state ['mannerof'] give ['relatedto', 'synonym'] gift ['antonym'] tax
+state ['mannerof'] give ['relatedto'] taking ['relatedto'] tax
+state ['mannerof'] give ['relatedto'] service ['relatedto'] tax
+state ['mannerof'] give ['relatedto'] payment ['relatedto'] tax
+state ['mannerof'] give ['relatedto'] prest ['relatedto'] tax
+state ['mannerof'] give ['relatedto'] share ['relatedto'] tax
+state ['mannerof'] give ['relatedto'] tithe ['relatedto'] tax
+state ['isa'] relationship ['relatedto'] date ['relatedto'] tax
+state ['isa'] relationship ['relatedto'] related ['relatedto'] tax
+state ['atlocation'] human ['atlocation'] charge ['mannerof', 'relatedto'] tax
+state ['atlocation'] human ['atlocation'] country ['relatedto'] tax
+state ['atlocation'] human ['atlocation'] farm ['relatedto'] tax
+state ['atlocation'] human ['desires'] money ['antonym', 'relatedto'] tax
+state ['atlocation'] human ['isa'] scot ['relatedto'] tax
+state ['atlocation'] human ['relatedto'] cut ['relatedto'] tax
+state ['relatedto'] old ['relatedto'] farm ['relatedto'] tax
+state ['relatedto'] old ['relatedto'] death ['antonym', 'relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto', 'synonym', 'atlocation'] country ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] allodial_title ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] concession ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] cornage ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] farm ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] fee ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] georgism ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] hidage ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] hide ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] flat ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto', 'synonym'] property ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] value ['relatedto'] tax
+state ['relatedto', 'synonym'] land ['relatedto'] ploughgate ['relatedto'] tax
+state ['relatedto'] water ['relatedto'] form ['relatedto'] tax
+state ['relatedto'] dead ['derivedfrom'] deadline ['relatedto'] tax

@@ -1,0 +1,100 @@
+foot ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] blister
+foot ['antonym', 'relatedto'] finger ['atlocation'] blister
+foot ['formof', 'relatedto'] feet ['relatedto'] blister
+foot ['relatedto'] dyshidrosis ['relatedto'] blister
+foot ['relatedto'] base ['relatedto'] finger ['atlocation'] blister
+foot ['relatedto'] human ['atlocation'] pain ['relatedto'] blister
+foot ['relatedto'] human ['relatedto', 'atlocation'] skin ['relatedto'] blister
+foot ['relatedto'] human ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto'] human ['relatedto'] finger ['atlocation'] blister
+foot ['relatedto'] ground ['relatedto', 'atlocation'] feet ['relatedto'] blister
+foot ['relatedto'] animal ['atlocation'] membrane ['relatedto'] blister
+foot ['relatedto'] animal ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto'] animal ['relatedto'] finger ['atlocation'] blister
+foot ['relatedto'] animal ['relatedto'] skin ['relatedto'] blister
+foot ['relatedto'] plant ['isa'] manchineel ['relatedto'] blister
+foot ['relatedto'] plant ['isa', 'relatedto'] poison_ivy ['relatedto'] blister
+foot ['relatedto'] plant ['relatedto'] substrate ['relatedto'] blister
+foot ['relatedto'] plant ['relatedto'] skin ['relatedto'] blister
+foot ['relatedto'] ankle ['isa'] external_anatomical_part ['isa'] blister
+foot ['relatedto'] ankle ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto'] one ['relatedto'] finger ['atlocation'] blister
+foot ['relatedto'] low ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto'] low ['relatedto'] burn ['relatedto'] blister
+foot ['isa', 'relatedto'] bottom ['relatedto'] feet ['relatedto'] blister
+foot ['isa', 'relatedto'] bottom ['relatedto'] substrate ['relatedto'] blister
+foot ['relatedto'] lower ['mannerof'] change ['mannerof'] blister
+foot ['relatedto'] lower ['relatedto'] feet ['relatedto'] blister
+foot ['antonym', 'relatedto'] arm ['antonym'] feet ['relatedto'] blister
+foot ['antonym', 'relatedto'] arm ['atlocation'] wound ['relatedto'] blister
+foot ['hasa', 'relatedto', 'partof'] leg ['relatedto'] feet ['relatedto'] blister
+foot ['hasa', 'relatedto', 'partof'] leg ['relatedto'] injury ['isa'] blister
+foot ['hasa', 'relatedto', 'partof'] leg ['relatedto'] skin ['relatedto'] blister
+foot ['relatedto'] baby ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto', 'partof'] heel ['isa'] external_anatomical_part ['isa'] blister
+foot ['relatedto', 'partof'] heel ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto', 'partof', 'atlocation'] toe ['antonym', 'distinctfrom', 'relatedto', 'similarto', 'synonym'] finger ['atlocation'] blister
+foot ['relatedto', 'partof', 'atlocation'] toe ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto'] ball ['relatedto'] red ['relatedto'] blister
+foot ['relatedto'] ball ['relatedto'] bubble ['relatedto'] blister
+foot ['relatedto'] plate ['relatedto'] skin ['relatedto'] blister
+foot ['partof'] chair ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto'] floor ['relatedto', 'atlocation'] feet ['relatedto'] blister
+foot ['relatedto'] small ['relatedto'] change ['mannerof'] blister
+foot ['relatedto'] small ['relatedto'] wound ['relatedto'] blister
+foot ['relatedto', 'partof'] body ['relatedto', 'atlocation'] pain ['relatedto'] blister
+foot ['relatedto', 'partof'] body ['relatedto', 'partof', 'atlocation'] skin ['relatedto'] blister
+foot ['relatedto', 'partof'] body ['relatedto', 'atlocation'] wound ['relatedto'] blister
+foot ['relatedto', 'partof'] body ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto', 'partof'] body ['relatedto'] disease ['isa'] blister
+foot ['relatedto', 'partof'] body ['relatedto'] finger ['atlocation'] blister
+foot ['relatedto', 'partof'] body ['relatedto'] injury ['isa'] blister
+foot ['antonym', 'distinctfrom', 'relatedto', 'similarto'] head ['antonym', 'distinctfrom'] feet ['relatedto'] blister
+foot ['antonym', 'distinctfrom', 'relatedto', 'similarto'] head ['isa'] external_anatomical_part ['isa'] blister
+foot ['relatedto'] skin ['atlocation'] finger ['atlocation'] blister
+foot ['relatedto'] skin ['isa'] external_anatomical_part ['isa'] blister
+foot ['relatedto'] skin ['relatedto'] asboe_hansen_sign ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] blood_blister ['isa', 'relatedto', 'derivedfrom'] blister
+foot ['relatedto'] skin ['relatedto'] burn ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] dermatitis_herpetiformis ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] dyshidrosis ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] epidermolysis_bullosa ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] exfoliatin ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] hailey_hailey_disease ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] irritation ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] manchineel ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] pemphigoid ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] pustulosis ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] second_degree_burn ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] sore ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] sudamen ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] vesicant ['relatedto'] blister
+foot ['relatedto'] skin ['relatedto'] wound ['relatedto'] blister
+foot ['relatedto'] length ['relatedto'] finger ['atlocation'] blister
+foot ['relatedto'] heal ['antonym', 'relatedto'] wound ['relatedto'] blister
+foot ['relatedto'] heal ['relatedto'] injury ['isa'] blister
+foot ['relatedto'] long ['relatedto'] finger ['atlocation'] blister
+foot ['relatedto'] long ['relatedto'] whip ['synonym'] blister
+foot ['antonym', 'distinctfrom', 'relatedto'] hand ['relatedto'] skin ['relatedto'] blister
+foot ['antonym', 'distinctfrom', 'relatedto'] hand ['antonym', 'distinctfrom', 'relatedto'] feet ['relatedto'] blister
+foot ['antonym', 'distinctfrom', 'relatedto'] hand ['relatedto', 'partof', 'atlocation'] finger ['atlocation'] blister
+foot ['antonym', 'distinctfrom', 'relatedto'] hand ['relatedto'] dyshidrosis ['relatedto'] blister
+foot ['relatedto'] flat ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto'] flat ['relatedto'] bubble ['relatedto'] blister
+foot ['relatedto'] flat ['relatedto'] finger ['atlocation'] blister
+foot ['relatedto'] flat ['relatedto'] membrane ['relatedto'] blister
+foot ['relatedto'] dog ['relatedto'] attack ['mannerof'] blister
+foot ['relatedto'] stand ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto', 'atlocation'] table ['atlocation'] feet ['relatedto'] blister
+foot ['relatedto'] single ['relatedto'] feet ['relatedto'] blister
+foot ['isa'] support ['relatedto'] feet ['relatedto'] blister
+foot ['relatedto', 'partof'] sole ['isa'] external_anatomical_part ['isa'] blister
+foot ['similarto'] horse ['relatedto'] feet ['relatedto'] blister
+foot ['similarto'] horse ['relatedto'] sore ['relatedto'] blister
+foot ['similarto'] horse ['relatedto'] whip ['synonym'] blister
+foot ['isa', 'usedfor', 'mannerof', 'relatedto'] walk ['capableof', 'usedfor', 'relatedto'] feet ['relatedto'] blister
+foot ['isa', 'usedfor', 'mannerof', 'relatedto'] walk ['relatedto'] enclosed ['relatedto'] blister
+foot ['relatedto'] print ['relatedto'] burn ['relatedto'] blister
+foot ['relatedto'] print ['relatedto'] bubble ['relatedto'] blister
+foot ['relatedto'] print ['relatedto'] finger ['atlocation'] blister

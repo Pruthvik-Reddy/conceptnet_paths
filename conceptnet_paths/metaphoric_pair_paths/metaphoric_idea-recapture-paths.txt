@@ -1,0 +1,100 @@
+idea ['relatedto'] abstract ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] apprehension ['isa'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['relatedto'] apprehension ['relatedto'] seizure ['isa'] recapture
+idea ['relatedto'] subject ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] think ['antonym', 'mannerof', 'relatedto'] feel ['mannerof'] recapture
+idea ['distinctfrom'] tangible ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] feeling ['formof', 'relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] form ['relatedto'] tax ['relatedto'] recapture
+idea ['isa', 'relatedto'] burden ['relatedto'] tax ['relatedto'] recapture
+idea ['isa'] content ['isa'] collection ['relatedto'] recapture
+idea ['isa', 'relatedto'] impression ['relatedto'] feel ['mannerof'] recapture
+idea ['isa'] reaction ['relatedto'] feel ['mannerof'] recapture
+idea ['isa', 'relatedto', 'synonym'] theme ['relatedto'] reprise ['relatedto'] recapture
+idea ['relatedto'] data ['isa'] collection ['relatedto'] recapture
+idea ['relatedto'] mental ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] resurrectionist ['relatedto'] recover ['synonym'] recapture
+idea ['relatedto'] abstract ['relatedto'] class ['isa', 'relatedto'] collection ['relatedto'] recapture
+idea ['relatedto'] abstract ['relatedto', 'synonym'] remove ['relatedto'] rescue ['synonym'] recapture
+idea ['relatedto'] abstract ['relatedto'] vague ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] abstract ['relatedto'] withdraw ['relatedto'] rescue ['synonym'] recapture
+idea ['relatedto'] abstract ['relatedto'] brief ['relatedto'] collection ['relatedto'] recapture
+idea ['relatedto'] abstract ['relatedto'] compendium ['relatedto', 'synonym'] collection ['relatedto'] recapture
+idea ['relatedto'] abstract ['relatedto'] conquer ['relatedto'] reconquer ['mannerof'] recapture
+idea ['relatedto'] abstract ['relatedto'] influence ['relatedto'] retroactive ['relatedto'] recapture
+idea ['relatedto'] abstract ['relatedto'] information ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] abstract ['relatedto'] property ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] abstract ['relatedto'] sin ['relatedto'] rescue ['synonym'] recapture
+idea ['relatedto'] abstract ['relatedto'] time ['relatedto'] retroactive ['relatedto'] recapture
+idea ['relatedto'] abstract ['synonym'] seize ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['relatedto'] abstract ['synonym'] seize ['relatedto'] seizure ['isa'] recapture
+idea ['relatedto'] abstract_noun ['relatedto', 'derivedfrom'] abstract ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] abstract_noun ['relatedto'] emotion ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] abstract_noun ['relatedto'] feeling ['formof', 'relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] abstract_noun ['relatedto'] quality ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] abstraction ['relatedto', 'synonym'] abstract ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] abstraction ['isa'] group ['isa', 'relatedto', 'synonym'] collection ['relatedto'] recapture
+idea ['relatedto'] abstraction ['isa'] information ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] abstraction ['isa'] set ['isa', 'relatedto', 'similarto', 'synonym'] collection ['relatedto'] recapture
+idea ['relatedto'] concretization ['relatedto'] mental ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] concretization ['relatedto'] specific ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] potential ['relatedto'] ability ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] potential ['relatedto'] danger ['relatedto'] rescue ['synonym'] recapture
+idea ['relatedto'] potential ['relatedto'] floor ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] potential ['relatedto'] oil ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] potential ['relatedto'] resp ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] potential ['relatedto'] wool ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] potential ['synonym'] spirit ['synonym'] feel ['mannerof'] recapture
+idea ['relatedto'] take_away ['relatedto'] abstract ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] take_away ['antonym'] deliver ['relatedto', 'synonym'] rescue ['synonym'] recapture
+idea ['relatedto'] take_away ['mannerof', 'relatedto'] reduce ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['relatedto'] take_away ['mannerof', 'relatedto', 'synonym'] remove ['relatedto'] rescue ['synonym'] recapture
+idea ['relatedto'] take_away ['relatedto'] lesson ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] take_away ['relatedto'] impression ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] americanism ['isa', 'relatedto'] custom ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] americanism ['relatedto'] phrase ['relatedto'] reprise ['relatedto'] recapture
+idea ['relatedto'] americanism ['relatedto'] represent ['mannerof'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['relatedto'] americanism ['relatedto'] united_states ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] new ['relatedto'] adopt ['relatedto'] rescue ['synonym'] recapture
+idea ['relatedto'] new ['relatedto'] change ['mannerof'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['relatedto'] new ['relatedto'] city ['relatedto'] collection ['relatedto'] recapture
+idea ['relatedto'] new ['relatedto'] date ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] new ['relatedto'] exchange ['isa', 'relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['relatedto'] new ['relatedto'] condition ['relatedto'] retroactive ['relatedto'] recapture
+idea ['relatedto'] new ['relatedto'] additional ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] new ['relatedto'] renewal ['relatedto'] reprise ['relatedto'] recapture
+idea ['relatedto'] new ['relatedto'] return ['relatedto'] recover ['synonym'] recapture
+idea ['relatedto'] new ['relatedto'] return ['relatedto'] reprise ['relatedto'] recapture
+idea ['relatedto'] new ['relatedto'] return ['relatedto'] tax ['relatedto'] recapture
+idea ['relatedto'] new ['relatedto'] time ['relatedto'] retroactive ['relatedto'] recapture
+idea ['relatedto'] creation ['isa'] activity ['relatedto'] collection ['relatedto'] recapture
+idea ['relatedto'] creation ['isa'] piece ['partof'] collection ['relatedto'] recapture
+idea ['relatedto'] creation ['relatedto'] appropriation ['isa'] seizure ['isa'] recapture
+idea ['relatedto'] creative ['relatedto'] set ['isa', 'relatedto', 'similarto', 'synonym'] collection ['relatedto'] recapture
+idea ['relatedto'] creative ['relatedto'] ill ['relatedto'] feel ['mannerof'] recapture
+idea ['partof'] answer ['isa', 'relatedto'] reaction ['relatedto'] feel ['mannerof'] recapture
+idea ['partof'] answer ['mannerof'] match ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['partof'] answer ['motivatedbygoal'] think ['antonym', 'mannerof', 'relatedto'] feel ['mannerof'] recapture
+idea ['partof'] answer ['relatedto'] account ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['partof'] answer ['relatedto'] giving ['relatedto'] tax ['relatedto'] recapture
+idea ['partof'] answer ['relatedto'] information ['relatedto'] feel ['mannerof'] recapture
+idea ['partof'] answer ['relatedto'] remedy ['relatedto'] recover ['synonym'] recapture
+idea ['partof'] answer ['relatedto'] pickup ['isa'] collection ['relatedto'] recapture
+idea ['partof'] answer ['relatedto'] return ['relatedto'] recover ['synonym'] recapture
+idea ['partof'] answer ['relatedto'] return ['relatedto'] reprise ['relatedto'] recapture
+idea ['partof'] answer ['relatedto'] return ['relatedto'] tax ['relatedto'] recapture
+idea ['partof'] answer ['relatedto'] sum ['isa'] collection ['relatedto'] recapture
+idea ['partof'] answer ['relatedto'] time ['relatedto'] retroactive ['relatedto'] recapture
+idea ['partof'] answer ['relatedto'] workbook ['relatedto'] collection ['relatedto'] recapture
+idea ['relatedto'] apprehension ['relatedto'] act ['isa'] recovery ['isa'] recapture
+idea ['relatedto'] apprehension ['relatedto'] sense ['relatedto', 'synonym'] feel ['mannerof'] recapture
+idea ['relatedto'] apprehension ['relatedto', 'derivedfrom'] apprehend ['relatedto', 'similarto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['relatedto'] apprehension ['isa'] capture ['relatedto'] retake ['synonym'] recapture
+idea ['relatedto'] apprehension ['isa'] capture ['synonym'] seizure ['isa'] recapture
+idea ['relatedto'] apprehension ['isa', 'relatedto'] fear ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] apprehension ['relatedto', 'synonym'] arrest ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+idea ['relatedto'] apprehension ['relatedto', 'synonym'] arrest ['antonym'] rescue ['synonym'] recapture
+idea ['relatedto'] apprehension ['relatedto'] grasp ['relatedto'] seizure ['isa'] recapture
+idea ['relatedto'] apprehension ['relatedto'] ill ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] apprehension ['relatedto'] perception ['relatedto'] feel ['mannerof'] recapture
+idea ['relatedto'] apprehension ['relatedto'] physical ['relatedto'] feel ['mannerof'] recapture

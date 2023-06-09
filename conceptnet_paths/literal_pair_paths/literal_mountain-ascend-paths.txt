@@ -1,0 +1,100 @@
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto', 'synonym'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto'] amount ['relatedto'] ascend
+mountain ['usedfor', 'relatedto'] climbing ['relatedto'] ascend
+mountain ['relatedto'] earth ['hasa'] surface ['mannerof'] ascend
+mountain ['antonym'] ground ['antonym', 'relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['antonym'] ground ['isa', 'relatedto'] surface ['mannerof'] ascend
+mountain ['antonym'] ground ['relatedto'] fly ['relatedto'] ascend
+mountain ['antonym', 'madeof', 'relatedto'] land ['antonym', 'haslastsubevent'] fly ['relatedto'] ascend
+mountain ['antonym', 'madeof', 'relatedto'] land ['haslastsubevent'] fall ['antonym'] ascend
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] surface ['mannerof'] ascend
+mountain ['antonym', 'madeof', 'relatedto'] land ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto'] apex ['relatedto'] surface ['mannerof'] ascend
+mountain ['relatedto'] backslope ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto'] foreslope ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto'] top ['distinctfrom'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto'] top ['relatedto'] climb ['relatedto', 'synonym'] ascend
+mountain ['relatedto'] top ['relatedto'] surface ['mannerof'] ascend
+mountain ['antonym'] plain ['antonym'] slope ['mannerof', 'relatedto'] ascend
+mountain ['antonym'] plain ['relatedto'] surface ['mannerof'] ascend
+mountain ['relatedto'] big ['relatedto'] fly ['relatedto'] ascend
+mountain ['relatedto'] small ['relatedto', 'hasproperty'] fly ['relatedto'] ascend
+mountain ['relatedto'] small ['relatedto'] scale ['relatedto'] ascend
+mountain ['relatedto'] small ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto'] sky ['relatedto'] fall ['antonym'] ascend
+mountain ['relatedto'] sky ['usedfor', 'relatedto', 'atlocation'] fly ['relatedto'] ascend
+mountain ['relatedto'] sky ['relatedto', 'synonym'] lift ['relatedto'] ascend
+mountain ['relatedto'] sky ['relatedto'] upward ['relatedto'] ascend
+mountain ['relatedto'] sky ['relatedto'] soar ['relatedto'] ascend
+mountain ['antonym'] flat ['antonym', 'distinctfrom', 'relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['antonym'] flat ['relatedto'] scale ['relatedto'] ascend
+mountain ['antonym'] flat ['relatedto'] surface ['mannerof'] ascend
+mountain ['relatedto'] edge ['relatedto'] climax ['relatedto'] ascend
+mountain ['relatedto'] edge ['relatedto'] fall ['antonym'] ascend
+mountain ['relatedto'] edge ['relatedto'] surface ['mannerof'] ascend
+mountain ['relatedto'] edge ['relatedto'] fly ['relatedto'] ascend
+mountain ['relatedto'] triangle ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['antonym'] descend ['antonym', 'relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['antonym'] fall ['antonym'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['antonym', 'relatedto'] ladder ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['formof', 'relatedto', 'hasprerequisite', 'synonym'] climbing ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['isa', 'mannerof', 'relatedto', 'synonym'] rise ['relatedto', 'synonym'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['mannerof'] slope ['mannerof', 'relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['mannerof', 'relatedto', 'synonym'] scale ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] ascending ['formof', 'relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] ascension ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto', 'synonym'] ascent ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] travel ['mannerof'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] upward ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] clive ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] soar ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] sty ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] transcend ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] twine ['relatedto'] ascend
+mountain ['antonym', 'usedfor', 'relatedto'] climb ['relatedto'] upcome ['relatedto'] ascend
+mountain ['antonym', 'distinctfrom', 'relatedto'] hill ['usedfor', 'relatedto'] climb ['relatedto', 'synonym'] ascend
+mountain ['antonym', 'distinctfrom', 'relatedto'] hill ['relatedto'] rise ['relatedto', 'synonym'] ascend
+mountain ['antonym', 'distinctfrom', 'relatedto'] hill ['usedfor', 'relatedto'] climbing ['relatedto'] ascend
+mountain ['antonym', 'distinctfrom', 'relatedto'] hill ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['antonym', 'distinctfrom', 'relatedto'] hill ['relatedto'] upward ['relatedto'] ascend
+mountain ['atlocation'] climber ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] climb ['relatedto', 'synonym'] ascend
+mountain ['atlocation'] mine ['relatedto'] surface ['mannerof'] ascend
+mountain ['relatedto', 'atlocation'] colorado ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto', 'atlocation'] rock ['causesdesire', 'relatedto'] climb ['relatedto', 'synonym'] ascend
+mountain ['atlocation'] ski_tow ['synonym'] lift ['relatedto'] ascend
+mountain ['relatedto', 'derivedfrom'] mountainslope ['derivedfrom'] slope ['mannerof', 'relatedto'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['mannerof', 'relatedto'] fall ['antonym'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['mannerof'] climb ['relatedto', 'synonym'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['relatedto'] ladder ['relatedto'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['isa'] ascent ['relatedto'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['relatedto'] lift ['relatedto'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['relatedto'] rise ['relatedto', 'synonym'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['relatedto'] climbing ['relatedto'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['relatedto'] hill_climb ['relatedto'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['relatedto'] surface ['mannerof'] ascend
+mountain ['distinctfrom', 'relatedto'] slope ['relatedto'] upward ['relatedto'] ascend
+mountain ['formof', 'relatedto'] mountains ['relatedto'] climb ['relatedto', 'synonym'] ascend
+mountain ['formof', 'relatedto'] mountains ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto', 'hasprerequisite'] skiing ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['isa'] first ['relatedto'] catacosmesis ['relatedto'] ascend
+mountain ['isa', 'relatedto'] place ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['isa', 'relatedto'] place ['relatedto'] translate ['relatedto'] ascend
+mountain ['isa', 'relatedto'] place ['relatedto'] travel ['mannerof'] ascend
+mountain ['isa'] natural_elevation ['partof'] slope ['mannerof', 'relatedto'] ascend
+mountain ['isa', 'relatedto'] seamount ['relatedto'] surface ['mannerof'] ascend
+mountain ['relatedto', 'partof'] landscape ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto', 'partof'] mountainside ['isa', 'relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto'] avalanche ['mannerof'] descend ['antonym', 'relatedto'] ascend
+mountain ['relatedto'] avalanche ['relatedto'] fall ['antonym'] ascend
+mountain ['relatedto'] bergstock ['relatedto'] climb ['relatedto', 'synonym'] ascend
+mountain ['relatedto'] chairlift ['derivedfrom'] lift ['relatedto'] ascend
+mountain ['relatedto'] cliff ['causesdesire'] climb ['relatedto', 'synonym'] ascend
+mountain ['relatedto'] cliff ['relatedto'] climbing ['relatedto'] ascend
+mountain ['relatedto'] cliff ['relatedto'] clive ['relatedto'] ascend
+mountain ['relatedto'] fell ['causes'] descend ['antonym', 'relatedto'] ascend
+mountain ['relatedto'] fell ['formof', 'relatedto'] fall ['antonym'] ascend
+mountain ['relatedto'] fell ['synonym'] fly ['relatedto'] ascend
+mountain ['relatedto'] heft ['relatedto', 'entails'] lift ['relatedto'] ascend
+mountain ['relatedto'] height ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+mountain ['relatedto'] knob ['relatedto', 'synonym'] node ['relatedto'] ascend

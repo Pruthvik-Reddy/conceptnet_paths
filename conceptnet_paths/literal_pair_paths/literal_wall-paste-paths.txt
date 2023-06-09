@@ -1,0 +1,100 @@
+wall ['relatedto'] water ['relatedto'] paste
+wall ['antonym', 'relatedto'] glass ['relatedto'] paste
+wall ['relatedto', 'atlocation'] paint ['relatedto'] paste
+wall ['relatedto', 'atlocation'] picture ['relatedto'] paste
+wall ['relatedto', 'derivedfrom'] wallpaper ['relatedto'] paste
+wall ['relatedto'] bill_sticker ['relatedto'] paste
+wall ['relatedto'] cabinet ['atlocation'] paste
+wall ['relatedto'] plaster ['relatedto'] paste
+wall ['relatedto'] part ['relatedto'] paste
+wall ['relatedto'] containing ['relatedto'] paste
+wall ['relatedto'] walnut ['relatedto'] paste
+wall ['relatedto'] water ['antonym', 'isa'] food ['distinctfrom'] paste
+wall ['relatedto'] water ['atlocation'] bathroom ['relatedto'] paste
+wall ['relatedto'] water ['relatedto', 'atlocation'] glass ['relatedto'] paste
+wall ['relatedto'] water ['relatedto', 'atlocation'] jar ['relatedto'] paste
+wall ['relatedto'] water ['atlocation'] mouth ['relatedto'] paste
+wall ['relatedto'] water ['usedfor', 'hasprerequisite'] cleaning ['relatedto'] paste
+wall ['relatedto'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] paste
+wall ['relatedto'] water ['isa', 'relatedto'] fluid ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] cement ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] lead ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] library_paste ['synonym'] paste
+wall ['relatedto'] water ['relatedto'] mineral ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] paint ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] plaster ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] prepasted ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] form ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] qualities ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] stuff ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] substance ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] white ['relatedto'] paste
+wall ['relatedto'] water ['relatedto'] watery ['relatedto'] paste
+wall ['relatedto'] one ['relatedto'] child ['relatedto'] paste
+wall ['relatedto'] one ['relatedto'] children ['relatedto'] paste
+wall ['relatedto'] one ['relatedto'] stick ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] child ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['hasa', 'atlocation'] bathroom ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] computer ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] food ['distinctfrom'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] jar ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto', 'partof', 'atlocation'] library ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] stuff ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] cabinet ['atlocation'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] big ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] usually ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] paint ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] school ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] wax ['relatedto'] paste
+wall ['relatedto'] art ['relatedto'] form ['relatedto'] paste
+wall ['relatedto'] art ['relatedto'] general ['relatedto'] paste
+wall ['relatedto'] art ['relatedto'] media ['relatedto'] paste
+wall ['relatedto'] art ['relatedto'] mixture ['isa', 'relatedto'] paste
+wall ['relatedto'] art ['relatedto'] paint ['relatedto'] paste
+wall ['relatedto'] art ['relatedto'] picture ['relatedto'] paste
+wall ['relatedto'] art ['relatedto'] school ['relatedto'] paste
+wall ['relatedto'] art ['relatedto'] stuff ['relatedto'] paste
+wall ['relatedto'] art ['relatedto'] composition ['isa'] paste
+wall ['relatedto'] art ['relatedto'] papier_collé ['relatedto'] paste
+wall ['relatedto'] defend ['relatedto'] cover ['mannerof'] paste
+wall ['relatedto'] spring ['relatedto'] action ['relatedto'] paste
+wall ['relatedto'] spring ['relatedto', 'atlocation'] water ['relatedto'] paste
+wall ['relatedto'] spring ['synonym'] form ['relatedto'] paste
+wall ['relatedto'] home ['atlocation'] food ['distinctfrom'] paste
+wall ['relatedto'] home ['atlocation'] kids ['relatedto'] paste
+wall ['relatedto'] home ['relatedto'] form ['relatedto'] paste
+wall ['relatedto'] home ['relatedto'] big ['relatedto'] paste
+wall ['relatedto'] home ['relatedto'] general ['relatedto'] paste
+wall ['relatedto'] home ['relatedto'] usually ['relatedto'] paste
+wall ['relatedto'] home ['relatedto'] library ['relatedto'] paste
+wall ['relatedto'] home ['relatedto'] paint ['relatedto'] paste
+wall ['etymologicallyrelatedto', 'relatedto'] well ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] paste
+wall ['etymologicallyrelatedto', 'relatedto'] well ['relatedto'] together ['relatedto'] paste
+wall ['etymologicallyrelatedto', 'relatedto'] well ['relatedto'] liquid ['relatedto'] paste
+wall ['relatedto'] hang ['relatedto'] action ['relatedto'] paste
+wall ['relatedto'] hang ['relatedto'] picture ['relatedto'] paste
+wall ['relatedto'] hang ['relatedto'] use ['relatedto'] paste
+wall ['isa'] attic ['atlocation'] stuff ['relatedto'] paste
+wall ['relatedto'] drum ['usedfor', 'relatedto', 'synonym'] beat ['mannerof', 'relatedto'] paste
+wall ['relatedto'] drum ['relatedto'] brush ['relatedto'] paste
+wall ['relatedto'] drum ['relatedto'] liquid ['relatedto'] paste
+wall ['relatedto'] drum ['relatedto'] strike ['relatedto'] paste
+wall ['relatedto'] drum ['relatedto'] sticking ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] cover ['mannerof'] paste
+wall ['relatedto'] bed ['relatedto', 'derivedfrom'] embed ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] bathroom ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] big ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] minus ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] part ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] size ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] soft ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] used ['relatedto'] paste
+wall ['relatedto'] bed ['relatedto'] cement ['relatedto'] paste
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto'] cover ['mannerof'] paste
+wall ['antonym', 'isa', 'relatedto'] floor ['atlocation'] library ['relatedto'] paste
+wall ['antonym', 'isa', 'relatedto'] floor ['atlocation'] paper ['relatedto'] paste
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto', 'atlocation'] wax ['relatedto'] paste
+wall ['antonym', 'isa', 'relatedto'] floor ['hasproperty'] sticky ['relatedto'] paste
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto'] part ['relatedto'] paste
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto'] polish ['relatedto'] paste
+wall ['relatedto', 'partof', 'atlocation'] room ['atlocation'] cover ['mannerof'] paste

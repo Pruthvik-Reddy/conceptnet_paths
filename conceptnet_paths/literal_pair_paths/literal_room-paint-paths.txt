@@ -1,0 +1,100 @@
+room ['usedfor', 'relatedto'] paint
+room ['relatedto'] house ['relatedto'] paint
+room ['relatedto'] home ['relatedto'] paint
+room ['atlocation'] cover ['mannerof', 'relatedto'] paint
+room ['atlocation'] use ['antonym', 'relatedto'] paint
+room ['atlocation'] shelf ['atlocation'] paint
+room ['relatedto', 'partof', 'atlocation'] wall ['relatedto', 'atlocation'] paint
+room ['formof', 'relatedto'] rooms ['relatedto'] paint
+room ['hasa', 'relatedto'] walls ['relatedto'] paint
+room ['hasproperty'] dark ['hasproperty'] paint
+room ['isa'] garage ['atlocation'] paint
+room ['isa', 'relatedto'] interior ['relatedto'] paint
+room ['relatedto'] porch ['atlocation'] paint
+room ['relatedto'] buildings ['relatedto'] paint
+room ['relatedto'] household ['relatedto'] paint
+room ['relatedto'] houses ['relatedto'] paint
+room ['usedfor'] decorating ['relatedto'] paint
+room ['relatedto'] smaller ['relatedto'] car ['relatedto'] paint
+room ['relatedto'] smaller ['relatedto'] roll ['relatedto'] paint
+room ['relatedto'] smaller ['relatedto'] scene ['usedfor', 'relatedto'] paint
+room ['relatedto'] affair ['synonym'] action ['relatedto'] paint
+room ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] paint
+room ['relatedto'] affair ['relatedto'] bad ['relatedto'] paint
+room ['relatedto'] affair ['relatedto'] love ['causesdesire'] paint
+room ['relatedto'] affair ['relatedto'] nice ['relatedto'] paint
+room ['atlocation'] human ['atlocation'] charge ['mannerof'] paint
+room ['atlocation'] human ['relatedto', 'atlocation'] home ['relatedto'] paint
+room ['atlocation'] human ['relatedto', 'atlocation'] love ['causesdesire'] paint
+room ['atlocation'] human ['atlocation'] shop ['atlocation'] paint
+room ['atlocation'] human ['relatedto'] art ['relatedto'] paint
+room ['atlocation'] human ['relatedto'] boy ['relatedto'] paint
+room ['atlocation'] human ['relatedto'] coat ['mannerof', 'relatedto'] paint
+room ['atlocation'] human ['relatedto'] finger ['relatedto'] paint
+room ['atlocation'] human ['relatedto'] run ['relatedto'] paint
+room ['atlocation'] human ['relatedto'] smell ['relatedto'] paint
+room ['atlocation'] human ['relatedto'] work ['atlocation'] paint
+room ['relatedto'] separation ['relatedto'] put ['relatedto'] paint
+room ['relatedto'] post ['relatedto'] express ['relatedto'] paint
+room ['relatedto'] post ['relatedto'] beam ['relatedto'] paint
+room ['relatedto'] post ['relatedto'] fences ['relatedto'] paint
+room ['relatedto'] post ['relatedto'] making ['relatedto'] paint
+room ['relatedto'] post ['relatedto'] wood ['relatedto'] paint
+room ['relatedto'] post ['relatedto'] style ['relatedto'] paint
+room ['atlocation'] apartment ['antonym', 'distinctfrom', 'relatedto'] house ['relatedto'] paint
+room ['atlocation'] apartment ['antonym', 'relatedto'] home ['relatedto'] paint
+room ['atlocation'] apartment ['relatedto', 'atlocation'] rooms ['relatedto'] paint
+room ['relatedto'] house ['atlocation'] beam ['relatedto'] paint
+room ['relatedto'] house ['atlocation'] garage ['atlocation'] paint
+room ['relatedto'] house ['atlocation'] material ['relatedto'] paint
+room ['relatedto'] house ['atlocation'] pictures ['relatedto'] paint
+room ['relatedto'] house ['atlocation'] shades ['relatedto'] paint
+room ['relatedto'] house ['atlocation'] shelf ['atlocation'] paint
+room ['relatedto'] house ['relatedto', 'partof', 'atlocation'] wall ['relatedto', 'atlocation'] paint
+room ['relatedto'] house ['relatedto', 'partof', 'atlocation'] walls ['relatedto'] paint
+room ['relatedto'] house ['relatedto', 'derivedfrom'] household ['relatedto'] paint
+room ['relatedto'] house ['derivedfrom'] housework ['relatedto'] paint
+room ['relatedto'] house ['formof', 'relatedto'] houses ['relatedto'] paint
+room ['relatedto'] house ['hasa', 'relatedto', 'madeof'] rooms ['relatedto'] paint
+room ['relatedto'] house ['isa', 'mannerof', 'relatedto', 'similarto'] home ['relatedto'] paint
+room ['relatedto'] house ['madeof', 'relatedto'] wood ['relatedto'] paint
+room ['relatedto'] house ['relatedto', 'partof'] porch ['atlocation'] paint
+room ['relatedto'] house ['relatedto'] construction ['relatedto'] paint
+room ['relatedto'] house ['relatedto'] draw ['antonym', 'distinctfrom', 'relatedto'] paint
+room ['relatedto'] house ['relatedto'] housepainting ['relatedto'] paint
+room ['relatedto'] house ['synonym'] shop ['atlocation'] paint
+room ['relatedto'] house ['synonym'] store ['relatedto', 'atlocation'] paint
+room ['relatedto'] house ['usedfor'] decorating ['relatedto'] paint
+room ['relatedto'] house ['usedfor'] protection ['relatedto'] paint
+room ['relatedto'] sitting ['isa'] activity ['relatedto'] paint
+room ['relatedto'] sitting ['relatedto'] porch ['atlocation'] paint
+room ['usedfor'] sleep ['relatedto'] action ['relatedto'] paint
+room ['usedfor'] sleep ['relatedto'] activity ['relatedto'] paint
+room ['usedfor'] sleep ['hasprerequisite'] shop ['atlocation'] paint
+room ['usedfor'] sleep ['usedfor', 'relatedto'] home ['relatedto'] paint
+room ['relatedto'] sleeping ['relatedto'] home ['relatedto'] paint
+room ['relatedto'] around ['relatedto'] various ['relatedto'] paint
+room ['relatedto'] around ['relatedto'] car ['relatedto'] paint
+room ['relatedto'] around ['relatedto'] cover ['mannerof', 'relatedto'] paint
+room ['relatedto'] around ['relatedto'] love ['causesdesire'] paint
+room ['relatedto'] far ['relatedto'] measure ['hasfirstsubevent'] paint
+room ['isa'] position ['isa'] lead ['relatedto'] paint
+room ['isa'] position ['mannerof', 'relatedto', 'synonym'] put ['relatedto'] paint
+room ['isa'] position ['relatedto'] charge ['mannerof'] paint
+room ['isa'] position ['relatedto'] cover ['mannerof', 'relatedto'] paint
+room ['isa'] position ['relatedto'] finger ['relatedto'] paint
+room ['isa'] position ['relatedto'] home ['relatedto'] paint
+room ['isa'] position ['relatedto'] work ['atlocation'] paint
+room ['isa'] position ['relatedto'] prime ['mannerof', 'relatedto'] paint
+room ['isa'] position ['relatedto'] primer ['relatedto'] paint
+room ['isa'] position ['relatedto'] radar ['relatedto'] paint
+room ['usedfor'] comfort ['usedfor'] house ['relatedto'] paint
+room ['usedfor'] comfort ['relatedto', 'atlocation'] home ['relatedto'] paint
+room ['usedfor'] comfort ['relatedto'] shade ['mannerof'] paint
+room ['usedfor'] comfort ['relatedto'] soup ['relatedto'] paint
+room ['relatedto'] home ['isa', 'mannerof', 'relatedto', 'similarto'] house ['relatedto'] paint
+room ['relatedto'] home ['antonym', 'distinctfrom', 'relatedto'] work ['atlocation'] paint
+room ['relatedto'] home ['atlocation'] garage ['atlocation'] paint
+room ['relatedto'] home ['relatedto'] form ['relatedto'] paint
+room ['relatedto'] home ['relatedto'] houses ['relatedto'] paint
+room ['relatedto'] home ['relatedto'] love ['causesdesire'] paint

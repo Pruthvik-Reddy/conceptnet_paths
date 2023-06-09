@@ -1,0 +1,100 @@
+pedal ['relatedto'] break ['antonym', 'distinctfrom', 'relatedto'] fix ['synonym'] jam
+pedal ['relatedto'] break ['capableof'] guns ['capableof'] jam
+pedal ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt ['mannerof'] jam
+pedal ['relatedto'] break ['mannerof', 'relatedto'] crush ['synonym'] jam
+pedal ['relatedto'] break ['relatedto'] pitch ['relatedto'] jam
+pedal ['relatedto'] break ['relatedto'] ram ['synonym'] jam
+pedal ['relatedto'] break ['relatedto'] stuff ['mannerof'] jam
+pedal ['relatedto'] metal ['relatedto'] band ['isa'] jam
+pedal ['relatedto'] metal ['relatedto'] stuff ['mannerof'] jam
+pedal ['relatedto'] metal ['relatedto'] substance ['relatedto'] jam
+pedal ['relatedto'] flower ['relatedto'] bread ['relatedto'] jam
+pedal ['relatedto'] part ['relatedto'] stick ['relatedto'] jam
+pedal ['relatedto'] part ['relatedto'] bread ['relatedto'] jam
+pedal ['relatedto'] part ['isa'] substance ['relatedto'] jam
+pedal ['relatedto'] part ['relatedto'] song ['relatedto'] jam
+pedal ['relatedto'] part ['relatedto'] stub ['relatedto'] jam
+pedal ['relatedto'] feet ['relatedto'] filling ['relatedto'] jam
+pedal ['entails'] play ['relatedto', 'hasprerequisite'] child ['relatedto'] jam
+pedal ['entails'] play ['relatedto'] crowd ['relatedto'] jam
+pedal ['entails'] play ['relatedto'] band ['isa'] jam
+pedal ['entails'] play ['mannerof'] pitch ['relatedto'] jam
+pedal ['entails'] play ['relatedto'] stuff ['mannerof'] jam
+pedal ['entails'] play ['relatedto'] song ['relatedto'] jam
+pedal ['entails'] play ['relatedto'] squeeze ['relatedto'] jam
+pedal ['relatedto'] power ['relatedto'] push ['mannerof'] jam
+pedal ['relatedto'] step ['isa'] block ['relatedto', 'synonym'] jam
+pedal ['relatedto'] step ['relatedto'] track ['relatedto'] jam
+pedal ['relatedto'] brake ['relatedto'] bruise ['mannerof'] jam
+pedal ['relatedto'] brake ['relatedto'] crush ['synonym'] jam
+pedal ['partof'] organ ['isa'] band ['isa'] jam
+pedal ['partof'] organ ['relatedto'] toaster ['relatedto'] jam
+pedal ['derivedfrom'] pedal_pushers ['relatedto'] push ['mannerof'] jam
+pedal ['isa', 'relatedto'] clutch ['relatedto'] interrupt ['mannerof'] jam
+pedal ['isa', 'relatedto'] lever ['isa'] stick ['relatedto'] jam
+pedal ['mannerof'] operate ['mannerof'] block ['relatedto', 'synonym'] jam
+pedal ['relatedto'] clanger ['relatedto'] bedfordshire_clanger ['relatedto'] jam
+pedal ['relatedto'] copedant ['relatedto'] pitch ['relatedto'] jam
+pedal ['relatedto'] hobby_horse ['relatedto'] stick ['relatedto'] jam
+pedal ['relatedto'] propeller ['relatedto'] pitch ['relatedto'] jam
+pedal ['relatedto'] push_bike ['derivedfrom'] push ['mannerof'] jam
+pedal ['synonym'] pedal_point ['relatedto'] pitch ['relatedto'] jam
+pedal ['relatedto'] acceleration ['isa'] change ['mannerof'] fix ['synonym'] jam
+pedal ['relatedto'] acceleration ['isa'] change ['atlocation'] jar ['relatedto', 'atlocation'] jam
+pedal ['relatedto'] acceleration ['isa'] change ['mannerof'] confuse ['relatedto'] jam
+pedal ['relatedto'] acceleration ['isa'] change ['relatedto'] pitch ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] car ['relatedto'] jam_jar ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] gas ['relatedto'] stick ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] gas ['relatedto'] filling ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] gas ['isa'] substance ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] go ['relatedto'] obligation ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] increase ['relatedto'] stick ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] jerk ['mannerof'] push ['mannerof'] jam
+pedal ['relatedto'] acceleration ['relatedto'] student ['relatedto'] child ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] time ['relatedto'] fix ['synonym'] jam
+pedal ['relatedto'] acceleration ['relatedto'] time ['relatedto'] track ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] force ['mannerof'] stick ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] force ['relatedto'] cause ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] force ['isa', 'relatedto', 'synonym'] push ['mannerof'] jam
+pedal ['relatedto'] acceleration ['relatedto'] force ['synonym'] ram ['synonym'] jam
+pedal ['relatedto'] acceleration ['relatedto'] mass ['mannerof', 'relatedto'] crowd ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] mass ['isa'] logjam ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] mass ['relatedto'] congestion ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] mass ['relatedto'] substance ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] motion_capture ['relatedto'] track ['relatedto'] jam
+pedal ['relatedto'] acceleration ['relatedto'] pop ['antonym'] push ['mannerof'] jam
+pedal ['relatedto'] acceleration ['relatedto'] pop ['relatedto'] toaster ['relatedto'] jam
+pedal ['relatedto'] ankle ['antonym'] wrist ['relatedto'] band ['isa'] jam
+pedal ['relatedto'] ankle ['derivedfrom'] ankle_biter ['relatedto'] child ['relatedto'] jam
+pedal ['relatedto'] ankle ['isa'] bone ['relatedto'] stick ['relatedto'] jam
+pedal ['relatedto'] ankle ['isa'] bone ['relatedto'] substance ['relatedto'] jam
+pedal ['relatedto'] ankle ['isa'] bone ['synonym'] cram ['relatedto', 'synonym'] jam
+pedal ['relatedto'] ankle ['isa', 'relatedto'] joint ['synonym'] stick ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto', 'partof'] leg ['relatedto'] batter ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto', 'partof'] leg ['relatedto'] spread ['isa'] jam
+pedal ['relatedto'] ankle ['relatedto', 'partof'] leg ['relatedto'] stub ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] body ['relatedto'] crowd ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] body ['relatedto'] substance ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] body ['relatedto'] bread ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] elbow ['relatedto'] push ['mannerof'] jam
+pedal ['relatedto'] ankle ['relatedto'] feet ['relatedto'] filling ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['atlocation'] jar ['relatedto', 'atlocation'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['relatedto', 'atlocation'] refrigerator ['atlocation'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['isa'] apple_butter ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['isa', 'relatedto', 'synonym'] bread ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['isa', 'relatedto'] cake ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['isa', 'relatedto'] doughnut ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['isa', 'relatedto'] substance ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['isa'] pineapple_cake ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['isa'] prinzregententorte ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['isa'] swiss_roll ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['relatedto'] berry ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['relatedto'] condiment ['isa'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['relatedto'] jelly ['isa', 'relatedto', 'similarto', 'synonym'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['relatedto'] preserve ['distinctfrom', 'relatedto', 'similarto', 'synonym'] jam
+pedal ['relatedto'] ankle ['relatedto'] food ['relatedto'] spread ['isa'] jam
+pedal ['relatedto'] ankle ['relatedto'] heel ['relatedto'] bread ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] part ['relatedto'] stick ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] part ['relatedto'] bread ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] part ['isa'] substance ['relatedto'] jam
+pedal ['relatedto'] ankle ['relatedto'] part ['relatedto'] song ['relatedto'] jam

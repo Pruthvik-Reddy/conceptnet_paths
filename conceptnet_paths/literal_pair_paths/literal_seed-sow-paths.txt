@@ -1,0 +1,100 @@
+seed ['etymologicallyrelatedto', 'relatedto', 'synonym'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['mannerof'] bear ['relatedto'] sow
+seed ['relatedto', 'derivedfrom'] seedlep ['relatedto'] sow
+seed ['relatedto', 'derivedfrom'] seedtime ['relatedto'] sow
+seed ['formof', 'relatedto'] seeds ['relatedto'] sow
+seed ['mannerof', 'relatedto'] reseed ['relatedto'] sow
+seed ['relatedto'] drill ['relatedto'] sow
+seed ['relatedto'] hydropriming ['relatedto'] sow
+seed ['relatedto'] resow ['relatedto', 'derivedfrom'] sow
+seed ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['relatedto'] planting ['relatedto'] sow
+seed ['relatedto'] sowing ['formof', 'relatedto'] sow
+seed ['relatedto'] sown ['formof', 'relatedto'] sow
+seed ['relatedto'] seedsman ['relatedto'] sow
+seed ['relatedto'] semination ['relatedto'] sow
+seed ['relatedto'] supersemination ['relatedto'] sow
+seed ['relatedto'] smaller ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['relatedto'] smaller ['relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['mannerof'] remove ['relatedto'] mine ['relatedto'] sow
+seed ['relatedto'] birth ['etymologicallyrelatedto', 'relatedto'] bear ['relatedto'] sow
+seed ['capableof', 'relatedto'] grow ['capableof', 'relatedto', 'synonym'] plant ['relatedto', 'synonym'] sow
+seed ['capableof', 'relatedto'] grow ['relatedto'] broadcast ['mannerof', 'relatedto'] sow
+seed ['capableof', 'relatedto'] grow ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['capableof', 'relatedto'] grow ['relatedto', 'synonym'] farm ['relatedto'] sow
+seed ['capableof', 'relatedto'] grow ['relatedto'] seeds ['relatedto'] sow
+seed ['relatedto'] ground ['relatedto', 'atlocation'] mine ['relatedto'] sow
+seed ['relatedto'] ground ['mannerof'] put ['mannerof'] sow
+seed ['relatedto'] ground ['relatedto'] farm ['relatedto'] sow
+seed ['relatedto'] ground ['relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['relatedto'] ground ['relatedto'] metal ['relatedto'] sow
+seed ['relatedto'] ground ['relatedto'] mold ['relatedto'] sow
+seed ['relatedto'] yet ['relatedto'] metal ['relatedto'] sow
+seed ['relatedto'] bird ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['formof', 'relatedto'] planting ['relatedto'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['isa', 'relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['mannerof', 'relatedto'] put ['mannerof'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['relatedto'] besow ['relatedto', 'derivedfrom'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['relatedto'] mold ['relatedto'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['relatedto'] seeds ['relatedto'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['relatedto'] reseed ['relatedto'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['relatedto'] resow ['relatedto', 'derivedfrom'] sow
+seed ['antonym', 'createdby', 'relatedto'] plant ['relatedto'] sation ['relatedto'] sow
+seed ['relatedto'] plants ['formof', 'relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['relatedto'] plants ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['relatedto'] plants ['relatedto'] farm ['relatedto'] sow
+seed ['relatedto'] apple ['isa'] plant ['relatedto', 'synonym'] sow
+seed ['relatedto'] apple ['hasa', 'relatedto'] seeds ['relatedto'] sow
+seed ['relatedto'] set ['relatedto', 'synonym'] plant ['relatedto', 'synonym'] sow
+seed ['relatedto'] set ['mannerof', 'relatedto', 'similarto', 'synonym'] put ['mannerof'] sow
+seed ['relatedto'] set ['relatedto'] parity ['relatedto'] sow
+seed ['relatedto'] set ['relatedto'] solidify ['relatedto'] sow
+seed ['relatedto'] baby ['relatedto'] bear ['relatedto'] sow
+seed ['relatedto'] egg ['relatedto'] bacon ['relatedto'] sow
+seed ['relatedto'] egg ['relatedto'] female ['relatedto'] sow
+seed ['antonym'] full ['relatedto'] sabbatical_year ['relatedto'] sow
+seed ['mannerof'] bear ['mannerof'] crop ['antonym', 'relatedto'] sow
+seed ['mannerof'] bear ['relatedto'] winter ['relatedto'] sow
+seed ['relatedto'] food ['relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['relatedto'] food ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['relatedto'] food ['relatedto'] farm ['relatedto'] sow
+seed ['relatedto'] food ['relatedto'] pig ['relatedto', 'synonym'] sow
+seed ['relatedto'] little ['relatedto'] bear ['relatedto'] sow
+seed ['relatedto'] little ['relatedto'] stitch ['relatedto'] sow
+seed ['relatedto'] little ['synonym'] contemptible ['relatedto'] sow
+seed ['relatedto'] small ['relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['relatedto'] small ['hasproperty'] needle ['relatedto'] sow
+seed ['relatedto'] small ['relatedto'] farm ['relatedto'] sow
+seed ['relatedto'] small ['relatedto'] pig ['relatedto', 'synonym'] sow
+seed ['relatedto'] small ['relatedto'] stitch ['relatedto'] sow
+seed ['relatedto'] bit ['relatedto', 'partof'] drill ['relatedto'] sow
+seed ['relatedto'] bit ['relatedto'] metal ['relatedto'] sow
+seed ['relatedto'] head ['relatedto'] bear ['relatedto'] sow
+seed ['relatedto'] head ['relatedto'] stitch ['relatedto'] sow
+seed ['relatedto'] bolt ['relatedto'] metal ['relatedto'] sow
+seed ['relatedto'] boy ['distinctfrom', 'relatedto'] female ['relatedto'] sow
+seed ['relatedto'] roots ['relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['relatedto'] roots ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['antonym', 'distinctfrom', 'relatedto'] grown ['relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['antonym', 'distinctfrom', 'relatedto'] grown ['relatedto'] bear ['relatedto'] sow
+seed ['antonym', 'distinctfrom', 'relatedto'] grown ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['antonym', 'distinctfrom', 'relatedto'] grown ['relatedto'] farm ['relatedto'] sow
+seed ['antonym', 'relatedto'] corn ['relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['antonym', 'relatedto'] corn ['relatedto'] farm ['relatedto'] sow
+seed ['antonym', 'relatedto'] corn ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['antonym', 'relatedto'] corn ['relatedto'] hog ['relatedto'] sow
+seed ['antonym', 'relatedto'] corn ['relatedto'] pigs ['relatedto'] sow
+seed ['antonym', 'relatedto'] corn ['relatedto'] seeds ['relatedto'] sow
+seed ['antonym', 'relatedto'] corn ['usedfor'] planting ['relatedto'] sow
+seed ['relatedto'] agricultural ['relatedto'] farm ['relatedto'] sow
+seed ['relatedto'] agricultural ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['relatedto'] agricultural ['relatedto'] drill ['relatedto'] sow
+seed ['antonym', 'relatedto'] flower ['distinctfrom', 'relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['antonym', 'relatedto'] flower ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['antonym', 'relatedto'] tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['relatedto', 'synonym'] sow
+seed ['antonym', 'relatedto'] tree ['relatedto'] metal ['relatedto'] sow
+seed ['antonym', 'relatedto'] tree ['relatedto'] crop ['antonym', 'relatedto'] sow
+seed ['antonym', 'relatedto'] tree ['atlocation'] seeds ['relatedto'] sow
+seed ['antonym', 'relatedto'] tree ['relatedto'] hook ['relatedto'] sow
+seed ['capableof', 'relatedto'] sprout ['relatedto'] plant ['relatedto', 'synonym'] sow

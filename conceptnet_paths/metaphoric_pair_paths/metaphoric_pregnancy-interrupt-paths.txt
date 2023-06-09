@@ -1,0 +1,100 @@
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] birth ['relatedto'] act ['mannerof'] interrupt
+pregnancy ['isa'] disease ['relatedto'] stifle ['relatedto'] interrupt
+pregnancy ['isa'] disease ['relatedto'] vector ['relatedto'] interrupt
+pregnancy ['isa'] trouble ['relatedto'] act ['mannerof'] interrupt
+pregnancy ['isa'] trouble ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['isa'] trouble ['relatedto'] interruption ['relatedto'] interrupt
+pregnancy ['isa'] trouble ['relatedto', 'synonym'] disturb ['relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] stretch ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] stretch ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] abortion ['relatedto'] act ['mannerof'] interrupt
+pregnancy ['relatedto'] abortion_pill ['relatedto'] terminate ['similarto'] interrupt
+pregnancy ['relatedto'] bruce_effect ['relatedto'] terminate ['similarto'] interrupt
+pregnancy ['relatedto'] prevail ['mannerof'] continue ['antonym'] interrupt
+pregnancy ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['relatedto'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['relatedto', 'synonym'] end ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['relatedto'] act ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['isa'] act ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'usedfor', 'relatedto', 'atlocation'] injury ['relatedto'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['causes'] driving ['isa'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['causes'] driving ['relatedto'] stop ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto', 'derivedfrom'] accidental ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['relatedto', 'synonym'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['relatedto'] computer ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] mistake ['isa', 'relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa'] happening ['isa'] interruption ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa'] happening ['relatedto'] ongoing ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto', 'synonym'] stop ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['mannerof', 'relatedto'] end ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto', 'synonym'] interruption ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto', 'synonym'] pause ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto'] abrupt ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto'] disconnect ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto'] forbreak ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['relatedto'] pierce ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] break ['similarto'] continue ['antonym'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] crash ['etymologicallyrelatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] crash ['relatedto'] terminate ['similarto'] interrupt
+pregnancy ['relatedto'] accident ['isa', 'relatedto'] crash ['capableof', 'relatedto'] computer ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] bad ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] bad ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] car ['relatedto'] stop ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] car ['atlocation'] computer ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] car ['partof'] clutch ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] car ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] damage ['mannerof', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] damage ['relatedto'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] damage ['mannerof'] disturb ['relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] death ['isa', 'relatedto', 'synonym'] end ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] death ['relatedto'] continue ['antonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] painful ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] painful ['relatedto'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] violent ['relatedto'] inbreak ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] wreck ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] calculation ['relatedto'] computer ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] event ['isa'] act ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] event ['isa'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] event ['partof'] end ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] event ['isa'] interrupting ['formof', 'relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] event ['relatedto'] photogate ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] fact ['synonym'] act ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] fact ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] force ['mannerof'] act ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] force ['relatedto', 'synonym'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] force ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] intention ['relatedto'] end ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] interference ['relatedto', 'derivedfrom'] interfere ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] interference ['relatedto'] signal ['isa'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] mark ['relatedto'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] mark ['synonym'] punctuate ['mannerof', 'relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] negative ['relatedto'] disturb ['relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] number ['synonym'] act ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] point ['relatedto'] act ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] point ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] point ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] point ['relatedto'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] point ['isa', 'relatedto', 'synonym'] end ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] point ['relatedto'] punctuate ['mannerof', 'relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] substance ['relatedto'] suspend ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] substance ['relatedto'] jam ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] burn ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] burn ['antonym'] freeze ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] burn ['synonym'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] claim ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] crowd ['relatedto'] jam ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] drop ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] drop ['relatedto'] stop ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] drop ['antonym', 'distinctfrom', 'relatedto'] throw ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] fall ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] fall ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] fell ['relatedto'] action ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] fell ['relatedto'] chop ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] fell ['mannerof'] cut ['mannerof'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] fortune ['relatedto'] sudden ['relatedto'] interrupt
+pregnancy ['relatedto'] accident ['relatedto'] incident ['relatedto'] interruption ['relatedto'] interrupt

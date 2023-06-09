@@ -1,0 +1,100 @@
+cocaine ['relatedto'] snort
+cocaine ['isa', 'relatedto'] coke ['relatedto'] snort
+cocaine ['isa', 'relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['relatedto'] white ['relatedto'] noise ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] sail ['relatedto'] snort
+cocaine ['relatedto', 'synonym'] blow ['antonym', 'distinctfrom'] inhale ['mannerof', 'relatedto'] snort
+cocaine ['relatedto', 'synonym'] blow ['mannerof', 'relatedto'] exhale ['mannerof', 'relatedto'] snort
+cocaine ['relatedto', 'synonym'] blow ['mannerof'] insufflate ['synonym'] snort
+cocaine ['relatedto', 'synonym'] blow ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['relatedto', 'synonym'] blow ['relatedto'] exhaling ['relatedto'] snort
+cocaine ['relatedto', 'synonym'] blow ['relatedto'] huff ['synonym'] snort
+cocaine ['relatedto', 'synonym'] blow ['relatedto'] nose ['relatedto'] snort
+cocaine ['relatedto', 'synonym'] blow ['relatedto'] snuff ['relatedto', 'synonym'] snort
+cocaine ['relatedto', 'synonym'] blow ['relatedto'] rout ['relatedto'] snort
+cocaine ['relatedto', 'synonym'] blow ['synonym'] coke ['relatedto'] snort
+cocaine ['relatedto'] girl ['relatedto'] pig ['relatedto'] snort
+cocaine ['relatedto'] bump ['relatedto'] noise ['relatedto'] snort
+cocaine ['hasproperty'] illegal ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['relatedto'] snow ['relatedto'] snift ['relatedto'] snort
+cocaine ['relatedto'] snow ['synonym'] coke ['relatedto'] snort
+cocaine ['isa', 'relatedto'] coke ['relatedto'] drink ['relatedto'] snort
+cocaine ['isa', 'relatedto'] coke ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['relatedto'] sugar ['relatedto'] coke ['relatedto'] snort
+cocaine ['relatedto'] c ['synonym'] coke ['relatedto'] snort
+cocaine ['isa', 'relatedto'] drug ['relatedto'] coke ['relatedto'] snort
+cocaine ['isa', 'relatedto'] drug ['mannerof'] take_hit ['synonym'] snort
+cocaine ['relatedto'] narcotic ['isa', 'relatedto', 'synonym'] drug ['relatedto', 'entails'] snort
+cocaine ['relatedto'] powder ['relatedto'] vent ['relatedto'] snort
+cocaine ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] coca ['relatedto'] coke ['relatedto'] snort
+cocaine ['isa'] chemical ['isa', 'relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['isa'] addictive_substance ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['isa', 'relatedto'] stimulant ['isa'] drug ['relatedto', 'entails'] snort
+cocaine ['isa'] vasoconstrictor ['isa'] drug ['relatedto', 'entails'] snort
+cocaine ['isa', 'relatedto'] crack ['isa'] noise ['relatedto'] snort
+cocaine ['isa', 'relatedto'] crack ['isa'] drug ['relatedto', 'entails'] snort
+cocaine ['isa', 'relatedto'] crack ['isa'] vent ['relatedto'] snort
+cocaine ['relatedto', 'synonym'] cocain ['isa'] snorted ['formof', 'relatedto'] snort
+cocaine ['relatedto'] insufflation ['relatedto', 'derivedfrom'] insufflate ['synonym'] snort
+cocaine ['relatedto'] coked ['formof'] coke ['relatedto'] snort
+cocaine ['relatedto'] freebase ['relatedto'] inhale ['mannerof', 'relatedto'] snort
+cocaine ['relatedto'] nose_candy ['derivedfrom'] nose ['relatedto'] snort
+cocaine ['relatedto'] nose_candy ['synonym'] coke ['relatedto'] snort
+cocaine ['relatedto'] saddlenose ['relatedto', 'derivedfrom'] nose ['relatedto'] snort
+cocaine ['relatedto'] tooter ['relatedto'] inhale ['mannerof', 'relatedto'] snort
+cocaine ['hasproperty'] addictive ['relatedto'] fix ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['relatedto', 'derivedfrom'] addict ['relatedto'] alcoholic ['relatedto'] snort
+cocaine ['hasproperty'] addictive ['relatedto', 'derivedfrom'] addict ['relatedto', 'desires'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['hasproperty'] alcohol ['relatedto', 'derivedfrom'] alcoholic ['relatedto'] snort
+cocaine ['hasproperty'] addictive ['hasproperty'] alcohol ['isa', 'relatedto', 'synonym'] drink ['relatedto'] snort
+cocaine ['hasproperty'] addictive ['hasproperty'] cocain ['isa'] snorted ['formof', 'relatedto'] snort
+cocaine ['hasproperty'] addictive ['relatedto', 'hasproperty'] heroin ['isa', 'relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['hasproperty'] morphine ['isa', 'relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['hasproperty'] nicotine ['isa'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['relatedto', 'hasproperty'] opium ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['hasproperty'] television ['atlocation'] funny ['relatedto'] snort
+cocaine ['hasproperty'] addictive ['relatedto'] addiction ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['relatedto'] chemical_dependency ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['relatedto'] codeine ['isa'] drug ['relatedto', 'entails'] snort
+cocaine ['hasproperty'] addictive ['relatedto'] drug ['relatedto'] coke ['relatedto'] snort
+cocaine ['hasproperty'] addictive ['relatedto'] drug ['mannerof'] take_hit ['synonym'] snort
+cocaine ['hasproperty'] addictive ['relatedto'] papaverine ['isa'] drug ['relatedto', 'entails'] snort
+cocaine ['relatedto'] white ['relatedto'] defeat ['isa', 'relatedto'] rout ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] defeat ['relatedto'] nose ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] water ['relatedto', 'atlocation'] submarine ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] water ['usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] water ['relatedto'] sail ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] bird ['synonym'] boo ['synonym'] snort
+cocaine ['relatedto'] white ['relatedto'] lie ['relatedto'] pig ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto', 'similarto'] good ['relatedto'] drink ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] bear ['relatedto'] alcoholic ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] bear ['relatedto'] boo ['synonym'] snort
+cocaine ['relatedto'] white ['relatedto'] bear ['relatedto'] drink ['relatedto'] snort
+cocaine ['relatedto'] white ['antonym', 'distinctfrom', 'relatedto', 'isa'] colour ['relatedto'] snark ['etymologicallyrelatedto', 'relatedto'] snort
+cocaine ['relatedto'] white ['derivedfrom'] white_noise ['isa', 'relatedto'] noise ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto', 'hasproperty'] cauliflower ['relatedto'] funny ['relatedto'] snort
+cocaine ['relatedto'] white ['hasproperty'] flowers ['relatedto'] nose ['relatedto'] snort
+cocaine ['relatedto'] white ['hasproperty'] horse ['relatedto'] nose ['relatedto'] snort
+cocaine ['relatedto'] white ['isa', 'relatedto', 'hasproperty'] milk ['relatedto'] drink ['relatedto'] snort
+cocaine ['relatedto'] white ['isa', 'relatedto', 'hasproperty'] milk ['relatedto'] utter ['mannerof'] snort
+cocaine ['relatedto'] white ['hasproperty'] sheet ['relatedto', 'synonym'] sail ['relatedto'] snort
+cocaine ['relatedto'] white ['isa'] atropine ['isa', 'relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['relatedto'] white ['isa', 'relatedto'] snow ['relatedto'] snift ['relatedto'] snort
+cocaine ['relatedto'] white ['isa', 'relatedto'] snow ['synonym'] coke ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] blue_peter ['relatedto'] sail ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] caned ['relatedto'] drug ['relatedto', 'entails'] snort
+cocaine ['relatedto'] white ['relatedto'] cow ['relatedto'] utter ['mannerof'] snort
+cocaine ['relatedto'] white ['relatedto'] eye ['relatedto'] laugh ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] eye ['antonym', 'distinctfrom', 'relatedto'] nose ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] ghost ['relatedto'] sail ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] gin ['relatedto'] alcoholic ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] gin ['relatedto'] drink ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] habit ['relatedto'] nose ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto', 'similarto'] light ['relatedto'] coke ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] noise ['relatedto'] laugh ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] noise ['relatedto'] laughter ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] noise ['isa'] grunt ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] noise ['isa', 'relatedto'] snore ['relatedto'] snort
+cocaine ['relatedto'] white ['relatedto'] noise ['relatedto'] rout ['relatedto'] snort

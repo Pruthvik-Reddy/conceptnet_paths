@@ -1,0 +1,100 @@
+vegetable ['formof', 'relatedto'] vegetables ['relatedto'] steam
+vegetable ['isa', 'relatedto'] produce ['relatedto'] steam
+vegetable ['relatedto'] pinakbet ['relatedto'] steam
+vegetable ['relatedto'] steamer ['isa', 'derivedfrom', 'synonym'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] warm ['relatedto'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] matter ['relatedto'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] type ['relatedto'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] hot ['relatedto', 'hasproperty'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] mechanical ['relatedto'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] move ['relatedto'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] train ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] mineral ['relatedto'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam
+vegetable ['distinctfrom', 'relatedto'] mineral ['isa', 'relatedto'] iron ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] mineral ['isa'] matter ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] mineral ['relatedto'] properties ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto', 'atlocation'] pot ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['isa'] escape ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto', 'partof'] stem ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] energy ['hasa', 'relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] matter ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] small ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] smoke ['distinctfrom', 'relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] thin ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] vegetables ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] power ['relatedto'] steam
+vegetable ['distinctfrom', 'relatedto'] plant ['relatedto'] train ['relatedto'] steam
+vegetable ['antonym', 'isa', 'relatedto'] corn ['relatedto'] small ['relatedto'] steam
+vegetable ['antonym', 'isa', 'relatedto'] corn ['relatedto'] hot ['relatedto', 'hasproperty'] steam
+vegetable ['antonym', 'isa', 'relatedto'] corn ['relatedto'] cooking ['causes', 'relatedto'] steam
+vegetable ['antonym', 'isa', 'relatedto'] corn ['relatedto'] high ['relatedto'] steam
+vegetable ['antonym', 'isa', 'relatedto'] corn ['relatedto'] produce ['relatedto'] steam
+vegetable ['antonym', 'isa', 'relatedto'] corn ['relatedto'] type ['relatedto'] steam
+vegetable ['antonym', 'isa', 'relatedto'] corn ['relatedto'] vegetables ['relatedto'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] fruit ['hasa'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] fruit ['distinctfrom', 'relatedto'] vegetables ['relatedto'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] fruit ['relatedto'] produce ['relatedto'] steam
+vegetable ['antonym', 'distinctfrom', 'relatedto'] fruit ['usedfor'] cooking ['causes', 'relatedto'] steam
+vegetable ['antonym'] meat ['relatedto'] prime ['relatedto'] steam
+vegetable ['antonym'] meat ['antonym'] vegetables ['relatedto'] steam
+vegetable ['antonym'] meat ['antonym'] produce ['relatedto'] steam
+vegetable ['antonym'] meat ['relatedto'] heat ['relatedto'] steam
+vegetable ['antonym'] meat ['relatedto'] luwombo ['relatedto'] steam
+vegetable ['antonym'] meat ['relatedto'] rag_pudding ['relatedto'] steam
+vegetable ['antonym'] meat ['relatedto'] steamer ['isa', 'derivedfrom', 'synonym'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] old ['relatedto'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] air ['antonym', 'relatedto'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] leg ['relatedto'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] small ['relatedto'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] white ['relatedto'] steam
+vegetable ['distinctfrom'] chicken ['isa'] software ['isa'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] cooking ['causes', 'relatedto'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] pot ['relatedto'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] produces ['relatedto'] steam
+vegetable ['distinctfrom'] chicken ['relatedto'] type ['relatedto'] steam
+vegetable ['etymologicallyrelatedto', 'relatedto', 'synonym'] veggie ['relatedto'] steamer ['isa', 'derivedfrom', 'synonym'] steam
+vegetable ['formof', 'relatedto'] vegetables ['receivesaction'] steamed ['formof', 'relatedto', 'derivedfrom'] steam
+vegetable ['formof', 'relatedto'] vegetables ['relatedto'] produce ['relatedto'] steam
+vegetable ['isa', 'relatedto'] bean ['isa'] software ['isa'] steam
+vegetable ['isa', 'relatedto'] bean ['relatedto'] moimoi ['relatedto'] steam
+vegetable ['isa', 'relatedto'] bean ['usedfor'] cooking ['causes', 'relatedto'] steam
+vegetable ['isa', 'relatedto', 'synonym'] cabbage ['causes'] gas ['isa', 'relatedto'] steam
+vegetable ['isa', 'relatedto'] cauliflower ['relatedto', 'hasproperty'] white ['relatedto'] steam
+vegetable ['isa'] collard_greens ['isa'] vegetables ['relatedto'] steam
+vegetable ['isa', 'relatedto'] cucumber ['relatedto'] white ['relatedto'] steam
+vegetable ['isa'] kohlrabi ['relatedto'] stem ['relatedto'] steam
+vegetable ['isa', 'relatedto'] lettuce ['madeof'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam
+vegetable ['isa'] mushroom ['isa'] cloud ['relatedto'] steam
+vegetable ['isa'] mushroom ['synonym'] rise ['mannerof'] steam
+vegetable ['isa'] mushroom ['relatedto'] luwombo ['relatedto'] steam
+vegetable ['isa', 'relatedto'] onion ['relatedto'] rag_pudding ['relatedto'] steam
+vegetable ['isa', 'relatedto'] pea ['relatedto'] small ['relatedto'] steam
+vegetable ['isa', 'relatedto'] pea ['relatedto'] vegetables ['relatedto'] steam
+vegetable ['isa'] pepper ['relatedto'] hot ['relatedto', 'hasproperty'] steam
+vegetable ['isa'] plantain ['relatedto'] cook ['mannerof', 'relatedto'] steam
+vegetable ['isa', 'relatedto'] potato ['atlocation'] boiling_water ['relatedto'] steam
+vegetable ['isa', 'relatedto'] potato ['atlocation'] pot ['relatedto'] steam
+vegetable ['isa'] potatoes ['isa'] vegetables ['relatedto'] steam
+vegetable ['isa'] potatoes ['receivesaction'] boiled ['relatedto'] steam
+vegetable ['isa'] potherb ['relatedto'] stem ['relatedto'] steam
+vegetable ['isa', 'relatedto'] spinach ['relatedto'] iron ['relatedto'] steam
+vegetable ['isa'] squash ['mannerof', 'relatedto'] press ['relatedto'] steam
+vegetable ['isa'] squash ['mannerof'] steamroller ['relatedto', 'derivedfrom'] steam
+vegetable ['isa', 'relatedto'] tomato ['relatedto'] stem ['relatedto'] steam
+vegetable ['isa', 'relatedto'] tomato ['isa'] software ['isa'] steam
+vegetable ['isa', 'relatedto'] tomato ['relatedto'] cooking ['causes', 'relatedto'] steam
+vegetable ['isa'] tomatoes ['isa'] vegetables ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['relatedto'] fire ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['antonym', 'isa'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam
+vegetable ['isa', 'relatedto'] food ['atlocation'] boat ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['causes', 'relatedto', 'hasprerequisite'] cooking ['causes', 'relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['isa'] couscous ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['isa', 'relatedto'] dhokla ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['isa', 'relatedto'] substance ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['isa', 'relatedto'] produce ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['isa'] vegetables ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['isa'] zongzi ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['relatedto'] canner ['relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['relatedto'] cook ['mannerof', 'relatedto'] steam
+vegetable ['isa', 'relatedto'] food ['usedfor', 'relatedto'] energy ['hasa', 'relatedto'] steam

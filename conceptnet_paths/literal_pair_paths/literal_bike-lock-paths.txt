@@ -1,0 +1,100 @@
+bike ['relatedto'] handle ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] bat ['relatedto'] lock
+bike ['relatedto'] handle ['antonym'] lid ['partof'] lock
+bike ['relatedto'] handle ['relatedto', 'atlocation'] car_door ['atlocation'] lock
+bike ['relatedto'] handle ['hasa', 'relatedto', 'partof', 'atlocation'] door ['relatedto', 'partof', 'atlocation'] lock
+bike ['relatedto'] handle ['relatedto', 'atlocation'] drawer ['relatedto', 'partof'] lock
+bike ['relatedto'] handle ['isa'] door_handle ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] control ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] device ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] doorknob ['atlocation'] lock
+bike ['relatedto'] handle ['relatedto'] doors ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto', 'synonym'] hold ['mannerof'] lock
+bike ['relatedto'] handle ['relatedto'] lift ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] mechanism ['isa', 'relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] metal ['madeof', 'relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] open ['capableof'] lock
+bike ['relatedto'] handle ['relatedto'] limb ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] turn ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto'] bar ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto'] handle ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto', 'atlocation'] road ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['atlocation'] door ['relatedto', 'partof', 'atlocation'] lock
+bike ['antonym', 'distinctfrom'] car ['madeof', 'atlocation'] metal ['madeof', 'relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto', 'partof'] car_door ['atlocation'] lock
+bike ['antonym', 'distinctfrom'] car ['partof'] fender ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['usedfor', 'relatedto', 'partof'] wheel ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto'] device ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto'] doors ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto'] four ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto'] turn ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto'] control ['relatedto'] lock
+bike ['antonym', 'distinctfrom'] car ['relatedto'] electronic_car_key ['relatedto'] lock
+bike ['atlocation'] garage ['atlocation'] container ['relatedto'] lock
+bike ['atlocation'] garage ['relatedto'] canal ['relatedto', 'partof'] lock
+bike ['atlocation'] street ['relatedto'] front_door ['atlocation'] lock
+bike ['atlocation'] street ['atlocation'] bar ['relatedto'] lock
+bike ['atlocation'] street ['relatedto'] close ['usedfor'] lock
+bike ['atlocation'] street ['isa', 'distinctfrom', 'relatedto', 'synonym'] road ['relatedto'] lock
+bike ['atlocation'] street ['relatedto'] gate ['relatedto', 'partof', 'atlocation'] lock
+bike ['atlocation'] street ['relatedto'] gridlock ['isa'] lock
+bike ['atlocation'] street ['relatedto'] turn ['relatedto'] lock
+bike ['atlocation'] seat ['relatedto'] four ['relatedto'] lock
+bike ['atlocation'] seat ['isa', 'relatedto'] device ['relatedto'] lock
+bike ['atlocation'] seat ['relatedto'] front_row ['relatedto'] lock
+bike ['capableof'] crash ['mannerof'] pass ['mannerof'] lock
+bike ['capableof'] crash ['mannerof'] move ['relatedto'] lock
+bike ['capableof'] crash ['relatedto'] lid ['partof'] lock
+bike ['capableof'] skid ['relatedto'] fender ['relatedto'] lock
+bike ['derivedfrom'] biker ['capableof'] ride_bike ['haslastsubevent'] lock
+bike ['isa', 'etymologicallyrelatedto', 'synonym'] bicycle ['madeof'] metal ['madeof', 'relatedto'] lock
+bike ['isa', 'etymologicallyrelatedto', 'synonym'] bicycle ['partof', 'synonym'] wheel ['relatedto'] lock
+bike ['hasproperty'] stationary ['antonym', 'distinctfrom'] move ['relatedto'] lock
+bike ['hasproperty'] stationary ['relatedto'] gate ['relatedto', 'partof', 'atlocation'] lock
+bike ['hasproperty'] stationary ['relatedto'] turn ['relatedto'] lock
+bike ['partof'] sprocket ['isa'] wheel ['relatedto'] lock
+bike ['relatedto'] nest ['relatedto'] thing ['relatedto'] lock
+bike ['relatedto'] nest ['relatedto'] container ['relatedto'] lock
+bike ['relatedto'] nest ['relatedto'] hairdo ['partof'] lock
+bike ['relatedto'] grip ['relatedto', 'synonym'] handle ['relatedto'] lock
+bike ['relatedto'] grip ['relatedto'] hold ['mannerof'] lock
+bike ['relatedto'] grip ['mannerof'] seize ['relatedto'] lock
+bike ['relatedto'] grip ['relatedto'] fist ['relatedto'] lock
+bike ['relatedto'] grip ['relatedto'] move ['relatedto'] lock
+bike ['relatedto'] grip ['synonym'] grapple ['relatedto'] lock
+bike ['relatedto'] motor ['relatedto'] mechanical_device ['isa'] lock
+bike ['relatedto'] motor ['relatedto'] device ['relatedto'] lock
+bike ['relatedto'] pedal ['relatedto'] metal ['madeof', 'relatedto'] lock
+bike ['relatedto'] pedal ['hasprerequisite'] ride_bike ['haslastsubevent'] lock
+bike ['relatedto'] ride ['mannerof'] engage ['mannerof', 'synonym'] lock
+bike ['relatedto'] ride ['relatedto'] road ['relatedto'] lock
+bike ['relatedto'] ride ['isa'] mechanical_device ['isa'] lock
+bike ['relatedto'] ride ['relatedto'] lift ['relatedto'] lock
+bike ['relatedto'] ride ['relatedto'] move ['relatedto'] lock
+bike ['relatedto'] scooter ['relatedto'] handle ['relatedto'] lock
+bike ['relatedto'] scooter ['relatedto'] device ['relatedto'] lock
+bike ['relatedto'] spoke ['relatedto'] metal ['madeof', 'relatedto'] lock
+bike ['relatedto'] spoke ['relatedto', 'partof'] wheel ['relatedto'] lock
+bike ['relatedto'] spoke ['relatedto'] fasten ['usedfor', 'mannerof', 'relatedto'] lock
+bike ['synonym'] motorcycle ['relatedto'] combination ['relatedto'] lock
+bike ['usedfor'] riding ['relatedto'] road ['relatedto'] lock
+bike ['usedfor'] transport ['mannerof'] forward ['relatedto'] lock
+bike ['usedfor'] transport ['relatedto'] road ['relatedto'] lock
+bike ['usedfor'] transport ['relatedto'] lift ['relatedto'] lock
+bike ['usedfor'] transport ['mannerof', 'relatedto'] move ['relatedto'] lock
+bike ['usedfor'] transport ['relatedto'] container ['relatedto'] lock
+bike ['usedfor'] transport ['mannerof', 'relatedto'] wheel ['relatedto'] lock
+bike ['usedfor'] transport ['mannerof'] sluice ['relatedto', 'similarto', 'synonym'] lock
+bike ['usedfor'] transport ['relatedto'] device ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] stick ['relatedto'] post ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] stick ['isa', 'relatedto'] limb ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] stick ['mannerof'] fasten ['usedfor', 'mannerof', 'relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] stick ['relatedto'] bar ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] stick ['relatedto'] bat ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] stick ['relatedto'] device ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] ball ['relatedto', 'atlocation'] hole ['atlocation'] lock
+bike ['relatedto'] handle ['relatedto'] ball ['relatedto'] bat ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] ball ['relatedto'] device ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] ball ['relatedto'] wheel ['relatedto'] lock
+bike ['relatedto'] handle ['relatedto'] ball ['relatedto'] pass ['mannerof'] lock
+bike ['relatedto'] handle ['relatedto'] ball ['relatedto'] turn ['relatedto'] lock

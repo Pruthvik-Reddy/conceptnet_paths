@@ -1,0 +1,100 @@
+wax ['capableof', 'relatedto'] melt
+wax ['relatedto'] solid ['relatedto'] melt
+wax ['relatedto'] liquid ['relatedto'] melt
+wax ['relatedto'] sticky ['relatedto'] melt
+wax ['antonym', 'relatedto', 'receivesaction'] melted ['formof', 'relatedto'] melt
+wax ['relatedto'] try ['mannerof'] melt
+wax ['derivedfrom'] lost_wax ['relatedto'] melt
+wax ['relatedto', 'derivedfrom', 'synonym'] sealing_wax ['relatedto'] melt
+wax ['relatedto'] cerate ['relatedto'] melt
+wax ['relatedto'] melting ['formof', 'relatedto'] melt
+wax ['relatedto'] melts ['formof', 'relatedto'] melt
+wax ['relatedto'] molten ['formof', 'relatedto'] melt
+wax ['relatedto'] grow ['relatedto'] action ['relatedto'] melt
+wax ['relatedto'] grow ['antonym'] diminish ['synonym'] melt
+wax ['relatedto'] grow ['relatedto'] process ['relatedto'] melt
+wax ['relatedto'] grow ['relatedto'] thaw ['relatedto', 'synonym'] melt
+wax ['relatedto'] human ['relatedto'] run ['relatedto', 'synonym'] melt
+wax ['relatedto'] fire ['antonym', 'distinctfrom'] ice ['capableof', 'relatedto'] melt
+wax ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] melt
+wax ['relatedto'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['relatedto'] melt
+wax ['relatedto'] fire ['distinctfrom'] snow ['relatedto'] melt
+wax ['relatedto'] fire ['relatedto'] process ['relatedto'] melt
+wax ['relatedto'] fire ['relatedto'] sweal ['relatedto'] melt
+wax ['relatedto'] house ['relatedto'] ice ['capableof', 'relatedto'] melt
+wax ['relatedto'] appear ['antonym'] dissolve ['mannerof', 'relatedto', 'synonym'] melt
+wax ['relatedto'] appear ['antonym', 'distinctfrom', 'relatedto'] vanish ['relatedto'] melt
+wax ['relatedto'] appear ['antonym'] disappear ['synonym'] melt
+wax ['relatedto'] apply ['relatedto'] action ['relatedto'] melt
+wax ['relatedto'] apply ['relatedto'] process ['relatedto'] melt
+wax ['relatedto'] apply ['relatedto'] soldering_iron ['relatedto'] melt
+wax ['relatedto'] leg ['relatedto'] run ['relatedto', 'synonym'] melt
+wax ['synonym'] full ['relatedto'] glass ['capableof', 'relatedto'] melt
+wax ['mannerof'] cover ['relatedto'] action ['relatedto'] melt
+wax ['mannerof'] cover ['relatedto'] warm ['relatedto'] melt
+wax ['mannerof'] cover ['relatedto'] solid ['relatedto'] melt
+wax ['mannerof'] cover ['relatedto'] glass ['capableof', 'relatedto'] melt
+wax ['relatedto', 'atlocation'] floor ['hasproperty'] sticky ['relatedto'] melt
+wax ['relatedto', 'atlocation'] floor ['relatedto'] machicolation ['relatedto'] melt
+wax ['relatedto'] thing ['isa'] action ['relatedto'] melt
+wax ['relatedto'] thing ['isa'] cheese ['relatedto'] melt
+wax ['isa'] white ['relatedto'] water ['relatedto'] melt
+wax ['isa'] white ['isa', 'relatedto'] snow ['relatedto'] melt
+wax ['isa'] white ['relatedto'] ice ['capableof', 'relatedto'] melt
+wax ['relatedto'] yellow ['relatedto'] cheese ['relatedto'] melt
+wax ['relatedto'] yellow ['relatedto'] warm ['relatedto'] melt
+wax ['relatedto'] yellow ['relatedto'] solids ['capableof'] melt
+wax ['relatedto'] body ['relatedto'] water ['relatedto'] melt
+wax ['relatedto'] body ['relatedto'] shape ['relatedto'] melt
+wax ['relatedto'] body ['relatedto'] heat ['relatedto'] melt
+wax ['relatedto'] body ['relatedto'] sweat ['relatedto'] melt
+wax ['relatedto'] glue ['hasproperty'] sticky ['relatedto'] melt
+wax ['capableof'] burn ['relatedto'] action ['relatedto'] melt
+wax ['capableof'] burn ['antonym', 'synonym'] water ['relatedto'] melt
+wax ['capableof'] burn ['antonym'] freeze ['antonym', 'distinctfrom'] melt
+wax ['capableof'] burn ['capableof'] plastic ['capableof'] melt
+wax ['capableof'] burn ['etymologicallyrelatedto'] warm ['relatedto'] melt
+wax ['capableof'] burn ['relatedto'] heat ['relatedto'] melt
+wax ['capableof'] burn ['relatedto'] melting ['formof', 'relatedto'] melt
+wax ['capableof'] burn ['relatedto'] machicolation ['relatedto'] melt
+wax ['capableof'] burn ['relatedto'] sweal ['relatedto'] melt
+wax ['relatedto'] paper ['antonym', 'relatedto'] plastic ['capableof'] melt
+wax ['relatedto'] paper ['isa'] solid ['relatedto'] melt
+wax ['relatedto'] paper ['relatedto'] snow ['relatedto'] melt
+wax ['relatedto'] line ['isa', 'relatedto'] shape ['relatedto'] melt
+wax ['relatedto'] line ['relatedto'] process ['relatedto'] melt
+wax ['atlocation'] table ['atlocation'] glass ['capableof', 'relatedto'] melt
+wax ['relatedto'] clean ['relatedto'] action ['relatedto'] melt
+wax ['relatedto'] clean ['relatedto'] ice ['capableof', 'relatedto'] melt
+wax ['relatedto'] clean ['hasproperty'] glass ['capableof', 'relatedto'] melt
+wax ['relatedto'] dirty ['hasproperty'] glass ['capableof', 'relatedto'] melt
+wax ['relatedto'] clear ['relatedto'] action ['relatedto'] melt
+wax ['relatedto'] clear ['relatedto', 'hasproperty'] water ['relatedto'] melt
+wax ['relatedto'] clear ['mannerof'] vanish ['relatedto'] melt
+wax ['relatedto'] clear ['relatedto'] ice ['capableof', 'relatedto'] melt
+wax ['relatedto'] clear ['antonym'] solid ['relatedto'] melt
+wax ['relatedto'] clear ['relatedto', 'hasproperty'] glass ['capableof', 'relatedto'] melt
+wax ['relatedto'] clear ['hasproperty'] liquid ['relatedto'] melt
+wax ['relatedto'] clear ['hasproperty'] plastic ['capableof'] melt
+wax ['relatedto'] clear ['relatedto'] process ['relatedto'] melt
+wax ['relatedto'] solid ['relatedto'] freeze ['antonym', 'distinctfrom'] melt
+wax ['relatedto'] solid ['isa', 'relatedto', 'hasproperty'] ice ['capableof', 'relatedto'] melt
+wax ['relatedto'] solid ['relatedto'] chocolate ['capableof'] melt
+wax ['relatedto'] solid ['antonym', 'isa', 'relatedto', 'hasproperty'] glass ['capableof', 'relatedto'] melt
+wax ['relatedto'] solid ['antonym', 'distinctfrom', 'relatedto', 'similarto'] liquid ['relatedto'] melt
+wax ['relatedto'] solid ['formof', 'relatedto'] solids ['capableof'] melt
+wax ['relatedto'] solid ['isa', 'hasproperty'] plastic ['capableof'] melt
+wax ['relatedto'] solid ['isa'] shape ['relatedto'] melt
+wax ['relatedto'] solid ['relatedto'] crystallization ['relatedto'] melt
+wax ['relatedto'] solid ['relatedto'] melting ['formof', 'relatedto'] melt
+wax ['relatedto'] solid ['relatedto'] resolve ['relatedto', 'synonym'] melt
+wax ['relatedto'] solid ['relatedto'] snow ['relatedto'] melt
+wax ['relatedto'] solid ['relatedto'] solidify ['antonym'] melt
+wax ['relatedto'] solid ['relatedto'] undermelt ['derivedfrom'] melt
+wax ['synonym'] climb ['relatedto'] action ['relatedto'] melt
+wax ['synonym'] climb ['hasprerequisite'] water ['relatedto'] melt
+wax ['relatedto'] hot ['relatedto', 'similarto'] warm ['relatedto'] melt
+wax ['relatedto'] hot ['relatedto'] heat ['relatedto'] melt
+wax ['relatedto'] hot ['antonym'] snow ['relatedto'] melt
+wax ['relatedto'] compound ['relatedto'] smelt ['relatedto'] melt
+wax ['mannerof', 'relatedto', 'synonym'] increase ['relatedto'] action ['relatedto'] melt

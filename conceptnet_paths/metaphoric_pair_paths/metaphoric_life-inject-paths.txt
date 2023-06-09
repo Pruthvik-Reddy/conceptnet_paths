@@ -1,0 +1,100 @@
+life ['desires'] grow ['mannerof'] shoot ['relatedto', 'synonym'] inject
+life ['relatedto'] human ['isa'] fang ['relatedto'] inject
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] injection ['relatedto'] inject
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] preslug ['relatedto'] inject
+life ['isa', 'relatedto', 'hasprerequisite'] water ['relatedto'] pump ['relatedto'] inject
+life ['relatedto'] animal ['relatedto'] feed ['mannerof'] inject
+life ['relatedto'] plant ['relatedto'] shoot ['relatedto', 'synonym'] inject
+life ['relatedto'] art ['relatedto'] pop ['mannerof'] inject
+life ['synonym'] time ['relatedto'] introduce ['relatedto'] inject
+life ['synonym'] time ['relatedto'] passage ['relatedto'] inject
+life ['relatedto'] board ['entails'] feed ['mannerof'] inject
+life ['isa'] magazine ['isa'] slam ['relatedto'] inject
+life ['isa'] magazine ['relatedto'] insert ['mannerof'] inject
+life ['relatedto'] mate ['relatedto'] introduce ['relatedto'] inject
+life ['relatedto'] cell ['relatedto'] carboxytherapy ['relatedto'] inject
+life ['relatedto'] force ['isa', 'relatedto', 'synonym'] push ['relatedto'] inject
+life ['relatedto', 'synonym'] state ['mannerof'] add ['mannerof'] inject
+life ['relatedto'] cold ['relatedto'] passage ['relatedto'] inject
+life ['relatedto'] cold ['relatedto'] injection ['relatedto'] inject
+life ['partof'] past ['relatedto'] feed ['mannerof'] inject
+life ['relatedto'] danger ['isa'] vulnerability ['relatedto'] inject
+life ['antonym'] void ['similarto'] cavity ['relatedto'] inject
+life ['relatedto', 'hasproperty'] energy ['synonym'] push ['relatedto'] inject
+life ['hasproperty'] hard ['relatedto'] push ['relatedto'] inject
+life ['isa'] ghetto ['atlocation'] drug ['mannerof'] inject
+life ['isa'] journey ['isa', 'relatedto'] passage ['relatedto'] inject
+life ['relatedto'] blood ['relatedto'] carboxytherapy ['relatedto'] inject
+life ['relatedto'] blood ['relatedto'] pump ['relatedto'] inject
+life ['relatedto'] bushido ['isa', 'relatedto'] code ['relatedto'] inject
+life ['relatedto'] game ['relatedto'] program ['relatedto'] inject
+life ['relatedto'] kill ['mannerof', 'hasprerequisite'] shoot ['relatedto', 'synonym'] inject
+life ['relatedto'] leaflet ['relatedto'] insert ['mannerof'] inject
+life ['relatedto'] live ['relatedto'] program ['relatedto'] inject
+life ['relatedto'] way ['isa', 'relatedto'] passage ['relatedto'] inject
+life ['relatedto'] puff ['relatedto'] drug ['mannerof'] inject
+life ['relatedto'] road ['relatedto'] passage ['relatedto'] inject
+life ['usedfor'] eating ['relatedto'] feed ['mannerof'] inject
+life ['relatedto', 'synonym'] existence ['antonym'] void ['similarto'] cavity ['relatedto'] inject
+life ['relatedto', 'synonym'] existence ['relatedto'] begin ['relatedto'] introduce ['relatedto'] inject
+life ['relatedto', 'synonym'] existence ['relatedto'] emergent ['relatedto'] shoot ['relatedto', 'synonym'] inject
+life ['relatedto', 'synonym'] existence ['relatedto'] substance ['relatedto'] drug ['mannerof'] inject
+life ['relatedto', 'synonym'] existence ['relatedto'] substance ['relatedto'] injectant ['relatedto'] inject
+life ['relatedto', 'synonym'] existence ['relatedto'] substance ['relatedto'] preslug ['relatedto'] inject
+life ['relatedto', 'synonym'] existence ['relatedto'] live ['relatedto'] program ['relatedto'] inject
+life ['relatedto'] biological ['antonym'] adopt ['relatedto'] fang ['relatedto'] inject
+life ['relatedto'] biological ['relatedto'] biocarrier ['relatedto'] drug ['mannerof'] inject
+life ['relatedto'] biological ['relatedto'] biooncology ['relatedto'] drug ['mannerof'] inject
+life ['relatedto'] biological ['relatedto'] cavicapture ['relatedto'] cavity ['relatedto'] inject
+life ['relatedto'] biological ['relatedto'] cell ['relatedto'] carboxytherapy ['relatedto'] inject
+life ['relatedto'] biological ['relatedto'] combination_product ['relatedto'] drug ['mannerof'] inject
+life ['relatedto'] biological ['relatedto'] discovery_informatics ['relatedto'] drug ['mannerof'] inject
+life ['relatedto'] biological ['relatedto'] dry ['etymologicallyrelatedto'] drug ['mannerof'] inject
+life ['relatedto'] biological ['relatedto'] grow ['mannerof'] shoot ['relatedto', 'synonym'] inject
+life ['relatedto'] biological ['relatedto'] pharmacophore ['relatedto'] drug ['mannerof'] inject
+life ['relatedto'] biological ['relatedto'] plant ['relatedto'] shoot ['relatedto', 'synonym'] inject
+life ['relatedto'] biological ['relatedto'] radioactive_tracer ['relatedto'] injected ['formof', 'relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] act ['relatedto'] passage ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['antonym', 'distinctfrom'] adopt ['relatedto'] fang ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['antonym'] kill ['mannerof', 'hasprerequisite'] shoot ['relatedto', 'synonym'] inject
+life ['relatedto', 'partof'] birth ['isa'] delivery ['isa'] passage ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['isa'] delivery ['relatedto'] drug ['mannerof'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] announcement ['isa'] program ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] baby ['relatedto'] feed ['mannerof'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] hospital ['atlocation'] syringe ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] new ['relatedto'] introduce ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] new_people ['relatedto'] introduce ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] birth_canal ['isa'] passage ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] blood ['relatedto'] carboxytherapy ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] blood ['relatedto'] pump ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] infusionism ['relatedto'] infuse ['mannerof'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] name ['relatedto'] introduce ['relatedto'] inject
+life ['relatedto', 'partof'] birth ['relatedto'] presentation ['relatedto'] introduce ['relatedto'] inject
+life ['relatedto'] adulthood ['relatedto'] induct ['relatedto', 'synonym'] introduce ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] action ['relatedto'] add ['mannerof'] inject
+life ['isa'] adventure ['relatedto'] action ['relatedto'] drug ['mannerof'] inject
+life ['isa'] adventure ['relatedto'] action ['relatedto'] feed ['mannerof'] inject
+life ['isa'] adventure ['relatedto'] action ['relatedto'] introduce ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] action ['relatedto'] push ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] action ['relatedto'] shoot ['relatedto', 'synonym'] inject
+life ['isa'] adventure ['isa', 'relatedto'] journey ['isa', 'relatedto'] passage ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] danger ['isa'] vulnerability ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] hunt ['relatedto'] shoot ['relatedto', 'synonym'] inject
+life ['isa'] adventure ['relatedto'] new ['relatedto'] introduce ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] taking ['usedfor'] drug ['mannerof'] inject
+life ['isa'] adventure ['relatedto'] time ['relatedto'] introduce ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] time ['relatedto'] passage ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] travel ['mannerof'] push ['relatedto'] inject
+life ['isa'] adventure ['relatedto'] trip ['causes', 'relatedto'] drug ['mannerof'] inject
+life ['isa'] adventure ['relatedto'] stake ['relatedto'] insert ['mannerof'] inject
+life ['isa'] adventure ['relatedto'] horse_opera ['relatedto'] program ['relatedto'] inject
+life ['isa', 'relatedto'] aerobiosis ['relatedto'] air ['relatedto'] pump ['relatedto'] inject
+life ['relatedto'] anaerobiosis ['relatedto'] air ['relatedto'] pump ['relatedto'] inject
+life ['isa'] afterlife ['relatedto'] place ['isa', 'relatedto'] passage ['relatedto'] inject
+life ['isa'] afterlife ['relatedto'] place ['relatedto'] pop ['mannerof'] inject
+life ['relatedto', 'partof'] age ['antonym', 'relatedto'] getting ['relatedto'] drug ['mannerof'] inject
+life ['relatedto', 'partof'] age ['antonym', 'relatedto'] grow ['mannerof'] shoot ['relatedto', 'synonym'] inject
+life ['relatedto', 'partof'] age ['antonym', 'relatedto'] human ['isa'] fang ['relatedto'] inject
+life ['relatedto', 'partof'] age ['capableof', 'relatedto'] time ['relatedto'] introduce ['relatedto'] inject
+life ['relatedto', 'partof'] age ['capableof', 'relatedto'] time ['relatedto'] passage ['relatedto'] inject
+life ['relatedto', 'partof'] age ['isa'] newspaper ['relatedto'] insert ['mannerof'] inject

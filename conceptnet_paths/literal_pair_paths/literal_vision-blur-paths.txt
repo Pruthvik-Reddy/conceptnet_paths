@@ -1,0 +1,100 @@
+vision ['relatedto'] myopia ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['relatedto'] blur
+vision ['relatedto'] religious ['relatedto'] fast ['relatedto'] blur
+vision ['relatedto'] blind ['mannerof'] change ['mannerof'] blur
+vision ['relatedto'] blind ['synonym'] dim ['relatedto', 'synonym'] blur
+vision ['relatedto'] color ['mannerof'] change ['mannerof'] blur
+vision ['relatedto'] double ['relatedto'] blurry ['relatedto'] blur
+vision ['relatedto'] double ['relatedto'] macule ['relatedto'] blur
+vision ['relatedto'] double ['relatedto'] slur ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] dream ['relatedto'] imagery ['isa'] blur
+vision ['relatedto', 'synonym'] dream ['relatedto'] phantasmagoric ['relatedto'] blur
+vision ['isa'] experience ['mannerof'] change ['mannerof'] blur
+vision ['usedfor', 'relatedto'] eye ['capableof'] focus ['relatedto'] blur
+vision ['usedfor', 'relatedto'] eye ['relatedto'] input ['relatedto'] blur
+vision ['relatedto'] myopia ['relatedto'] focus ['relatedto'] blur
+vision ['isa', 'synonym'] imagination ['relatedto'] myopia ['relatedto'] blur
+vision ['isa', 'synonym'] imagination ['synonym'] imagery ['isa'] blur
+vision ['relatedto'] visible ['relatedto'] stain ['relatedto'] blur
+vision ['relatedto'] imaginary ['relatedto'] imagery ['isa'] blur
+vision ['relatedto'] imaginary ['relatedto'] phantasmagoric ['relatedto'] blur
+vision ['antonym', 'distinctfrom'] sound ['relatedto'] fast ['relatedto'] blur
+vision ['antonym', 'distinctfrom'] sound ['relatedto'] input ['relatedto'] blur
+vision ['hasprerequisite'] seeing_art ['causes'] confusion ['relatedto'] blur
+vision ['relatedto'] blindfold ['relatedto'] obscure ['relatedto'] blur
+vision ['relatedto'] darken ['mannerof', 'synonym'] dim ['relatedto', 'synonym'] blur
+vision ['relatedto'] darken ['mannerof'] change ['mannerof'] blur
+vision ['relatedto'] darken ['mannerof'] obscure ['relatedto'] blur
+vision ['relatedto'] eagle ['relatedto'] representation ['isa'] blur
+vision ['relatedto'] emmetropia ['relatedto'] myopia ['relatedto'] blur
+vision ['relatedto'] macula ['synonym'] macule ['relatedto'] blur
+vision ['relatedto'] neosurrealism ['relatedto'] imagery ['isa'] blur
+vision ['relatedto'] opia ['derivedfrom'] myopia ['relatedto'] blur
+vision ['relatedto'] reflection ['isa'] imagery ['isa'] blur
+vision ['relatedto'] revision ['relatedto'] change ['mannerof'] blur
+vision ['relatedto'] scotodinia ['relatedto'] blurred ['formof', 'relatedto'] blur
+vision ['relatedto'] strabismus ['relatedto'] focus ['relatedto'] blur
+vision ['relatedto'] imagine ['relatedto'] imagery ['isa'] blur
+vision ['relatedto'] vision_quest ['relatedto'] fast ['relatedto'] blur
+vision ['relatedto'] visual ['relatedto'] zoom_blur ['relatedto'] blur
+vision ['relatedto'] visualize ['mannerof'] change ['mannerof'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] abstract ['relatedto'] fast ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['antonym', 'distinctfrom'] smell ['relatedto'] bokashi ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['antonym', 'distinctfrom', 'relatedto'] sound ['relatedto'] fast ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['antonym', 'distinctfrom', 'relatedto'] sound ['relatedto'] input ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['distinctfrom'] touch ['mannerof'] change ['mannerof'] blur
+vision ['relatedto', 'synonym'] sight ['distinctfrom'] touch ['relatedto'] input ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['isa'] display ['isa'] representation ['isa'] blur
+vision ['relatedto', 'synonym'] sight ['isa', 'relatedto'] spectacle ['isa'] imagery ['isa'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] blind ['mannerof'] change ['mannerof'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] blind ['synonym'] dim ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] cloud ['mannerof'] change ['mannerof'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] cloud ['relatedto', 'similarto', 'synonym'] obscure ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] cloud ['synonym'] opaque ['synonym'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] cloud ['isa'] video_game ['isa'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] cloud ['isa', 'relatedto'] fog ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] dream ['relatedto'] imagery ['isa'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] dream ['relatedto'] phantasmagoric ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] eye ['capableof'] focus ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] eye ['relatedto'] input ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto'] dim ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto'] confusion ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto'] blurry ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto'] hazy ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto', 'synonym'] obscure ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto'] bokashi ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] hidden ['relatedto', 'synonym'] obscure ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] hide ['mannerof', 'relatedto', 'synonym'] obscure ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] manifest ['relatedto'] doubt ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] manifest ['relatedto'] obscure ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['mannerof'] change ['mannerof'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['relatedto'] hazy ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['relatedto', 'synonym'] fog ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['relatedto'] indistinct ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['relatedto'] smudge ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['synonym'] obliterate ['mannerof'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] obscure ['synonym'] confuse ['synonym'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] visual ['relatedto'] zoom_blur ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['relatedto'] thick ['relatedto'] fog ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] sight ['usedfor'] light ['relatedto'] dim ['relatedto', 'synonym'] blur
+vision ['relatedto', 'synonym'] sight ['usedfor'] light ['relatedto'] opaque ['synonym'] blur
+vision ['relatedto', 'synonym'] sight ['usedfor'] light ['antonym', 'relatedto'] fast ['relatedto'] blur
+vision ['relatedto', 'synonym'] sight ['usedfor'] light ['relatedto'] focus ['relatedto'] blur
+vision ['relatedto'] sense ['isa', 'relatedto', 'synonym'] sight ['relatedto'] fog ['relatedto', 'synonym'] blur
+vision ['relatedto'] sense ['isa', 'relatedto', 'synonym'] sight ['relatedto'] obscure ['relatedto'] blur
+vision ['relatedto'] sense ['isa', 'relatedto', 'synonym'] meaning ['isa'] moral ['relatedto'] blur
+vision ['relatedto'] sense ['isa'] river ['relatedto'] fast ['relatedto'] blur
+vision ['relatedto'] sense ['isa'] sensitivity ['relatedto'] change ['mannerof'] blur
+vision ['relatedto'] sense ['isa'] sensitivity ['relatedto'] input ['relatedto'] blur
+vision ['relatedto'] sense ['mannerof'] understand ['relatedto'] obscure ['relatedto'] blur
+vision ['relatedto'] sense ['mannerof'] understand ['relatedto'] indistinct ['relatedto'] blur
+vision ['relatedto'] sense ['relatedto'] bleary ['relatedto', 'synonym'] blurry ['relatedto'] blur
+vision ['relatedto'] sense ['relatedto'] bleary ['synonym'] hazy ['relatedto'] blur
+vision ['relatedto'] sense ['relatedto'] bleary ['similarto'] indistinct ['relatedto'] blur
+vision ['relatedto'] sense ['relatedto'] bleary ['relatedto'] blear ['etymologicallyrelatedto', 'relatedto', 'synonym'] blur
+vision ['relatedto'] sense ['relatedto'] bleary ['synonym'] blurred ['formof', 'relatedto'] blur
+vision ['relatedto'] sense ['relatedto'] clear ['relatedto'] doubt ['relatedto'] blur
+vision ['relatedto'] sense ['relatedto'] clear ['mannerof'] change ['mannerof'] blur
+vision ['relatedto'] sense ['relatedto'] clear ['antonym', 'distinctfrom', 'relatedto'] blurry ['relatedto'] blur
+vision ['relatedto'] sense ['relatedto'] clear ['antonym', 'relatedto'] hazy ['relatedto'] blur

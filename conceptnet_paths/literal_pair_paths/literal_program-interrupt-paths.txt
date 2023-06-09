@@ -1,0 +1,100 @@
+program ['relatedto', 'atlocation'] computer ['relatedto'] interrupt
+program ['relatedto'] process ['relatedto'] interrupt
+program ['relatedto'] activity ['isa'] act ['mannerof'] interrupt
+program ['relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] interrupt
+program ['relatedto'] activity ['relatedto'] cut ['mannerof'] interrupt
+program ['causesdesire'] problem ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+program ['relatedto'] reply ['relatedto'] act ['mannerof'] interrupt
+program ['relatedto'] reply ['relatedto'] action ['relatedto'] interrupt
+program ['isa'] bill ['synonym'] act ['mannerof'] interrupt
+program ['isa'] bill ['relatedto'] cut ['mannerof'] interrupt
+program ['isa'] spreadsheet ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] command ['relatedto'] stop ['mannerof'] interrupt
+program ['relatedto'] command ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] command ['relatedto'] halt ['relatedto', 'similarto'] interrupt
+program ['relatedto'] command ['relatedto'] pause ['mannerof'] interrupt
+program ['relatedto', 'synonym', 'atlocation'] show ['relatedto'] act ['mannerof'] interrupt
+program ['relatedto'] terminal ['relatedto'] terminate ['similarto'] interrupt
+program ['relatedto'] terminal ['relatedto', 'synonym'] end ['mannerof'] interrupt
+program ['relatedto'] terminal ['relatedto'] sigint ['relatedto'] interrupt
+program ['relatedto'] terminal ['relatedto'] signal ['isa'] interrupt
+program ['relatedto'] news ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+program ['relatedto'] live ['relatedto'] action ['relatedto'] interrupt
+program ['relatedto'] live ['relatedto'] continue ['antonym'] interrupt
+program ['relatedto', 'atlocation'] computer ['distinctfrom'] chop ['relatedto'] interrupt
+program ['relatedto', 'atlocation'] computer ['relatedto'] pause ['mannerof'] interrupt
+program ['relatedto', 'atlocation'] computer ['relatedto'] cut ['mannerof'] interrupt
+program ['relatedto', 'atlocation'] computer ['usedfor', 'relatedto'] process ['relatedto'] interrupt
+program ['relatedto'] escape ['relatedto'] action ['relatedto'] interrupt
+program ['relatedto'] escape ['isa', 'mannerof', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+program ['relatedto'] escape ['relatedto'] cut ['mannerof'] interrupt
+program ['relatedto'] escape ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] escape ['relatedto'] halt ['relatedto', 'similarto'] interrupt
+program ['isa'] performance ['isa', 'relatedto'] act ['mannerof'] interrupt
+program ['isa'] performance ['isa', 'relatedto'] action ['relatedto'] interrupt
+program ['isa'] performance ['relatedto'] mask ['relatedto'] interrupt
+program ['relatedto'] exchange ['relatedto'] action ['relatedto'] interrupt
+program ['relatedto'] exchange ['relatedto'] chop ['relatedto'] interrupt
+program ['relatedto'] game ['relatedto'] action ['relatedto'] interrupt
+program ['relatedto'] game ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+program ['relatedto'] game ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] fork ['relatedto'] process ['relatedto'] interrupt
+program ['relatedto'] guard ['mannerof'] act ['mannerof'] interrupt
+program ['isa', 'relatedto'] software ['isa'] action ['relatedto'] interrupt
+program ['isa', 'relatedto'] software ['hasa', 'relatedto', 'atlocation'] computer ['relatedto'] interrupt
+program ['relatedto'] office ['relatedto'] act ['mannerof'] interrupt
+program ['relatedto'] office ['atlocation'] computer ['relatedto'] interrupt
+program ['relatedto'] login ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] pessimize ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] optimize ['mannerof'] act ['mannerof'] interrupt
+program ['relatedto'] optimize ['relatedto'] computer ['relatedto'] interrupt
+program ['synonym'] plan ['relatedto'] zwischenzug ['relatedto'] interrupt
+program ['relatedto'] service ['relatedto'] act ['mannerof'] interrupt
+program ['relatedto'] run ['relatedto'] action ['relatedto'] interrupt
+program ['relatedto'] run ['antonym', 'haslastsubevent', 'relatedto'] stop ['mannerof'] interrupt
+program ['relatedto'] run ['relatedto'] continue ['antonym'] interrupt
+program ['relatedto'] run ['mannerof'] process ['relatedto'] interrupt
+program ['relatedto'] vectorize ['relatedto'] vector ['relatedto'] interrupt
+program ['relatedto'] server ['isa', 'relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] spot ['relatedto'] stop ['mannerof'] interrupt
+program ['relatedto'] tax ['relatedto'] cut ['mannerof'] interrupt
+program ['relatedto'] execution ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] execution ['isa'] process ['relatedto'] interrupt
+program ['relatedto'] execution ['relatedto'] zwischenzug ['relatedto'] interrupt
+program ['relatedto'] load ['relatedto'] page_fault ['relatedto'] interrupt
+program ['relatedto'] weather ['relatedto'] action ['relatedto'] interrupt
+program ['relatedto'] weather ['relatedto'] freeze ['mannerof'] interrupt
+program ['relatedto'] weather ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+program ['relatedto'] worker ['relatedto'] computer ['relatedto'] interrupt
+program ['atlocation'] theater ['relatedto'] act ['mannerof'] interrupt
+program ['atlocation'] opera ['partof'] act ['mannerof'] interrupt
+program ['relatedto'] network ['relatedto', 'partof'] computer ['relatedto'] interrupt
+program ['relatedto'] dump ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+program ['createdby', 'relatedto'] programmer ['relatedto'] computer ['relatedto'] interrupt
+program ['formof', 'synonym'] programme ['relatedto'] computer ['relatedto'] interrupt
+program ['formof', 'relatedto'] programmed ['receivesaction'] computer ['relatedto'] interrupt
+program ['haslastsubevent', 'relatedto'] debug ['relatedto'] computer ['relatedto'] interrupt
+program ['hasprerequisite'] flow_chart ['relatedto'] process ['relatedto'] interrupt
+program ['isa', 'relatedto'] application ['isa'] action ['relatedto'] interrupt
+program ['isa', 'relatedto'] application ['relatedto'] end ['mannerof'] interrupt
+program ['isa', 'synonym'] computer_program ['relatedto'] process ['relatedto'] interrupt
+program ['isa'] loop ['relatedto'] continue ['antonym'] interrupt
+program ['isa'] project ['relatedto', 'synonym'] throw ['relatedto'] interrupt
+program ['isa'] project ['relatedto'] jam ['mannerof'] interrupt
+program ['isa'] system ['relatedto'] computer ['relatedto'] interrupt
+program ['isa'] system ['relatedto'] vibrator ['relatedto'] interrupt
+program ['isa'] utility_program ['relatedto'] computer ['relatedto'] interrupt
+program ['mannerof'] hack ['relatedto', 'synonym'] chop ['relatedto'] interrupt
+program ['mannerof'] hack ['mannerof', 'synonym'] cut ['mannerof'] interrupt
+program ['relatedto', 'partof'] instruction ['relatedto'] stop ['mannerof'] interrupt
+program ['relatedto', 'partof'] instruction ['relatedto'] wait_state ['relatedto'] interrupt
+program ['partof'] routine ['relatedto', 'synonym'] act ['mannerof'] interrupt
+program ['partof'] routine ['relatedto'] action ['relatedto'] interrupt
+program ['relatedto'] antiprogram ['relatedto'] action ['relatedto'] interrupt
+program ['relatedto'] beauregard_claim ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] beauregard_claim ['relatedto'] process ['relatedto'] interrupt
+program ['relatedto'] bitness ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] bot ['relatedto'] computer ['relatedto'] interrupt
+program ['relatedto'] breakpoint ['derivedfrom'] break ['mannerof', 'relatedto', 'synonym'] interrupt
+program ['relatedto'] breakpoint ['relatedto'] interrupted ['formof', 'relatedto'] interrupt
+program ['relatedto'] chinese_room ['relatedto'] computer ['relatedto'] interrupt

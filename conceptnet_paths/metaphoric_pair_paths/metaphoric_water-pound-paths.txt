@@ -1,0 +1,100 @@
+water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] pound
+water ['hasa', 'relatedto', 'atlocation'] pool ['relatedto'] pound
+water ['hasa', 'relatedto'] canal ['relatedto'] pound
+water ['hasa'] weight ['relatedto'] pound
+water ['relatedto', 'hasprerequisite'] fishing ['relatedto'] pound
+water ['relatedto'] british_thermal_unit ['relatedto'] pound
+water ['relatedto'] mortar ['relatedto'] pound
+water ['relatedto'] paste ['relatedto'] pound
+water ['relatedto'] stone ['relatedto', 'partof'] pound
+water ['usedfor', 'relatedto'] tap ['relatedto'] pound
+water ['relatedto'] concrete ['relatedto'] hard ['relatedto'] pound
+water ['relatedto'] concrete ['relatedto'] mass ['relatedto'] pound
+water ['relatedto'] concrete ['relatedto'] mortar ['relatedto'] pound
+water ['relatedto'] basic ['isa'] software ['isa'] pound
+water ['relatedto'] basic ['relatedto'] lira ['relatedto'] pound
+water ['relatedto'] basic ['relatedto'] unit ['relatedto'] pound
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] blow ['relatedto'] pound
+water ['antonym', 'relatedto'] earth ['relatedto'] large ['relatedto'] pound
+water ['antonym', 'relatedto'] earth ['relatedto'] stone ['relatedto', 'partof'] pound
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['isa'] software ['isa'] pound
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] score ['relatedto'] pound
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] mortar ['relatedto'] pound
+water ['antonym', 'relatedto'] ground ['atlocation'] dog ['atlocation'] pound
+water ['antonym', 'relatedto'] ground ['atlocation'] money ['relatedto'] pound
+water ['antonym', 'relatedto'] ground ['mannerof'] restrain ['mannerof'] pound
+water ['antonym', 'relatedto'] ground ['relatedto'] hard ['relatedto'] pound
+water ['antonym', 'relatedto'] ground ['relatedto'] powder ['relatedto', 'synonym'] pound
+water ['antonym', 'relatedto'] ground ['relatedto'] lot ['relatedto'] pound
+water ['antonym', 'relatedto'] ground ['relatedto'] stone ['relatedto', 'partof'] pound
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] canal ['relatedto'] pound
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] lake ['relatedto'] pound
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] mass ['relatedto'] pound
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] lot ['relatedto'] pound
+water ['antonym', 'relatedto'] bread ['relatedto'] money ['relatedto'] pound
+water ['antonym', 'relatedto'] bread ['relatedto'] net ['relatedto'] pound
+water ['antonym', 'relatedto'] bread ['relatedto'] quartern ['relatedto'] pound
+water ['antonym', 'synonym'] burn ['etymologicallyrelatedto'] warm ['hasproperty'] pound
+water ['antonym', 'synonym'] burn ['relatedto'] stone ['relatedto', 'partof'] pound
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] beat ['relatedto', 'synonym'] pound
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] animal ['relatedto'] pound
+water ['antonym', 'relatedto', 'atlocation'] rock ['isa', 'relatedto'] hard ['relatedto'] pound
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] hammer ['usedfor', 'relatedto', 'synonym'] pound
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] large ['relatedto'] pound
+water ['antonym', 'relatedto', 'atlocation'] rock ['distinctfrom', 'relatedto', 'similarto', 'synonym', 'isa'] stone ['relatedto', 'partof'] pound
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] noise ['relatedto'] pound
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] unit ['relatedto'] pound
+water ['antonym', 'relatedto'] sand ['antonym', 'relatedto'] stone ['relatedto', 'partof'] pound
+water ['antonym', 'relatedto'] sand ['relatedto'] mortar ['relatedto'] pound
+water ['antonym', 'relatedto'] sand ['relatedto'] powder ['relatedto', 'synonym'] pound
+water ['antonym', 'relatedto'] sand ['relatedto'] unit ['relatedto'] pound
+water ['antonym', 'relatedto'] soap ['relatedto'] money ['relatedto'] pound
+water ['antonym', 'relatedto'] soap ['atlocation'] united_states ['relatedto'] pound
+water ['antonym', 'relatedto'] soap ['relatedto'] powder ['relatedto', 'synonym'] pound
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] warm ['hasproperty'] pound
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['isa'] software ['isa'] pound
+water ['antonym', 'isa'] food ['usedfor'] animal ['relatedto'] pound
+water ['antonym', 'isa'] food ['desires'] dog ['atlocation'] pound
+water ['antonym', 'isa'] food ['distinctfrom'] paste ['relatedto'] pound
+water ['antonym', 'isa'] food ['isa'] candy ['relatedto'] pound
+water ['antonym', 'isa'] food ['isa'] pound_cake ['etymologicallyrelatedto'] pound
+water ['antonym', 'isa'] food ['relatedto'] beat ['relatedto', 'synonym'] pound
+water ['antonym', 'isa'] food ['relatedto'] hash ['relatedto'] pound
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto', 'hasproperty'] hard ['relatedto'] pound
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] unit ['relatedto'] pound
+water ['antonym', 'relatedto'] wave ['isa', 'relatedto'] noise ['relatedto'] pound
+water ['antonym', 'relatedto'] wave ['relatedto'] repeated ['relatedto'] pound
+water ['atlocation'] amoeba ['isa'] software ['isa'] pound
+water ['atlocation'] anemone ['atlocation'] pool ['relatedto'] pound
+water ['atlocation'] bacteria ['relatedto'] animal ['relatedto'] pound
+water ['atlocation'] bacteria ['atlocation'] lake ['relatedto'] pound
+water ['relatedto', 'atlocation'] bass ['atlocation'] lake ['relatedto'] pound
+water ['relatedto', 'atlocation'] bass ['isa', 'relatedto'] pitch ['relatedto'] pound
+water ['relatedto', 'atlocation'] bass ['relatedto'] large ['relatedto'] pound
+water ['relatedto', 'atlocation'] bass ['relatedto'] noise ['relatedto'] pound
+water ['relatedto', 'atlocation'] bass ['relatedto'] thump ['relatedto', 'synonym'] pound
+water ['hasa', 'relatedto', 'atlocation'] bay ['atlocation'] lake ['relatedto'] pound
+water ['hasa', 'relatedto', 'atlocation'] bay ['usedfor'] fishing ['relatedto'] pound
+water ['relatedto', 'atlocation'] boat ['relatedto', 'atlocation'] lake ['relatedto'] pound
+water ['relatedto', 'atlocation'] boat ['atlocation'] net ['relatedto'] pound
+water ['relatedto', 'atlocation'] boat ['isa'] punt ['relatedto'] pound
+water ['relatedto', 'atlocation'] boat ['usedfor', 'relatedto'] fishing ['relatedto'] pound
+water ['relatedto', 'atlocation'] boat ['relatedto'] canal ['relatedto'] pound
+water ['atlocation'] boats ['relatedto'] lake ['relatedto'] pound
+water ['atlocation'] boats ['relatedto'] canal ['relatedto'] pound
+water ['atlocation'] boats ['usedfor'] fishing ['relatedto'] pound
+water ['atlocation'] bottom ['relatedto'] sexual ['relatedto'] pound
+water ['atlocation'] bottom ['relatedto'] powder ['relatedto', 'synonym'] pound
+water ['atlocation'] bottom ['synonym'] penetrate ['relatedto'] pound
+water ['atlocation'] bubbles ['relatedto'] blow ['relatedto'] pound
+water ['atlocation'] bugs ['relatedto'] smash ['relatedto', 'synonym'] pound
+water ['atlocation'] canoe ['relatedto'] american ['relatedto'] pound
+water ['atlocation'] canoe ['usedfor'] fishing ['relatedto'] pound
+water ['relatedto', 'atlocation'] catfish ['relatedto'] scale ['relatedto'] pound
+water ['atlocation'] clam ['relatedto'] animal ['relatedto'] pound
+water ['atlocation'] clam ['relatedto', 'synonym'] dollar ['relatedto'] pound
+water ['atlocation'] coral ['isa'] animal ['relatedto'] pound
+water ['atlocation'] crustacean ['isa'] animal ['relatedto'] pound
+water ['relatedto', 'atlocation'] current ['relatedto'] blow ['relatedto'] pound
+water ['relatedto', 'atlocation'] current ['relatedto'] currency ['isa', 'relatedto'] pound
+water ['relatedto', 'atlocation'] current ['relatedto'] measurement ['relatedto'] pound

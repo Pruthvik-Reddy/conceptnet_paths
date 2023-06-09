@@ -1,0 +1,100 @@
+illness ['relatedto'] doctor ['relatedto'] visit
+illness ['isa', 'relatedto'] pain ['relatedto'] visit
+illness ['usedfor'] rest ['relatedto'] home ['relatedto'] visit
+illness ['usedfor'] rest ['relatedto'] go ['relatedto'] visit
+illness ['causes'] getting ['relatedto'] join ['relatedto'] visit
+illness ['causes'] getting ['relatedto'] apply ['relatedto'] visit
+illness ['causes'] getting ['relatedto'] call ['isa', 'relatedto', 'synonym'] visit
+illness ['causes'] getting ['relatedto'] doctor ['relatedto'] visit
+illness ['causes'] getting ['relatedto'] go ['relatedto'] visit
+illness ['isa'] death ['relatedto'] go ['relatedto'] visit
+illness ['relatedto'] blind ['antonym', 'distinctfrom', 'relatedto'] see ['mannerof', 'synonym'] visit
+illness ['atlocation'] body ['relatedto', 'atlocation'] pain ['relatedto'] visit
+illness ['atlocation'] body ['relatedto'] doctor ['relatedto'] visit
+illness ['relatedto'] bone ['relatedto'] home ['relatedto'] visit
+illness ['relatedto'] heal ['antonym'] harm ['relatedto'] visit
+illness ['relatedto'] heal ['usedfor', 'relatedto'] doctor ['relatedto'] visit
+illness ['isa'] stable ['relatedto'] home ['relatedto'] visit
+illness ['relatedto'] cold ['relatedto'] relative ['capableof'] visit
+illness ['relatedto'] cold ['relatedto', 'hasproperty', 'atlocation'] space ['relatedto'] visit
+illness ['isa', 'relatedto'] condition ['isa'] comfort ['relatedto'] visit
+illness ['isa', 'relatedto'] condition ['relatedto'] drop ['relatedto'] visit
+illness ['isa', 'relatedto'] condition ['relatedto'] inspect ['synonym'] visit
+illness ['relatedto'] cure ['atlocation'] doctor ['relatedto'] visit
+illness ['isa', 'relatedto', 'synonym'] disease ['relatedto'] pain ['relatedto'] visit
+illness ['relatedto'] dangerous ['relatedto'] harm ['relatedto'] visit
+illness ['antonym', 'distinctfrom', 'relatedto'] health ['relatedto'] doctor ['relatedto'] visit
+illness ['relatedto'] doctor ['relatedto'] appointment ['relatedto'] visit
+illness ['relatedto'] doctor ['relatedto'] go ['relatedto'] visit
+illness ['relatedto'] doctor ['relatedto'] pain ['relatedto'] visit
+illness ['relatedto'] doctor ['relatedto'] surgery ['relatedto'] visit
+illness ['relatedto', 'derivedfrom'] ill ['relatedto'] harm ['relatedto'] visit
+illness ['relatedto', 'derivedfrom'] ill ['synonym'] pain ['relatedto'] visit
+illness ['isa'] growth ['relatedto'] flower ['relatedto'] visit
+illness ['atlocation'] hospital ['relatedto', 'atlocation'] doctor ['relatedto'] visit
+illness ['atlocation'] hospital ['usedfor', 'relatedto'] surgery ['relatedto'] visit
+illness ['atlocation'] hospital ['relatedto'] visitor ['relatedto', 'derivedfrom'] visit
+illness ['atlocation'] hospital ['relatedto'] ward_round ['relatedto'] visit
+illness ['atlocation'] nursing_home ['synonym'] home ['relatedto'] visit
+illness ['atlocation'] nursing_home ['atlocation'] doctor ['relatedto'] visit
+illness ['atlocation'] old_lady ['atlocation'] home ['relatedto'] visit
+illness ['causes'] catching_mumps ['causes'] pain ['relatedto'] visit
+illness ['isa'] arthritis ['relatedto'] pain ['relatedto'] visit
+illness ['isa'] colic ['isa'] pain ['relatedto'] visit
+illness ['isa'] collapse ['relatedto'] go ['relatedto'] visit
+illness ['isa'] cyclic_vomiting_syndrome ['relatedto'] pain ['relatedto'] visit
+illness ['isa'] fibromyalgia ['relatedto'] pain ['relatedto'] visit
+illness ['isa'] hyperalgesia ['relatedto'] pain ['relatedto'] visit
+illness ['isa'] medical_condition ['isa'] pain ['relatedto'] visit
+illness ['isa'] injury ['relatedto', 'synonym'] harm ['relatedto'] visit
+illness ['isa'] injury ['capableof', 'causes', 'relatedto'] pain ['relatedto'] visit
+illness ['isa'] injury ['causesdesire'] punish ['relatedto'] visit
+illness ['isa'] injury ['relatedto'] vengeance ['relatedto'] visit
+illness ['isa', 'relatedto'] pain ['antonym', 'distinctfrom'] comfort ['relatedto'] visit
+illness ['isa', 'relatedto'] pain ['relatedto'] doctor ['relatedto'] visit
+illness ['isa', 'relatedto'] pain ['etymologicallyrelatedto', 'relatedto'] punish ['relatedto'] visit
+illness ['isa', 'relatedto'] pain ['relatedto', 'synonym'] afflict ['mannerof', 'relatedto'] visit
+illness ['isa', 'relatedto'] pain ['relatedto'] doctor_visit ['isa'] visit
+illness ['isa', 'relatedto'] pain ['relatedto', 'synonym'] punishment ['relatedto'] visit
+illness ['isa'] sam ['relatedto'] join ['relatedto'] visit
+illness ['isa'] seizure ['synonym'] visitation ['isa', 'relatedto', 'derivedfrom'] visit
+illness ['isa'] shock ['relatedto'] harm ['relatedto'] visit
+illness ['isa'] shock ['relatedto'] pain ['relatedto'] visit
+illness ['isa'] shock ['relatedto'] punishment ['relatedto'] visit
+illness ['isa', 'relatedto'] sneeze ['antonym', 'relatedto'] bless ['relatedto'] visit
+illness ['relatedto'] drug ['mannerof'] drop ['relatedto'] visit
+illness ['relatedto'] general_practitioner ['isa'] doctor ['relatedto'] visit
+illness ['relatedto'] hedonophobia ['relatedto'] pain ['relatedto'] visit
+illness ['relatedto'] hurt_comfort ['relatedto'] comfort ['relatedto'] visit
+illness ['relatedto'] invalid ['relatedto'] home ['relatedto'] visit
+illness ['relatedto'] medicine ['relatedto', 'atlocation'] doctor ['relatedto'] visit
+illness ['relatedto'] medicine ['relatedto'] pain ['relatedto'] visit
+illness ['relatedto'] poison ['relatedto'] harm ['relatedto'] visit
+illness ['relatedto'] rheumatism ['relatedto'] pain ['relatedto'] visit
+illness ['relatedto'] sick ['relatedto'] doctor ['relatedto'] visit
+illness ['relatedto'] sick ['relatedto'] pain ['relatedto'] visit
+illness ['relatedto'] stroke ['synonym'] visitation ['isa', 'relatedto', 'derivedfrom'] visit
+illness ['relatedto'] treatment ['relatedto'] punishment ['relatedto'] visit
+illness ['relatedto'] water_cure ['relatedto'] pain ['relatedto'] visit
+illness ['usedfor'] doctors ['relatedto'] appointment ['relatedto'] visit
+illness ['usedfor'] doctors ['formof', 'relatedto'] doctor ['relatedto'] visit
+illness ['usedfor'] rest ['relatedto'] establishment ['synonym'] appointment ['relatedto'] visit
+illness ['usedfor'] rest ['relatedto'] nothing ['relatedto'] space ['relatedto'] visit
+illness ['usedfor'] rest ['relatedto'] nothing ['relatedto'] pain ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] join ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['isa'] social_activity ['isa'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] apply ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] bless ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] call ['isa', 'relatedto', 'synonym'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] drop ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] go ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] punish ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] punishment ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] join ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['isa'] worship ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] call ['isa', 'relatedto', 'synonym'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] go ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'causesdesire', 'relatedto'] exercise ['relatedto'] hit_gym ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'distinctfrom', 'relatedto'] motion ['relatedto'] drop ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'haslastsubevent', 'relatedto'] play ['relatedto'] drop ['relatedto'] visit
+illness ['usedfor'] rest ['antonym', 'haslastsubevent', 'relatedto'] play ['isa'] doctor ['relatedto'] visit

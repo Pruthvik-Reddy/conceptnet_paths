@@ -1,0 +1,100 @@
+wall ['relatedto'] others ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] color
+wall ['relatedto', 'atlocation'] paint ['relatedto'] color
+wall ['relatedto', 'atlocation'] picture ['relatedto'] color
+wall ['relatedto'] quality ['relatedto'] color
+wall ['relatedto'] stone ['relatedto'] color
+wall ['relatedto'] part ['relatedto'] color
+wall ['relatedto'] pictures ['relatedto'] color
+wall ['relatedto'] point ['relatedto'] color
+wall ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] color
+wall ['relatedto'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] color
+wall ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] color
+wall ['relatedto'] water ['antonym', 'relatedto'] sand ['isa', 'relatedto'] color
+wall ['relatedto'] water ['antonym', 'relatedto'] sky ['relatedto'] color
+wall ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] bay ['relatedto'] color
+wall ['relatedto'] water ['atlocation'] rainbow ['relatedto'] color
+wall ['relatedto'] water ['isa', 'relatedto', 'atlocation'] snow ['relatedto'] color
+wall ['relatedto'] water ['relatedto', 'derivedfrom'] watercolor ['derivedfrom'] color
+wall ['relatedto'] water ['distinctfrom', 'relatedto', 'hasa'] blood ['relatedto'] color
+wall ['relatedto'] water ['relatedto', 'hasproperty'] blue ['isa', 'relatedto'] color
+wall ['relatedto'] water ['relatedto', 'hasproperty'] clear ['antonym', 'relatedto'] color
+wall ['relatedto'] water ['relatedto', 'hasproperty'] colorless ['derivedfrom'] color
+wall ['relatedto'] water ['isa'] achromatism ['relatedto'] color
+wall ['relatedto'] water ['isa', 'relatedto'] element ['relatedto'] color
+wall ['relatedto'] water ['mannerof', 'relatedto'] flush ['relatedto'] color
+wall ['relatedto'] water ['receivesaction'] tinted ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] aqua ['isa'] color
+wall ['relatedto'] water ['relatedto'] cloud ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] heat ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] ink ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] keyline ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] lead ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] navy ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] paint ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] rice ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] steel ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] stone ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] stuff ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] waves ['relatedto'] color
+wall ['relatedto'] water ['relatedto'] white ['antonym', 'distinctfrom', 'relatedto', 'isa'] color
+wall ['relatedto'] water ['relatedto'] metal ['relatedto'] color
+wall ['relatedto'] others ['relatedto'] influence ['mannerof'] color
+wall ['relatedto'] one ['antonym', 'distinctfrom'] many ['relatedto'] color
+wall ['relatedto'] one ['relatedto'] cardinal ['relatedto'] color
+wall ['relatedto'] one ['relatedto'] eye ['relatedto'] color
+wall ['relatedto'] one ['relatedto'] individual ['relatedto'] color
+wall ['relatedto'] one ['relatedto'] inverse ['relatedto'] color
+wall ['relatedto'] one ['relatedto'] lip ['relatedto'] color
+wall ['relatedto'] one ['relatedto'] tone ['mannerof', 'relatedto', 'synonym'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] fire ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] apple ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] iron ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] pictures ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] shades ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] silver ['mannerof', 'relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] stuff ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['etymologicallyrelatedto'] sky ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['madeof'] metal ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] canary ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] draw ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] generic ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] individual ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] property ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] type ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] hut ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] knight_caligate ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] paint ['relatedto'] color
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] stone ['relatedto'] color
+wall ['relatedto'] art ['atlocation'] fair ['relatedto'] color
+wall ['relatedto'] art ['relatedto', 'atlocation'] horse ['relatedto'] color
+wall ['relatedto'] art ['isa', 'relatedto'] drawing ['relatedto'] color
+wall ['relatedto'] art ['isa', 'usedfor', 'relatedto'] painting ['causes', 'relatedto'] color
+wall ['relatedto'] art ['relatedto'] artistic ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] beauty ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] category ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] colorful ['derivedfrom'] color
+wall ['relatedto'] art ['relatedto'] colors ['formof', 'relatedto'] color
+wall ['relatedto'] art ['relatedto'] design ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] draw ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] general ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] general_term ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] generic ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] oil ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] paint ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] painted ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] painter ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] paintings ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] photos ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] picture ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] pictures ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] stuff ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] term ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] type ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] visual ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] colour ['formof', 'relatedto', 'hasproperty', 'synonym'] color
+wall ['relatedto'] art ['relatedto'] element ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] list ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] saturation ['relatedto'] color
+wall ['relatedto'] art ['relatedto'] shade ['isa', 'distinctfrom', 'relatedto'] color
+wall ['relatedto'] defend ['mannerof'] apologize ['mannerof'] color

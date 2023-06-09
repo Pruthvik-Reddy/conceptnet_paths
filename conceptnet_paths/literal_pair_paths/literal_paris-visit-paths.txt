@@ -1,0 +1,100 @@
+paris ['isa'] plant ['distinctfrom', 'relatedto'] flower ['relatedto'] visit
+paris ['isa', 'relatedto'] capital ['relatedto'] monument ['usedfor'] visit
+paris ['isa', 'relatedto'] capital ['relatedto'] punishment ['relatedto'] visit
+paris ['relatedto'] city ['atlocation'] home ['relatedto'] visit
+paris ['relatedto'] city ['relatedto'] see ['mannerof', 'synonym'] visit
+paris ['relatedto'] city ['atlocation'] monument ['usedfor'] visit
+paris ['isa'] plant ['relatedto'] cane ['relatedto'] punishment ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] action ['relatedto'] join ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] action ['isa'] social_activity ['isa'] visit
+paris ['isa'] plant ['relatedto'] action ['relatedto'] apply ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] action ['relatedto'] bless ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] action ['relatedto'] call ['isa', 'relatedto', 'synonym'] visit
+paris ['isa'] plant ['relatedto'] action ['relatedto'] drop ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] action ['relatedto'] go ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] action ['relatedto'] punish ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] action ['relatedto'] punishment ['relatedto'] visit
+paris ['isa'] plant ['capableof', 'relatedto', 'synonym'] grow ['relatedto'] appear ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] earth ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] space ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] earth ['relatedto'] home ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] earth ['relatedto'] upon ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] ground ['antonym'] space ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] ground ['relatedto'] drop ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] ground ['relatedto'] upon ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] ground ['relatedto'] punish ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] water ['relatedto'] bless ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] water ['relatedto'] drop ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] alien ['relatedto'] space ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] alien ['relatedto'] home ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] alien ['relatedto'] visitation ['isa', 'relatedto', 'derivedfrom'] visit
+paris ['isa'] plant ['relatedto'] aromatic ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'hasproperty'] alive ['relatedto', 'hasproperty'] flower ['relatedto'] visit
+paris ['isa'] plant ['relatedto'] free ['relatedto'] drop ['relatedto'] visit
+paris ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] doctor ['relatedto'] visit
+paris ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] drop ['relatedto'] visit
+paris ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] winterer ['relatedto'] visit
+paris ['isa'] plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] home ['relatedto'] visit
+paris ['isa'] plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['antonym', 'createdby', 'relatedto'] seed ['formof'] see ['mannerof', 'synonym'] visit
+paris ['isa'] plant ['antonym', 'createdby', 'relatedto'] seed ['antonym', 'relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] dirt ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'partof', 'atlocation'] garden ['antonym', 'relatedto'] home ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'partof', 'atlocation'] garden ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'partof', 'atlocation'] garden ['relatedto'] space ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] house ['derivedfrom'] houseguest ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] house ['isa', 'mannerof', 'relatedto', 'similarto'] home ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] house ['relatedto'] doctor ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] house ['relatedto'] space ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] house ['usedfor'] comfort ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] outside ['antonym'] home ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] outside ['relatedto'] space ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] pot ['relatedto'] apply ['relatedto'] visit
+paris ['isa'] plant ['relatedto', 'atlocation'] pot ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['atlocation'] shelf ['atlocation'] flower ['relatedto'] visit
+paris ['isa'] plant ['atlocation'] table ['relatedto'] join ['relatedto'] visit
+paris ['isa'] plant ['atlocation'] table ['relatedto'] home ['relatedto'] visit
+paris ['isa'] plant ['atlocation'] table ['atlocation'] space ['relatedto'] visit
+paris ['isa'] plant ['atlocation'] table ['atlocation'] doctor ['relatedto'] visit
+paris ['isa'] plant ['atlocation'] table ['atlocation'] meeting ['isa', 'relatedto'] visit
+paris ['isa'] plant ['atlocation'] table ['relatedto'] upon ['relatedto'] visit
+paris ['isa'] plant ['atlocation'] windowsill ['atlocation'] flower ['relatedto'] visit
+paris ['isa'] plant ['capableof', 'relatedto'] bloom ['relatedto', 'synonym'] flower ['relatedto'] visit
+paris ['isa'] plant ['createdby'] fruit ['relatedto'] apply ['relatedto'] visit
+paris ['isa'] plant ['distinctfrom', 'relatedto'] flower ['relatedto'] anthophile ['relatedto'] visit
+paris ['isa'] plant ['distinctfrom', 'relatedto'] bush ['partof'] flower ['relatedto'] visit
+paris ['isa'] plant ['distinctfrom', 'relatedto'] vegetable ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['formof', 'relatedto'] plants ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa', 'relatedto'] achimenes ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] ageratum ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] aletris ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] alstroemeria ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa', 'relatedto'] alyssum ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] anemone ['atlocation'] see ['mannerof', 'synonym'] visit
+paris ['isa'] plant ['isa'] anemone ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] annual ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] apple ['relatedto'] doctor ['relatedto'] visit
+paris ['isa'] plant ['isa'] asphodelus_ramosus ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa', 'relatedto'] aster ['isa', 'relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] aubrieta ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] banksia_ericifolia ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] bartonia ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] bellis ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] bellis_perennis ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] bougainvillea ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa', 'relatedto'] calendula ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] campanula_rotundifolia ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] cantua_buxifolia ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] caper ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] castilleja ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] chasmanthe ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa', 'relatedto'] chrysanthemum ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] clematis ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] clethra ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] clover ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] colchicum ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] commelina ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa', 'relatedto'] coronilla ['relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] corydalis ['isa'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] cosmos ['isa', 'relatedto'] flower ['relatedto'] visit
+paris ['isa'] plant ['isa'] cosmos ['relatedto'] space ['relatedto'] visit
+paris ['isa'] plant ['isa'] cosmos_bipinnatus ['isa'] flower ['relatedto'] visit

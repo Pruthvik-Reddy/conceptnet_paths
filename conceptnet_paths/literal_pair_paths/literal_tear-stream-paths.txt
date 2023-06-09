@@ -1,0 +1,100 @@
+tear ['relatedto'] water ['relatedto', 'atlocation'] stream
+tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip ['relatedto'] stream
+tear ['relatedto'] liquid ['relatedto'] stream
+tear ['relatedto'] water ['antonym', 'synonym'] burn ['relatedto'] stream
+tear ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto', 'synonym'] stream
+tear ['relatedto'] water ['atlocation'] canoe ['atlocation'] stream
+tear ['relatedto'] water ['relatedto', 'atlocation'] current ['relatedto', 'synonym'] stream
+tear ['relatedto'] water ['relatedto', 'atlocation'] fish ['atlocation'] stream
+tear ['relatedto'] water ['relatedto', 'atlocation'] bridge ['atlocation'] stream
+tear ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] brook ['isa', 'relatedto', 'synonym'] stream
+tear ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] stream
+tear ['relatedto'] water ['relatedto', 'atlocation'] mud ['atlocation'] stream
+tear ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] river ['antonym', 'distinctfrom', 'relatedto', 'isa'] stream
+tear ['relatedto'] water ['relatedto', 'atlocation'] spurt ['relatedto'] stream
+tear ['relatedto'] water ['atlocation'] torrent ['relatedto'] stream
+tear ['relatedto'] water ['atlocation'] tributary ['relatedto'] stream
+tear ['relatedto'] water ['capableof'] dribble ['relatedto'] stream
+tear ['relatedto'] water ['isa', 'relatedto', 'derivedfrom'] groundwater ['relatedto'] stream
+tear ['relatedto'] water ['relatedto', 'derivedfrom'] watercourse ['synonym'] stream
+tear ['relatedto'] water ['hasa', 'relatedto'] canal ['relatedto'] stream
+tear ['relatedto'] water ['usedfor', 'hasprerequisite'] bathing ['usedfor'] stream
+tear ['relatedto'] water ['relatedto', 'hasprerequisite'] swimming ['usedfor'] stream
+tear ['relatedto'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] branch ['isa', 'relatedto'] stream
+tear ['relatedto'] water ['relatedto'] catchwork ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] derivation ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] fire_hose ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] float ['mannerof'] stream
+tear ['relatedto'] water ['relatedto'] floss ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] fresh ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] gulf ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] gutter ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] hydrophily ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] hyporheic ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] millpond ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] naiad ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] ombrotrophy ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] pour ['synonym'] stream
+tear ['relatedto'] water ['relatedto'] rundel ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] sluice ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] spout ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] squirt ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] stone ['atlocation'] stream
+tear ['relatedto'] water ['relatedto'] streamflow ['derivedfrom'] stream
+tear ['relatedto'] water ['relatedto'] streamful ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] streamless ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] streamwater ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] swim ['usedfor'] stream
+tear ['relatedto'] water ['usedfor', 'relatedto'] wash ['usedfor'] stream
+tear ['relatedto'] water ['relatedto'] streams ['formof', 'relatedto'] stream
+tear ['relatedto'] water ['relatedto'] wellhead ['relatedto'] stream
+tear ['relatedto'] water ['relatedto'] wellspring ['relatedto'] stream
+tear ['relatedto'] water ['synonym'] runnel ['relatedto'] stream
+tear ['relatedto'] water ['usedfor'] creek ['relatedto', 'synonym'] stream
+tear ['mannerof', 'relatedto'] separate ['mannerof'] wash ['usedfor'] stream
+tear ['mannerof', 'relatedto'] separate ['relatedto'] chunk ['relatedto'] stream
+tear ['mannerof', 'relatedto'] separate ['synonym'] branch ['isa', 'relatedto'] stream
+tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip ['relatedto'] fish ['atlocation'] stream
+tear ['relatedto'] chew ['relatedto'] motion ['isa'] stream
+tear ['relatedto'] break ['relatedto'] bridge ['atlocation'] stream
+tear ['relatedto'] break ['relatedto'] chunk ['relatedto'] stream
+tear ['relatedto'] break ['relatedto'] rift ['relatedto'] stream
+tear ['antonym'] build ['relatedto'] branch ['isa', 'relatedto'] stream
+tear ['antonym'] build ['antonym'] burn ['relatedto'] stream
+tear ['antonym'] build ['relatedto'] forest ['atlocation'] stream
+tear ['relatedto'] destroy ['mannerof'] burn ['relatedto'] stream
+tear ['relatedto'] destroy ['relatedto'] cripple ['relatedto'] stream
+tear ['formof', 'relatedto'] tears ['atlocation'] water ['relatedto', 'atlocation'] stream
+tear ['isa', 'relatedto'] rent ['relatedto', 'synonym'] rip ['relatedto'] stream
+tear ['isa', 'relatedto'] drop ['relatedto'] water ['relatedto', 'atlocation'] stream
+tear ['isa', 'relatedto'] drop ['antonym'] pour ['synonym'] stream
+tear ['isa', 'relatedto'] drop ['relatedto', 'synonym'] dribble ['relatedto'] stream
+tear ['isa', 'relatedto'] drop ['relatedto'] liquid ['relatedto'] stream
+tear ['isa', 'relatedto'] drop ['relatedto'] motion ['isa'] stream
+tear ['isa', 'relatedto'] drop ['relatedto'] rope ['relatedto'] stream
+tear ['isa', 'relatedto'] drop ['relatedto'] course ['isa'] stream
+tear ['isa', 'relatedto'] drop ['relatedto'] trickle ['relatedto'] stream
+tear ['mannerof'] cleave ['relatedto'] rift ['relatedto'] stream
+tear ['mannerof', 'relatedto', 'synonym'] rend ['synonym'] rip ['relatedto'] stream
+tear ['mannerof', 'relatedto'] cry ['relatedto'] water ['relatedto', 'atlocation'] stream
+tear ['mannerof', 'relatedto'] cry ['hasfirstsubevent'] born ['relatedto'] stream
+tear ['mannerof', 'relatedto'] cry ['relatedto'] liquid ['relatedto'] stream
+tear ['mannerof'] rush ['relatedto'] water ['relatedto', 'atlocation'] stream
+tear ['mannerof'] rush ['isa', 'relatedto'] flow ['relatedto', 'synonym'] stream
+tear ['mannerof'] rush ['relatedto'] fresh ['relatedto'] stream
+tear ['mannerof'] rush ['relatedto'] motion ['isa'] stream
+tear ['mannerof'] rush ['isa', 'mannerof', 'relatedto'] run ['mannerof'] stream
+tear ['mannerof'] rush ['relatedto'] dribble ['relatedto'] stream
+tear ['mannerof'] rush ['relatedto'] spurt ['relatedto'] stream
+tear ['relatedto'] anal_fissure ['relatedto'] canal ['relatedto'] stream
+tear ['relatedto'] bacteria ['atlocation'] water ['relatedto', 'atlocation'] stream
+tear ['relatedto'] bacteria ['relatedto'] cell ['relatedto'] stream
+tear ['relatedto'] bacteria ['atlocation'] lake ['relatedto'] stream
+tear ['relatedto'] berend ['relatedto'] rip ['relatedto'] stream
+tear ['relatedto'] cut ['mannerof', 'relatedto'] rip ['relatedto'] stream
+tear ['relatedto'] cut ['synonym'] burn ['relatedto'] stream
+tear ['relatedto'] cut ['isa'] canal ['relatedto'] stream
+tear ['relatedto'] cut ['relatedto'] draw ['relatedto'] stream
+tear ['relatedto'] cut ['relatedto'] motion ['isa'] stream
+tear ['relatedto'] cut ['relatedto'] sharp ['relatedto'] stream

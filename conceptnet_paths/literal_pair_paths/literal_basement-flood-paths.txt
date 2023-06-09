@@ -1,0 +1,100 @@
+basement ['relatedto'] water ['relatedto', 'atlocation'] flood
+basement ['receivesaction'] flooded ['formof', 'relatedto'] flood
+basement ['relatedto'] underground ['atlocation'] water ['relatedto', 'atlocation'] flood
+basement ['relatedto'] underground ['relatedto'] flush ['relatedto'] flood
+basement ['derivedfrom'] base ['relatedto'] high ['relatedto'] flood
+basement ['atlocation'] human ['relatedto'] climb ['causesdesire'] flood
+basement ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] flood
+basement ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['isa', 'mannerof', 'relatedto'] flood
+basement ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] flood
+basement ['relatedto'] water ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] rain ['relatedto'] flood
+basement ['relatedto'] water ['atlocation'] rainstorm ['relatedto'] flood
+basement ['relatedto'] water ['relatedto', 'atlocation'] swamp ['mannerof'] flood
+basement ['relatedto'] water ['atlocation'] torrent ['relatedto', 'synonym'] flood
+basement ['relatedto'] water ['atlocation'] tsunami ['relatedto'] flood
+basement ['relatedto'] water ['relatedto', 'derivedfrom'] floodwater ['relatedto', 'derivedfrom'] flood
+basement ['relatedto'] water ['relatedto', 'derivedfrom'] waterflood ['derivedfrom'] flood
+basement ['relatedto'] water ['hasprerequisite'] climb ['causesdesire'] flood
+basement ['relatedto'] water ['mannerof', 'relatedto'] flush ['relatedto'] flood
+basement ['relatedto'] water ['mannerof', 'relatedto'] fill ['mannerof'] flood
+basement ['relatedto'] water ['mannerof'] supply ['mannerof'] flood
+basement ['relatedto'] water ['relatedto'] brim ['relatedto'] flood
+basement ['relatedto'] water ['relatedto'] deluge ['relatedto', 'synonym'] flood
+basement ['relatedto'] water ['relatedto'] drop ['antonym'] flood
+basement ['relatedto'] water ['usedfor', 'relatedto'] drown ['relatedto', 'synonym'] flood
+basement ['relatedto'] water ['relatedto'] dyke ['relatedto'] flood
+basement ['relatedto'] water ['relatedto'] flooded ['formof', 'relatedto'] flood
+basement ['relatedto'] water ['relatedto'] flooder ['relatedto'] flood
+basement ['relatedto'] water ['relatedto'] floodmark ['relatedto'] flood
+basement ['relatedto'] water ['relatedto'] floodwaters ['relatedto'] flood
+basement ['relatedto'] water ['relatedto'] fresh ['relatedto'] flood
+basement ['relatedto'] water ['relatedto'] inundate ['mannerof', 'relatedto', 'synonym'] flood
+basement ['relatedto'] water ['relatedto'] overwash ['relatedto'] flood
+basement ['relatedto'] water ['relatedto'] tide ['relatedto'] flood
+basement ['relatedto'] water ['relatedto'] unwatering ['relatedto'] flood
+basement ['hasa', 'relatedto', 'partof'] house ['relatedto'] land ['relatedto'] flood
+basement ['hasa', 'relatedto', 'partof'] house ['atlocation'] light_source ['relatedto'] flood
+basement ['hasa', 'relatedto', 'partof'] house ['relatedto'] climb ['causesdesire'] flood
+basement ['hasa', 'relatedto', 'partof'] house ['relatedto'] big ['relatedto'] flood
+basement ['hasa', 'relatedto', 'partof'] house ['relatedto'] large ['relatedto'] flood
+basement ['relatedto'] bottom ['atlocation'] water ['relatedto', 'atlocation'] flood
+basement ['relatedto'] bottom ['mannerof'] supply ['mannerof'] flood
+basement ['relatedto'] lower ['relatedto', 'synonym'] drop ['antonym'] flood
+basement ['relatedto'] lower ['relatedto'] hydrostatic_lock ['relatedto'] flood
+basement ['atlocation'] home ['relatedto'] big ['relatedto'] flood
+basement ['relatedto'] main ['relatedto'] water ['relatedto', 'atlocation'] flood
+basement ['relatedto'] main ['relatedto'] big ['relatedto'] flood
+basement ['atlocation'] church ['relatedto'] large ['relatedto'] flood
+basement ['antonym', 'relatedto'] attic ['atlocation'] light ['isa'] flood
+basement ['partof', 'atlocation'] building ['relatedto'] cities ['capableof'] flood
+basement ['atlocation'] canada ['partof'] niagara ['relatedto'] flood
+basement ['atlocation'] closet ['atlocation'] water ['relatedto', 'atlocation'] flood
+basement ['atlocation'] closet ['atlocation'] light ['isa'] flood
+basement ['atlocation'] bed ['relatedto'] cover ['mannerof'] flood
+basement ['atlocation'] bed ['mannerof'] supply ['mannerof'] flood
+basement ['atlocation'] bed ['relatedto'] big ['relatedto'] flood
+basement ['atlocation'] bed ['relatedto'] large ['relatedto'] flood
+basement ['atlocation'] bed ['relatedto'] parasequence ['relatedto'] flood
+basement ['atlocation'] bed ['relatedto'] water_pocket ['relatedto'] flood
+basement ['atlocation'] box ['relatedto'] ark ['relatedto'] flood
+basement ['atlocation'] cat ['relatedto'] big ['relatedto'] flood
+basement ['atlocation'] dead_body ['atlocation'] lake ['relatedto'] flood
+basement ['atlocation'] detergent ['relatedto'] tide ['relatedto'] flood
+basement ['atlocation'] drill ['relatedto'] flow ['isa', 'mannerof', 'relatedto'] flood
+basement ['atlocation'] dryer ['relatedto'] water ['relatedto', 'atlocation'] flood
+basement ['atlocation'] fungus ['atlocation'] swamp ['mannerof'] flood
+basement ['relatedto', 'atlocation'] furnace ['relatedto'] big ['relatedto'] flood
+basement ['atlocation'] hot_water_heater ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] flood
+basement ['atlocation'] light_bulb ['usedfor', 'derivedfrom'] light ['isa'] flood
+basement ['atlocation'] light_bulb ['usedfor', 'relatedto'] flash ['relatedto'] flood
+basement ['atlocation'] light_bulb ['isa', 'atlocation'] light_source ['relatedto'] flood
+basement ['atlocation'] saw ['isa'] video_game ['isa'] flood
+basement ['atlocation'] snake ['atlocation'] lake ['relatedto'] flood
+basement ['atlocation'] sump_pump ['atlocation'] water ['relatedto', 'atlocation'] flood
+basement ['atlocation'] tool ['mannerof'] supply ['mannerof'] flood
+basement ['atlocation'] victim ['relatedto'] disaster ['causes', 'relatedto'] flood
+basement ['atlocation'] water_spout ['usedfor'] water ['relatedto', 'atlocation'] flood
+basement ['atlocation'] wine ['relatedto'] water ['relatedto', 'atlocation'] flood
+basement ['atlocation'] wine ['relatedto'] lake ['relatedto'] flood
+basement ['isa'] place ['relatedto'] land ['relatedto'] flood
+basement ['isa'] place ['relatedto'] cover ['mannerof'] flood
+basement ['isa'] place ['relatedto'] dyke ['relatedto'] flood
+basement ['isa'] place ['relatedto'] lake ['relatedto'] flood
+basement ['isa', 'relatedto'] room ['atlocation'] cover ['mannerof'] flood
+basement ['isa', 'relatedto'] room ['relatedto'] big ['relatedto'] flood
+basement ['isa', 'relatedto'] floor ['isa', 'relatedto'] land ['relatedto'] flood
+basement ['isa', 'relatedto'] floor ['relatedto'] cover ['mannerof'] flood
+basement ['isa', 'relatedto'] floor ['partof'] lake ['relatedto'] flood
+basement ['isa', 'relatedto'] floor ['relatedto'] drop ['antonym'] flood
+basement ['isa'] find_underground ['hasproperty'] water ['relatedto', 'atlocation'] flood
+basement ['receivesaction'] flooded ['relatedto'] water ['relatedto', 'atlocation'] flood
+basement ['receivesaction'] flooded ['relatedto'] fill ['mannerof'] flood
+basement ['receivesaction'] flooded ['relatedto'] rain ['relatedto'] flood
+basement ['relatedto'] garden ['relatedto'] land ['relatedto'] flood
+basement ['relatedto'] garden ['relatedto'] everywhere ['relatedto'] flood
+basement ['relatedto'] garden ['relatedto'] large ['relatedto'] flood
+basement ['relatedto'] houses ['relatedto'] land ['relatedto'] flood
+basement ['relatedto'] houses ['relatedto'] light ['isa'] flood
+basement ['relatedto'] level ['relatedto'] water ['relatedto', 'atlocation'] flood
+basement ['relatedto'] level ['relatedto'] high ['relatedto'] flood
+basement ['relatedto'] level ['relatedto', 'atlocation'] video_game ['isa'] flood

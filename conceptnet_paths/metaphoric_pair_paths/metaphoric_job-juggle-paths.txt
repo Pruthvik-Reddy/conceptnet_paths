@@ -1,0 +1,100 @@
+job ['mannerof'] cheat ['mannerof'] juggle
+job ['relatedto'] trick ['relatedto'] juggle
+job ['relatedto'] act ['isa', 'relatedto'] performance ['isa'] juggle
+job ['relatedto'] act ['relatedto'] deceive ['relatedto'] juggle
+job ['relatedto'] act ['relatedto'] trick ['relatedto'] juggle
+job ['relatedto'] position ['relatedto'] throw ['mannerof'] juggle
+job ['relatedto'] stick ['isa', 'relatedto'] club ['relatedto'] juggle
+job ['relatedto'] stick ['relatedto'] handle ['relatedto'] juggle
+job ['relatedto'] stick ['relatedto'] ball ['relatedto'] juggle
+job ['relatedto'] good ['relatedto'] ball ['relatedto'] juggle
+job ['relatedto'] good ['relatedto'] hat ['relatedto'] juggle
+job ['relatedto'] excellent ['antonym', 'relatedto'] performance ['isa'] juggle
+job ['relatedto'] artist ['relatedto', 'derivedfrom'] artistic ['relatedto'] juggle
+job ['relatedto'] solo ['relatedto'] performance ['isa'] juggle
+job ['relatedto'] benefit ['isa', 'relatedto'] performance ['isa'] juggle
+job ['isa'] book ['relatedto'] trick ['relatedto'] juggle
+job ['isa', 'mannerof', 'relatedto', 'synonym'] work ['relatedto'] artistic ['relatedto'] juggle
+job ['isa', 'mannerof', 'relatedto', 'synonym'] work ['relatedto'] handle ['relatedto'] juggle
+job ['isa', 'mannerof', 'relatedto', 'synonym'] work ['mannerof'] manage ['mannerof', 'relatedto'] juggle
+job ['isa', 'mannerof', 'relatedto', 'synonym'] work ['relatedto'] trick ['relatedto'] juggle
+job ['isa', 'mannerof', 'relatedto', 'synonym'] work ['relatedto'] manipulate ['relatedto'] juggle
+job ['relatedto'] business ['relatedto'] prop ['relatedto'] juggle
+job ['relatedto'] business ['usedfor'] performance ['isa'] juggle
+job ['relatedto'] butcher ['relatedto'] circus ['relatedto'] juggle
+job ['relatedto'] call ['relatedto', 'synonym'] ring ['relatedto'] juggle
+job ['relatedto'] case ['relatedto'] handle ['relatedto'] juggle
+job ['relatedto'] case ['relatedto'] ring ['relatedto'] juggle
+job ['relatedto'] captain ['relatedto'] hat ['relatedto'] juggle
+job ['relatedto'] skill ['relatedto'] artful ['relatedto'] juggle
+job ['relatedto'] skill ['relatedto'] artifice ['relatedto'] juggle
+job ['mannerof'] cheat ['mannerof', 'relatedto', 'synonym', 'entails'] deceive ['relatedto'] juggle
+job ['mannerof'] cheat ['mannerof'] fudge ['mannerof'] juggle
+job ['mannerof'] cheat ['relatedto'] beguile ['synonym'] juggle
+job ['mannerof'] cheat ['relatedto'] trick ['relatedto'] juggle
+job ['relatedto'] chief ['relatedto'] hat ['relatedto'] juggle
+job ['relatedto'] class ['relatedto'] cheat ['mannerof'] juggle
+job ['relatedto'] company ['isa', 'relatedto'] circus ['relatedto'] juggle
+job ['relatedto'] walk ['relatedto'] ball ['relatedto'] juggle
+job ['relatedto'] cut ['relatedto'] ball ['relatedto'] juggle
+job ['relatedto'] deliver ['mannerof', 'relatedto'] throw ['mannerof'] juggle
+job ['relatedto'] design ['relatedto'] artistic ['relatedto'] juggle
+job ['relatedto'] doctor ['relatedto'] deceive ['relatedto'] juggle
+job ['relatedto'] sack ['atlocation'] ball ['relatedto'] juggle
+job ['relatedto'] rule ['relatedto'] cheat ['mannerof'] juggle
+job ['relatedto'] farmer ['relatedto'] hat ['relatedto'] juggle
+job ['relatedto'] fraud ['relatedto'] cheat ['mannerof'] juggle
+job ['relatedto'] fraud ['relatedto'] deceive ['relatedto'] juggle
+job ['relatedto'] fraud ['relatedto'] trick ['relatedto'] juggle
+job ['relatedto'] gig ['relatedto'] performance ['isa'] juggle
+job ['relatedto'] point ['distinctfrom'] ball ['relatedto'] juggle
+job ['relatedto'] point ['relatedto'] handle ['relatedto'] juggle
+job ['causes'] instrument ['relatedto'] handle ['relatedto'] juggle
+job ['causes'] instrument ['relatedto'] club ['relatedto'] juggle
+job ['causes'] instrument ['relatedto'] ring ['relatedto'] juggle
+job ['isa'] product ['relatedto'] handle ['relatedto'] juggle
+job ['relatedto'] cook ['relatedto'] throw ['mannerof'] juggle
+job ['relatedto'] cook ['synonym'] fudge ['mannerof'] juggle
+job ['relatedto'] crib ['mannerof', 'relatedto'] cheat ['mannerof'] juggle
+job ['relatedto'] engineer ['relatedto'] manage ['mannerof', 'relatedto'] juggle
+job ['relatedto'] thrust ['synonym'] throw ['mannerof'] juggle
+job ['relatedto'] magician ['relatedto'] trick ['relatedto'] juggle
+job ['relatedto'] magician ['relatedto'] juggler ['relatedto', 'derivedfrom'] juggle
+job ['relatedto'] management ['relatedto', 'derivedfrom'] manage ['mannerof', 'relatedto'] juggle
+job ['relatedto'] office ['relatedto'] performance ['isa'] juggle
+job ['relatedto'] officer ['synonym'] manage ['mannerof', 'relatedto'] juggle
+job ['relatedto'] operation ['synonym'] performance ['isa'] juggle
+job ['relatedto'] opportunity ['isa'] throw ['mannerof'] juggle
+job ['relatedto'] place ['relatedto'] handle ['relatedto'] juggle
+job ['relatedto'] place ['relatedto'] club ['relatedto'] juggle
+job ['relatedto'] poet ['relatedto'] artistic ['relatedto'] juggle
+job ['relatedto'] reward ['relatedto'] performance ['isa'] juggle
+job ['relatedto'] role ['relatedto'] hat ['relatedto'] juggle
+job ['relatedto'] touch ['mannerof', 'synonym'] handle ['relatedto'] juggle
+job ['relatedto'] touch ['mannerof'] manage ['mannerof', 'relatedto'] juggle
+job ['relatedto'] treasurer ['relatedto'] club ['relatedto'] juggle
+job ['relatedto'] trick ['relatedto'] cheat ['mannerof'] juggle
+job ['relatedto'] trick ['relatedto'] performance ['isa'] juggle
+job ['relatedto'] trick ['relatedto'] hat ['relatedto'] juggle
+job ['relatedto'] trick ['isa', 'mannerof', 'relatedto'] deceive ['relatedto'] juggle
+job ['relatedto'] trick ['relatedto', 'synonym'] artifice ['relatedto'] juggle
+job ['relatedto'] trick ['relatedto'] hoodwink ['synonym'] juggle
+job ['relatedto'] trick ['relatedto'] juggler ['relatedto', 'derivedfrom'] juggle
+job ['similarto'] deed ['relatedto'] performance ['isa'] juggle
+job ['relatedto'] act ['antonym'] band ['relatedto'] club ['relatedto'] juggle
+job ['relatedto'] act ['antonym'] band ['relatedto', 'synonym'] ring ['relatedto'] juggle
+job ['relatedto'] act ['causes'] direct ['mannerof', 'relatedto'] manage ['mannerof', 'relatedto'] juggle
+job ['relatedto'] act ['causes'] direct ['relatedto'] fudge ['mannerof'] juggle
+job ['relatedto'] act ['causes'] direct ['relatedto'] manipulate ['relatedto'] juggle
+job ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['isa', 'relatedto'] performance ['isa'] juggle
+job ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] ring ['relatedto'] juggle
+job ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] throw ['mannerof'] juggle
+job ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] trick ['relatedto'] juggle
+job ['relatedto'] act ['relatedto', 'derivedfrom'] actor ['relatedto'] prop ['relatedto'] juggle
+job ['relatedto'] act ['mannerof', 'relatedto', 'derivedfrom'] interact ['mannerof'] manipulate ['relatedto'] juggle
+job ['relatedto'] act ['distinctfrom', 'relatedto', 'partof'] scene ['relatedto'] club ['relatedto'] juggle
+job ['relatedto'] act ['distinctfrom', 'relatedto', 'partof'] scene ['relatedto'] prop ['relatedto'] juggle
+job ['relatedto'] act ['formof', 'relatedto'] acting ['partof'] performance ['isa'] juggle
+job ['relatedto'] act ['hasfirstsubevent', 'relatedto', 'hasprerequisite', 'synonym'] pretend ['motivatedbygoal'] deceive ['relatedto'] juggle
+job ['relatedto'] act ['mannerof', 'relatedto', 'hasprerequisite'] perform ['relatedto', 'derivedfrom'] performance ['isa'] juggle
+job ['relatedto'] act ['mannerof', 'relatedto', 'hasprerequisite'] perform ['relatedto'] artful ['relatedto'] juggle

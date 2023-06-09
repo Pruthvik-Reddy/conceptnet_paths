@@ -1,0 +1,100 @@
+economy ['isa'] action ['isa', 'relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] blow ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['relatedto'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] increase ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] push ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] reduce ['mannerof'] inflate
+economy ['relatedto'] business ['relatedto'] channel_stuffing ['relatedto'] inflate
+economy ['relatedto'] money ['antonym', 'isa', 'relatedto'] change ['mannerof'] inflate
+economy ['relatedto'] money ['relatedto'] inflation ['relatedto'] inflate
+economy ['relatedto'] depress ['relatedto'] push ['relatedto'] inflate
+economy ['relatedto'] flight ['relatedto'] ballonet ['relatedto'] inflate
+economy ['relatedto'] locomotive ['relatedto'] increase ['mannerof'] inflate
+economy ['isa'] increasingly ['derivedfrom'] increase ['mannerof'] inflate
+economy ['relatedto'] industrial_revolution ['relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] fix ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['isa', 'relatedto', 'derivedfrom'] act ['mannerof'] swell ['relatedto'] inflate
+economy ['isa'] action ['isa', 'relatedto', 'derivedfrom'] act ['relatedto'] inblow ['relatedto'] inflate
+economy ['isa'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['mannerof'] blow ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['capableof'] dress ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['hasprerequisite'] getting ['relatedto'] increase ['mannerof'] inflate
+economy ['isa'] action ['hasprerequisite'] getting ['relatedto'] reduce ['mannerof'] inflate
+economy ['isa'] action ['isa', 'relatedto'] work ['mannerof'] fill ['relatedto'] inflate
+economy ['isa'] action ['isa', 'relatedto'] drive ['relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['isa', 'relatedto'] drive ['mannerof', 'relatedto'] push ['relatedto'] inflate
+economy ['isa'] action ['isa'] software ['relatedto'] blowfish ['relatedto'] inflate
+economy ['isa'] action ['isa', 'relatedto'] change ['isa', 'mannerof', 'relatedto'] increase ['mannerof'] inflate
+economy ['isa'] action ['isa', 'relatedto'] change ['mannerof'] deflate ['antonym', 'relatedto'] inflate
+economy ['isa'] action ['isa', 'relatedto'] change ['mannerof'] fill ['relatedto'] inflate
+economy ['isa'] action ['isa', 'relatedto'] change ['mannerof'] reflate ['etymologicallyrelatedto', 'mannerof', 'relatedto'] inflate
+economy ['isa'] action ['isa', 'relatedto'] change ['relatedto'] expand ['mannerof', 'synonym'] inflate
+economy ['isa'] action ['isa'] cooking ['relatedto'] reduce ['mannerof'] inflate
+economy ['isa'] action ['isa'] destabilization ['isa'] change ['mannerof'] inflate
+economy ['isa'] action ['isa', 'relatedto', 'synonym'] exercise ['relatedto'] blow ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['isa'] losing ['relatedto'] reduce ['mannerof'] inflate
+economy ['isa'] action ['isa', 'synonym'] movement ['relatedto'] blow ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['isa', 'synonym'] movement ['isa', 'relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['isa', 'synonym'] movement ['relatedto'] increase ['mannerof'] inflate
+economy ['isa'] action ['isa', 'synonym'] movement ['relatedto'] push ['relatedto'] inflate
+economy ['isa'] action ['isa'] operation ['relatedto'] increase ['mannerof'] inflate
+economy ['isa'] action ['isa', 'relatedto'] play ['relatedto'] blow ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['isa'] reducing ['formof', 'relatedto'] reduce ['mannerof'] inflate
+economy ['isa'] action ['isa'] swing ['isa'] blow ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['isa'] swing ['mannerof', 'relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['isa'] thing ['isa'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] charge ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] charge ['relatedto'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] motion ['isa', 'relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] motion ['relatedto'] push ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] sexual_intercourse ['relatedto'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] string ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] request ['relatedto'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] activate ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] add ['mannerof', 'relatedto'] increase ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] add ['relatedto'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] apply ['relatedto'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] attention ['relatedto'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] away ['relatedto'] push ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] backcast ['relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] bid ['relatedto'] push ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] blossom ['etymologicallyrelatedto', 'relatedto'] blow ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['relatedto'] blow ['relatedto'] balloon ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['relatedto'] blow ['relatedto'] inflating ['formof', 'relatedto'] inflate
+economy ['isa'] action ['relatedto'] blow ['relatedto'] push ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] blow ['relatedto'] inblow ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] boil ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] boil ['relatedto'] reduce ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] break ['isa', 'mannerof', 'relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] break ['relatedto'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] bring ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] build ['relatedto'] increase ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] camp ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] cause ['relatedto'] inflationary ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] chop ['relatedto'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] chop ['relatedto'] swell ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] clean ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] clear ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] clear ['relatedto'] reduce ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] close ['mannerof'] fill ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] come ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] consequence ['isa'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] control ['relatedto'] ballonet ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] control ['relatedto'] reduce ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] cook ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] coup_de_grâce ['relatedto'] blow ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['relatedto'] crop ['antonym'] expand ['mannerof', 'synonym'] inflate
+economy ['isa'] action ['relatedto'] crop ['relatedto'] pouter ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] crop ['synonym'] reduce ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] cry ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] cut ['antonym'] increase ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] cut ['relatedto', 'synonym'] reduce ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] deal ['mannerof'] push ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] dial ['relatedto'] push ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] die ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] dive ['haslastsubevent'] decompress ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] division ['relatedto'] swell ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] draw ['mannerof'] change ['mannerof'] inflate
+economy ['isa'] action ['relatedto'] draw ['antonym'] push ['relatedto'] inflate
+economy ['isa'] action ['relatedto'] draw ['mannerof'] pump ['synonym'] inflate
+economy ['isa'] action ['relatedto'] drop ['relatedto'] balloon ['relatedto', 'synonym'] inflate
+economy ['isa'] action ['relatedto'] drop ['mannerof'] change ['mannerof'] inflate

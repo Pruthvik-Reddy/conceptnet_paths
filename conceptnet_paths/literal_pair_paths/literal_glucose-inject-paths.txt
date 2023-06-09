@@ -1,0 +1,100 @@
+glucose ['relatedto'] cell ['relatedto'] carboxytherapy ['relatedto'] inject
+glucose ['relatedto'] cycloamylose ['relatedto'] cavity ['relatedto'] inject
+glucose ['relatedto'] dapagliflozin ['isa'] drug ['mannerof'] inject
+glucose ['relatedto'] gliflozin ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] nateglinide ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] human ['isa'] fang ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] together ['relatedto'] add ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] together ['relatedto'] introduce ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] animal ['relatedto'] feed ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] plant ['relatedto'] shoot ['relatedto', 'synonym'] inject
+glucose ['relatedto'] cell ['relatedto'] house ['atlocation'] passage ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] bar ['relatedto'] passage ['relatedto'] inject
+glucose ['relatedto'] cell ['antonym', 'isa', 'relatedto'] room ['relatedto'] passage ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] block ['relatedto'] code ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto', 'partof'] body ['partof'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto', 'partof'] body ['relatedto'] code ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto', 'partof'] body ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] skin ['relatedto'] carboxytherapy ['relatedto'] inject
+glucose ['relatedto'] cell ['isa'] hold ['relatedto'] fang ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] term ['relatedto'] add ['mannerof'] inject
+glucose ['relatedto'] cell ['antonym'] line ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['antonym'] line ['relatedto'] mainline ['mannerof', 'relatedto'] inject
+glucose ['relatedto'] cell ['relatedto', 'atlocation'] dna ['relatedto'] insert ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto', 'atlocation'] membrane ['relatedto'] syringe ['relatedto'] inject
+glucose ['relatedto'] cell ['isa'] film ['relatedto', 'synonym'] shoot ['relatedto', 'synonym'] inject
+glucose ['relatedto'] cell ['relatedto', 'partof'] tissue ['relatedto'] photoscanner ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto', 'partof'] vacuole ['isa'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] blast ['relatedto', 'synonym'] shoot ['relatedto', 'synonym'] inject
+glucose ['relatedto'] cell ['relatedto'] blood ['relatedto'] carboxytherapy ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] blood ['relatedto'] pump ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] buttons ['relatedto'] push ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] component ['relatedto'] venturi_injector ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] constituent ['relatedto'] infuse ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] form ['mannerof'] add ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] form ['relatedto'] preslug ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] heart ['isa', 'relatedto', 'synonym'] pump ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] numbers ['relatedto'] add ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] operation ['relatedto'] add ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] part ['relatedto'] injection_molding ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] place ['isa', 'relatedto'] passage ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] place ['relatedto'] pop ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] power ['relatedto'] push ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] space ['isa'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] spreadsheet ['isa'] program ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] structure ['isa'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] structure ['isa'] passage ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] substance ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] substance ['relatedto'] injectant ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] substance ['relatedto'] preslug ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] chamber ['isa'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] chamber ['relatedto'] syringe ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] chamber ['relatedto'] semidiesel ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] knowledge ['hasprerequisite'] program ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] section ['isa'] insert ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] section ['isa'] passage ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] co_agonist ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] electroloading ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] electropulsation ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] elesclomol ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] faveolate ['relatedto'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] gefitinib ['isa', 'relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] healing ['usedfor'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] heterolysin ['relatedto'] introduce ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] host ['relatedto'] australian_paralysis_tick ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] locellate ['relatedto'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] maraviroc ['isa'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] microvesicle ['relatedto'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] monoclonal_antibody ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] multilocular ['relatedto'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] multiloculate ['relatedto'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] neuropharmacology ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] pancreatin ['isa'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] phospholamban ['relatedto'] pump ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] radioprotectant ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] radiosensitizer ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] salubrinal ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] schizogeny ['relatedto'] cavity ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] segment ['relatedto'] program ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] spermiate ['relatedto'] passage ['relatedto'] inject
+glucose ['relatedto'] cell ['relatedto'] taxane ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] taxol ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] cell ['relatedto'] trilocular ['relatedto'] cavity ['relatedto'] inject
+glucose ['relatedto'] hypoglycemia ['isa'] illness ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] hypoglycemia ['isa'] symptom ['relatedto'] drug ['mannerof'] inject
+glucose ['relatedto'] hypoglycemia ['relatedto'] blood ['relatedto'] carboxytherapy ['relatedto'] inject
+glucose ['relatedto'] hypoglycemia ['relatedto'] blood ['relatedto'] pump ['relatedto'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] additive ['derivedfrom'] add ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] agent ['isa'] drug ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] agent ['relatedto'] ioxilan ['relatedto'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] food ['isa', 'etymologicallyrelatedto', 'relatedto'] feed ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto', 'atlocation'] coffee ['relatedto'] infuse ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] tea ['relatedto'] infuse ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] simple ['relatedto'] add ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] fattening ['relatedto'] feed ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['isa'] software ['isa', 'relatedto'] program ['relatedto'] inject
+glucose ['isa', 'relatedto'] sugar ['isa'] software ['isa', 'relatedto'] code ['relatedto'] inject
+glucose ['isa', 'relatedto'] sugar ['isa'] software ['relatedto'] mainline ['mannerof', 'relatedto'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] pot ['relatedto'] drug ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] pot ['relatedto'] pop ['mannerof'] inject
+glucose ['isa', 'relatedto'] sugar ['relatedto'] pot ['relatedto'] shoot ['relatedto', 'synonym'] inject

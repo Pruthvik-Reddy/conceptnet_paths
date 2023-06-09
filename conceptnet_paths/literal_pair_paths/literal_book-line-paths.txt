@@ -1,0 +1,100 @@
+book ['relatedto', 'atlocation'] line
+book ['relatedto'] plot ['relatedto'] line
+book ['relatedto'] square ['relatedto', 'atlocation'] line
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['mannerof', 'relatedto'] line
+book ['atlocation'] row ['isa', 'relatedto', 'synonym'] line
+book ['atlocation'] store ['atlocation'] line
+book ['relatedto', 'atlocation'] note ['synonym'] line
+book ['atlocation'] poem ['partof'] line
+book ['atlocation'] word ['relatedto'] line
+book ['isa', 'atlocation'] words ['relatedto'] line
+book ['capableof', 'isa', 'relatedto', 'partof'] text ['isa', 'relatedto'] line
+book ['definedas'] pen ['relatedto'] line
+book ['distinctfrom', 'relatedto', 'hasa'] story ['relatedto'] line
+book ['isa', 'relatedto'] product ['relatedto'] line
+book ['isa'] cell ['antonym'] line
+book ['isa'] end ['relatedto'] line
+book ['isa', 'relatedto'] epistle ['synonym'] line
+book ['isa'] longitude ['relatedto'] line
+book ['isa'] next ['relatedto'] line
+book ['isa'] persuasion ['isa'] line
+book ['partof'] rule ['relatedto'] line
+book ['relatedto'] argument ['relatedto'] line
+book ['relatedto'] item ['relatedto'] line
+book ['relatedto'] printed ['relatedto'] line
+book ['relatedto'] read ['relatedto'] line
+book ['relatedto'] sheet ['isa', 'relatedto'] line
+book ['relatedto'] two ['relatedto'] line
+book ['relatedto'] writing ['relatedto'] line
+book ['relatedto'] written ['relatedto'] line
+book ['relatedto'] face ['mannerof'] line
+book ['relatedto'] fanwork ['relatedto'] line
+book ['relatedto'] grolier ['relatedto'] line
+book ['relatedto'] margin ['relatedto'] line
+book ['relatedto'] place ['relatedto', 'atlocation'] line
+book ['relatedto'] stichomancy ['relatedto'] line
+book ['relatedto'] stichometry ['relatedto'] line
+book ['relatedto'] turn ['relatedto'] line
+book ['relatedto'] verse ['isa', 'relatedto'] line
+book ['synonym'] engage ['relatedto'] arrange ['usedfor'] line
+book ['synonym'] engage ['relatedto'] enter ['relatedto'] line
+book ['synonym'] engage ['relatedto'] merchandise ['isa', 'relatedto'] line
+book ['synonym'] engage ['relatedto'] ship ['relatedto'] line
+book ['isa'] underground ['relatedto', 'derivedfrom'] ground ['relatedto'] line
+book ['relatedto', 'synonym'] reserve ['isa', 'relatedto'] bank ['synonym', 'atlocation'] line
+book ['relatedto', 'synonym'] reserve ['relatedto'] limit ['relatedto'] line
+book ['relatedto', 'synonym'] reserve ['relatedto'] militia ['relatedto'] line
+book ['relatedto', 'synonym'] reserve ['relatedto'] army ['relatedto'] line
+book ['relatedto', 'synonym'] reserve ['relatedto'] ground ['relatedto'] line
+book ['relatedto', 'synonym'] reserve ['relatedto'] home ['relatedto'] line
+book ['relatedto', 'synonym'] reserve ['relatedto'] oil ['relatedto'] line
+book ['relatedto', 'synonym'] reserve ['relatedto'] save ['usedfor'] line
+book ['relatedto'] speaker ['isa'] product ['relatedto'] line
+book ['relatedto'] speaker ['relatedto'] phone ['relatedto'] line
+book ['relatedto'] speaker ['relatedto'] cone ['relatedto'] line
+book ['relatedto'] speaker ['relatedto'] leader ['relatedto'] line
+book ['relatedto'] speaker ['relatedto'] part ['isa', 'relatedto'] line
+book ['relatedto'] speaker ['relatedto'] spoke ['relatedto'] line
+book ['relatedto'] speaker ['relatedto'] text ['isa', 'relatedto'] line
+book ['relatedto'] adventure ['relatedto'] story ['relatedto'] line
+book ['relatedto'] agony ['relatedto'] state ['relatedto'] line
+book ['isa'] fire ['derivedfrom'] fireline ['derivedfrom'] line
+book ['isa'] fire ['isa'] broadside ['relatedto'] line
+book ['isa'] fire ['isa'] cover ['mannerof', 'relatedto'] line
+book ['isa'] fire ['isa', 'relatedto'] crossfire ['relatedto'] line
+book ['isa'] fire ['isa'] software ['isa'] line
+book ['isa'] fire ['relatedto'] department ['relatedto'] line
+book ['isa'] fire ['relatedto'] process ['relatedto'] line
+book ['isa'] fire ['relatedto'] produce ['relatedto'] line
+book ['isa'] fire ['relatedto'] score ['mannerof'] line
+book ['isa'] fire ['relatedto'] hose ['relatedto'] line
+book ['isa'] fire ['relatedto'] lanyard ['isa'] line
+book ['isa'] fire ['relatedto'] range ['relatedto'] line
+book ['isa'] fire ['relatedto'] wax ['relatedto'] line
+book ['relatedto'] sometimes ['relatedto'] ground ['relatedto'] line
+book ['relatedto'] sometimes ['relatedto'] bar ['relatedto'] line
+book ['relatedto'] sometimes ['relatedto'] cut ['relatedto'] line
+book ['relatedto'] sometimes ['relatedto'] edge ['relatedto', 'synonym'] line
+book ['relatedto'] sometimes ['relatedto'] lie ['mannerof', 'relatedto'] line
+book ['relatedto'] sometimes ['relatedto'] phone ['relatedto'] line
+book ['relatedto'] sometimes ['relatedto'] protest ['relatedto'] line
+book ['isa'] plant ['synonym'] establish ['relatedto'] line
+book ['isa'] plant ['relatedto'] ground ['relatedto'] line
+book ['isa'] plant ['isa', 'relatedto'] factory ['relatedto'] line
+book ['isa'] plant ['isa', 'relatedto'] flax ['relatedto', 'synonym'] line
+book ['isa'] plant ['relatedto'] autotropism ['relatedto'] line
+book ['isa'] plant ['relatedto'] border ['relatedto'] line
+book ['isa'] plant ['relatedto'] cell ['antonym'] line
+book ['isa'] plant ['relatedto'] division ['relatedto'] line
+book ['isa'] plant ['relatedto'] hedge ['relatedto'] line
+book ['isa'] plant ['relatedto'] form ['relatedto'] line
+book ['isa'] plant ['relatedto'] product ['relatedto'] line
+book ['isa'] plant ['relatedto'] term ['relatedto'] line
+book ['isa'] plant ['relatedto'] thin ['relatedto'] line
+book ['isa'] plant ['relatedto'] surface ['relatedto'] line
+book ['isa'] plant ['relatedto'] substrate ['relatedto'] line
+book ['isa'] plant ['relatedto'] start ['isa', 'relatedto'] line
+book ['isa'] plant ['relatedto'] string ['relatedto'] line
+book ['isa'] plant ['relatedto'] train ['relatedto'] line
+book ['relatedto'] social ['relatedto'] bar ['relatedto'] line
+book ['relatedto'] social ['relatedto'] family ['relatedto'] line

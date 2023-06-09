@@ -1,0 +1,100 @@
+table ['relatedto'] bull ['mannerof'] push
+table ['atlocation'] rub ['relatedto'] push
+table ['relatedto'] barge ['relatedto'] push
+table ['relatedto'] cue ['relatedto'] push
+table ['relatedto'] hard ['relatedto'] push
+table ['relatedto'] join ['relatedto'] action ['relatedto'] push
+table ['relatedto'] across ['relatedto'] movement ['relatedto'] push
+table ['relatedto'] across ['relatedto'] sail ['relatedto'] push
+table ['relatedto'] across ['relatedto'] toward ['relatedto'] push
+table ['relatedto'] across ['relatedto'] reach ['relatedto'] push
+table ['relatedto'] reserve ['relatedto'] auction ['relatedto'] push
+table ['atlocation'] patient ['relatedto'] client ['relatedto'] push
+table ['relatedto'] vacuum ['antonym'] blow ['relatedto'] push
+table ['atlocation'] plant ['relatedto'] action ['relatedto'] push
+table ['atlocation'] plant ['relatedto'] energy ['synonym'] push
+table ['atlocation'] plant ['relatedto'] audience ['relatedto'] push
+table ['atlocation'] plant ['relatedto'] cue_ball ['relatedto'] push
+table ['atlocation'] plant ['relatedto'] power ['relatedto'] push
+table ['atlocation'] apartment ['relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+table ['atlocation'] house ['hasa', 'relatedto'] doors ['relatedto'] push
+table ['atlocation'] house ['isa'] audience ['relatedto'] push
+table ['atlocation'] house ['relatedto'] button ['relatedto'] push
+table ['atlocation'] house ['relatedto'] draw ['antonym'] push
+table ['atlocation'] house ['relatedto'] drive ['mannerof', 'relatedto'] push
+table ['atlocation'] house ['relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+table ['distinctfrom'] bottom ['relatedto'] button ['relatedto'] push
+table ['relatedto'] sit ['relatedto'] action ['relatedto'] push
+table ['relatedto'] sit ['antonym'] move ['mannerof', 'relatedto', 'entails'] push
+table ['relatedto'] sit ['antonym'] roll ['relatedto'] push
+table ['relatedto'] sit ['relatedto'] motion ['relatedto'] push
+table ['relatedto', 'partof', 'atlocation'] leg ['relatedto'] elbow ['relatedto'] push
+table ['relatedto', 'partof', 'atlocation'] leg ['relatedto'] movement ['relatedto'] push
+table ['relatedto', 'partof', 'atlocation'] leg ['relatedto'] ring ['relatedto'] push
+table ['relatedto', 'partof', 'atlocation'] column ['hasproperty'] heavy ['relatedto'] push
+table ['relatedto', 'partof', 'atlocation'] column ['relatedto'] stack ['relatedto'] push
+table ['relatedto'] home ['relatedto'] someone ['relatedto'] push
+table ['relatedto'] home ['antonym', 'distinctfrom', 'relatedto'] away ['relatedto'] push
+table ['relatedto'] home ['antonym'] travel ['mannerof'] push
+table ['relatedto'] home ['relatedto'] doors ['relatedto'] push
+table ['relatedto'] home ['relatedto'] raise ['antonym'] push
+table ['relatedto'] home ['relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+table ['relatedto'] square ['antonym'] ring ['relatedto'] push
+table ['relatedto'] square ['relatedto'] lift ['relatedto'] push
+table ['relatedto'] square ['relatedto'] power ['relatedto'] push
+table ['relatedto'] square ['relatedto'] draw ['antonym'] push
+table ['relatedto'] bank ['relatedto'] doors ['relatedto'] push
+table ['relatedto'] bank ['relatedto'] roll ['relatedto'] push
+table ['relatedto'] bank ['synonym'] cant ['relatedto'] push
+table ['relatedto'] bar ['relatedto'] crowd ['relatedto', 'synonym'] push
+table ['relatedto'] bar ['relatedto'] formation ['relatedto'] push
+table ['relatedto'] bar ['relatedto'] stave ['relatedto'] push
+table ['relatedto'] bar ['relatedto'] trundle ['relatedto'] push
+table ['relatedto'] cover ['relatedto'] action ['relatedto'] push
+table ['relatedto'] cover ['relatedto'] forward ['relatedto'] push
+table ['relatedto'] cover ['mannerof'] touch ['relatedto'] push
+table ['relatedto'] cover ['relatedto'] hard ['relatedto'] push
+table ['relatedto'] cover ['relatedto'] drive ['mannerof', 'relatedto'] push
+table ['relatedto'] cover ['synonym'] deal ['mannerof'] push
+table ['relatedto'] cover ['usedfor'] pouch ['etymologicallyrelatedto'] push
+table ['relatedto', 'atlocation'] plate ['relatedto'] blow ['relatedto'] push
+table ['relatedto', 'atlocation'] plate ['relatedto'] server ['relatedto'] push
+table ['relatedto', 'atlocation'] plate ['relatedto'] slide ['relatedto'] push
+table ['relatedto', 'atlocation'] plate ['relatedto'] stave ['relatedto'] push
+table ['relatedto'] top ['mannerof'] reach ['relatedto'] push
+table ['relatedto'] top ['relatedto'] power ['relatedto'] push
+table ['relatedto'] top ['relatedto'] shoulder ['relatedto'] push
+table ['relatedto'] top ['relatedto'] stack ['relatedto'] push
+table ['relatedto'] top ['relatedto'] topple ['mannerof', 'relatedto'] push
+table ['relatedto'] top ['relatedto'] raise ['antonym'] push
+table ['relatedto'] bull ['etymologicallyrelatedto'] blow ['relatedto'] push
+table ['relatedto'] bull ['relatedto'] force ['isa', 'relatedto', 'synonym'] push
+table ['relatedto'] bull ['relatedto'] energy ['synonym'] push
+table ['relatedto'] bull ['relatedto'] stot ['relatedto'] push
+table ['relatedto'] bed ['partof'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+table ['relatedto'] bed ['relatedto'] hard ['relatedto'] push
+table ['relatedto'] bed ['relatedto'] bundle ['relatedto'] push
+table ['relatedto'] bed ['relatedto'] tuck ['relatedto'] push
+table ['antonym', 'distinctfrom', 'locatednear', 'relatedto', 'similarto'] chair ['derivedfrom'] pushchair ['derivedfrom'] push
+table ['antonym', 'distinctfrom', 'locatednear', 'relatedto', 'similarto'] chair ['relatedto'] stroller ['relatedto'] push
+table ['antonym', 'atlocation'] floor ['relatedto'] hard ['relatedto'] push
+table ['isa', 'usedfor', 'relatedto'] furniture ['partof'] drawer ['relatedto'] push
+table ['isa', 'usedfor', 'relatedto'] furniture ['relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+table ['relatedto'] living ['causes', 'hasproperty'] hard ['relatedto'] push
+table ['relatedto'] living ['relatedto'] scuffle ['relatedto'] push
+table ['relatedto', 'atlocation'] room ['relatedto'] crowd ['relatedto', 'synonym'] push
+table ['relatedto', 'atlocation'] room ['relatedto'] doors ['relatedto'] push
+table ['hasproperty'] rigid ['antonym', 'relatedto'] moving ['relatedto'] push
+table ['relatedto', 'atlocation'] food ['usedfor', 'relatedto'] energy ['synonym'] push
+table ['relatedto', 'atlocation'] food ['relatedto'] ring ['relatedto'] push
+table ['relatedto', 'atlocation'] food ['relatedto'] roll ['relatedto'] push
+table ['relatedto', 'atlocation'] food ['relatedto'] tuck ['relatedto'] push
+table ['relatedto'] big ['relatedto'] crowd ['relatedto', 'synonym'] push
+table ['relatedto'] big ['relatedto'] great ['relatedto'] push
+table ['relatedto'] big ['relatedto'] blow ['relatedto'] push
+table ['relatedto'] big ['relatedto', 'similarto', 'synonym'] heavy ['relatedto'] push
+table ['relatedto'] big ['relatedto'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+table ['relatedto'] big ['relatedto'] sail ['relatedto'] push
+table ['relatedto'] time ['relatedto'] energy ['synonym'] push
+table ['relatedto'] time ['relatedto'] force ['isa', 'relatedto', 'synonym'] push
+table ['relatedto'] time ['relatedto'] impulse ['relatedto'] push

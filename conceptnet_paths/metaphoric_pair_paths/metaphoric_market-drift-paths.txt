@@ -1,0 +1,100 @@
+market ['relatedto'] drove ['relatedto'] drift
+market ['isa'] activity ['isa'] act ['relatedto'] drift
+market ['isa'] activity ['relatedto'] force ['isa', 'relatedto'] drift
+market ['isa'] activity ['relatedto'] movement ['synonym'] drift
+market ['isa'] activity ['relatedto'] collection ['relatedto'] drift
+market ['isa'] activity ['relatedto'] drive ['etymologicallyrelatedto'] drift
+market ['isa'] activity ['relatedto'] impetus ['synonym'] drift
+market ['isa'] activity ['relatedto'] run ['relatedto'] drift
+market ['isa'] activity ['synonym'] natural_process ['isa'] drift
+market ['relatedto'] potential ['isa', 'relatedto'] prospect ['relatedto'] drift
+market ['relatedto'] potential ['relatedto'] drive ['etymologicallyrelatedto'] drift
+market ['relatedto'] old ['antonym', 'distinctfrom'] current ['relatedto'] drift
+market ['relatedto'] old ['relatedto'] sheep ['relatedto'] drift
+market ['relatedto'] air ['relatedto', 'atlocation'] bird ['relatedto'] drift
+market ['relatedto'] air ['atlocation'] projectile ['relatedto'] drift
+market ['relatedto'] air ['hasa', 'relatedto'] pressure ['relatedto'] drift
+market ['relatedto'] air ['relatedto'] aeroplankton ['relatedto'] drift
+market ['relatedto'] air ['relatedto'] ball ['relatedto'] drift
+market ['relatedto'] air ['relatedto'] current ['relatedto'] drift
+market ['relatedto'] air ['relatedto'] flight ['relatedto'] drift
+market ['relatedto'] air ['relatedto'] force ['isa', 'relatedto'] drift
+market ['relatedto'] air ['relatedto'] roll ['synonym'] drift
+market ['relatedto'] air ['relatedto'] shaft ['relatedto'] drift
+market ['relatedto'] ground ['relatedto', 'atlocation'] hole ['relatedto'] drift
+market ['relatedto'] ground ['isa', 'relatedto'] surface ['relatedto'] drift
+market ['relatedto'] ground ['relatedto'] roll ['synonym'] drift
+market ['relatedto'] ground ['relatedto'] tunnel ['relatedto'] drift
+market ['relatedto'] free ['derivedfrom'] freewheel ['synonym'] drift
+market ['relatedto'] free ['mannerof'] run ['relatedto'] drift
+market ['relatedto'] crowd ['isa'] drove ['relatedto'] drift
+market ['relatedto'] crowd ['mannerof', 'relatedto'] mass ['isa'] drift
+market ['relatedto'] crowd ['relatedto'] collection ['relatedto'] drift
+market ['relatedto'] crowd ['relatedto'] drive ['etymologicallyrelatedto'] drift
+market ['relatedto'] crowd ['relatedto'] heap ['relatedto'] drift
+market ['relatedto'] vegetable ['relatedto'] crop ['mannerof'] drift
+market ['relatedto'] demand ['relatedto'] run ['relatedto'] drift
+market ['relatedto'] average ['relatedto', 'synonym'] random ['relatedto'] drift
+market ['relatedto'] square ['antonym'] ball ['relatedto'] drift
+market ['relatedto'] square ['isa', 'relatedto'] shape ['relatedto'] drift
+market ['relatedto'] square ['relatedto'] angle ['relatedto'] drift
+market ['relatedto'] square ['relatedto'] corner ['relatedto'] drift
+market ['relatedto'] square ['relatedto'] hole ['relatedto'] drift
+market ['relatedto'] square ['relatedto'] tool ['relatedto'] drift
+market ['relatedto'] square ['relatedto'] trend ['synonym'] drift
+market ['relatedto'] bear ['mannerof'] crop ['mannerof'] drift
+market ['relatedto'] bear ['relatedto'] direction ['relatedto'] drift
+market ['relatedto'] bull ['isa', 'relatedto', 'partof'] cattle ['relatedto'] drift
+market ['relatedto'] bull ['relatedto'] force ['isa', 'relatedto'] drift
+market ['relatedto', 'atlocation'] food ['atlocation'] crab ['relatedto'] drift
+market ['relatedto', 'atlocation'] food ['relatedto'] crop ['mannerof'] drift
+market ['relatedto', 'atlocation'] food ['relatedto'] roll ['synonym'] drift
+market ['relatedto', 'atlocation'] food ['relatedto'] sheep ['relatedto'] drift
+market ['relatedto'] small ['relatedto'] bird ['relatedto'] drift
+market ['relatedto'] small ['relatedto'] change ['mannerof'] drift
+market ['relatedto'] small ['relatedto'] club ['relatedto'] drift
+market ['relatedto'] small ['relatedto'] crab ['relatedto'] drift
+market ['relatedto'] small ['relatedto'] roll ['synonym'] drift
+market ['relatedto', 'atlocation'] fish ['antonym'] bird ['relatedto'] drift
+market ['relatedto', 'atlocation'] fish ['isa', 'relatedto', 'derivedfrom'] driftfish ['derivedfrom'] drift
+market ['relatedto', 'atlocation'] fish ['mannerof', 'relatedto', 'synonym'] angle ['relatedto'] drift
+market ['relatedto', 'atlocation'] fish ['mannerof', 'relatedto'] crab ['relatedto'] drift
+market ['relatedto'] center ['relatedto'] set ['relatedto'] drift
+market ['relatedto'] center ['antonym'] corner ['relatedto'] drift
+market ['relatedto'] center ['relatedto'] arch ['relatedto'] drift
+market ['relatedto'] center ['relatedto'] circumference ['relatedto'] drift
+market ['relatedto'] center ['relatedto'] shaft ['relatedto'] drift
+market ['relatedto'] center ['relatedto'] vault ['relatedto'] drift
+market ['atlocation'] bread ['isa', 'relatedto'] roll ['synonym'] drift
+market ['atlocation'] meat ['isa'] bird ['relatedto'] drift
+market ['atlocation'] meat ['relatedto'] sheep ['relatedto'] drift
+market ['relatedto'] dark ['relatedto'] tunnel ['relatedto'] drift
+market ['relatedto'] dark ['hasproperty'] hole ['relatedto'] drift
+market ['relatedto'] dark ['relatedto'] corner ['relatedto'] drift
+market ['relatedto'] buy ['relatedto'] gallery ['relatedto', 'synonym'] drift
+market ['relatedto'] buy ['relatedto'] sheep ['relatedto'] drift
+market ['relatedto'] sell ['relatedto'] gallery ['relatedto', 'synonym'] drift
+market ['mannerof'] deal ['mannerof', 'relatedto'] act ['relatedto'] drift
+market ['mannerof'] deal ['relatedto'] movement ['synonym'] drift
+market ['relatedto', 'synonym'] fair ['atlocation'] sheep ['relatedto'] drift
+market ['relatedto', 'synonym'] fair ['relatedto'] hole ['relatedto'] drift
+market ['relatedto', 'synonym'] fair ['relatedto'] surface ['relatedto'] drift
+market ['atlocation'] cheese ['relatedto'] hole ['relatedto'] drift
+market ['atlocation'] tuna ['relatedto'] roll ['synonym'] drift
+market ['isa', 'relatedto', 'atlocation'] city ['atlocation'] gallery ['relatedto', 'synonym'] drift
+market ['isa', 'relatedto', 'atlocation'] city ['isa'] hull ['relatedto'] drift
+market ['isa', 'relatedto', 'atlocation'] city ['relatedto'] collection ['relatedto'] drift
+market ['relatedto', 'atlocation'] village ['isa'] vary ['mannerof'] drift
+market ['isa'] class ['relatedto'] bird ['relatedto'] drift
+market ['isa'] class ['relatedto'] set ['relatedto'] drift
+market ['isa'] class ['isa', 'relatedto', 'synonym'] course ['relatedto'] drift
+market ['isa'] class ['isa', 'relatedto'] collection ['relatedto'] drift
+market ['relatedto'] open ['synonym'] surface ['relatedto'] drift
+market ['relatedto'] commercial ['relatedto'] flight ['relatedto'] drift
+market ['atlocation'] corn ['relatedto'] bird ['relatedto'] drift
+market ['atlocation'] corn ['relatedto', 'derivedfrom'] corner ['relatedto'] drift
+market ['atlocation'] corn ['relatedto'] cattle ['relatedto'] drift
+market ['atlocation'] corn ['relatedto'] crop ['mannerof'] drift
+market ['relatedto'] wall ['antonym', 'relatedto', 'atlocation'] corner ['relatedto'] drift
+market ['relatedto'] wall ['atlocation'] hole ['relatedto'] drift
+market ['relatedto'] wall ['partof'] arch ['relatedto'] drift

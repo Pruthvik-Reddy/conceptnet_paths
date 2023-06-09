@@ -1,0 +1,100 @@
+room ['relatedto'] smaller ['relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] separation ['isa'] change ['mannerof'] lighten
+room ['usedfor'] sleep ['relatedto'] reduce ['relatedto'] lighten
+room ['isa'] position ['isa'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['usedfor'] comfort ['mannerof', 'relatedto'] relieve ['synonym'] lighten
+room ['usedfor'] comfort ['relatedto', 'synonym'] liss ['relatedto'] lighten
+room ['relatedto'] square ['relatedto'] lift ['relatedto'] lighten
+room ['relatedto'] square ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] square ['relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] plate ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto'] living ['causes'] change ['mannerof'] lighten
+room ['atlocation'] candle ['isa', 'usedfor', 'relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['isa', 'relatedto', 'atlocation'] closet ['atlocation'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['atlocation'] dust ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['atlocation'] electricity ['isa'] lightening ['formof', 'relatedto'] lighten
+room ['atlocation'] light_bulb ['usedfor', 'derivedfrom'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['atlocation'] use ['relatedto'] lift ['relatedto'] lighten
+room ['atlocation'] use ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto', 'atlocation'] window ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['derivedfrom'] changeroom ['derivedfrom'] change ['mannerof'] lighten
+room ['hasproperty'] dark ['antonym', 'distinctfrom', 'relatedto'] bright ['relatedto'] lighten
+room ['hasproperty'] dark ['antonym', 'distinctfrom', 'relatedto', 'hasproperty'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['hasproperty'] dark ['derivedfrom'] dark_chocolate ['relatedto'] lighten
+room ['isa', 'relatedto'] bathroom ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['isa'] elevator ['relatedto', 'synonym'] lift ['relatedto'] lighten
+room ['isa'] locker_room ['relatedto'] change ['mannerof'] lighten
+room ['isa', 'relatedto'] opportunity ['relatedto'] change ['mannerof'] lighten
+room ['isa', 'relatedto'] scriptorium ['relatedto'] illuminate ['relatedto'] lighten
+room ['relatedto', 'partof'] building ['relatedto'] lift ['relatedto'] lighten
+room ['partof'] room_light ['isa'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] bell ['relatedto'] change ['mannerof'] lighten
+room ['relatedto', 'synonym'] board ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] cradle ['relatedto'] lift ['relatedto'] lighten
+room ['relatedto'] desk ['atlocation'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] fireplace ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] gym ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto'] lamp ['hasproperty'] bright ['relatedto'] lighten
+room ['relatedto'] lamp ['isa', 'usedfor', 'relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] lamp ['capableof'] illuminate ['relatedto'] lighten
+room ['relatedto'] laundry ['relatedto'] bleach ['relatedto'] lighten
+room ['relatedto'] lightroom ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] locker ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] lodge ['relatedto'] alight ['relatedto'] lighten
+room ['relatedto'] lumen_method ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['usedfor', 'relatedto'] paint ['relatedto'] bright ['relatedto'] lighten
+room ['usedfor', 'relatedto'] paint ['antonym'] bleach ['relatedto'] lighten
+room ['usedfor', 'relatedto'] paint ['entails'] illuminate ['relatedto'] lighten
+room ['usedfor', 'relatedto'] paint ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto'] play ['antonym'] serious ['relatedto'] lighten
+room ['relatedto'] porch ['atlocation'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] rate ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] big ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto'] box ['relatedto'] lift ['relatedto'] lighten
+room ['relatedto'] buildings ['relatedto'] lift ['relatedto'] lighten
+room ['relatedto'] doors ['relatedto'] lift ['relatedto'] lighten
+room ['relatedto'] enclosed ['relatedto'] lift ['relatedto'] lighten
+room ['relatedto'] generic ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto'] houses ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] many ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] part ['isa'] jetsam ['relatedto'] lighten
+room ['relatedto'] quarter ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] quarter ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto'] small ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] small ['relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] term ['relatedto'] lift ['relatedto'] lighten
+room ['relatedto'] unit ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto'] wind ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] sky ['hasproperty'] bright ['relatedto'] lighten
+room ['relatedto'] sky ['relatedto', 'synonym'] lift ['relatedto'] lighten
+room ['relatedto'] tearoom ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] toy ['relatedto'] bright ['relatedto'] lighten
+room ['relatedto'] smaller ['antonym', 'relatedto'] grow ['antonym'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['antonym', 'relatedto'] grow ['mannerof', 'relatedto'] change ['mannerof'] lighten
+room ['relatedto'] smaller ['formof'] little ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] smaller ['formof'] little ['relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['formof', 'relatedto'] small ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] smaller ['formof', 'relatedto'] small ['relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] boat ['relatedto'] jetsam ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] boat ['relatedto'] jettison ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] cent ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] smaller ['relatedto'] crop ['synonym'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] debigulate ['relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] decrease ['isa', 'mannerof'] change ['mannerof'] lighten
+room ['relatedto'] smaller ['relatedto'] decrease ['mannerof', 'relatedto', 'synonym'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] decrease ['relatedto'] forlighten ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] degrow ['relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] diminish ['relatedto'] allege ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] diminish ['relatedto'] forlighten ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] diminish ['relatedto', 'synonym'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] ensmallen ['relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] expand ['relatedto'] change ['mannerof'] lighten
+room ['relatedto'] smaller ['relatedto'] expand ['antonym'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] jacket ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+room ['relatedto'] smaller ['relatedto'] reduce ['antonym', 'relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] reduce ['relatedto'] forlighten ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] reduced ['formof', 'relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] reduction ['isa', 'relatedto'] reduce ['relatedto'] lighten
+room ['relatedto'] smaller ['relatedto'] reduction ['isa'] change ['mannerof'] lighten
+room ['relatedto'] smaller ['relatedto'] roll ['mannerof'] change ['mannerof'] lighten
+room ['relatedto'] smaller ['relatedto'] sand ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten

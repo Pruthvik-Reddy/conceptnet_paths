@@ -1,0 +1,100 @@
+forest ['atlocation'] fire ['relatedto'] scorch
+forest ['isa', 'relatedto'] land ['relatedto'] scorch
+forest ['relatedto'] plant ['relatedto'] scorch
+forest ['relatedto', 'synonym'] afforest ['mannerof'] plant ['relatedto'] scorch
+forest ['atlocation'] earth ['antonym', 'relatedto'] water ['relatedto'] scorch
+forest ['atlocation'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land ['relatedto'] scorch
+forest ['atlocation'] earth ['hasa'] surface ['relatedto'] scorch
+forest ['atlocation'] earth ['relatedto'] fire ['relatedto'] scorch
+forest ['atlocation'] earth ['relatedto'] plant ['relatedto'] scorch
+forest ['atlocation'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] scorch
+forest ['atlocation'] fire ['capableof', 'relatedto', 'synonym'] burn ['isa', 'mannerof', 'relatedto', 'synonym'] scorch
+forest ['atlocation'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['relatedto'] scorch
+forest ['atlocation'] fire ['relatedto'] high ['relatedto'] scorch
+forest ['atlocation'] fire ['relatedto'] sweal ['relatedto'] scorch
+forest ['isa', 'relatedto'] land ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] scorch
+forest ['isa', 'relatedto'] land ['relatedto'] dry ['mannerof'] scorch
+forest ['isa', 'relatedto'] land ['relatedto'] surface ['relatedto'] scorch
+forest ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] scorch
+forest ['relatedto'] animal ['relatedto'] fungi ['relatedto'] scorch
+forest ['relatedto'] animal ['relatedto'] move ['relatedto'] scorch
+forest ['atlocation'] bird ['relatedto'] high ['relatedto'] scorch
+forest ['relatedto'] plant ['relatedto'] water ['relatedto'] scorch
+forest ['relatedto'] plant ['relatedto'] leaves ['relatedto'] scorch
+forest ['relatedto'] plant ['relatedto'] building ['relatedto'] scorch
+forest ['relatedto'] plant ['relatedto'] fungi ['relatedto'] scorch
+forest ['relatedto'] plant ['relatedto'] plant_disease ['isa'] scorch
+forest ['relatedto'] plant ['relatedto'] surface ['relatedto'] scorch
+forest ['relatedto', 'atlocation'] stick ['relatedto'] land ['relatedto'] scorch
+forest ['relatedto', 'atlocation'] stick ['synonym'] plant ['relatedto'] scorch
+forest ['relatedto', 'atlocation'] stick ['relatedto'] brown ['relatedto'] scorch
+forest ['relatedto', 'atlocation'] stick ['relatedto'] leaves ['relatedto'] scorch
+forest ['relatedto', 'atlocation'] stick ['relatedto'] roast ['synonym'] scorch
+forest ['relatedto'] slash ['relatedto'] fire ['relatedto'] scorch
+forest ['relatedto'] slash ['isa', 'relatedto'] land ['relatedto'] scorch
+forest ['relatedto'] slash ['relatedto'] plant ['relatedto'] scorch
+forest ['relatedto'] slash ['relatedto'] move ['relatedto'] scorch
+forest ['relatedto'] bear ['entails'] move ['relatedto'] scorch
+forest ['relatedto'] bear ['etymologicallyrelatedto', 'relatedto'] brown ['relatedto'] scorch
+forest ['relatedto'] big ['relatedto'] land ['relatedto'] scorch
+forest ['relatedto'] green ['relatedto'] plant ['relatedto'] scorch
+forest ['relatedto'] green ['relatedto'] leaves ['relatedto'] scorch
+forest ['atlocation'] branch ['relatedto'] fire ['relatedto'] scorch
+forest ['atlocation'] branch ['relatedto'] water ['relatedto'] scorch
+forest ['atlocation'] branch ['relatedto'] plant ['relatedto'] scorch
+forest ['atlocation'] branch ['distinctfrom', 'relatedto'] leaves ['relatedto'] scorch
+forest ['atlocation'] branch ['relatedto'] brown ['relatedto'] scorch
+forest ['relatedto'] build ['antonym', 'distinctfrom'] destroy ['relatedto'] scorch
+forest ['relatedto'] build ['antonym'] burn ['isa', 'mannerof', 'relatedto', 'synonym'] scorch
+forest ['relatedto'] build ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] building ['relatedto'] scorch
+forest ['relatedto'] camp ['relatedto'] fire ['relatedto'] scorch
+forest ['relatedto'] dear ['synonym'] high ['relatedto'] scorch
+forest ['antonym'] city ['relatedto'] water ['relatedto'] scorch
+forest ['antonym'] city ['relatedto'] building ['relatedto'] scorch
+forest ['antonym'] city ['relatedto'] high ['relatedto'] scorch
+forest ['atlocation'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] scorch
+forest ['atlocation'] countryside ['relatedto', 'atlocation'] land ['relatedto'] scorch
+forest ['antonym'] field ['relatedto'] land ['relatedto'] scorch
+forest ['antonym'] field ['relatedto'] surface ['relatedto'] scorch
+forest ['antonym'] desert ['relatedto'] land ['relatedto'] scorch
+forest ['antonym'] desert ['relatedto'] heat ['relatedto'] scorch
+forest ['antonym'] desert ['relatedto', 'hasproperty'] dry ['mannerof'] scorch
+forest ['antonym'] meadow ['atlocation'] water ['relatedto'] scorch
+forest ['atlocation'] anemone ['atlocation'] water ['relatedto'] scorch
+forest ['atlocation'] anemone ['relatedto'] enemy ['relatedto'] scorch
+forest ['atlocation'] anemone ['isa'] plant ['relatedto'] scorch
+forest ['atlocation'] birds ['capableof'] land ['relatedto'] scorch
+forest ['atlocation'] creek ['usedfor'] water ['relatedto'] scorch
+forest ['atlocation'] dirt ['relatedto'] land ['relatedto'] scorch
+forest ['atlocation'] dirt ['relatedto', 'atlocation'] plant ['relatedto'] scorch
+forest ['atlocation'] dirt ['relatedto'] brown ['relatedto'] scorch
+forest ['atlocation'] dirt ['relatedto'] dry ['mannerof'] scorch
+forest ['atlocation'] dirt ['relatedto', 'synonym'] stain ['isa'] scorch
+forest ['atlocation'] ficus ['atlocation'] water ['relatedto'] scorch
+forest ['atlocation'] ficus ['isa'] plant ['relatedto'] scorch
+forest ['atlocation'] foliage ['relatedto'] plant ['relatedto'] scorch
+forest ['atlocation'] foliage ['relatedto'] leaves ['relatedto'] scorch
+forest ['atlocation'] national_park ['relatedto'] land ['relatedto'] scorch
+forest ['atlocation'] temperate_zone ['relatedto'] surface ['relatedto'] scorch
+forest ['atlocation'] ground_cover ['relatedto'] land ['relatedto'] scorch
+forest ['atlocation'] hill ['antonym', 'relatedto'] land ['relatedto'] scorch
+forest ['atlocation'] hill ['relatedto'] plant ['relatedto'] scorch
+forest ['atlocation'] hill ['relatedto'] high ['relatedto'] scorch
+forest ['atlocation'] hill ['relatedto'] building ['relatedto'] scorch
+forest ['atlocation'] hill ['relatedto'] slight ['relatedto'] scorch
+forest ['atlocation'] humus ['relatedto'] plant ['relatedto'] scorch
+forest ['atlocation'] lake ['relatedto'] land ['relatedto'] scorch
+forest ['atlocation'] lake ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] scorch
+forest ['atlocation'] lake ['hasa', 'atlocation'] surface ['relatedto'] scorch
+forest ['atlocation'] lighter ['relatedto'] fire ['relatedto'] scorch
+forest ['atlocation'] mill ['mannerof'] move ['relatedto'] scorch
+forest ['atlocation'] mosquito ['locatednear', 'relatedto'] water ['relatedto'] scorch
+forest ['atlocation'] moss ['relatedto'] plant ['relatedto'] scorch
+forest ['atlocation'] poison_ivy ['isa', 'relatedto'] plant ['relatedto'] scorch
+forest ['atlocation'] pond ['hasa', 'relatedto'] water ['relatedto'] scorch
+forest ['atlocation'] rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto'] scorch
+forest ['atlocation'] rain ['distinctfrom'] dry ['mannerof'] scorch
+forest ['relatedto', 'atlocation'] squirrel ['relatedto'] plant ['relatedto'] scorch
+forest ['relatedto', 'atlocation'] squirrel ['relatedto'] brown ['relatedto'] scorch
+forest ['atlocation'] stream ['relatedto', 'atlocation'] water ['relatedto'] scorch
+forest ['atlocation'] stream ['relatedto'] burn ['isa', 'mannerof', 'relatedto', 'synonym'] scorch

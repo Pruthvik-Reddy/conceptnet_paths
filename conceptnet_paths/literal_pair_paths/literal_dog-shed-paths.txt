@@ -1,0 +1,100 @@
+dog ['relatedto', 'atlocation'] house ['relatedto'] shed
+dog ['relatedto'] small ['relatedto'] shed
+dog ['atlocation'] backyard ['relatedto', 'atlocation'] shed
+dog ['isa'] shedding ['formof'] shed
+dog ['relatedto'] human ['atlocation'] automobile ['relatedto'] shed
+dog ['relatedto'] human ['relatedto', 'atlocation'] skin ['etymologicallyrelatedto'] shed
+dog ['relatedto'] human ['relatedto'] building ['relatedto'] shed
+dog ['relatedto'] human ['relatedto'] head ['relatedto'] shed
+dog ['atlocation'] ground ['relatedto', 'atlocation'] garden ['relatedto'] shed
+dog ['atlocation'] ground ['mannerof'] throw ['synonym'] shed
+dog ['atlocation'] ground ['relatedto'] ditch ['synonym'] shed
+dog ['atlocation'] ground ['relatedto'] drop ['synonym'] shed
+dog ['atlocation'] ground ['relatedto'] fly ['relatedto'] shed
+dog ['atlocation'] ground ['relatedto'] building ['relatedto'] shed
+dog ['atlocation'] ground ['relatedto'] house ['relatedto'] shed
+dog ['atlocation'] ground ['relatedto'] small ['relatedto'] shed
+dog ['relatedto'] enemy ['relatedto'] cover ['relatedto'] shed
+dog ['relatedto'] animal ['isa'] molter ['relatedto'] shed
+dog ['relatedto'] animal ['isa', 'relatedto'] rat ['relatedto'] shed
+dog ['relatedto'] animal ['relatedto', 'partof'] head ['relatedto'] shed
+dog ['relatedto'] animal ['relatedto'] barn ['relatedto'] shed
+dog ['relatedto'] animal ['relatedto'] cote ['synonym'] shed
+dog ['relatedto'] animal ['relatedto'] drop ['synonym'] shed
+dog ['relatedto'] animal ['relatedto'] exuviae ['relatedto'] shed
+dog ['relatedto'] animal ['relatedto'] fly ['relatedto'] shed
+dog ['relatedto'] animal ['relatedto'] house ['relatedto'] shed
+dog ['relatedto'] animal ['relatedto'] milkshed ['relatedto'] shed
+dog ['relatedto'] animal ['relatedto'] pollard ['relatedto'] shed
+dog ['relatedto'] animal ['relatedto'] skin ['etymologicallyrelatedto'] shed
+dog ['relatedto'] animal ['relatedto'] snake ['atlocation'] shed
+dog ['relatedto'] man ['relatedto'] bicycle ['atlocation'] shed
+dog ['relatedto'] man ['relatedto'] house ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['antonym', 'relatedto', 'partof'] garden ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['atlocation'] backyard ['relatedto', 'atlocation'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto', 'atlocation'] parlor ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['usedfor', 'relatedto', 'atlocation', 'isa', 'mannerof'] shelter ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['derivedfrom'] carthouse ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['isa'] boathouse ['isa'] shed
+dog ['relatedto', 'atlocation'] house ['isa', 'relatedto'] cabin ['relatedto', 'synonym'] shed
+dog ['relatedto', 'atlocation'] house ['isa', 'relatedto'] small_building ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['isa', 'relatedto'] building ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['isa'] storehouse ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] barn ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] chain ['atlocation'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] fly ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] head ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] small ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] hovel ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] hut ['relatedto'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] tramshed ['derivedfrom'] shed
+dog ['relatedto', 'atlocation'] house ['relatedto'] woodhouse ['relatedto'] shed
+dog ['relatedto'] bow ['etymologicallyrelatedto'] buck ['relatedto'] shed
+dog ['relatedto'] bow ['usedfor', 'relatedto'] shoot ['relatedto'] shed
+dog ['relatedto'] bow ['relatedto'] cast ['relatedto', 'synonym'] shed
+dog ['relatedto'] reply ['relatedto'] fly ['relatedto'] shed
+dog ['relatedto'] attack ['relatedto'] tool ['relatedto'] shed
+dog ['relatedto'] stick ['relatedto'] part ['relatedto'] shed
+dog ['relatedto'] stick ['relatedto'] small ['relatedto'] shed
+dog ['relatedto'] stick ['relatedto'] tool ['relatedto'] shed
+dog ['relatedto'] stick ['relatedto'] cast ['relatedto', 'synonym'] shed
+dog ['relatedto'] come ['relatedto'] house ['relatedto'] shed
+dog ['relatedto'] come ['antonym'] lose ['relatedto'] shed
+dog ['relatedto'] home ['isa', 'mannerof', 'relatedto', 'similarto'] house ['relatedto'] shed
+dog ['relatedto'] home ['antonym', 'relatedto'] garden ['relatedto'] shed
+dog ['relatedto'] home ['isa', 'relatedto'] cabin ['relatedto', 'synonym'] shed
+dog ['relatedto'] home ['relatedto'] barn ['relatedto'] shed
+dog ['relatedto'] home ['relatedto'] building ['relatedto'] shed
+dog ['relatedto'] home ['usedfor', 'relatedto'] shelter ['relatedto'] shed
+dog ['relatedto'] home ['relatedto'] hut ['relatedto'] shed
+dog ['relatedto'] home ['relatedto'] ranch ['atlocation'] shed
+dog ['relatedto'] baby ['atlocation'] house ['relatedto'] shed
+dog ['relatedto'] baby ['capableof', 'relatedto'] cry ['relatedto'] shed
+dog ['relatedto'] baby ['relatedto'] small ['relatedto'] shed
+dog ['atlocation'] front_door ['relatedto', 'atlocation'] house ['relatedto'] shed
+dog ['atlocation'] front_door ['relatedto'] building ['relatedto'] shed
+dog ['relatedto'] backwards ['relatedto'] top ['relatedto'] shed
+dog ['relatedto'] friend ['relatedto'] lose ['relatedto'] shed
+dog ['relatedto'] wet ['mannerof'] sprinkle ['relatedto'] shed
+dog ['relatedto'] wet ['relatedto'] cry ['relatedto'] shed
+dog ['relatedto'] wet ['relatedto'] drop ['synonym'] shed
+dog ['atlocation'] bed ['relatedto', 'atlocation'] house ['relatedto'] shed
+dog ['atlocation'] bed ['relatedto'] cover ['relatedto'] shed
+dog ['atlocation'] bed ['relatedto'] top ['relatedto'] shed
+dog ['atlocation'] bed ['atlocation'] snake ['atlocation'] shed
+dog ['atlocation'] bed ['relatedto'] part ['relatedto'] shed
+dog ['atlocation'] bed ['relatedto'] tool ['relatedto'] shed
+dog ['atlocation'] bed ['relatedto'] tools ['hasa', 'relatedto'] shed
+dog ['atlocation'] bed ['relatedto'] garden ['relatedto'] shed
+dog ['atlocation'] couch ['atlocation'] house ['relatedto'] shed
+dog ['atlocation'] couch ['relatedto'] thread ['relatedto'] shed
+dog ['relatedto'] best ['relatedto'] top ['relatedto'] shed
+dog ['relatedto'] best ['relatedto'] shit ['etymologicallyrelatedto'] shed
+dog ['desires'] food ['atlocation'] house ['relatedto'] shed
+dog ['desires'] food ['atlocation'] restaurant_storage_area ['atlocation'] shed
+dog ['desires'] food ['relatedto'] fly ['relatedto'] shed
+dog ['desires'] food ['relatedto'] garden ['relatedto'] shed
+dog ['isa'] thing ['isa'] house ['relatedto'] shed
+dog ['isa'] thing ['isa'] part ['relatedto'] shed
+dog ['isa'] thing ['relatedto'] shit ['etymologicallyrelatedto'] shed
+dog ['relatedto'] big ['relatedto'] house ['relatedto'] shed

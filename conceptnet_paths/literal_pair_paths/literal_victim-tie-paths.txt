@@ -1,0 +1,100 @@
+victim ['atlocation'] basement ['isa'] support ['relatedto'] tie
+victim ['relatedto'] crime ['relatedto'] breach ['relatedto'] tie
+victim ['relatedto'] prosecutor ['relatedto'] position ['relatedto'] tie
+victim ['desires'] closure ['relatedto'] support ['relatedto'] tie
+victim ['desires'] closure ['relatedto'] stitch ['relatedto'] tie
+victim ['desires'] closure ['relatedto'] wrap_dress ['relatedto'] tie
+victim ['antonym'] criminal ['isa'] accessory ['isa'] tie
+victim ['relatedto'] necklace ['relatedto'] around ['relatedto'] tie
+victim ['relatedto'] necklace ['relatedto'] neck ['relatedto'] tie
+victim ['relatedto'] necklace ['relatedto'] rubber ['relatedto'] tie
+victim ['relatedto'] necklace ['relatedto'] tyre ['etymologicallyrelatedto'] tie
+victim ['relatedto'] necklace ['relatedto'] neckwear ['isa', 'relatedto'] tie
+victim ['relatedto'] necklace ['relatedto'] rope ['capableof', 'mannerof', 'synonym'] tie
+victim ['relatedto'] robbery ['relatedto'] hold ['relatedto'] tie
+victim ['relatedto'] robbery ['relatedto'] score ['relatedto'] tie
+victim ['relatedto'] shock ['relatedto'] post ['relatedto'] tie
+victim ['relatedto'] shock ['relatedto'] lot ['relatedto'] tie
+victim ['isa'] butt ['partof'] body ['relatedto'] tie
+victim ['isa'] butt ['relatedto'] bend ['relatedto'] tie
+victim ['isa'] butt ['relatedto'] scarf ['relatedto'] tie
+victim ['isa'] butt ['relatedto'] rubber ['relatedto'] tie
+victim ['isa'] butt ['relatedto'] strap ['mannerof', 'synonym'] tie
+victim ['relatedto'] lifeline ['isa', 'relatedto'] line ['relatedto'] tie
+victim ['relatedto'] lifeline ['isa'] support ['relatedto'] tie
+victim ['relatedto'] murder_hole ['relatedto'] body ['relatedto'] tie
+victim ['relatedto'] necklacing ['relatedto'] rubber ['relatedto'] tie
+victim ['relatedto'] necklacing ['relatedto'] tyre ['etymologicallyrelatedto'] tie
+victim ['relatedto'] pigeon ['relatedto'] post ['relatedto'] tie
+victim ['relatedto'] pigeon ['relatedto'] around ['relatedto'] tie
+victim ['relatedto'] reverse_domestic_violence ['relatedto'] member ['relatedto'] tie
+victim ['relatedto'] roadkill ['isa'] body ['relatedto'] tie
+victim ['relatedto'] setter ['relatedto'] fashion ['mannerof'] tie
+victim ['relatedto'] thug ['relatedto'] band ['mannerof', 'relatedto'] tie
+victim ['relatedto'] turkey_shoot ['relatedto'] competition ['isa', 'relatedto'] tie
+victim ['relatedto'] target ['relatedto'] position ['relatedto'] tie
+victim ['relatedto'] target ['relatedto'] neck ['relatedto'] tie
+victim ['relatedto'] target ['relatedto'] run ['relatedto'] tie
+victim ['relatedto'] target ['relatedto'] score ['relatedto'] tie
+victim ['relatedto'] target ['relatedto'] anchor ['relatedto'] tie
+victim ['relatedto'] target ['relatedto'] x_ring ['relatedto'] tie
+victim ['relatedto'] whoopie_cushion ['relatedto'] rubber ['relatedto'] tie
+victim ['atlocation'] basement ['derivedfrom'] base ['isa', 'relatedto'] support ['relatedto'] tie
+victim ['atlocation'] basement ['derivedfrom'] base ['relatedto'] string ['usedfor'] tie
+victim ['atlocation'] basement ['derivedfrom'] base ['relatedto'] bundle ['relatedto'] tie
+victim ['atlocation'] basement ['derivedfrom'] base ['relatedto'] body ['relatedto'] tie
+victim ['atlocation'] basement ['derivedfrom'] base ['relatedto'] iron ['relatedto'] tie
+victim ['atlocation'] basement ['derivedfrom'] base ['relatedto'] neck ['relatedto'] tie
+victim ['atlocation'] basement ['derivedfrom'] base ['relatedto'] post ['relatedto'] tie
+victim ['atlocation'] basement ['derivedfrom'] base ['relatedto'] run ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['atlocation'] band ['mannerof', 'relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['atlocation'] suit ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['relatedto', 'partof'] hair ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['relatedto'] body ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['relatedto'] daughter ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['relatedto'] men ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['relatedto'] male ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['relatedto'] member ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['relatedto'] neck ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] human ['relatedto'] run ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] water ['relatedto'] concrete ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] water ['relatedto', 'atlocation'] typhoon ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] water ['relatedto'] anchor ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] water ['relatedto'] body ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] water ['relatedto'] breach ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] water ['relatedto'] form ['mannerof'] tie
+victim ['atlocation'] basement ['relatedto'] water ['relatedto'] silk ['atlocation'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['atlocation'] beam ['isa'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['atlocation'] clothing ['isa', 'relatedto'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['atlocation'] iron ['relatedto'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['atlocation'] rubber ['relatedto'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['isa'] band ['mannerof', 'relatedto'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['isa'] play ['entails'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['relatedto'] draw ['relatedto', 'synonym'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['relatedto'] fly ['relatedto'] tie
+victim ['atlocation'] basement ['hasa', 'relatedto', 'partof'] house ['relatedto'] lot ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] bottom ['relatedto'] body ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] bottom ['relatedto'] position ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] bottom ['relatedto'] relation ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] bottom ['relatedto'] hold ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] bottom ['relatedto'] support ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] bottom ['relatedto'] dress ['relatedto', 'synonym'] tie
+victim ['atlocation'] basement ['relatedto'] bottom ['relatedto'] iron ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] bottom ['relatedto'] neck ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] home ['relatedto'] someone ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] home ['relatedto'] position ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] home ['relatedto'] form ['mannerof'] tie
+victim ['atlocation'] basement ['atlocation'] home ['relatedto'] line ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] main ['relatedto'] body ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] main ['relatedto'] hair ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] main ['relatedto'] line ['relatedto'] tie
+victim ['atlocation'] basement ['relatedto'] main ['relatedto'] match ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] church ['isa'] body ['relatedto'] tie
+victim ['atlocation'] basement ['atlocation'] church ['relatedto'] marry ['relatedto', 'synonym'] tie
+victim ['atlocation'] basement ['partof', 'atlocation'] building ['relatedto'] concrete ['relatedto'] tie
+victim ['atlocation'] basement ['partof', 'atlocation'] building ['relatedto'] lot ['relatedto'] tie
+victim ['atlocation'] basement ['partof', 'atlocation'] building ['relatedto'] body ['relatedto'] tie
+victim ['atlocation'] basement ['partof', 'atlocation'] building ['relatedto', 'atlocation'] beam ['isa'] tie
+victim ['atlocation'] basement ['partof', 'atlocation'] building ['relatedto'] anchor ['relatedto'] tie
+victim ['atlocation'] basement ['partof', 'atlocation'] building ['relatedto'] bearing ['relatedto'] tie
+victim ['atlocation'] basement ['partof', 'atlocation'] building ['relatedto'] bond ['relatedto'] tie

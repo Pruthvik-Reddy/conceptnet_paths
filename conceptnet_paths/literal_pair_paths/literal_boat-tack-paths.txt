@@ -1,0 +1,100 @@
+boat ['relatedto'] bow ['relatedto'] tack
+boat ['relatedto'] small ['relatedto'] tack
+boat ['relatedto'] board ['relatedto'] tack
+boat ['mannerof', 'relatedto'] sail ['mannerof', 'relatedto'] tack
+boat ['relatedto'] device ['isa'] tack
+boat ['usedfor', 'relatedto'] sailing ['isa'] tack
+boat ['relatedto'] sailing_vessel ['relatedto'] tack
+boat ['relatedto'] boom ['relatedto'] tack
+boat ['relatedto'] sheet ['synonym'] tack
+boat ['relatedto'] activity ['relatedto'] point ['relatedto'] tack
+boat ['relatedto'] activity ['relatedto'] sail ['mannerof', 'relatedto'] tack
+boat ['relatedto'] activity ['relatedto'] wear ['antonym', 'relatedto'] tack
+boat ['relatedto'] smaller ['formof', 'relatedto'] small ['relatedto'] tack
+boat ['relatedto'] smaller ['relatedto'] bit ['relatedto'] tack
+boat ['relatedto'] smaller ['relatedto'] chapel ['relatedto'] tack
+boat ['relatedto'] smaller ['relatedto'] pin ['relatedto'] tack
+boat ['relatedto'] land ['relatedto'] course ['relatedto'] tack
+boat ['relatedto'] land ['relatedto'] fasten ['mannerof'] tack
+boat ['relatedto'] land ['relatedto'] board ['relatedto'] tack
+boat ['relatedto'] land ['relatedto'] lease ['relatedto'] tack
+boat ['relatedto', 'atlocation'] water ['relatedto'] board ['relatedto'] tack
+boat ['relatedto', 'atlocation'] water ['relatedto'] cast ['relatedto'] tack
+boat ['relatedto', 'atlocation'] water ['relatedto'] hardtack ['relatedto', 'derivedfrom'] tack
+boat ['relatedto', 'atlocation'] water ['relatedto'] sail ['mannerof', 'relatedto'] tack
+boat ['relatedto', 'atlocation'] water ['relatedto'] sailing ['isa'] tack
+boat ['relatedto', 'atlocation'] water ['relatedto'] wall ['atlocation'] tack
+boat ['relatedto', 'atlocation'] water ['relatedto'] device ['isa'] tack
+boat ['relatedto'] go ['antonym', 'distinctfrom', 'relatedto'] stay ['relatedto'] tack
+boat ['relatedto'] go ['relatedto'] busk ['relatedto'] tack
+boat ['relatedto'] go ['relatedto'] sail ['mannerof', 'relatedto'] tack
+boat ['relatedto'] go ['relatedto'] change ['synonym'] tack
+boat ['relatedto'] go ['relatedto'] reach ['relatedto'] tack
+boat ['relatedto'] bow ['relatedto'] billboard ['relatedto'] tack
+boat ['relatedto'] bow ['relatedto'] cast ['relatedto'] tack
+boat ['relatedto'] bow ['relatedto'] wear ['antonym', 'relatedto'] tack
+boat ['isa'] junk ['etymologicallyrelatedto'] junk_drawer ['atlocation'] tack
+boat ['isa'] junk ['relatedto'] sailing ['isa'] tack
+boat ['relatedto'] wet ['mannerof'] change ['synonym'] tack
+boat ['relatedto'] wet ['similarto'] tacky ['relatedto'] tack
+boat ['relatedto'] chair ['relatedto'] board ['relatedto'] tack
+boat ['relatedto'] chair ['relatedto'] device ['isa'] tack
+boat ['relatedto'] chair ['relatedto'] small ['relatedto'] tack
+boat ['relatedto'] chair ['relatedto'] tool ['isa'] tack
+boat ['atlocation'] bell ['receivesaction'] cast ['relatedto'] tack
+boat ['atlocation'] bell ['relatedto'] device ['isa'] tack
+boat ['atlocation'] bell ['relatedto'] tool ['isa'] tack
+boat ['atlocation'] bell ['relatedto'] change ['synonym'] tack
+boat ['atlocation'] food ['isa', 'relatedto'] hardtack ['relatedto', 'derivedfrom'] tack
+boat ['atlocation'] food ['relatedto'] beat ['relatedto'] tack
+boat ['atlocation'] food ['relatedto', 'synonym'] board ['relatedto'] tack
+boat ['relatedto'] thing ['isa'] change ['synonym'] tack
+boat ['relatedto'] thing ['relatedto'] paper ['relatedto'] tack
+boat ['relatedto'] thing ['relatedto'] equipment ['relatedto'] tack
+boat ['relatedto'] big ['antonym', 'distinctfrom', 'relatedto'] small ['relatedto'] tack
+boat ['relatedto'] big ['relatedto'] horse ['relatedto'] tack
+boat ['relatedto'] big ['relatedto'] sail ['mannerof', 'relatedto'] tack
+boat ['relatedto'] big ['relatedto'] thumb ['relatedto'] tack
+boat ['relatedto'] little ['relatedto', 'synonym'] bit ['relatedto'] tack
+boat ['relatedto'] little ['relatedto'] change ['synonym'] tack
+boat ['relatedto'] little ['relatedto', 'similarto', 'synonym'] small ['relatedto'] tack
+boat ['relatedto'] little ['relatedto'] shoe ['atlocation'] tack
+boat ['relatedto'] small ['hasproperty'] needle ['relatedto'] tack
+boat ['relatedto'] small ['relatedto'] bit ['relatedto'] tack
+boat ['relatedto'] small ['relatedto'] change ['synonym'] tack
+boat ['relatedto'] small ['relatedto'] chapel ['relatedto'] tack
+boat ['relatedto'] small ['relatedto'] pin ['relatedto'] tack
+boat ['relatedto'] small ['relatedto'] point ['relatedto'] tack
+boat ['relatedto'] small ['relatedto'] sharp ['relatedto', 'hasproperty'] tack
+boat ['relatedto'] small ['relatedto'] shoe ['atlocation'] tack
+boat ['relatedto'] plane ['relatedto'] bow ['relatedto'] tack
+boat ['relatedto'] plane ['antonym'] point ['relatedto'] tack
+boat ['relatedto'] plane ['relatedto'] bit ['relatedto'] tack
+boat ['relatedto'] plane ['relatedto'] board ['relatedto'] tack
+boat ['relatedto'] plane ['relatedto'] paper ['relatedto'] tack
+boat ['relatedto'] plane ['relatedto'] tool ['isa'] tack
+boat ['relatedto'] plane ['synonym'] sheet ['synonym'] tack
+boat ['relatedto'] board ['atlocation'] nail ['isa', 'relatedto'] tack
+boat ['relatedto'] board ['isa', 'relatedto', 'derivedfrom'] bulletin_board ['atlocation'] tack
+boat ['relatedto'] board ['derivedfrom'] notice_board ['relatedto'] tack
+boat ['relatedto'] board ['formof', 'relatedto'] boards ['relatedto'] tack
+boat ['relatedto'] board ['isa', 'relatedto'] sheet ['synonym'] tack
+boat ['relatedto'] board ['relatedto'] bulletin ['relatedto'] tack
+boat ['relatedto'] board ['relatedto'] device ['isa'] tack
+boat ['relatedto'] board ['relatedto'] equipment ['relatedto'] tack
+boat ['relatedto'] board ['relatedto'] paper ['relatedto'] tack
+boat ['relatedto'] board ['relatedto'] tool ['isa'] tack
+boat ['relatedto'] board ['relatedto'] wall ['atlocation'] tack
+boat ['relatedto'] board ['relatedto'] sailing ['isa'] tack
+boat ['relatedto'] board ['relatedto'] windward ['relatedto'] tack
+boat ['relatedto'] board ['relatedto'] message_board ['atlocation'] tack
+boat ['relatedto'] board ['relatedto'] notice ['relatedto'] tack
+boat ['relatedto'] board ['relatedto'] point ['relatedto'] tack
+boat ['relatedto'] board ['relatedto'] trip ['relatedto'] tack
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] small ['relatedto'] tack
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['isa'] tool ['isa'] tack
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] device ['isa'] tack
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] equipment ['relatedto'] tack
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] horse ['relatedto'] tack
+boat ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] ship ['relatedto', 'partof'] bow ['relatedto'] tack
+boat ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] ship ['relatedto'] board ['relatedto'] tack

@@ -1,0 +1,100 @@
+immigrant ['relatedto'] animal ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom'] man ['relatedto'] hunt
+immigrant ['relatedto'] animal ['formof', 'relatedto'] animals ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] coon ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] deer ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] ferret ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] fowl ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] fox ['relatedto', 'atlocation'] hunt
+immigrant ['relatedto'] animal ['isa'] game ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] hawk ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] predator ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] prey ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] rabbit ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] turtle ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] antihunter ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] big_five ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] blood_sport ['isa'] hunt
+immigrant ['relatedto'] animal ['relatedto'] drive ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] duck ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] fly ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] hunter ['relatedto', 'derivedfrom'] hunt
+immigrant ['relatedto'] animal ['relatedto'] moth ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] nest ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] pothunter ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] predation ['isa'] hunt
+immigrant ['relatedto'] animal ['relatedto'] safari ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] seal ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] venatio ['relatedto'] hunt
+immigrant ['relatedto'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] hunt
+immigrant ['relatedto'] plant ['relatedto'] hunter_gatherer ['relatedto'] hunt
+immigrant ['relatedto'] plant ['relatedto'] forests ['relatedto'] hunt
+immigrant ['relatedto'] plant ['relatedto'] shoot ['relatedto'] hunt
+immigrant ['relatedto'] plant ['relatedto'] sport ['relatedto'] hunt
+immigrant ['relatedto'] plant ['relatedto'] stalk ['isa'] hunt
+immigrant ['antonym', 'distinctfrom'] native ['relatedto'] nest ['relatedto'] hunt
+immigrant ['relatedto'] expatriate ['relatedto'] drive ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] greener ['relatedto'] protect ['relatedto'] hunt
+immigrant ['relatedto'] country ['relatedto'] chase ['relatedto'] hunt
+immigrant ['relatedto'] country ['relatedto'] organization ['relatedto'] hunt
+immigrant ['relatedto'] country ['relatedto'] governor ['relatedto'] hunt
+immigrant ['relatedto'] settle ['mannerof'] change ['relatedto'] hunt
+immigrant ['relatedto'] settle ['relatedto'] kill ['relatedto'] hunt
+immigrant ['relatedto'] settle ['relatedto'] nest ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] child ['relatedto'] man ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] child ['relatedto'] cub ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] child ['relatedto'] game ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] child ['relatedto'] kite ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] adult ['antonym', 'isa', 'relatedto'] man ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] adult ['relatedto'] duck ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa', 'relatedto'] adult ['relatedto'] rabbit ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['isa'] governor ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto', 'synonym'] man ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] organization ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] run ['synonym'] hunt
+immigrant ['relatedto'] animal ['isa'] young ['relatedto'] cub ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] young ['relatedto'] nest ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] young ['relatedto'] look ['relatedto'] hunt
+immigrant ['relatedto'] animal ['isa'] patient ['relatedto'] pursuit ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] alien ['relatedto'] man ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] alien ['relatedto'] organization ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] activity ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['antonym'] kill ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['hasproperty'] animals ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] duck ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] man ['relatedto'] hunt
+immigrant ['relatedto'] animal ['relatedto'] sometimes ['relatedto'] duck ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto', 'atlocation'] nest ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['capableof', 'relatedto', 'desires'] fly ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto', 'derivedfrom'] birder ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] falcon ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto', 'synonym'] fowl ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] hawk ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] kite ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] wildfowl ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] animals ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] duck ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] man ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['synonym'] time ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom'] man ['relatedto'] club ['isa'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] hunter_gatherer ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] forests ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] shoot ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] sport ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] stalk ['isa'] hunt
+immigrant ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['relatedto'] duck ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['capableof'] ferret ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['capableof'] turtle ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['isa'] poodle ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['isa', 'relatedto'] rabbit ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['relatedto'] beagle ['relatedto'] hunt
+immigrant ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['relatedto'] animals ['relatedto'] hunt
+immigrant ['relatedto'] animal ['atlocation'] detroit_zoo ['atlocation'] ferret ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['atlocation'] north_america ['atlocation'] ferret ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['atlocation'] outside ['atlocation'] fox ['relatedto', 'atlocation'] hunt
+immigrant ['relatedto'] animal ['atlocation'] outside ['relatedto'] nest ['relatedto'] hunt
+immigrant ['relatedto'] animal ['atlocation'] park ['relatedto'] course ['mannerof'] hunt
+immigrant ['relatedto'] animal ['atlocation'] park ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] drive ['mannerof', 'relatedto'] hunt
+immigrant ['relatedto'] animal ['atlocation'] park ['atlocation'] animals ['relatedto'] hunt
+immigrant ['relatedto'] animal ['atlocation'] park ['atlocation'] fox ['relatedto', 'atlocation'] hunt
+immigrant ['relatedto'] animal ['atlocation'] park ['atlocation'] kite ['relatedto'] hunt

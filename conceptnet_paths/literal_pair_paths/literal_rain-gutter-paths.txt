@@ -1,0 +1,100 @@
+rain ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto'] gutter
+rain ['atlocation'] street ['atlocation'] gutter
+rain ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['antonym', 'synonym'] burn ['mannerof'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto', 'atlocation'] drain ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['atlocation'] roof ['relatedto', 'atlocation'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['atlocation'] sewer ['synonym'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto', 'atlocation'] stream ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['atlocation'] street ['atlocation'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto', 'atlocation'] toilet ['synonym'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto', 'derivedfrom', 'atlocation'] waterspout ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto'] channel ['isa', 'relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto'] conduit ['isa'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto'] ditch ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto'] drainage ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto'] gurt ['relatedto'] gutter
+rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto'] strand ['relatedto'] gutter
+rain ['relatedto'] fall ['formof', 'relatedto'] falls ['relatedto'] gutter
+rain ['relatedto'] fall ['relatedto', 'synonym'] pin ['relatedto'] gutter
+rain ['relatedto'] fall ['relatedto'] leaf ['relatedto'] gutter
+rain ['relatedto'] spring ['relatedto', 'atlocation'] water ['relatedto'] gutter
+rain ['relatedto'] spring ['relatedto'] run ['mannerof'] gutter
+rain ['isa', 'mannerof', 'relatedto'] shower ['relatedto', 'atlocation'] water ['relatedto'] gutter
+rain ['isa', 'mannerof', 'relatedto'] shower ['mannerof'] provide ['mannerof'] gutter
+rain ['isa', 'mannerof', 'relatedto'] shower ['partof'] drain ['relatedto'] gutter
+rain ['isa', 'mannerof', 'relatedto'] shower ['relatedto'] toilet ['synonym'] gutter
+rain ['relatedto', 'hasproperty'] wet ['etymologicallyrelatedto', 'relatedto', 'atlocation', 'capableof', 'mannerof'] water ['relatedto'] gutter
+rain ['relatedto', 'hasproperty'] wet ['relatedto'] launder ['relatedto'] gutter
+rain ['relatedto', 'hasproperty'] wet ['relatedto'] drunk ['atlocation'] gutter
+rain ['usedfor', 'relatedto'] sky ['antonym', 'relatedto'] water ['relatedto'] gutter
+rain ['usedfor', 'relatedto'] sky ['capableof'] rain_water ['relatedto'] gutter
+rain ['usedfor', 'relatedto'] sky ['relatedto'] building ['relatedto'] gutter
+rain ['usedfor', 'relatedto'] sky ['relatedto'] roof ['relatedto', 'atlocation'] gutter
+rain ['relatedto'] drop ['relatedto'] water ['relatedto'] gutter
+rain ['relatedto'] drop ['relatedto'] falls ['relatedto'] gutter
+rain ['relatedto'] drop ['relatedto'] rain_water ['relatedto'] gutter
+rain ['atlocation'] forest ['atlocation'] stream ['relatedto'] gutter
+rain ['relatedto'] clear ['relatedto', 'hasproperty'] water ['relatedto'] gutter
+rain ['antonym', 'usedfor', 'relatedto'] cloud ['relatedto'] water ['relatedto'] gutter
+rain ['antonym'] shine ['mannerof'] burn ['mannerof'] gutter
+rain ['antonym'] shine ['mannerof', 'relatedto'] flicker ['relatedto'] gutter
+rain ['antonym', 'distinctfrom', 'relatedto'] snow ['isa', 'relatedto', 'atlocation'] water ['relatedto'] gutter
+rain ['antonym', 'distinctfrom', 'relatedto'] snow ['atlocation'] roof ['relatedto', 'atlocation'] gutter
+rain ['antonym', 'distinctfrom'] sun ['relatedto'] burn ['mannerof'] gutter
+rain ['antonym'] sunshine ['atlocation'] street ['atlocation'] gutter
+rain ['atlocation'] fox ['relatedto'] kennel ['relatedto'] gutter
+rain ['atlocation'] gazelle ['atlocation'] water ['relatedto'] gutter
+rain ['atlocation'] koala ['atlocation'] water ['relatedto'] gutter
+rain ['atlocation'] disneyland ['atlocation'] water ['relatedto'] gutter
+rain ['atlocation'] street ['atlocation'] water ['relatedto'] gutter
+rain ['atlocation'] street ['relatedto'] ditch ['relatedto'] gutter
+rain ['atlocation'] street ['isa', 'distinctfrom', 'relatedto', 'synonym'] road ['relatedto'] gutter
+rain ['atlocation'] street ['isa', 'relatedto', 'atlocation'] lane ['relatedto'] gutter
+rain ['atlocation'] street ['atlocation'] sewer ['synonym'] gutter
+rain ['atlocation'] street ['relatedto'] catch_basin ['relatedto'] gutter
+rain ['atlocation'] street ['usedfor', 'relatedto'] curb ['usedfor', 'relatedto'] gutter
+rain ['atlocation'] street ['relatedto'] kennel ['relatedto'] gutter
+rain ['atlocation'] street ['relatedto'] strand ['relatedto'] gutter
+rain ['atlocation'] street ['relatedto'] homes ['relatedto'] gutter
+rain ['atlocation'] street ['relatedto'] building ['relatedto'] gutter
+rain ['isa', 'relatedto', 'partof', 'atlocation'] weather ['relatedto'] channel ['isa', 'relatedto'] gutter
+rain ['capableof', 'relatedto'] clouds ['capableof'] rain_water ['relatedto'] gutter
+rain ['capableof'] wet_clothes ['capableof'] water ['relatedto'] gutter
+rain ['causes'] washing_car ['capableof', 'hasprerequisite'] water ['relatedto'] gutter
+rain ['relatedto', 'derivedfrom'] rainfed ['relatedto'] water ['relatedto'] gutter
+rain ['isa', 'derivedfrom'] rainstorm ['atlocation'] water ['relatedto'] gutter
+rain ['relatedto', 'derivedfrom'] rainbow ['atlocation'] water ['relatedto'] gutter
+rain ['distinctfrom', 'relatedto'] mist ['relatedto'] water ['relatedto'] gutter
+rain ['distinctfrom', 'relatedto'] mist ['relatedto'] street ['atlocation'] gutter
+rain ['distinctfrom'] dry ['relatedto'] water ['relatedto'] gutter
+rain ['distinctfrom'] dry ['synonym'] burn ['mannerof'] gutter
+rain ['distinctfrom'] dry ['etymologicallyrelatedto'] drain ['relatedto'] gutter
+rain ['distinctfrom'] dry ['relatedto'] roof ['relatedto', 'atlocation'] gutter
+rain ['distinctfrom', 'relatedto'] sleet ['atlocation'] water ['relatedto'] gutter
+rain ['hasa'] oxygen ['relatedto', 'atlocation', 'hasa', 'madeof', 'partof'] water ['relatedto'] gutter
+rain ['hasprerequisite'] getting_wet ['hasprerequisite'] water ['relatedto'] gutter
+rain ['isa', 'relatedto', 'synonym'] downpour ['atlocation'] water ['relatedto'] gutter
+rain ['isa', 'relatedto', 'synonym'] downpour ['synonym'] waterspout ['relatedto'] gutter
+rain ['isa'] find_downtown ['isa'] street ['atlocation'] gutter
+rain ['isa'] find_downtown ['isa'] building ['relatedto'] gutter
+rain ['isa', 'relatedto'] monsoon ['relatedto'] water ['relatedto'] gutter
+rain ['isa', 'relatedto'] pouring ['relatedto'] flow ['relatedto'] gutter
+rain ['isa', 'relatedto'] precipitation ['relatedto'] water ['relatedto'] gutter
+rain ['isa'] sequence ['isa'] run ['mannerof'] gutter
+rain ['isa'] fresh_water ['isa', 'relatedto'] water ['relatedto'] gutter
+rain ['mannerof', 'relatedto'] pour ['relatedto'] water ['relatedto'] gutter
+rain ['mannerof', 'relatedto'] pour ['causes', 'mannerof'] run ['mannerof'] gutter
+rain ['mannerof', 'relatedto'] pour ['relatedto'] lave ['relatedto'] gutter
+rain ['mannerof', 'relatedto'] pour ['relatedto'] flow ['relatedto'] gutter
+rain ['mannerof', 'relatedto'] pour ['synonym'] stream ['relatedto'] gutter
+rain ['mannerof', 'relatedto'] precipitate ['relatedto'] water ['relatedto'] gutter
+rain ['relatedto'] boot ['relatedto'] leaf ['relatedto'] gutter
+rain ['relatedto'] bucket ['atlocation'] water ['relatedto'] gutter
+rain ['relatedto'] bucket ['isa'] container_product ['isa'] gutter
+rain ['relatedto'] cloudbuster ['relatedto'] drain ['relatedto'] gutter
+rain ['relatedto'] cloudwater ['relatedto'] water ['relatedto'] gutter
+rain ['relatedto'] coal ['relatedto'] burn ['mannerof'] gutter
+rain ['relatedto'] coat ['relatedto'] water ['relatedto'] gutter

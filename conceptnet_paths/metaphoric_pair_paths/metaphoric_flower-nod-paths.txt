@@ -1,0 +1,100 @@
+flower ['relatedto', 'synonym'] head ['relatedto'] nod
+flower ['relatedto', 'hasproperty'] alive ['relatedto'] action ['relatedto'] nod
+flower ['distinctfrom', 'relatedto'] plant ['relatedto'] action ['relatedto'] nod
+flower ['distinctfrom', 'relatedto'] plant ['mannerof'] communicate ['mannerof'] nod
+flower ['relatedto'] sleep ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] sleep ['motivatedbygoal', 'relatedto', 'derivedfrom'] sleepy ['relatedto'] nod
+flower ['relatedto'] sleep ['motivatedbygoal', 'relatedto'] tired ['relatedto'] nod
+flower ['relatedto'] sleep ['relatedto'] fall_asleep ['relatedto'] nod
+flower ['relatedto'] sleep ['relatedto'] opiate ['relatedto'] nod
+flower ['relatedto'] sleep ['relatedto'] sloom ['relatedto'] nod
+flower ['relatedto'] spring ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] spring ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] spring ['relatedto'] noddy ['relatedto'] nod
+flower ['relatedto'] good ['hasproperty'] agreement ['relatedto'] nod
+flower ['relatedto'] top ['isa', 'relatedto', 'synonym'] head ['relatedto'] nod
+flower ['relatedto'] thing ['isa'] action ['relatedto'] nod
+flower ['relatedto'] thing ['relatedto'] sign ['relatedto'] nod
+flower ['relatedto', 'synonym'] head ['relatedto'] beck ['relatedto'] nod
+flower ['relatedto', 'synonym'] head ['relatedto'] noodle ['relatedto'] nod
+flower ['relatedto'] bread ['relatedto'] communicate ['mannerof'] nod
+flower ['synonym'] cream ['relatedto'] shake ['antonym', 'relatedto'] nod
+flower ['relatedto'] hand ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] hand ['relatedto'] beck ['relatedto'] nod
+flower ['relatedto'] hand ['relatedto'] gesture ['isa', 'relatedto'] nod
+flower ['relatedto'] hand ['relatedto'] shake ['antonym', 'relatedto'] nod
+flower ['relatedto'] hand ['relatedto'] sign ['relatedto'] nod
+flower ['isa', 'relatedto'] cosmos ['relatedto'] head ['relatedto'] nod
+flower ['capableof'] close ['relatedto'] action ['relatedto'] nod
+flower ['capableof'] close ['mannerof'] move ['mannerof', 'relatedto'] nod
+flower ['capableof'] open ['relatedto'] action ['relatedto'] nod
+flower ['capableof'] open ['mannerof'] move ['mannerof', 'relatedto'] nod
+flower ['relatedto'] sun ['relatedto'] nutation ['isa'] nod
+flower ['antonym', 'relatedto'] seed ['relatedto'] head ['relatedto'] nod
+flower ['antonym', 'relatedto'] seed ['relatedto'] dropping ['relatedto'] nod
+flower ['relatedto'] crop ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] crop ['relatedto'] bob ['relatedto'] nod
+flower ['relatedto'] perfect ['antonym', 'relatedto'] mistake ['relatedto'] nod
+flower ['antonym'] dance ['relatedto'] action ['relatedto'] nod
+flower ['antonym'] dance ['createdby', 'relatedto'] movement ['relatedto'] nod
+flower ['antonym'] dance ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] nod
+flower ['antonym'] dance ['relatedto'] shake ['antonym', 'relatedto'] nod
+flower ['antonym', 'relatedto'] leaf ['relatedto'] dropping ['relatedto'] nod
+flower ['atlocation'] park ['relatedto'] action ['relatedto'] nod
+flower ['etymologicallyrelatedto', 'relatedto', 'synonym', 'capableof', 'isa'] blossom ['relatedto'] action ['relatedto'] nod
+flower ['relatedto', 'derivedfrom'] flowerhead ['derivedfrom'] head ['relatedto'] nod
+flower ['isa', 'derivedfrom'] sunflower ['relatedto'] head ['relatedto'] nod
+flower ['formof', 'relatedto'] flowering ['relatedto'] action ['relatedto'] nod
+flower ['isa', 'relatedto'] dandelion ['relatedto'] head ['relatedto'] nod
+flower ['isa'] external_anatomical_part ['isa'] head ['relatedto'] nod
+flower ['isa', 'relatedto'] stock ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] anthodium ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] blooming ['synonym'] blinking ['relatedto'] nod
+flower ['relatedto'] coronilla ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] cyme ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] floricomous ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] general ['isa'] head ['relatedto'] nod
+flower ['relatedto'] general ['relatedto'] move ['mannerof', 'relatedto'] nod
+flower ['relatedto'] growth ['relatedto'] nodding_disease ['relatedto'] nod
+flower ['relatedto'] name ['relatedto'] reference ['relatedto'] nod
+flower ['relatedto'] name ['isa', 'relatedto'] bob ['relatedto'] nod
+flower ['relatedto'] name ['relatedto'] sign ['relatedto'] nod
+flower ['relatedto'] part ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] part ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] part ['relatedto'] shake ['antonym', 'relatedto'] nod
+flower ['relatedto'] smell ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] wood ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] wood ['relatedto'] shake ['antonym', 'relatedto'] nod
+flower ['relatedto'] flow ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] flow ['isa', 'relatedto'] movement ['relatedto'] nod
+flower ['relatedto'] flow ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] nod
+flower ['relatedto'] river ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] river ['relatedto'] movement ['relatedto'] nod
+flower ['relatedto'] river ['relatedto'] beck ['relatedto'] nod
+flower ['relatedto'] glome ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] homochromous ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] pome ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] pompon ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] style ['relatedto'] reference ['relatedto'] nod
+flower ['relatedto'] trumpetweed ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] waggle_dance ['relatedto'] communicate ['mannerof'] nod
+flower ['relatedto'] yuletide ['relatedto'] allusion ['relatedto'] nod
+flower ['synonym'] flush ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] absolute ['derivedfrom'] absolute_space ['relatedto'] reference ['relatedto'] nod
+flower ['relatedto'] absolute ['derivedfrom'] absolutely ['relatedto'] yes ['relatedto', 'similarto'] nod
+flower ['relatedto'] absolute ['relatedto'] condition ['relatedto'] agree ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] condition ['relatedto', 'partof'] agreement ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] condition ['isa'] nomination ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] limitation ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] perfect ['antonym', 'relatedto'] mistake ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] relation ['relatedto'] reference ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] unmitigated ['similarto'] blinking ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] antisynchronization ['relatedto'] sign ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] flat ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] flat ['relatedto'] sign ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] must ['relatedto'] sign ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] rule ['relatedto'] action ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] rule ['relatedto'] agreement ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] rule ['relatedto'] head ['relatedto'] nod
+flower ['relatedto'] absolute ['relatedto'] rule ['relatedto'] move ['mannerof', 'relatedto'] nod
+flower ['relatedto'] absolute ['similarto'] direct ['relatedto'] action ['relatedto'] nod

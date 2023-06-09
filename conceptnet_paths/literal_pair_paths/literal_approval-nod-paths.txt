@@ -1,0 +1,100 @@
+approval ['relatedto'] nod
+approval ['relatedto'] agreement ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto', 'synonym'] agree ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] agreement ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] yes ['relatedto', 'similarto'] nod
+approval ['relatedto'] agreement ['relatedto'] affirmative ['relatedto'] nod
+approval ['relatedto'] agreement ['derivedfrom'] agree ['relatedto'] nod
+approval ['relatedto'] agreement ['relatedto'] noddingly ['relatedto'] nod
+approval ['relatedto'] ask ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] ask ['mannerof'] communicate ['mannerof'] nod
+approval ['relatedto'] approbative ['synonym'] affirmative ['relatedto'] nod
+approval ['relatedto', 'derivedfrom'] approve ['relatedto'] yes ['relatedto', 'similarto'] nod
+approval ['isa'] satisfaction ['hasfirstsubevent'] understand_better ['hasfirstsubevent'] nod
+approval ['isa', 'relatedto'] acceptance ['relatedto'] action ['relatedto'] nod
+approval ['isa', 'relatedto'] acceptance ['relatedto'] affirmative ['relatedto'] nod
+approval ['isa', 'relatedto'] acceptance ['relatedto'] agreement ['relatedto'] nod
+approval ['isa', 'relatedto'] acceptance ['isa'] acknowledgment ['relatedto'] nod
+approval ['isa'] message ['isa', 'relatedto'] acknowledgment ['relatedto'] nod
+approval ['isa'] message ['mannerof', 'relatedto'] communicate ['mannerof'] nod
+approval ['isa'] message ['relatedto'] sign ['relatedto'] nod
+approval ['isa'] liking ['isa'] inclination ['isa'] nod
+approval ['isa'] connivance ['isa'] agreement ['relatedto'] nod
+approval ['isa'] favor ['isa'] inclination ['isa'] nod
+approval ['isa'] recognition ['synonym'] acknowledgment ['relatedto'] nod
+approval ['isa'] tribute ['relatedto'] acknowledgment ['relatedto'] nod
+approval ['relatedto'] accolade ['relatedto'] acknowledgment ['relatedto'] nod
+approval ['relatedto'] allowance ['relatedto'] acknowledgment ['relatedto'] nod
+approval ['relatedto'] applaud ['mannerof'] gesticulate ['mannerof'] nod
+approval ['relatedto'] prove ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] stamp ['relatedto'] bob ['relatedto'] nod
+approval ['relatedto'] acknowledgement ['relatedto'] agree ['relatedto'] nod
+approval ['relatedto'] acknowledgement ['formof', 'synonym'] acknowledgment ['relatedto'] nod
+approval ['relatedto'] return ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] state ['isa'] action ['relatedto'] nod
+approval ['relatedto'] assent ['mannerof', 'relatedto', 'synonym'] agree ['relatedto'] nod
+approval ['relatedto'] assent ['isa', 'relatedto'] agreement ['relatedto'] nod
+approval ['relatedto'] bless ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] bless ['mannerof'] gesticulate ['mannerof'] nod
+approval ['relatedto'] bless ['relatedto'] saying ['relatedto'] nod
+approval ['relatedto'] bless ['relatedto'] reference ['relatedto'] nod
+approval ['relatedto'] bless ['relatedto', 'synonym'] sign ['relatedto'] nod
+approval ['relatedto', 'synonym'] blessing ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] damn_skippy ['relatedto'] agreement ['relatedto'] nod
+approval ['relatedto'] endorse ['mannerof', 'relatedto', 'entails'] sign ['relatedto'] nod
+approval ['relatedto'] full_marks ['relatedto'] agreement ['relatedto'] nod
+approval ['relatedto', 'synonym'] go ['relatedto'] action ['relatedto'] nod
+approval ['relatedto', 'synonym'] go ['isa', 'relatedto', 'synonym'] move ['mannerof', 'relatedto'] nod
+approval ['relatedto', 'synonym'] go ['relatedto'] movement ['relatedto'] nod
+approval ['relatedto'] go_ahead ['relatedto'] agreement ['relatedto'] nod
+approval ['relatedto'] passage ['relatedto'] movement ['relatedto'] nod
+approval ['relatedto'] patronage ['relatedto'] nomination ['relatedto'] nod
+approval ['relatedto'] signature ['relatedto'] sign ['relatedto'] nod
+approval ['synonym'] congeniality ['synonym'] agreement ['relatedto'] nod
+approval ['synonym'] consent ['relatedto', 'synonym'] agree ['relatedto'] nod
+approval ['synonym'] consent ['relatedto', 'synonym'] agreement ['relatedto'] nod
+approval ['relatedto'] accept ['antonym', 'distinctfrom'] decline ['antonym'] agree ['relatedto'] nod
+approval ['relatedto'] accept ['antonym', 'distinctfrom'] decline ['antonym', 'relatedto', 'synonym'] incline ['relatedto'] nod
+approval ['relatedto'] accept ['antonym', 'distinctfrom'] decline ['relatedto'] movement ['relatedto'] nod
+approval ['relatedto'] accept ['antonym', 'distinctfrom'] refuse ['antonym', 'distinctfrom'] agree ['relatedto'] nod
+approval ['relatedto'] accept ['antonym'] protest ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] accept ['antonym'] protest ['antonym', 'distinctfrom'] agree ['relatedto'] nod
+approval ['relatedto'] accept ['antonym'] protest ['antonym'] agreement ['relatedto'] nod
+approval ['relatedto'] accept ['antonym'] protest ['relatedto'] movement ['relatedto'] nod
+approval ['relatedto'] accept ['antonym'] protest ['relatedto'] sign ['relatedto'] nod
+approval ['relatedto'] accept ['antonym'] protest ['relatedto'] gesture ['isa', 'relatedto'] nod
+approval ['relatedto'] accept ['relatedto', 'derivedfrom'] acceptance ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto', 'derivedfrom'] acceptance ['relatedto'] affirmative ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto', 'derivedfrom'] acceptance ['relatedto'] agreement ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto', 'derivedfrom'] acceptance ['isa'] acknowledgment ['relatedto'] nod
+approval ['relatedto'] accept ['distinctfrom'] disagree ['antonym', 'distinctfrom', 'relatedto', 'derivedfrom'] agree ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof'] judge ['relatedto'] head ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto', 'synonym'] receive ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'synonym'] acknowledge ['mannerof'] communicate ['mannerof'] nod
+approval ['relatedto'] accept ['mannerof', 'synonym'] acknowledge ['relatedto'] acknowledgment ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'synonym'] adopt ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto', 'synonym'] agree ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto', 'synonym'] agree ['derivedfrom'] agreement ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto', 'synonym'] agree ['relatedto'] yes ['relatedto', 'similarto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto'] believe ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto'] believe ['relatedto'] yes ['relatedto', 'similarto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto'] give ['relatedto'] action ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto'] give ['mannerof'] communicate ['mannerof'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto'] give ['relatedto'] gesture ['isa', 'relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto'] give ['relatedto'] move ['mannerof', 'relatedto'] nod
+approval ['relatedto'] accept ['mannerof'] settle ['mannerof'] agree ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof'] settle ['entails'] move ['mannerof', 'relatedto'] nod
+approval ['relatedto'] accept ['mannerof', 'relatedto'] welcome ['relatedto'] sign ['relatedto'] nod
+approval ['relatedto'] accept ['mannerof'] yield ['relatedto'] sign ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] action ['isa', 'relatedto'] mistake ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] action ['isa'] reference ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] action ['relatedto'] agree ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] action ['relatedto'] move ['mannerof', 'relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] action ['relatedto'] shake ['antonym', 'relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] agreement ['relatedto'] affirmative ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] agreement ['derivedfrom'] agree ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] agreement ['relatedto'] noddingly ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] answer ['relatedto'] affirmative ['relatedto'] nod
+approval ['relatedto'] accept ['relatedto'] answer ['relatedto'] agreement ['relatedto'] nod

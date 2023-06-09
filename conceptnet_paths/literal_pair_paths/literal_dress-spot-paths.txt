@@ -1,0 +1,100 @@
+dress ['mannerof'] position ['synonym'] spot
+dress ['mannerof'] change ['mannerof'] spot
+dress ['usedfor', 'relatedto'] clothes ['relatedto'] spot
+dress ['atlocation'] fox ['mannerof'] spot
+dress ['relatedto'] budge ['relatedto'] spot
+dress ['capableof'] action ['isa', 'relatedto'] change ['mannerof'] spot
+dress ['capableof'] action ['relatedto'] bit ['synonym'] spot
+dress ['capableof'] action ['relatedto'] distinguish ['relatedto'] spot
+dress ['capableof'] action ['relatedto'] drop ['relatedto'] spot
+dress ['capableof'] action ['relatedto'] find ['relatedto', 'similarto'] spot
+dress ['capableof'] action ['relatedto'] itch ['relatedto'] spot
+dress ['capableof'] action ['relatedto'] park ['relatedto'] spot
+dress ['capableof'] action ['relatedto'] payment ['relatedto'] spot
+dress ['capableof'] action ['relatedto'] point ['relatedto', 'synonym'] spot
+dress ['capableof'] action ['relatedto'] run ['desires'] spot
+dress ['capableof'] action ['relatedto'] stop ['relatedto'] spot
+dress ['capableof'] action ['relatedto'] sweet_spot ['isa'] spot
+dress ['capableof'] action ['relatedto'] touch ['synonym'] spot
+dress ['capableof'] action ['relatedto', 'synonym'] turn ['relatedto'] spot
+dress ['relatedto'] activity ['isa'] support ['relatedto'] spot
+dress ['relatedto'] activity ['isa', 'relatedto'] turn ['relatedto'] spot
+dress ['relatedto'] activity ['relatedto'] hot_spot ['isa'] spot
+dress ['relatedto'] activity ['relatedto'] point ['relatedto', 'synonym'] spot
+dress ['relatedto'] activity ['relatedto'] program ['relatedto'] spot
+dress ['relatedto'] activity ['relatedto'] run ['desires'] spot
+dress ['relatedto'] evening ['relatedto'] bar ['relatedto'] spot
+dress ['relatedto'] evening ['relatedto'] shade ['antonym', 'relatedto'] spot
+dress ['relatedto'] morning ['relatedto'] meal ['relatedto'] spot
+dress ['relatedto'] morning ['relatedto'] bright ['relatedto'] spot
+dress ['relatedto'] morning ['relatedto'] section ['isa'] spot
+dress ['relatedto'] getting ['hasprerequisite'] money ['relatedto'] spot
+dress ['relatedto'] getting ['relatedto'] bank ['relatedto'] spot
+dress ['relatedto'] getting ['relatedto'] bar ['relatedto'] spot
+dress ['relatedto'] getting ['relatedto'] find ['relatedto', 'similarto'] spot
+dress ['relatedto'] getting ['relatedto'] gym ['relatedto'] spot
+dress ['relatedto'] getting ['relatedto'] wound ['relatedto'] spot
+dress ['relatedto'] short ['relatedto'] bed ['relatedto'] spot
+dress ['relatedto'] short ['relatedto', 'similarto', 'synonym'] brief ['relatedto'] spot
+dress ['relatedto'] short ['relatedto'] point ['relatedto', 'synonym'] spot
+dress ['relatedto'] short ['relatedto'] stop ['relatedto'] spot
+dress ['relatedto'] short ['relatedto'] touch ['synonym'] spot
+dress ['relatedto'] red ['isa', 'relatedto'] color ['relatedto'] spot
+dress ['relatedto'] red ['relatedto'] bed ['relatedto'] spot
+dress ['relatedto'] red ['relatedto'] fox ['mannerof'] spot
+dress ['relatedto'] red ['relatedto'] mark ['mannerof', 'relatedto'] spot
+dress ['relatedto'] red ['relatedto'] measles ['relatedto'] spot
+dress ['relatedto'] red ['relatedto'] bright ['relatedto'] spot
+dress ['relatedto'] red ['relatedto'] run ['desires'] spot
+dress ['relatedto'] red ['relatedto'] stop ['relatedto'] spot
+dress ['relatedto'] red ['relatedto'] wound ['relatedto'] spot
+dress ['antonym'] man ['relatedto'] club ['relatedto'] spot
+dress ['antonym'] man ['relatedto'] dog ['relatedto'] spot
+dress ['antonym'] man ['relatedto'] area ['relatedto'] spot
+dress ['antonym'] man ['relatedto'] fish ['isa'] spot
+dress ['antonym'] man ['relatedto'] position ['synonym'] spot
+dress ['antonym'] man ['relatedto'] name ['relatedto'] spot
+dress ['antonym'] man ['relatedto'] satyr ['relatedto'] spot
+dress ['relatedto'] answer ['relatedto'] shade ['antonym', 'relatedto'] spot
+dress ['relatedto'] bottom ['antonym', 'distinctfrom', 'relatedto'] middle ['relatedto'] spot
+dress ['relatedto'] bottom ['distinctfrom'] surface ['relatedto'] spot
+dress ['relatedto'] bottom ['distinctfrom'] table ['relatedto'] spot
+dress ['relatedto'] bottom ['isa'] turn ['relatedto'] spot
+dress ['relatedto'] bottom ['relatedto'] location ['relatedto'] spot
+dress ['relatedto'] bottom ['relatedto'] position ['synonym'] spot
+dress ['relatedto'] bottom ['relatedto'] support ['relatedto'] spot
+dress ['relatedto'] bottom ['synonym'] bed ['relatedto'] spot
+dress ['synonym'] set ['mannerof'] change ['mannerof'] spot
+dress ['synonym'] set ['relatedto'] amount ['relatedto'] spot
+dress ['synonym'] set ['relatedto'] bogey ['relatedto'] spot
+dress ['synonym'] set ['relatedto'] color ['relatedto'] spot
+dress ['synonym'] set ['relatedto'] distinguish ['relatedto'] spot
+dress ['synonym'] set ['relatedto', 'synonym'] mark ['mannerof', 'relatedto'] spot
+dress ['synonym'] set ['relatedto', 'similarto', 'synonym'] place ['relatedto'] spot
+dress ['synonym'] set ['relatedto'] point ['relatedto', 'synonym'] spot
+dress ['synonym'] set ['relatedto', 'similarto'] locate ['relatedto', 'similarto'] spot
+dress ['synonym'] set ['similarto'] situate ['similarto'] spot
+dress ['synonym'] set ['synonym'] club ['relatedto'] spot
+dress ['relatedto'] arm ['atlocation'] wound ['relatedto'] spot
+dress ['relatedto'] arm ['relatedto'] section ['isa'] spot
+dress ['relatedto'] arm ['relatedto'] mail ['relatedto'] spot
+dress ['relatedto'] arm ['relatedto'] shield ['relatedto'] spot
+dress ['isa', 'relatedto'] clothing ['relatedto'] pattern ['isa'] spot
+dress ['isa', 'relatedto'] clothing ['isa', 'relatedto'] change ['mannerof'] spot
+dress ['isa', 'relatedto'] clothing ['relatedto', 'synonym'] clothes ['relatedto'] spot
+dress ['isa', 'relatedto'] clothing ['relatedto'] dot ['relatedto'] spot
+dress ['isa', 'relatedto'] clothing ['relatedto'] patch ['relatedto', 'synonym'] spot
+dress ['isa', 'relatedto'] clothing ['relatedto'] stain ['relatedto'] spot
+dress ['relatedto'] article ['isa', 'relatedto'] section ['isa'] spot
+dress ['relatedto'] article ['relatedto'] segment ['relatedto'] spot
+dress ['mannerof'] position ['isa', 'relatedto'] point ['relatedto', 'synonym'] spot
+dress ['mannerof'] position ['relatedto'] middle ['relatedto'] spot
+dress ['mannerof'] position ['relatedto'] nest ['relatedto'] spot
+dress ['mannerof'] position ['relatedto', 'synonym'] place ['relatedto'] spot
+dress ['mannerof'] position ['relatedto'] location ['relatedto'] spot
+dress ['mannerof'] position ['relatedto'] respot ['relatedto'] spot
+dress ['mannerof'] position ['relatedto', 'synonym'] stead ['relatedto'] spot
+dress ['relatedto'] full ['relatedto'] payment ['relatedto'] spot
+dress ['relatedto'] full ['relatedto'] bank ['relatedto'] spot
+dress ['relatedto'] full ['antonym'] shade ['antonym', 'relatedto'] spot
+dress ['relatedto'] full ['mannerof'] change ['mannerof'] spot

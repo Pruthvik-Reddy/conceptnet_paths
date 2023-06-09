@@ -1,0 +1,100 @@
+freighter ['synonym'] bottom ['relatedto'] iron ['relatedto'] tug
+freighter ['relatedto'] vessel ['isa', 'relatedto'] ship ['isa'] tug
+freighter ['relatedto'] vessel ['isa', 'relatedto'] tub ['relatedto'] tug
+freighter ['relatedto'] vessel ['isa', 'relatedto'] tugboat ['relatedto', 'synonym'] tug
+freighter ['relatedto'] vessel ['relatedto'] towboat ['relatedto'] tug
+freighter ['relatedto', 'synonym'] cargo_ship ['isa', 'relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto', 'synonym'] base ['relatedto'] iron ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] behind ['relatedto'] drive ['synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] behind ['relatedto'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] ground ['relatedto'] hard ['relatedto'] tug
+freighter ['synonym'] bottom ['atlocation'] water ['relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['antonym', 'distinctfrom', 'relatedto'] top ['partof'] ship ['isa'] tug
+freighter ['synonym'] bottom ['antonym', 'distinctfrom', 'relatedto'] top ['relatedto'] toy ['etymologicallyrelatedto'] tug
+freighter ['synonym'] bottom ['antonym'] head ['relatedto', 'atlocation'] ship ['isa'] tug
+freighter ['synonym'] bottom ['antonym', 'distinctfrom', 'relatedto', 'isa'] side ['synonym'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+freighter ['synonym'] bottom ['antonym', 'distinctfrom', 'relatedto', 'isa'] side ['relatedto'] drive ['synonym'] tug
+freighter ['synonym'] bottom ['antonym', 'distinctfrom', 'relatedto', 'isa'] side ['relatedto'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+freighter ['synonym'] bottom ['derivedfrom'] hardbottom ['relatedto', 'derivedfrom'] hard ['relatedto'] tug
+freighter ['synonym'] bottom ['formof', 'relatedto', 'derivedfrom'] bottomed ['relatedto'] tub ['relatedto'] tug
+freighter ['synonym'] bottom ['etymologicallyrelatedto', 'derivedfrom'] bottomry ['relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['distinctfrom'] surface ['relatedto'] drag ['relatedto'] tug
+freighter ['synonym'] bottom ['distinctfrom'] table ['atlocation'] toy ['etymologicallyrelatedto'] tug
+freighter ['synonym'] bottom ['distinctfrom'] table ['relatedto'] hard ['relatedto'] tug
+freighter ['synonym'] bottom ['isa'] bilge ['relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['isa'] cargo_ship ['isa', 'relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['isa'] turn ['relatedto'] drive ['synonym'] tug
+freighter ['synonym'] bottom ['isa'] turn ['isa', 'mannerof', 'relatedto', 'synonym'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto'] foot ['relatedto'] lug ['synonym'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto'] heel ['antonym'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto'] heel ['relatedto'] timber ['relatedto'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto'] heel ['relatedto'] fight ['mannerof'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto'] heel ['relatedto'] hook ['relatedto'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto'] sole ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto'] sole ['relatedto'] timber ['relatedto'] tug
+freighter ['synonym'] bottom ['isa', 'relatedto'] sole ['relatedto'] lug ['synonym'] tug
+freighter ['synonym'] bottom ['mannerof'] hit ['relatedto'] drag ['relatedto'] tug
+freighter ['synonym'] bottom ['mannerof'] hit ['mannerof'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+freighter ['synonym'] bottom ['mannerof'] hit ['mannerof', 'relatedto'] drive ['synonym'] tug
+freighter ['synonym'] bottom ['mannerof'] hit ['relatedto'] fight ['mannerof'] tug
+freighter ['synonym'] bottom ['mannerof'] hit ['mannerof'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['mannerof'] hit ['mannerof'] hook ['relatedto'] tug
+freighter ['synonym'] bottom ['mannerof'] hit ['relatedto'] jerk ['relatedto', 'synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] barnacle ['relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['relatedto'] boot_topping ['relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['relatedto'] baby ['relatedto'] labour ['synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] baby ['relatedto'] toy ['etymologicallyrelatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] body ['relatedto'] effort ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] body ['usedfor', 'relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] button ['antonym'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] button ['relatedto'] push ['synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] cotton ['relatedto'] tee ['etymologicallyrelatedto', 'relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] deep ['synonym'] great ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] direction ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] floor ['relatedto'] hard ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] location ['relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] lower ['mannerof'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] ocean ['atlocation'] ship ['isa'] tug
+freighter ['synonym'] bottom ['relatedto'] part ['relatedto'] toy ['etymologicallyrelatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] position ['relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] rear ['relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] two ['relatedto'] fight ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] buttock ['relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['relatedto'] cargo ['relatedto', 'atlocation'] ship ['isa'] tug
+freighter ['synonym'] bottom ['relatedto'] cargo ['relatedto'] dumb_barge ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] cargo ['relatedto'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] hold ['relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['relatedto'] hold ['relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] fall ['relatedto'] tackle ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] fall ['relatedto'] timber ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] support ['isa', 'relatedto'] harness ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] support ['isa'] tee ['etymologicallyrelatedto', 'relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] support ['relatedto'] lug ['synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] wind ['relatedto'] hard ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] wind ['mannerof', 'relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] wind ['synonym'] hoist ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] chair ['relatedto'] iron ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] cleat ['relatedto'] iron ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] dress ['relatedto'] drag ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] iron ['relatedto'] hard ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] jaw ['partof'] wrench ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] leg ['relatedto'] hook ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] pass ['relatedto'] ship ['isa'] tug
+freighter ['synonym'] bottom ['relatedto'] pass ['relatedto'] drive ['synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] pass ['relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] pass ['relatedto'] toll ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] pot ['relatedto'] iron ['relatedto'] tug
+freighter ['synonym'] bottom ['relatedto'] row ['isa', 'relatedto'] fight ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] row ['mannerof', 'relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] slant ['relatedto'] drive ['synonym'] tug
+freighter ['synonym'] bottom ['relatedto'] space ['relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] start ['relatedto'] move ['mannerof'] tug
+freighter ['synonym'] bottom ['relatedto'] start ['relatedto'] jerk ['relatedto', 'synonym'] tug
+freighter ['synonym'] bottom ['similarto'] inferior ['relatedto'] toy ['etymologicallyrelatedto'] tug
+freighter ['synonym'] bottom ['synonym'] bed ['relatedto'] hard ['relatedto'] tug
+freighter ['atlocation'] sea ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] labour ['synonym'] tug
+freighter ['atlocation'] sea ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] iron ['relatedto'] tug
+freighter ['atlocation'] sea ['madeof', 'relatedto', 'partof'] water ['relatedto'] ship ['isa'] tug
+freighter ['atlocation'] sea ['relatedto'] red ['relatedto'] labour ['synonym'] tug
+freighter ['atlocation'] sea ['relatedto'] navy ['relatedto'] ship ['isa'] tug
+freighter ['atlocation'] sea ['relatedto'] around ['relatedto'] drive ['synonym'] tug

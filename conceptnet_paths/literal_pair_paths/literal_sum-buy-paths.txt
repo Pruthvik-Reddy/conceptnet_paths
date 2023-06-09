@@ -1,0 +1,100 @@
+sum ['relatedto'] order ['hasprerequisite'] buy
+sum ['relatedto'] money ['antonym', 'relatedto'] buy
+sum ['relatedto'] receipt ['relatedto'] buy
+sum ['isa'] gain ['relatedto', 'similarto', 'synonym'] acquire ['relatedto'] buy
+sum ['isa'] gain ['formof', 'relatedto'] gaining ['relatedto'] buy
+sum ['isa'] gain ['mannerof'] steal ['antonym', 'distinctfrom'] buy
+sum ['isa'] gain ['mannerof'] take_home ['haslastsubevent'] buy
+sum ['isa'] gain ['relatedto'] acquiring ['relatedto'] buy
+sum ['isa'] gain ['relatedto'] financial ['relatedto'] buy
+sum ['isa'] gain ['relatedto'] getting ['relatedto'] buy
+sum ['isa'] gain ['relatedto'] getting_something ['relatedto'] buy
+sum ['isa'] gain ['relatedto'] money ['antonym', 'relatedto'] buy
+sum ['isa'] gain ['relatedto'] cheap ['antonym', 'relatedto', 'synonym'] buy
+sum ['isa'] gain ['relatedto'] acquisition ['relatedto'] buy
+sum ['isa'] gain ['relatedto'] good ['relatedto'] buy
+sum ['isa'] gain ['relatedto'] purchase ['relatedto', 'synonym'] buy
+sum ['isa'] gain ['similarto'] obtain ['relatedto'] buy
+sum ['isa'] gain ['synonym'] accept ['relatedto', 'synonym'] buy
+sum ['relatedto', 'synonym'] add ['relatedto'] action ['relatedto'] buy
+sum ['relatedto', 'synonym'] add ['relatedto'] giving ['relatedto'] buy
+sum ['relatedto', 'synonym'] add ['relatedto'] operation ['relatedto'] buy
+sum ['relatedto'] subtraction ['relatedto'] activity ['relatedto'] buy
+sum ['relatedto'] subtraction ['relatedto'] operation ['relatedto'] buy
+sum ['relatedto'] addition ['relatedto'] premium ['relatedto'] buy
+sum ['isa'] advance ['antonym', 'relatedto'] payment ['relatedto'] buy
+sum ['isa'] advance ['mannerof'] better ['motivatedbygoal'] buy
+sum ['isa'] advance ['relatedto'] cash ['relatedto'] buy
+sum ['isa'] advance ['relatedto'] charge ['relatedto'] buy
+sum ['isa'] advance ['relatedto'] gaining ['relatedto'] buy
+sum ['isa'] advance ['relatedto'] money ['antonym', 'relatedto'] buy
+sum ['isa'] advance ['relatedto'] pay ['relatedto', 'haslastsubevent', 'hasprerequisite', 'entails'] buy
+sum ['isa'] advance ['relatedto'] price ['relatedto'] buy
+sum ['isa'] advance ['relatedto'] value ['relatedto'] buy
+sum ['isa'] advance ['relatedto'] furnish ['relatedto'] buy
+sum ['isa'] advance ['relatedto'] bye ['relatedto'] buy
+sum ['isa'] advance ['relatedto'] standard_fare ['relatedto'] buy
+sum ['isa'] advance ['relatedto'] steal ['antonym', 'distinctfrom'] buy
+sum ['relatedto'] order ['isa', 'derivedfrom'] mail_order ['relatedto'] buy
+sum ['relatedto'] answer ['relatedto'] accept ['relatedto', 'synonym'] buy
+sum ['relatedto'] answer ['relatedto'] giving ['relatedto'] buy
+sum ['relatedto'] answer ['relatedto'] choose ['hasprerequisite', 'entails'] buy
+sum ['relatedto'] column ['relatedto'] white ['relatedto'] buy
+sum ['relatedto'] average ['distinctfrom'] best ['relatedto'] buy
+sum ['relatedto'] average ['distinctfrom', 'relatedto'] good ['relatedto'] buy
+sum ['relatedto'] average ['relatedto'] operation ['relatedto'] buy
+sum ['relatedto'] average ['relatedto'] value ['relatedto'] buy
+sum ['relatedto'] average ['relatedto'] market ['relatedto'] buy
+sum ['relatedto'] average ['relatedto'] price ['relatedto'] buy
+sum ['relatedto'] average ['relatedto'] trade ['relatedto', 'entails'] buy
+sum ['relatedto'] average ['relatedto'] midrate ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] payment ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] expensive ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] getting ['relatedto'] buy
+sum ['relatedto'] bill ['isa', 'relatedto'] money ['antonym', 'relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] buying ['formof', 'relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] cash ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto', 'synonym'] charge ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] cheque ['usedfor'] buy
+sum ['relatedto'] bill ['relatedto'] cost ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] currency ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] giving ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] giving_money ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] monetary ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] pay ['relatedto', 'haslastsubevent', 'hasprerequisite', 'entails'] buy
+sum ['relatedto'] bill ['relatedto'] paying ['relatedto', 'hasprerequisite'] buy
+sum ['relatedto'] bill ['relatedto'] price ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] receipt ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] value ['relatedto'] buy
+sum ['relatedto'] bill ['relatedto'] rent ['antonym', 'distinctfrom', 'relatedto'] buy
+sum ['relatedto'] block_grant ['relatedto'] money ['antonym', 'relatedto'] buy
+sum ['synonym'] center ['relatedto'] activity ['relatedto'] buy
+sum ['synonym'] center ['relatedto'] give ['relatedto'] buy
+sum ['synonym'] center ['relatedto'] market ['relatedto'] buy
+sum ['synonym'] center ['relatedto'] trade ['relatedto', 'entails'] buy
+sum ['isa'] whole ['isa'] item ['relatedto'] buy
+sum ['relatedto'] money ['relatedto'] payment ['relatedto'] buy
+sum ['relatedto'] money ['relatedto'] afford ['relatedto'] buy
+sum ['relatedto'] money ['relatedto'] expensive ['relatedto'] buy
+sum ['relatedto'] money ['hasprerequisite'] getting ['relatedto'] buy
+sum ['relatedto'] money ['relatedto'] free ['antonym'] buy
+sum ['relatedto'] money ['relatedto'] bargain ['relatedto', 'synonym'] buy
+sum ['relatedto'] money ['usedfor', 'relatedto'] rich ['capableof'] buy
+sum ['relatedto'] money ['relatedto'] business ['relatedto'] buy
+sum ['relatedto'] money ['atlocation'] cash_register ['relatedto'] buy
+sum ['relatedto'] money ['relatedto', 'atlocation'] shop ['motivatedbygoal', 'relatedto', 'entails'] buy
+sum ['relatedto'] money ['atlocation'] supermarket ['relatedto'] buy
+sum ['relatedto'] money ['causesdesire', 'relatedto'] spend ['relatedto'] buy
+sum ['relatedto'] money ['derivedfrom'] earnest_money ['relatedto'] buy
+sum ['relatedto'] money ['hasprerequisite', 'derivedfrom'] spending_money ['causes', 'relatedto', 'hasprerequisite'] buy
+sum ['relatedto'] money ['hasa', 'relatedto', 'hasproperty'] value ['relatedto'] buy
+sum ['relatedto'] money ['usedfor', 'relatedto', 'hasprerequisite'] buying ['formof', 'relatedto'] buy
+sum ['relatedto'] money ['hasprerequisite'] fight_inflation ['hasfirstsubevent'] buy
+sum ['relatedto'] money ['hasprerequisite'] purchase ['relatedto', 'synonym'] buy
+sum ['relatedto'] money ['relatedto', 'hasprerequisite'] shopping ['causesdesire', 'relatedto'] buy
+sum ['relatedto'] money ['isa', 'relatedto', 'similarto', 'synonym'] cash ['relatedto'] buy
+sum ['relatedto'] money ['isa', 'relatedto'] currency ['relatedto'] buy
+sum ['relatedto'] money ['motivatedbygoal', 'relatedto'] sell ['antonym', 'distinctfrom', 'relatedto'] buy
+sum ['relatedto'] money ['relatedto'] bribe ['relatedto', 'synonym'] buy
+sum ['relatedto'] money ['relatedto'] charge ['relatedto'] buy
+sum ['relatedto'] money ['relatedto'] cost ['relatedto'] buy

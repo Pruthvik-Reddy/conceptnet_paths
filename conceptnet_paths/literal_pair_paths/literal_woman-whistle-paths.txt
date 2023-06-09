@@ -1,0 +1,100 @@
+woman ['relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] children ['atlocation'] soccer_game ['atlocation'] whistle
+woman ['relatedto'] children ['relatedto'] small ['relatedto'] whistle
+woman ['isa', 'relatedto'] adult ['antonym'] small ['relatedto'] whistle
+woman ['relatedto'] human ['atlocation'] suit ['relatedto'] whistle
+woman ['relatedto'] human ['atlocation'] swimming_pool ['atlocation'] whistle
+woman ['relatedto'] human ['atlocation'] lip ['relatedto'] whistle
+woman ['relatedto'] human ['atlocation'] mouth ['relatedto'] whistle
+woman ['relatedto'] human ['relatedto'] blow ['relatedto'] whistle
+woman ['relatedto'] human ['relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] human ['relatedto'] sound ['isa', 'mannerof'] whistle
+woman ['relatedto'] old ['relatedto'] dog ['relatedto'] whistle
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['isa', 'relatedto'] policeman ['relatedto'] whistle
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] balloon ['relatedto'] blow ['relatedto'] whistle
+woman ['relatedto'] soprano ['relatedto'] music ['relatedto'] whistle
+woman ['relatedto'] soprano ['relatedto'] instrument ['relatedto'] whistle
+woman ['relatedto'] beautiful ['relatedto'] music ['relatedto'] whistle
+woman ['relatedto'] big ['antonym', 'distinctfrom', 'relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] big ['relatedto'] blow ['relatedto'] whistle
+woman ['relatedto'] big ['relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] big ['relatedto'] mouth ['relatedto'] whistle
+woman ['relatedto'] fish ['relatedto'] sound ['isa', 'mannerof'] whistle
+woman ['relatedto'] blue ['etymologicallyrelatedto', 'relatedto'] blow ['relatedto'] whistle
+woman ['relatedto'] blue ['isa', 'instanceof'] manga ['isa', 'instanceof'] whistle
+woman ['relatedto'] body ['relatedto'] lip ['relatedto'] whistle
+woman ['relatedto'] body ['relatedto'] mouth ['relatedto'] whistle
+woman ['relatedto'] body ['usedfor', 'relatedto'] move ['mannerof'] whistle
+woman ['relatedto'] boy ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] boy ['relatedto'] dog ['relatedto'] whistle
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['relatedto'] small ['relatedto'] whistle
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] bump ['relatedto', 'synonym'] blow ['relatedto'] whistle
+woman ['relatedto'] bump ['relatedto'] noise ['relatedto'] whistle
+woman ['relatedto'] bump ['relatedto'] sound ['isa', 'mannerof'] whistle
+woman ['isa', 'relatedto'] baggage ['usedfor'] travel ['mannerof'] whistle
+woman ['isa', 'relatedto'] cat ['relatedto'] small ['relatedto'] whistle
+woman ['isa', 'relatedto'] cat ['antonym', 'distinctfrom', 'relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] dog ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] chick ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] grown ['relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] single ['relatedto'] lip ['relatedto'] whistle
+woman ['relatedto'] single ['relatedto'] sound ['isa', 'mannerof'] whistle
+woman ['relatedto'] dress ['antonym'] suit ['relatedto'] whistle
+woman ['relatedto'] wire ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] wire ['isa'] device ['isa'] whistle
+woman ['relatedto'] easy ['antonym'] move ['mannerof'] whistle
+woman ['antonym', 'distinctfrom'] male ['relatedto'] policeman ['relatedto'] whistle
+woman ['relatedto'] doll ['relatedto', 'hasproperty'] small ['relatedto'] whistle
+woman ['relatedto'] figure ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] walker ['isa'] device ['isa'] whistle
+woman ['relatedto'] walker ['isa'] portable_object ['isa'] whistle
+woman ['relatedto'] eye ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] eye ['antonym', 'relatedto'] mouth ['relatedto'] whistle
+woman ['relatedto'] eye ['antonym'] lip ['relatedto'] whistle
+woman ['relatedto'] eye ['relatedto'] device ['isa'] whistle
+woman ['relatedto'] eye ['relatedto'] instrument ['relatedto'] whistle
+woman ['antonym', 'distinctfrom', 'relatedto'] men ['relatedto'] suit ['relatedto'] whistle
+woman ['derivedfrom'] policewoman ['antonym', 'formof', 'relatedto'] policeman ['relatedto'] whistle
+woman ['derivedfrom'] coachwoman ['relatedto', 'derivedfrom'] coach ['relatedto'] whistle
+woman ['relatedto', 'derivedfrom'] signalwoman ['relatedto', 'derivedfrom'] signal ['isa'] whistle
+woman ['derivedfrom'] soundwoman ['derivedfrom'] sound ['isa', 'mannerof'] whistle
+woman ['distinctfrom'] lad ['relatedto'] small ['relatedto'] whistle
+woman ['isa', 'distinctfrom'] lassie ['relatedto'] dog ['relatedto'] whistle
+woman ['formof', 'relatedto'] women ['relatedto'] blow ['relatedto'] whistle
+woman ['isa', 'relatedto'] queen ['relatedto'] suit ['relatedto'] whistle
+woman ['isa', 'relatedto'] slut ['relatedto'] dog ['relatedto'] whistle
+woman ['isa'] wave ['relatedto'] small ['relatedto'] whistle
+woman ['isa'] wave ['relatedto'] move ['mannerof'] whistle
+woman ['isa'] wave ['isa', 'relatedto'] noise ['relatedto'] whistle
+woman ['isa'] wave ['relatedto'] signal ['isa'] whistle
+woman ['isa'] wave ['isa', 'relatedto', 'partof'] sound ['isa', 'mannerof'] whistle
+woman ['relatedto'] bag ['synonym'] dog ['relatedto'] whistle
+woman ['relatedto'] bag ['causes'] travel ['mannerof'] whistle
+woman ['relatedto'] bitch ['distinctfrom', 'relatedto', 'similarto'] dog ['relatedto'] whistle
+woman ['relatedto'] bustle ['mannerof'] move ['mannerof'] whistle
+woman ['relatedto'] bustle ['relatedto', 'synonym'] whirr ['synonym'] whistle
+woman ['relatedto'] chantoosie ['relatedto'] sing ['synonym'] whistle
+woman ['relatedto'] cutty ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] doggess ['relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] fit ['relatedto', 'synonym'] suit ['relatedto'] whistle
+woman ['relatedto'] fit ['relatedto'] sound ['isa', 'mannerof'] whistle
+woman ['relatedto'] gin ['relatedto'] device ['isa'] whistle
+woman ['relatedto'] gin ['relatedto'] instrument ['relatedto'] whistle
+woman ['relatedto'] jug ['relatedto'] mouth ['relatedto'] whistle
+woman ['relatedto'] love_pillow ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] mermaid ['relatedto'] sing ['synonym'] whistle
+woman ['relatedto'] minx ['relatedto'] dog ['relatedto'] whistle
+woman ['relatedto'] miss ['entails'] travel ['mannerof'] whistle
+woman ['relatedto'] moo ['relatedto'] music ['relatedto'] whistle
+woman ['relatedto'] mot ['relatedto'] device ['isa'] whistle
+woman ['relatedto'] pretty ['relatedto'] music ['relatedto'] whistle
+woman ['relatedto'] puss ['relatedto'] mouth ['relatedto'] whistle
+woman ['relatedto'] slip ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] slip ['mannerof'] move ['mannerof'] whistle
+woman ['relatedto'] soccer_mom ['atlocation'] soccer_game ['atlocation'] whistle
+woman ['relatedto'] statue ['distinctfrom', 'relatedto'] move ['mannerof'] whistle
+woman ['relatedto'] toots ['formof', 'relatedto'] toot ['relatedto'] whistle
+woman ['relatedto'] trout ['relatedto'] small ['relatedto'] whistle
+woman ['relatedto'] twist ['relatedto'] move ['mannerof'] whistle

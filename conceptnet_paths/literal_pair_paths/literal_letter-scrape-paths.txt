@@ -1,0 +1,100 @@
+letter ['antonym', 'distinctfrom', 'relatedto'] number ['relatedto'] nest ['relatedto'] scrape
+letter ['relatedto'] lower ['relatedto'] skim ['relatedto'] scrape
+letter ['relatedto'] lower ['synonym'] cut ['relatedto'] scrape
+letter ['relatedto'] home ['relatedto'] nest ['relatedto'] scrape
+letter ['relatedto'] friend ['relatedto'] bird ['relatedto'] scrape
+letter ['relatedto'] small ['relatedto'] bird ['relatedto'] scrape
+letter ['relatedto'] small ['relatedto'] cut ['relatedto'] scrape
+letter ['relatedto'] small ['relatedto'] nest ['relatedto'] scrape
+letter ['relatedto'] small ['relatedto'] wound ['relatedto'] scrape
+letter ['relatedto'] box ['mannerof', 'relatedto'] fight ['relatedto'] scrape
+letter ['relatedto'] box ['relatedto'] nest ['relatedto'] scrape
+letter ['relatedto'] piece ['relatedto'] stub ['synonym'] scrape
+letter ['relatedto'] put ['antonym'] cut ['relatedto'] scrape
+letter ['relatedto'] long ['relatedto', 'synonym'] broad ['relatedto'] scrape
+letter ['relatedto'] long ['relatedto'] rake ['entails'] scrape
+letter ['relatedto'] cap ['relatedto'] bird ['relatedto'] scrape
+letter ['relatedto'] hand ['relatedto'] cut ['relatedto'] scrape
+letter ['relatedto'] hand ['relatedto'] nest ['relatedto'] scrape
+letter ['relatedto'] hand ['relatedto', 'synonym'] paw ['mannerof'] scrape
+letter ['relatedto'] hand ['relatedto'] rub ['mannerof'] scrape
+letter ['relatedto'] card ['relatedto'] play ['relatedto'] scrape
+letter ['madeof', 'relatedto'] paper ['relatedto', 'receivesaction'] cut ['relatedto'] scrape
+letter ['madeof', 'relatedto'] paper ['relatedto'] palimpsest ['relatedto'] scrape
+letter ['relatedto', 'partof'] line ['atlocation'] play ['relatedto'] scrape
+letter ['relatedto', 'partof'] line ['relatedto'] cut ['relatedto'] scrape
+letter ['isa', 'relatedto'] character ['relatedto'] play ['relatedto'] scrape
+letter ['relatedto'] part ['relatedto'] rub ['mannerof'] scrape
+letter ['relatedto'] part ['relatedto'] stub ['synonym'] scrape
+letter ['relatedto'] point ['relatedto'] cut ['relatedto'] scrape
+letter ['relatedto'] inside ['relatedto'] nest ['relatedto'] scrape
+letter ['etymologicallyrelatedto'] letter_agreement ['relatedto'] bind ['synonym'] scrape
+letter ['isa', 'relatedto'] document ['relatedto'] palimpsest ['relatedto'] scrape
+letter ['isa'] award ['relatedto'] nest ['relatedto'] scrape
+letter ['isa'] owner ['relatedto'] bird ['relatedto'] scrape
+letter ['isa'] shin ['isa'] cut ['relatedto'] scrape
+letter ['mannerof', 'relatedto'] write ['relatedto'] cut ['relatedto'] scrape
+letter ['partof'] word ['relatedto'] bird ['relatedto'] scrape
+letter ['relatedto', 'partof'] postscript ['relatedto'] play ['relatedto'] scrape
+letter ['relatedto'] anagram ['relatedto'] broad ['relatedto'] scrape
+letter ['relatedto'] anagram ['relatedto'] rub ['mannerof'] scrape
+letter ['relatedto'] brailling ['relatedto'] scrabble ['etymologicallyrelatedto', 'relatedto'] scrape
+letter ['relatedto'] graph ['relatedto'] cut ['relatedto'] scrape
+letter ['relatedto'] hook ['mannerof', 'relatedto'] play ['relatedto'] scrape
+letter ['relatedto'] kite ['isa', 'relatedto'] bird ['relatedto'] scrape
+letter ['relatedto'] device ['isa'] weapon ['relatedto'] scrape
+letter ['relatedto'] filler ['relatedto'] cut ['relatedto'] scrape
+letter ['relatedto'] lines ['relatedto'] play ['relatedto'] scrape
+letter ['relatedto'] member ['relatedto'] nest ['relatedto'] scrape
+letter ['relatedto'] page ['relatedto'] bind ['synonym'] scrape
+letter ['relatedto'] page ['relatedto'] stub ['synonym'] scrape
+letter ['relatedto'] size ['relatedto'] hoe ['relatedto'] scrape
+letter ['relatedto'] stamp ['relatedto'] paw ['mannerof'] scrape
+letter ['relatedto'] writing ['relatedto'] scratch ['relatedto', 'synonym'] scrape
+letter ['relatedto'] writing ['relatedto'] scratching ['synonym'] scrape
+letter ['relatedto'] literary ['relatedto'] play ['relatedto'] scrape
+letter ['relatedto'] ligature ['relatedto'] bind ['synonym'] scrape
+letter ['relatedto'] punchcutting ['relatedto'] cut ['relatedto'] scrape
+letter ['relatedto'] squabble ['relatedto'] fight ['relatedto'] scrape
+letter ['relatedto'] type ['relatedto'] bird ['relatedto'] scrape
+letter ['relatedto'] type ['relatedto'] bow ['isa', 'mannerof'] scrape
+letter ['relatedto'] type ['relatedto'] wound ['relatedto'] scrape
+letter ['relatedto'] type ['relatedto'] rub ['mannerof'] scrape
+letter ['usedfor'] reading ['isa', 'relatedto'] skim ['relatedto'] scrape
+letter ['usedfor'] reading ['relatedto'] pressure ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] ant ['relatedto'] nest ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] land ['relatedto'] play ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] part ['relatedto'] rub ['mannerof'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] part ['relatedto'] stub ['synonym'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] sound ['relatedto'] bird ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] sound ['mannerof'] play ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] sound ['isa', 'relatedto', 'hasproperty', 'synonym'] noise ['isa'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] sound ['relatedto'] pressure ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] flap ['relatedto'] broad ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] open ['relatedto'] cut ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] open ['relatedto'] wound ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] stop ['haslastsubevent', 'relatedto'] play ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] stop ['mannerof', 'relatedto'] cut ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] stop ['relatedto'] depression ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] tap ['mannerof', 'relatedto'] cut ['relatedto'] scrape
+letter ['isa', 'relatedto'] consonant ['relatedto'] tap ['relatedto'] noise ['isa'] scrape
+letter ['relatedto'] retard ['relatedto'] disavaunce ['relatedto'] damage ['relatedto'] scrape
+letter ['relatedto'] retard ['synonym'] check ['relatedto'] play ['relatedto'] scrape
+letter ['relatedto'] basic ['isa', 'relatedto'] programming_language ['isa'] scratch ['relatedto', 'synonym'] scrape
+letter ['relatedto'] basic ['isa'] software ['isa'] bind ['synonym'] scrape
+letter ['relatedto'] basic ['isa'] software ['isa'] scrapy ['relatedto', 'derivedfrom'] scrape
+letter ['relatedto'] basic ['relatedto'] apple ['relatedto'] scrabble ['etymologicallyrelatedto', 'relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] boring ['antonym'] play ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] blue ['relatedto'] depression ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] bread ['relatedto'] broad ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] camp ['relatedto'] play ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] camp ['relatedto'] fight ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] circle ['relatedto'] nest ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] framework ['isa'] grate ['synonym'] scrape
+letter ['relatedto'] basic ['relatedto'] general ['relatedto'] noise ['isa'] scrape
+letter ['relatedto'] basic ['relatedto'] general ['relatedto'] play ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] general ['relatedto'] wound ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] iron ['isa'] weapon ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] matter ['relatedto'] rub ['mannerof'] scrape
+letter ['relatedto'] basic ['relatedto'] need ['relatedto'] wound ['relatedto'] scrape
+letter ['relatedto'] basic ['relatedto'] reading ['isa', 'relatedto'] skim ['relatedto'] scrape

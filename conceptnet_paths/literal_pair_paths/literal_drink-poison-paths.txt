@@ -1,0 +1,100 @@
+drink ['distinctfrom', 'relatedto'] poison
+drink ['relatedto'] present ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] poison
+drink ['relatedto'] good ['distinctfrom'] poison
+drink ['relatedto', 'synonym'] beverage ['relatedto'] poison
+drink ['antonym', 'distinctfrom', 'relatedto'] food ['distinctfrom', 'relatedto'] poison
+drink ['relatedto', 'atlocation'] bottle ['relatedto'] poison
+drink ['usedfor', 'mannerof', 'relatedto'] wine ['isa'] poison
+drink ['relatedto'] fluid ['relatedto'] poison
+drink ['antonym', 'distinctfrom', 'relatedto'] eat ['relatedto'] poison
+drink ['antonym'] spit ['relatedto'] poison
+drink ['antonym', 'relatedto'] liquor ['relatedto'] poison
+drink ['derivedfrom'] drinkable ['distinctfrom', 'relatedto'] poison
+drink ['formof', 'relatedto'] drinks ['relatedto'] poison
+drink ['isa', 'relatedto'] liquid ['relatedto'] poison
+drink ['relatedto'] dram ['relatedto'] poison
+drink ['relatedto'] consumable ['distinctfrom'] poison
+drink ['relatedto'] ingestion ['relatedto'] poison
+drink ['relatedto'] juice ['relatedto'] poison
+drink ['relatedto'] potable ['etymologicallyrelatedto', 'relatedto'] poison
+drink ['relatedto'] properties ['relatedto'] poison
+drink ['relatedto'] substance ['isa', 'relatedto'] poison
+drink ['relatedto'] taste ['relatedto'] poison
+drink ['relatedto'] medicine ['antonym', 'relatedto'] poison
+drink ['relatedto'] present ['mannerof', 'relatedto', 'synonym'] give ['relatedto'] poison
+drink ['relatedto'] present ['relatedto'] eat ['relatedto'] poison
+drink ['relatedto'] present ['relatedto'] medicine ['antonym', 'relatedto'] poison
+drink ['relatedto'] basic ['relatedto'] matter ['relatedto'] poison
+drink ['relatedto'] basic ['relatedto'] negative ['relatedto'] poison
+drink ['relatedto'] basic ['relatedto'] water ['relatedto'] poison
+drink ['relatedto'] act ['isa'] causing ['relatedto'] poison
+drink ['relatedto'] act ['isa'] injury ['relatedto'] poison
+drink ['relatedto'] act ['relatedto'] give ['relatedto'] poison
+drink ['relatedto'] act ['relatedto'] stuff ['relatedto'] poison
+drink ['relatedto'] act ['relatedto'] agent ['relatedto'] poison
+drink ['relatedto'] act ['relatedto'] eat ['relatedto'] poison
+drink ['relatedto'] act ['relatedto'] good ['distinctfrom'] poison
+drink ['relatedto'] action ['isa'] causing ['relatedto'] poison
+drink ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] poison
+drink ['relatedto'] action ['relatedto'] agent ['relatedto'] poison
+drink ['relatedto'] action ['relatedto'] bad ['relatedto'] poison
+drink ['relatedto'] action ['relatedto'] bite ['relatedto'] poison
+drink ['relatedto'] action ['relatedto'] die ['relatedto'] poison
+drink ['relatedto'] action ['relatedto'] drug ['mannerof', 'relatedto'] poison
+drink ['relatedto'] action ['relatedto'] eat ['relatedto'] poison
+drink ['relatedto'] action ['relatedto'] give ['relatedto'] poison
+drink ['relatedto'] action ['relatedto'] kill ['usedfor', 'mannerof', 'relatedto'] poison
+drink ['relatedto'] action ['relatedto'] lead ['relatedto'] poison
+drink ['relatedto'] action ['relatedto'] taste ['relatedto'] poison
+drink ['relatedto'] action ['relatedto'] type ['relatedto'] poison
+drink ['relatedto'] activity ['relatedto'] bite ['relatedto'] poison
+drink ['relatedto'] activity ['relatedto'] eat ['relatedto'] poison
+drink ['relatedto'] activity ['relatedto'] pollute ['relatedto'] poison
+drink ['relatedto'] activity ['relatedto'] type ['relatedto'] poison
+drink ['relatedto'] getting ['causes'] death ['causes', 'relatedto'] poison
+drink ['relatedto'] getting ['causes'] illness ['relatedto'] poison
+drink ['relatedto'] getting ['relatedto'] drug ['mannerof', 'relatedto'] poison
+drink ['relatedto'] getting ['relatedto'] irritation ['relatedto'] poison
+drink ['relatedto'] getting ['relatedto'] liquor ['relatedto'] poison
+drink ['relatedto'] getting ['relatedto'] wine ['isa'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['antonym', 'isa'] food ['distinctfrom', 'relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] fish ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['atlocation'] toxins ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['atlocation'] bottle ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['atlocation'] juice ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'atlocation'] snow ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['atlocation'] spit ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['hasproperty'] dangerous ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['isa', 'relatedto'] beverage ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['isa'] chemical ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['isa', 'relatedto'] fluid ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['isa'] nutrient ['antonym'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] ammonia ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] bait ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] cyanide ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] ink ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] lead ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] drinkable ['distinctfrom', 'relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] potable ['etymologicallyrelatedto', 'relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] stuff ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] substance ['isa', 'relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] white ['relatedto'] poison
+drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] wine ['isa'] poison
+drink ['relatedto'] alcoholic ['relatedto', 'desires'] liquor ['relatedto'] poison
+drink ['relatedto'] alcoholic ['relatedto'] medicine ['antonym', 'relatedto'] poison
+drink ['relatedto'] alcoholic ['relatedto'] wine ['isa'] poison
+drink ['relatedto'] cool ['relatedto'] present ['relatedto'] poison
+drink ['relatedto'] cool ['relatedto'] safe ['antonym'] poison
+drink ['relatedto'] cool ['mannerof'] change ['mannerof'] poison
+drink ['relatedto'] cool ['relatedto'] good ['distinctfrom'] poison
+drink ['relatedto'] cool ['relatedto'] kill ['usedfor', 'mannerof', 'relatedto'] poison
+drink ['relatedto'] slash ['relatedto'] weapon ['relatedto'] poison
+drink ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['relatedto'] poison
+drink ['relatedto'] good ['distinctfrom'] die ['relatedto'] poison
+drink ['relatedto'] good ['isa'] food ['distinctfrom', 'relatedto'] poison
+drink ['relatedto'] good ['relatedto'] example ['relatedto'] poison
+drink ['relatedto'] good ['relatedto', 'similarto'] white ['relatedto'] poison
+drink ['relatedto'] good ['relatedto'] killer ['relatedto'] poison
+drink ['relatedto'] good ['relatedto'] nutrient ['antonym'] poison

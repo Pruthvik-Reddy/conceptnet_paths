@@ -1,0 +1,100 @@
+conversation ['relatedto'] engage ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['relatedto'] gravity ['relatedto'] gravitate
+conversation ['relatedto'] engage ['mannerof', 'synonym'] lock ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] engage ['mannerof'] ride ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] engage ['mannerof'] throw ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] engage ['relatedto'] hold ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] engage ['relatedto'] propose ['mannerof', 'relatedto', 'synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] getting ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['mannerof'] pump ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] appeal ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] deliberative ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] pass ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] propose ['mannerof', 'relatedto', 'synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] frame ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] prompt ['synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] request ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] consideration ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['relatedto'] sheep ['relatedto'] drift ['relatedto'] gravitate
+conversation ['relatedto'] question ['synonym'] motion ['relatedto', 'synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] question ['synonym'] motion ['relatedto'] drift ['relatedto'] gravitate
+conversation ['relatedto'] reply ['relatedto'] act ['relatedto'] drift ['relatedto'] gravitate
+conversation ['relatedto'] reply ['relatedto'] act ['relatedto', 'synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['relatedto'] action ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['relatedto'] give ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['relatedto'] apply ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['antonym', 'distinctfrom', 'relatedto'] forward ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['antonym', 'relatedto'] request ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['antonym', 'relatedto'] send ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['relatedto'] fly ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['relatedto'] play ['mannerof', 'relatedto', 'entails'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['relatedto'] put ['antonym', 'mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['relatedto'] shorter ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] reply ['relatedto'] writing ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['antonym'] grip ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['derivedfrom'] switchblade ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['isa', 'derivedfrom'] fan_blade ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto', 'partof'] fan ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto', 'partof'] windmill ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] beat ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] edge ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] tool ['relatedto'] drift ['relatedto'] gravitate
+conversation ['relatedto'] blade ['usedfor', 'relatedto'] cut ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] thin ['relatedto'] gravity ['relatedto'] gravitate
+conversation ['relatedto'] blade ['relatedto'] throw ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] tongue ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] flick ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] glide ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] ina_bauer ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] peel ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] slip ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] sweep ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] blade ['relatedto'] wash ['mannerof'] move ['mannerof'] gravitate
+conversation ['atlocation'] dinner ['atlocation'] mashed_potato ['relatedto'] move ['mannerof'] gravitate
+conversation ['atlocation'] dinner ['relatedto'] course ['relatedto'] drift ['relatedto'] gravitate
+conversation ['atlocation'] dinner ['relatedto'] mill ['mannerof'] move ['mannerof'] gravitate
+conversation ['atlocation'] dinner ['relatedto'] reach ['mannerof'] move ['mannerof'] gravitate
+conversation ['atlocation'] dinner ['relatedto'] roll ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+conversation ['atlocation'] dinner ['relatedto'] roll ['synonym'] drift ['relatedto'] gravitate
+conversation ['relatedto'] call ['relatedto'] purpose ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] action ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] activity ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] getting ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['mannerof'] awaken ['synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] home ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] front ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['mannerof'] stop ['antonym', 'distinctfrom', 'relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] put ['antonym', 'mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['isa'] inclination ['isa'] drift ['relatedto'] gravitate
+conversation ['relatedto'] call ['isa', 'mannerof', 'relatedto'] request ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['isa', 'relatedto'] decision ['isa'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['mannerof'] lift ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] draw ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] transmit ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] rule ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] shift ['mannerof', 'relatedto', 'synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] intend ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+conversation ['relatedto'] call ['relatedto'] raise ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] jazz ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] walk ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['relatedto'] whistle ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] call ['synonym'] address ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] greeting ['relatedto'] shake ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] greeting ['relatedto'] wave ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['relatedto'] purpose ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['relatedto'] action ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['mannerof', 'relatedto'] remove ['relatedto', 'synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['relatedto'] ground ['relatedto'] gravity ['relatedto'] gravitate
+conversation ['relatedto'] drop ['relatedto'] animal ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['mannerof', 'relatedto', 'synonym'] fall ['relatedto'] gravity ['relatedto'] gravitate
+conversation ['relatedto'] drop ['mannerof', 'relatedto', 'synonym'] fall ['relatedto'] drift ['relatedto'] gravitate
+conversation ['relatedto'] drop ['antonym', 'relatedto'] go ['isa', 'relatedto', 'synonym'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['antonym', 'relatedto'] go ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+conversation ['relatedto'] drop ['antonym', 'relatedto'] go ['relatedto'] gravity ['relatedto'] gravitate
+conversation ['relatedto'] drop ['relatedto', 'synonym'] lower ['mannerof'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['relatedto'] leaving ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['relatedto'] ball ['relatedto'] drift ['relatedto'] gravitate
+conversation ['relatedto'] drop ['relatedto'] stop ['antonym', 'distinctfrom', 'relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['antonym', 'distinctfrom'] carry ['relatedto'] move ['mannerof'] gravitate
+conversation ['relatedto'] drop ['relatedto'] piece ['relatedto'] move ['mannerof'] gravitate

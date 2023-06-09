@@ -1,0 +1,100 @@
+wood ['madeof', 'relatedto'] house ['relatedto'] square
+wood ['relatedto'] ball ['antonym'] square
+wood ['relatedto'] bar ['relatedto'] square
+wood ['relatedto'] bed ['relatedto'] square
+wood ['madeof', 'relatedto'] board ['relatedto'] square
+wood ['relatedto'] case ['relatedto'] square
+wood ['relatedto'] flat ['relatedto'] square
+wood ['antonym', 'madeof', 'relatedto'] paper ['relatedto'] square
+wood ['relatedto'] term ['relatedto'] square
+wood ['madeof', 'relatedto'] table ['relatedto'] square
+wood ['relatedto', 'atlocation'] desk ['relatedto'] square
+wood ['relatedto'] door ['relatedto'] square
+wood ['relatedto'] gate ['relatedto'] square
+wood ['relatedto'] nog ['relatedto'] square
+wood ['relatedto'] page ['relatedto'] square
+wood ['relatedto'] tessera ['relatedto'] square
+wood ['relatedto'] try_square ['isa', 'derivedfrom'] square
+wood ['relatedto'] place ['relatedto', 'synonym'] square
+wood ['relatedto'] product ['relatedto'] square
+wood ['relatedto'] tables ['hasproperty'] square
+wood ['relatedto'] morning ['relatedto'] light ['relatedto'] square
+wood ['relatedto'] age ['antonym', 'relatedto'] number ['isa', 'relatedto'] square
+wood ['relatedto'] age ['relatedto'] measurement ['usedfor'] square
+wood ['relatedto'] age ['relatedto'] value ['relatedto'] square
+wood ['relatedto'] age ['relatedto'] hand ['relatedto'] square
+wood ['relatedto'] age ['relatedto'] minor ['relatedto'] square
+wood ['relatedto'] agent ['isa'] expression ['relatedto'] square
+wood ['relatedto'] agent ['relatedto'] real_estate ['relatedto'] square
+wood ['relatedto'] agent ['relatedto'] hand ['relatedto'] square
+wood ['relatedto'] agent ['relatedto'] soap ['relatedto'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['relatedto'] base ['relatedto'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['atlocation'] house ['relatedto'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['causes'] cigarette ['relatedto', 'synonym'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['causes', 'relatedto', 'usedfor'] match ['mannerof'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['isa'] cover ['relatedto'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['isa'] book ['relatedto'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['relatedto'] four ['relatedto'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['relatedto'] light ['relatedto'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['relatedto'] tool ['relatedto'] square
+wood ['antonym', 'relatedto', 'atlocation'] fire ['relatedto'] quadrate ['isa', 'relatedto', 'similarto'] square
+wood ['relatedto'] dead ['relatedto'] hole ['relatedto'] square
+wood ['relatedto'] dead ['relatedto'] power ['relatedto'] square
+wood ['relatedto'] dead ['relatedto'] exact ['relatedto'] square
+wood ['relatedto'] dead ['relatedto'] flat ['relatedto'] square
+wood ['relatedto'] dead ['relatedto'] paper ['relatedto'] square
+wood ['relatedto'] red ['relatedto', 'hasproperty'] rose ['relatedto'] square
+wood ['relatedto'] red ['relatedto'] ball ['antonym'] square
+wood ['relatedto'] red ['relatedto'] bed ['relatedto'] square
+wood ['relatedto'] red ['relatedto'] brick ['relatedto'] square
+wood ['relatedto'] red ['relatedto'] cell ['relatedto'] square
+wood ['relatedto'] red ['relatedto'] flag ['relatedto'] square
+wood ['relatedto'] red ['relatedto'] go ['relatedto'] square
+wood ['relatedto'] bird ['relatedto', 'partof', 'atlocation'] feather ['synonym'] square
+wood ['relatedto'] bird ['relatedto'] term ['relatedto'] square
+wood ['relatedto'] bird ['relatedto'] perch ['relatedto'] square
+wood ['relatedto'] bird ['relatedto'] ring ['antonym'] square
+wood ['relatedto'] bird ['relatedto'] statue ['relatedto'] square
+wood ['relatedto'] plant ['relatedto', 'atlocation'] house ['relatedto'] square
+wood ['relatedto'] plant ['atlocation'] table ['relatedto'] square
+wood ['relatedto'] plant ['isa', 'relatedto'] mint ['relatedto'] square
+wood ['relatedto'] plant ['isa'] book ['relatedto'] square
+wood ['relatedto'] plant ['isa', 'relatedto'] rose ['relatedto'] square
+wood ['relatedto'] plant ['mannerof', 'relatedto'] bed ['relatedto'] square
+wood ['relatedto'] plant ['relatedto'] board ['relatedto'] square
+wood ['relatedto'] plant ['relatedto'] cell ['relatedto'] square
+wood ['relatedto'] plant ['relatedto'] hardy ['relatedto'] square
+wood ['relatedto'] plant ['relatedto'] form ['mannerof'] square
+wood ['relatedto'] plant ['relatedto'] product ['relatedto'] square
+wood ['relatedto'] plant ['relatedto'] term ['relatedto'] square
+wood ['relatedto'] plant ['relatedto'] power ['relatedto'] square
+wood ['relatedto'] post ['relatedto'] base ['relatedto'] square
+wood ['relatedto'] post ['relatedto', 'derivedfrom'] outpost ['relatedto'] square
+wood ['relatedto'] post ['isa'] company ['isa'] square
+wood ['relatedto'] post ['isa'] product ['relatedto'] square
+wood ['relatedto'] post ['isa', 'relatedto', 'synonym'] position ['mannerof'] square
+wood ['relatedto'] post ['relatedto'] bed ['relatedto'] square
+wood ['relatedto'] post ['relatedto'] box ['relatedto'] square
+wood ['relatedto'] post ['relatedto', 'synonym'] column ['relatedto'] square
+wood ['relatedto'] post ['relatedto'] door ['relatedto'] square
+wood ['relatedto'] post ['relatedto'] corners ['relatedto'] square
+wood ['relatedto'] post ['relatedto'] power ['relatedto'] square
+wood ['relatedto'] post ['relatedto'] harmony ['relatedto'] square
+wood ['relatedto'] post ['relatedto'] forum ['relatedto'] square
+wood ['relatedto'] post ['relatedto'] room ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['relatedto', 'atlocation'] bed ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['atlocation'] book ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['atlocation'] chess_board ['hasproperty'] square
+wood ['madeof', 'relatedto'] house ['relatedto', 'atlocation'] column ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['atlocation'] table ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['atlocation'] tables ['hasproperty'] square
+wood ['madeof', 'relatedto'] house ['relatedto', 'atlocation'] window ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['hasa', 'relatedto', 'atlocation'] yard ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['hasa', 'relatedto', 'partof'] door ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['isa'] flat ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['isa', 'relatedto'] place ['relatedto', 'synonym'] square
+wood ['madeof', 'relatedto'] house ['isa'] real_estate ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['relatedto'] bar ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['relatedto'] box ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['relatedto'] brick ['relatedto'] square
+wood ['madeof', 'relatedto'] house ['relatedto'] card ['relatedto'] square

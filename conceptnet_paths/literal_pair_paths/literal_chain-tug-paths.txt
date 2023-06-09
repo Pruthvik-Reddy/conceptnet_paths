@@ -1,0 +1,100 @@
+chain ['relatedto'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+chain ['relatedto'] trace ['relatedto'] tug
+chain ['relatedto'] house ['atlocation'] iron ['relatedto'] tug
+chain ['relatedto'] house ['relatedto'] drive ['synonym'] tug
+chain ['relatedto'] house ['relatedto'] move ['mannerof'] tug
+chain ['relatedto'] length ['relatedto'] hoist ['relatedto'] tug
+chain ['relatedto'] length ['relatedto'] lug ['synonym'] tug
+chain ['relatedto'] bridge ['hasa', 'relatedto'] ship ['isa'] tug
+chain ['relatedto'] bridge ['relatedto'] toll ['relatedto'] tug
+chain ['relatedto'] cable ['relatedto'] ship ['isa'] tug
+chain ['relatedto'] collar ['relatedto'] harness ['relatedto'] tug
+chain ['relatedto'] collar ['relatedto'] trace ['relatedto'] tug
+chain ['relatedto'] command ['relatedto'] drive ['synonym'] tug
+chain ['usedfor'] connect ['antonym'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+chain ['usedfor'] connect ['mannerof'] tee ['etymologicallyrelatedto', 'relatedto'] tug
+chain ['usedfor'] connect ['relatedto', 'synonym'] hook ['relatedto'] tug
+chain ['relatedto'] foot ['relatedto'] lug ['synonym'] tug
+chain ['relatedto'] pole ['relatedto'] lug ['synonym'] tug
+chain ['relatedto'] ring ['relatedto'] fight ['mannerof'] tug
+chain ['relatedto'] ring ['relatedto'] push ['synonym'] tug
+chain ['relatedto'] ring ['mannerof'] toll ['relatedto'] tug
+chain ['relatedto'] ring ['relatedto'] harness ['relatedto'] tug
+chain ['relatedto'] river ['relatedto'] drive ['synonym'] tug
+chain ['relatedto'] purchase ['relatedto'] tackle ['relatedto'] tug
+chain ['relatedto'] purchase ['relatedto'] labor ['synonym'] tug
+chain ['relatedto'] purchase ['relatedto'] strive ['mannerof'] tug
+chain ['relatedto'] skid ['relatedto'] drag ['relatedto'] tug
+chain ['relatedto'] skid ['relatedto'] hook ['relatedto'] tug
+chain ['relatedto'] bend ['relatedto'] hook ['relatedto'] tug
+chain ['atlocation'] garage ['atlocation'] wrench ['relatedto'] tug
+chain ['relatedto', 'partof'] yard ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+chain ['relatedto', 'partof'] yard ['relatedto'] drive ['synonym'] tug
+chain ['relatedto', 'partof'] yard ['relatedto'] lug ['synonym'] tug
+chain ['relatedto', 'partof'] yard ['relatedto'] timber ['relatedto'] tug
+chain ['relatedto', 'partof'] molecule ['partof'] iron ['relatedto'] tug
+chain ['relatedto'] fence ['mannerof'] fight ['mannerof'] tug
+chain ['hasa', 'partof', 'atlocation'] bicycle ['isa'] toy ['etymologicallyrelatedto'] tug
+chain ['relatedto', 'atlocation'] tow_truck ['derivedfrom'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+chain ['formof', 'relatedto'] chains ['synonym'] iron ['relatedto'] tug
+chain ['isa'] consumer_durable ['isa'] harness ['relatedto'] tug
+chain ['isa'] non_powered_device ['isa'] harness ['relatedto'] tug
+chain ['isa'] ligament ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+chain ['isa'] restraint ['isa'] iron ['relatedto'] tug
+chain ['isa'] restraint ['relatedto'] harness ['relatedto'] tug
+chain ['isa'] pull_chain ['isa'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+chain ['mannerof'] arrange ['relatedto'] betee ['relatedto'] tug
+chain ['usedfor', 'mannerof', 'relatedto'] fasten ['mannerof'] hook ['relatedto'] tug
+chain ['relatedto'] anchor ['relatedto'] ship ['isa'] tug
+chain ['relatedto'] anchor ['madeof', 'relatedto'] iron ['relatedto'] tug
+chain ['relatedto'] anchor ['isa', 'relatedto'] hook ['relatedto'] tug
+chain ['relatedto'] armour ['relatedto'] iron ['relatedto'] tug
+chain ['relatedto'] armour ['relatedto'] harness ['relatedto'] tug
+chain ['relatedto'] bobstay ['relatedto'] ship ['isa'] tug
+chain ['relatedto', 'synonym'] cavalcade ['relatedto'] move ['mannerof'] tug
+chain ['relatedto'] pitch ['relatedto'] ship ['isa'] tug
+chain ['relatedto'] pitch ['relatedto'] labour ['synonym'] tug
+chain ['relatedto'] rod ['relatedto'] hook ['relatedto'] tug
+chain ['relatedto'] rod ['relatedto'] lug ['synonym'] tug
+chain ['relatedto'] rod ['relatedto'] tackle ['relatedto'] tug
+chain ['relatedto'] thread ['relatedto'] harness ['relatedto'] tug
+chain ['relatedto'] warp ['relatedto'] ship ['isa'] tug
+chain ['relatedto'] warp ['relatedto'] move ['mannerof'] tug
+chain ['relatedto'] warp ['relatedto'] harness ['relatedto'] tug
+chain ['relatedto'] data ['relatedto'] drive ['synonym'] tug
+chain ['relatedto'] fetter ['relatedto'] iron ['relatedto'] tug
+chain ['relatedto'] measure ['relatedto'] lug ['synonym'] tug
+chain ['relatedto'] jougs ['relatedto'] iron ['relatedto'] tug
+chain ['relatedto'] keckling ['relatedto'] iron ['relatedto'] tug
+chain ['relatedto'] meteor ['isa'] ship ['isa'] tug
+chain ['relatedto'] pulley ['etymologicallyrelatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+chain ['relatedto'] pulley ['relatedto'] hoist ['relatedto'] tug
+chain ['relatedto'] rigging ['relatedto', 'synonym'] tackle ['relatedto'] tug
+chain ['relatedto'] sling ['mannerof'] move ['mannerof'] tug
+chain ['relatedto'] sling ['relatedto'] hoist ['relatedto'] tug
+chain ['relatedto'] sling ['relatedto'] hook ['relatedto'] tug
+chain ['relatedto'] sling ['relatedto'] tackle ['relatedto'] tug
+chain ['relatedto'] snare ['relatedto', 'synonym'] hook ['relatedto'] tug
+chain ['relatedto'] stringer ['isa', 'relatedto'] timber ['relatedto'] tug
+chain ['relatedto'] tew ['relatedto'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+chain ['relatedto'] tow ['relatedto'] drag ['relatedto'] tug
+chain ['relatedto'] tow ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+chain ['relatedto'] tow ['relatedto'] tee ['etymologicallyrelatedto', 'relatedto'] tug
+chain ['relatedto'] tow ['etymologicallyrelatedto'] toy ['etymologicallyrelatedto'] tug
+chain ['relatedto'] tow ['relatedto'] tugboat ['relatedto', 'synonym'] tug
+chain ['relatedto'] tow ['relatedto', 'derivedfrom'] towboat ['relatedto'] tug
+chain ['relatedto'] tow ['relatedto'] dumb_barge ['relatedto'] tug
+chain ['relatedto'] tow ['relatedto'] tuggie ['derivedfrom'] tug
+chain ['relatedto'] trace ['relatedto', 'partof'] harness ['relatedto'] tug
+chain ['relatedto'] traceability ['relatedto'] trace ['relatedto'] tug
+chain ['synonym'] conjugate ['synonym'] hook ['relatedto'] tug
+chain ['relatedto'] cyclic ['relatedto'] churn ['mannerof'] move ['mannerof'] tug
+chain ['relatedto'] cyclic ['relatedto'] arrange ['relatedto'] betee ['relatedto'] tug
+chain ['relatedto'] cyclic ['relatedto'] element ['isa', 'relatedto'] iron ['relatedto'] tug
+chain ['relatedto'] cyclic ['relatedto'] generate ['relatedto', 'synonym'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+chain ['relatedto'] cyclic ['relatedto'] ring ['relatedto'] fight ['mannerof'] tug
+chain ['relatedto'] cyclic ['relatedto'] ring ['relatedto'] push ['synonym'] tug
+chain ['relatedto'] cyclic ['relatedto'] ring ['mannerof'] toll ['relatedto'] tug
+chain ['relatedto'] cyclic ['relatedto'] ring ['relatedto'] harness ['relatedto'] tug
+chain ['relatedto'] aliphatic ['relatedto'] normal ['relatedto'] great ['relatedto'] tug
+chain ['relatedto'] aliphatic ['relatedto'] class ['isa'] labor ['synonym'] tug

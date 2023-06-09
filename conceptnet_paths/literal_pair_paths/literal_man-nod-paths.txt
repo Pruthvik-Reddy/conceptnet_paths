@@ -1,0 +1,100 @@
+man ['relatedto'] affair ['synonym'] action ['relatedto'] nod
+man ['relatedto', 'synonym'] human ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] agent ['relatedto'] action ['relatedto'] nod
+man ['relatedto'] alive ['relatedto'] action ['relatedto'] nod
+man ['antonym', 'distinctfrom'] animal ['relatedto', 'partof'] head ['relatedto'] nod
+man ['antonym', 'distinctfrom'] animal ['relatedto'] movement ['relatedto'] nod
+man ['antonym', 'distinctfrom'] animal ['relatedto'] dropping ['relatedto'] nod
+man ['antonym', 'distinctfrom'] animal ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['antonym', 'distinctfrom'] animal ['relatedto'] wag ['similarto'] nod
+man ['antonym', 'relatedto'] baby ['relatedto'] shake ['antonym', 'relatedto'] nod
+man ['antonym'] dress ['capableof'] action ['relatedto'] nod
+man ['antonym'] dress ['mannerof'] bob ['relatedto'] nod
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] head ['relatedto'] nod
+man ['antonym', 'relatedto'] husband ['relatedto'] head ['relatedto'] nod
+man ['derivedfrom'] yes_man ['relatedto'] agree ['relatedto'] nod
+man ['derivedfrom'] yes_man ['derivedfrom'] yes ['relatedto', 'similarto'] nod
+man ['derivedfrom'] yesman ['derivedfrom'] yes ['relatedto', 'similarto'] nod
+man ['distinctfrom'] machine ['relatedto'] movement ['relatedto'] nod
+man ['isa', 'relatedto'] father ['relatedto'] head ['relatedto'] nod
+man ['isa', 'relatedto'] guy ['relatedto'] reference ['relatedto'] nod
+man ['isa'] subordinate ['antonym'] head ['relatedto'] nod
+man ['mannerof', 'relatedto'] staff ['relatedto'] shake ['antonym', 'relatedto'] nod
+man ['mannerof'] work ['isa', 'relatedto'] action ['relatedto'] nod
+man ['mannerof'] work ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] nod
+man ['mannerof'] work ['relatedto'] reference ['relatedto'] nod
+man ['relatedto'] art ['relatedto'] movement ['relatedto'] nod
+man ['relatedto'] balebos ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] bear ['entails'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] bear ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] bill ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] board ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] board ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] board ['relatedto'] sign ['relatedto'] nod
+man ['relatedto'] body ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'partof'] head ['relatedto'] nod
+man ['relatedto'] body ['relatedto'] movement ['relatedto'] nod
+man ['relatedto'] body ['relatedto'] gesture ['isa', 'relatedto'] nod
+man ['relatedto'] body ['usedfor', 'relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] body ['relatedto'] nutation ['isa'] nod
+man ['relatedto'] break ['relatedto'] action ['relatedto'] nod
+man ['relatedto'] break ['relatedto'] dropping ['relatedto'] nod
+man ['relatedto'] builder ['relatedto'] bob ['relatedto'] nod
+man ['relatedto'] captain ['mannerof', 'relatedto'] head ['relatedto'] nod
+man ['relatedto'] chief ['etymologicallyrelatedto', 'relatedto', 'synonym'] head ['relatedto'] nod
+man ['relatedto'] chinaman ['relatedto'] action ['relatedto'] nod
+man ['relatedto'] count ['relatedto'] action ['relatedto'] nod
+man ['relatedto'] count ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] demand ['relatedto'] action ['relatedto'] nod
+man ['relatedto'] dog ['isa'] bob ['relatedto'] nod
+man ['relatedto'] dog ['relatedto'] shake ['antonym', 'relatedto'] nod
+man ['relatedto'] doll ['antonym', 'relatedto'] action ['relatedto'] nod
+man ['relatedto'] doll ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] egghead ['derivedfrom'] head ['relatedto'] nod
+man ['relatedto'] eye ['relatedto', 'partof'] head ['relatedto'] nod
+man ['relatedto'] eye ['relatedto'] yes ['relatedto', 'similarto'] nod
+man ['relatedto'] eye ['relatedto'] sleepy ['relatedto'] nod
+man ['relatedto'] eye ['usedfor'] blinking ['relatedto'] nod
+man ['relatedto'] eye ['usedfor'] winking ['relatedto'] nod
+man ['relatedto'] fuzznuts ['etymologicallyrelatedto'] head ['relatedto'] nod
+man ['relatedto'] general ['isa'] head ['relatedto'] nod
+man ['relatedto'] general ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] gentle ['relatedto'] action ['relatedto'] nod
+man ['relatedto'] ginger ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] good ['hasproperty'] agreement ['relatedto'] nod
+man ['relatedto'] hand ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] hand ['relatedto'] beck ['relatedto'] nod
+man ['relatedto'] hand ['relatedto'] gesture ['isa', 'relatedto'] nod
+man ['relatedto'] hand ['relatedto'] shake ['antonym', 'relatedto'] nod
+man ['relatedto'] hand ['relatedto'] sign ['relatedto'] nod
+man ['relatedto'] jack ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] jack ['synonym'] bob ['relatedto'] nod
+man ['relatedto'] judge ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] king ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] king ['relatedto'] movement ['relatedto'] nod
+man ['relatedto'] leader ['isa', 'relatedto'] head ['relatedto'] nod
+man ['relatedto'] lord ['relatedto'] reference ['relatedto'] nod
+man ['relatedto'] lumber ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] big ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] fish ['relatedto'] noodle ['relatedto'] nod
+man ['relatedto'] form ['mannerof'] head ['relatedto'] nod
+man ['relatedto'] form ['relatedto'] movement ['relatedto'] nod
+man ['relatedto'] form ['relatedto'] sign ['relatedto'] nod
+man ['relatedto'] house ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] house ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] network ['mannerof'] communicate ['mannerof'] nod
+man ['relatedto'] penis ['partof'] head ['relatedto'] nod
+man ['relatedto'] sex ['desires'] bob ['relatedto'] nod
+man ['relatedto'] two ['relatedto'] head ['relatedto'] nod
+man ['relatedto'] two ['relatedto'] shake ['antonym', 'relatedto'] nod
+man ['relatedto'] two ['relatedto'] sign ['relatedto'] nod
+man ['relatedto'] system ['relatedto'] movement ['relatedto'] nod
+man ['relatedto'] chess ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] genus ['relatedto'] noddy ['relatedto'] nod
+man ['relatedto', 'synonym'] piece ['relatedto'] head ['relatedto'] nod
+man ['relatedto', 'synonym'] piece ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] strength ['relatedto'] action ['relatedto'] nod
+man ['relatedto'] token ['relatedto'] move ['mannerof', 'relatedto'] nod
+man ['relatedto'] token ['isa', 'relatedto', 'synonym'] sign ['relatedto'] nod
+man ['relatedto'] token ['relatedto'] acknowledgment ['relatedto'] nod
+man ['relatedto'] attend ['relatedto'] inattentive ['relatedto'] nod
+man ['relatedto'] position ['relatedto'] move ['mannerof', 'relatedto'] nod

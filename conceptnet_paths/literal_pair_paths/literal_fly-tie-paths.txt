@@ -1,0 +1,100 @@
+fly ['relatedto'] tie
+fly ['relatedto'] around ['relatedto'] tie
+fly ['relatedto'] line ['relatedto'] tie
+fly ['relatedto'] dress ['relatedto', 'synonym'] tie
+fly ['partof'] garment ['relatedto'] tie
+fly ['relatedto'] horizontal ['relatedto'] tie
+fly ['relatedto'] loop ['mannerof'] tie
+fly ['relatedto'] action ['relatedto'] join ['relatedto'] tie
+fly ['relatedto'] action ['capableof'] dress ['relatedto', 'synonym'] tie
+fly ['relatedto'] action ['isa', 'relatedto'] play ['entails'] tie
+fly ['relatedto'] action ['relatedto'] string ['usedfor'] tie
+fly ['relatedto'] action ['relatedto'] connect ['mannerof', 'relatedto', 'synonym'] tie
+fly ['relatedto'] action ['relatedto'] draw ['relatedto', 'synonym'] tie
+fly ['relatedto'] action ['relatedto'] hold ['relatedto'] tie
+fly ['relatedto'] action ['relatedto'] marry ['relatedto', 'synonym'] tie
+fly ['relatedto'] action ['relatedto'] obligation ['relatedto'] tie
+fly ['relatedto'] action ['relatedto'] run ['relatedto'] tie
+fly ['relatedto'] action ['relatedto'] stitch ['relatedto'] tie
+fly ['relatedto'] action ['relatedto'] twist ['relatedto'] tie
+fly ['relatedto'] action ['relatedto'] tying ['formof', 'relatedto'] tie
+fly ['relatedto'] action ['relatedto'] wear ['isa', 'relatedto'] tie
+fly ['relatedto'] action ['synonym'] suit ['relatedto'] tie
+fly ['relatedto'] activity ['relatedto'] join ['relatedto'] tie
+fly ['relatedto'] activity ['isa'] support ['relatedto'] tie
+fly ['relatedto'] activity ['relatedto'] draw ['relatedto', 'synonym'] tie
+fly ['relatedto'] activity ['relatedto'] dress ['relatedto', 'synonym'] tie
+fly ['relatedto'] activity ['relatedto'] play ['entails'] tie
+fly ['relatedto'] activity ['relatedto'] run ['relatedto'] tie
+fly ['relatedto'] activity ['relatedto'] wear ['isa', 'relatedto'] tie
+fly ['relatedto'] air ['isa'] band ['mannerof', 'relatedto'] tie
+fly ['relatedto'] air ['isa'] note ['relatedto'] tie
+fly ['relatedto'] air ['relatedto'] around ['relatedto'] tie
+fly ['relatedto'] air ['synonym'] beam ['isa'] tie
+fly ['relatedto'] ground ['relatedto'] concrete ['relatedto'] tie
+fly ['relatedto'] ground ['isa'] connection ['relatedto'] tie
+fly ['relatedto'] ground ['mannerof', 'relatedto'] connect ['mannerof', 'relatedto', 'synonym'] tie
+fly ['relatedto'] ground ['relatedto'] band ['mannerof', 'relatedto'] tie
+fly ['relatedto'] ground ['relatedto'] play ['entails'] tie
+fly ['relatedto'] ground ['relatedto'] match ['relatedto'] tie
+fly ['relatedto'] ground ['relatedto'] body ['relatedto'] tie
+fly ['relatedto'] ground ['relatedto'] line ['relatedto'] tie
+fly ['relatedto'] ground ['relatedto'] lot ['relatedto'] tie
+fly ['relatedto'] ground ['relatedto'] post ['relatedto'] tie
+fly ['relatedto'] ground ['relatedto'] twist ['relatedto'] tie
+fly ['relatedto'] ground ['relatedto'] wig ['relatedto'] tie
+fly ['relatedto'] ground ['synonym'] anchor ['relatedto'] tie
+fly ['antonym', 'haslastsubevent'] land ['isa', 'relatedto'] neck ['relatedto'] tie
+fly ['antonym', 'haslastsubevent'] land ['relatedto'] fasten ['mannerof', 'relatedto', 'synonym'] tie
+fly ['antonym', 'haslastsubevent'] land ['relatedto'] connect ['mannerof', 'relatedto', 'synonym'] tie
+fly ['antonym', 'haslastsubevent'] land ['relatedto'] iron ['relatedto'] tie
+fly ['antonym', 'haslastsubevent'] land ['relatedto'] secure ['relatedto'] tie
+fly ['antonym', 'haslastsubevent'] land ['relatedto'] lot ['relatedto'] tie
+fly ['antonym', 'haslastsubevent'] land ['relatedto'] play ['entails'] tie
+fly ['relatedto'] animal ['relatedto'] alligator ['relatedto'] tie
+fly ['relatedto'] animal ['isa'] male ['relatedto'] tie
+fly ['relatedto'] animal ['relatedto'] body ['relatedto'] tie
+fly ['relatedto'] animal ['relatedto'] form ['mannerof'] tie
+fly ['relatedto'] animal ['relatedto'] play ['entails'] tie
+fly ['relatedto'] animal ['relatedto'] fetter ['synonym'] tie
+fly ['relatedto'] animal ['relatedto'] wanty ['relatedto'] tie
+fly ['capableof', 'relatedto', 'desires'] bird ['isa', 'relatedto'] rail ['relatedto'] tie
+fly ['capableof', 'relatedto', 'desires'] bird ['relatedto'] knot ['usedfor', 'mannerof', 'relatedto'] tie
+fly ['capableof', 'relatedto', 'desires'] bird ['relatedto'] truss ['mannerof'] tie
+fly ['relatedto'] house ['atlocation'] beam ['isa'] tie
+fly ['relatedto'] house ['atlocation'] clothing ['isa', 'relatedto'] tie
+fly ['relatedto'] house ['atlocation'] iron ['relatedto'] tie
+fly ['relatedto'] house ['atlocation'] rubber ['relatedto'] tie
+fly ['relatedto'] house ['isa'] band ['mannerof', 'relatedto'] tie
+fly ['relatedto'] house ['isa'] play ['entails'] tie
+fly ['relatedto'] house ['relatedto'] draw ['relatedto', 'synonym'] tie
+fly ['relatedto'] house ['relatedto'] lot ['relatedto'] tie
+fly ['synonym'] vanish ['relatedto'] equal ['mannerof'] tie
+fly ['antonym'] fall ['relatedto'] dogfall ['relatedto'] tie
+fly ['relatedto'] go ['relatedto'] join ['relatedto'] tie
+fly ['relatedto'] go ['antonym'] hold ['relatedto'] tie
+fly ['relatedto'] go ['relatedto'] around ['relatedto'] tie
+fly ['relatedto'] go ['relatedto'] distance ['relatedto'] tie
+fly ['relatedto'] go ['relatedto'] item ['relatedto'] tie
+fly ['relatedto'] go ['relatedto'] fashion ['mannerof'] tie
+fly ['relatedto'] go ['relatedto', 'synonym'] run ['relatedto'] tie
+fly ['relatedto'] go ['relatedto'] obligation ['relatedto'] tie
+fly ['relatedto'] arm ['atlocation'] hair ['relatedto'] tie
+fly ['relatedto'] arm ['relatedto', 'partof'] body ['relatedto'] tie
+fly ['relatedto'] arm ['relatedto'] neck ['relatedto'] tie
+fly ['relatedto'] arm ['relatedto'] bearing ['relatedto'] tie
+fly ['relatedto'] arm ['relatedto'] dress ['relatedto', 'synonym'] tie
+fly ['relatedto'] arm ['relatedto'] iron ['relatedto'] tie
+fly ['relatedto'] around ['relatedto'] bib ['relatedto'] tie
+fly ['relatedto'] around ['relatedto'] play ['entails'] tie
+fly ['relatedto'] around ['relatedto'] twist ['relatedto'] tie
+fly ['usedfor'] arrow ['antonym', 'relatedto'] bow ['usedfor', 'relatedto'] tie
+fly ['usedfor'] arrow ['relatedto'] draw ['relatedto', 'synonym'] tie
+fly ['usedfor'] arrow ['relatedto'] line ['relatedto'] tie
+fly ['usedfor'] arrow ['relatedto'] play ['entails'] tie
+fly ['relatedto'] reply ['relatedto'] someone ['relatedto'] tie
+fly ['relatedto'] reply ['relatedto'] post ['relatedto'] tie
+fly ['relatedto'] reply ['relatedto'] line ['relatedto'] tie
+fly ['relatedto'] reply ['relatedto'] note ['relatedto'] tie
+fly ['relatedto'] reply ['relatedto'] play ['entails'] tie
+fly ['usedfor', 'mannerof'] balloon ['madeof', 'relatedto'] rubber ['relatedto'] tie

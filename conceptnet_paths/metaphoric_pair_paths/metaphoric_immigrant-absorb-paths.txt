@@ -1,0 +1,100 @@
+immigrant ['relatedto'] animal ['isa', 'relatedto'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto'] absorb
+immigrant ['relatedto'] plant ['relatedto'] subirrigation ['relatedto'] absorb
+immigrant ['antonym', 'distinctfrom'] native ['relatedto'] yuletide ['relatedto'] absorb
+immigrant ['relatedto'] settle ['synonym'] root ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] child ['capableof', 'desires'] learn ['mannerof', 'relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] child ['relatedto'] suck ['mannerof', 'synonym'] absorb
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] mineral ['relatedto'] swelling_soil ['relatedto'] absorb
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto'] absorb
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] subirrigation ['relatedto'] absorb
+immigrant ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plants ['relatedto'] absorbent ['relatedto', 'derivedfrom'] absorb
+immigrant ['relatedto'] animal ['atlocation'] bone ['relatedto'] root ['relatedto'] absorb
+immigrant ['relatedto'] animal ['atlocation'] membrane ['usedfor', 'relatedto'] separate ['relatedto'] absorb
+immigrant ['relatedto'] animal ['atlocation'] organ ['relatedto'] absorption ['relatedto', 'derivedfrom'] absorb
+immigrant ['relatedto'] animal ['atlocation'] stomach ['relatedto'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['atlocation'] stomach ['relatedto'] absorbent ['relatedto', 'derivedfrom'] absorb
+immigrant ['relatedto'] animal ['capableof'] eating ['relatedto'] ingest ['synonym'] absorb
+immigrant ['relatedto'] animal ['capableof'] eating ['relatedto'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['capableof', 'relatedto'] live ['relatedto'] occupy ['relatedto', 'synonym'] absorb
+immigrant ['relatedto'] animal ['desires'] eat ['antonym', 'relatedto', 'entails', 'haslastsubevent', 'hasprerequisite'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['desires'] eat ['mannerof', 'relatedto'] devour ['relatedto'] absorb
+immigrant ['relatedto'] animal ['desires'] eat ['mannerof', 'relatedto', 'synonym'] consume ['mannerof', 'synonym'] absorb
+immigrant ['relatedto'] animal ['desires'] eat ['relatedto'] ingest ['synonym'] absorb
+immigrant ['relatedto'] animal ['desires'] eat ['relatedto'] swallowing ['relatedto'] absorb
+immigrant ['relatedto'] animal ['desires'] eat ['relatedto'] transaction ['relatedto'] absorb
+immigrant ['relatedto'] animal ['distinctfrom'] bug ['relatedto'] patch ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] film ['relatedto'] flatness ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] single ['isa'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] bat ['relatedto'] quilt ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] bear ['synonym'] assume ['synonym'] absorb
+immigrant ['relatedto'] animal ['isa'] bloodsucker ['relatedto'] suck ['mannerof', 'synonym'] absorb
+immigrant ['relatedto'] animal ['isa'] blowfish ['relatedto'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] coral ['relatedto'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto', 'synonym'] creature ['relatedto'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] echinacea ['relatedto'] root ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] game ['relatedto'] draw ['synonym'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] gorilla ['relatedto'] commercial ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] insect ['relatedto'] interest ['mannerof'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] insect ['relatedto'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] insect ['isa'] epiblema ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] insect ['relatedto'] protocarnivorous ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] invertebrate ['isa', 'relatedto'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] leech ['relatedto'] suck ['mannerof', 'synonym'] absorb
+immigrant ['relatedto'] animal ['isa'] leech ['synonym'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] mouse ['atlocation'] use ['synonym'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] omnivore ['relatedto'] consume ['mannerof', 'synonym'] absorb
+immigrant ['relatedto'] animal ['isa'] parent ['relatedto'] root ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] pig ['relatedto'] consume ['mannerof', 'synonym'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] pig ['synonym'] devour ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] poriferan ['relatedto', 'synonym'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] prey ['relatedto'] protocarnivorous ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] sphinx ['relatedto'] co_opt ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] sponge ['relatedto'] absorbent ['relatedto', 'derivedfrom'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] sponge ['relatedto'] imbibe ['mannerof', 'relatedto', 'synonym'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] sponge ['relatedto'] soak ['relatedto', 'synonym'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] sponge ['relatedto'] spongiole ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa'] tent_caterpillar ['relatedto'] consume ['mannerof', 'synonym'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] wolf ['relatedto'] devour ['relatedto'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] worm ['relatedto'] draw ['synonym'] absorb
+immigrant ['relatedto'] animal ['isa', 'relatedto'] worm ['derivedfrom'] read ['relatedto'] absorb
+immigrant ['relatedto'] animal ['partof'] face ['relatedto'] interest ['mannerof'] absorb
+immigrant ['relatedto'] animal ['relatedto', 'partof'] head ['relatedto'] use ['synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] beat ['mannerof'] soak ['relatedto', 'synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] blood ['receivesaction'] read ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] body ['relatedto'] assimilate ['mannerof', 'relatedto', 'synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] body ['relatedto'] blackbody ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] body ['relatedto'] ingest ['synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] body ['relatedto'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] breed ['relatedto'] read ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] everything ['relatedto'] include ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] eyes ['relatedto'] read ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] form ['isa'] root ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] form ['mannerof', 'relatedto'] draw ['synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] generic ['relatedto'] blend ['mannerof'] absorb
+immigrant ['relatedto'] animal ['relatedto'] major ['relatedto'] root ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] movement ['relatedto'] swallow ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] play ['isa', 'mannerof', 'relatedto'] use ['synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] related ['relatedto'] read ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] warm ['relatedto'] quilt ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] work ['mannerof', 'relatedto', 'synonym'] use ['synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] work ['relatedto'] draw ['synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] cell ['relatedto'] epiblema ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] back ['relatedto'] bumper ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] back ['relatedto'] receive ['mannerof'] absorb
+immigrant ['relatedto'] animal ['relatedto'] bellyband ['relatedto'] use ['synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] bill ['relatedto'] interest ['mannerof'] absorb
+immigrant ['relatedto'] animal ['relatedto'] body_cavity ['relatedto'] tampon ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] brain ['relatedto'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] browsing ['relatedto'] read ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] carnivorous_plant ['relatedto'] protocarnivorous ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] cnidarian ['relatedto'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] daikon ['relatedto'] use ['synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] daikon ['relatedto'] consume ['mannerof', 'synonym'] absorb
+immigrant ['relatedto'] animal ['relatedto'] division ['relatedto'] separate ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] division ['relatedto'] commune ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] doll ['relatedto'] interest ['mannerof'] absorb
+immigrant ['relatedto'] animal ['relatedto'] doll ['relatedto'] patch ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] drinker ['relatedto'] sponge ['relatedto'] absorb
+immigrant ['relatedto'] animal ['relatedto'] drive ['relatedto'] interest ['mannerof'] absorb

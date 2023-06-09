@@ -1,0 +1,100 @@
+ball ['relatedto'] volley
+ball ['capableof', 'usedfor', 'relatedto'] bounce ['relatedto'] volley
+ball ['isa', 'relatedto'] volleyball ['derivedfrom', 'synonym'] volley
+ball ['relatedto'] hit ['mannerof'] volley
+ball ['usedfor', 'relatedto'] play ['mannerof', 'relatedto'] volley
+ball ['relatedto'] bullet ['relatedto'] volley
+ball ['relatedto'] flight ['relatedto'] volley
+ball ['relatedto'] half_volley ['derivedfrom'] volley
+ball ['relatedto'] racquet ['relatedto'] volley
+ball ['relatedto'] return ['isa'] volley
+ball ['relatedto'] shot ['relatedto'] volley
+ball ['relatedto'] base ['relatedto'] ground ['relatedto'] volley
+ball ['relatedto'] base ['relatedto'] fire ['relatedto'] volley
+ball ['relatedto'] base ['relatedto'] hit ['mannerof'] volley
+ball ['relatedto'] child ['relatedto', 'hasprerequisite'] play ['mannerof', 'relatedto'] volley
+ball ['relatedto'] child ['relatedto'] ground ['relatedto'] volley
+ball ['relatedto'] children ['relatedto'] play ['mannerof', 'relatedto'] volley
+ball ['relatedto'] air ['antonym', 'distinctfrom'] fire ['relatedto'] volley
+ball ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] volley
+ball ['relatedto'] air ['relatedto', 'atlocation'] sound ['relatedto'] volley
+ball ['relatedto'] air ['relatedto'] flight ['relatedto'] volley
+ball ['relatedto'] earth ['mannerof', 'relatedto', 'synonym', 'atlocation'] ground ['relatedto'] volley
+ball ['relatedto'] earth ['relatedto'] fire ['relatedto'] volley
+ball ['relatedto'] red ['relatedto'] fire ['relatedto'] volley
+ball ['relatedto'] one ['relatedto'] wicket ['relatedto'] volley
+ball ['relatedto'] orange ['relatedto'] fire ['relatedto'] volley
+ball ['relatedto'] around ['relatedto'] play ['mannerof', 'relatedto'] volley
+ball ['relatedto'] stick ['relatedto'] ground ['relatedto'] volley
+ball ['relatedto'] stick ['antonym'] hit ['mannerof'] volley
+ball ['relatedto'] slash ['relatedto'] fire ['relatedto'] volley
+ball ['relatedto'] backspin ['relatedto'] flight ['relatedto'] volley
+ball ['relatedto'] good ['relatedto', 'synonym'] sound ['relatedto'] volley
+ball ['antonym'] cube ['usedfor'] play ['mannerof', 'relatedto'] volley
+ball ['antonym'] hoop ['relatedto', 'synonym'] wicket ['relatedto'] volley
+ball ['antonym'] box ['atlocation'] bullet ['relatedto'] volley
+ball ['antonym'] box ['mannerof'] hit ['mannerof'] volley
+ball ['atlocation'] baseball_field ['usedfor'] play ['mannerof', 'relatedto'] volley
+ball ['relatedto', 'atlocation'] beach ['atlocation'] volleyball ['derivedfrom', 'synonym'] volley
+ball ['atlocation'] cricket_pitch ['relatedto'] wicket ['relatedto'] volley
+ball ['relatedto', 'atlocation'] hole ['relatedto', 'atlocation'] ground ['relatedto'] volley
+ball ['relatedto', 'atlocation'] hole ['mannerof'] hit ['mannerof'] volley
+ball ['relatedto', 'atlocation'] playground ['relatedto', 'derivedfrom'] play ['mannerof', 'relatedto'] volley
+ball ['atlocation'] playroom ['relatedto', 'derivedfrom'] play ['mannerof', 'relatedto'] volley
+ball ['atlocation'] pool_table ['relatedto'] play ['mannerof', 'relatedto'] volley
+ball ['atlocation'] sack ['relatedto', 'synonym'] fire ['relatedto'] volley
+ball ['atlocation'] sack ['relatedto'] discharge ['mannerof'] volley
+ball ['relatedto', 'atlocation'] sport ['relatedto'] play ['mannerof', 'relatedto'] volley
+ball ['relatedto', 'atlocation'] sport ['isa'] badminton ['relatedto'] volley
+ball ['relatedto', 'atlocation'] sport ['isa'] volleyball ['derivedfrom', 'synonym'] volley
+ball ['capableof', 'usedfor', 'relatedto'] bounce ['mannerof'] hit ['mannerof'] volley
+ball ['capableof', 'usedfor', 'relatedto'] bounce ['mannerof'] return ['isa'] volley
+ball ['capableof', 'usedfor', 'relatedto'] bounce ['relatedto'] half_volley ['derivedfrom'] volley
+ball ['capableof', 'relatedto'] bounces ['formof', 'relatedto'] bounce ['relatedto'] volley
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] ground ['relatedto'] volley
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['mannerof'] sound ['relatedto'] volley
+ball ['capableof', 'isa', 'relatedto'] toy ['relatedto', 'synonym'] play ['mannerof', 'relatedto'] volley
+ball ['relatedto', 'derivedfrom'] meatball ['relatedto'] ground ['relatedto'] volley
+ball ['relatedto', 'derivedfrom'] meatball ['relatedto'] hit ['mannerof'] volley
+ball ['isa', 'relatedto', 'derivedfrom'] racquetball ['derivedfrom'] racquet ['relatedto'] volley
+ball ['derivedfrom'] smallball ['relatedto'] play ['mannerof', 'relatedto'] volley
+ball ['relatedto', 'derivedfrom'] cannonball ['relatedto'] bullet ['relatedto'] volley
+ball ['distinctfrom', 'relatedto'] circle ['relatedto'] wicket ['relatedto'] volley
+ball ['distinctfrom'] point ['relatedto'] bullet ['relatedto'] volley
+ball ['distinctfrom'] point ['relatedto'] hit ['mannerof'] volley
+ball ['distinctfrom'] point ['relatedto'] wicket ['relatedto'] volley
+ball ['etymologicallyrelatedto'] bale ['relatedto'] fire ['relatedto'] volley
+ball ['etymologicallyrelatedto', 'relatedto'] balloon ['relatedto'] bullet ['relatedto'] volley
+ball ['formof', 'relatedto'] balls ['relatedto'] bullet ['relatedto'] volley
+ball ['relatedto', 'hasproperty'] round ['relatedto'] ground ['relatedto'] volley
+ball ['relatedto', 'hasproperty'] round ['relatedto'] bullet ['relatedto'] volley
+ball ['relatedto', 'hasproperty'] round ['relatedto'] utter ['mannerof'] volley
+ball ['isa'] event ['relatedto'] fire ['relatedto'] volley
+ball ['isa'] event ['relatedto'] play ['mannerof', 'relatedto'] volley
+ball ['isa'] event ['relatedto'] sound ['relatedto'] volley
+ball ['isa'] software ['isa'] fire ['relatedto'] volley
+ball ['isa', 'relatedto'] pitch ['mannerof'] hit ['mannerof'] volley
+ball ['isa', 'relatedto'] pitch ['mannerof'] play ['mannerof', 'relatedto'] volley
+ball ['isa', 'relatedto'] pitch ['relatedto'] sound ['relatedto'] volley
+ball ['isa', 'relatedto'] pitch ['relatedto'] bounce ['relatedto'] volley
+ball ['isa', 'relatedto'] pitch ['relatedto'] wicket ['relatedto'] volley
+ball ['isa', 'relatedto'] plaything ['relatedto', 'derivedfrom'] play ['mannerof', 'relatedto'] volley
+ball ['isa', 'relatedto', 'synonym'] sphere ['relatedto'] bullet ['relatedto'] volley
+ball ['isa'] video_game ['relatedto'] fire ['relatedto'] volley
+ball ['isa', 'relatedto'] bowl ['mannerof'] play ['mannerof', 'relatedto'] volley
+ball ['isa', 'relatedto'] fireball ['relatedto'] fire ['relatedto'] volley
+ball ['isa', 'relatedto'] football ['relatedto'] ground ['relatedto'] volley
+ball ['isa', 'relatedto'] football ['relatedto'] play ['mannerof', 'relatedto'] volley
+ball ['isa', 'relatedto'] marble ['relatedto'] bullet ['relatedto'] volley
+ball ['isa'] pellet ['relatedto'] bullet ['relatedto'] volley
+ball ['isa'] pellet ['synonym'] shot ['relatedto'] volley
+ball ['isa', 'relatedto'] puck ['relatedto'] shot ['relatedto'] volley
+ball ['isa', 'relatedto'] puck ['usedfor'] hit ['mannerof'] volley
+ball ['isa', 'relatedto'] shot_put ['relatedto'] shot ['relatedto'] volley
+ball ['isa', 'relatedto'] tennis_ball ['usedfor'] play ['mannerof', 'relatedto'] volley
+ball ['isa', 'relatedto'] tennis_ball ['usedfor'] bounce ['relatedto'] volley
+ball ['madeof'] plastic ['relatedto'] racquet ['relatedto'] volley
+ball ['mannerof'] wind ['antonym', 'relatedto'] fire ['relatedto'] volley
+ball ['mannerof'] wind ['relatedto'] sound ['relatedto'] volley
+ball ['mannerof'] wind ['relatedto'] flurry ['relatedto'] volley
+ball ['relatedto'] ammunition ['relatedto'] bullet ['relatedto'] volley

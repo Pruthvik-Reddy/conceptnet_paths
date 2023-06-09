@@ -1,0 +1,100 @@
+fabric ['relatedto'] ruff ['relatedto'] ruffle
+fabric ['relatedto'] furbelow ['relatedto'] ruffle
+fabric ['relatedto'] pleat ['synonym'] ruffle
+fabric ['relatedto'] pattern ['relatedto'] beat ['relatedto'] ruffle
+fabric ['relatedto'] pattern ['relatedto'] decoration ['relatedto'] ruffle
+fabric ['usedfor', 'relatedto'] clothing ['relatedto'] furbelow ['relatedto'] ruffle
+fabric ['relatedto'] card ['relatedto'] fold ['mannerof'] ruffle
+fabric ['relatedto'] paper ['relatedto'] roll ['relatedto'] ruffle
+fabric ['relatedto'] dress ['relatedto'] ruffles ['formof', 'relatedto'] ruffle
+fabric ['relatedto'] dress ['relatedto'] frill ['relatedto', 'synonym'] ruffle
+fabric ['relatedto'] dress ['relatedto', 'synonym'] trim ['relatedto'] ruffle
+fabric ['isa', 'relatedto', 'atlocation'] cotton ['relatedto'] capsule ['relatedto'] ruffle
+fabric ['isa', 'relatedto', 'atlocation'] cotton ['relatedto'] fluff ['synonym'] ruffle
+fabric ['isa', 'relatedto', 'atlocation'] silk ['relatedto'] balayeuse ['relatedto'] ruffle
+fabric ['isa', 'madeof', 'relatedto'] wool ['relatedto'] fluff ['synonym'] ruffle
+fabric ['hasproperty'] smooth ['antonym'] ruff ['relatedto'] ruffle
+fabric ['hasproperty'] smooth ['relatedto'] unruffle ['relatedto'] ruffle
+fabric ['relatedto'] sew ['relatedto'] balayeuse ['relatedto'] ruffle
+fabric ['relatedto'] design ['isa', 'relatedto'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] woof ['relatedto', 'synonym'] ruff ['relatedto'] ruffle
+fabric ['relatedto'] throw ['relatedto'] roll ['relatedto'] ruffle
+fabric ['isa'] artifact ['isa'] decoration ['relatedto'] ruffle
+fabric ['relatedto', 'synonym'] material ['relatedto'] fold ['mannerof'] ruffle
+fabric ['relatedto', 'synonym'] material ['isa'] fluff ['synonym'] ruffle
+fabric ['relatedto', 'synonym'] material ['relatedto'] flounce ['relatedto'] ruffle
+fabric ['atlocation'] store ['relatedto'] egg ['relatedto'] ruffle
+fabric ['atlocation'] store ['atlocation'] drum ['relatedto'] ruffle
+fabric ['atlocation'] store ['atlocation'] flute ['relatedto'] ruffle
+fabric ['relatedto'] list ['isa'] roll ['relatedto'] ruffle
+fabric ['relatedto'] rock ['relatedto'] drum ['relatedto'] ruffle
+fabric ['relatedto'] rock ['antonym', 'mannerof', 'relatedto'] roll ['relatedto'] ruffle
+fabric ['relatedto'] rock ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+fabric ['relatedto'] rock ['usedfor'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] napkin ['relatedto'] fold ['mannerof'] ruffle
+fabric ['relatedto', 'synonym'] cloth ['relatedto'] flute ['relatedto'] ruffle
+fabric ['relatedto'] tuck ['relatedto'] drum ['relatedto'] ruffle
+fabric ['relatedto'] tuck ['mannerof', 'relatedto'] fold ['mannerof'] ruffle
+fabric ['relatedto'] tuck ['isa', 'relatedto'] pleat ['synonym'] ruffle
+fabric ['relatedto'] tuck ['relatedto'] beat ['relatedto'] ruffle
+fabric ['relatedto'] wing ['relatedto'] altoruffled ['relatedto'] ruffle
+fabric ['relatedto'] wing ['relatedto'] flutter ['relatedto'] ruffle
+fabric ['relatedto'] ruff ['relatedto'] species ['relatedto'] ruffle
+fabric ['relatedto'] ruff ['relatedto'] genus ['relatedto'] ruffle
+fabric ['relatedto'] ruff ['synonym'] choker ['synonym'] ruffle
+fabric ['relatedto'] ruff ['synonym'] frill ['relatedto', 'synonym'] ruffle
+fabric ['relatedto'] sail ['mannerof', 'relatedto'] beat ['relatedto'] ruffle
+fabric ['relatedto'] sheep ['relatedto'] fluff ['synonym'] ruffle
+fabric ['relatedto'] structure ['isa'] fold ['mannerof'] ruffle
+fabric ['relatedto'] structure ['isa'] capsule ['relatedto'] ruffle
+fabric ['relatedto'] wrap ['relatedto'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] carpet ['usedfor', 'relatedto'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] rug ['usedfor'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] coat ['mannerof'] egg ['relatedto'] ruffle
+fabric ['relatedto'] quilt ['relatedto'] roll ['relatedto'] ruffle
+fabric ['isa'] cloth_linen ['usedfor'] decoration ['relatedto'] ruffle
+fabric ['isa'] bunting ['relatedto'] decoration ['relatedto'] ruffle
+fabric ['isa'] drapery ['relatedto'] fold ['mannerof'] ruffle
+fabric ['isa', 'relatedto'] lace ['relatedto'] balayeuse ['relatedto'] ruffle
+fabric ['isa', 'relatedto'] lace ['relatedto'] frill ['relatedto', 'synonym'] ruffle
+fabric ['isa', 'relatedto'] lace ['relatedto'] decoration ['relatedto'] ruffle
+fabric ['isa'] leather ['relatedto'] beat ['relatedto'] ruffle
+fabric ['isa'] lint ['relatedto'] fluff ['synonym'] ruffle
+fabric ['isa', 'relatedto'] permanent_press ['relatedto'] pleat ['synonym'] ruffle
+fabric ['isa'] yoke ['relatedto'] egg ['relatedto'] ruffle
+fabric ['relatedto'] beetle ['relatedto'] roll ['relatedto'] ruffle
+fabric ['relatedto'] beetle ['mannerof'] beat ['relatedto'] ruffle
+fabric ['relatedto'] billow ['relatedto'] roll ['relatedto'] ruffle
+fabric ['relatedto'] crimper ['relatedto'] pleat ['synonym'] ruffle
+fabric ['relatedto'] drill ['relatedto'] drum ['relatedto'] ruffle
+fabric ['relatedto'] fagoting ['relatedto'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] flag ['relatedto'] american ['relatedto'] ruffle
+fabric ['relatedto'] fur ['relatedto'] fluff ['synonym'] ruffle
+fabric ['relatedto'] fur ['etymologicallyrelatedto'] furbelow ['relatedto'] ruffle
+fabric ['relatedto'] furbelow ['relatedto'] pleat ['synonym'] ruffle
+fabric ['relatedto'] furbelow ['relatedto'] flounce ['relatedto'] ruffle
+fabric ['relatedto'] furbelow ['relatedto', 'synonym'] frill ['relatedto', 'synonym'] ruffle
+fabric ['relatedto'] gimp ['relatedto', 'synonym'] trim ['relatedto'] ruffle
+fabric ['relatedto'] headband ['relatedto'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] ottoman ['usedfor'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] parachute ['relatedto'] fold ['mannerof'] ruffle
+fabric ['relatedto'] pleat ['isa', 'mannerof', 'relatedto'] fold ['mannerof'] ruffle
+fabric ['relatedto'] pleat ['relatedto'] flounce ['relatedto'] ruffle
+fabric ['relatedto'] pleat ['relatedto'] furbelow ['relatedto'] ruffle
+fabric ['relatedto'] pouf ['relatedto'] gathered ['relatedto'] ruffle
+fabric ['relatedto'] quill ['relatedto'] fold ['mannerof'] ruffle
+fabric ['relatedto'] quill ['relatedto'] ruff ['relatedto'] ruffle
+fabric ['relatedto'] swag ['etymologicallyrelatedto', 'derivedfrom'] swagger ['synonym'] ruffle
+fabric ['relatedto'] swiss ['relatedto'] roll ['relatedto'] ruffle
+fabric ['relatedto'] gain ['antonym', 'distinctfrom', 'relatedto'] lose ['relatedto'] loosen ['mannerof'] ruffle
+fabric ['relatedto'] gain ['antonym'] reduce ['relatedto', 'synonym'] trim ['relatedto'] ruffle
+fabric ['relatedto'] gain ['etymologicallyrelatedto'] gin ['relatedto'] drum ['relatedto'] ruffle
+fabric ['relatedto'] gain ['mannerof'] round ['relatedto', 'hasproperty'] egg ['relatedto'] ruffle
+fabric ['relatedto'] gain ['mannerof'] round ['relatedto'] drum ['relatedto'] ruffle
+fabric ['relatedto'] gain ['mannerof'] round ['relatedto'] roll ['relatedto'] ruffle
+fabric ['relatedto'] gain ['mannerof'] round ['synonym'] beat ['relatedto'] ruffle
+fabric ['relatedto'] gain ['motivatedbygoal'] compete ['relatedto'] roll ['relatedto'] ruffle
+fabric ['relatedto'] gain ['relatedto'] benefit ['relatedto'] frill ['relatedto', 'synonym'] ruffle
+fabric ['relatedto'] gain ['relatedto'] achievement ['relatedto'] decoration ['relatedto'] ruffle
+fabric ['relatedto'] gain ['relatedto'] money ['relatedto'] roll ['relatedto'] ruffle
+fabric ['relatedto'] gain ['relatedto', 'synonym'] win ['relatedto', 'entails'] beat ['relatedto'] ruffle

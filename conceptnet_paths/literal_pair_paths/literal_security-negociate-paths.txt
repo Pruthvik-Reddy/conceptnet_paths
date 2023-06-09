@@ -1,0 +1,100 @@
+security ['relatedto'] apprehension ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] bank ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] class ['relatedto'] pass ['mannerof'] negociate
+security ['isa', 'relatedto'] insurance ['relatedto'] broker ['mannerof'] negociate
+security ['usedfor', 'relatedto'] lock ['mannerof'] pass ['mannerof'] negociate
+security ['relatedto'] margin ['relatedto'] broker ['mannerof'] negociate
+security ['relatedto'] pawn ['relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] pledge ['synonym'] pass ['mannerof'] negociate
+security ['relatedto'] plight ['synonym'] pass ['mannerof'] negociate
+security ['relatedto'] safe_conduct ['isa'] pass ['mannerof'] negociate
+security ['relatedto'] stock ['relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] sharebroker ['relatedto'] broker ['mannerof'] negociate
+security ['synonym'] fence ['relatedto'] sell ['mannerof'] negociate
+security ['isa'] peace ['relatedto', 'derivedfrom'] peacework ['relatedto'] negotiate ['synonym'] negociate
+security ['isa'] peace ['isa', 'relatedto'] treaty ['relatedto'] treat ['mannerof'] negociate
+security ['isa'] peace ['relatedto'] parlay ['relatedto'] parley ['mannerof'] negociate
+security ['isa'] peace ['relatedto'] agreement ['relatedto'] negotiate ['synonym'] negociate
+security ['isa'] peace ['relatedto'] along ['relatedto'] pass ['mannerof'] negociate
+security ['isa'] peace ['relatedto'] passes ['formof', 'relatedto'] pass ['mannerof'] negociate
+security ['isa'] peace ['relatedto'] quite ['relatedto'] pass ['mannerof'] negociate
+security ['isa'] peace ['relatedto'] state ['synonym'] pass ['mannerof'] negociate
+security ['isa'] peace ['relatedto'] surrender ['mannerof'] sell ['mannerof'] negociate
+security ['isa'] peace ['relatedto'] white ['relatedto'] pass ['mannerof'] negociate
+security ['isa'] peace ['relatedto'] winning ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] safe ['derivedfrom'] safe_conduct ['isa'] pass ['mannerof'] negociate
+security ['relatedto'] safe ['distinctfrom'] drop ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] safe ['relatedto'] bank ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] safe ['relatedto'] lock ['mannerof'] pass ['mannerof'] negociate
+security ['relatedto'] safe ['relatedto'] money ['motivatedbygoal', 'relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] safe ['relatedto'] money ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] safe ['relatedto'] steel ['relatedto'] treat ['mannerof'] negociate
+security ['relatedto'] safe ['relatedto'] worthy ['relatedto'] treat ['mannerof'] negociate
+security ['relatedto'] short ['antonym'] along ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] die ['relatedto', 'synonym'] pass ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] dress ['mannerof'] treat ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] note ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] point ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] sell_short ['mannerof'] sell ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] slip ['mannerof', 'relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] slip ['relatedto'] broker ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] test ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] short ['relatedto'] time ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] order ['isa', 'derivedfrom'] mail_order ['relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] order ['relatedto', 'desires'] judge ['mannerof', 'relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] order ['hasprerequisite'] buy ['antonym', 'distinctfrom', 'relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] order ['hasprerequisite'] buy ['relatedto'] treat ['mannerof'] negociate
+security ['relatedto'] order ['isa'] state ['synonym'] pass ['mannerof'] negociate
+security ['relatedto'] order ['mannerof', 'relatedto', 'synonym'] arrange ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] order ['mannerof', 'relatedto', 'synonym'] arrange ['relatedto', 'synonym'] negotiate ['synonym'] negociate
+security ['relatedto'] order ['relatedto', 'partof', 'synonym'] class ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] bank ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] bar ['relatedto'] treat ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] control ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] frog ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] ask ['relatedto'] parley ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] food ['relatedto'] treat ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] filter ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] group ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] power ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] product ['relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] service ['relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] pass_parole ['derivedfrom'] pass ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] rush ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] transpose ['mannerof', 'synonym'] transfer ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] travelling_salesman ['relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] turn ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] order ['relatedto'] vent ['relatedto'] sell ['mannerof'] negociate
+security ['relatedto'] apprehension ['relatedto'] judgment ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] apprehension ['relatedto'] pass ['mannerof', 'relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] apprehension ['relatedto'] physical ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] apprehension ['relatedto'] process ['synonym'] treat ['mannerof'] negociate
+security ['relatedto'] apprehension ['relatedto'] realize ['mannerof'] sell ['mannerof'] negociate
+security ['relatedto'] apprehension ['relatedto'] sink ['synonym'] pass ['mannerof'] negociate
+security ['relatedto'] relinquish ['similarto', 'synonym'] leave ['isa'] pass ['mannerof'] negociate
+security ['relatedto'] relinquish ['similarto', 'synonym'] leave ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] relinquish ['relatedto'] cede ['etymologicallyrelatedto', 'relatedto'] intercede ['mannerof'] negociate
+security ['relatedto'] relinquish ['relatedto'] control ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] relinquish ['relatedto'] let_go ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] relinquish ['relatedto', 'synonym'] release ['mannerof'] pass ['mannerof'] negociate
+security ['relatedto'] relinquish ['relatedto', 'similarto', 'synonym'] surrender ['mannerof'] sell ['mannerof'] negociate
+security ['relatedto'] relinquish ['synonym'] forgo ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] asset ['relatedto'] process ['synonym'] treat ['mannerof'] negociate
+security ['relatedto'] asset ['relatedto'] municipalization ['relatedto'] transfer ['mannerof'] negociate
+security ['relatedto'] defence ['relatedto'] team ['relatedto'] pass ['mannerof'] negociate
+security ['relatedto'] defence ['relatedto'] use ['synonym'] treat ['mannerof'] negociate
+security ['relatedto'] defence ['synonym'] fence ['relatedto'] sell ['mannerof'] negociate
+security ['atlocation'] home ['relatedto'] alien ['mannerof', 'relatedto'] transfer ['mannerof'] negociate
+security ['atlocation'] home ['isa', 'mannerof', 'relatedto', 'similarto'] house ['usedfor'] sell ['mannerof'] negociate
+security ['atlocation'] home ['relatedto'] go ['distinctfrom', 'relatedto'] pass ['mannerof'] negociate
+security ['atlocation'] home ['relatedto'] go ['relatedto'] sell ['mannerof'] negociate
+security ['atlocation'] home ['antonym'] business ['relatedto'] negotiate ['synonym'] negociate
+security ['atlocation'] home ['antonym'] end ['relatedto'] pass ['mannerof'] negociate
+security ['atlocation'] home ['antonym'] game ['relatedto'] pass ['mannerof'] negociate
+security ['atlocation'] home ['antonym', 'atlocation'] party ['relatedto'] treat ['mannerof'] negociate
+security ['atlocation'] home ['antonym'] travel ['mannerof', 'relatedto'] pass ['mannerof'] negociate
+security ['atlocation'] home ['antonym'] travel ['mannerof'] transfer ['mannerof'] negociate
+security ['atlocation'] home ['atlocation'] food ['relatedto'] treat ['mannerof'] negociate
+security ['atlocation'] home ['atlocation'] hall ['relatedto'] pass ['mannerof'] negociate
+security ['atlocation'] home ['atlocation'] website ['relatedto'] pass ['mannerof'] negociate
+security ['atlocation'] home ['atlocation'] pie ['relatedto'] treat ['mannerof'] negociate

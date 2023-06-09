@@ -1,0 +1,100 @@
+fort ['isa'] book ['isa', 'relatedto'] collection ['relatedto'] recapture
+fort ['isa'] book ['isa'] seizure ['isa'] recapture
+fort ['relatedto'] siege ['relatedto'] rescue ['synonym'] recapture
+fort ['relatedto'] post ['distinctfrom', 'relatedto', 'synonym'] mail ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] post ['distinctfrom', 'relatedto', 'synonym'] mail ['isa'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['isa'] company ['isa'] feel ['mannerof'] recapture
+fort ['relatedto'] post ['isa', 'relatedto'] delivery ['synonym'] rescue ['synonym'] recapture
+fort ['relatedto'] post ['mannerof'] record ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] bill ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] bill ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] college ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] deliver ['relatedto', 'synonym'] rescue ['synonym'] recapture
+fort ['relatedto'] post ['relatedto'] express ['relatedto'] rescue ['synonym'] recapture
+fort ['relatedto'] post ['relatedto'] office ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] picspam ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] portfolio ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] beam ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] poll ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] power ['relatedto'] seizure ['isa'] recapture
+fort ['relatedto'] post ['relatedto'] service ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] something ['relatedto'] rescue ['synonym'] recapture
+fort ['relatedto'] post ['relatedto'] stamp ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] stamps ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] battery ['isa'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] debt ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto'] debt ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] post ['relatedto', 'synonym'] carry ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+fort ['relatedto'] post ['relatedto'] journal ['relatedto'] recovery ['isa'] recapture
+fort ['relatedto'] post ['relatedto'] postal ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] rest ['relatedto'] recover ['synonym'] recapture
+fort ['relatedto'] house ['relatedto'] rest ['relatedto'] recovery ['isa'] recapture
+fort ['relatedto'] house ['atlocation'] fire ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['antonym', 'relatedto'] farm ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['antonym', 'relatedto', 'partof'] garden ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['atlocation'] beam ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['atlocation'] book ['isa', 'relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['atlocation'] book ['isa'] seizure ['isa'] recapture
+fort ['relatedto'] house ['atlocation'] entrance ['synonym'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+fort ['relatedto'] house ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] family ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['hasa', 'relatedto', 'atlocation'] floor ['relatedto'] feel ['mannerof'] recapture
+fort ['relatedto'] house ['atlocation'] garage ['atlocation'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['atlocation'] city ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['atlocation'] village ['relatedto'] feel ['mannerof'] recapture
+fort ['relatedto'] house ['relatedto', 'partof', 'atlocation'] library ['isa', 'relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto', 'atlocation'] mail ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto', 'atlocation'] mail ['isa'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['atlocation'] possession ['relatedto'] seizure ['isa'] recapture
+fort ['relatedto'] house ['atlocation'] sink ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+fort ['relatedto'] house ['atlocation'] stuff ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto', 'atlocation'] wardrobe ['isa', 'relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['atlocation'] wine_cellar ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['isa'] flat ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['isa'] band ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['isa'] tv_show ['isa'] rescue ['synonym'] recapture
+fort ['relatedto'] house ['isa'] play ['mannerof'] reprise ['relatedto'] recapture
+fort ['relatedto'] house ['madeof'] metal ['relatedto'] recovery ['isa'] recapture
+fort ['relatedto'] house ['relatedto'] cellar ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] debt ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] debt ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] es ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] property ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] grouping ['isa', 'relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] piece ['partof'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] harbor ['mannerof'] feel ['mannerof'] recapture
+fort ['relatedto'] house ['relatedto'] keep ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] nest ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] office ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] price ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] robbery ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] roof_tax ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] house ['relatedto'] wax ['relatedto'] feel ['mannerof'] recapture
+fort ['relatedto', 'atlocation'] army ['isa'] crowd ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['usedfor', 'relatedto'] defense ['isa'] collection ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] government ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] group ['isa', 'relatedto', 'synonym'] collection ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] national ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] organization ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] governmental ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] attack ['isa'] seizure ['isa'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] attack ['relatedto'] recovery ['isa'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] attack ['relatedto'] reprise ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] delta_force ['relatedto'] rescue ['synonym'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] duty ['isa', 'relatedto', 'synonym'] tax ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] march ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto', 'atlocation'] army ['relatedto'] salvation ['isa', 'relatedto'] rescue ['synonym'] recapture
+fort ['relatedto'] defence ['antonym', 'distinctfrom', 'relatedto'] attack ['isa'] seizure ['isa'] recapture
+fort ['relatedto'] defence ['antonym', 'distinctfrom', 'relatedto'] attack ['relatedto'] recovery ['isa'] recapture
+fort ['relatedto'] defence ['antonym', 'distinctfrom', 'relatedto'] attack ['relatedto'] reprise ['relatedto'] recapture
+fort ['relatedto'] defence ['formof', 'synonym'] defense ['isa'] collection ['relatedto'] recapture
+fort ['relatedto'] defence ['relatedto'] castle_guard ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] defence ['relatedto'] danger ['relatedto'] rescue ['synonym'] recapture
+fort ['relatedto'] defence ['relatedto'] ship_money ['relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] bank ['mannerof'] act ['isa'] recovery ['isa'] recapture
+fort ['relatedto'] bank ['relatedto'] rest ['relatedto'] recover ['synonym'] recapture
+fort ['relatedto'] bank ['relatedto'] rest ['relatedto'] recovery ['isa'] recapture
+fort ['relatedto'] bank ['atlocation'] human ['relatedto'] feel ['mannerof'] recapture
+fort ['relatedto'] bank ['isa'] array ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] bank ['relatedto', 'atlocation'] city ['relatedto'] collection ['relatedto'] recapture
+fort ['relatedto'] bank ['relatedto', 'atlocation'] money ['antonym', 'relatedto'] tax ['relatedto'] recapture
+fort ['relatedto'] bank ['isa', 'relatedto'] company ['isa'] feel ['mannerof'] recapture

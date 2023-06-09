@@ -1,0 +1,100 @@
+soldier ['atlocation'] trenches ['formof', 'relatedto'] trench
+soldier ['relatedto'] maconochie ['relatedto'] trench
+soldier ['relatedto'] slit_trench ['isa', 'relatedto', 'derivedfrom'] trench
+soldier ['relatedto'] present ['relatedto'] right ['relatedto'] trench
+soldier ['relatedto'] enemy ['relatedto'] warfare ['relatedto'] trench
+soldier ['relatedto'] man ['relatedto'] fortify ['mannerof'] trench
+soldier ['relatedto'] low ['relatedto', 'similarto', 'synonym'] deep ['relatedto', 'synonym'] trench
+soldier ['relatedto', 'partof'] army ['relatedto'] line ['relatedto'] trench
+soldier ['relatedto'] defend ['relatedto'] coffer ['relatedto'] trench
+soldier ['relatedto'] defend ['relatedto'] dig ['mannerof'] trench
+soldier ['relatedto'] bread ['relatedto'] coat ['relatedto'] trench
+soldier ['relatedto'] work ['relatedto'] counterapproach ['relatedto'] trench
+soldier ['relatedto'] gun ['relatedto'] chase ['relatedto'] trench
+soldier ['relatedto'] captain ['relatedto'] authority ['relatedto'] trench
+soldier ['synonym'] dog ['desires'] dig ['mannerof'] trench
+soldier ['synonym'] dog ['distinctfrom'] cut ['mannerof'] trench
+soldier ['synonym'] dog ['synonym'] chase ['relatedto'] trench
+soldier ['relatedto'] citizen ['relatedto'] right ['relatedto'] trench
+soldier ['atlocation'] trenches ['relatedto'] trench_knife ['derivedfrom'] trench
+soldier ['usedfor', 'relatedto', 'desires'] fight ['relatedto'] cut ['mannerof'] trench
+soldier ['isa', 'distinctfrom', 'relatedto'] warrior ['relatedto'] warfare ['relatedto'] trench
+soldier ['relatedto'] bayonet ['relatedto'] hole ['relatedto'] trench
+soldier ['relatedto'] crank ['relatedto'] perpendicular ['relatedto'] trench
+soldier ['relatedto'] digger ['etymologicallyrelatedto', 'relatedto'] dig ['mannerof'] trench
+soldier ['relatedto'] digger ['isa'] trencher ['etymologicallyrelatedto', 'relatedto'] trench
+soldier ['relatedto'] duty ['antonym'] right ['relatedto'] trench
+soldier ['relatedto'] file_closer ['relatedto'] line ['relatedto'] trench
+soldier ['relatedto'] fort ['relatedto', 'synonym'] fortify ['mannerof'] trench
+soldier ['relatedto'] general ['relatedto'] authority ['relatedto'] trench
+soldier ['usedfor', 'relatedto'] guard ['relatedto'] right ['relatedto'] trench
+soldier ['usedfor', 'relatedto'] guard ['relatedto'] authority ['relatedto'] trench
+soldier ['relatedto'] guerrilla ['relatedto'] warfare ['relatedto'] trench
+soldier ['relatedto'] infantry ['relatedto'] line ['relatedto'] trench
+soldier ['relatedto'] jack ['relatedto'] coat ['relatedto'] trench
+soldier ['relatedto'] jackman ['relatedto'] pit ['relatedto'] trench
+soldier ['relatedto'] mandilion ['relatedto'] coat ['relatedto'] trench
+soldier ['relatedto'] picket_line ['isa'] line ['relatedto'] trench
+soldier ['relatedto'] pioneer ['relatedto'] trenches ['formof', 'relatedto'] trench
+soldier ['relatedto'] pip ['relatedto'] pit ['relatedto'] trench
+soldier ['relatedto'] pivot ['relatedto'] line ['relatedto'] trench
+soldier ['relatedto'] rank ['isa', 'relatedto'] line ['relatedto'] trench
+soldier ['relatedto'] rebel ['relatedto'] authority ['relatedto'] trench
+soldier ['relatedto'] regiment ['relatedto'] authority ['relatedto'] trench
+soldier ['relatedto'] sagum ['relatedto'] rectangular ['relatedto'] trench
+soldier ['relatedto'] section ['relatedto'] cut ['mannerof'] trench
+soldier ['relatedto'] section ['relatedto'] tranche ['etymologicallyrelatedto', 'relatedto'] trench
+soldier ['relatedto'] shoulder ['relatedto'] put ['mannerof'] trench
+soldier ['relatedto'] shoulder ['isa'] cut ['mannerof'] trench
+soldier ['relatedto'] definition ['usedfor'] line ['relatedto'] trench
+soldier ['relatedto'] definition ['relatedto'] cut ['mannerof'] trench
+soldier ['usedfor', 'relatedto'] fighting ['usedfor'] pit ['relatedto'] trench
+soldier ['relatedto'] job ['relatedto'] cut ['mannerof'] trench
+soldier ['relatedto'] military ['relatedto'] trench_coat ['relatedto', 'derivedfrom'] trench
+soldier ['relatedto'] military ['relatedto'] warfare ['relatedto'] trench
+soldier ['usedfor', 'relatedto'] war ['isa'] trench_warfare ['relatedto', 'derivedfrom'] trench
+soldier ['usedfor', 'relatedto'] war ['relatedto', 'synonym'] warfare ['relatedto'] trench
+soldier ['relatedto'] kansas ['relatedto'] chase ['relatedto'] trench
+soldier ['relatedto'] officer ['relatedto'] cut ['mannerof'] trench
+soldier ['relatedto'] officer ['relatedto'] authority ['relatedto'] trench
+soldier ['relatedto'] warfarer ['relatedto', 'derivedfrom'] warfare ['relatedto'] trench
+soldier ['usedfor'] combat ['isa'] trench_warfare ['relatedto', 'derivedfrom'] trench
+soldier ['usedfor'] protection ['relatedto'] coat ['relatedto'] trench
+soldier ['usedfor'] protection ['relatedto'] moat ['isa'] trench
+soldier ['relatedto'] present ['relatedto', 'atlocation'] box ['relatedto'] rectangular ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto', 'atlocation'] box ['relatedto'] hole ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto', 'atlocation'] box ['relatedto'] sap ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto', 'atlocation'] box ['relatedto'] coffer ['relatedto'] trench
+soldier ['relatedto'] present ['mannerof'] state ['relatedto'] put ['mannerof'] trench
+soldier ['relatedto'] present ['mannerof'] state ['relatedto'] line ['relatedto'] trench
+soldier ['relatedto'] present ['mannerof', 'relatedto'] spin ['relatedto'] cut ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] always ['relatedto'] put ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] attend ['relatedto'] ditch ['isa', 'relatedto', 'synonym'] trench
+soldier ['relatedto'] present ['relatedto'] bill ['relatedto'] cut ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] bounce ['relatedto'] chase ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] break ['antonym'] put ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] break ['relatedto'] hole ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] break ['relatedto'] line ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] break ['relatedto'] cut ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] bring ['relatedto'] put ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] cake ['relatedto'] put ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] cake ['relatedto', 'receivesaction'] cut ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] cake ['relatedto', 'synonym'] coat ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] card ['relatedto'] rectangular ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto', 'synonym'] current ['relatedto'] right ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] favour ['relatedto'] trinket ['etymologicallyrelatedto'] trench
+soldier ['relatedto'] present ['relatedto'] former ['relatedto'] cut ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] hang ['relatedto'] put ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] hang ['relatedto'] grip ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] inhabit ['mannerof'] invade ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] keep ['relatedto'] coat ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] keep ['relatedto'] put ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] lake ['relatedto'] ditch ['isa', 'relatedto', 'synonym'] trench
+soldier ['relatedto'] present ['relatedto'] lake ['relatedto'] pit ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] lie ['mannerof', 'relatedto'] line ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] pass ['relatedto'] right ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] pass ['relatedto'] dig ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] pass ['mannerof'] cut ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] pass ['mannerof'] traverse ['relatedto'] trench
+soldier ['relatedto'] present ['relatedto'] birthday ['relatedto'] put ['mannerof'] trench
+soldier ['relatedto'] present ['relatedto'] bow ['relatedto'] cut ['mannerof'] trench

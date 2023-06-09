@@ -1,0 +1,100 @@
+pillow ['isa'] thing ['relatedto', 'synonym'] stuff
+pillow ['relatedto'] block ['synonym'] stuff
+pillow ['relatedto'] case ['relatedto'] stuff
+pillow ['relatedto'] cloud ['relatedto'] stuff
+pillow ['relatedto', 'synonym'] rest ['antonym', 'haslastsubevent', 'relatedto'] play ['relatedto'] stuff
+pillow ['relatedto', 'synonym'] rest ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] work ['relatedto'] stuff
+pillow ['relatedto', 'synonym'] rest ['relatedto', 'synonym'] break ['relatedto'] stuff
+pillow ['relatedto', 'synonym'] rest ['relatedto'] house ['atlocation'] stuff
+pillow ['relatedto', 'synonym'] rest ['relatedto'] price ['relatedto'] stuff
+pillow ['relatedto', 'synonym'] rest ['relatedto'] evening ['relatedto'] stuff
+pillow ['relatedto', 'synonym'] rest ['relatedto'] middle ['relatedto'] stuff
+pillow ['relatedto', 'synonym'] rest ['relatedto'] stop ['etymologicallyrelatedto'] stuff
+pillow ['relatedto', 'synonym'] rest ['relatedto'] rice ['relatedto'] stuff
+pillow ['relatedto'] sleep ['relatedto'] evening ['relatedto'] stuff
+pillow ['relatedto'] sleep ['hasprerequisite'] shop ['relatedto'] stuff
+pillow ['relatedto'] sleep ['relatedto'] bear ['relatedto'] stuff
+pillow ['usedfor', 'relatedto'] sleeping ['relatedto'] bear ['relatedto'] stuff
+pillow ['atlocation'] home ['relatedto'] earth ['relatedto'] stuff
+pillow ['atlocation'] home ['isa', 'mannerof', 'relatedto', 'similarto'] house ['atlocation'] stuff
+pillow ['atlocation'] home ['antonym'] business ['relatedto'] stuff
+pillow ['atlocation'] home ['antonym', 'relatedto'] garden ['relatedto'] stuff
+pillow ['atlocation'] home ['antonym', 'distinctfrom', 'relatedto'] work ['relatedto'] stuff
+pillow ['atlocation'] home ['atlocation'] attic ['atlocation'] stuff
+pillow ['atlocation'] home ['atlocation'] ferret ['atlocation'] stuff
+pillow ['atlocation'] home ['atlocation'] poet ['relatedto'] stuff
+pillow ['atlocation'] home ['atlocation'] shoes ['atlocation'] stuff
+pillow ['atlocation'] home ['relatedto'] cloud ['relatedto'] stuff
+pillow ['atlocation'] home ['relatedto'] farm ['relatedto'] stuff
+pillow ['atlocation'] home ['relatedto'] guard ['relatedto'] stuff
+pillow ['atlocation'] home ['relatedto'] box ['relatedto', 'atlocation'] stuff
+pillow ['atlocation'] home ['relatedto'] property ['relatedto'] stuff
+pillow ['atlocation'] home ['relatedto'] care ['relatedto'] stuff
+pillow ['atlocation'] home ['relatedto'] robbery ['relatedto'] stuff
+pillow ['atlocation'] home ['relatedto'] table ['atlocation'] stuff
+pillow ['relatedto'] cover ['isa'] fire ['relatedto'] stuff
+pillow ['relatedto'] cover ['mannerof'] bread ['relatedto'] stuff
+pillow ['relatedto'] cover ['mannerof'] play ['relatedto'] stuff
+pillow ['relatedto'] cover ['mannerof', 'relatedto'] frost ['relatedto'] stuff
+pillow ['relatedto'] cover ['mannerof', 'relatedto'] grass ['relatedto'] stuff
+pillow ['relatedto'] cover ['mannerof'] oil ['relatedto'] stuff
+pillow ['relatedto'] cover ['mannerof', 'relatedto'] paper ['relatedto'] stuff
+pillow ['relatedto'] cover ['mannerof'] paste ['relatedto'] stuff
+pillow ['relatedto'] cover ['mannerof'] wax ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] case ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] cloud ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] view ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] money ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] glass ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] ink ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] sand ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] stocking ['relatedto'] stuff
+pillow ['relatedto'] cover ['relatedto'] table ['atlocation'] stuff
+pillow ['relatedto'] cover ['relatedto'] wool ['relatedto'] stuff
+pillow ['relatedto'] bed ['relatedto', 'atlocation'] house ['atlocation'] stuff
+pillow ['relatedto'] bed ['atlocation'] bag ['relatedto'] stuff
+pillow ['relatedto'] bed ['atlocation'] clothes ['relatedto'] stuff
+pillow ['relatedto'] bed ['relatedto', 'atlocation'] coal ['relatedto'] stuff
+pillow ['relatedto'] bed ['atlocation'] shoes ['atlocation'] stuff
+pillow ['relatedto'] bed ['atlocation'] trash ['relatedto'] stuff
+pillow ['relatedto'] bed ['relatedto'] box ['relatedto', 'atlocation'] stuff
+pillow ['relatedto'] bed ['relatedto'] pad ['mannerof', 'relatedto'] stuff
+pillow ['relatedto'] bed ['relatedto'] table ['atlocation'] stuff
+pillow ['relatedto'] bed ['relatedto'] thing ['relatedto', 'synonym'] stuff
+pillow ['relatedto'] bed ['relatedto'] wood ['relatedto'] stuff
+pillow ['relatedto'] bed ['relatedto'] deposit ['relatedto'] stuff
+pillow ['relatedto'] bed ['relatedto'] sand ['relatedto'] stuff
+pillow ['relatedto'] bed ['relatedto'] garden ['relatedto'] stuff
+pillow ['relatedto'] bed ['relatedto'] stock ['relatedto'] stuff
+pillow ['atlocation'] bedroom ['relatedto', 'atlocation'] house ['atlocation'] stuff
+pillow ['atlocation'] bedroom ['atlocation'] clothes ['relatedto'] stuff
+pillow ['atlocation'] bedroom ['atlocation'] desk ['relatedto'] stuff
+pillow ['atlocation'] bedroom ['atlocation'] table ['atlocation'] stuff
+pillow ['atlocation'] bedroom ['relatedto'] doll ['relatedto'] stuff
+pillow ['atlocation'] bedroom ['relatedto'] toy ['relatedto'] stuff
+pillow ['atlocation'] room ['relatedto'] house ['atlocation'] stuff
+pillow ['atlocation'] room ['relatedto', 'atlocation'] table ['atlocation'] stuff
+pillow ['atlocation'] room ['relatedto'] department ['relatedto'] stuff
+pillow ['atlocation'] room ['relatedto'] desk ['relatedto'] stuff
+pillow ['atlocation'] room ['relatedto'] doll ['relatedto'] stuff
+pillow ['atlocation'] room ['relatedto'] gym ['relatedto'] stuff
+pillow ['atlocation'] room ['relatedto'] play ['relatedto'] stuff
+pillow ['atlocation'] room ['relatedto'] box ['relatedto', 'atlocation'] stuff
+pillow ['atlocation'] room ['relatedto'] view ['relatedto'] stuff
+pillow ['atlocation'] room ['relatedto'] toy ['relatedto'] stuff
+pillow ['isa'] thing ['isa'] earth ['relatedto'] stuff
+pillow ['isa'] thing ['isa'] house ['atlocation'] stuff
+pillow ['isa'] thing ['relatedto'] science ['relatedto'] stuff
+pillow ['isa'] thing ['formof'] things ['isa', 'relatedto', 'synonym'] stuff
+pillow ['isa'] thing ['isa'] horror ['relatedto'] stuff
+pillow ['isa'] thing ['isa'] substance ['relatedto'] stuff
+pillow ['isa'] thing ['motivatedbygoal'] buy ['relatedto'] stuff
+pillow ['isa'] thing ['relatedto'] anything ['atlocation'] stuff
+pillow ['isa'] thing ['relatedto'] box ['relatedto', 'atlocation'] stuff
+pillow ['isa'] thing ['relatedto'] desk ['relatedto'] stuff
+pillow ['isa'] thing ['relatedto'] machine ['relatedto'] stuff
+pillow ['isa'] thing ['relatedto'] paper ['relatedto'] stuff
+pillow ['isa'] thing ['relatedto'] play ['relatedto'] stuff
+pillow ['isa'] thing ['relatedto', 'synonym'] property ['relatedto'] stuff
+pillow ['isa'] thing ['relatedto'] sand ['relatedto'] stuff
+pillow ['isa'] thing ['relatedto'] shit ['relatedto'] stuff

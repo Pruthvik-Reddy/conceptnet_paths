@@ -1,0 +1,100 @@
+child ['atlocation'] pen ['relatedto'] crawl
+child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto'] crawl
+child ['relatedto'] human ['relatedto'] crawl
+child ['relatedto'] infant ['relatedto'] crawl
+child ['relatedto'] crawler ['relatedto', 'derivedfrom'] crawl
+child ['relatedto'] ground ['relatedto'] crawl
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['relatedto'] crawl
+child ['antonym', 'relatedto'] adopt ['relatedto'] baby ['relatedto'] crawl
+child ['createdby'] birth ['relatedto'] baby ['relatedto'] crawl
+child ['createdby'] birth ['relatedto'] infant ['relatedto'] crawl
+child ['antonym', 'distinctfrom', 'relatedto'] adult ['antonym', 'distinctfrom'] baby ['relatedto'] crawl
+child ['antonym', 'distinctfrom', 'relatedto'] adult ['relatedto'] human ['relatedto'] crawl
+child ['antonym', 'relatedto'] mother ['relatedto'] human ['relatedto'] crawl
+child ['antonym', 'relatedto'] mother ['relatedto'] baby ['relatedto'] crawl
+child ['antonym', 'relatedto'] mother ['relatedto'] babies ['relatedto'] crawl
+child ['antonym', 'relatedto'] father ['relatedto'] human ['relatedto'] crawl
+child ['antonym', 'relatedto'] father ['relatedto'] baby ['relatedto'] crawl
+child ['relatedto', 'partof', 'atlocation'] family ['relatedto', 'atlocation'] human ['relatedto'] crawl
+child ['relatedto', 'partof', 'atlocation'] family ['relatedto'] baby ['relatedto'] crawl
+child ['atlocation'] pen ['isa', 'synonym'] corral ['relatedto'] crawl
+child ['atlocation'] pen ['isa'] creep ['relatedto', 'synonym'] crawl
+child ['atlocation'] pen ['isa'] kraal ['etymologicallyrelatedto', 'relatedto'] crawl
+child ['atlocation'] pen ['isa'] enclosure ['relatedto'] crawl
+child ['atlocation'] pen ['relatedto'] draw ['relatedto'] crawl
+child ['atlocation'] pen ['relatedto'] stroke ['relatedto'] crawl
+child ['relatedto', 'atlocation'] school ['atlocation'] human ['relatedto'] crawl
+child ['relatedto', 'atlocation'] school ['relatedto'] fish ['relatedto'] crawl
+child ['relatedto', 'atlocation'] school ['isa'] body ['relatedto'] crawl
+child ['relatedto', 'atlocation'] school ['atlocation'] pen ['relatedto'] crawl
+child ['relatedto', 'atlocation'] school ['mannerof'] swim ['mannerof', 'relatedto'] crawl
+child ['relatedto', 'atlocation'] school ['relatedto'] travel ['mannerof'] crawl
+child ['capableof'] breathe ['hasprerequisite'] run ['antonym'] crawl
+child ['capableof'] eat_spaghetti ['capableof'] human ['relatedto'] crawl
+child ['capableof'] fly_kite ['haslastsubevent'] ground ['relatedto'] crawl
+child ['capableof', 'desires'] learn ['relatedto'] action ['relatedto'] crawl
+child ['capableof', 'desires'] learn ['relatedto'] swim ['mannerof', 'relatedto'] crawl
+child ['capableof'] leave_home ['relatedto'] move ['relatedto'] crawl
+child ['capableof'] pain ['atlocation'] human ['relatedto'] crawl
+child ['capableof'] pain ['relatedto', 'atlocation'] body ['relatedto'] crawl
+child ['capableof'] pain ['antonym', 'relatedto'] feel ['mannerof'] crawl
+child ['capableof'] play_game ['capableof'] human ['relatedto'] crawl
+child ['capableof'] row_boat ['capableof'] human ['relatedto'] crawl
+child ['capableof'] take_bath ['capableof'] human ['relatedto'] crawl
+child ['capableof'] tie_shoes ['hasprerequisite'] walk ['antonym', 'relatedto'] crawl
+child ['capableof'] tie_shoes ['hasprerequisite'] run ['antonym'] crawl
+child ['capableof'] turn_doorknob ['capableof'] hand ['relatedto'] crawl
+child ['capableof'] walk_dog ['capableof'] human ['relatedto'] crawl
+child ['capableof'] walk_dog ['relatedto'] walk ['antonym', 'relatedto'] crawl
+child ['capableof'] wave_bye_bye ['capableof'] babies ['relatedto'] crawl
+child ['capableof'] whine ['mannerof'] travel ['mannerof'] crawl
+child ['capableof'] wind_toy ['capableof'] human ['relatedto'] crawl
+child ['createdby', 'relatedto'] parents ['hasa', 'createdby'] human ['relatedto'] crawl
+child ['createdby', 'relatedto'] parents ['relatedto'] baby ['relatedto'] crawl
+child ['createdby', 'relatedto'] parents ['createdby'] babies ['relatedto'] crawl
+child ['desires'] balloon ['relatedto'] body ['relatedto'] crawl
+child ['desires'] love ['relatedto', 'atlocation'] human ['relatedto'] crawl
+child ['desires'] love ['synonym'] baby ['relatedto'] crawl
+child ['desires'] love ['relatedto'] climb ['relatedto'] crawl
+child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto'] human ['relatedto'] crawl
+child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['formof', 'relatedto'] babies ['relatedto'] crawl
+child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto', 'synonym'] infant ['relatedto'] crawl
+child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto'] fawn ['synonym'] crawl
+child ['formof', 'relatedto'] children ['capableof'] walk ['antonym', 'relatedto'] crawl
+child ['formof', 'relatedto'] children ['relatedto'] baby ['relatedto'] crawl
+child ['formof', 'relatedto'] children ['relatedto'] babies ['relatedto'] crawl
+child ['formof', 'relatedto'] children ['relatedto'] human ['relatedto'] crawl
+child ['relatedto', 'hasprerequisite'] play ['isa', 'relatedto'] action ['relatedto'] crawl
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] ground ['relatedto'] crawl
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] fish ['relatedto'] crawl
+child ['relatedto', 'hasprerequisite'] play ['mannerof'] walk ['antonym', 'relatedto'] crawl
+child ['relatedto', 'hasprerequisite'] play ['mannerof', 'relatedto', 'entails'] move ['relatedto'] crawl
+child ['relatedto', 'hasprerequisite'] play ['mannerof'] travel ['mannerof'] crawl
+child ['relatedto', 'hasprerequisite'] play ['synonym'] run ['antonym'] crawl
+child ['isa', 'relatedto', 'synonym'] bairn ['relatedto'] baby ['relatedto'] crawl
+child ['isa', 'relatedto'] boy ['relatedto'] human ['relatedto'] crawl
+child ['isa', 'relatedto'] boy ['relatedto'] baby ['relatedto'] crawl
+child ['isa', 'relatedto'] boy ['relatedto'] hand ['relatedto'] crawl
+child ['isa'] buster ['relatedto'] crab ['etymologicallyrelatedto'] crawl
+child ['isa'] changeling ['relatedto'] infant ['relatedto'] crawl
+child ['isa'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] crawl
+child ['isa'] animal ['isa'] coon ['relatedto'] crawl
+child ['isa'] animal ['isa', 'relatedto'] crab ['etymologicallyrelatedto'] crawl
+child ['isa'] animal ['isa', 'relatedto'] fish ['relatedto'] crawl
+child ['isa'] animal ['isa', 'relatedto'] worm ['relatedto'] crawl
+child ['isa'] animal ['relatedto'] body ['relatedto'] crawl
+child ['isa'] animal ['relatedto'] movement ['relatedto'] crawl
+child ['isa'] animal ['relatedto'] baby ['relatedto'] crawl
+child ['isa'] animal ['relatedto'] fawn ['synonym'] crawl
+child ['isa'] animal ['relatedto'] move ['relatedto'] crawl
+child ['isa', 'relatedto'] juvenile ['isa'] human ['relatedto'] crawl
+child ['isa', 'relatedto'] young_human ['isa'] human ['relatedto'] crawl
+child ['isa', 'relatedto'] young_human ['relatedto'] baby ['relatedto'] crawl
+child ['isa', 'relatedto', 'synonym'] offspring ['isa', 'relatedto', 'synonym'] baby ['relatedto'] crawl
+child ['isa', 'relatedto', 'synonym'] offspring ['isa'] babies ['relatedto'] crawl
+child ['isa', 'relatedto'] daughter ['relatedto'] human ['relatedto'] crawl
+child ['isa', 'relatedto'] daughter ['relatedto'] baby ['relatedto'] crawl
+child ['isa'] everyone ['relatedto'] human ['relatedto'] crawl
+child ['isa'] everyone ['hasa', 'relatedto'] body ['relatedto'] crawl
+child ['isa'] everyone ['relatedto'] walk ['antonym', 'relatedto'] crawl
+child ['isa', 'relatedto'] girl ['relatedto'] human ['relatedto'] crawl

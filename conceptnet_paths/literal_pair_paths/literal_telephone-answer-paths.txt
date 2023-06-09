@@ -1,0 +1,100 @@
+telephone ['isa', 'relatedto', 'synonym'] call ['antonym', 'relatedto'] answer
+telephone ['relatedto'] line ['relatedto'] answer
+telephone ['relatedto'] information ['relatedto'] answer
+telephone ['relatedto'] pickup ['relatedto'] answer
+telephone ['relatedto'] autoanswer ['relatedto'] answer
+telephone ['relatedto'] call_back ['mannerof'] answer
+telephone ['relatedto'] home ['relatedto', 'atlocation'] field ['mannerof', 'relatedto'] answer
+telephone ['relatedto'] home ['mannerof'] return ['relatedto'] answer
+telephone ['relatedto'] home ['relatedto'] call ['antonym', 'relatedto'] answer
+telephone ['relatedto'] home ['relatedto'] key ['relatedto'] answer
+telephone ['relatedto'] home ['relatedto'] line ['relatedto'] answer
+telephone ['relatedto'] square ['relatedto'] agreement ['relatedto'] answer
+telephone ['relatedto'] square ['relatedto', 'atlocation'] line ['relatedto'] answer
+telephone ['relatedto'] square ['mannerof'] match ['mannerof'] answer
+telephone ['relatedto'] square ['relatedto'] light ['relatedto'] answer
+telephone ['relatedto'] square ['relatedto'] field ['mannerof', 'relatedto'] answer
+telephone ['relatedto'] square ['relatedto'] harmony ['relatedto'] answer
+telephone ['relatedto'] square ['relatedto'] product ['relatedto'] answer
+telephone ['relatedto'] square ['relatedto'] resolve ['synonym'] answer
+telephone ['relatedto'] bell ['relatedto'] time ['relatedto'] answer
+telephone ['relatedto'] bill ['relatedto'] wrong ['antonym'] answer
+telephone ['relatedto'] bill ['isa', 'relatedto'] document ['relatedto'] answer
+telephone ['relatedto'] bill ['isa', 'relatedto'] statement ['isa', 'relatedto'] answer
+telephone ['relatedto'] bill ['relatedto', 'synonym'] account ['relatedto'] answer
+telephone ['relatedto'] bill ['relatedto'] comes ['relatedto'] answer
+telephone ['relatedto'] bill ['relatedto'] giving ['relatedto'] answer
+telephone ['relatedto'] bill ['relatedto'] propose ['relatedto'] answer
+telephone ['relatedto'] bill ['relatedto'] state ['mannerof'] answer
+telephone ['relatedto'] bill ['relatedto'] sum ['relatedto'] answer
+telephone ['relatedto'] block ['relatedto'] shade ['relatedto'] answer
+telephone ['relatedto'] board ['relatedto'] right ['relatedto'] answer
+telephone ['relatedto'] board ['relatedto'] field ['mannerof', 'relatedto'] answer
+telephone ['relatedto'] board ['relatedto'] product ['relatedto'] answer
+telephone ['relatedto'] board ['relatedto'] light ['relatedto'] answer
+telephone ['relatedto'] board ['relatedto'] riddle ['relatedto'] answer
+telephone ['relatedto'] bring ['mannerof', 'relatedto'] return ['relatedto'] answer
+telephone ['relatedto'] cable ['relatedto'] bridle ['mannerof'] answer
+telephone ['relatedto'] cable ['synonym'] line ['relatedto'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['mannerof', 'relatedto'] ask ['antonym', 'relatedto'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['relatedto'] question ['antonym', 'distinctfrom', 'relatedto', 'desires'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['antonym'] respond ['relatedto', 'synonym'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['antonym', 'relatedto'] response ['relatedto', 'synonym'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['causes'] meet ['mannerof'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['isa', 'derivedfrom'] call_back ['mannerof'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['relatedto'] autoanswer ['relatedto'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['relatedto'] state ['mannerof'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['relatedto'] match ['mannerof'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['relatedto'] return ['relatedto'] answer
+telephone ['isa', 'relatedto', 'synonym'] call ['usedfor'] giving_information ['relatedto'] answer
+telephone ['etymologicallyrelatedto', 'relatedto'] cell ['relatedto'] call ['antonym', 'relatedto'] answer
+telephone ['etymologicallyrelatedto', 'relatedto'] cell ['antonym'] line ['relatedto'] answer
+telephone ['relatedto'] line ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+telephone ['relatedto'] line ['isa'] bottom_line ['relatedto'] answer
+telephone ['relatedto'] line ['relatedto'] bridle ['mannerof'] answer
+telephone ['relatedto'] line ['relatedto'] product ['relatedto'] answer
+telephone ['relatedto'] line ['relatedto'] sentence ['relatedto'] answer
+telephone ['relatedto'] line ['relatedto'] state ['mannerof'] answer
+telephone ['relatedto'] line ['relatedto'] return ['relatedto'] answer
+telephone ['relatedto'] line ['usedfor'] pickup ['relatedto'] answer
+telephone ['usedfor', 'relatedto'] communication ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+telephone ['usedfor', 'relatedto'] communication ['usedfor', 'relatedto'] call ['antonym', 'relatedto'] answer
+telephone ['usedfor', 'relatedto'] communication ['relatedto'] line ['relatedto'] answer
+telephone ['usedfor', 'relatedto'] communication ['isa'] document ['relatedto'] answer
+telephone ['usedfor', 'relatedto'] communication ['relatedto'] information ['relatedto'] answer
+telephone ['usedfor', 'relatedto'] communication ['relatedto'] explain ['relatedto'] answer
+telephone ['usedfor', 'relatedto'] communication ['relatedto'] say ['relatedto'] answer
+telephone ['relatedto'] connect ['relatedto'] line ['relatedto'] answer
+telephone ['relatedto'] connect ['relatedto'] meet ['mannerof'] answer
+telephone ['relatedto'] terminal ['relatedto'] time ['relatedto'] answer
+telephone ['relatedto'] terminal ['relatedto'] sentence ['relatedto'] answer
+telephone ['relatedto'] talk ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+telephone ['relatedto'] talk ['relatedto'] call ['antonym', 'relatedto'] answer
+telephone ['relatedto'] talk ['antonym', 'distinctfrom', 'relatedto', 'similarto', 'haslastsubevent', 'hasprerequisite', 'motivatedbygoal'] listen ['haslastsubevent'] answer
+telephone ['relatedto'] talk ['derivedfrom'] talk_back ['relatedto'] answer
+telephone ['relatedto'] talk ['hasprerequisite'] think ['motivatedbygoal'] answer
+telephone ['relatedto'] talk ['motivatedbygoal', 'relatedto'] explain ['relatedto'] answer
+telephone ['relatedto'] talk ['motivatedbygoal', 'relatedto'] say ['relatedto'] answer
+telephone ['relatedto'] talk ['relatedto'] reason ['relatedto'] answer
+telephone ['relatedto'] talk ['relatedto'] sass ['mannerof'] answer
+telephone ['isa'] extension ['relatedto'] return ['relatedto'] answer
+telephone ['atlocation'] desk ['atlocation'] light ['relatedto'] answer
+telephone ['atlocation'] desk ['relatedto'] return ['relatedto'] answer
+telephone ['relatedto'] wire ['relatedto'] line ['relatedto'] answer
+telephone ['relatedto'] information ['relatedto'] ask ['antonym', 'relatedto'] answer
+telephone ['relatedto'] information ['relatedto'] question ['antonym', 'distinctfrom', 'relatedto', 'desires'] answer
+telephone ['relatedto'] information ['motivatedbygoal'] compute_sum ['motivatedbygoal'] answer
+telephone ['relatedto'] information ['relatedto'] account ['relatedto'] answer
+telephone ['relatedto'] information ['relatedto'] ban ['relatedto'] answer
+telephone ['relatedto'] information ['relatedto'] complaint ['relatedto'] answer
+telephone ['relatedto'] information ['relatedto'] learning ['relatedto'] answer
+telephone ['relatedto'] information ['usedfor'] reading_letter ['causes'] answer
+telephone ['relatedto'] pickup ['usedfor'] line ['relatedto'] answer
+telephone ['relatedto'] pickup ['relatedto'] field ['mannerof', 'relatedto'] answer
+telephone ['relatedto'] numbers ['relatedto'] time ['relatedto'] answer
+telephone ['relatedto'] numbers ['relatedto'] account ['relatedto'] answer
+telephone ['relatedto'] numbers ['relatedto'] product ['relatedto'] answer
+telephone ['atlocation'] voice ['relatedto'] harmony ['relatedto'] answer
+telephone ['atlocation'] voice ['relatedto'] call ['antonym', 'relatedto'] answer
+telephone ['atlocation'] voice ['relatedto'] listen ['haslastsubevent'] answer

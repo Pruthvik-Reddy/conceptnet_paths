@@ -1,0 +1,100 @@
+garlic ['relatedto'] food ['relatedto'] taste
+garlic ['relatedto'] smell ['antonym', 'distinctfrom', 'relatedto'] taste
+garlic ['isa', 'relatedto'] flavor ['relatedto'] taste
+garlic ['relatedto'] pungent ['relatedto'] taste
+garlic ['relatedto'] seasoning ['relatedto'] taste
+garlic ['relatedto'] flavour ['relatedto'] taste
+garlic ['relatedto'] ground ['relatedto'] small ['relatedto'] taste
+garlic ['relatedto'] ground ['relatedto'] type ['relatedto'] taste
+garlic ['relatedto'] ground ['relatedto'] body ['relatedto'] taste
+garlic ['relatedto'] vegetable ['distinctfrom'] chicken ['relatedto'] taste
+garlic ['relatedto'] vegetable ['isa'] radish ['relatedto'] taste
+garlic ['relatedto'] vegetable ['isa', 'relatedto'] food ['relatedto'] taste
+garlic ['relatedto'] vegetable ['relatedto'] dip ['relatedto'] taste
+garlic ['relatedto'] vegetable ['relatedto'] empyreuma ['relatedto'] taste
+garlic ['relatedto'] vegetable ['relatedto'] ginger ['relatedto'] taste
+garlic ['relatedto'] vegetable ['relatedto'] relish ['isa', 'relatedto'] taste
+garlic ['relatedto'] vegetable ['relatedto'] rice ['relatedto'] taste
+garlic ['relatedto'] vegetable ['relatedto'] soup ['relatedto'] taste
+garlic ['relatedto'] vegetable ['relatedto'] body ['relatedto'] taste
+garlic ['relatedto'] vegetable ['relatedto'] culinary ['relatedto'] taste
+garlic ['relatedto'] food ['isa'] good ['relatedto'] taste
+garlic ['relatedto'] food ['antonym', 'distinctfrom', 'relatedto'] drink ['relatedto'] taste
+garlic ['relatedto'] food ['antonym', 'isa', 'relatedto'] soup ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto', 'atlocation'] mouth ['relatedto', 'atlocation'] taste
+garlic ['relatedto'] food ['usedfor', 'relatedto', 'atlocation'] salt ['isa', 'relatedto'] taste
+garlic ['relatedto'] food ['capableof', 'isa', 'relatedto'] chicken ['relatedto'] taste
+garlic ['relatedto'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['relatedto'] taste
+garlic ['relatedto'] food ['distinctfrom', 'relatedto'] poison ['relatedto'] taste
+garlic ['relatedto'] food ['formof', 'relatedto'] foods ['relatedto'] taste
+garlic ['relatedto'] food ['usedfor', 'relatedto', 'hasprerequisite'] eating ['relatedto'] taste
+garlic ['relatedto'] food ['isa', 'relatedto'] cake ['relatedto'] taste
+garlic ['relatedto'] food ['motivatedbygoal'] cook_meal ['haslastsubevent'] taste
+garlic ['relatedto'] food ['relatedto'] cinnamon ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] cream ['hasa'] taste
+garlic ['relatedto'] food ['relatedto'] delicacy ['isa', 'relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] dip ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] flavor_enhancer ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] flavour ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] fletcherism ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] ginger ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] helping ['partof'] taste
+garlic ['relatedto'] food ['relatedto'] morsel ['isa'] taste
+garlic ['relatedto'] food ['relatedto'] radish ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] rice ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] season ['causes'] taste
+garlic ['relatedto'] food ['relatedto'] seasoning ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] sugar ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] swallow ['isa'] taste
+garlic ['relatedto'] food ['relatedto'] sweetener ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] taste_pore ['relatedto'] taste
+garlic ['relatedto'] food ['relatedto'] tasting ['formof', 'relatedto', 'synonym'] taste
+garlic ['relatedto'] food ['relatedto'] tongue ['relatedto'] taste
+garlic ['relatedto'] food ['usedfor'] body ['relatedto'] taste
+garlic ['relatedto'] food ['usedfor'] eating_vegetables ['usedfor'] taste
+garlic ['relatedto'] white ['relatedto', 'similarto'] good ['relatedto'] taste
+garlic ['relatedto'] white ['relatedto', 'hasproperty'] rice ['relatedto'] taste
+garlic ['relatedto'] white ['relatedto'] cake ['relatedto'] taste
+garlic ['relatedto'] white ['relatedto'] chicken ['relatedto'] taste
+garlic ['relatedto'] white ['relatedto'] cream ['hasa'] taste
+garlic ['relatedto'] white ['relatedto'] judge ['relatedto'] taste
+garlic ['relatedto'] white ['relatedto'] leaf_lard ['relatedto'] taste
+garlic ['relatedto'] white ['relatedto'] poison ['relatedto'] taste
+garlic ['relatedto'] white ['relatedto'] salt ['isa', 'relatedto'] taste
+garlic ['relatedto'] white ['relatedto'] sugar ['relatedto'] taste
+garlic ['relatedto'] white ['relatedto'] tooth ['relatedto'] taste
+garlic ['relatedto'] spicy ['hasproperty'] food ['relatedto'] taste
+garlic ['relatedto'] spicy ['antonym', 'distinctfrom'] bland ['antonym', 'relatedto'] taste
+garlic ['relatedto'] spicy ['isa'] season ['causes'] taste
+garlic ['relatedto'] spicy ['relatedto'] ginger ['relatedto'] taste
+garlic ['relatedto'] spicy ['relatedto'] pungent ['relatedto'] taste
+garlic ['relatedto'] spicy ['relatedto'] zesty ['relatedto'] taste
+garlic ['relatedto'] spicy ['relatedto'] tang ['relatedto'] taste
+garlic ['relatedto'] spicy ['relatedto'] thrum ['relatedto'] taste
+garlic ['relatedto'] spicy ['similarto'] tasty ['relatedto', 'derivedfrom'] taste
+garlic ['relatedto'] strong ['relatedto'] sense ['isa', 'relatedto'] taste
+garlic ['relatedto'] strong ['relatedto'] good ['relatedto'] taste
+garlic ['relatedto'] strong ['relatedto'] bitter ['isa', 'relatedto', 'partof'] taste
+garlic ['relatedto'] strong ['antonym', 'relatedto', 'synonym'] weak ['relatedto'] taste
+garlic ['relatedto'] strong ['relatedto'] ginger ['relatedto'] taste
+garlic ['relatedto'] strong ['relatedto'] gust ['relatedto'] taste
+garlic ['relatedto'] strong ['relatedto'] pungent ['relatedto'] taste
+garlic ['relatedto'] strong ['relatedto', 'synonym'] rank ['relatedto'] taste
+garlic ['relatedto'] strong ['relatedto'] tang ['relatedto'] taste
+garlic ['relatedto'] strong ['relatedto'] tongue ['relatedto'] taste
+garlic ['relatedto'] strong ['similarto'] sound ['distinctfrom'] taste
+garlic ['relatedto'] killing ['hasproperty'] bad ['relatedto'] taste
+garlic ['relatedto'] killing ['usedfor'] eating ['relatedto'] taste
+garlic ['relatedto'] killing ['relatedto'] nose ['relatedto'] taste
+garlic ['relatedto'] killing ['usedfor'] tooth ['relatedto'] taste
+garlic ['relatedto'] killing ['relatedto'] poison ['relatedto'] taste
+garlic ['relatedto'] ketchup ['isa'] food ['relatedto'] taste
+garlic ['relatedto'] ketchup ['relatedto'] sweetener ['relatedto'] taste
+garlic ['relatedto'] ketchup ['relatedto'] vinegar ['relatedto'] taste
+garlic ['relatedto'] smell ['relatedto'] purpose ['relatedto'] taste
+garlic ['relatedto'] smell ['relatedto'] action ['relatedto'] taste
+garlic ['relatedto'] smell ['relatedto'] human ['relatedto'] taste
+garlic ['relatedto'] smell ['antonym', 'distinctfrom'] sight ['antonym', 'distinctfrom', 'relatedto'] taste
+garlic ['relatedto'] smell ['relatedto', 'synonym'] sense ['isa', 'relatedto'] taste
+garlic ['relatedto'] smell ['antonym', 'distinctfrom'] hear ['distinctfrom'] taste
+garlic ['relatedto'] smell ['relatedto'] bad ['relatedto'] taste

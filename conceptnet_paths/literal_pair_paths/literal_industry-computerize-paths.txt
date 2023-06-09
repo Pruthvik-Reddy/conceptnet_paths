@@ -1,0 +1,100 @@
+industry ['relatedto'] business ['isa', 'relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] line ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] line ['relatedto'] enter ['relatedto'] computerize
+industry ['relatedto'] line ['relatedto'] supply ['mannerof'] computerize
+industry ['relatedto', 'atlocation'] city ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] company ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] construction ['relatedto'] manual ['relatedto'] computerize
+industry ['relatedto', 'atlocation'] factory ['relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] game ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] game ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] game ['relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] goods ['relatedto', 'atlocation'] store ['mannerof'] computerize
+industry ['relatedto', 'synonym'] manufacture ['etymologicallyrelatedto', 'relatedto'] manual ['relatedto'] computerize
+industry ['isa'] production ['relatedto'] function ['relatedto'] computerize
+industry ['hasproperty'] en ['derivedfrom'] data ['relatedto'] computerize
+industry ['relatedto'] trade ['relatedto'] system ['relatedto'] computerize
+industry ['isa'] market ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] joint ['mannerof'] supply ['mannerof'] computerize
+industry ['atlocation'] machinery ['usedfor', 'relatedto'] function ['relatedto'] computerize
+industry ['atlocation'] machinery ['isa'] system ['relatedto'] computerize
+industry ['relatedto'] beerage ['relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] economic ['relatedto'] supply ['mannerof'] computerize
+industry ['relatedto'] tool ['mannerof'] supply ['mannerof'] computerize
+industry ['relatedto'] tool ['isa'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] tool ['relatedto'] equip ['relatedto'] computerize
+industry ['relatedto'] linear_programming ['relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] scheduling ['relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] scheduling ['relatedto'] computing ['relatedto'] computerize
+industry ['relatedto'] dip ['atlocation'] water ['mannerof'] supply ['mannerof'] computerize
+industry ['relatedto'] dip ['relatedto'] food ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] dip ['relatedto'] chip ['relatedto', 'partof'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] dip ['relatedto'] crackers ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] dip ['relatedto'] party ['relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] dip ['relatedto'] party ['relatedto'] enter ['relatedto'] computerize
+industry ['relatedto'] dip ['relatedto'] taste ['relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] dip ['relatedto'] tank ['relatedto'] supply ['mannerof'] computerize
+industry ['relatedto'] dip ['relatedto'] tank ['mannerof'] store ['mannerof'] computerize
+industry ['relatedto'] dip ['relatedto'] engine ['relatedto'] supply ['mannerof'] computerize
+industry ['relatedto'] dip ['relatedto'] engine ['relatedto'] equip ['relatedto'] computerize
+industry ['relatedto'] dip ['relatedto'] flag ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] dip ['relatedto'] double ['mannerof'] function ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] professional ['relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] house ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['relatedto'] house ['synonym'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] first_class ['relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] bank ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] business ['isa', 'relatedto'] bar ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] top ['mannerof'] supply ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] board ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] board ['mannerof', 'relatedto'] enter ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] root ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] work ['mannerof'] cybernate ['synonym'] computerize
+industry ['relatedto'] business ['relatedto'] work ['usedfor', 'relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['relatedto'] work ['relatedto', 'synonym'] function ['relatedto'] computerize
+industry ['relatedto'] business ['atlocation'] building ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['relatedto', 'atlocation'] city ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] business ['usedfor', 'atlocation'] office_building ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['atlocation'] merchant ['relatedto', 'atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto', 'atlocation'] office ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['relatedto', 'atlocation'] office ['relatedto', 'synonym'] function ['relatedto'] computerize
+industry ['relatedto'] business ['atlocation'] payment_counter ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] business ['hasproperty'] opening_early ['hasproperty'] store ['mannerof'] computerize
+industry ['relatedto'] business ['isa', 'relatedto'] institution ['relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] business ['isa', 'relatedto'] organization ['usedfor', 'relatedto', 'synonym'] system ['relatedto'] computerize
+industry ['relatedto'] business ['isa', 'relatedto'] chain ['relatedto'] data ['relatedto'] computerize
+industry ['relatedto'] business ['isa'] find_downtown ['isa'] store ['mannerof'] computerize
+industry ['relatedto'] business ['isa'] processor ['partof', 'atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['isa', 'relatedto'] store ['relatedto'] supply ['mannerof'] computerize
+industry ['relatedto'] business ['isa', 'relatedto'] store ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['isa', 'relatedto'] store ['usedfor'] system ['relatedto'] computerize
+industry ['relatedto'] business ['isa', 'relatedto'] trade ['relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] account ['relatedto'] enter ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] accounting ['isa', 'relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] company ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] economic ['relatedto'] supply ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] economics ['relatedto'] supply ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] economy ['isa', 'relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] entity ['relatedto'] data ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] form ['relatedto'] convert ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] form ['antonym', 'relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] free_enterprise ['relatedto'] supply ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] free_enterprise ['relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] group ['isa'] system ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] group ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['relatedto'] place ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] place ['atlocation'] system ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] stuff ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] unit ['relatedto'] convert ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] governance ['relatedto'] system ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] entertainment ['usedfor'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['relatedto'] buy ['relatedto', 'atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] business ['usedfor', 'relatedto'] card ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] business ['usedfor', 'relatedto'] card ['isa'] ecard ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] case ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+industry ['relatedto'] business ['relatedto'] case ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] case ['relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] clerk ['atlocation'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] customer ['relatedto'] store ['mannerof'] computerize
+industry ['relatedto'] business ['relatedto'] defunct ['relatedto'] function ['relatedto'] computerize
+industry ['relatedto'] business ['relatedto'] department ['relatedto'] store ['mannerof'] computerize

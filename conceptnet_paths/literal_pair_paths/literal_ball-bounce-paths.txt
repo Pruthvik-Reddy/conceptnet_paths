@@ -1,0 +1,100 @@
+ball ['capableof', 'usedfor', 'relatedto'] bounce
+ball ['capableof', 'relatedto'] bounces ['formof', 'relatedto'] bounce
+ball ['isa', 'relatedto'] pitch ['relatedto'] bounce
+ball ['isa', 'relatedto'] tennis_ball ['usedfor'] bounce
+ball ['relatedto'] bad_hop ['relatedto'] bounce
+ball ['relatedto'] bouncer ['relatedto', 'derivedfrom'] bounce
+ball ['relatedto'] bounciness ['synonym'] bounce
+ball ['usedfor', 'relatedto'] bouncing ['formof', 'relatedto', 'derivedfrom', 'synonym'] bounce
+ball ['relatedto'] bouncy ['relatedto', 'derivedfrom'] bounce
+ball ['relatedto'] hit ['mannerof'] bounce
+ball ['relatedto'] sexual_intercourse ['relatedto'] bounce
+ball ['relatedto'] beamer ['relatedto'] bounce
+ball ['relatedto'] bouncedown ['derivedfrom'] bounce
+ball ['relatedto'] bump_ball ['relatedto'] bounce
+ball ['relatedto'] carom ['mannerof', 'relatedto'] bounce
+ball ['relatedto'] chase ['relatedto'] bounce
+ball ['relatedto'] check ['relatedto'] bounce
+ball ['relatedto'] draw ['relatedto'] bounce
+ball ['relatedto'] flipper ['relatedto'] bounce
+ball ['relatedto'] full_toss ['relatedto'] bounce
+ball ['relatedto'] half_volley ['relatedto'] bounce
+ball ['relatedto'] overpitch ['relatedto'] bounce
+ball ['relatedto'] play_angles ['relatedto'] bounce
+ball ['relatedto'] return ['mannerof'] bounce
+ball ['relatedto'] space_hopper ['relatedto'] bounce
+ball ['relatedto'] squib_kick ['relatedto'] bounce
+ball ['relatedto'] turn ['relatedto'] bounce
+ball ['relatedto'] volley ['relatedto'] bounce
+ball ['relatedto'] yorker ['relatedto'] bounce
+ball ['relatedto'] base ['relatedto'] hit ['mannerof'] bounce
+ball ['relatedto'] child ['motivatedbygoal'] jump_rope ['relatedto'] bounce
+ball ['relatedto'] children ['antonym'] ups ['synonym'] bounce
+ball ['relatedto'] children ['capableof'] skip ['mannerof', 'relatedto'] bounce
+ball ['relatedto'] children ['causesdesire'] jump_rope ['relatedto'] bounce
+ball ['relatedto'] children ['desires'] jump ['mannerof'] bounce
+ball ['relatedto'] children ['desires'] play_ball ['hasprerequisite'] bounce
+ball ['relatedto'] apple ['relatedto'] tennis_ball ['usedfor'] bounce
+ball ['relatedto'] lie ['relatedto'] present ['relatedto'] bounce
+ball ['relatedto'] lie ['relatedto'] boast ['relatedto'] bounce
+ball ['relatedto'] lie ['relatedto'] bouncer ['relatedto', 'derivedfrom'] bounce
+ball ['relatedto'] around ['relatedto'] cover ['relatedto'] bounce
+ball ['relatedto'] around ['relatedto'] travel ['mannerof'] bounce
+ball ['relatedto'] around ['relatedto'] turn ['relatedto'] bounce
+ball ['relatedto'] stick ['relatedto'] refuse ['mannerof', 'relatedto'] bounce
+ball ['relatedto'] stick ['antonym'] hit ['mannerof'] bounce
+ball ['relatedto'] stick ['relatedto'] chase ['relatedto'] bounce
+ball ['relatedto'] stick ['relatedto'] length ['relatedto'] bounce
+ball ['relatedto'] slash ['relatedto'] draft ['relatedto'] bounce
+ball ['relatedto'] backspin ['relatedto'] pitch ['relatedto'] bounce
+ball ['relatedto'] good ['hasproperty'] drugs ['relatedto'] bounce
+ball ['relatedto'] good ['relatedto', 'hasproperty'] music ['relatedto'] bounce
+ball ['relatedto'] good ['relatedto'] cush ['relatedto'] bounce
+ball ['relatedto'] good ['relatedto'] talent ['relatedto'] bounce
+ball ['antonym'] square ['relatedto'] present ['relatedto'] bounce
+ball ['antonym'] square ['relatedto'] cover ['relatedto'] bounce
+ball ['antonym'] square ['relatedto'] pitch ['relatedto'] bounce
+ball ['antonym'] square ['relatedto'] draw ['relatedto'] bounce
+ball ['antonym'] box ['relatedto', 'atlocation'] present ['relatedto'] bounce
+ball ['antonym'] box ['atlocation'] check ['relatedto'] bounce
+ball ['antonym'] box ['mannerof'] hit ['mannerof'] bounce
+ball ['atlocation'] basketball_court ['usedfor'] bouncing ['formof', 'relatedto', 'derivedfrom', 'synonym'] bounce
+ball ['atlocation'] cricket_pitch ['relatedto'] pitch ['relatedto'] bounce
+ball ['relatedto', 'atlocation'] hole ['mannerof'] hit ['mannerof'] bounce
+ball ['atlocation'] soccer_field ['synonym'] pitch ['relatedto'] bounce
+ball ['relatedto', 'atlocation'] sport ['synonym'] boast ['relatedto'] bounce
+ball ['atlocation'] sporting_event ['atlocation'] boundary ['relatedto'] bounce
+ball ['atlocation'] sporting_goods_store ['atlocation'] tennis_ball ['usedfor'] bounce
+ball ['atlocation'] street ['relatedto'] turn ['relatedto'] bounce
+ball ['atlocation'] street ['usedfor'] travel ['mannerof'] bounce
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] leave ['relatedto'] bounce
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] music ['relatedto'] bounce
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['mannerof'] travel ['mannerof'] bounce
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['mannerof', 'relatedto'] turn ['relatedto'] bounce
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] pitch ['relatedto'] bounce
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] genre ['relatedto'] bounce
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] tennis_ball ['usedfor'] bounce
+ball ['capableof', 'isa', 'relatedto'] toy ['relatedto'] present ['relatedto'] bounce
+ball ['relatedto', 'derivedfrom'] ballpark ['relatedto'] rough ['relatedto'] bounce
+ball ['derivedfrom'] beanball ['isa', 'relatedto'] pitch ['relatedto'] bounce
+ball ['derivedfrom'] beanball ['relatedto'] beamer ['relatedto'] bounce
+ball ['derivedfrom'] beanball ['relatedto'] bean_ball ['relatedto'] bounce
+ball ['derivedfrom'] flutterball ['relatedto'] pitch ['relatedto'] bounce
+ball ['derivedfrom'] forkball ['relatedto'] pitch ['relatedto'] bounce
+ball ['derivedfrom'] ghostball ['relatedto'] pitch ['relatedto'] bounce
+ball ['derivedfrom'] knuckleball ['isa', 'relatedto'] pitch ['relatedto'] bounce
+ball ['relatedto', 'derivedfrom'] meatball ['relatedto'] hit ['mannerof'] bounce
+ball ['relatedto', 'derivedfrom'] meatball ['relatedto'] pitch ['relatedto'] bounce
+ball ['derivedfrom'] screwball ['isa', 'relatedto'] pitch ['relatedto'] bounce
+ball ['isa', 'relatedto', 'derivedfrom'] softball ['relatedto'] play_ball ['hasprerequisite'] bounce
+ball ['relatedto', 'derivedfrom'] cannonball ['relatedto'] jump ['mannerof'] bounce
+ball ['distinctfrom', 'relatedto'] circle ['mannerof', 'relatedto'] travel ['mannerof'] bounce
+ball ['distinctfrom', 'relatedto'] circle ['relatedto'] draw ['relatedto'] bounce
+ball ['distinctfrom', 'relatedto'] circle ['relatedto'] pitch ['relatedto'] bounce
+ball ['distinctfrom'] point ['relatedto'] present ['relatedto'] bounce
+ball ['distinctfrom'] point ['relatedto'] cover ['relatedto'] bounce
+ball ['distinctfrom'] point ['relatedto'] chase ['relatedto'] bounce
+ball ['distinctfrom'] point ['relatedto'] hit ['mannerof'] bounce
+ball ['etymologicallyrelatedto', 'relatedto'] balloon ['relatedto'] brandy ['relatedto'] bounce
+ball ['formof', 'relatedto'] balls ['relatedto'] carom ['mannerof', 'relatedto'] bounce
+ball ['isa', 'hasprerequisite', 'synonym'] baseball ['relatedto'] play_ball ['hasprerequisite'] bounce

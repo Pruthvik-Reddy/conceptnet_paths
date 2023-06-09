@@ -1,0 +1,100 @@
+opposition ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] pipe ['relatedto'] steamroller
+opposition ['isa'] band ['relatedto'] level ['relatedto'] steamroller
+opposition ['relatedto'] stand ['antonym'] go ['mannerof'] steamroller
+opposition ['relatedto'] subject ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] counterbalance ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto'] counterbalance ['antonym'] overpower ['mannerof', 'relatedto'] steamroller
+opposition ['relatedto', 'synonym'] resistance ['relatedto'] force ['relatedto'] steamroller
+opposition ['isa'] reverse ['relatedto'] vehicle ['isa'] steamroller
+opposition ['relatedto'] movement ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] wither ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] government ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto'] rebel ['relatedto'] go ['mannerof'] steamroller
+opposition ['isa'] direction ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto'] anticigarette ['relatedto'] smoking ['relatedto'] steamroller
+opposition ['relatedto'] deadlock ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto'] opposing ['relatedto'] road ['relatedto'] steamroller
+opposition ['relatedto'] power ['relatedto', 'synonym'] force ['relatedto'] steamroller
+opposition ['relatedto'] power ['formof', 'relatedto'] powered ['relatedto'] steamroller
+opposition ['relatedto'] power ['isa'] juggernaut ['synonym'] steamroller
+opposition ['relatedto'] power ['relatedto'] steam ['relatedto', 'derivedfrom'] steamroller
+opposition ['relatedto'] power ['relatedto'] steam_power ['relatedto'] steamroller
+opposition ['relatedto'] proceeding ['formof', 'relatedto'] proceed ['relatedto'] steamroller
+opposition ['relatedto'] perseverance ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] protest ['relatedto'] go ['mannerof'] steamroller
+opposition ['synonym'] acrimony ['synonym'] edge ['relatedto'] level ['relatedto'] steamroller
+opposition ['antonym'] ally ['antonym', 'distinctfrom'] enemy ['relatedto'] force ['relatedto'] steamroller
+opposition ['antonym'] ally ['antonym', 'distinctfrom'] enemy ['relatedto'] pipe ['relatedto'] steamroller
+opposition ['antonym'] ally ['formof'] alley ['relatedto'] road ['relatedto'] steamroller
+opposition ['antonym'] ally ['relatedto'] street ['isa', 'distinctfrom', 'relatedto', 'synonym'] road ['relatedto'] steamroller
+opposition ['antonym'] ally ['relatedto'] street ['relatedto', 'atlocation'] vehicle ['isa'] steamroller
+opposition ['antonym'] ally ['relatedto'] family ['relatedto'] roller ['derivedfrom'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] accident ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] relationship ['relatedto'] level ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['etymologicallyrelatedto', 'relatedto'] fiend ['synonym'] heavy ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['isa'] military_unit ['synonym'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['motivatedbygoal'] conquer_nation ['hasprerequisite'] overpower ['mannerof', 'relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] attraction ['isa'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] beak ['relatedto'] roller ['derivedfrom'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] board ['relatedto'] level ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] bomb ['relatedto'] pipe ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] boss ['relatedto'] level ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] commando ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] cover ['relatedto'] steam_engine ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] army ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] bad_guy ['relatedto'] heavy ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] evil ['relatedto'] heavy ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] forces ['formof', 'relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] military ['isa', 'relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] opposing ['relatedto'] road ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] thing ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] threat ['relatedto'] coerce ['mannerof'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] villain ['relatedto'] heavy ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] wars ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] force ['relatedto', 'synonym'] coerce ['mannerof'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] force ['relatedto'] juggernaut ['synonym'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] force ['relatedto'] overpower ['mannerof', 'relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] force ['relatedto'] squash ['mannerof'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] threatening ['synonym'] heavy ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] liberate ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] lines ['relatedto'] level ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] lines ['relatedto'] road ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] pipe ['relatedto', 'partof'] bowl ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] enemy ['relatedto'] pipe ['relatedto'] smoking ['relatedto'] steamroller
+opposition ['relatedto'] enmity ['relatedto'] enemy ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto'] enmity ['relatedto'] enemy ['relatedto'] pipe ['relatedto'] steamroller
+opposition ['relatedto'] enmity ['relatedto'] chest ['relatedto'] cleveland_steamer ['relatedto'] steamroller
+opposition ['relatedto'] hostility ['hasprerequisite'] traveling ['relatedto'] road ['relatedto'] steamroller
+opposition ['relatedto'] hostility ['hasprerequisite'] traveling ['hasprerequisite'] vehicle ['isa'] steamroller
+opposition ['relatedto'] hostility ['relatedto'] anger ['mannerof', 'relatedto'] steam ['relatedto', 'derivedfrom'] steamroller
+opposition ['relatedto'] hostility ['relatedto'] bridle ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto'] hostility ['relatedto'] military ['isa', 'relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto'] hostility ['relatedto'] repulsion ['isa', 'relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto', 'synonym'] animosity ['relatedto'] anger ['mannerof', 'relatedto'] steam ['relatedto', 'derivedfrom'] steamroller
+opposition ['relatedto', 'synonym'] animosity ['relatedto'] sign ['relatedto'] road ['relatedto'] steamroller
+opposition ['relatedto'] question ['relatedto'] getting ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] question ['isa', 'relatedto', 'synonym'] subject ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] question ['relatedto'] erotematic ['relatedto'] proceed ['relatedto'] steamroller
+opposition ['relatedto'] question ['relatedto'] grill ['relatedto'] vehicle ['isa'] steamroller
+opposition ['relatedto'] question ['relatedto'] item ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] question ['relatedto'] mark ['relatedto'] level ['relatedto'] steamroller
+opposition ['relatedto'] question ['relatedto'] pass ['distinctfrom', 'relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] question ['relatedto'] pass ['relatedto', 'synonym'] road ['relatedto'] steamroller
+opposition ['relatedto'] question ['relatedto'] conversation ['usedfor'] smoking ['relatedto'] steamroller
+opposition ['relatedto'] question ['relatedto'] frame ['relatedto'] level ['relatedto'] steamroller
+opposition ['relatedto'] question ['relatedto'] part ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] question ['relatedto'] part ['relatedto'] road ['relatedto'] steamroller
+opposition ['relatedto'] question ['relatedto'] say ['relatedto'] go ['mannerof'] steamroller
+opposition ['relatedto'] question ['relatedto'] type ['relatedto'] steam ['relatedto', 'derivedfrom'] steamroller
+opposition ['relatedto'] question ['relatedto'] word ['relatedto'] overpower ['mannerof', 'relatedto'] steamroller
+opposition ['relatedto'] question ['relatedto'] rescript ['relatedto'] force ['relatedto'] steamroller
+opposition ['relatedto'] question ['synonym'] head ['mannerof'] proceed ['relatedto'] steamroller
+opposition ['isa'] antithesis ['relatedto'] parallel ['relatedto'] level ['relatedto'] steamroller
+opposition ['isa'] band ['relatedto'] establishment ['relatedto'] force ['relatedto'] steamroller
+opposition ['isa'] band ['antonym'] act ['causes'] coerce ['mannerof'] steamroller
+opposition ['isa'] band ['antonym'] act ['definedas'] proceed ['relatedto'] steamroller
+opposition ['isa'] band ['antonym'] act ['mannerof'] force ['relatedto'] steamroller
+opposition ['isa'] band ['antonym'] act ['mannerof'] go ['mannerof'] steamroller
+opposition ['isa'] band ['isa'] air ['antonym', 'relatedto'] steam ['relatedto', 'derivedfrom'] steamroller

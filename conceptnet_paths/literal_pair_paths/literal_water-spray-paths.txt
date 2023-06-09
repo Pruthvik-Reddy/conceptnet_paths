@@ -1,0 +1,100 @@
+water ['relatedto', 'atlocation'] spray
+water ['relatedto', 'atlocation'] fountain ['relatedto'] spray
+water ['relatedto', 'atlocation'] shower ['mannerof'] spray
+water ['atlocation'] waterfall ['atlocation'] spray
+water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] spray
+water ['madeof', 'relatedto'] water_vapor ['isa'] spray
+water ['mannerof', 'relatedto'] hose ['relatedto'] spray
+water ['relatedto'] branch ['relatedto'] spray
+water ['relatedto'] hydropult ['relatedto'] spray
+water ['relatedto'] jetwash ['relatedto'] spray
+water ['relatedto'] mist ['mannerof', 'relatedto'] spray
+water ['relatedto'] paint ['relatedto'] spray
+water ['relatedto'] plume ['relatedto'] spray
+water ['relatedto'] rooster_tail ['relatedto'] spray
+water ['relatedto'] spraydeck ['derivedfrom'] spray
+water ['relatedto'] sunbow ['relatedto'] spray
+water ['relatedto'] water_breaker ['relatedto'] spray
+water ['relatedto'] concrete ['mannerof', 'relatedto'] cover ['mannerof'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'atlocation'] dust ['relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] air ['atlocation'] jet ['isa'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] mist ['mannerof', 'relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] sneeze ['relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] sprinkler ['relatedto'] spray
+water ['antonym', 'relatedto'] earth ['relatedto'] plume ['relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['isa'] cover ['mannerof'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] branch ['relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] hose ['relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] semidiesel ['relatedto'] spray
+water ['antonym', 'relatedto'] ground ['atlocation'] dust ['relatedto'] spray
+water ['antonym', 'relatedto'] ground ['relatedto'] block ['relatedto'] spray
+water ['antonym', 'relatedto'] ground ['relatedto'] bog ['relatedto'] spray
+water ['antonym', 'relatedto'] ground ['relatedto'] fine ['relatedto'] spray
+water ['antonym', 'relatedto'] ground ['relatedto'] mist ['mannerof', 'relatedto'] spray
+water ['antonym', 'relatedto'] ground ['relatedto'] mold ['relatedto'] spray
+water ['antonym', 'relatedto'] bread ['mannerof'] cover ['mannerof'] spray
+water ['antonym', 'relatedto'] bread ['relatedto'] mold ['relatedto'] spray
+water ['antonym', 'synonym'] burn ['relatedto'] keroid ['relatedto'] spray
+water ['antonym', 'synonym'] burn ['relatedto'] napalm ['relatedto'] spray
+water ['antonym', 'capableof', 'relatedto'] flow ['capableof', 'relatedto'] liquid ['relatedto'] spray
+water ['antonym', 'capableof', 'relatedto'] flow ['isa', 'relatedto'] fountain ['relatedto'] spray
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] jet ['isa'] spray
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] waterfall ['atlocation'] spray
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['isa', 'relatedto'] liquid ['relatedto'] spray
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['mannerof', 'relatedto'] exploit ['relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['mannerof'] cover ['mannerof'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] block ['relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] paint ['relatedto'] spray
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] clean ['relatedto'] spray
+water ['antonym', 'relatedto'] sand ['relatedto'] cover ['mannerof'] spray
+water ['antonym', 'relatedto'] sand ['relatedto'] fine ['relatedto'] spray
+water ['antonym', 'relatedto'] sand ['relatedto'] dust ['relatedto'] spray
+water ['antonym', 'relatedto'] sky ['atlocation'] dust ['relatedto'] spray
+water ['antonym', 'relatedto'] sky ['etymologicallyrelatedto'] hose ['relatedto'] spray
+water ['antonym', 'relatedto'] soap ['relatedto'] shower ['mannerof'] spray
+water ['antonym', 'relatedto'] soap ['relatedto'] block ['relatedto'] spray
+water ['antonym', 'relatedto'] soap ['antonym', 'usedfor', 'relatedto'] clean ['relatedto'] spray
+water ['antonym', 'relatedto'] soap ['capableof', 'relatedto'] liquid ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] shower ['mannerof'] spray
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['mannerof'] clean ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['antonym', 'distinctfrom', 'relatedto'] liquid ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['distinctfrom', 'relatedto'] mist ['mannerof', 'relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] nozzle ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] water_mist ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] water_vapor ['isa'] spray
+water ['antonym', 'isa'] food ['atlocation'] hair ['relatedto'] spray
+water ['antonym', 'isa'] food ['relatedto'] branch ['relatedto'] spray
+water ['antonym', 'isa'] food ['relatedto'] cranberry ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] ballicater ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] clean ['relatedto'] spray
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] liquid ['relatedto'] spray
+water ['antonym'] refine ['relatedto', 'derivedfrom'] fine ['relatedto'] spray
+water ['antonym', 'relatedto'] wave ['relatedto'] spindrift ['isa', 'relatedto'] spray
+water ['antonym', 'relatedto'] wave ['relatedto'] hair ['relatedto'] spray
+water ['atlocation'] air_bubble ['relatedto'] liquid ['relatedto'] spray
+water ['relatedto', 'atlocation'] algae ['relatedto'] mold ['relatedto'] spray
+water ['relatedto', 'atlocation'] algae ['atlocation'] waterfall ['atlocation'] spray
+water ['atlocation'] bacteria ['relatedto'] mold ['relatedto'] spray
+water ['atlocation'] bugs ['relatedto'] raid ['relatedto'] spray
+water ['atlocation'] canoe ['relatedto'] spraydeck ['derivedfrom'] spray
+water ['relatedto', 'atlocation'] current ['relatedto'] liquid ['relatedto'] spray
+water ['atlocation'] germs ['relatedto'] sneeze ['relatedto'] spray
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] spray
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['relatedto'] cranberry ['relatedto'] spray
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['relatedto'] mist ['mannerof', 'relatedto'] spray
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['relatedto'] sea_bow ['relatedto'] spray
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['relatedto'] sprayproof ['relatedto'] spray
+water ['relatedto', 'atlocation', 'hasa', 'madeof', 'partof'] oxygen ['relatedto'] nebulizer ['relatedto'] spray
+water ['atlocation'] pesticides ['formof', 'relatedto'] pesticide ['isa'] spray
+water ['atlocation'] plants ['relatedto'] hose ['relatedto'] spray
+water ['atlocation'] roots ['antonym', 'relatedto'] branch ['relatedto'] spray
+water ['atlocation'] roots ['hasa'] hair ['relatedto'] spray
+water ['relatedto', 'atlocation'] salt ['relatedto'] fine ['relatedto'] spray
+water ['relatedto', 'atlocation'] salt ['relatedto'] dust ['relatedto'] spray
+water ['atlocation'] backpack ['atlocation'] bug_spray ['derivedfrom'] spray
+water ['relatedto', 'atlocation'] bath ['antonym', 'distinctfrom', 'relatedto'] shower ['mannerof'] spray
+water ['relatedto', 'atlocation'] bath ['relatedto'] clean ['relatedto'] spray
+water ['relatedto', 'atlocation'] bath ['relatedto'] liquid ['relatedto'] spray
+water ['atlocation'] bathroom ['relatedto'] shower ['mannerof'] spray
+water ['atlocation'] bathtub ['relatedto'] shower ['mannerof'] spray

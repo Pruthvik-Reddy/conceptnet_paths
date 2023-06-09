@@ -1,0 +1,100 @@
+light ['isa', 'usedfor', 'relatedto'] flash
+light ['synonym'] short ['relatedto'] flash
+light ['relatedto'] time ['relatedto'] flash
+light ['relatedto', 'similarto', 'synonym'] bright ['relatedto'] flash
+light ['antonym', 'distinctfrom', 'relatedto', 'hasproperty'] dark ['antonym', 'relatedto'] flash
+light ['antonym', 'relatedto'] fast ['relatedto'] flash
+light ['capableof', 'relatedto', 'synonym'] illuminate ['relatedto'] flash
+light ['derivedfrom'] flashlight ['relatedto', 'derivedfrom'] flash
+light ['usedfor', 'derivedfrom'] light_bulb ['usedfor', 'relatedto'] flash
+light ['formof', 'relatedto', 'derivedfrom', 'synonym'] lighter ['relatedto'] flash
+light ['formof', 'relatedto', 'derivedfrom', 'synonym'] lighting ['relatedto'] flash
+light ['etymologicallyrelatedto'] lait ['relatedto'] flash
+light ['isa', 'relatedto'] brightness ['isa', 'relatedto'] flash
+light ['isa'] flood ['relatedto'] flash
+light ['isa', 'usedfor', 'relatedto'] lamp ['isa'] flash
+light ['isa', 'synonym'] insight ['isa'] flash
+light ['isa'] scene ['relatedto'] flash
+light ['isa', 'relatedto'] scintillation ['relatedto'] flash
+light ['isa', 'relatedto'] torch ['relatedto'] flash
+light ['relatedto'] blink ['relatedto', 'synonym'] flash
+light ['relatedto'] coruscant ['relatedto'] flash
+light ['relatedto'] dazzlement ['relatedto'] flash
+light ['relatedto'] flare ['etymologicallyrelatedto', 'relatedto', 'synonym'] flash
+light ['relatedto'] flasher ['relatedto', 'derivedfrom'] flash
+light ['relatedto'] flashgun ['relatedto', 'derivedfrom', 'synonym'] flash
+light ['relatedto'] flashing ['formof', 'relatedto', 'derivedfrom', 'synonym'] flash
+light ['relatedto'] flicker ['isa', 'mannerof', 'relatedto'] flash
+light ['relatedto'] gleam ['isa', 'relatedto', 'synonym'] flash
+light ['relatedto'] gleaming ['relatedto'] flash
+light ['relatedto'] glimmer ['relatedto'] flash
+light ['relatedto'] glisten ['relatedto'] flash
+light ['relatedto'] gumball_machine ['relatedto'] flash
+light ['relatedto'] leam ['relatedto'] flash
+light ['relatedto'] brilliance ['relatedto'] flash
+light ['relatedto'] bulb ['relatedto'] flash
+light ['relatedto'] bulbs ['relatedto'] flash
+light ['relatedto'] shining ['relatedto'] flash
+light ['relatedto'] lightning ['isa', 'relatedto'] flash
+light ['relatedto'] morse_code ['relatedto'] flash
+light ['relatedto'] photo ['relatedto'] flash
+light ['relatedto'] photochronograph ['relatedto'] flash
+light ['relatedto'] photoconvert ['relatedto'] flash
+light ['relatedto'] photoflash ['relatedto', 'derivedfrom', 'synonym'] flash
+light ['relatedto'] quick_light ['relatedto'] flash
+light ['relatedto'] scintillation_counter ['relatedto'] flash
+light ['relatedto'] shimmer ['relatedto'] flash
+light ['relatedto'] shine ['relatedto'] flash
+light ['relatedto'] spark ['relatedto'] flash
+light ['relatedto'] sparkly ['relatedto'] flash
+light ['relatedto'] thunder ['relatedto'] flash
+light ['relatedto'] twinkle ['relatedto', 'synonym'] flash
+light ['relatedto'] xenon_flash_lamp ['relatedto'] flash
+light ['synonym'] sparkle ['relatedto'] flash
+light ['relatedto'] inactive ['similarto'] dark ['antonym', 'relatedto'] flash
+light ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] flash
+light ['relatedto'] rest ['distinctfrom'] move ['relatedto'] flash
+light ['relatedto'] rest ['relatedto'] identity ['relatedto'] flash
+light ['relatedto'] rest ['relatedto'] brief ['relatedto'] flash
+light ['relatedto'] rest ['relatedto'] short ['relatedto'] flash
+light ['relatedto'] rest ['relatedto'] time ['relatedto'] flash
+light ['relatedto'] afterglow ['relatedto'] experience ['isa'] flash
+light ['relatedto'] evening ['antonym', 'relatedto'] time ['relatedto'] flash
+light ['relatedto'] evening ['relatedto'] dark ['antonym', 'relatedto'] flash
+light ['relatedto'] evening ['relatedto'] part ['relatedto'] flash
+light ['relatedto'] evening ['relatedto'] setting ['relatedto'] flash
+light ['relatedto'] morning ['antonym', 'relatedto'] time ['relatedto'] flash
+light ['relatedto'] morning ['relatedto'] bright ['relatedto'] flash
+light ['relatedto'] morning ['relatedto'] part ['relatedto'] flash
+light ['relatedto'] air ['hasa', 'relatedto'] pressure ['relatedto'] flash
+light ['relatedto'] air ['relatedto'] content ['relatedto'] flash
+light ['relatedto'] air ['relatedto'] material ['relatedto'] flash
+light ['relatedto'] air ['relatedto'] open ['relatedto'] flash
+light ['relatedto'] air ['relatedto'] market ['relatedto'] flash
+light ['relatedto'] air ['relatedto'] throw ['relatedto'] flash
+light ['relatedto'] air ['relatedto'] thunder ['relatedto'] flash
+light ['relatedto'] air ['relatedto'] vessel ['relatedto'] flash
+light ['relatedto'] air ['relatedto'] weather ['relatedto'] flash
+light ['relatedto'] fire ['causes', 'relatedto'] spark ['relatedto'] flash
+light ['relatedto'] fire ['isa'] cover ['mannerof'] flash
+light ['relatedto'] fire ['isa'] happening ['isa'] flash
+light ['relatedto'] fire ['isa'] software ['relatedto'] flash
+light ['relatedto'] fire ['isa'] flare ['etymologicallyrelatedto', 'relatedto', 'synonym'] flash
+light ['relatedto'] fire ['relatedto'] bright ['relatedto'] flash
+light ['relatedto'] fire ['relatedto'] burnt ['relatedto'] flash
+light ['relatedto'] fire ['relatedto'] flicker ['isa', 'mannerof', 'relatedto'] flash
+light ['relatedto'] fire ['relatedto'] torch ['relatedto'] flash
+light ['relatedto'] fire ['relatedto'] lighter ['relatedto'] flash
+light ['relatedto'] fire ['relatedto'] slash ['etymologicallyrelatedto'] flash
+light ['relatedto'] fire ['relatedto'] spit_fire ['relatedto'] flash
+light ['synonym'] short ['relatedto'] body ['relatedto'] flash
+light ['synonym'] short ['relatedto', 'similarto', 'synonym'] brief ['relatedto'] flash
+light ['synonym'] short ['relatedto'] memory ['relatedto'] flash
+light ['synonym'] short ['relatedto'] morse_code ['relatedto'] flash
+light ['synonym'] short ['relatedto'] report ['relatedto'] flash
+light ['synonym'] short ['relatedto'] briefly ['relatedto'] flash
+light ['synonym'] short ['relatedto'] time ['relatedto'] flash
+light ['synonym'] short ['relatedto'] xenon_flash_lamp ['relatedto'] flash
+light ['usedfor'] sight ['etymologicallyrelatedto', 'relatedto'] insight ['isa'] flash
+light ['usedfor'] sight ['isa'] display ['relatedto'] flash
+light ['usedfor'] sight ['relatedto'] bone ['relatedto'] flash

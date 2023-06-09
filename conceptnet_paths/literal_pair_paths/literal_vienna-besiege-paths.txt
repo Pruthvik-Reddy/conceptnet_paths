@@ -1,0 +1,24 @@
+vienna ['relatedto'] united_states ['relatedto'] act ['mannerof'] attack ['mannerof'] besiege
+vienna ['relatedto'] united_states ['relatedto'] act ['relatedto'] surrender ['relatedto'] besiege
+vienna ['relatedto'] united_states ['atlocation'] city ['relatedto'] siege ['relatedto', 'derivedfrom'] besiege
+vienna ['relatedto'] united_states ['isa', 'relatedto', 'partof'] state ['relatedto'] ply ['relatedto'] besiege
+vienna ['relatedto'] united_states ['atlocation'] coast ['relatedto'] surround ['synonym'] besiege
+vienna ['relatedto'] united_states ['usedfor'] protect ['antonym'] attack ['mannerof'] besiege
+vienna ['relatedto'] united_states ['hasa'] flag ['relatedto'] surrender ['relatedto'] besiege
+vienna ['relatedto'] united_states ['relatedto'] blockade_runner ['relatedto'] blockade ['mannerof'] besiege
+vienna ['relatedto'] united_states ['relatedto'] conelrad ['relatedto'] attack ['mannerof'] besiege
+vienna ['relatedto'] united_states ['relatedto'] district ['relatedto'] distress ['mannerof'] besiege
+vienna ['relatedto'] united_states ['relatedto'] nine_eleven ['relatedto'] attack ['mannerof'] besiege
+vienna ['relatedto'] united_states ['relatedto'] september_eleventh ['relatedto'] attack ['mannerof'] besiege
+vienna ['relatedto', 'partof'] austria ['atlocation'] human ['atlocation'] distress ['mannerof'] besiege
+vienna ['relatedto'] county_seat ['relatedto'] city ['relatedto'] siege ['relatedto', 'derivedfrom'] besiege
+vienna ['relatedto'] county_seat ['isa'] seat ['relatedto'] siege ['relatedto', 'derivedfrom'] besiege
+vienna ['relatedto'] county_seat ['relatedto'] pierce ['relatedto'] sap ['relatedto'] besiege
+vienna ['relatedto'] illinois ['isa'] state ['relatedto'] ply ['relatedto'] besiege
+vienna ['relatedto'] illinois ['synonym'] ill ['relatedto'] distress ['mannerof'] besiege
+vienna ['relatedto'] usa ['relatedto'] state ['relatedto'] ply ['relatedto'] besiege
+vienna ['relatedto'] usa ['relatedto'] pierce ['relatedto'] sap ['relatedto'] besiege
+vienna ['relatedto'] virginia ['relatedto'] hurt ['relatedto'] attack ['mannerof'] besiege
+vienna ['relatedto'] virginia ['relatedto'] hurt ['synonym'] distress ['mannerof'] besiege
+vienna ['relatedto'] virginia ['isa', 'relatedto'] state ['relatedto'] ply ['relatedto'] besiege
+vienna ['relatedto'] waltz ['relatedto'] move ['relatedto'] attack ['mannerof'] besiege

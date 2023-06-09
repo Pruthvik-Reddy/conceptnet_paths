@@ -1,0 +1,100 @@
+building ['atlocation'] furniture ['relatedto'] crown
+building ['relatedto'] castle ['relatedto'] crown
+building ['atlocation'] heat ['relatedto'] crown
+building ['relatedto'] metal ['relatedto'] crown
+building ['isa', 'relatedto', 'atlocation'] office ['relatedto'] crown
+building ['relatedto'] tree ['relatedto', 'partof'] crown
+building ['relatedto'] anchor ['relatedto'] crown
+building ['relatedto'] dome ['relatedto'] crown
+building ['relatedto'] protest ['relatedto'] crown
+building ['relatedto'] tower ['relatedto'] crown
+building ['relatedto'] concrete ['hasproperty'] gold ['relatedto'] crown
+building ['relatedto'] concrete ['mannerof', 'relatedto'] cover ['mannerof', 'relatedto'] crown
+building ['relatedto'] concrete ['relatedto'] topping ['relatedto'] crown
+building ['relatedto'] concrete ['relatedto'] road ['partof'] crown
+building ['relatedto'] human ['antonym'] bird ['relatedto'] crown
+building ['relatedto'] human ['atlocation'] state ['relatedto'] crown
+building ['relatedto'] human ['relatedto'] baby ['relatedto'] crown
+building ['relatedto'] human ['relatedto'] head ['mannerof', 'relatedto', 'synonym'] crown
+building ['relatedto'] human ['relatedto'] kind ['relatedto'] crown
+building ['relatedto'] human ['relatedto'] type ['relatedto'] crown
+building ['relatedto'] human ['relatedto'] leg ['relatedto'] crown
+building ['relatedto'] human ['relatedto'] male ['relatedto'] crown
+building ['relatedto'] human ['relatedto'] neck ['relatedto'] crown
+building ['relatedto'] ground ['relatedto'] base ['antonym'] crown
+building ['relatedto'] ground ['atlocation'] coin ['isa', 'relatedto'] crown
+building ['relatedto'] ground ['atlocation'] tree ['relatedto', 'partof'] crown
+building ['relatedto'] ground ['relatedto'] covering ['relatedto'] crown
+building ['relatedto'] ground ['relatedto'] round ['relatedto'] crown
+building ['relatedto'] ground ['relatedto'] stones ['relatedto'] crown
+building ['relatedto'] ground ['relatedto'] type ['relatedto'] crown
+building ['relatedto'] ground ['relatedto'] metal ['relatedto'] crown
+building ['relatedto'] ground ['relatedto'] oval ['relatedto'] crown
+building ['relatedto'] ground ['relatedto'] road ['partof'] crown
+building ['relatedto'] ground ['synonym'] anchor ['relatedto'] crown
+building ['relatedto'] plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto', 'partof'] crown
+building ['relatedto'] plant ['isa'] blueberry ['relatedto'] crown
+building ['relatedto'] plant ['relatedto'] crown_cactus ['derivedfrom'] crown
+building ['relatedto'] plant ['relatedto'] crown_gall ['derivedfrom'] crown
+building ['relatedto'] plant ['relatedto'] crown_imperial ['derivedfrom'] crown
+building ['relatedto'] plant ['relatedto'] knot ['relatedto'] crown
+building ['relatedto'] plant ['relatedto'] megaphyte ['relatedto'] crown
+building ['relatedto'] plant ['relatedto'] often ['relatedto'] crown
+building ['relatedto'] plant ['relatedto'] thing ['relatedto'] crown
+building ['relatedto'] plant ['relatedto'] power ['relatedto'] crown
+building ['relatedto'] plant ['relatedto'] thorn ['relatedto'] crown
+building ['isa', 'relatedto', 'partof'] annex ['relatedto'] government ['relatedto'] crown
+building ['isa', 'relatedto', 'partof'] annex ['synonym'] wing ['relatedto'] crown
+building ['isa'] creation ['isa'] piece ['relatedto'] crown
+building ['isa', 'relatedto', 'atlocation'] apartment ['atlocation'] furniture ['relatedto'] crown
+building ['isa', 'relatedto'] house ['atlocation'] baby ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto', 'atlocation'] furnace ['relatedto'] crown
+building ['isa', 'relatedto'] house ['hasa', 'atlocation'] furniture ['relatedto'] crown
+building ['isa', 'relatedto'] house ['isa'] thing ['relatedto'] crown
+building ['isa', 'relatedto'] house ['isa'] royalty ['relatedto'] crown
+building ['isa', 'relatedto'] house ['madeof'] metal ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] castle ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] head ['mannerof', 'relatedto', 'synonym'] crown
+building ['isa', 'relatedto'] house ['relatedto'] big ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] dome ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] inside ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] large ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] road ['partof'] crown
+building ['isa', 'relatedto'] house ['relatedto'] type ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] usually ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] concentric ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] piece ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] office ['relatedto'] crown
+building ['isa', 'relatedto'] house ['relatedto'] tree ['relatedto', 'partof'] crown
+building ['relatedto'] column ['relatedto'] base ['antonym'] crown
+building ['relatedto'] column ['hasproperty'] heavy ['relatedto'] crown
+building ['relatedto'] column ['relatedto'] cable ['relatedto'] crown
+building ['relatedto'] column ['relatedto'] large ['relatedto'] crown
+building ['relatedto'] column ['relatedto'] piece ['relatedto'] crown
+building ['relatedto'] column ['relatedto'] round ['relatedto'] crown
+building ['relatedto'] column ['relatedto', 'synonym'] tower ['relatedto'] crown
+building ['relatedto'] column ['relatedto'] type ['relatedto'] crown
+building ['relatedto'] column ['usedfor', 'relatedto'] decoration ['relatedto'] crown
+building ['relatedto'] column ['relatedto'] top ['isa', 'relatedto', 'synonym'] crown
+building ['relatedto'] column ['relatedto'] facet ['relatedto'] crown
+building ['relatedto'] column ['relatedto'] head ['mannerof', 'relatedto', 'synonym'] crown
+building ['relatedto'] column ['relatedto'] metal ['relatedto'] crown
+building ['relatedto'] column ['relatedto'] stack ['relatedto'] crown
+building ['relatedto'] atom ['relatedto'] large ['relatedto'] crown
+building ['relatedto'] atom ['relatedto'] piece ['relatedto'] crown
+building ['relatedto'] atom ['relatedto'] type ['relatedto'] crown
+building ['relatedto'] atom ['relatedto'] symbol ['isa', 'relatedto'] crown
+building ['relatedto'] atom ['relatedto'] monocyclic ['relatedto'] crown
+building ['relatedto'] home ['antonym', 'relatedto', 'synonym'] base ['antonym'] crown
+building ['relatedto'] home ['relatedto'] someone ['relatedto'] crown
+building ['relatedto'] home ['antonym', 'distinctfrom', 'relatedto'] office ['relatedto'] crown
+building ['relatedto'] home ['relatedto', 'atlocation'] furnace ['relatedto'] crown
+building ['relatedto'] home ['relatedto', 'atlocation'] hat ['isa', 'relatedto', 'partof'] crown
+building ['relatedto'] home ['isa', 'relatedto'] castle ['relatedto'] crown
+building ['relatedto'] home ['relatedto'] big ['relatedto'] crown
+building ['relatedto'] home ['relatedto'] furniture ['relatedto'] crown
+building ['relatedto'] home ['relatedto'] inside ['relatedto'] crown
+building ['relatedto'] home ['relatedto'] usually ['relatedto'] crown
+building ['relatedto'] home ['relatedto'] pointed ['relatedto'] crown
+building ['relatedto'] home ['relatedto'] tree ['relatedto', 'partof'] crown
+building ['relatedto'] front ['relatedto'] cover ['mannerof', 'relatedto'] crown

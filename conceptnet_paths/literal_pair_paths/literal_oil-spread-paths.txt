@@ -1,0 +1,100 @@
+oil ['mannerof'] cover ['mannerof', 'relatedto'] spread
+oil ['relatedto'] food ['relatedto'] spread
+oil ['relatedto'] butter ['isa', 'relatedto'] spread
+oil ['relatedto'] export ['mannerof'] spread
+oil ['relatedto'] material ['relatedto'] spread
+oil ['relatedto'] commodity ['relatedto'] spread
+oil ['relatedto'] price ['relatedto'] spread
+oil ['relatedto'] spill ['relatedto'] spread
+oil ['relatedto'] base ['relatedto'] bread ['relatedto'] spread
+oil ['relatedto'] base ['relatedto', 'synonym'] mean ['relatedto'] spread
+oil ['relatedto'] base ['relatedto'] run ['relatedto'] spread
+oil ['relatedto'] base ['relatedto'] scale ['relatedto'] spread
+oil ['relatedto'] reserve ['distinctfrom'] open ['relatedto'] spread
+oil ['relatedto'] reserve ['relatedto'] price ['relatedto'] spread
+oil ['relatedto'] reserve ['relatedto'] land ['relatedto'] spread
+oil ['relatedto'] expensive ['relatedto'] price ['relatedto'] spread
+oil ['relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land ['relatedto'] spread
+oil ['relatedto'] earth ['hasa'] surface ['relatedto'] spread
+oil ['relatedto'] earth ['isa'] material ['relatedto'] spread
+oil ['relatedto'] earth ['relatedto'] plume ['relatedto'] spread
+oil ['relatedto', 'atlocation'] ground ['isa', 'relatedto'] surface ['relatedto'] spread
+oil ['relatedto', 'atlocation'] ground ['relatedto', 'synonym'] land ['relatedto'] spread
+oil ['antonym', 'distinctfrom', 'relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] spread
+oil ['antonym', 'distinctfrom', 'relatedto'] water ['antonym', 'relatedto'] bread ['relatedto'] spread
+oil ['antonym', 'distinctfrom', 'relatedto'] water ['antonym', 'isa'] food ['relatedto'] spread
+oil ['antonym', 'distinctfrom', 'relatedto'] water ['hasa'] surface ['relatedto'] spread
+oil ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] diffuse ['mannerof', 'relatedto', 'synonym'] spread
+oil ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] paste ['synonym'] spread
+oil ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] plume ['relatedto'] spread
+oil ['relatedto'] mineral ['isa', 'relatedto'] material ['relatedto'] spread
+oil ['relatedto'] mineral ['relatedto'] paste ['synonym'] spread
+oil ['relatedto'] vegetable ['isa'] mushroom ['synonym'] spread
+oil ['relatedto'] vegetable ['isa', 'relatedto'] food ['relatedto'] spread
+oil ['relatedto'] art ['relatedto'] display ['relatedto'] spread
+oil ['relatedto'] art ['relatedto'] item ['relatedto'] spread
+oil ['relatedto', 'atlocation'] well ['mannerof'] surface ['relatedto'] spread
+oil ['relatedto', 'atlocation'] well ['relatedto'] profit ['relatedto'] spread
+oil ['mannerof'] cover ['antonym'] open ['relatedto'] spread
+oil ['mannerof'] cover ['antonym', 'relatedto'] page ['isa', 'relatedto'] spread
+oil ['mannerof'] cover ['mannerof'] bread ['relatedto'] spread
+oil ['mannerof'] cover ['mannerof'] butter ['isa', 'relatedto'] spread
+oil ['mannerof'] cover ['mannerof'] paste ['synonym'] spread
+oil ['mannerof'] cover ['mannerof'] strew ['mannerof', 'relatedto'] spread
+oil ['mannerof'] cover ['relatedto'] bespread ['derivedfrom'] spread
+oil ['mannerof'] cover ['relatedto'] bedspread ['relatedto', 'derivedfrom', 'synonym'] spread
+oil ['mannerof'] cover ['relatedto'] magazine ['relatedto'] spread
+oil ['mannerof'] cover ['relatedto', 'synonym'] overlay ['relatedto'] spread
+oil ['mannerof'] cover ['relatedto'] quilt ['relatedto'] spread
+oil ['mannerof'] cover ['relatedto'] point ['relatedto'] spread
+oil ['mannerof'] cover ['relatedto'] purchase ['relatedto'] spread
+oil ['mannerof'] cover ['relatedto'] overgo ['relatedto'] spread
+oil ['mannerof'] cover ['relatedto'] overspread ['relatedto', 'synonym'] spread
+oil ['mannerof'] cover ['relatedto'] point_shaving ['relatedto'] spread
+oil ['mannerof'] cover ['synonym'] extend ['relatedto'] spread
+oil ['relatedto'] food ['distinctfrom'] paste ['synonym'] spread
+oil ['relatedto'] food ['isa'] apple_butter ['relatedto'] spread
+oil ['relatedto'] food ['isa', 'relatedto', 'synonym'] bread ['relatedto'] spread
+oil ['relatedto'] food ['isa', 'relatedto'] butter ['isa', 'relatedto'] spread
+oil ['relatedto'] food ['isa'] dulce_de_leche ['relatedto'] spread
+oil ['relatedto'] food ['isa'] egg_salad ['relatedto'] spread
+oil ['relatedto'] food ['isa'] hummus ['isa'] spread
+oil ['relatedto'] food ['isa'] lekvar ['relatedto'] spread
+oil ['relatedto'] food ['isa'] margarine ['isa', 'relatedto'] spread
+oil ['relatedto'] food ['isa'] nutella ['relatedto'] spread
+oil ['relatedto'] food ['isa'] peanut_butter ['isa', 'relatedto'] spread
+oil ['relatedto'] food ['isa'] speculoos ['relatedto'] spread
+oil ['relatedto'] food ['isa'] tahini ['isa'] spread
+oil ['relatedto'] food ['isa'] tapenade ['isa'] spread
+oil ['relatedto'] food ['relatedto'] condiment ['isa'] spread
+oil ['relatedto'] food ['relatedto'] cut ['relatedto'] spread
+oil ['relatedto'] food ['relatedto'] item ['relatedto'] spread
+oil ['relatedto'] food ['relatedto'] meal ['relatedto'] spread
+oil ['relatedto'] food ['relatedto'] gather ['antonym'] spread
+oil ['relatedto'] food ['relatedto'] jelly ['isa', 'relatedto'] spread
+oil ['relatedto'] food ['relatedto'] preserve ['relatedto'] spread
+oil ['relatedto'] big ['relatedto'] land ['relatedto'] spread
+oil ['relatedto'] big ['relatedto'] leg ['relatedto'] spread
+oil ['relatedto'] big ['distinctfrom'] compact ['antonym'] spread
+oil ['relatedto'] big ['relatedto'] paste ['synonym'] spread
+oil ['relatedto'] big ['relatedto'] ranch ['synonym'] spread
+oil ['relatedto'] big ['relatedto'] smile ['relatedto'] spread
+oil ['relatedto'] black ['relatedto'] profit ['relatedto'] spread
+oil ['relatedto'] block ['relatedto'] stretch ['relatedto'] spread
+oil ['relatedto'] block ['relatedto'] firewall ['relatedto'] spread
+oil ['relatedto'] block ['relatedto', 'synonym'] jam ['isa'] spread
+oil ['relatedto'] block ['relatedto'] overlay ['relatedto'] spread
+oil ['relatedto'] block ['relatedto'] page ['isa', 'relatedto'] spread
+oil ['relatedto'] yellow ['isa', 'relatedto', 'hasproperty'] butter ['isa', 'relatedto'] spread
+oil ['relatedto'] yellow ['relatedto', 'hasproperty'] mustard ['isa'] spread
+oil ['relatedto'] yellow ['isa'] margarine ['isa', 'relatedto'] spread
+oil ['relatedto'] yellow ['relatedto'] lichen ['relatedto'] spread
+oil ['relatedto'] yellow ['relatedto'] price ['relatedto'] spread
+oil ['usedfor', 'relatedto', 'atlocation'] car ['atlocation'] land ['relatedto'] spread
+oil ['usedfor', 'relatedto', 'atlocation'] car ['relatedto'] cover ['mannerof', 'relatedto'] spread
+oil ['usedfor', 'relatedto', 'atlocation'] car ['hasproperty'] slow ['relatedto'] spread
+oil ['usedfor', 'relatedto', 'atlocation'] car ['isa'] item ['relatedto'] spread
+oil ['usedfor', 'relatedto', 'atlocation'] car ['isa', 'relatedto'] compact ['antonym'] spread
+oil ['relatedto'] butter ['mannerof'] cover ['mannerof', 'relatedto'] spread
+oil ['relatedto'] butter ['isa', 'relatedto'] food ['relatedto'] spread
+oil ['relatedto'] butter ['antonym', 'relatedto'] bread ['relatedto'] spread

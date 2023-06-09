@@ -1,0 +1,100 @@
+water ['relatedto'] form
+water ['antonym', 'relatedto'] bread ['relatedto'] form
+water ['antonym', 'relatedto'] soap ['relatedto'] form
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] form
+water ['antonym', 'relatedto'] wave ['relatedto'] form
+water ['relatedto', 'desires', 'atlocation'] turtle ['relatedto'] form
+water ['relatedto', 'atlocation'] spring ['synonym'] form
+water ['hasa', 'madeof'] human_body ['synonym'] form
+water ['relatedto', 'hasprerequisite'] fishing ['relatedto'] form
+water ['mannerof', 'relatedto'] fill ['relatedto'] form
+water ['relatedto'] bale ['relatedto'] form
+water ['relatedto'] body ['relatedto'] form
+water ['relatedto'] cast ['relatedto', 'synonym'] form
+water ['relatedto'] cement ['relatedto'] form
+water ['relatedto'] coast ['relatedto'] form
+water ['relatedto'] continent ['relatedto'] form
+water ['relatedto'] cry ['relatedto'] form
+water ['relatedto'] derivation ['relatedto'] form
+water ['relatedto'] dorodango ['relatedto'] form
+water ['relatedto'] drop ['relatedto'] form
+water ['relatedto'] dyke ['relatedto'] form
+water ['relatedto'] heat ['relatedto'] form
+water ['relatedto'] hydrogen_fluoride ['relatedto'] form
+water ['relatedto'] lead ['relatedto'] form
+water ['relatedto'] membrane ['relatedto'] form
+water ['relatedto'] paint ['relatedto'] form
+water ['relatedto'] paste ['relatedto'] form
+water ['relatedto'] plane ['relatedto'] form
+water ['relatedto'] plant ['relatedto'] form
+water ['relatedto'] plume ['mannerof'] form
+water ['relatedto'] preslug ['relatedto'] form
+water ['relatedto'] root ['isa'] form
+water ['relatedto'] slip ['relatedto'] form
+water ['relatedto'] strand ['isa'] form
+water ['relatedto'] vault ['relatedto'] form
+water ['relatedto'] substance ['relatedto'] form
+water ['atlocation'] underground ['relatedto'] plant ['relatedto'] form
+water ['atlocation'] underground ['relatedto'] root ['isa'] form
+water ['atlocation'] underground ['relatedto'] vault ['relatedto'] form
+water ['relatedto'] concrete ['isa', 'relatedto', 'partof'] cement ['relatedto'] form
+water ['relatedto'] concrete ['relatedto'] material ['relatedto'] form
+water ['relatedto'] concrete ['relatedto'] mass ['relatedto'] form
+water ['relatedto'] concrete ['relatedto'] formwork ['derivedfrom'] form
+water ['relatedto'] concrete ['relatedto'] statue ['relatedto'] form
+water ['relatedto'] concrete ['relatedto'] tie ['mannerof'] form
+water ['relatedto'] basic ['relatedto'] bread ['relatedto'] form
+water ['relatedto'] basic ['relatedto'] cell ['relatedto'] form
+water ['relatedto'] basic ['relatedto'] circle ['relatedto'] form
+water ['relatedto'] basic ['relatedto'] etiquette ['relatedto'] form
+water ['relatedto'] basic ['relatedto'] general ['relatedto'] form
+water ['relatedto'] basic ['relatedto'] matter ['relatedto'] form
+water ['relatedto'] basic ['relatedto'] primer ['relatedto'] form
+water ['relatedto'] basic ['relatedto'] sound ['relatedto'] form
+water ['relatedto'] basic ['relatedto'] structure ['isa', 'relatedto'] form
+water ['relatedto'] basic ['relatedto'] urform ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['antonym', 'relatedto'] heat ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['antonym', 'relatedto'] space ['partof'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'atlocation'] plane ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'atlocation'] sound ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] general ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] material ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] matter ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] substance ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] fill ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] thought ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] blow ['mannerof'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] coast ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] cut ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] litharge ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] ridge ['mannerof', 'relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] rise ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] roll ['mannerof', 'relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] window ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['synonym'] appearance ['isa'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['synonym'] manner ['isa'] form
+water ['antonym', 'distinctfrom', 'relatedto'] air ['usedfor'] dish ['mannerof'] form
+water ['antonym', 'relatedto'] earth ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] space ['partof'] form
+water ['antonym', 'relatedto'] earth ['definedas', 'relatedto'] round ['mannerof', 'relatedto'] form
+water ['antonym', 'relatedto'] earth ['isa'] word ['isa'] form
+water ['antonym', 'relatedto'] earth ['isa'] material ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] continent ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] dorodango ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto', 'synonym'] clay ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] home ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] plant ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] substance ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] den ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] hill ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] mountain ['relatedto'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] plume ['mannerof'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] terrace ['mannerof'] form
+water ['antonym', 'relatedto'] earth ['relatedto'] year ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['mannerof'] remove ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['antonym', 'distinctfrom'] ice ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['derivedfrom'] fireform ['derivedfrom'] form
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] bale ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] cock ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] generator ['relatedto'] form
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] produce ['relatedto'] form

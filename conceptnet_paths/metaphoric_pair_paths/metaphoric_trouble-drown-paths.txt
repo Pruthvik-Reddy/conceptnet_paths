@@ -1,0 +1,100 @@
+trouble ['relatedto'] nothing ['relatedto', 'derivedfrom'] thing ['relatedto'] drown
+trouble ['relatedto'] action ['isa'] thing ['relatedto'] drown
+trouble ['relatedto'] action ['relatedto'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] action ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] action ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['relatedto'] child ['relatedto'] item ['relatedto'] drown
+trouble ['antonym', 'distinctfrom'] calm ['relatedto'] water ['usedfor', 'relatedto'] drown
+trouble ['relatedto', 'synonym'] problem ['relatedto'] thing ['relatedto'] drown
+trouble ['relatedto'] apple ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] bad ['hasproperty'] die ['mannerof', 'relatedto'] drown
+trouble ['antonym', 'distinctfrom', 'relatedto'] good ['distinctfrom'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] board ['relatedto'] water ['usedfor', 'relatedto'] drown
+trouble ['relatedto'] board ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] board ['relatedto'] surf ['haslastsubevent'] drown
+trouble ['relatedto'] school ['mannerof'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['relatedto'] cause ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] cold ['hasproperty'] water ['usedfor', 'relatedto'] drown
+trouble ['relatedto'] concern ['synonym'] thing ['relatedto'] drown
+trouble ['relatedto'] concern ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] condition ['relatedto'] drowning_chain ['relatedto'] drown
+trouble ['synonym'] cross ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] disease ['isa'] drowning ['formof', 'relatedto', 'derivedfrom'] drown
+trouble ['partof'] life ['isa', 'relatedto', 'hasprerequisite'] water ['usedfor', 'relatedto'] drown
+trouble ['partof'] life ['antonym', 'capableof', 'relatedto'] die ['mannerof', 'relatedto'] drown
+trouble ['partof'] life ['causes'] watering_plant ['causes'] drown
+trouble ['partof'] life ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['isa'] devil ['relatedto'] eliminate ['mannerof'] drown
+trouble ['isa', 'relatedto', 'synonym'] difficulty ['relatedto'] drowning ['formof', 'relatedto', 'derivedfrom'] drown
+trouble ['isa'] matter ['synonym'] thing ['relatedto'] drown
+trouble ['isa'] matter ['relatedto'] volume ['relatedto'] drown
+trouble ['synonym'] move ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['synonym'] move ['relatedto'] swimming ['causes'] drown
+trouble ['atlocation'] street ['atlocation'] water ['usedfor', 'relatedto'] drown
+trouble ['isa'] noise ['relatedto'] volume ['relatedto'] drown
+trouble ['isa', 'relatedto'] happening ['isa'] thing ['relatedto'] drown
+trouble ['relatedto'] punishment ['relatedto'] murder_hole ['relatedto'] drown
+trouble ['relatedto'] disaster ['causes', 'relatedto'] flood ['relatedto', 'synonym'] drown
+trouble ['relatedto'] oh ['relatedto'] water ['usedfor', 'relatedto'] drown
+trouble ['relatedto'] play ['relatedto'] thing ['relatedto'] drown
+trouble ['relatedto'] play ['mannerof'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] play ['relatedto'] splash_pad ['relatedto'] drown
+trouble ['relatedto'] play ['usedfor'] pool ['usedfor'] drown
+trouble ['relatedto'] situation ['isa'] thing ['relatedto'] drown
+trouble ['relatedto'] stuff ['relatedto'] water ['usedfor', 'relatedto'] drown
+trouble ['relatedto'] stuff ['relatedto', 'synonym'] thing ['relatedto'] drown
+trouble ['relatedto'] turbid ['relatedto'] obscure ['relatedto'] drown
+trouble ['synonym'] pain ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['relatedto'] purpose ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['antonym'] nothing ['relatedto', 'derivedfrom'] thing ['relatedto'] drown
+trouble ['relatedto'] act ['antonym'] band ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] act ['capableof'] humans ['capableof'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['causes'] direct ['relatedto'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['isa'] thing ['relatedto'] drown
+trouble ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['relatedto'] act ['distinctfrom', 'relatedto', 'partof'] scene ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['isa'] activity ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['relatedto'] act ['isa'] activity ['relatedto'] swimming ['causes'] drown
+trouble ['relatedto'] act ['isa', 'relatedto'] crime ['isa', 'relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['isa'] derivation ['relatedto'] water ['usedfor', 'relatedto'] drown
+trouble ['relatedto'] act ['isa'] production ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] act ['isa'] propulsion ['causes'] swimming ['causes'] drown
+trouble ['relatedto'] act ['isa'] propulsion ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['relatedto'] act ['isa'] stop ['relatedto'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['isa'] stop ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['isa'] touch ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['isa'] waste ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] attack ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] attack ['relatedto'] volume ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] cope ['relatedto'] drowning_chain ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] court ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] create ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof', 'relatedto'] deal ['relatedto'] thing ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] dispatch ['mannerof', 'relatedto', 'synonym'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof', 'relatedto'] effect ['relatedto'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] force ['relatedto'] thing ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] freeze ['capableof'] water ['usedfor', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] go ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] go ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['relatedto'] act ['mannerof'] go ['relatedto', 'synonym'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] guard ['derivedfrom'] lifeguard ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['relatedto'] thing ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['mannerof'] die ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['relatedto'] splash_pad ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['usedfor'] pool ['usedfor'] drown
+trouble ['relatedto'] act ['mannerof'] race ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['relatedto'] act ['mannerof'] race ['usedfor'] pool ['usedfor'] drown
+trouble ['relatedto'] act ['mannerof'] relax ['usedfor'] pool ['usedfor'] drown
+trouble ['relatedto'] act ['mannerof'] reward ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] act ['mannerof', 'relatedto'] rush ['relatedto'] water ['usedfor', 'relatedto'] drown
+trouble ['relatedto'] act ['mannerof'] swell ['relatedto'] volume ['relatedto'] drown
+trouble ['relatedto'] act ['relatedto'] craft ['relatedto'] item ['relatedto'] drown
+trouble ['relatedto'] act ['relatedto'] give ['antonym'] kill ['mannerof', 'relatedto'] drown
+trouble ['relatedto'] act ['relatedto'] group ['relatedto'] thing ['relatedto'] drown
+trouble ['relatedto'] act ['relatedto'] group ['mannerof'] pool ['usedfor'] drown
+trouble ['relatedto'] act ['relatedto'] job ['relatedto'] thing ['relatedto'] drown
+trouble ['relatedto'] act ['relatedto'] motion ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+trouble ['relatedto'] act ['relatedto'] part ['isa'] thing ['relatedto'] drown
+trouble ['relatedto'] act ['relatedto'] part ['isa', 'relatedto'] item ['relatedto'] drown

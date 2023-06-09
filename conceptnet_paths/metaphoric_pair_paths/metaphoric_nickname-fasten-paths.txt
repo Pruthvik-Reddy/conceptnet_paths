@@ -1,0 +1,100 @@
+nickname ['relatedto'] apple ['relatedto'] tell ['relatedto'] fasten
+nickname ['relatedto'] bill ['relatedto'] anchor ['mannerof'] fasten
+nickname ['relatedto'] bill ['relatedto'] hook ['mannerof'] fasten
+nickname ['relatedto'] bill ['relatedto'] bind ['mannerof', 'relatedto', 'synonym'] fasten
+nickname ['synonym'] handle ['relatedto'] stick ['mannerof'] fasten
+nickname ['synonym'] handle ['isa'] strap ['mannerof', 'relatedto', 'synonym'] fasten
+nickname ['synonym'] handle ['relatedto'] crank ['mannerof'] fasten
+nickname ['synonym'] handle ['relatedto'] lock ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] blow ['isa', 'relatedto'] knockdown ['relatedto'] fasten
+nickname ['relatedto'] blow ['relatedto', 'synonym'] belt ['mannerof', 'relatedto'] fasten
+nickname ['relatedto'] blow ['relatedto'] catch ['synonym'] fasten
+nickname ['relatedto'] long ['relatedto'] land ['relatedto'] fasten
+nickname ['relatedto'] long ['relatedto'] stick ['mannerof'] fasten
+nickname ['relatedto'] long ['relatedto'] bar ['mannerof'] fasten
+nickname ['relatedto'] long ['relatedto'] belt ['mannerof', 'relatedto'] fasten
+nickname ['relatedto'] long ['relatedto'] stake ['mannerof', 'relatedto'] fasten
+nickname ['relatedto'] long ['relatedto'] wire ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] doctor ['relatedto', 'synonym'] fix ['synonym'] fasten
+nickname ['relatedto'] gray ['relatedto'] cement ['mannerof'] fasten
+nickname ['relatedto'] rock ['relatedto'] belay ['mannerof'] fasten
+nickname ['relatedto'] rock ['relatedto'] cement ['mannerof'] fasten
+nickname ['isa'] name ['mannerof', 'relatedto'] tag ['relatedto'] fasten
+nickname ['isa'] name ['relatedto'] hank ['relatedto'] fasten
+nickname ['isa'] name ['relatedto'] string ['mannerof'] fasten
+nickname ['isa'] name ['relatedto'] peg ['relatedto'] fasten
+nickname ['isa'] name ['relatedto'] spike ['mannerof'] fasten
+nickname ['relatedto'] steel ['relatedto'] bar ['mannerof'] fasten
+nickname ['relatedto'] steel ['relatedto'] anchor ['mannerof'] fasten
+nickname ['relatedto'] user ['relatedto'] fix ['synonym'] fasten
+nickname ['relatedto'] user ['relatedto'] lock ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] tube ['relatedto'] bar ['mannerof'] fasten
+nickname ['relatedto'] tube ['atlocation'] glue ['mannerof'] fasten
+nickname ['relatedto'] tube ['relatedto'] crimp ['relatedto'] fasten
+nickname ['relatedto'] dock ['relatedto'] land ['relatedto'] fasten
+nickname ['relatedto'] dock ['mannerof'] moor ['mannerof', 'relatedto'] fasten
+nickname ['relatedto'] dock ['relatedto'] tether ['synonym'] fasten
+nickname ['relatedto'] rod ['relatedto', 'synonym'] stick ['mannerof'] fasten
+nickname ['relatedto'] rod ['relatedto'] bar ['mannerof'] fasten
+nickname ['relatedto'] rod ['relatedto'] chain ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] rod ['relatedto'] hook ['mannerof'] fasten
+nickname ['relatedto'] rod ['relatedto'] dowel ['relatedto'] fasten
+nickname ['relatedto'] rod ['relatedto'] staple ['mannerof'] fasten
+nickname ['relatedto'] bud ['relatedto'] button ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] jay ['relatedto'] join ['synonym'] fasten
+nickname ['relatedto'] jay ['relatedto'] joint ['mannerof'] fasten
+nickname ['relatedto'] swift ['relatedto', 'synonym'] fast ['etymologicallyrelatedto', 'relatedto'] fasten
+nickname ['synonym'] dub ['relatedto'] lock ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] ginger ['relatedto'] snap ['relatedto'] fasten
+nickname ['etymologicallyrelatedto', 'relatedto', 'synonym'] moniker ['synonym'] tag ['relatedto'] fasten
+nickname ['relatedto'] nick ['relatedto'] stick ['mannerof'] fasten
+nickname ['relatedto'] hob ['relatedto'] peg ['relatedto'] fasten
+nickname ['relatedto', 'synonym'] surname ['relatedto'] tell ['relatedto'] fasten
+nickname ['relatedto', 'synonym'] surname ['relatedto'] hank ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] basic ['relatedto', 'synonym'] staple ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] lunch ['relatedto'] snap ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] sometimes ['relatedto'] bar ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto', 'hasproperty'] red ['relatedto'] sagum ['relatedto'] fasten
+nickname ['relatedto'] apple ['isa'] plant ['relatedto'] sew ['mannerof'] fasten
+nickname ['relatedto'] apple ['isa'] plant ['relatedto'] string ['mannerof'] fasten
+nickname ['relatedto'] apple ['isa'] plant ['synonym'] stick ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] problem ['relatedto'] fix ['synonym'] fasten
+nickname ['relatedto'] apple ['relatedto'] problem ['relatedto'] bind ['mannerof', 'relatedto', 'synonym'] fasten
+nickname ['relatedto'] apple ['relatedto'] problem ['relatedto'] hitch ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] problem ['relatedto'] loose_end ['relatedto'] fasten
+nickname ['relatedto'] apple ['atlocation'] house ['relatedto'] land ['relatedto'] fasten
+nickname ['relatedto'] apple ['atlocation'] house ['atlocation'] batten ['relatedto'] fasten
+nickname ['relatedto'] apple ['atlocation'] house ['relatedto'] bar ['mannerof'] fasten
+nickname ['relatedto'] apple ['atlocation'] house ['relatedto'] button ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] apple ['atlocation'] house ['relatedto'] chain ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] apple ['atlocation'] house ['relatedto'] pin ['mannerof', 'relatedto'] fasten
+nickname ['relatedto'] apple ['hasa', 'relatedto'] core ['isa'] bar ['mannerof'] fasten
+nickname ['relatedto'] apple ['hasa', 'relatedto'] core ['relatedto'] anchor ['mannerof'] fasten
+nickname ['relatedto'] apple ['hasa', 'relatedto'] peel ['relatedto'] stake ['mannerof', 'relatedto'] fasten
+nickname ['relatedto'] apple ['hasa', 'relatedto'] skin ['relatedto'] seal ['relatedto', 'entails'] fasten
+nickname ['relatedto'] apple ['relatedto', 'hasproperty'] green ['relatedto', 'hasproperty'] frog ['relatedto'] fasten
+nickname ['relatedto'] apple ['isa', 'relatedto'] fruit ['relatedto'] bootlace ['relatedto'] fasten
+nickname ['relatedto'] apple ['isa', 'relatedto'] tree ['relatedto', 'atlocation'] stick ['mannerof'] fasten
+nickname ['relatedto'] apple ['isa', 'relatedto'] tree ['relatedto'] hang ['mannerof'] fasten
+nickname ['relatedto'] apple ['isa', 'relatedto'] tree ['relatedto'] preen ['relatedto'] fasten
+nickname ['relatedto'] apple ['isa', 'relatedto'] tree ['relatedto'] hook ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto', 'partof'] stem ['relatedto'] affix ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto', 'partof'] stem ['relatedto'] stick ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto', 'partof'] stem ['relatedto'] bolt ['usedfor'] fasten
+nickname ['relatedto'] apple ['relatedto', 'receivesaction'] eaten ['receivesaction'] frog ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] also ['relatedto'] staple ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] american ['relatedto'] bar ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] away ['antonym'] stay ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] ball ['relatedto'] stick ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] ball ['relatedto'] catch ['synonym'] fasten
+nickname ['relatedto'] apple ['relatedto'] ball ['relatedto'] string ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] ball ['relatedto'] tag ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] better ['relatedto'] fix ['synonym'] fasten
+nickname ['relatedto'] apple ['relatedto'] better ['etymologicallyrelatedto', 'relatedto'] batten ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] bigger ['relatedto'] stick ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] brand ['relatedto'] hood_ornament ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] circle ['relatedto'] hang ['mannerof'] fasten
+nickname ['relatedto'] apple ['relatedto'] circle ['mannerof', 'relatedto'] loop ['relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] circle ['relatedto'] button ['usedfor', 'mannerof', 'relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] circle ['synonym'] belt ['mannerof', 'relatedto'] fasten
+nickname ['relatedto'] apple ['relatedto'] color ['relatedto'] colorfast ['relatedto'] fasten

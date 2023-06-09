@@ -1,0 +1,100 @@
+woman ['relatedto'] whirlpooling ['relatedto'] grope
+woman ['relatedto'] human ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] human ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] big ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] fish ['mannerof'] search ['mannerof'] grope
+woman ['relatedto'] fish ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] body ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] long ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] bump ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] hen ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] single ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] eye ['relatedto'] grape ['relatedto'] grope
+woman ['relatedto'] eye ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] feel ['antonym', 'mannerof', 'relatedto', 'entails'] touch ['isa'] grope
+woman ['relatedto'] feel ['mannerof'] search ['mannerof'] grope
+woman ['relatedto'] feel ['relatedto'] grubble ['relatedto'] grope
+woman ['antonym', 'distinctfrom', 'relatedto'] men ['relatedto'] whirlpooling ['relatedto'] grope
+woman ['derivedfrom'] soundwoman ['derivedfrom'] sound ['relatedto'] grope
+woman ['derivedfrom'] wheelwoman ['derivedfrom'] wheel ['relatedto'] grope
+woman ['isa'] nymphet ['relatedto'] sexually ['relatedto'] grope
+woman ['isa'] wave ['isa', 'relatedto', 'partof'] sound ['relatedto'] grope
+woman ['relatedto'] alley_cat ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] bag ['synonym'] grip ['etymologicallyrelatedto', 'relatedto'] grope
+woman ['relatedto'] bitch ['synonym'] gripe ['etymologicallyrelatedto'] grope
+woman ['relatedto'] buer ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] demimondaine ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] fit ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] floozie ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] jagabat ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] jamette ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] mot ['isa', 'relatedto'] test ['relatedto'] grope
+woman ['relatedto'] nubile ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] sex_kitten ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] slip ['relatedto'] grip ['etymologicallyrelatedto', 'relatedto'] grope
+woman ['relatedto'] slip ['relatedto'] accidental ['relatedto'] grope
+woman ['relatedto'] superpussy ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] thot ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] toots ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] video_game ['relatedto'] cart ['relatedto'] grope
+woman ['relatedto'] wench ['relatedto'] medieval ['relatedto'] grope
+woman ['relatedto'] tits ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] unite ['mannerof'] club ['relatedto'] medieval ['relatedto'] grope
+woman ['relatedto'] unite ['mannerof'] change ['mannerof'] touch ['isa'] grope
+woman ['relatedto'] unite ['relatedto'] coarticulate ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] unite ['relatedto'] one ['relatedto'] grape ['relatedto'] grope
+woman ['relatedto'] unite ['relatedto'] union ['relatedto'] wheel ['relatedto'] grope
+woman ['relatedto'] unite ['relatedto'] bring ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] unite ['relatedto'] put ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] unite ['relatedto'] come ['relatedto'] medieval ['relatedto'] grope
+woman ['relatedto'] unite ['relatedto'] come ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] unite ['relatedto'] yoke ['relatedto'] cart ['relatedto'] grope
+woman ['relatedto'] children ['atlocation'] car ['usedfor', 'relatedto', 'partof'] wheel ['relatedto'] grope
+woman ['relatedto'] children ['atlocation'] car ['relatedto'] grip ['etymologicallyrelatedto', 'relatedto'] grope
+woman ['relatedto'] children ['atlocation'] classroom ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] children ['usedfor', 'relatedto', 'atlocation'] school ['antonym', 'relatedto'] test ['relatedto'] grope
+woman ['relatedto'] children ['capableof'] laugh ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] children ['causes'] sex ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] children ['causesdesire'] tickle ['isa', 'relatedto'] touch ['isa'] grope
+woman ['relatedto'] children ['causesdesire'] tickle ['mannerof'] caress ['mannerof'] grope
+woman ['relatedto'] children ['hasproperty'] noisy ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] children ['motivatedbygoal'] reproduce ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] baby ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] bag ['synonym'] grip ['etymologicallyrelatedto', 'relatedto'] grope
+woman ['relatedto'] children ['relatedto'] ball ['relatedto'] wheel ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] ball ['relatedto'] fumble ['relatedto', 'synonym'] grope
+woman ['relatedto'] children ['relatedto'] charm ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] child_pornography ['relatedto'] sexually ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] come ['relatedto'] medieval ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] come ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] children ['relatedto'] generic ['relatedto'] grape ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] generic ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] hands ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] children ['relatedto'] human ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] human ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] children ['relatedto'] little ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] means ['relatedto'] sound ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] means ['relatedto'] try ['mannerof'] grope
+woman ['relatedto'] children ['relatedto'] multiple ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] one ['relatedto'] grape ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] schools ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] small ['relatedto'] cart ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] small ['relatedto'] grape ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] small ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] class ['relatedto'] test ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] discipline ['relatedto'] gratification ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] pinwheel ['isa'] wheel ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] play ['isa'] touch ['isa'] grope
+woman ['relatedto'] children ['relatedto'] play ['mannerof'] fumble ['relatedto', 'synonym'] grope
+woman ['relatedto'] children ['relatedto'] play ['mannerof'] sound ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] punishment ['relatedto'] wheel ['relatedto'] grope
+woman ['relatedto'] children ['relatedto'] scrofula ['relatedto'] touch ['isa'] grope
+woman ['relatedto'] children ['usedfor'] snow ['relatedto'] test ['relatedto'] grope
+woman ['isa', 'relatedto'] adult ['antonym', 'distinctfrom'] baby ['relatedto'] sound ['relatedto'] grope
+woman ['isa', 'relatedto'] adult ['antonym', 'relatedto'] men ['relatedto'] whirlpooling ['relatedto'] grope
+woman ['isa', 'relatedto'] adult ['antonym'] small ['relatedto'] cart ['relatedto'] grope
+woman ['isa', 'relatedto'] adult ['antonym'] small ['relatedto'] grape ['relatedto'] grope
+woman ['isa', 'relatedto'] adult ['antonym'] small ['relatedto'] test ['relatedto'] grope
+woman ['isa', 'relatedto'] adult ['capableof'] drive_car ['usedfor'] wheel ['relatedto'] grope
+woman ['isa', 'relatedto'] adult ['capableof'] work ['relatedto'] test ['relatedto'] grope
+woman ['isa', 'relatedto'] adult ['capableof'] work ['relatedto'] touch ['isa'] grope

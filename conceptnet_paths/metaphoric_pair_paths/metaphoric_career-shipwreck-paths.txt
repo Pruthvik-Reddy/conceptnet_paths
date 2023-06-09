@@ -1,0 +1,100 @@
+career ['relatedto'] art ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] bathos ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] money ['relatedto'] accident ['isa'] shipwreck
+career ['antonym', 'relatedto'] term ['isa', 'relatedto'] subject ['mannerof'] shipwreck
+career ['isa'] progress ['antonym'] fail ['mannerof'] shipwreck
+career ['isa'] progress ['relatedto'] ruin ['isa', 'mannerof', 'relatedto'] shipwreck
+career ['mannerof'] travel ['usedfor', 'relatedto'] boat ['relatedto'] shipwreck
+career ['mannerof'] travel ['mannerof'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] making ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] career_suicide ['relatedto'] ruin ['isa', 'mannerof', 'relatedto'] shipwreck
+career ['relatedto'] launch ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] launch ['relatedto'] boat ['relatedto'] shipwreck
+career ['relatedto'] launch ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+career ['isa'] specialization ['relatedto'] lateralism ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] purpose ['antonym', 'distinctfrom'] accident ['isa'] shipwreck
+career ['relatedto'] act ['relatedto'] purpose ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['capableof'] humans ['capableof'] destroy ['mannerof'] shipwreck
+career ['relatedto'] act ['causes'] compel ['synonym'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['causes'] direct ['relatedto'] wreck ['relatedto', 'derivedfrom', 'synonym'] shipwreck
+career ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] destroy ['mannerof'] shipwreck
+career ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] fail ['mannerof'] shipwreck
+career ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['synonym'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto', 'derivedfrom'] actor ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['distinctfrom', 'relatedto', 'partof'] scene ['partof'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['isa'] event ['relatedto'] accident ['isa'] shipwreck
+career ['relatedto'] act ['isa'] activity ['relatedto'] boat ['relatedto'] shipwreck
+career ['relatedto'] act ['isa'] departure ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] act ['isa'] derivation ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['isa'] discovery ['isa'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] act ['isa'] forfeit ['isa', 'relatedto'] loss ['relatedto'] shipwreck
+career ['relatedto'] act ['isa'] hire ['mannerof'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] act ['isa'] injury ['isa', 'usedfor', 'relatedto', 'atlocation'] accident ['isa'] shipwreck
+career ['relatedto'] act ['isa'] injury ['relatedto', 'synonym'] loss ['relatedto'] shipwreck
+career ['relatedto'] act ['isa'] piracy ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] act ['isa'] touch ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] act ['isa'] waste ['relatedto', 'synonym'] destroy ['mannerof'] shipwreck
+career ['relatedto'] act ['isa'] waste ['relatedto'] loss ['relatedto'] shipwreck
+career ['relatedto'] act ['isa'] waste ['relatedto'] destruction ['relatedto', 'synonym'] shipwreck
+career ['relatedto'] act ['mannerof'] serve ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] act ['mannerof'] bank ['relatedto'] loss ['relatedto'] shipwreck
+career ['relatedto'] act ['mannerof'] create ['antonym', 'distinctfrom', 'relatedto'] destroy ['mannerof'] shipwreck
+career ['relatedto'] act ['mannerof', 'relatedto'] deal ['relatedto'] breaker ['relatedto'] shipwreck
+career ['relatedto'] act ['mannerof'] dispatch ['synonym'] destroy ['mannerof'] shipwreck
+career ['relatedto'] act ['mannerof', 'relatedto'] effect ['relatedto'] loss ['relatedto'] shipwreck
+career ['relatedto'] act ['mannerof'] force ['relatedto'] accident ['isa'] shipwreck
+career ['relatedto'] act ['mannerof'] freeze ['capableof'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['mannerof'] go ['relatedto'] boat ['relatedto'] shipwreck
+career ['relatedto'] act ['mannerof'] go ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['mannerof'] go ['synonym'] fail ['mannerof'] shipwreck
+career ['relatedto'] act ['mannerof', 'relatedto'] rush ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['mannerof'] try ['relatedto'] fail ['mannerof'] shipwreck
+career ['relatedto'] act ['mannerof', 'relatedto'] use ['relatedto'] destroy ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] craft ['relatedto', 'synonym'] boat ['relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] craft ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] motion ['isa'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] part ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] part ['isa'] wreckage ['isa'] shipwreck
+career ['relatedto'] act ['relatedto'] stuff ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] theater ['atlocation'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] winning ['distinctfrom'] fail ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] student ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] bitch ['relatedto'] ruin ['isa', 'mannerof', 'relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] bless ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] bounty ['isa'] ship ['isa', 'relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] character ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] contravene ['relatedto'] fail ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] cry ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] decimation ['isa', 'relatedto'] destruction ['relatedto', 'synonym'] shipwreck
+career ['relatedto'] act ['relatedto'] depopulation ['relatedto'] destruction ['relatedto', 'synonym'] shipwreck
+career ['relatedto'] act ['relatedto'] direct_object ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] dribble ['capableof'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] drift ['relatedto'] flotsam ['relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] drink ['usedfor', 'relatedto', 'atlocation'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] eat ['relatedto'] destroy ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] elimination ['relatedto'] fail ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] fast ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] fishing ['relatedto', 'hasprerequisite'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] fishing ['usedfor', 'relatedto'] boat ['relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] flush ['mannerof', 'relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] loo ['relatedto'] fail ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] manufacture ['antonym'] destroy ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] miracle ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] necessary ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] office ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] point ['relatedto'] accident ['isa'] shipwreck
+career ['relatedto'] act ['relatedto'] pot ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] pot ['relatedto'] ruin ['isa', 'mannerof', 'relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] primary_legislation ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] purging ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] reading ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] reply ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] title ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['relatedto'] transportation ['relatedto'] boat ['relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] trouble ['relatedto'] mishap ['relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] trouble ['relatedto'] wrack ['relatedto'] shipwreck
+career ['relatedto'] act ['relatedto'] vault ['relatedto'] water ['atlocation'] shipwreck
+career ['relatedto'] act ['relatedto'] writing ['relatedto'] subject ['mannerof'] shipwreck
+career ['relatedto'] act ['synonym'] fact ['relatedto'] accident ['isa'] shipwreck
+career ['relatedto'] act ['synonym'] law ['relatedto'] wreckmaster ['relatedto'] shipwreck
+career ['relatedto'] act ['synonym'] number ['relatedto'] accident ['isa'] shipwreck

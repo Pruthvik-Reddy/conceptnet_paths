@@ -1,0 +1,100 @@
+firewood ['relatedto'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['etymologicallyrelatedto'] pyre ['relatedto'] heap
+firewood ['relatedto'] camp ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] camp ['relatedto'] together ['relatedto'] heap
+firewood ['relatedto'] camp ['isa', 'relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] camp ['relatedto'] burrow ['relatedto'] heap
+firewood ['relatedto'] wood ['usedfor', 'relatedto', 'atlocation', 'isa', 'madeof'] tree ['relatedto'] heap
+firewood ['relatedto'] wood ['relatedto'] grain ['relatedto'] heap
+firewood ['relatedto'] wood ['relatedto'] rick ['relatedto'] heap
+firewood ['relatedto'] wood ['relatedto'] stack ['synonym'] heap
+firewood ['relatedto'] wood ['relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] material ['relatedto'] grain ['relatedto'] heap
+firewood ['relatedto'] stove ['relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] tree ['relatedto'] node ['relatedto'] heap
+firewood ['relatedto'] tree ['relatedto'] big ['relatedto'] heap
+firewood ['relatedto'] tree ['relatedto'] grain ['relatedto'] heap
+firewood ['relatedto'] tree ['relatedto'] data_structure ['relatedto'] heap
+firewood ['isa'] log ['relatedto'] tree ['relatedto'] heap
+firewood ['relatedto'] cord ['relatedto'] flatten ['antonym'] heap
+firewood ['relatedto'] cord ['mannerof'] stack ['synonym'] heap
+firewood ['relatedto'] fireplace ['derivedfrom'] place ['relatedto'] heap
+firewood ['isa'] backlog ['mannerof'] accumulate ['relatedto', 'synonym'] heap
+firewood ['relatedto'] fire ['relatedto'] base ['relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] base ['relatedto'] together ['relatedto'] heap
+firewood ['relatedto'] fire ['mannerof'] remove ['mannerof'] tip ['relatedto'] heap
+firewood ['relatedto'] fire ['mannerof'] remove ['relatedto'] grain ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] old ['relatedto'] child ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] old ['relatedto'] hill ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] aggregate ['relatedto'] batch ['synonym'] heap
+firewood ['relatedto'] fire ['relatedto'] aggregate ['relatedto'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] aggregate ['synonym'] accumulate ['relatedto', 'synonym'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom'] air ['atlocation'] bus ['synonym'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom'] air ['relatedto'] fill ['mannerof'] heap
+firewood ['relatedto'] fire ['relatedto'] earth ['atlocation'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] earth ['relatedto'] barrow ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] earth ['relatedto'] big ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] earth ['relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] earth ['relatedto'] burrow ['relatedto'] heap
+firewood ['relatedto'] fire ['relatedto'] earth ['relatedto'] hill ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['relatedto'] together ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym'] employ ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym'] employ ['relatedto'] give ['mannerof'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto'] cold ['relatedto'] congestion ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom'] ice ['relatedto'] agglomerate ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto', 'atlocation'] spray ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['desires'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['mannerof', 'relatedto'] fill ['mannerof'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] sozzle ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym'] hire ['mannerof'] fill ['mannerof'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] smoke ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] smoke ['relatedto'] give ['mannerof'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto'] wind ['relatedto'] big ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto'] wind ['relatedto'] agglomerate ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto'] wind ['relatedto'] driftwind ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto'] wind ['synonym'] tip ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto', 'atlocation'] wood ['usedfor', 'relatedto', 'atlocation', 'isa', 'madeof'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto', 'atlocation'] wood ['relatedto'] grain ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto', 'atlocation'] wood ['relatedto'] rick ['relatedto'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto', 'atlocation'] wood ['relatedto'] stack ['synonym'] heap
+firewood ['relatedto'] fire ['antonym', 'relatedto', 'atlocation'] wood ['relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] fire ['isa', 'relatedto', 'derivedfrom', 'atlocation'] fireplace ['derivedfrom'] place ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] forest ['relatedto'] big ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] forest ['atlocation'] hill ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] forest ['capableof', 'relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] forest ['relatedto', 'partof'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] house ['relatedto'] child ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] house ['isa', 'relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] house ['relatedto'] big ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] house ['relatedto'] lot ['relatedto'] heap
+firewood ['relatedto'] fire ['atlocation'] house ['relatedto'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['capableof'] harm ['relatedto'] flatten ['antonym'] heap
+firewood ['relatedto'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['relatedto'] agglomerate ['relatedto'] heap
+firewood ['relatedto'] fire ['capableof'] kill ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['capableof'] kill ['antonym'] give ['mannerof'] heap
+firewood ['relatedto'] fire ['capableof'] kill ['usedfor'] bus ['synonym'] heap
+firewood ['relatedto'] fire ['causes'] pain ['capableof'] child ['relatedto'] heap
+firewood ['relatedto'] fire ['causes', 'relatedto', 'usedfor'] match ['relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] fire ['causes', 'relatedto'] spark ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['isa', 'relatedto', 'derivedfrom'] balefire ['relatedto'] pyre ['relatedto'] heap
+firewood ['relatedto'] fire ['derivedfrom'] fire_truck ['relatedto'] vehicle ['relatedto'] heap
+firewood ['relatedto'] fire ['derivedfrom'] fireship ['relatedto'] drift ['relatedto'] heap
+firewood ['relatedto'] fire ['derivedfrom'] firetruck ['relatedto'] vehicle ['relatedto'] heap
+firewood ['relatedto'] fire ['distinctfrom'] snow ['derivedfrom'] snowbank ['relatedto'] heap
+firewood ['relatedto'] fire ['distinctfrom'] snow ['relatedto'] driftwind ['relatedto'] heap
+firewood ['relatedto'] fire ['etymologicallyrelatedto'] pyre ['isa', 'relatedto'] pile ['relatedto', 'similarto', 'synonym'] heap
+firewood ['relatedto'] fire ['relatedto', 'hasprerequisite'] oxygen ['usedfor', 'relatedto'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['isa'] cover ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['isa'] cover ['mannerof'] spray ['relatedto'] heap
+firewood ['relatedto'] fire ['isa'] cover ['relatedto'] place ['relatedto'] heap
+firewood ['relatedto'] fire ['isa'] cover ['relatedto'] pile ['relatedto', 'similarto', 'synonym'] heap
+firewood ['relatedto'] fire ['isa', 'relatedto'] combustion ['relatedto'] action ['relatedto'] heap
+firewood ['relatedto'] fire ['isa', 'relatedto'] combustion ['relatedto'] ton ['synonym'] heap
+firewood ['relatedto'] fire ['isa', 'relatedto'] element ['relatedto'] flatten ['antonym'] heap
+firewood ['relatedto'] fire ['isa', 'relatedto'] element ['relatedto'] tree ['relatedto'] heap
+firewood ['relatedto'] fire ['isa'] book ['atlocation'] stack ['synonym'] heap
+firewood ['relatedto'] fire ['isa'] book ['relatedto'] bookmark ['relatedto'] heap
+firewood ['relatedto'] fire ['isa'] book ['relatedto'] place ['relatedto'] heap

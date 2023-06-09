@@ -1,0 +1,100 @@
+production ['relatedto'] mount
+production ['relatedto'] play ['relatedto'] mount
+production ['isa'] act ['mannerof'] bank ['relatedto'] mount
+production ['isa'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['relatedto'] mount
+production ['isa'] act ['mannerof'] support ['relatedto'] mount
+production ['relatedto'] activity ['isa'] support ['relatedto'] mount
+production ['relatedto'] activity ['relatedto'] climb ['relatedto', 'synonym'] mount
+production ['relatedto'] activity ['relatedto'] drive ['relatedto'] mount
+production ['relatedto'] activity ['relatedto'] organize ['mannerof'] mount
+production ['relatedto'] activity ['relatedto'] play ['relatedto'] mount
+production ['relatedto'] activity ['relatedto'] ride ['relatedto', 'synonym'] mount
+production ['isa'] boring ['antonym'] play ['relatedto'] mount
+production ['isa', 'relatedto'] creation ['isa'] building ['isa'] mount
+production ['relatedto'] art ['relatedto', 'atlocation'] horse ['relatedto'] mount
+production ['relatedto'] art ['isa', 'relatedto'] taxidermy ['relatedto'] mount
+production ['relatedto'] art ['relatedto'] play ['relatedto'] mount
+production ['relatedto'] productive ['relatedto'] set ['similarto'] mount
+production ['relatedto'] big ['relatedto'] bank ['relatedto'] mount
+production ['relatedto'] big ['relatedto'] hill ['relatedto'] mount
+production ['relatedto'] big ['relatedto'] horse ['relatedto'] mount
+production ['relatedto'] big ['relatedto'] mountain ['relatedto', 'synonym'] mount
+production ['relatedto'] work ['relatedto'] set ['similarto'] mount
+production ['relatedto'] work ['mannerof'] bank ['relatedto'] mount
+production ['relatedto'] work ['antonym', 'distinctfrom', 'relatedto'] play ['relatedto'] mount
+production ['relatedto'] work ['etymologicallyrelatedto'] bulwark ['relatedto'] mount
+production ['relatedto'] work ['relatedto', 'hasprerequisite'] building ['isa'] mount
+production ['relatedto'] work ['mannerof', 'relatedto'] drive ['relatedto'] mount
+production ['relatedto'] work ['relatedto'] horse ['relatedto'] mount
+production ['relatedto'] work ['relatedto', 'synonym'] influence ['relatedto'] mount
+production ['relatedto'] business ['relatedto'] bank ['relatedto'] mount
+production ['relatedto'] business ['atlocation'] building ['isa'] mount
+production ['relatedto'] business ['relatedto'] amount ['relatedto'] mount
+production ['isa'] capacity ['relatedto'] amount ['relatedto'] mount
+production ['relatedto'] cast ['relatedto'] set ['similarto'] mount
+production ['relatedto'] cast ['relatedto'] play ['relatedto'] mount
+production ['relatedto'] cast ['relatedto'] device ['relatedto'] mount
+production ['relatedto'] cast ['relatedto'] horse ['relatedto'] mount
+production ['relatedto'] line ['synonym', 'atlocation'] bank ['relatedto'] mount
+production ['relatedto'] line ['atlocation'] play ['relatedto'] mount
+production ['relatedto'] line ['relatedto'] landing_net ['relatedto'] mount
+production ['relatedto'] line ['relatedto'] cavalry ['relatedto'] mount
+production ['relatedto'] line ['relatedto'] organize ['mannerof'] mount
+production ['relatedto'] line ['relatedto'] wax ['synonym'] mount
+production ['relatedto'] deal ['relatedto', 'synonym'] hand ['relatedto'] mount
+production ['relatedto'] deal ['relatedto'] play ['relatedto'] mount
+production ['relatedto'] deal ['relatedto'] amount ['relatedto'] mount
+production ['relatedto'] farm ['relatedto'] building ['isa'] mount
+production ['relatedto'] farm ['relatedto'] setting ['synonym'] mount
+production ['relatedto'] farm ['relatedto'] amount ['relatedto'] mount
+production ['relatedto'] farm ['relatedto'] horse ['relatedto'] mount
+production ['relatedto'] show ['atlocation'] horse ['relatedto'] mount
+production ['relatedto'] show ['isa', 'relatedto'] play ['relatedto'] mount
+production ['relatedto'] show ['relatedto'] device ['relatedto'] mount
+production ['relatedto'] waste ['relatedto', 'synonym'] litter ['relatedto'] mount
+production ['relatedto'] metal ['madeof'] bicycle ['relatedto'] mount
+production ['relatedto'] metal ['relatedto'] hardpoint ['relatedto'] mount
+production ['relatedto'] metal ['relatedto'] building ['isa'] mount
+production ['relatedto'] crop ['relatedto', 'derivedfrom'] riding_crop ['relatedto'] mount
+production ['relatedto'] function ['relatedto'] support ['relatedto'] mount
+production ['relatedto'] function ['relatedto'] drive ['relatedto'] mount
+production ['relatedto'] function ['relatedto'] play ['relatedto'] mount
+production ['relatedto'] energy ['isa', 'relatedto'] drive ['relatedto'] mount
+production ['relatedto'] mass ['relatedto'] bank ['relatedto'] mount
+production ['relatedto'] mass ['relatedto'] mountain ['relatedto', 'synonym'] mount
+production ['relatedto'] mass ['relatedto'] drive ['relatedto'] mount
+production ['relatedto'] mass ['relatedto'] hill ['relatedto'] mount
+production ['relatedto'] mass ['relatedto'] amount ['relatedto'] mount
+production ['relatedto'] mass ['relatedto'] setting ['synonym'] mount
+production ['relatedto'] factory ['relatedto'] building ['isa'] mount
+production ['relatedto'] making ['relatedto'] organize ['mannerof'] mount
+production ['relatedto'] making ['relatedto'] wax ['synonym'] mount
+production ['isa', 'relatedto', 'synonym'] output ['relatedto'] wax ['synonym'] mount
+production ['relatedto'] manufacture ['relatedto'] hand ['relatedto'] mount
+production ['relatedto'] manufacture ['relatedto'] building ['isa'] mount
+production ['relatedto'] movie ['atlocation'] horse ['relatedto'] mount
+production ['relatedto'] movie ['antonym', 'relatedto'] play ['relatedto'] mount
+production ['relatedto'] play ['relatedto'] set ['similarto'] mount
+production ['relatedto'] play ['mannerof'] deploy ['relatedto'] mount
+production ['relatedto'] play ['relatedto'] cavort ['relatedto'] mount
+production ['derivedfrom'] reproduction ['relatedto'] mate ['relatedto'] mount
+production ['relatedto'] writing ['relatedto', 'hasprerequisite'] hand ['relatedto'] mount
+production ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] produce ['relatedto'] wax ['synonym'] mount
+production ['relatedto', 'synonym'] product ['relatedto'] put_together ['synonym'] mount
+production ['relatedto', 'synonym'] product ['relatedto'] wax ['synonym'] mount
+production ['etymologicallyrelatedto', 'relatedto'] prod ['isa'] device ['relatedto'] mount
+production ['isa'] breeding ['relatedto'] mate ['relatedto'] mount
+production ['isa'] breeding ['usedfor'] horse ['relatedto'] mount
+production ['isa'] devising ['relatedto'] device ['relatedto'] mount
+production ['isa'] foliation ['relatedto'] set ['similarto'] mount
+production ['isa'] display ['relatedto'] heaven ['relatedto'] mount
+production ['isa'] display ['etymologicallyrelatedto'] deploy ['relatedto'] mount
+production ['isa'] presentation ['relatedto'] play ['relatedto'] mount
+production ['isa'] exhibition ['relatedto'] taxidermy ['relatedto'] mount
+production ['isa'] theatrical_production ['relatedto'] play ['relatedto'] mount
+production ['relatedto'] apparatus ['synonym'] device ['relatedto'] mount
+production ['relatedto'] bogey ['relatedto'] set ['similarto'] mount
+production ['relatedto'] craft_service ['relatedto'] set ['similarto'] mount
+production ['relatedto'] crofting ['relatedto'] hill ['relatedto'] mount
+production ['relatedto'] electroglottograph ['relatedto'] device ['relatedto'] mount
+production ['relatedto'] encore ['relatedto'] back ['relatedto'] mount

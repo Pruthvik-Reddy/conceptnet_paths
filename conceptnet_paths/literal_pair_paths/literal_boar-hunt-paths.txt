@@ -1,0 +1,100 @@
+boar ['relatedto'] animal ['relatedto'] hunt
+boar ['relatedto'] pig_sticking ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom'] man ['relatedto'] hunt
+boar ['relatedto'] animal ['formof', 'relatedto'] animals ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] coon ['relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] deer ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] ferret ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['isa'] fowl ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] fox ['relatedto', 'atlocation'] hunt
+boar ['relatedto'] animal ['isa'] game ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] hawk ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] predator ['relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] prey ['relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] rabbit ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] turtle ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] antihunter ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] big_five ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] blood_sport ['isa'] hunt
+boar ['relatedto'] animal ['relatedto'] drive ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] duck ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] fly ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] hunter ['relatedto', 'derivedfrom'] hunt
+boar ['relatedto'] animal ['relatedto'] moth ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] nest ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] pothunter ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] predation ['isa'] hunt
+boar ['relatedto'] animal ['relatedto'] safari ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] seal ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] venatio ['relatedto'] hunt
+boar ['relatedto'] coarse ['etymologicallyrelatedto'] course ['mannerof'] hunt
+boar ['relatedto'] male ['isa'] animal ['relatedto'] hunt
+boar ['relatedto'] male ['isa', 'relatedto'] man ['relatedto'] hunt
+boar ['relatedto'] male ['relatedto'] rabbit ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] wild ['relatedto', 'atlocation'] animal ['relatedto'] hunt
+boar ['relatedto'] wild ['relatedto'] club ['isa'] hunt
+boar ['relatedto'] wild ['atlocation'] ferret ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] wild ['relatedto', 'atlocation'] fox ['relatedto', 'atlocation'] hunt
+boar ['relatedto'] wild ['relatedto', 'derivedfrom'] wildfowl ['relatedto'] hunt
+boar ['relatedto'] wild ['relatedto'] nest ['relatedto'] hunt
+boar ['relatedto'] wild ['relatedto'] turkey_shoot ['relatedto'] hunt
+boar ['relatedto'] wild ['relatedto'] animals ['relatedto'] hunt
+boar ['relatedto'] hairy ['relatedto'] man ['relatedto'] hunt
+boar ['relatedto'] large ['relatedto'] organization ['relatedto'] hunt
+boar ['relatedto'] large ['relatedto'] rabbit ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] large ['relatedto'] whale ['mannerof'] hunt
+boar ['relatedto'] barrow ['atlocation'] fox ['relatedto', 'atlocation'] hunt
+boar ['isa', 'relatedto', 'synonym'] pig ['isa', 'relatedto'] animal ['relatedto'] hunt
+boar ['isa', 'relatedto', 'synonym'] pig ['relatedto'] game ['relatedto'] hunt
+boar ['isa', 'relatedto', 'synonym'] pig ['relatedto'] animals ['relatedto'] hunt
+boar ['isa', 'relatedto', 'synonym'] pig ['derivedfrom'] pig_sticking ['relatedto'] hunt
+boar ['isa', 'relatedto', 'synonym'] pig ['relatedto'] shoot ['relatedto'] hunt
+boar ['relatedto', 'derivedfrom'] boar_spear ['relatedto'] hunting ['formof', 'relatedto', 'derivedfrom', 'synonym'] hunt
+boar ['relatedto'] hog ['relatedto'] animal ['relatedto'] hunt
+boar ['relatedto'] boarhound ['isa'] hound ['relatedto', 'synonym'] hunt
+boar ['relatedto'] fiants ['relatedto'] fox ['relatedto', 'atlocation'] hunt
+boar ['relatedto'] animal ['isa'] child ['relatedto'] man ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] child ['relatedto'] cub ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] child ['relatedto'] game ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] child ['relatedto'] kite ['relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] adult ['antonym', 'isa', 'relatedto'] man ['relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] adult ['relatedto'] duck ['relatedto'] hunt
+boar ['relatedto'] animal ['isa', 'relatedto'] adult ['relatedto'] rabbit ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['isa'] governor ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto', 'synonym'] man ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] organization ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] run ['synonym'] hunt
+boar ['relatedto'] animal ['isa'] young ['relatedto'] cub ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] young ['relatedto'] nest ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] young ['relatedto'] look ['relatedto'] hunt
+boar ['relatedto'] animal ['isa'] patient ['relatedto'] pursuit ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] alien ['relatedto'] man ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] alien ['relatedto'] organization ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] activity ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['antonym'] kill ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['hasproperty'] animals ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] duck ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] man ['relatedto'] hunt
+boar ['relatedto'] animal ['relatedto'] sometimes ['relatedto'] duck ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto', 'atlocation'] nest ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['capableof', 'relatedto', 'desires'] fly ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto', 'derivedfrom'] birder ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] falcon ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto', 'synonym'] fowl ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] hawk ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] kite ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['isa', 'relatedto'] wildfowl ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] animals ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] duck ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] man ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['synonym'] time ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom'] man ['relatedto'] club ['isa'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] hunter_gatherer ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] forests ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] shoot ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] sport ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] stalk ['isa'] hunt
+boar ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['relatedto'] duck ['relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['capableof'] ferret ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['capableof'] turtle ['mannerof', 'relatedto'] hunt
+boar ['relatedto'] animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['isa'] poodle ['relatedto'] hunt

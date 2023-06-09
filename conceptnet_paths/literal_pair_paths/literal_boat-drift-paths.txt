@@ -1,0 +1,100 @@
+boat ['distinctfrom', 'relatedto'] raft ['relatedto'] drift
+boat ['isa', 'relatedto'] vehicle ['relatedto'] drift
+boat ['relatedto', 'partof'] hull ['relatedto'] drift
+boat ['relatedto'] movement ['synonym'] drift
+boat ['relatedto'] shape ['relatedto'] drift
+boat ['relatedto'] activity ['isa'] act ['relatedto'] drift
+boat ['relatedto'] activity ['relatedto'] force ['isa', 'relatedto'] drift
+boat ['relatedto'] activity ['relatedto'] movement ['synonym'] drift
+boat ['relatedto'] activity ['relatedto'] collection ['relatedto'] drift
+boat ['relatedto'] activity ['relatedto'] drive ['etymologicallyrelatedto'] drift
+boat ['relatedto'] activity ['relatedto'] impetus ['synonym'] drift
+boat ['relatedto'] activity ['relatedto'] run ['relatedto'] drift
+boat ['relatedto'] activity ['synonym'] natural_process ['isa'] drift
+boat ['relatedto'] smaller ['relatedto'] crop ['mannerof'] drift
+boat ['relatedto'] smaller ['relatedto'] roll ['synonym'] drift
+boat ['atlocation'] human ['antonym'] bird ['relatedto'] drift
+boat ['atlocation'] human ['atlocation'] motion ['relatedto'] drift
+boat ['atlocation'] human ['relatedto'] run ['relatedto'] drift
+boat ['relatedto'] land ['haslastsubevent'] fall ['relatedto'] drift
+boat ['relatedto'] land ['mannerof'] beach ['relatedto'] drift
+boat ['relatedto'] land ['relatedto'] course ['relatedto'] drift
+boat ['relatedto'] land ['relatedto'] crop ['mannerof'] drift
+boat ['relatedto'] land ['relatedto'] drove ['relatedto'] drift
+boat ['relatedto'] land ['relatedto'] mass ['isa'] drift
+boat ['relatedto'] land ['relatedto'] surface ['relatedto'] drift
+boat ['relatedto'] land ['relatedto'] thrust ['relatedto'] drift
+boat ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] current ['relatedto'] drift
+boat ['relatedto', 'atlocation'] water ['hasa'] surface ['relatedto'] drift
+boat ['relatedto', 'atlocation'] water ['relatedto'] beach ['relatedto'] drift
+boat ['relatedto', 'atlocation'] water ['relatedto'] float ['mannerof', 'synonym'] drift
+boat ['relatedto', 'atlocation'] water ['relatedto'] gurt ['relatedto'] drift
+boat ['relatedto', 'atlocation'] water ['relatedto'] raft ['relatedto'] drift
+boat ['relatedto', 'atlocation'] water ['relatedto'] vault ['relatedto'] drift
+boat ['relatedto', 'atlocation'] water ['usedfor'] hole ['relatedto'] drift
+boat ['relatedto'] go ['mannerof'] act ['relatedto'] drift
+boat ['relatedto'] go ['relatedto'] fall ['relatedto'] drift
+boat ['relatedto'] go ['relatedto'] distance ['relatedto'] drift
+boat ['relatedto'] go ['relatedto'] drive ['etymologicallyrelatedto'] drift
+boat ['relatedto'] go ['relatedto'] movement ['synonym'] drift
+boat ['relatedto'] go ['relatedto'] set ['relatedto'] drift
+boat ['relatedto'] go ['relatedto', 'synonym'] run ['relatedto'] drift
+boat ['relatedto'] go ['relatedto'] change ['mannerof'] drift
+boat ['relatedto'] navy ['antonym', 'relatedto'] force ['isa', 'relatedto'] drift
+boat ['relatedto'] bow ['relatedto'] waist ['relatedto'] drift
+boat ['relatedto'] bow ['relatedto'] sheer ['relatedto'] drift
+boat ['isa'] junk ['relatedto'] collection ['relatedto'] drift
+boat ['relatedto'] wet ['mannerof'] change ['mannerof'] drift
+boat ['relatedto'] chair ['atlocation'] corner ['relatedto'] drift
+boat ['relatedto'] chair ['relatedto'] surface ['relatedto'] drift
+boat ['relatedto'] chair ['relatedto'] tool ['relatedto'] drift
+boat ['relatedto'] chair ['relatedto'] vehicle ['relatedto'] drift
+boat ['atlocation'] bell ['relatedto'] shape ['relatedto'] drift
+boat ['atlocation'] bell ['relatedto'] tool ['relatedto'] drift
+boat ['atlocation'] bell ['relatedto'] change ['mannerof'] drift
+boat ['atlocation'] food ['atlocation'] crab ['relatedto'] drift
+boat ['atlocation'] food ['relatedto'] crop ['mannerof'] drift
+boat ['atlocation'] food ['relatedto'] roll ['synonym'] drift
+boat ['atlocation'] food ['relatedto'] sheep ['relatedto'] drift
+boat ['relatedto'] thing ['isa'] change ['mannerof'] drift
+boat ['relatedto'] thing ['relatedto'] force ['isa', 'relatedto'] drift
+boat ['relatedto'] big ['relatedto'] boulder ['relatedto'] drift
+boat ['relatedto'] big ['relatedto'] club ['relatedto'] drift
+boat ['relatedto'] big ['relatedto'] crop ['mannerof'] drift
+boat ['relatedto'] big ['relatedto'] heap ['relatedto'] drift
+boat ['relatedto'] big ['relatedto'] mass ['isa'] drift
+boat ['relatedto'] big ['relatedto'] rocket ['relatedto'] drift
+boat ['relatedto'] big ['relatedto'] sheep ['relatedto'] drift
+boat ['relatedto'] little ['relatedto'] change ['mannerof'] drift
+boat ['relatedto'] small ['relatedto'] bird ['relatedto'] drift
+boat ['relatedto'] small ['relatedto'] change ['mannerof'] drift
+boat ['relatedto'] small ['relatedto'] club ['relatedto'] drift
+boat ['relatedto'] small ['relatedto'] crab ['relatedto'] drift
+boat ['relatedto'] small ['relatedto'] roll ['synonym'] drift
+boat ['atlocation'] fish ['antonym'] bird ['relatedto'] drift
+boat ['atlocation'] fish ['isa', 'relatedto', 'derivedfrom'] driftfish ['derivedfrom'] drift
+boat ['atlocation'] fish ['mannerof', 'relatedto', 'synonym'] angle ['relatedto'] drift
+boat ['atlocation'] fish ['mannerof', 'relatedto'] crab ['relatedto'] drift
+boat ['relatedto'] plane ['antonym', 'relatedto'] bird ['relatedto'] drift
+boat ['relatedto'] plane ['capableof'] fall ['relatedto'] drift
+boat ['relatedto'] plane ['isa', 'relatedto'] vehicle ['relatedto'] drift
+boat ['relatedto'] plane ['isa', 'relatedto'] surface ['relatedto'] drift
+boat ['relatedto'] plane ['isa'] shape ['relatedto'] drift
+boat ['relatedto'] plane ['relatedto'] angle ['relatedto'] drift
+boat ['relatedto'] plane ['relatedto'] hull ['relatedto'] drift
+boat ['relatedto'] plane ['relatedto'] inclination ['isa'] drift
+boat ['relatedto'] plane ['relatedto'] tool ['relatedto'] drift
+boat ['relatedto'] board ['relatedto'] set ['relatedto'] drift
+boat ['relatedto'] board ['isa', 'relatedto'] surface ['relatedto'] drift
+boat ['relatedto'] board ['relatedto'] shape ['relatedto'] drift
+boat ['relatedto'] board ['relatedto'] tool ['relatedto'] drift
+boat ['relatedto'] board ['relatedto'] distance ['relatedto'] drift
+boat ['relatedto'] board ['relatedto'] hole ['relatedto'] drift
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['usedfor', 'causesdesire', 'relatedto'] drive ['etymologicallyrelatedto'] drift
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['isa'] tool ['relatedto'] drift
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['isa', 'relatedto'] vehicle ['relatedto'] drift
+boat ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] ford ['relatedto'] drift
+boat ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] ship ['relatedto', 'derivedfrom'] fireship ['relatedto'] drift
+boat ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] ship ['isa'] vehicle ['relatedto'] drift
+boat ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] ship ['relatedto', 'partof'] hull ['relatedto'] drift
+boat ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] ship ['partof'] sea_anchor ['relatedto'] drift

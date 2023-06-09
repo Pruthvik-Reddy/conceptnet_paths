@@ -1,0 +1,100 @@
+ball ['relatedto'] juggle
+ball ['relatedto'] throw ['mannerof'] juggle
+ball ['relatedto'] club ['relatedto'] juggle
+ball ['relatedto'] handle ['relatedto'] juggle
+ball ['relatedto'] juggler ['relatedto', 'derivedfrom'] juggle
+ball ['relatedto'] children ['relatedto'] trick ['relatedto'] juggle
+ball ['relatedto'] air ['relatedto'] poise ['mannerof'] juggle
+ball ['relatedto'] air ['relatedto'] juggler ['relatedto', 'derivedfrom'] juggle
+ball ['relatedto'] air ['relatedto'] throw ['mannerof'] juggle
+ball ['relatedto'] lie ['motivatedbygoal', 'relatedto'] cheat ['mannerof'] juggle
+ball ['relatedto'] lie ['relatedto'] deceive ['relatedto'] juggle
+ball ['relatedto'] lie ['relatedto'] trick ['relatedto'] juggle
+ball ['relatedto'] around ['relatedto'] ring ['relatedto'] juggle
+ball ['relatedto'] atom ['relatedto'] ring ['relatedto'] juggle
+ball ['relatedto'] stick ['isa', 'relatedto'] club ['relatedto'] juggle
+ball ['relatedto'] stick ['relatedto'] handle ['relatedto'] juggle
+ball ['relatedto'] good ['relatedto'] hat ['relatedto'] juggle
+ball ['antonym'] hoop ['relatedto', 'synonym'] ring ['relatedto'] juggle
+ball ['antonym'] square ['antonym'] ring ['relatedto'] juggle
+ball ['antonym'] box ['atlocation'] hat ['relatedto'] juggle
+ball ['antonym'] box ['relatedto', 'atlocation'] ring ['relatedto'] juggle
+ball ['antonym'] box ['isa'] cigar_box ['relatedto'] juggle
+ball ['usedfor', 'atlocation'] bearing ['relatedto'] poise ['mannerof'] juggle
+ball ['atlocation'] closet ['atlocation'] hat ['relatedto'] juggle
+ball ['relatedto', 'atlocation'] hole ['relatedto'] ring ['relatedto'] juggle
+ball ['atlocation'] toy_box ['atlocation'] beanbag ['relatedto'] juggle
+ball ['atlocation'] toy_store ['atlocation'] beanbag ['relatedto'] juggle
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] throw ['mannerof'] juggle
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] trick ['relatedto'] juggle
+ball ['capableof', 'isa', 'relatedto'] toy ['relatedto'] trick ['relatedto'] juggle
+ball ['capableof', 'isa', 'relatedto'] toy ['mannerof'] manipulate ['relatedto'] juggle
+ball ['derivedfrom'] ballrace ['relatedto'] ring ['relatedto'] juggle
+ball ['derivedfrom'] stage_ball ['similarto'] beanbag ['relatedto'] juggle
+ball ['derivedfrom'] stage_ball ['relatedto'] juggling ['formof', 'relatedto', 'derivedfrom', 'synonym'] juggle
+ball ['distinctfrom', 'relatedto'] circle ['relatedto'] ring ['relatedto'] juggle
+ball ['distinctfrom', 'relatedto'] circle ['relatedto'] circus ['relatedto'] juggle
+ball ['distinctfrom'] point ['relatedto'] handle ['relatedto'] juggle
+ball ['etymologicallyrelatedto', 'relatedto'] balloon ['atlocation'] circus ['relatedto'] juggle
+ball ['isa', 'hasprerequisite', 'synonym'] baseball ['relatedto'] throw ['mannerof'] juggle
+ball ['relatedto', 'hasproperty'] circular ['relatedto'] ring ['relatedto'] juggle
+ball ['relatedto', 'hasproperty'] circular ['relatedto'] circus ['relatedto'] juggle
+ball ['relatedto', 'hasproperty'] round ['relatedto'] circus ['relatedto'] juggle
+ball ['relatedto', 'hasproperty'] round ['relatedto'] ring ['relatedto'] juggle
+ball ['isa'] celebration ['relatedto'] performance ['isa'] juggle
+ball ['isa', 'relatedto'] dance ['relatedto'] artistic ['relatedto'] juggle
+ball ['isa', 'relatedto'] dance ['usedfor', 'relatedto'] club ['relatedto'] juggle
+ball ['isa', 'relatedto'] dance ['relatedto'] artful ['relatedto'] juggle
+ball ['isa', 'relatedto'] dance ['relatedto'] performance ['isa'] juggle
+ball ['isa'] event ['relatedto'] performance ['isa'] juggle
+ball ['isa'] party ['relatedto'] club ['relatedto'] juggle
+ball ['isa'] party ['relatedto'] throw ['mannerof'] juggle
+ball ['isa'] party ['relatedto'] trick ['relatedto'] juggle
+ball ['isa', 'relatedto'] round_object ['relatedto'] ring ['relatedto'] juggle
+ball ['isa'] rigid_portable_object ['isa'] ring ['relatedto'] juggle
+ball ['isa', 'relatedto'] round_thing ['relatedto'] ring ['relatedto'] juggle
+ball ['isa', 'relatedto'] pitch ['isa', 'relatedto'] throw ['mannerof'] juggle
+ball ['isa', 'relatedto'] plaything ['relatedto'] club ['relatedto'] juggle
+ball ['isa', 'relatedto'] plaything ['relatedto'] trick ['relatedto'] juggle
+ball ['isa'] video_game ['isa'] circus ['relatedto'] juggle
+ball ['isa', 'relatedto'] basketball ['usedfor'] throw ['mannerof'] juggle
+ball ['isa', 'relatedto'] bowl ['relatedto'] handle ['relatedto'] juggle
+ball ['isa', 'relatedto'] bowl ['synonym'] throw ['mannerof'] juggle
+ball ['isa', 'relatedto'] football ['relatedto'] throw ['mannerof'] juggle
+ball ['isa'] hacky_sack ['synonym'] beanbag ['relatedto'] juggle
+ball ['isa'] jack ['relatedto'] ring ['relatedto'] juggle
+ball ['isa'] pellet ['relatedto'] beanbag ['relatedto'] juggle
+ball ['partof'] hand ['relatedto', 'synonym'] handle ['relatedto'] juggle
+ball ['partof'] hand ['relatedto'] manipulate ['relatedto'] juggle
+ball ['partof'] hand ['relatedto'] prestidigitate ['relatedto'] juggle
+ball ['partof'] hand ['relatedto'] ring ['relatedto'] juggle
+ball ['partof'] hand ['relatedto'] trick ['relatedto'] juggle
+ball ['relatedto'] accessory ['relatedto'] ring ['relatedto'] juggle
+ball ['relatedto'] accessory ['isa'] hat ['relatedto'] juggle
+ball ['relatedto'] bat ['isa', 'relatedto', 'synonym'] club ['relatedto'] juggle
+ball ['relatedto'] bat ['relatedto'] handle ['relatedto'] juggle
+ball ['relatedto'] catch ['antonym'] throw ['mannerof'] juggle
+ball ['relatedto'] catch ['relatedto'] deceive ['relatedto'] juggle
+ball ['relatedto'] catch ['relatedto'] toss_juggling ['relatedto'] juggle
+ball ['relatedto'] device ['relatedto'] handle ['relatedto'] juggle
+ball ['relatedto'] device ['isa'] trick ['relatedto'] juggle
+ball ['relatedto'] device ['relatedto'] artifice ['relatedto'] juggle
+ball ['relatedto'] device ['relatedto'] prop ['relatedto'] juggle
+ball ['relatedto'] dimensional ['relatedto'] handle ['relatedto'] juggle
+ball ['usedfor', 'relatedto'] game ['relatedto'] cheat ['mannerof'] juggle
+ball ['usedfor', 'relatedto'] game ['isa'] fudge ['mannerof'] juggle
+ball ['usedfor', 'relatedto'] game ['relatedto'] trick ['relatedto'] juggle
+ball ['relatedto'] hit ['mannerof', 'relatedto'] club ['relatedto'] juggle
+ball ['relatedto'] hit ['formof'] hat ['relatedto'] juggle
+ball ['relatedto'] item ['relatedto'] ring ['relatedto'] juggle
+ball ['relatedto'] item ['relatedto'] trick ['relatedto'] juggle
+ball ['relatedto'] item ['relatedto'] prop ['relatedto'] juggle
+ball ['usedfor', 'relatedto'] play ['relatedto'] cheat ['mannerof'] juggle
+ball ['usedfor', 'relatedto'] play ['capableof', 'relatedto', 'atlocation'] performance ['isa'] juggle
+ball ['usedfor', 'relatedto'] play ['antonym'] trick ['relatedto'] juggle
+ball ['usedfor', 'relatedto'] play ['relatedto'] deceive ['relatedto'] juggle
+ball ['usedfor', 'relatedto'] play ['relatedto'] manipulate ['relatedto'] juggle
+ball ['relatedto'] play_catch ['usedfor'] beanbag ['relatedto'] juggle
+ball ['relatedto'] playing ['relatedto'] cheat ['mannerof'] juggle
+ball ['relatedto'] playing ['relatedto'] club ['relatedto'] juggle
+ball ['relatedto'] playing_catch ['usedfor'] beanbag ['relatedto'] juggle

@@ -1,0 +1,100 @@
+mattress ['atlocation'] house ['isa'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] price ['relatedto'] deflate
+mattress ['relatedto'] sleep ['relatedto'] reduce ['mannerof', 'relatedto'] deflate
+mattress ['relatedto'] spring ['relatedto'] compress ['relatedto'] deflate
+mattress ['antonym'] bank ['relatedto'] turn ['mannerof'] deflate
+mattress ['hasa', 'relatedto', 'partof', 'atlocation'] bed ['relatedto', 'hasproperty'] flat ['synonym'] deflate
+mattress ['isa', 'relatedto'] tick ['relatedto'] credit ['relatedto'] deflate
+mattress ['relatedto'] high_riser ['relatedto'] collapse ['mannerof'] deflate
+mattress ['relatedto'] box ['isa'] flat ['synonym'] deflate
+mattress ['relatedto'] part ['isa', 'relatedto'] turn ['mannerof'] deflate
+mattress ['relatedto'] springy ['relatedto'] compress ['relatedto'] deflate
+mattress ['relatedto'] cloth ['relatedto'] compress ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] rest ['relatedto'] price ['relatedto'] deflate
+mattress ['atlocation'] house ['atlocation'] air ['atlocation'] helium_balloon ['capableof'] deflate
+mattress ['atlocation'] house ['relatedto'] ground ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] land ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['antonym', 'distinctfrom', 'relatedto'] apartment ['relatedto', 'synonym'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['hasa', 'atlocation'] bathroom ['atlocation'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto', 'atlocation'] bed ['relatedto', 'hasproperty'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] blowfish ['relatedto'] inflate ['antonym', 'relatedto'] deflate
+mattress ['atlocation'] house ['atlocation'] blowfish ['relatedto'] algorithm ['relatedto'] deflate
+mattress ['atlocation'] house ['atlocation'] book ['relatedto'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto', 'atlocation'] cat ['atlocation'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] clothing ['isa', 'relatedto'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['atlocation'] clothing ['relatedto'] price ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto', 'atlocation'] column ['relatedto'] reduce ['mannerof', 'relatedto'] deflate
+mattress ['atlocation'] house ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] family ['relatedto'] deflationary ['relatedto'] deflate
+mattress ['atlocation'] house ['hasa', 'relatedto', 'atlocation'] floor ['relatedto', 'hasproperty'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['partof', 'atlocation'] foyer ['hasproperty'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] hallway ['hasproperty'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] city ['atlocation'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto', 'partof', 'atlocation'] street ['relatedto'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['atlocation'] iron ['relatedto'] decrease ['mannerof'] deflate
+mattress ['atlocation'] house ['atlocation'] iron ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] jar ['atlocation'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto', 'atlocation'] mail ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] mat ['hasproperty'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] possession ['relatedto'] price ['relatedto'] deflate
+mattress ['atlocation'] house ['atlocation'] purse ['relatedto', 'atlocation'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['atlocation'] router ['relatedto'] algorithm ['relatedto'] deflate
+mattress ['atlocation'] house ['atlocation'] shelf ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] stuff ['relatedto'] compress ['relatedto'] deflate
+mattress ['atlocation'] house ['atlocation'] stuff ['relatedto'] price ['relatedto'] deflate
+mattress ['atlocation'] house ['atlocation'] table ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['atlocation'] tables ['hasproperty'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto', 'atlocation'] television ['relatedto'] serialize ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto', 'atlocation'] terrace ['relatedto', 'hasproperty'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto', 'atlocation'] tv ['relatedto'] price ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto', 'partof', 'atlocation'] wall ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['etymologicallyrelatedto'] hose ['receivesaction'] deflated ['formof', 'relatedto'] deflate
+mattress ['atlocation'] house ['etymologicallyrelatedto'] sky ['atlocation'] helium_balloon ['capableof'] deflate
+mattress ['atlocation'] house ['hasa', 'relatedto', 'partof'] basement ['relatedto'] lower ['relatedto'] deflate
+mattress ['atlocation'] house ['hasa', 'relatedto', 'partof'] door ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['isa'] flat ['relatedto', 'synonym'] puncture ['synonym'] deflate
+mattress ['atlocation'] house ['isa'] noun ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['isa'] thing ['isa'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['isa'] tv_show ['relatedto'] price ['relatedto'] deflate
+mattress ['atlocation'] house ['isa', 'relatedto'] building ['atlocation'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['isa'] play ['synonym'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['isa', 'relatedto'] mansion ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['isa', 'relatedto'] public_house ['relatedto'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['isa'] ranch_house ['hasproperty'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['isa', 'relatedto'] weather_house ['relatedto'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['madeof'] metal ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['madeof'] metal ['relatedto'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['madeof', 'relatedto'] wood ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['partof'] assets ['isa'] credit ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] bank ['relatedto'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] bar ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] bar ['relatedto'] price ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] bell ['relatedto'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] box ['isa'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] brick ['relatedto'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] build ['antonym'] decrease ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] camp ['mannerof'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] capital ['antonym', 'distinctfrom', 'relatedto'] lower ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] card ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] card ['usedfor', 'relatedto'] credit ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] castle ['relatedto'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] debt ['antonym', 'distinctfrom', 'relatedto'] credit ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] deconvert ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] deconvert ['relatedto'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] deed ['relatedto'] price ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] department ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] draw ['mannerof'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] drive ['relatedto'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] drive ['relatedto'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] figure ['relatedto'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] flet ['relatedto'] lower ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] flet ['etymologicallyrelatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] fly ['mannerof'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] fly ['usedfor'] helium_balloon ['capableof'] deflate
+mattress ['atlocation'] house ['relatedto'] gate ['relatedto'] turn ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] head ['relatedto'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] apartment_building ['relatedto', 'atlocation'] flat ['synonym'] deflate
+mattress ['atlocation'] house ['relatedto'] come ['mannerof'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] living ['causes'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] property ['relatedto'] deflationary ['relatedto'] deflate
+mattress ['atlocation'] house ['relatedto'] quarters ['relatedto'] change ['mannerof'] deflate
+mattress ['atlocation'] house ['relatedto'] road ['relatedto'] flat ['synonym'] deflate

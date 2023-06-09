@@ -1,0 +1,100 @@
+liter ['atlocation'] water ['usedfor', 'relatedto', 'atlocation'] drink
+liter ['relatedto'] soft ['relatedto'] drink
+liter ['relatedto'] liquid ['isa', 'relatedto'] drink
+liter ['relatedto'] milk ['relatedto'] drink
+liter ['relatedto'] soda ['isa', 'relatedto'] drink
+liter ['relatedto'] drinks ['formof', 'relatedto'] drink
+liter ['relatedto'] liquids ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] basic ['relatedto'] drink
+liter ['atlocation'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] drink
+liter ['atlocation'] water ['antonym', 'isa'] food ['antonym', 'distinctfrom', 'relatedto'] drink
+liter ['atlocation'] water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink
+liter ['atlocation'] water ['atlocation'] bubbles ['relatedto'] drink
+liter ['atlocation'] water ['atlocation'] backpack ['atlocation'] drink
+liter ['atlocation'] water ['hasa', 'atlocation'] beer ['relatedto'] drink
+liter ['atlocation'] water ['atlocation'] bottle ['relatedto', 'atlocation'] drink
+liter ['atlocation'] water ['atlocation'] coffee ['antonym', 'relatedto'] drink
+liter ['atlocation'] water ['atlocation'] cooler ['relatedto'] drink
+liter ['atlocation'] water ['relatedto', 'atlocation'] glass ['relatedto'] drink
+liter ['atlocation'] water ['atlocation'] juice ['relatedto'] drink
+liter ['atlocation'] water ['atlocation'] mouth ['relatedto'] drink
+liter ['atlocation'] water ['hasa', 'madeof', 'atlocation'] pee ['antonym'] drink
+liter ['atlocation'] water ['atlocation'] pepsi ['isa'] drink
+liter ['atlocation'] water ['isa', 'atlocation'] slush ['relatedto', 'instanceof'] drink
+liter ['atlocation'] water ['relatedto', 'atlocation'] soda ['isa', 'relatedto'] drink
+liter ['atlocation'] water ['atlocation'] soft_drink ['relatedto'] drink
+liter ['atlocation'] water ['madeof', 'relatedto', 'atlocation'] soup ['relatedto'] drink
+liter ['atlocation'] water ['atlocation'] spit ['antonym'] drink
+liter ['atlocation'] water ['etymologicallyrelatedto', 'relatedto', 'atlocation', 'capableof', 'mannerof'] wet ['relatedto'] drink
+liter ['atlocation'] water ['capableof'] drank ['formof', 'etymologicallyrelatedto', 'relatedto'] drink
+liter ['atlocation'] water ['isa', 'relatedto', 'derivedfrom'] drinkwater ['derivedfrom'] drink
+liter ['atlocation'] water ['relatedto', 'derivedfrom'] waterhole ['relatedto'] drink
+liter ['atlocation'] water ['relatedto', 'hasproperty'] clear ['relatedto'] drink
+liter ['atlocation'] water ['hasproperty'] cold ['relatedto'] drink
+liter ['atlocation'] water ['isa', 'relatedto', 'hasproperty'] liquid ['isa', 'relatedto'] drink
+liter ['atlocation'] water ['hasproperty'] refreshing ['motivatedbygoal', 'relatedto'] drink
+liter ['atlocation'] water ['isa', 'relatedto'] drinking_water ['relatedto'] drink
+liter ['atlocation'] water ['isa', 'relatedto'] beverage ['relatedto', 'synonym'] drink
+liter ['atlocation'] water ['isa', 'relatedto'] fluid ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] bever ['relatedto', 'synonym'] drink
+liter ['atlocation'] water ['relatedto'] birdbath ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] boil_order ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] bumbo ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] butter_tea ['relatedto', 'instanceof'] drink
+liter ['atlocation'] water ['relatedto'] camel ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] canteen ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] carbonic_acid ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] carry ['mannerof'] drink
+liter ['atlocation'] water ['relatedto'] chowder_beer ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] drinking_bird ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] dry ['antonym'] drink
+liter ['atlocation'] water ['relatedto'] gin ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] glass_water ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] hydrate ['relatedto'] drink
+liter ['atlocation'] water ['usedfor', 'relatedto'] hydration ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] lage ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] lassi ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] lick_spout ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] limeade ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] milkshake ['isa', 'instanceof'] drink
+liter ['atlocation'] water ['relatedto'] poison ['distinctfrom', 'relatedto'] drink
+liter ['atlocation'] water ['relatedto'] posca ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] pot ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] potabilization ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] pour ['hasfirstsubevent'] drink
+liter ['atlocation'] water ['relatedto'] proof_spirit ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] quarter_water ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] soak ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] sports_drink ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] swill ['mannerof', 'relatedto'] drink
+liter ['atlocation'] water ['relatedto'] tantalus ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] toast_water ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] vodka ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] cola ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] drinkable ['derivedfrom'] drink
+liter ['atlocation'] water ['usedfor', 'relatedto'] drinking ['relatedto', 'synonym', 'derivedfrom', 'formof', 'hasprerequisite'] drink
+liter ['atlocation'] water ['relatedto'] glasses ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] inside ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] liquid_substance ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] potable ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] potable_liquid ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] quencher ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] quenching ['relatedto'] drink
+liter ['atlocation'] water ['usedfor', 'relatedto'] quenching_thirst ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] state ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] substance ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] thirst ['antonym', 'causesdesire', 'motivatedbygoal', 'relatedto'] drink
+liter ['atlocation'] water ['relatedto'] thirst_quencher ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] wetness ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] wine ['usedfor', 'mannerof', 'relatedto'] drink
+liter ['atlocation'] water ['relatedto'] silk ['relatedto'] drink
+liter ['atlocation'] water ['relatedto'] urinate ['haslastsubevent'] drink
+liter ['atlocation'] water ['relatedto'] watering_hole ['relatedto'] drink
+liter ['atlocation'] water ['usedfor'] quench_thirst ['motivatedbygoal', 'relatedto', 'hasprerequisite'] drink
+liter ['relatedto'] four ['relatedto'] bear ['relatedto'] drink
+liter ['relatedto'] four ['relatedto'] camel ['relatedto'] drink
+liter ['relatedto'] four ['relatedto'] drive ['relatedto'] drink
+liter ['relatedto'] four ['relatedto'] scull ['relatedto'] drink
+liter ['relatedto'] four ['relatedto'] general ['relatedto'] drink
+liter ['relatedto'] soft ['relatedto'] wine ['usedfor', 'mannerof', 'relatedto'] drink
+liter ['relatedto'] soft ['relatedto', 'hasproperty'] silk ['relatedto'] drink

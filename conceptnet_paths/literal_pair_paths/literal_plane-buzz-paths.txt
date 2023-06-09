@@ -1,0 +1,100 @@
+plane ['capableof', 'usedfor', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['atlocation'] human ['relatedto'] energy ['relatedto'] buzz
+plane ['atlocation'] human ['relatedto'] sound ['isa', 'mannerof'] buzz
+plane ['relatedto', 'atlocation'] air ['atlocation'] insects ['capableof'] buzz
+plane ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] sound ['isa', 'mannerof'] buzz
+plane ['relatedto', 'atlocation'] air ['relatedto', 'synonym'] breeze ['relatedto'] buzz
+plane ['relatedto', 'atlocation'] air ['relatedto'] feeling ['relatedto'] buzz
+plane ['relatedto', 'atlocation'] air ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] water ['relatedto'] rush ['relatedto'] buzz
+plane ['antonym', 'relatedto'] bird ['capableof', 'relatedto', 'desires'] fly ['mannerof', 'relatedto'] buzz
+plane ['antonym', 'relatedto'] bird ['relatedto'] sound ['isa', 'mannerof'] buzz
+plane ['antonym', 'relatedto'] bird ['relatedto'] thrill ['relatedto'] buzz
+plane ['capableof'] fall ['antonym'] fly ['mannerof', 'relatedto'] buzz
+plane ['capableof'] fall ['motivatedbygoal'] rush ['relatedto'] buzz
+plane ['relatedto'] bow ['etymologicallyrelatedto'] bee ['relatedto'] buzz
+plane ['relatedto'] bow ['relatedto'] altitude ['relatedto'] buzz
+plane ['relatedto'] attack ['relatedto'] activity ['isa'] buzz
+plane ['relatedto'] attack ['relatedto'] rush ['relatedto'] buzz
+plane ['relatedto'] floor ['synonym'] shock ['relatedto'] buzz
+plane ['antonym'] point ['relatedto'] activity ['isa'] buzz
+plane ['atlocation'] alcohol ['usedfor'] intoxication ['relatedto'] buzz
+plane ['atlocation'] engine ['causes', 'relatedto'] energy ['relatedto'] buzz
+plane ['atlocation'] flight_attendant ['relatedto'] crew ['relatedto'] buzz
+plane ['atlocation'] fuel ['relatedto'] energy ['relatedto'] buzz
+plane ['atlocation'] movie ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['atlocation'] movie ['atlocation'] bee ['relatedto'] buzz
+plane ['atlocation'] movie ['atlocation'] sound ['isa', 'mannerof'] buzz
+plane ['atlocation'] sky ['atlocation'] bee ['relatedto'] buzz
+plane ['atlocation'] sky ['usedfor', 'relatedto', 'atlocation'] fly ['mannerof', 'relatedto'] buzz
+plane ['atlocation'] sky ['relatedto'] altitude ['relatedto'] buzz
+plane ['atlocation'] points ['relatedto'] spark ['relatedto'] buzz
+plane ['relatedto', 'atlocation'] wings ['relatedto'] bell ['similarto'] buzz
+plane ['relatedto', 'atlocation'] wings ['hasa', 'relatedto', 'usedfor'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto', 'atlocation'] wings ['relatedto'] bee ['relatedto'] buzz
+plane ['atlocation'] yoke ['relatedto'] bell ['similarto'] buzz
+plane ['capableof'] crash ['mannerof', 'relatedto'] sound ['isa', 'mannerof'] buzz
+plane ['capableof', 'usedfor', 'relatedto'] fly ['relatedto'] activity ['isa'] buzz
+plane ['capableof', 'usedfor', 'relatedto'] fly ['antonym', 'capableof', 'relatedto'] bee ['relatedto'] buzz
+plane ['capableof', 'usedfor', 'relatedto'] fly ['capableof'] insects ['capableof'] buzz
+plane ['capableof', 'usedfor', 'relatedto'] fly ['isa', 'relatedto'] gadfly ['relatedto'] buzz
+plane ['capableof', 'usedfor', 'relatedto'] fly ['relatedto'] bumble ['relatedto', 'synonym'] buzz
+plane ['capableof', 'usedfor', 'relatedto'] fly ['relatedto'] buzzing ['formof', 'relatedto'] buzz
+plane ['derivedfrom'] hydroplane ['mannerof'] fly ['mannerof', 'relatedto'] buzz
+plane ['derivedfrom'] hydroplane ['relatedto'] speed ['relatedto'] buzz
+plane ['relatedto', 'derivedfrom', 'synonym'] aeroplane ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['derivedfrom'] sailplane ['entails'] fly ['mannerof', 'relatedto'] buzz
+plane ['formof', 'relatedto'] planes ['capableof', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['isa', 'relatedto'] machine ['relatedto'] bell ['similarto'] buzz
+plane ['isa', 'relatedto'] machine ['relatedto'] energy ['relatedto'] buzz
+plane ['isa', 'relatedto'] machine ['usedfor'] fly ['mannerof', 'relatedto'] buzz
+plane ['isa', 'relatedto'] vehicle ['relatedto'] drone ['relatedto'] buzz
+plane ['isa', 'relatedto'] surface ['relatedto'] information ['relatedto'] buzz
+plane ['isa', 'relatedto'] surface ['relatedto'] friction ['relatedto'] buzz
+plane ['isa'] shape ['relatedto'] bell ['similarto'] buzz
+plane ['mannerof'] cut ['relatedto'] activity ['isa'] buzz
+plane ['mannerof'] cut ['relatedto'] crew ['relatedto'] buzz
+plane ['mannerof', 'relatedto'] smooth ['relatedto'] slight ['relatedto'] buzz
+plane ['mannerof', 'relatedto'] smooth ['relatedto'] feeling ['relatedto'] buzz
+plane ['mannerof', 'relatedto'] smooth ['relatedto'] friction ['relatedto'] buzz
+plane ['mannerof', 'relatedto'] glide ['mannerof'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] bit ['relatedto'] information ['relatedto'] buzz
+plane ['relatedto'] bit ['relatedto'] spark ['relatedto'] buzz
+plane ['relatedto'] board ['relatedto'] sound ['isa', 'mannerof'] buzz
+plane ['relatedto'] circle ['relatedto'] confidential ['relatedto'] buzz
+plane ['relatedto'] contact ['relatedto'] friction ['relatedto'] buzz
+plane ['relatedto'] dome ['relatedto'] bell ['similarto'] buzz
+plane ['relatedto'] form ['relatedto'] information ['relatedto'] buzz
+plane ['relatedto'] form ['relatedto'] report ['synonym'] buzz
+plane ['relatedto'] form ['relatedto'] sound ['isa', 'mannerof'] buzz
+plane ['relatedto'] fuselage ['relatedto'] crew ['relatedto'] buzz
+plane ['relatedto'] hop_n_pop ['relatedto'] altitude ['relatedto'] buzz
+plane ['relatedto'] jet ['mannerof'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] jet_bridge ['relatedto'] crew ['relatedto'] buzz
+plane ['relatedto'] loop ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] office ['relatedto'] report ['synonym'] buzz
+plane ['relatedto'] paper ['relatedto'] report ['synonym'] buzz
+plane ['relatedto'] parameter ['isa'] information ['relatedto'] buzz
+plane ['relatedto'] aircraft ['usedfor'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] aircraft ['relatedto'] drone ['relatedto'] buzz
+plane ['relatedto'] field ['atlocation'] insects ['capableof'] buzz
+plane ['relatedto'] flying ['formof', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] flying ['relatedto'] bee ['relatedto'] buzz
+plane ['relatedto'] flying ['relatedto'] spark ['relatedto'] buzz
+plane ['relatedto', 'synonym'] level ['isa'] altitude ['relatedto'] buzz
+plane ['relatedto', 'synonym'] level ['relatedto'] slight ['relatedto'] buzz
+plane ['relatedto'] tool ['relatedto'] bell ['similarto'] buzz
+plane ['relatedto', 'synonym'] airplane ['usedfor', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] genus ['relatedto'] rush ['relatedto'] buzz
+plane ['relatedto'] boat ['relatedto'] activity ['isa'] buzz
+plane ['relatedto'] boat ['atlocation'] bell ['similarto'] buzz
+plane ['relatedto'] boat ['relatedto'] crew ['relatedto'] buzz
+plane ['relatedto'] soar ['mannerof', 'relatedto', 'synonym'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] soar ['synonym'] zoom ['synonym'] buzz
+plane ['relatedto'] seat ['relatedto'] rush ['relatedto'] buzz
+plane ['relatedto'] shoot ['relatedto'] activity ['isa'] buzz
+plane ['relatedto'] trace ['relatedto'] whisper ['relatedto'] buzz
+plane ['relatedto'] trace ['isa'] spark ['relatedto'] buzz
+plane ['relatedto'] transport ['mannerof', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+plane ['relatedto'] transport ['relatedto'] rush ['relatedto'] buzz
+plane ['relatedto'] zone ['relatedto'] intoxication ['relatedto'] buzz

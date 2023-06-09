@@ -1,0 +1,100 @@
+system ['relatedto'] philanthropinism ['relatedto'] reform
+system ['relatedto'] age ['mannerof'] change ['mannerof'] reform
+system ['relatedto'] age ['relatedto'] new ['relatedto'] reform
+system ['relatedto'] animal ['relatedto'] reclaim ['relatedto', 'synonym'] reform
+system ['relatedto'] branch ['relatedto'] cluniac ['relatedto'] reform
+system ['relatedto'] branch ['relatedto'] recollect ['relatedto'] reform
+system ['relatedto'] state ['relatedto'] new ['relatedto'] reform
+system ['relatedto'] state ['relatedto'] haugean ['relatedto'] reform
+system ['relatedto'] state ['relatedto'] redeem ['relatedto'] reform
+system ['relatedto'] state ['relatedto'] restore ['synonym'] reform
+system ['relatedto'] elite ['relatedto'] illuminati ['relatedto'] reform
+system ['isa'] group ['relatedto'] decemvirate ['relatedto'] reform
+system ['relatedto'] individual ['relatedto'] liberalism ['relatedto'] reform
+system ['isa'] discipline ['synonym'] correct ['synonym'] reform
+system ['isa'] discipline ['synonym'] correction ['synonym'] reform
+system ['relatedto'] health ['relatedto'] self_improvement ['isa'] reform
+system ['relatedto'] movement ['isa', 'relatedto'] change ['mannerof'] reform
+system ['relatedto'] movement ['relatedto'] chartism ['relatedto'] reform
+system ['relatedto'] movement ['relatedto'] chartist ['relatedto'] reform
+system ['relatedto'] movement ['relatedto'] cultural_revolution ['relatedto'] reform
+system ['relatedto'] movement ['relatedto'] haugean ['relatedto'] reform
+system ['relatedto'] movement ['relatedto'] liberalism ['relatedto'] reform
+system ['relatedto'] movement ['relatedto'] reformation ['relatedto', 'synonym'] reform
+system ['relatedto'] movement ['relatedto'] wahhabi ['relatedto'] reform
+system ['relatedto'] movement ['synonym'] campaign ['isa'] reform
+system ['relatedto'] weight ['relatedto'] change ['mannerof'] reform
+system ['isa', 'relatedto'] government ['relatedto'] cultural_revolution ['relatedto'] reform
+system ['isa', 'relatedto'] government ['relatedto'] liberalism ['relatedto'] reform
+system ['relatedto'] valid ['relatedto'] correct ['synonym'] reform
+system ['usedfor'] store ['relatedto'] change ['mannerof'] reform
+system ['usedfor', 'relatedto', 'synonym'] organization ['relatedto'] clean_house ['relatedto'] reform
+system ['atlocation'] place ['relatedto'] mend ['synonym'] reform
+system ['relatedto'] religion ['relatedto'] come_outer ['relatedto'] reform
+system ['relatedto'] grade ['relatedto'] correct ['synonym'] reform
+system ['relatedto'] variety ['relatedto', 'synonym'] change ['mannerof'] reform
+system ['relatedto'] weather ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] education ['relatedto'] philanthropinism ['relatedto'] reform
+system ['isa'] program ['relatedto'] perestroika ['relatedto'] reform
+system ['isa'] ethic ['isa'] chartism ['relatedto'] reform
+system ['isa', 'relatedto'] scaffolding ['relatedto'] repair ['synonym'] reform
+system ['relatedto'] constitution ['distinctfrom', 'relatedto'] amendment ['synonym'] reform
+system ['relatedto'] hue ['mannerof'] change ['mannerof'] reform
+system ['relatedto'] implementation ['relatedto'] fabianism ['relatedto'] reform
+system ['relatedto'] internal_energy ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] justiciary ['relatedto'] redeem ['relatedto'] reform
+system ['relatedto'] language ['isa'] ido ['relatedto'] reform
+system ['relatedto'] markov_model ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] newsql ['derivedfrom'] new ['relatedto'] reform
+system ['relatedto'] optimization ['isa'] improvement ['isa'] reform
+system ['relatedto'] perturbation ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] pressure_volume_diagram ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] rate ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] renormalization_group ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] sleep_mode ['relatedto'] restore ['synonym'] reform
+system ['relatedto'] organized ['motivatedbygoal'] clean_house ['relatedto'] reform
+system ['relatedto'] thermostat ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] ventilation ['isa'] improvement ['isa'] reform
+system ['synonym'] apparatus ['isa'] reformer ['relatedto', 'derivedfrom'] reform
+system ['usedfor'] retrieve ['synonym'] redeem ['relatedto'] reform
+system ['usedfor'] retrieve ['relatedto'] rectify ['synonym'] reform
+system ['relatedto'] abnormal ['antonym'] regular ['antonym'] new ['relatedto'] reform
+system ['relatedto'] abnormal ['relatedto'] deviate ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] abnormal ['relatedto'] health ['relatedto'] self_improvement ['isa'] reform
+system ['relatedto'] abnormal ['relatedto'] degenerate ['relatedto'] regenerate ['synonym'] reform
+system ['relatedto'] abnormal ['relatedto'] pocket ['relatedto', 'atlocation'] change ['mannerof'] reform
+system ['relatedto'] abnormal ['similarto'] perverted ['relatedto'] correct ['synonym'] reform
+system ['relatedto'] abnormal ['similarto'] exceptional ['relatedto'] better ['mannerof', 'synonym'] reform
+system ['relatedto'] abolish ['relatedto'] abolitionist ['isa'] reformer ['relatedto', 'derivedfrom'] reform
+system ['relatedto'] abolish ['relatedto'] custom ['relatedto'] come_outer ['relatedto'] reform
+system ['relatedto'] abolish ['relatedto'] destroy ['antonym', 'relatedto'] repair ['synonym'] reform
+system ['relatedto'] abolish ['relatedto'] end ['mannerof'] change ['mannerof'] reform
+system ['relatedto'] abolish ['relatedto'] law ['relatedto'] amendment ['synonym'] reform
+system ['relatedto'] abolish ['relatedto'] law ['relatedto'] decemvirate ['relatedto'] reform
+system ['relatedto'] abolish ['relatedto'] law ['relatedto'] liberalism ['relatedto'] reform
+system ['relatedto'] abolish ['relatedto'] practice ['relatedto'] better ['mannerof', 'synonym'] reform
+system ['relatedto'] abolish ['synonym'] invalidate ['mannerof'] change ['mannerof'] reform
+system ['relatedto'] cohesion ['isa', 'relatedto'] force ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] cohesion ['relatedto'] grammatical ['relatedto'] correct ['synonym'] reform
+system ['relatedto'] fidelity ['isa', 'relatedto'] quality ['relatedto'] better ['mannerof', 'synonym'] reform
+system ['relatedto'] fidelity ['isa', 'relatedto'] quality ['relatedto'] liberalism ['relatedto'] reform
+system ['relatedto'] fidelity ['relatedto'] fact ['relatedto'] correct ['synonym'] reform
+system ['relatedto'] fidelity ['relatedto'] truth ['relatedto', 'hasproperty'] correct ['synonym'] reform
+system ['relatedto'] relationship ['relatedto'] parallel ['mannerof'] change ['mannerof'] reform
+system ['relatedto'] relationship ['relatedto'] adopt ['relatedto'] new ['relatedto'] reform
+system ['relatedto'] relationship ['isa', 'similarto', 'relatedto', 'derivedfrom'] relation ['isa'] change ['mannerof'] reform
+system ['relatedto'] relationship ['isa'] state ['relatedto'] new ['relatedto'] reform
+system ['relatedto'] relationship ['isa'] state ['relatedto'] haugean ['relatedto'] reform
+system ['relatedto'] relationship ['isa'] state ['relatedto'] redeem ['relatedto'] reform
+system ['relatedto'] relationship ['isa'] state ['relatedto'] restore ['synonym'] reform
+system ['relatedto'] relationship ['isa'] subjugation ['relatedto'] illuminati ['relatedto'] reform
+system ['relatedto'] relationship ['relatedto'] catch ['mannerof'] change ['mannerof'] reform
+system ['relatedto'] relationship ['relatedto'] date ['relatedto'] new ['relatedto'] reform
+system ['relatedto'] relationship ['relatedto'] entity ['relatedto'] better ['mannerof', 'synonym'] reform
+system ['relatedto'] relationship ['relatedto'] even ['mannerof'] change ['mannerof'] reform
+system ['relatedto'] relationship ['relatedto'] exemptionalism ['relatedto'] change ['mannerof'] reform
+system ['relatedto'] relationship ['relatedto'] make_amends ['relatedto'] repair ['synonym'] reform
+system ['relatedto'] relationship ['relatedto'] mend_fences ['relatedto'] repair ['synonym'] reform
+system ['relatedto'] relationship ['relatedto'] pair ['relatedto'] repair ['synonym'] reform
+system ['relatedto'] relationship ['relatedto'] reconcile ['relatedto'] restore ['synonym'] reform
+system ['relatedto'] relationship ['relatedto'] separation ['isa'] change ['mannerof'] reform

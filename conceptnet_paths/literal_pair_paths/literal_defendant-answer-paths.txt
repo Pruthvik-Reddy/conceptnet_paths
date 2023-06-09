@@ -1,0 +1,100 @@
+defendant ['relatedto'] wrong ['antonym'] answer
+defendant ['relatedto'] complaint ['relatedto'] answer
+defendant ['relatedto'] default ['relatedto'] answer
+defendant ['relatedto'] nihil_dicit ['relatedto'] answer
+defendant ['relatedto'] nolo_contendere ['isa'] answer
+defendant ['relatedto'] wrong ['antonym', 'distinctfrom', 'relatedto', 'hasproperty'] right ['relatedto'] answer
+defendant ['relatedto'] wrong ['distinctfrom'] correct ['relatedto'] answer
+defendant ['relatedto'] wrong ['relatedto', 'synonym'] incorrect ['relatedto'] answer
+defendant ['relatedto'] wrong ['relatedto'] misanswer ['relatedto', 'derivedfrom'] answer
+defendant ['relatedto'] wrong ['relatedto'] mistake ['antonym', 'relatedto'] answer
+defendant ['relatedto'] wrong ['relatedto'] test ['relatedto'] answer
+defendant ['relatedto'] bar ['isa', 'relatedto'] counter ['mannerof'] answer
+defendant ['relatedto'] bar ['relatedto'] giving ['relatedto'] answer
+defendant ['relatedto'] bar ['relatedto'] test ['relatedto'] answer
+defendant ['relatedto'] bar ['relatedto'] line ['relatedto'] answer
+defendant ['relatedto'] bar ['relatedto'] conclusion ['relatedto'] answer
+defendant ['relatedto'] bar ['synonym'] ban ['relatedto'] answer
+defendant ['relatedto'] bill ['relatedto'] wrong ['antonym'] answer
+defendant ['relatedto'] bill ['isa', 'relatedto'] document ['relatedto'] answer
+defendant ['relatedto'] bill ['isa', 'relatedto'] statement ['isa', 'relatedto'] answer
+defendant ['relatedto'] bill ['relatedto', 'synonym'] account ['relatedto'] answer
+defendant ['relatedto'] bill ['relatedto'] comes ['relatedto'] answer
+defendant ['relatedto'] bill ['relatedto'] giving ['relatedto'] answer
+defendant ['relatedto'] bill ['relatedto'] propose ['relatedto'] answer
+defendant ['relatedto'] bill ['relatedto'] state ['mannerof'] answer
+defendant ['relatedto'] bill ['relatedto'] sum ['relatedto'] answer
+defendant ['relatedto'] civil ['relatedto'] complaint ['relatedto'] answer
+defendant ['antonym', 'relatedto'] plaintiff ['relatedto'] complaint ['relatedto'] answer
+defendant ['antonym', 'relatedto'] plaintiff ['relatedto'] plea ['isa'] answer
+defendant ['relatedto', 'hasproperty'] criminal ['relatedto'] information ['relatedto'] answer
+defendant ['relatedto', 'hasproperty'] criminal ['relatedto'] complaint ['relatedto'] answer
+defendant ['relatedto'] alford_plea ['relatedto'] plea ['isa'] answer
+defendant ['relatedto'] allocution ['relatedto'] question ['antonym', 'distinctfrom', 'relatedto', 'desires'] answer
+defendant ['relatedto'] allocution ['relatedto'] right ['relatedto'] answer
+defendant ['relatedto'] allocution ['relatedto'] information ['relatedto'] answer
+defendant ['relatedto'] cognizor ['relatedto'] right ['relatedto'] answer
+defendant ['relatedto'] complaint ['relatedto'] problem ['antonym', 'relatedto'] answer
+defendant ['relatedto'] complaint ['relatedto'] information ['relatedto'] answer
+defendant ['relatedto'] complaint ['isa', 'relatedto'] pleading ['isa'] answer
+defendant ['relatedto'] complaint ['relatedto'] default ['relatedto'] answer
+defendant ['relatedto'] complaint ['relatedto'] shotgun_pleading ['relatedto'] answer
+defendant ['relatedto'] declaration ['isa', 'relatedto'] statement ['isa', 'relatedto'] answer
+defendant ['relatedto'] declaration ['relatedto'] complaint ['relatedto'] answer
+defendant ['relatedto'] declaration ['synonym'] resolution ['relatedto'] answer
+defendant ['relatedto'] default ['relatedto'] appear ['synonym'] answer
+defendant ['relatedto'] default ['relatedto'] complaint ['relatedto'] answer
+defendant ['relatedto'] party ['relatedto'] agreement ['relatedto'] answer
+defendant ['relatedto'] party ['relatedto'] time ['relatedto'] answer
+defendant ['relatedto'] party ['relatedto'] dress ['relatedto'] answer
+defendant ['relatedto'] party ['relatedto'] imparlance ['relatedto'] answer
+defendant ['relatedto'] party ['relatedto'] interrogatory ['relatedto'] answer
+defendant ['relatedto'] party ['relatedto'] plea ['isa'] answer
+defendant ['relatedto'] respondent ['synonym'] answering ['formof', 'relatedto'] answer
+defendant ['relatedto'] respondent ['synonym'] answerer ['relatedto', 'derivedfrom'] answer
+defendant ['relatedto'] satisfaction ['relatedto'] wrong ['antonym'] answer
+defendant ['relatedto'] satisfaction ['isa', 'relatedto'] fulfillment ['relatedto'] answer
+defendant ['relatedto'] guilty ['relatedto'] responsible ['relatedto'] answer
+defendant ['relatedto'] guilty ['relatedto'] plea ['isa'] answer
+defendant ['relatedto'] kennedy_plea ['relatedto'] plea ['isa'] answer
+defendant ['relatedto'] long_arm_statute ['relatedto'] state ['mannerof'] answer
+defendant ['relatedto'] nontenure ['relatedto'] plea ['isa'] answer
+defendant ['relatedto'] plea_bargain ['relatedto'] agreement ['relatedto'] answer
+defendant ['relatedto'] plea_bargain ['relatedto'] nolo_contendere ['isa'] answer
+defendant ['relatedto'] prevarication ['relatedto'] right ['relatedto'] answer
+defendant ['relatedto'] prevarication ['relatedto'] correct ['relatedto'] answer
+defendant ['relatedto'] prevarication ['distinctfrom', 'relatedto'] truth ['relatedto'] answer
+defendant ['relatedto'] reasonable_doubt ['relatedto'] doubt ['relatedto'] answer
+defendant ['relatedto'] reasonable_doubt ['relatedto'] reason ['relatedto'] answer
+defendant ['relatedto'] rebuttal ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+defendant ['relatedto'] rebuttal ['isa', 'synonym'] refutation ['isa', 'relatedto'] answer
+defendant ['relatedto'] rebuttal ['relatedto'] statement ['isa', 'relatedto'] answer
+defendant ['relatedto'] rebuttal ['relatedto'] pleading ['isa'] answer
+defendant ['relatedto'] rebuttal ['relatedto'] refute ['mannerof'] answer
+defendant ['relatedto'] rebutter ['isa'] pleading ['isa'] answer
+defendant ['relatedto'] return_day ['relatedto'] return ['relatedto'] answer
+defendant ['relatedto'] summons ['relatedto'] appear ['synonym'] answer
+defendant ['relatedto'] summons ['relatedto'] call ['antonym', 'relatedto'] answer
+defendant ['relatedto'] summons ['relatedto'] default ['relatedto'] answer
+defendant ['relatedto'] surrebut ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+defendant ['relatedto'] surrejoinder ['isa'] pleading ['isa'] answer
+defendant ['synonym'] suspect ['relatedto'] doubt ['relatedto'] answer
+defendant ['synonym'] suspect ['mannerof'] think ['motivatedbygoal'] answer
+defendant ['synonym'] suspect ['mannerof'] guess ['antonym', 'relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] accept ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['capableof'] dress ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['etymologicallyrelatedto', 'relatedto'] reaction ['isa', 'relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['isa'] state ['mannerof'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['isa'] ban ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['isa'] choice ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['isa', 'relatedto'] mistake ['antonym', 'relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto', 'partof'] key ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] ask ['antonym', 'relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] call ['antonym', 'relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] choose ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] explain ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] guess ['antonym', 'relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] learning ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] listen ['haslastsubevent'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] propose ['relatedto'] answer
+defendant ['relatedto'] absolvitor ['relatedto'] action ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer

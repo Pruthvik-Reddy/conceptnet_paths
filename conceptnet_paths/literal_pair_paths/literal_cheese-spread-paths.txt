@@ -1,0 +1,100 @@
+cheese ['isa', 'relatedto'] food ['relatedto'] spread
+cheese ['isa'] magazine ['relatedto'] spread
+cheese ['relatedto'] butter ['isa', 'relatedto'] spread
+cheese ['isa', 'relatedto'] cheese_spread ['isa'] spread
+cheese ['relatedto'] pate ['isa'] spread
+cheese ['relatedto'] smile ['relatedto'] spread
+cheese ['relatedto'] anger ['antonym'] happiness ['capableof'] spread
+cheese ['relatedto'] anger ['mannerof'] bridle ['relatedto'] spread
+cheese ['relatedto'] anger ['relatedto'] mean ['relatedto'] spread
+cheese ['etymologicallyrelatedto'] cease ['relatedto'] cut ['relatedto'] spread
+cheese ['atlocation'] plate ['relatedto'] land ['relatedto'] spread
+cheese ['atlocation'] plate ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] food ['relatedto'] spread
+cheese ['atlocation'] plate ['relatedto', 'atlocation'] meal ['relatedto'] spread
+cheese ['atlocation'] plate ['relatedto'] display ['relatedto'] spread
+cheese ['atlocation'] plate ['relatedto'] item ['relatedto'] spread
+cheese ['atlocation'] plate ['relatedto'] surface ['relatedto'] spread
+cheese ['atlocation'] plate ['relatedto'] material ['relatedto'] spread
+cheese ['atlocation'] plate ['relatedto'] run ['relatedto'] spread
+cheese ['atlocation'] plate ['synonym'] scale ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['distinctfrom'] paste ['synonym'] spread
+cheese ['isa', 'relatedto'] food ['isa'] apple_butter ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa', 'relatedto', 'synonym'] bread ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa', 'relatedto'] butter ['isa', 'relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa'] dulce_de_leche ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa'] egg_salad ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa'] hummus ['isa'] spread
+cheese ['isa', 'relatedto'] food ['isa'] lekvar ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa'] margarine ['isa', 'relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa'] nutella ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa'] peanut_butter ['isa', 'relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa'] speculoos ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['isa'] tahini ['isa'] spread
+cheese ['isa', 'relatedto'] food ['isa'] tapenade ['isa'] spread
+cheese ['isa', 'relatedto'] food ['relatedto'] condiment ['isa'] spread
+cheese ['isa', 'relatedto'] food ['relatedto'] cut ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['relatedto'] item ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['relatedto'] meal ['relatedto'] spread
+cheese ['isa', 'relatedto'] food ['relatedto'] gather ['antonym'] spread
+cheese ['isa', 'relatedto'] food ['relatedto'] jelly ['isa', 'relatedto'] spread
+cheese ['isa', 'relatedto'] food ['relatedto'] preserve ['relatedto'] spread
+cheese ['isa'] thing ['relatedto', 'synonym'] item ['relatedto'] spread
+cheese ['isa'] thing ['relatedto'] page ['isa', 'relatedto'] spread
+cheese ['isa'] thing ['relatedto'] schmear ['relatedto'] spread
+cheese ['isa'] thing ['relatedto'] transmit ['relatedto'] spread
+cheese ['relatedto'] yellow ['isa', 'relatedto', 'hasproperty'] butter ['isa', 'relatedto'] spread
+cheese ['relatedto'] yellow ['relatedto', 'hasproperty'] mustard ['isa'] spread
+cheese ['relatedto'] yellow ['isa'] margarine ['isa', 'relatedto'] spread
+cheese ['relatedto'] yellow ['relatedto'] lichen ['relatedto'] spread
+cheese ['relatedto'] yellow ['relatedto'] price ['relatedto'] spread
+cheese ['isa'] magazine ['relatedto'] cover ['mannerof', 'relatedto'] spread
+cheese ['isa'] magazine ['antonym', 'relatedto'] newspaper ['relatedto'] spread
+cheese ['isa'] magazine ['isa', 'relatedto'] publication ['partof'] spread
+cheese ['isa'] magazine ['relatedto', 'partof'] center_spread ['isa'] spread
+cheese ['isa'] magazine ['relatedto'] centerfold ['isa'] spread
+cheese ['isa'] magazine ['relatedto'] gossip ['relatedto'] spread
+cheese ['isa'] magazine ['relatedto'] material ['relatedto'] spread
+cheese ['isa'] magazine ['relatedto'] news ['relatedto'] spread
+cheese ['isa'] magazine ['relatedto'] page ['isa', 'relatedto'] spread
+cheese ['relatedto'] butter ['mannerof'] cover ['mannerof', 'relatedto'] spread
+cheese ['relatedto'] butter ['isa', 'relatedto'] food ['relatedto'] spread
+cheese ['relatedto'] butter ['antonym', 'relatedto'] bread ['relatedto'] spread
+cheese ['relatedto'] butter ['antonym', 'distinctfrom', 'relatedto'] margarine ['isa', 'relatedto'] spread
+cheese ['relatedto'] butter ['antonym', 'relatedto'] jelly ['isa', 'relatedto'] spread
+cheese ['relatedto'] butter ['derivedfrom'] peanut_butter ['isa', 'relatedto'] spread
+cheese ['relatedto'] butter ['isa'] condiment ['isa'] spread
+cheese ['relatedto'] butter ['relatedto'] spreadable ['relatedto', 'derivedfrom'] spread
+cheese ['relatedto'] butter ['relatedto'] butterball ['relatedto'] spread
+cheese ['relatedto'] butter ['relatedto'] spreader ['relatedto', 'derivedfrom'] spread
+cheese ['relatedto'] wine ['isa'] food ['relatedto'] spread
+cheese ['relatedto'] wine ['antonym'] bread ['relatedto'] spread
+cheese ['relatedto'] money ['relatedto'] cover ['mannerof', 'relatedto'] spread
+cheese ['relatedto'] money ['isa'] magazine ['relatedto'] spread
+cheese ['relatedto'] money ['relatedto'] bread ['relatedto'] spread
+cheese ['relatedto'] money ['antonym', 'relatedto'] profit ['relatedto'] spread
+cheese ['relatedto'] money ['causesdesire', 'relatedto'] spend ['relatedto'] spread
+cheese ['relatedto'] money ['hasprerequisite'] purchase ['relatedto'] spread
+cheese ['relatedto'] money ['relatedto'] bleed ['relatedto'] spread
+cheese ['relatedto'] money ['relatedto'] item ['relatedto'] spread
+cheese ['relatedto'] money ['relatedto'] material ['relatedto'] spread
+cheese ['relatedto'] money ['relatedto'] price ['relatedto'] spread
+cheese ['relatedto'] cream ['relatedto'] food ['relatedto'] spread
+cheese ['relatedto'] cream ['relatedto'] butter ['isa', 'relatedto'] spread
+cheese ['relatedto'] cream ['relatedto'] paste ['synonym'] spread
+cheese ['relatedto'] cream ['relatedto'] split ['relatedto'] spread
+cheese ['antonym'] fill ['relatedto'] apply ['relatedto', 'similarto'] spread
+cheese ['antonym'] fill ['synonym'] pervade ['relatedto'] spread
+cheese ['atlocation'] fridge ['atlocation'] food ['relatedto'] spread
+cheese ['atlocation'] fridge ['atlocation'] butter ['isa', 'relatedto'] spread
+cheese ['atlocation'] fridge ['atlocation'] mustard ['isa'] spread
+cheese ['atlocation'] market ['relatedto', 'atlocation'] food ['relatedto'] spread
+cheese ['atlocation'] market ['atlocation'] bread ['relatedto'] spread
+cheese ['atlocation'] market ['relatedto'] open ['relatedto'] spread
+cheese ['atlocation'] market ['relatedto'] retail ['relatedto'] spread
+cheese ['atlocation'] market ['relatedto'] price ['relatedto'] spread
+cheese ['atlocation'] market ['relatedto'] purchase ['relatedto'] spread
+cheese ['atlocation'] market ['relatedto'] arbitrage ['relatedto'] spread
+cheese ['relatedto', 'partof', 'atlocation'] pizza ['isa'] food ['relatedto'] spread
+cheese ['relatedto', 'partof', 'atlocation'] pizza ['relatedto'] bread ['relatedto'] spread
+cheese ['atlocation'] refrigerator ['relatedto', 'atlocation'] food ['relatedto'] spread
+cheese ['atlocation'] refrigerator ['atlocation'] bread ['relatedto'] spread

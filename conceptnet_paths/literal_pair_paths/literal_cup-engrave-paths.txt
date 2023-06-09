@@ -1,0 +1,100 @@
+cup ['derivedfrom'] en ['derivedfrom'] engrave
+cup ['relatedto'] defense ['relatedto'] shell ['relatedto'] engrave
+cup ['relatedto'] balloon ['relatedto'] shell ['relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['isa', 'atlocation'] engraving ['formof', 'relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] cerotype ['relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] chemitype ['relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] chemitypy ['relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] crusta ['relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] etch ['relatedto', 'synonym'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] photoetch ['relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] engraved ['formof', 'relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] plate_paper ['relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['relatedto'] sundial ['relatedto'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] plate ['synonym'] shell ['relatedto'] engrave
+cup ['relatedto'] board ['relatedto'] write ['relatedto'] engrave
+cup ['relatedto'] board ['relatedto'] scratch ['synonym'] engrave
+cup ['relatedto', 'synonym'] box ['relatedto'] mill ['relatedto'] engrave
+cup ['mannerof'] insert ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['relatedto'] double ['derivedfrom'] en ['derivedfrom'] engrave
+cup ['antonym', 'distinctfrom', 'relatedto'] glass ['atlocation'] en ['derivedfrom'] engrave
+cup ['atlocation'] restaurant ['hasprerequisite'] en ['derivedfrom'] engrave
+cup ['atlocation'] shelf ['etymologicallyrelatedto'] carve ['mannerof', 'relatedto', 'synonym'] engrave
+cup ['atlocation'] shelf ['etymologicallyrelatedto'] shell ['relatedto'] engrave
+cup ['atlocation'] sink ['synonym'] bury ['relatedto'] engrave
+cup ['atlocation'] pencil ['relatedto'] write ['relatedto'] engrave
+cup ['isa'] container ['capableof'] en ['derivedfrom'] engrave
+cup ['isa', 'relatedto'] hole ['relatedto'] bury ['relatedto'] engrave
+cup ['isa', 'relatedto'] hole ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['isa', 'relatedto'] hole ['relatedto'] gouge ['synonym'] engrave
+cup ['mannerof'] form ['relatedto'] gouge ['synonym'] engrave
+cup ['mannerof'] treat ['etymologicallyrelatedto'] en ['derivedfrom'] engrave
+cup ['relatedto'] crater ['relatedto'] palimpsest ['relatedto'] engrave
+cup ['relatedto'] inside ['relatedto'] character ['mannerof'] engrave
+cup ['relatedto'] inside ['relatedto'] shell ['relatedto'] engrave
+cup ['relatedto'] plates ['relatedto'] shell ['relatedto'] engrave
+cup ['relatedto'] brassiere ['relatedto'] en ['derivedfrom'] engrave
+cup ['relatedto'] covering ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['relatedto'] covering ['isa', 'relatedto'] shell ['relatedto'] engrave
+cup ['relatedto'] apparatus ['relatedto'] mill ['relatedto'] engrave
+cup ['relatedto'] tin ['relatedto'] character ['mannerof'] engrave
+cup ['usedfor'] measuring ['relatedto'] sundial ['relatedto'] engrave
+cup ['relatedto'] vacuum ['atlocation'] container ['capableof'] en ['derivedfrom'] engrave
+cup ['relatedto'] vacuum ['isa', 'relatedto', 'atlocation'] space ['isa', 'relatedto'] character ['mannerof'] engrave
+cup ['relatedto'] vacuum ['isa', 'relatedto', 'atlocation'] space ['relatedto'] en ['derivedfrom'] engrave
+cup ['relatedto'] vacuum ['derivedfrom'] um ['formof', 'relatedto'] en ['derivedfrom'] engrave
+cup ['relatedto'] vacuum ['mannerof', 'relatedto'] clean ['relatedto'] palimpsest ['relatedto'] engrave
+cup ['relatedto'] vacuum ['relatedto'] medium ['relatedto'] print ['mannerof'] engrave
+cup ['relatedto'] vacuum ['relatedto'] medium ['relatedto'] palimpsest ['relatedto'] engrave
+cup ['relatedto'] vacuum ['relatedto'] device ['relatedto'] print ['mannerof'] engrave
+cup ['relatedto'] vacuum ['relatedto'] device ['relatedto'] sundial ['relatedto'] engrave
+cup ['relatedto'] vacuum ['relatedto'] dirt ['relatedto'] bury ['relatedto'] engrave
+cup ['relatedto'] vacuum ['relatedto'] dirt ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['relatedto'] vacuum ['relatedto'] electronic ['relatedto'] print ['mannerof'] engrave
+cup ['relatedto'] vacuum ['usedfor', 'relatedto'] machine ['usedfor', 'relatedto'] print ['mannerof'] engrave
+cup ['relatedto'] vacuum ['usedfor', 'relatedto'] machine ['usedfor'] write ['relatedto'] engrave
+cup ['relatedto'] vacuum ['relatedto'] tool ['relatedto'] engraver ['relatedto'] engrave
+cup ['relatedto'] vacuum ['relatedto'] tool ['relatedto'] gouge ['synonym'] engrave
+cup ['relatedto'] vacuum ['relatedto'] tool ['relatedto'] guilloche ['relatedto'] engrave
+cup ['relatedto'] vacuum ['relatedto'] tool ['relatedto'] guilloché ['relatedto'] engrave
+cup ['relatedto'] vacuum ['relatedto'] tool ['relatedto'] pointrel ['relatedto'] engrave
+cup ['atlocation'] apartment ['atlocation'] human ['atlocation'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['atlocation'] apartment ['atlocation'] human ['capableof'] write ['relatedto'] engrave
+cup ['atlocation'] apartment ['antonym', 'distinctfrom', 'relatedto'] house ['relatedto'] shell ['relatedto'] engrave
+cup ['atlocation'] apartment ['antonym', 'relatedto'] home ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['atlocation'] apartment ['antonym', 'relatedto'] home ['relatedto'] shell ['relatedto'] engrave
+cup ['atlocation'] apartment ['atlocation'] town ['relatedto'] bury ['relatedto'] engrave
+cup ['atlocation'] apartment ['atlocation'] town ['atlocation'] mill ['relatedto'] engrave
+cup ['atlocation'] apartment ['atlocation'] bed ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['atlocation'] apartment ['atlocation'] cat ['capableof', 'relatedto'] scratch ['synonym'] engrave
+cup ['atlocation'] apartment ['atlocation'] cat ['hasproperty'] en ['derivedfrom'] engrave
+cup ['atlocation'] apartment ['atlocation'] computer ['relatedto'] character ['mannerof'] engrave
+cup ['atlocation'] apartment ['atlocation'] computer ['relatedto'] print ['mannerof'] engrave
+cup ['atlocation'] apartment ['atlocation'] mouse ['atlocation'] en ['derivedfrom'] engrave
+cup ['atlocation'] apartment ['atlocation'] potato ['relatedto'] print ['mannerof'] engrave
+cup ['atlocation'] apartment ['atlocation'] potato ['atlocation'] en ['derivedfrom'] engrave
+cup ['atlocation'] apartment ['atlocation'] sink ['synonym'] bury ['relatedto'] engrave
+cup ['atlocation'] apartment ['atlocation'] wiener_dog ['atlocation'] en ['derivedfrom'] engrave
+cup ['atlocation'] apartment ['isa'] film ['relatedto'] print ['mannerof'] engrave
+cup ['atlocation'] apartment ['isa', 'relatedto'] housing ['isa'] shell ['relatedto'] engrave
+cup ['atlocation'] apartment ['relatedto'] city ['atlocation'] mill ['relatedto'] engrave
+cup ['atlocation'] apartment ['relatedto', 'synonym'] flat ['relatedto'] print ['mannerof'] engrave
+cup ['atlocation'] apartment ['relatedto'] place ['relatedto'] bury ['relatedto'] engrave
+cup ['atlocation'] apartment ['relatedto'] place ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['atlocation'] apartment ['relatedto'] space ['isa', 'relatedto'] character ['mannerof'] engrave
+cup ['atlocation'] apartment ['relatedto'] space ['relatedto'] en ['derivedfrom'] engrave
+cup ['atlocation'] apartment ['relatedto'] part ['relatedto', 'synonym'] character ['mannerof'] engrave
+cup ['atlocation'] apartment ['relatedto'] part ['isa'] shell ['relatedto'] engrave
+cup ['atlocation'] apartment ['relatedto'] move ['mannerof'] mill ['relatedto'] engrave
+cup ['atlocation'] apartment ['relatedto'] move ['mannerof', 'synonym'] affect ['mannerof'] engrave
+cup ['relatedto'] defense ['relatedto'] armor ['relatedto'] shell ['relatedto'] engrave
+cup ['relatedto'] defense ['antonym', 'distinctfrom', 'relatedto'] attack ['mannerof', 'synonym'] affect ['mannerof'] engrave
+cup ['relatedto'] defense ['isa'] protection ['relatedto'] shell ['relatedto'] engrave
+cup ['relatedto'] defense ['isa', 'relatedto'] team ['derivedfrom'] en ['derivedfrom'] engrave
+cup ['relatedto'] defense ['isa'] excuse ['etymologicallyrelatedto'] en ['derivedfrom'] engrave
+cup ['relatedto'] defense ['relatedto'] danger ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+cup ['relatedto'] defense ['relatedto'] injury ['relatedto'] scratch ['synonym'] engrave
+cup ['relatedto'] defense ['relatedto'] military ['relatedto'] mill ['relatedto'] engrave
+cup ['relatedto'] defense ['relatedto'] score ['relatedto'] bury ['relatedto'] engrave
+cup ['relatedto'] defense ['relatedto'] score ['relatedto'] scratch ['synonym'] engrave
+cup ['relatedto'] defense ['relatedto'] fortify ['relatedto'] bury ['relatedto'] engrave

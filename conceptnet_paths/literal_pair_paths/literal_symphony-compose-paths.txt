@@ -1,0 +1,100 @@
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['derivedfrom'] orchestrate ['relatedto'] compose
+symphony ['relatedto'] harmonious ['relatedto'] harmonize ['mannerof'] compose
+symphony ['relatedto'] harmony ['relatedto'] counterpoint ['mannerof', 'relatedto'] compose
+symphony ['relatedto'] harmony ['relatedto'] harmonize ['mannerof'] compose
+symphony ['relatedto'] colour ['relatedto'] rainbow ['relatedto'] compose
+symphony ['relatedto'] combination ['relatedto'] set ['similarto'] compose
+symphony ['relatedto'] combination ['relatedto'] composure ['derivedfrom'] compose
+symphony ['relatedto'] movement ['relatedto'] go ['relatedto'] compose
+symphony ['relatedto'] movement ['relatedto'] set ['similarto'] compose
+symphony ['relatedto'] movement ['relatedto'] form ['relatedto'] compose
+symphony ['relatedto'] movement ['relatedto'] composition ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto'] movement ['relatedto'] writing ['relatedto'] compose
+symphony ['relatedto'] music ['relatedto'] form ['relatedto'] compose
+symphony ['relatedto'] music ['receivesaction'] composed ['formof', 'relatedto'] compose
+symphony ['relatedto'] music ['relatedto'] art_music ['relatedto'] compose
+symphony ['relatedto'] music ['relatedto'] barcarolle ['relatedto'] compose
+symphony ['relatedto'] music ['relatedto'] composer ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto'] music ['relatedto'] composition ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto'] music ['relatedto'] counterpoint ['mannerof', 'relatedto'] compose
+symphony ['relatedto'] music ['usedfor', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] music ['relatedto'] score ['mannerof'] compose
+symphony ['relatedto'] music ['relatedto'] sonnet ['relatedto'] compose
+symphony ['relatedto'] music ['relatedto'] musicalise ['relatedto'] compose
+symphony ['relatedto'] music ['relatedto'] orchestrate ['relatedto'] compose
+symphony ['relatedto'] music ['relatedto'] sonify ['relatedto'] compose
+symphony ['relatedto'] structure ['relatedto'] set ['similarto'] compose
+symphony ['relatedto'] structure ['etymologicallyrelatedto', 'relatedto'] construct ['relatedto'] compose
+symphony ['relatedto'] structure ['isa', 'relatedto'] form ['relatedto'] compose
+symphony ['relatedto'] structure ['relatedto'] frame ['relatedto', 'synonym'] compose
+symphony ['relatedto'] structure ['relatedto'] patchwork_quilt ['relatedto'] compose
+symphony ['atlocation'] bass_fiddle ['isa'] instrument ['mannerof'] compose
+symphony ['atlocation'] cello ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['atlocation'] flute ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['atlocation'] musician ['relatedto'] bard ['relatedto'] compose
+symphony ['atlocation'] musician ['relatedto'] instrument ['mannerof'] compose
+symphony ['atlocation'] musician ['derivedfrom'] pop_musician ['relatedto'] compose
+symphony ['atlocation'] musician ['isa', 'relatedto'] composer ['relatedto', 'derivedfrom'] compose
+symphony ['atlocation'] musician ['isa', 'relatedto'] singer_songwriter ['relatedto'] compose
+symphony ['atlocation'] musician ['isa', 'relatedto'] songwriter ['relatedto'] compose
+symphony ['atlocation'] musician ['relatedto'] tracker ['relatedto'] compose
+symphony ['atlocation'] piano ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['atlocation'] piano ['relatedto'] composer ['relatedto', 'derivedfrom'] compose
+symphony ['atlocation'] viola ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['atlocation'] wind_instrument ['relatedto'] instrument ['mannerof'] compose
+symphony ['atlocation'] woodwind ['isa'] instrument ['mannerof'] compose
+symphony ['derivedfrom'] symphonism ['relatedto'] composition ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto', 'derivedfrom'] symphonist ['isa'] composer ['relatedto', 'derivedfrom'] compose
+symphony ['isa'] musical_composition ['synonym'] composition ['relatedto', 'derivedfrom'] compose
+symphony ['isa'] sonata ['relatedto'] instrument ['mannerof'] compose
+symphony ['isa'] sonata ['relatedto'] composition ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto'] ode ['relatedto'] composition ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto'] element ['partof'] set ['similarto'] compose
+symphony ['relatedto'] element ['relatedto'] compound ['relatedto'] compose
+symphony ['relatedto'] element ['relatedto'] orchestrate ['relatedto'] compose
+symphony ['relatedto'] orchestra ['antonym', 'distinctfrom', 'relatedto'] band ['relatedto', 'synonym'] set ['similarto'] compose
+symphony ['relatedto'] orchestra ['antonym', 'distinctfrom', 'relatedto'] band ['relatedto', 'atlocation'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['antonym', 'distinctfrom', 'relatedto'] band ['relatedto'] type ['relatedto'] compose
+symphony ['relatedto'] orchestra ['atlocation'] bass_clarinet ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] bass_drum ['isa'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] bass_fiddle ['isa'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] brass ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] clarinet ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] cornet ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] drum ['synonym'] set ['similarto'] compose
+symphony ['relatedto'] orchestra ['atlocation'] drum ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] fiddle ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] first_violin ['relatedto'] composition ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto'] orchestra ['atlocation'] flute ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] gong ['etymologicallyrelatedto'] go ['relatedto'] compose
+symphony ['relatedto'] orchestra ['atlocation'] gong ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] instrument ['synonym'] arrange ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] keyboard_instrument ['derivedfrom'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] musical_instrument ['derivedfrom', 'synonym'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] musician ['relatedto'] bard ['relatedto'] compose
+symphony ['relatedto'] orchestra ['atlocation'] musician ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] musician ['derivedfrom'] pop_musician ['relatedto'] compose
+symphony ['relatedto'] orchestra ['atlocation'] musician ['isa', 'relatedto'] composer ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto'] orchestra ['atlocation'] musician ['isa', 'relatedto'] singer_songwriter ['relatedto'] compose
+symphony ['relatedto'] orchestra ['atlocation'] musician ['isa', 'relatedto'] songwriter ['relatedto'] compose
+symphony ['relatedto'] orchestra ['atlocation'] musician ['relatedto'] tracker ['relatedto'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] oboe ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] opera ['relatedto'] score ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] percussion_instrument ['isa'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] piano ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] piano ['relatedto'] composer ['relatedto', 'derivedfrom'] compose
+symphony ['relatedto'] orchestra ['atlocation'] saxophone ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] string_bass ['isa'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] triangle ['isa'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] trombone ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] trumpet ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] viola ['isa', 'relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'atlocation'] violin ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['atlocation'] xylophone ['isa'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['derivedfrom'] orchestra_hit ['relatedto'] instrument ['mannerof'] compose
+symphony ['relatedto'] orchestra ['relatedto', 'derivedfrom'] orchestral ['relatedto'] orchestrate ['relatedto'] compose
+symphony ['relatedto'] orchestra ['derivedfrom'] orchestrate ['mannerof', 'relatedto'] score ['mannerof'] compose
+symphony ['relatedto'] orchestra ['derivedfrom'] orchestrate ['relatedto'] arrange ['mannerof'] compose
+symphony ['relatedto'] orchestra ['partof'] section ['isa'] writing ['relatedto'] compose
+symphony ['relatedto'] orchestra ['relatedto'] classical ['relatedto'] art_music ['relatedto'] compose

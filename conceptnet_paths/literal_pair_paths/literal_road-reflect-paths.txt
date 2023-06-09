@@ -1,0 +1,100 @@
+road ['relatedto'] black ['relatedto'] reflect
+road ['isa', 'relatedto'] surface ['relatedto'] reflect
+road ['partof'] bend ['relatedto'] reflect
+road ['relatedto'] concrete ['hasproperty'] opaque ['relatedto'] reflect
+road ['relatedto'] rest ['relatedto'] back ['relatedto'] reflect
+road ['relatedto'] rest ['relatedto'] light ['relatedto'] reflect
+road ['relatedto'] ground ['isa', 'relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] ground ['relatedto'] glass ['relatedto'] reflect
+road ['relatedto'] ground ['relatedto'] focus ['relatedto'] reflect
+road ['relatedto'] land ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] man ['isa'] black ['relatedto'] reflect
+road ['relatedto'] house ['atlocation'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+road ['relatedto'] go ['relatedto'] follow ['relatedto'] reflect
+road ['relatedto'] go ['relatedto'] light ['relatedto'] reflect
+road ['relatedto'] go ['relatedto'] glass ['relatedto'] reflect
+road ['synonym'] away ['antonym'] back ['relatedto'] reflect
+road ['relatedto'] main ['antonym'] back ['relatedto'] reflect
+road ['relatedto'] main ['relatedto'] character ['relatedto'] reflect
+road ['relatedto'] well ['mannerof'] surface ['relatedto'] reflect
+road ['relatedto'] stop ['relatedto'] light ['relatedto'] reflect
+road ['relatedto'] small ['relatedto', 'partof'] back ['relatedto'] reflect
+road ['relatedto'] small ['relatedto'] pore ['relatedto'] reflect
+road ['relatedto'] black ['relatedto'] darkness ['relatedto'] reflect
+road ['relatedto'] black ['relatedto'] light ['relatedto'] reflect
+road ['relatedto'] black ['relatedto'] blackbody ['relatedto'] reflect
+road ['relatedto'] black ['relatedto'] claude_lorraine_glass ['relatedto'] reflect
+road ['relatedto', 'atlocation'] car ['atlocation'] show ['mannerof'] reflect
+road ['relatedto', 'atlocation'] car ['atlocation'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+road ['relatedto', 'atlocation'] car ['hasproperty'] opaque ['relatedto'] reflect
+road ['relatedto', 'atlocation'] car ['hasproperty'] shiny ['relatedto'] reflect
+road ['relatedto'] branch ['relatedto'] image ['relatedto'] reflect
+road ['relatedto'] branch ['relatedto'] coxeter_dynkin_diagram ['relatedto'] reflect
+road ['relatedto', 'atlocation'] bridge ['atlocation'] echo ['relatedto'] reflect
+road ['relatedto'] kind ['relatedto'] character ['relatedto'] reflect
+road ['relatedto'] dip ['relatedto'] light ['relatedto'] reflect
+road ['relatedto'] rough ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] case ['relatedto'] glass ['relatedto'] reflect
+road ['relatedto'] case ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] case ['relatedto'] light ['relatedto'] reflect
+road ['relatedto'] case ['synonym'] character ['relatedto'] reflect
+road ['relatedto'] flat ['relatedto'] surface ['relatedto'] reflect
+road ['isa', 'relatedto'] line ['relatedto'] bend ['relatedto'] reflect
+road ['isa', 'relatedto'] line ['relatedto'] follow ['relatedto'] reflect
+road ['isa', 'relatedto'] line ['relatedto'] surface ['relatedto'] reflect
+road ['isa', 'relatedto'] line ['relatedto'] symmedian ['relatedto'] reflect
+road ['relatedto'] slide ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] slide ['relatedto'] image ['relatedto'] reflect
+road ['relatedto'] corner ['relatedto', 'synonym'] bend ['relatedto'] reflect
+road ['relatedto'] silk ['relatedto'] light ['relatedto'] reflect
+road ['relatedto'] silk ['relatedto'] shiny ['relatedto'] reflect
+road ['relatedto'] silk ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] metal ['hasproperty'] opaque ['relatedto'] reflect
+road ['relatedto'] metal ['antonym', 'relatedto'] glass ['relatedto'] reflect
+road ['relatedto'] metal ['relatedto'] matte ['relatedto'] reflect
+road ['relatedto'] metal ['relatedto'] reflective ['relatedto'] reflect
+road ['relatedto'] metal ['relatedto'] shine ['relatedto', 'synonym'] reflect
+road ['relatedto'] metal ['relatedto'] shiny ['relatedto'] reflect
+road ['relatedto'] metal ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] walk ['relatedto'] follow ['relatedto'] reflect
+road ['relatedto'] walk ['relatedto'] light ['relatedto'] reflect
+road ['usedfor', 'relatedto'] cross ['relatedto'] image ['relatedto'] reflect
+road ['relatedto'] two ['relatedto'] back ['relatedto'] reflect
+road ['partof'] crown ['relatedto'] black ['relatedto'] reflect
+road ['partof'] crown ['relatedto'] shiny ['relatedto'] reflect
+road ['relatedto'] life ['derivedfrom'] lifestyle ['relatedto'] reflect
+road ['relatedto'] deep ['relatedto'] back ['relatedto'] reflect
+road ['relatedto'] deep ['antonym'] light ['relatedto'] reflect
+road ['relatedto'] similar ['relatedto'] agree ['relatedto'] reflect
+road ['relatedto'] dirt ['hasproperty'] opaque ['relatedto'] reflect
+road ['antonym'] door ['relatedto'] back ['relatedto'] reflect
+road ['antonym'] door ['hasproperty'] opaque ['relatedto'] reflect
+road ['antonym'] door ['capableof', 'distinctfrom'] glass ['relatedto'] reflect
+road ['relatedto', 'atlocation'] fork ['atlocation'] back ['relatedto'] reflect
+road ['atlocation'] oregon ['partof'] bend ['relatedto'] reflect
+road ['atlocation'] valley ['relatedto'] echo ['relatedto'] reflect
+road ['derivedfrom'] roadshow ['relatedto', 'derivedfrom'] show ['mannerof'] reflect
+road ['isa', 'distinctfrom', 'relatedto', 'synonym'] street ['relatedto'] black ['relatedto'] reflect
+road ['isa', 'distinctfrom', 'relatedto', 'synonym'] street ['atlocation'] glass ['relatedto'] reflect
+road ['isa', 'distinctfrom', 'relatedto', 'synonym'] street ['relatedto'] surface ['relatedto'] reflect
+road ['isa', 'relatedto'] drive ['relatedto'] repercuss ['relatedto'] reflect
+road ['isa', 'relatedto'] surface ['isa', 'atlocation'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+road ['isa', 'relatedto'] surface ['relatedto'] reflection ['etymologicallyrelatedto', 'relatedto'] reflect
+road ['isa', 'relatedto'] surface ['relatedto'] albedo ['relatedto'] reflect
+road ['isa', 'relatedto'] surface ['relatedto'] catacaustic ['relatedto'] reflect
+road ['isa', 'relatedto'] surface ['relatedto'] radar ['relatedto'] reflect
+road ['isa', 'relatedto'] surface ['relatedto'] reflectance ['derivedfrom'] reflect
+road ['isa', 'relatedto'] track ['relatedto', 'synonym'] follow ['relatedto'] reflect
+road ['isa', 'relatedto'] track ['relatedto'] surface ['relatedto'] reflect
+road ['partof'] bend ['relatedto'] reflex ['relatedto'] reflect
+road ['relatedto', 'partof'] shoulder ['relatedto'] back ['relatedto'] reflect
+road ['relatedto'] asphalt ['relatedto'] black ['relatedto'] reflect
+road ['relatedto'] asphalt ['hasproperty'] opaque ['relatedto'] reflect
+road ['relatedto'] asphalt ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] blocklayer ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] camber ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] concession ['relatedto'] follow ['relatedto'] reflect
+road ['relatedto'] culture ['relatedto'] lifestyle ['relatedto'] reflect
+road ['relatedto'] curb ['relatedto'] bend ['relatedto'] reflect
+road ['relatedto'] gravel ['relatedto'] surface ['relatedto'] reflect
+road ['relatedto'] gytrash ['relatedto'] black ['relatedto'] reflect

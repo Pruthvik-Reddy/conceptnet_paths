@@ -1,0 +1,100 @@
+cord ['isa', 'usedfor', 'mannerof', 'relatedto'] tie ['relatedto'] twist
+cord ['relatedto'] wind ['relatedto', 'synonym'] twist
+cord ['isa', 'relatedto', 'synonym'] rope ['relatedto'] twist
+cord ['isa', 'similarto'] thread ['relatedto'] twist
+cord ['isa', 'relatedto'] whipcord ['relatedto'] twist
+cord ['isa', 'relatedto'] wick ['relatedto'] twist
+cord ['relatedto'] braid ['synonym'] twist
+cord ['relatedto'] wicking ['relatedto'] twist
+cord ['similarto', 'synonym'] twine ['relatedto', 'synonym'] twist
+cord ['relatedto'] baby ['antonym', 'relatedto'] old ['relatedto'] twist
+cord ['relatedto'] baby ['relatedto'] feet ['relatedto'] twist
+cord ['relatedto'] baby ['relatedto'] shake ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] ground ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] berry ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] card ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] change ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] girl ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] gun ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] iron ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] road ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] rock ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] roll ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] sharp ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] toilet ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] twig ['relatedto'] twist
+cord ['relatedto'] small ['relatedto'] word ['relatedto'] twist
+cord ['synonym'] thin ['etymologicallyrelatedto'] dance ['mannerof', 'relatedto'] twist
+cord ['synonym'] thin ['mannerof'] draw ['relatedto'] twist
+cord ['synonym'] thin ['relatedto'] card ['relatedto'] twist
+cord ['synonym'] thin ['relatedto'] kink ['relatedto', 'similarto', 'synonym'] twist
+cord ['isa', 'relatedto', 'synonym'] cable ['isa'] device ['synonym'] twist
+cord ['isa', 'relatedto', 'synonym'] cable ['isa', 'relatedto'] rope ['relatedto'] twist
+cord ['isa', 'relatedto', 'synonym'] cable ['relatedto'] kneck ['relatedto'] twist
+cord ['isa', 'relatedto', 'synonym'] cable ['relatedto'] warp ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] join ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] ground ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] position ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] plot ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] straight ['antonym', 'distinctfrom'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] flat ['antonym'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] cast ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['antonym', 'isa', 'relatedto'] curve ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['etymologicallyrelatedto'] lime ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['isa', 'relatedto'] road ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['isa', 'relatedto'] shape ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['isa', 'relatedto'] path ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['isa', 'relatedto', 'synonym'] rope ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['isa', 'relatedto'] zigzag ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] bend ['antonym', 'relatedto', 'synonym'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] meaning ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] feature ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] thread ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] word ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] form ['mannerof'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] meander ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] story ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] tie ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] turn ['antonym', 'mannerof', 'relatedto', 'synonym'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] twine ['relatedto', 'synonym'] twist
+cord ['isa', 'relatedto'] line ['relatedto'] warp ['relatedto'] twist
+cord ['isa', 'relatedto'] line ['synonym'] game ['relatedto'] twist
+cord ['formof', 'etymologicallyrelatedto', 'relatedto'] chord ['relatedto'] together ['relatedto'] twist
+cord ['formof', 'etymologicallyrelatedto', 'relatedto'] chord ['relatedto'] position ['relatedto'] twist
+cord ['formof', 'etymologicallyrelatedto', 'relatedto'] chord ['relatedto'] music ['relatedto'] twist
+cord ['formof', 'etymologicallyrelatedto', 'relatedto'] chord ['relatedto'] rope ['relatedto'] twist
+cord ['formof', 'etymologicallyrelatedto', 'relatedto'] chord ['relatedto'] type ['relatedto'] twist
+cord ['synonym'] thick ['relatedto'] card ['relatedto'] twist
+cord ['synonym'] thick ['relatedto'] iron ['relatedto'] twist
+cord ['synonym'] thick ['relatedto'] rope ['relatedto'] twist
+cord ['synonym'] thick ['relatedto'] shake ['relatedto'] twist
+cord ['synonym'] thick ['relatedto'] hips ['relatedto'] twist
+cord ['isa'] conductor ['relatedto'] ground ['relatedto'] twist
+cord ['isa'] conductor ['isa'] device ['synonym'] twist
+cord ['isa'] conductor ['relatedto'] music ['relatedto'] twist
+cord ['relatedto'] wire ['isa'] device ['synonym'] twist
+cord ['relatedto'] wire ['usedfor', 'relatedto'] coil ['relatedto'] twist
+cord ['relatedto'] wire ['relatedto'] rope ['relatedto'] twist
+cord ['relatedto'] wire ['relatedto'] thread ['relatedto'] twist
+cord ['relatedto'] wire ['relatedto'] woman ['relatedto'] twist
+cord ['relatedto'] wire ['usedfor'] shape ['relatedto'] twist
+cord ['atlocation'] backpack ['atlocation'] rope ['relatedto'] twist
+cord ['relatedto'] net ['relatedto'] cast ['relatedto'] twist
+cord ['relatedto'] net ['relatedto'] rope ['relatedto'] twist
+cord ['relatedto'] flatten ['relatedto'] flat ['antonym'] twist
+cord ['relatedto'] flatten ['mannerof'] change ['relatedto'] twist
+cord ['relatedto'] flatten ['mannerof'] form ['mannerof'] twist
+cord ['relatedto'] flatten ['mannerof'] change_shape ['mannerof'] twist
+cord ['relatedto'] flatten ['relatedto'] bulldog ['relatedto'] twist
+cord ['relatedto'] flatten ['relatedto'] iron ['relatedto'] twist
+cord ['atlocation'] office ['relatedto', 'synonym'] position ['relatedto'] twist
+cord ['atlocation'] office ['atlocation'] feet ['relatedto'] twist
+cord ['atlocation'] office ['relatedto'] type ['relatedto'] twist
+cord ['atlocation'] office ['relatedto'] removal ['relatedto'] twist
+cord ['atlocation'] office ['relatedto'] roll ['relatedto'] twist
+cord ['atlocation'] office ['relatedto'] vine_staff ['relatedto'] twist
+cord ['isa', 'relatedto'] leash ['relatedto'] movement ['isa', 'relatedto'] twist
+cord ['isa', 'relatedto'] leash ['relatedto', 'synonym'] rope ['relatedto'] twist
+cord ['isa', 'relatedto'] leash ['relatedto'] warp ['relatedto'] twist
+cord ['relatedto'] racket ['synonym'] game ['relatedto'] twist
+cord ['relatedto'] racket ['antonym'] music ['relatedto'] twist

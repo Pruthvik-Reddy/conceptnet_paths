@@ -1,0 +1,100 @@
+nightingale ['isa', 'relatedto'] bird ['capableof'] sing
+nightingale ['derivedfrom'] gale ['relatedto'] sing
+nightingale ['isa'] musical ['relatedto'] sing
+nightingale ['relatedto'] singing ['formof', 'relatedto', 'synonym'] sing
+nightingale ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+nightingale ['isa'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['capableof'] sing
+nightingale ['isa'] animal ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+nightingale ['isa'] animal ['relatedto'] yed ['relatedto'] sing
+nightingale ['isa', 'relatedto'] bird ['relatedto'] singing ['formof', 'relatedto', 'synonym'] sing
+nightingale ['isa', 'relatedto'] bird ['relatedto'] sings ['formof', 'relatedto'] sing
+nightingale ['isa', 'relatedto'] bird ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+nightingale ['isa', 'relatedto'] bird ['relatedto'] sound ['relatedto'] sing
+nightingale ['relatedto'] beautiful ['relatedto', 'hasproperty'] voice ['usedfor', 'relatedto'] sing
+nightingale ['relatedto'] beautiful ['relatedto'] dance ['antonym', 'relatedto'] sing
+nightingale ['relatedto'] beautiful ['relatedto'] music ['causesdesire', 'relatedto'] sing
+nightingale ['relatedto'] bed ['isa', 'relatedto'] place ['mannerof', 'relatedto'] sing
+nightingale ['relatedto'] bed ['relatedto'] double ['distinctfrom'] sing
+nightingale ['relatedto'] bed ['relatedto'] love ['causesdesire'] sing
+nightingale ['antonym'] day ['relatedto'] love ['causesdesire'] sing
+nightingale ['relatedto', 'derivedfrom'] night ['relatedto'] dance ['antonym', 'relatedto'] sing
+nightingale ['relatedto', 'derivedfrom'] night ['relatedto'] oneg ['relatedto'] sing
+nightingale ['derivedfrom'] gale ['relatedto'] talk ['antonym', 'mannerof'] sing
+nightingale ['derivedfrom'] gale ['relatedto'] musical ['relatedto'] sing
+nightingale ['derivedfrom'] gale ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+nightingale ['isa', 'relatedto'] bulbul ['isa'] bird ['capableof'] sing
+nightingale ['isa', 'relatedto'] thrush ['isa'] bird ['capableof'] sing
+nightingale ['isa', 'relatedto'] thrush ['isa', 'relatedto'] singer ['motivatedbygoal', 'relatedto', 'derivedfrom'] sing
+nightingale ['isa'] musical ['relatedto'] dance ['antonym', 'relatedto'] sing
+nightingale ['isa'] musical ['relatedto'] performance ['relatedto'] sing
+nightingale ['isa'] musical ['relatedto', 'derivedfrom'] music ['causesdesire', 'relatedto'] sing
+nightingale ['isa'] musical ['relatedto', 'atlocation'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+nightingale ['isa'] musical ['relatedto'] gale ['relatedto'] sing
+nightingale ['isa'] musical ['relatedto'] minstrel ['mannerof', 'relatedto'] sing
+nightingale ['isa'] musical ['relatedto'] singing ['formof', 'relatedto', 'synonym'] sing
+nightingale ['isa'] musical ['relatedto'] sound ['relatedto'] sing
+nightingale ['isa'] musical ['relatedto'] tune ['relatedto'] sing
+nightingale ['isa'] musical ['relatedto'] vocalization ['relatedto'] sing
+nightingale ['relatedto'] common_nightingale ['isa'] bird ['capableof'] sing
+nightingale ['relatedto'] singing ['isa'] activity ['relatedto'] sing
+nightingale ['relatedto'] singing ['causes'] happiness ['causesdesire'] sing
+nightingale ['relatedto'] singing ['relatedto'] bird ['capableof'] sing
+nightingale ['relatedto'] singing ['relatedto'] harmony ['relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto'] dance ['antonym', 'relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto'] singer ['motivatedbygoal', 'relatedto', 'derivedfrom'] sing
+nightingale ['relatedto'] singing ['isa'] performance ['relatedto'] sing
+nightingale ['relatedto'] singing ['usedfor', 'relatedto', 'hasprerequisite'] voice ['usedfor', 'relatedto'] sing
+nightingale ['relatedto'] singing ['causes', 'relatedto'] music ['causesdesire', 'relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto'] musical ['relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto'] produce ['relatedto'] sing
+nightingale ['relatedto'] singing ['atlocation'] opera ['relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto', 'hasprerequisite'] sound ['relatedto'] sing
+nightingale ['relatedto'] singing ['isa'] intonation ['relatedto'] sing
+nightingale ['relatedto'] singing ['isa'] singalong ['relatedto', 'derivedfrom'] sing
+nightingale ['relatedto'] singing ['isa'] musical_talking ['relatedto'] sing
+nightingale ['relatedto'] singing ['isa'] vocal_music ['relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto'] chant ['mannerof', 'relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto'] choir ['capableof', 'mannerof', 'relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto', 'synonym'] vocalizing ['relatedto'] sing
+nightingale ['relatedto'] singing ['relatedto'] yoik ['relatedto'] sing
+nightingale ['relatedto'] singing ['usedfor'] alto ['usedfor'] sing
+nightingale ['relatedto'] singing ['usedfor'] contralto ['usedfor'] sing
+nightingale ['relatedto'] singing ['usedfor'] tenor ['usedfor'] sing
+nightingale ['relatedto'] song ['relatedto'] bird ['capableof'] sing
+nightingale ['relatedto'] song ['relatedto'] stop ['haslastsubevent'] sing
+nightingale ['relatedto'] song ['relatedto', 'synonym'] vocal ['relatedto'] sing
+nightingale ['relatedto'] song ['antonym'] talk ['antonym', 'mannerof'] sing
+nightingale ['relatedto'] song ['antonym', 'relatedto'] dance ['antonym', 'relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] singer ['motivatedbygoal', 'relatedto', 'derivedfrom'] sing
+nightingale ['relatedto'] song ['relatedto'] performance ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto', 'atlocation'] voice ['usedfor', 'relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] joy ['causesdesire'] sing
+nightingale ['relatedto'] song ['isa', 'madeof', 'relatedto', 'partof'] music ['causesdesire', 'relatedto'] sing
+nightingale ['relatedto'] song ['relatedto', 'atlocation'] musical ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] singing ['formof', 'relatedto', 'synonym'] sing
+nightingale ['relatedto'] song ['isa', 'atlocation'] sound ['relatedto'] sing
+nightingale ['relatedto'] song ['derivedfrom'] singsong ['derivedfrom'] sing
+nightingale ['relatedto'] song ['relatedto', 'derivedfrom'] songful ['relatedto'] sing
+nightingale ['relatedto'] song ['etymologicallyrelatedto'] splash ['etymologicallyrelatedto'] sing
+nightingale ['relatedto'] song ['etymologicallyrelatedto'] splish ['etymologicallyrelatedto'] sing
+nightingale ['relatedto'] song ['etymologicallyrelatedto'] splosh ['etymologicallyrelatedto'] sing
+nightingale ['relatedto'] song ['isa', 'relatedto', 'synonym'] ballad ['relatedto'] sing
+nightingale ['relatedto'] song ['isa', 'relatedto'] carol ['mannerof'] sing
+nightingale ['relatedto'] song ['isa'] chant ['mannerof', 'relatedto'] sing
+nightingale ['relatedto'] song ['isa', 'relatedto'] ditty ['relatedto'] sing
+nightingale ['relatedto'] song ['isa', 'relatedto'] vocal_music ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] ablaut ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] choir ['capableof', 'mannerof', 'relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] croon ['mannerof', 'relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] encore ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] gale ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] hymn ['mannerof', 'relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] madrigal ['mannerof'] sing
+nightingale ['relatedto'] song ['relatedto'] minstrel ['mannerof', 'relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] opera ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] paean ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] psalm ['mannerof'] sing
+nightingale ['relatedto'] song ['relatedto'] sangeet ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] chorus ['relatedto'] sing
+nightingale ['relatedto'] song ['relatedto'] melody ['relatedto'] sing

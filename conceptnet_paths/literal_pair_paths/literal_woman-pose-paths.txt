@@ -1,0 +1,100 @@
+woman ['relatedto'] unite ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] human ['partof'] attitude ['relatedto'] pose
+woman ['relatedto'] human ['relatedto'] ask ['relatedto'] pose
+woman ['relatedto'] human ['relatedto'] model ['synonym'] pose
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] soprano ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] big ['relatedto'] mug ['relatedto'] pose
+woman ['relatedto'] date ['isa', 'relatedto'] present ['synonym'] pose
+woman ['relatedto'] body ['relatedto'] attitude ['relatedto'] pose
+woman ['relatedto'] body ['relatedto'] posture ['relatedto', 'synonym'] pose
+woman ['relatedto'] body ['relatedto'] virabhadrasana ['relatedto'] pose
+woman ['relatedto'] long ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] single ['isa'] question ['relatedto'] pose
+woman ['relatedto'] dress ['mannerof'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['antonym', 'distinctfrom'] male ['relatedto'] ask ['relatedto'] pose
+woman ['relatedto'] marry ['relatedto'] propose ['relatedto'] pose
+woman ['relatedto'] figure ['isa', 'relatedto'] model ['synonym'] pose
+woman ['relatedto'] figure ['relatedto'] superpose ['relatedto', 'derivedfrom'] pose
+woman ['isa', 'relatedto'] jilt ['relatedto'] deceive ['mannerof'] pose
+woman ['isa', 'relatedto'] man_eater ['relatedto'] attitude ['relatedto'] pose
+woman ['isa'] prostitute ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] bitch ['relatedto'] behave ['mannerof'] pose
+woman ['relatedto'] hidradenoma ['relatedto'] benign ['relatedto'] pose
+woman ['relatedto'] period ['relatedto'] present ['synonym'] pose
+woman ['relatedto'] princess ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] scarlet_woman ['relatedto'] behave ['mannerof'] pose
+woman ['relatedto'] size_zero ['relatedto'] model ['synonym'] pose
+woman ['relatedto'] slip ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] stale ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] statue ['relatedto'] living_statue ['relatedto'] pose
+woman ['relatedto'] statue ['relatedto'] model ['synonym'] pose
+woman ['relatedto'] twist ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] twist ['relatedto'] attitude ['relatedto'] pose
+woman ['relatedto'] wifestyle ['relatedto'] attitude ['relatedto'] pose
+woman ['relatedto'] attendant ['similarto'] present ['synonym'] pose
+woman ['relatedto'] servant ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] furnish ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] staff ['relatedto'] present ['synonym'] pose
+woman ['relatedto', 'synonym'] womanhood ['isa'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] unite ['antonym'] abandon ['mannerof', 'relatedto'] expose ['relatedto'] pose
+woman ['relatedto'] unite ['mannerof', 'relatedto', 'synonym'] join ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] unite ['mannerof', 'relatedto'] marry ['relatedto'] propose ['relatedto'] pose
+woman ['relatedto'] unite ['mannerof'] change ['mannerof'] put ['synonym'] pose
+woman ['relatedto'] unite ['mannerof'] change ['mannerof'] indispose ['relatedto'] pose
+woman ['relatedto'] unite ['mannerof'] change ['mannerof', 'relatedto'] transpose ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto', 'synonym'] add ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] unite ['relatedto', 'synonym'] combine ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] unite ['relatedto'] conjugate ['relatedto'] juxtapose ['etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] context ['relatedto'] present ['synonym'] pose
+woman ['relatedto'] unite ['relatedto'] union ['relatedto'] arrangement ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] bring ['relatedto'] present ['synonym'] pose
+woman ['relatedto'] unite ['relatedto'] bring ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] unite ['relatedto'] put ['relatedto'] ask ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof'] repose ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof', 'relatedto', 'synonym'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof'] appose ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof', 'relatedto'] dispose ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof', 'synonym'] juxtapose ['etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof'] postpose ['etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof'] prepose ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof'] superimpose ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put ['mannerof'] superpose ['relatedto', 'derivedfrom'] pose
+woman ['relatedto'] unite ['relatedto'] put ['synonym'] propose ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] put_together ['derivedfrom'] put ['synonym'] pose
+woman ['relatedto'] unite ['relatedto'] put_together ['synonym'] compose ['relatedto'] pose
+woman ['relatedto'] unite ['relatedto'] gold ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] unite ['synonym'] connect ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] children ['desires'] pretend ['motivatedbygoal'] deceive ['mannerof'] pose
+woman ['relatedto'] children ['desires'] pretend ['relatedto'] posture ['relatedto', 'synonym'] pose
+woman ['relatedto'] children ['atlocation'] car ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] children ['capableof', 'desires'] play_games ['relatedto'] deceive ['mannerof'] pose
+woman ['relatedto'] children ['capableof'] walk ['mannerof'] behave ['mannerof'] pose
+woman ['relatedto'] children ['desires'] jump ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] children ['relatedto'] beaker ['relatedto'] mug ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] birth_control ['isa'] human_activity ['isa'] pose
+woman ['relatedto'] children ['relatedto'] birthday ['relatedto'] present ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] birthday ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] bishop ['relatedto'] suppose ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] camp ['relatedto'] posturing ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] birthdays ['relatedto'] present ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] formally ['relatedto'] present ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] group ['isa'] arrangement ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] human ['partof'] attitude ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] human ['relatedto'] ask ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] human ['relatedto'] model ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] marriage ['relatedto'] propose ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] miniature ['relatedto'] model ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] discipline ['relatedto'] impose ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] hide ['antonym'] expose ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] hide ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] issue ['relatedto', 'synonym'] question ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] issue ['relatedto'] posture ['relatedto', 'synonym'] pose
+woman ['relatedto'] children ['relatedto'] park ['mannerof', 'relatedto'] put ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] play ['relatedto'] deceive ['mannerof'] pose
+woman ['relatedto'] children ['relatedto'] primer ['relatedto'] position ['isa', 'etymologicallyrelatedto', 'relatedto'] pose
+woman ['relatedto'] children ['relatedto'] swing ['relatedto'] put ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] toy ['relatedto'] present ['synonym'] pose
+woman ['relatedto'] children ['relatedto'] transition ['relatedto'] vinyasa ['relatedto'] pose
+woman ['relatedto'] children ['relatedto'] trick ['isa', 'mannerof', 'relatedto'] deceive ['mannerof'] pose
+woman ['relatedto'] children ['relatedto'] trick ['relatedto'] impose ['relatedto'] pose

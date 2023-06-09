@@ -1,0 +1,100 @@
+man ['relatedto'] date ['relatedto'] march
+man ['relatedto'] hand ['relatedto'] march
+man ['relatedto'] name ['relatedto'] march
+man ['relatedto'] soldier ['relatedto'] march
+man ['relatedto'] establishment ['relatedto'] band ['relatedto'] march
+man ['relatedto'] presence ['relatedto'] activity ['relatedto'] march
+man ['relatedto'] child ['relatedto'] name ['relatedto'] march
+man ['relatedto'] child ['relatedto'] place ['relatedto'] march
+man ['relatedto'] child ['relatedto'] process ['synonym'] march
+man ['antonym', 'isa', 'relatedto'] adult ['relatedto'] rabbit ['relatedto'] march
+man ['relatedto'] affair ['synonym'] action ['relatedto'] march
+man ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] march
+man ['relatedto'] affair ['isa'] ceremony ['relatedto'] march
+man ['relatedto'] affair ['relatedto'] date ['relatedto'] march
+man ['relatedto', 'synonym'] human ['atlocation'] band ['relatedto'] march
+man ['relatedto', 'synonym'] human ['atlocation'] command ['relatedto'] march
+man ['relatedto', 'synonym'] human ['relatedto', 'atlocation'] war ['relatedto'] march
+man ['relatedto', 'synonym'] human ['relatedto', 'partof'] hand ['relatedto'] march
+man ['relatedto', 'synonym'] human ['relatedto'] feet ['relatedto'] march
+man ['relatedto', 'synonym'] human ['relatedto'] type ['relatedto'] march
+man ['relatedto', 'synonym'] human ['relatedto'] walk ['antonym', 'isa', 'mannerof', 'relatedto'] march
+man ['relatedto', 'synonym'] human ['relatedto'] walking ['antonym', 'relatedto'] march
+man ['relatedto'] old ['relatedto'] rabbit ['relatedto'] march
+man ['relatedto'] old ['relatedto'] year ['relatedto'] march
+man ['relatedto'] youth ['relatedto'] spring ['relatedto'] march
+man ['relatedto'] agent ['relatedto'] action ['relatedto'] march
+man ['relatedto'] agent ['relatedto'] double ['relatedto'] march
+man ['relatedto'] agent ['relatedto'] name ['relatedto'] march
+man ['relatedto'] agent ['relatedto'] hand ['relatedto'] march
+man ['relatedto'] agent ['relatedto'] political ['relatedto'] march
+man ['relatedto'] fire ['isa'] book ['isa'] march
+man ['relatedto'] fire ['relatedto'] autumn ['relatedto'] march
+man ['relatedto'] fire ['relatedto'] process ['synonym'] march
+man ['relatedto'] fire ['relatedto'] sorry ['relatedto'] march
+man ['relatedto'] fire ['relatedto'] tread ['similarto'] march
+man ['relatedto'] alive ['relatedto'] action ['relatedto'] march
+man ['relatedto'] alive ['relatedto'] activity ['relatedto'] march
+man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] rabbit ['relatedto'] march
+man ['antonym', 'distinctfrom'] animal ['relatedto'] feet ['relatedto'] march
+man ['antonym', 'distinctfrom'] animal ['relatedto'] movement ['relatedto'] march
+man ['antonym', 'distinctfrom'] animal ['relatedto'] name ['relatedto'] march
+man ['antonym', 'distinctfrom'] animal ['relatedto'] type ['relatedto'] march
+man ['antonym', 'distinctfrom'] animal ['relatedto'] song ['relatedto'] march
+man ['antonym', 'distinctfrom'] animal ['relatedto'] winter ['relatedto'] march
+man ['relatedto'] bird ['relatedto'] type ['relatedto'] march
+man ['relatedto'] bird ['relatedto'] song ['relatedto'] march
+man ['relatedto'] bird ['relatedto'] tread ['similarto'] march
+man ['antonym', 'relatedto'] baby ['relatedto'] feet ['relatedto'] march
+man ['antonym', 'relatedto'] baby ['relatedto'] walking ['antonym', 'relatedto'] march
+man ['antonym', 'relatedto'] baby ['relatedto'] name ['relatedto'] march
+man ['antonym', 'relatedto'] baby ['relatedto'] step ['relatedto'] march
+man ['antonym', 'relatedto'] beggar ['relatedto'] charity ['relatedto'] march
+man ['antonym'] dress ['capableof'] action ['relatedto'] march
+man ['antonym'] dress ['relatedto'] activity ['relatedto'] march
+man ['antonym'] dress ['relatedto'] formal ['relatedto'] march
+man ['antonym'] dress ['relatedto'] type ['relatedto'] march
+man ['antonym'] dress ['relatedto'] trick ['relatedto'] march
+man ['antonym', 'relatedto'] farmer ['relatedto'] song ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto'] lady ['relatedto'] formal ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto'] lady ['relatedto'] type ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['isa'] band ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] date ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] hand ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] mark ['formof', 'etymologicallyrelatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['relatedto'] date ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['relatedto'] name ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] woman ['relatedto'] date ['relatedto'] march
+man ['antonym', 'distinctfrom', 'relatedto'] women ['isa'] book ['isa'] march
+man ['antonym', 'distinctfrom', 'relatedto'] women ['relatedto'] pussy_hat ['relatedto'] march
+man ['antonym'] nature ['isa'] type ['relatedto'] march
+man ['antonym'] nature ['relatedto'] place ['relatedto'] march
+man ['antonym', 'relatedto'] politician ['relatedto'] political ['relatedto'] march
+man ['antonym', 'relatedto'] prisoner ['relatedto'] forced_march ['derivedfrom'] march
+man ['antonym', 'relatedto'] prisoner ['relatedto'] étape ['relatedto'] march
+man ['antonym', 'relatedto'] servant ['relatedto'] hand ['relatedto'] march
+man ['antonym', 'relatedto'] servant ['relatedto'] type ['relatedto'] march
+man ['derivedfrom'] foreman ['relatedto'] hand ['relatedto'] march
+man ['derivedfrom'] horseman ['relatedto'] soldier ['relatedto'] march
+man ['derivedfrom'] crossbowman ['relatedto'] soldier ['relatedto'] march
+man ['isa', 'relatedto', 'derivedfrom'] gentleman ['relatedto'] formal ['relatedto'] march
+man ['isa', 'relatedto', 'derivedfrom'] gentleman ['atlocation'] england ['relatedto'] march
+man ['derivedfrom'] man_made ['isa'] music ['relatedto'] march
+man ['derivedfrom'] songman ['relatedto', 'derivedfrom'] song ['relatedto'] march
+man ['relatedto', 'derivedfrom', 'synonym'] mankind ['relatedto'] step ['relatedto'] march
+man ['derivedfrom'] superman ['relatedto'] hand ['relatedto'] march
+man ['distinctfrom'] machine ['relatedto'] band ['relatedto'] march
+man ['distinctfrom'] machine ['relatedto'] moving ['relatedto'] march
+man ['distinctfrom'] machine ['relatedto'] movement ['relatedto'] march
+man ['distinctfrom'] machine ['relatedto'] guide ['relatedto'] march
+man ['distinctfrom'] machine ['relatedto'] step ['relatedto'] march
+man ['etymologicallyrelatedto'] leadsman ['relatedto'] guide ['relatedto'] march
+man ['etymologicallyrelatedto'] mannequin ['relatedto'] demonstrate ['synonym'] march
+man ['formof', 'etymologicallyrelatedto', 'relatedto'] men ['relatedto'] army ['relatedto'] march
+man ['formof', 'etymologicallyrelatedto', 'relatedto'] men ['relatedto'] war ['relatedto'] march
+man ['formof', 'etymologicallyrelatedto', 'relatedto'] men ['relatedto'] type ['relatedto'] march
+man ['formof', 'relatedto'] manned ['relatedto'] transporting ['relatedto'] march
+man ['formof', 'relatedto'] mans ['relatedto'] mark ['formof', 'etymologicallyrelatedto'] march
+man ['isa'] babu ['isa'] name ['relatedto'] march
+man ['isa'] beatles ['isa'] band ['relatedto'] march
+man ['isa'] black ['relatedto'] freedom_march ['derivedfrom'] march

@@ -1,0 +1,100 @@
+cart ['relatedto'] remove ['mannerof', 'relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['relatedto'] remove ['relatedto', 'synonym'] move ['mannerof'] tug
+cart ['relatedto'] remove ['relatedto'] yank ['synonym'] tug
+cart ['relatedto'] small ['antonym'] great ['relatedto'] tug
+cart ['relatedto'] small ['relatedto'] iron ['relatedto'] tug
+cart ['relatedto'] small ['relatedto'] toy ['etymologicallyrelatedto'] tug
+cart ['relatedto'] carry ['relatedto'] ship ['isa'] tug
+cart ['relatedto'] carry ['antonym'] drag ['relatedto'] tug
+cart ['relatedto'] carry ['relatedto'] lug ['synonym'] tug
+cart ['relatedto'] carry ['relatedto'] move ['mannerof'] tug
+cart ['isa'] box ['mannerof', 'relatedto'] fight ['mannerof'] tug
+cart ['isa'] box ['relatedto'] lug ['synonym'] tug
+cart ['isa'] box ['relatedto'] toy ['etymologicallyrelatedto'] tug
+cart ['relatedto'] truck ['relatedto'] move ['mannerof'] tug
+cart ['relatedto'] truck ['relatedto'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+cart ['relatedto'] truck ['relatedto'] drive ['synonym'] tug
+cart ['relatedto'] open ['mannerof'] move ['mannerof'] tug
+cart ['relatedto'] horse ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['relatedto'] horse ['relatedto'] harness ['relatedto'] tug
+cart ['relatedto'] horse ['relatedto'] iron ['relatedto'] tug
+cart ['relatedto'] moving ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['relatedto'] moving ['formof', 'derivedfrom'] move ['mannerof'] tug
+cart ['relatedto'] moving ['relatedto'] drive ['synonym'] tug
+cart ['relatedto'] moving ['relatedto'] push ['synonym'] tug
+cart ['relatedto'] moving ['relatedto'] tub ['relatedto'] tug
+cart ['relatedto'] float ['relatedto'] drive ['synonym'] tug
+cart ['relatedto'] float ['relatedto'] move ['mannerof'] tug
+cart ['synonym'] haul ['relatedto', 'synonym'] drag ['relatedto'] tug
+cart ['synonym'] haul ['mannerof', 'relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['synonym'] haul ['relatedto'] move ['mannerof'] tug
+cart ['synonym'] haul ['relatedto'] lug ['synonym'] tug
+cart ['synonym'] haul ['relatedto'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+cart ['isa', 'relatedto'] vehicle ['isa'] ship ['isa'] tug
+cart ['isa', 'relatedto'] vehicle ['relatedto'] drive ['synonym'] tug
+cart ['isa', 'relatedto'] vehicle ['relatedto'] trace ['relatedto'] tug
+cart ['relatedto'] container ['isa'] tub ['relatedto'] tug
+cart ['relatedto'] wheel ['relatedto'] drive ['synonym'] tug
+cart ['relatedto'] brake ['relatedto'] drag ['relatedto'] tug
+cart ['relatedto'] brake ['relatedto'] drive ['synonym'] tug
+cart ['relatedto', 'derivedfrom'] cartroad ['relatedto'] drive ['synonym'] tug
+cart ['relatedto', 'derivedfrom'] pushcart ['relatedto', 'derivedfrom'] push ['synonym'] tug
+cart ['isa'] carriage ['relatedto'] dumb_barge ['relatedto'] tug
+cart ['isa', 'relatedto'] wagon ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['mannerof', 'relatedto'] transport ['relatedto', 'synonym'] ship ['isa'] tug
+cart ['mannerof', 'relatedto'] transport ['mannerof', 'relatedto'] drive ['synonym'] tug
+cart ['mannerof', 'relatedto'] transport ['mannerof', 'relatedto'] move ['mannerof'] tug
+cart ['mannerof', 'relatedto'] transport ['mannerof'] lug ['synonym'] tug
+cart ['relatedto'] bandy ['mannerof', 'relatedto'] fight ['mannerof'] tug
+cart ['relatedto'] wheels ['relatedto'] drive ['synonym'] tug
+cart ['relatedto'] wheels ['relatedto'] toy ['etymologicallyrelatedto'] tug
+cart ['relatedto'] motor ['relatedto', 'synonym'] drive ['synonym'] tug
+cart ['relatedto'] motor ['relatedto'] powerful ['relatedto'] tug
+cart ['relatedto'] dragsman ['relatedto'] drag ['relatedto'] tug
+cart ['relatedto', 'synonym'] handcart ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['relatedto', 'synonym'] handcart ['relatedto'] push ['synonym'] tug
+cart ['relatedto'] ox ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['relatedto'] ox ['relatedto'] labor ['synonym'] tug
+cart ['relatedto'] panjandrum ['relatedto'] powerful ['relatedto'] tug
+cart ['relatedto'] rung ['relatedto'] ship ['isa'] tug
+cart ['relatedto'] rung ['relatedto'] timber ['relatedto'] tug
+cart ['relatedto'] stake ['relatedto'] timber ['relatedto'] tug
+cart ['relatedto'] tongue ['relatedto'] move ['mannerof'] tug
+cart ['relatedto'] yoke ['relatedto'] harness ['relatedto'] tug
+cart ['relatedto'] remove ['antonym'] settle ['mannerof'] fight ['mannerof'] tug
+cart ['relatedto'] remove ['antonym'] settle ['entails'] move ['mannerof'] tug
+cart ['relatedto'] remove ['derivedfrom'] removal ['synonym'] move ['mannerof'] tug
+cart ['relatedto'] remove ['derivedfrom'] removal ['relatedto'] hook ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof', 'entails'] dig ['synonym'] labor ['synonym'] tug
+cart ['relatedto'] remove ['formof', 'relatedto'] removing ['relatedto'] iron ['relatedto'] tug
+cart ['relatedto'] remove ['isa'] boot ['isa'] move ['mannerof'] tug
+cart ['relatedto'] remove ['isa'] boot ['relatedto'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] bone ['relatedto'] hard ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] bone ['relatedto'] toy ['etymologicallyrelatedto'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] brush ['isa'] fight ['mannerof'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] brush ['mannerof'] move ['mannerof'] tug
+cart ['relatedto'] remove ['mannerof'] dislodge ['synonym'] move ['mannerof'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['relatedto', 'synonym'] attract ['mannerof'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['etymologicallyrelatedto', 'relatedto'] drag ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['isa', 'relatedto', 'synonym'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['relatedto'] tee ['etymologicallyrelatedto', 'relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['antonym'] push ['synonym'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['isa'] tow ['etymologicallyrelatedto', 'mannerof', 'relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['mannerof', 'relatedto'] move ['mannerof'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['relatedto'] betee ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['relatedto', 'synonym'] hook ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['relatedto'] toll ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] draw ['relatedto', 'synonym'] trace ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] dredge ['etymologicallyrelatedto', 'synonym'] drag ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] drop ['mannerof'] move ['mannerof'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] drop ['relatedto'] hard ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] empty ['relatedto'] trace ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] excavate ['mannerof'] drive ['synonym'] tug
+cart ['relatedto'] remove ['mannerof'] extract ['relatedto', 'synonym'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug
+cart ['relatedto'] remove ['mannerof'] flick ['mannerof'] move ['mannerof'] tug
+cart ['relatedto'] remove ['mannerof'] flick ['synonym'] jerk ['relatedto', 'synonym'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] head ['relatedto', 'atlocation'] ship ['isa'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] hull ['relatedto', 'partof'] ship ['isa'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] hull ['relatedto'] dumb_barge ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof'] leach ['relatedto'] tub ['relatedto'] tug
+cart ['relatedto'] remove ['mannerof', 'relatedto'] lift ['relatedto'] pull ['isa', 'mannerof', 'relatedto', 'synonym'] tug

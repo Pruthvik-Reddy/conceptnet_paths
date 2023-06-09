@@ -1,0 +1,100 @@
+story ['relatedto'] children ['causesdesire'] tickle ['hasprerequisite'] grab
+story ['relatedto'] short ['relatedto'] touch ['relatedto'] grab
+story ['relatedto', 'partof'] climax ['relatedto'] reach ['relatedto'] grab
+story ['relatedto'] column ['relatedto'] hold ['relatedto'] grab
+story ['relatedto'] column ['relatedto'] mast ['relatedto'] grab
+story ['isa', 'relatedto', 'atlocation'] plot ['isa', 'relatedto'] intrigue ['mannerof'] grab
+story ['isa', 'relatedto', 'atlocation'] plot ['relatedto'] device ['relatedto'] grab
+story ['relatedto'] bed ['relatedto'] device ['relatedto'] grab
+story ['relatedto'] bed ['usedfor'] hold ['relatedto'] grab
+story ['relatedto'] beginning ['relatedto'] smash ['relatedto'] grab
+story ['relatedto'] time ['relatedto'] snap ['relatedto'] grab
+story ['relatedto'] time ['relatedto'] use ['usedfor'] grab
+story ['distinctfrom', 'relatedto', 'hasa'] book ['isa'] device ['relatedto'] grab
+story ['relatedto'] piece ['relatedto'] move ['mannerof'] grab
+story ['relatedto'] long ['relatedto'] hold ['relatedto'] grab
+story ['relatedto'] long ['relatedto'] coast ['relatedto'] grab
+story ['relatedto'] long ['relatedto'] reach ['relatedto'] grab
+story ['relatedto'] line ['relatedto'] coast ['relatedto'] grab
+story ['relatedto'] character ['relatedto'] intrigue ['mannerof'] grab
+story ['atlocation'] past ['relatedto'] reach ['relatedto'] grab
+story ['relatedto'] level ['relatedto'] collar ['relatedto'] grab
+story ['relatedto'] level ['relatedto'] touch ['relatedto'] grab
+story ['relatedto'] ever ['relatedto'] something ['relatedto'] grab
+story ['relatedto'] five ['relatedto'] touch ['relatedto'] grab
+story ['relatedto'] tail ['isa'] mechanical_device ['isa'] grab
+story ['relatedto'] read ['relatedto'] use ['usedfor'] grab
+story ['hasproperty'] interesting ['relatedto'] grip ['relatedto'] grab
+story ['hasproperty'] interesting ['relatedto'] attention ['relatedto'] grab
+story ['relatedto'] movie ['capableof'] touch ['relatedto'] grab
+story ['causes', 'relatedto', 'usedfor'] writing ['relatedto'] move ['mannerof'] grab
+story ['causes', 'relatedto', 'usedfor'] writing ['relatedto'] use ['usedfor'] grab
+story ['usedfor', 'relatedto'] reading ['relatedto'] use ['usedfor'] grab
+story ['usedfor', 'relatedto'] reading ['relatedto'] consume ['relatedto'] grab
+story ['isa', 'relatedto'] romance ['relatedto'] intrigue ['mannerof'] grab
+story ['relatedto'] song ['relatedto'] smash ['relatedto'] grab
+story ['relatedto'] ark ['relatedto', 'synonym'] vessel ['relatedto'] grab
+story ['relatedto'] hook ['isa', 'mannerof', 'relatedto'] catch ['relatedto', 'synonym'] grab
+story ['relatedto'] hook ['isa'] mechanical_device ['isa'] grab
+story ['relatedto'] hook ['relatedto'] attention ['relatedto'] grab
+story ['relatedto'] hook ['mannerof'] seize ['mannerof', 'relatedto', 'synonym'] grab
+story ['relatedto'] hook ['synonym'] glom ['relatedto'] grab
+story ['relatedto'] iliad ['isa'] device ['relatedto'] grab
+story ['relatedto'] scoop ['relatedto'] handle ['relatedto'] grab
+story ['relatedto'] breaking ['relatedto'] smash ['relatedto'] grab
+story ['relatedto'] breaking ['relatedto'] snap ['relatedto'] grab
+story ['relatedto'] upon ['relatedto'] seize ['mannerof', 'relatedto', 'synonym'] grab
+story ['relatedto'] worry ['relatedto'] touch ['relatedto'] grab
+story ['relatedto'] worry ['relatedto'] seize ['mannerof', 'relatedto', 'synonym'] grab
+story ['relatedto'] event ['relatedto'] smash ['relatedto'] grab
+story ['relatedto'] event ['isa'] grabbing ['formof', 'relatedto'] grab
+story ['relatedto'] string ['relatedto'] collar ['relatedto'] grab
+story ['relatedto'] twist ['relatedto'] move ['mannerof'] grab
+story ['relatedto'] twist ['synonym'] device ['relatedto'] grab
+story ['usedfor'] make_point ['relatedto'] attention ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['antonym'] act ['isa'] touch ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['antonym'] act ['mannerof', 'relatedto'] use ['usedfor'] grab
+story ['distinctfrom', 'relatedto'] real ['antonym'] act ['relatedto', 'synonym'] move ['mannerof'] grab
+story ['distinctfrom', 'relatedto'] real ['antonym', 'distinctfrom'] character ['relatedto'] intrigue ['mannerof'] grab
+story ['distinctfrom', 'relatedto'] real ['antonym', 'distinctfrom', 'relatedto'] fake ['relatedto'] move ['mannerof'] grab
+story ['distinctfrom', 'relatedto'] real ['antonym', 'relatedto'] ghost ['relatedto'] quickly ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['antonym', 'relatedto'] ghost ['synonym'] touch ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['distinctfrom'] fraud ['relatedto'] collar ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['isa', 'instanceof'] manga ['isa', 'instanceof'] touch ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] bit ['isa', 'relatedto', 'synonym'] snaffle ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] bit ['synonym'] snatch ['relatedto', 'synonym'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] boggard ['relatedto'] use ['usedfor'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] cast ['relatedto'] device ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] castle ['mannerof', 'relatedto'] move ['mannerof'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] deal ['relatedto', 'synonym'] handle ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] deal ['relatedto'] catch ['relatedto', 'synonym'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] deal ['relatedto'] move ['mannerof'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] deal ['relatedto'] touch ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] flow ['antonym'] hold ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] flow ['mannerof', 'relatedto'] move ['mannerof'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] land ['antonym', 'relatedto'] coast ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] land ['relatedto'] vessel ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] land ['relatedto'] touch ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] levy ['isa', 'mannerof', 'relatedto', 'synonym'] tax ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] levy ['relatedto'] collect ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] property ['relatedto'] tax ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] number ['relatedto'] device ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto', 'similarto', 'synonym'] tangible ['relatedto'] touch ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto', 'similarto', 'synonym'] true ['relatedto'] hold ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] two ['relatedto'] snap ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto', 'similarto'] objective ['relatedto'] obtain ['mannerof'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] occur ['relatedto'] hold ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] physical ['relatedto'] move ['mannerof'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] physical ['relatedto'] touch ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] realize ['relatedto'] sudden ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] straw ['relatedto'] device ['relatedto'] grab
+story ['distinctfrom', 'relatedto'] real ['relatedto'] windmill ['relatedto'] move ['mannerof'] grab
+story ['relatedto'] children ['antonym', 'relatedto'] adopt ['relatedto'] obtain ['mannerof'] grab
+story ['relatedto'] children ['formof', 'relatedto'] child ['relatedto'] reach ['relatedto'] grab
+story ['relatedto'] children ['formof', 'relatedto'] child ['relatedto'] something ['relatedto'] grab
+story ['relatedto'] children ['antonym', 'distinctfrom', 'relatedto'] adult ['isa'] catch ['relatedto', 'synonym'] grab
+story ['relatedto'] children ['antonym'] old ['relatedto'] hold ['relatedto'] grab
+story ['relatedto'] children ['atlocation'] car ['relatedto'] handle ['relatedto'] grab
+story ['relatedto'] children ['atlocation'] car ['partof'] clutch ['relatedto', 'synonym'] grab
+story ['relatedto'] children ['atlocation'] car ['relatedto'] device ['relatedto'] grab
+story ['relatedto'] children ['atlocation'] car ['relatedto'] mechanical ['relatedto'] grab

@@ -1,0 +1,100 @@
+pilot ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['relatedto'] aircraft ['relatedto'] kite
+pilot ['atlocation'] ground ['relatedto'] child ['relatedto'] kite
+pilot ['atlocation'] ground ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'atlocation'] kite
+pilot ['atlocation'] ground ['antonym', 'distinctfrom', 'relatedto'] sky ['relatedto', 'atlocation'] kite
+pilot ['atlocation'] ground ['relatedto'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['atlocation'] ground ['relatedto'] playing ['usedfor'] kite
+pilot ['atlocation'] ground ['relatedto'] aircraft ['relatedto'] kite
+pilot ['atlocation'] ground ['relatedto'] park ['atlocation'] kite
+pilot ['atlocation'] shower ['isa'] descent ['relatedto'] kite
+pilot ['relatedto'] ship ['mannerof'] travel ['relatedto'] kite
+pilot ['relatedto'] ship ['relatedto'] studding_sail ['relatedto'] kite
+pilot ['relatedto'] branch ['relatedto'] bird ['isa', 'relatedto'] kite
+pilot ['relatedto'] branch ['relatedto'] attached ['relatedto'] kite
+pilot ['relatedto'] branch ['relatedto'] climb ['relatedto'] kite
+pilot ['relatedto'] control ['relatedto', 'synonym'] check ['isa', 'relatedto'] kite
+pilot ['relatedto'] control ['relatedto'] bridle ['relatedto'] kite
+pilot ['relatedto'] drive ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] park ['atlocation'] kite
+pilot ['relatedto'] drive ['isa'] lift ['relatedto'] kite
+pilot ['relatedto'] drive ['mannerof', 'relatedto'] travel ['relatedto'] kite
+pilot ['relatedto'] drive ['mannerof', 'relatedto'] hunt ['relatedto'] kite
+pilot ['relatedto'] driver ['relatedto'] rider ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['relatedto'] air ['relatedto', 'atlocation'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['capableof', 'relatedto', 'desires'] bird ['isa', 'relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['usedfor', 'relatedto', 'atlocation'] sky ['relatedto', 'atlocation'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['relatedto'] hawk ['isa', 'relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['derivedfrom'] flier ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['formof', 'relatedto'] flown ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['formof', 'relatedto'] flying ['usedfor', 'relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['isa'] scavenger ['isa'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['mannerof', 'relatedto'] travel ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['mannerof'] glide ['mannerof', 'relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['mannerof'] hover ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['mannerof', 'relatedto', 'synonym'] soar ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['relatedto'] aeroplane ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['relatedto'] kites ['formof', 'relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['relatedto'] hunt ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['relatedto'] kiteflying ['relatedto'] kite
+pilot ['capableof', 'desires', 'synonym'] fly ['usedfor'] aircraft ['relatedto'] kite
+pilot ['relatedto'] airman ['relatedto'] aircraft ['relatedto'] kite
+pilot ['relatedto'] flyboy ['derivedfrom'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['relatedto'] flyboy ['relatedto'] aircraft ['relatedto'] kite
+pilot ['isa'] mark ['relatedto', 'synonym'] check ['isa', 'relatedto'] kite
+pilot ['relatedto'] wing ['relatedto'] air ['relatedto', 'atlocation'] kite
+pilot ['relatedto'] wing ['usedfor', 'relatedto', 'partof', 'atlocation'] bird ['isa', 'relatedto'] kite
+pilot ['relatedto'] wing ['usedfor', 'relatedto', 'synonym'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['relatedto'] wing ['usedfor', 'relatedto'] flying ['usedfor', 'relatedto'] kite
+pilot ['relatedto'] wing ['relatedto'] aeroplane ['relatedto'] kite
+pilot ['relatedto'] wing ['relatedto'] parafoil ['relatedto'] kite
+pilot ['relatedto'] wing ['relatedto'] attached ['relatedto'] kite
+pilot ['relatedto'] wing ['usedfor'] aircraft ['relatedto'] kite
+pilot ['relatedto'] tv ['usedfor'] entertainment ['usedfor'] kite
+pilot ['relatedto'] series ['relatedto'] diamond ['relatedto'] kite
+pilot ['relatedto'] series ['isa'] string ['relatedto', 'partof', 'atlocation'] kite
+pilot ['relatedto'] test ['relatedto'] check ['isa', 'relatedto'] kite
+pilot ['relatedto'] test ['relatedto'] paper ['relatedto'] kite
+pilot ['relatedto'] plug ['relatedto'] electricity ['relatedto'] kite
+pilot ['atlocation'] airport ['atlocation'] air ['relatedto', 'atlocation'] kite
+pilot ['atlocation'] airport ['relatedto'] aircraft ['relatedto'] kite
+pilot ['atlocation'] airplane ['atlocation'] air ['relatedto', 'atlocation'] kite
+pilot ['atlocation'] airplane ['relatedto'] bird ['isa', 'relatedto'] kite
+pilot ['atlocation'] airplane ['relatedto', 'atlocation'] sky ['relatedto', 'atlocation'] kite
+pilot ['atlocation'] airplane ['relatedto'] lift ['relatedto'] kite
+pilot ['atlocation'] airplane ['usedfor', 'relatedto'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['atlocation'] airplane ['usedfor'] flying ['usedfor', 'relatedto'] kite
+pilot ['atlocation'] airplane ['usedfor'] travel ['relatedto'] kite
+pilot ['atlocation'] airplane ['etymologicallyrelatedto', 'relatedto', 'synonym'] aeroplane ['relatedto'] kite
+pilot ['atlocation'] airplane ['isa', 'relatedto'] aircraft ['relatedto'] kite
+pilot ['atlocation'] airplane ['relatedto'] belly ['relatedto'] kite
+pilot ['atlocation'] space_shuttle ['atlocation'] air ['relatedto', 'atlocation'] kite
+pilot ['atlocation'] space_shuttle ['capableof'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['relatedto'] aircraft ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] kite
+pilot ['relatedto'] aircraft ['relatedto'] check ['isa', 'relatedto'] kite
+pilot ['relatedto'] aircraft ['atlocation'] sky ['relatedto', 'atlocation'] kite
+pilot ['relatedto'] aircraft ['relatedto'] lift ['relatedto'] kite
+pilot ['relatedto'] aircraft ['usedfor'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['relatedto'] aircraft ['relatedto'] tail ['hasa', 'relatedto'] kite
+pilot ['relatedto'] aircraft ['relatedto'] aeroplane ['relatedto'] kite
+pilot ['relatedto'] aircraft ['relatedto'] hang_glider ['relatedto'] kite
+pilot ['relatedto', 'atlocation'] cockpit ['partof'] aircraft ['relatedto'] kite
+pilot ['relatedto'] compass ['relatedto'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['relatedto'] compass ['relatedto'] obtain ['mannerof'] kite
+pilot ['relatedto'] glider ['relatedto'] aircraft ['relatedto'] kite
+pilot ['relatedto'] glider ['relatedto'] aeroplane ['relatedto'] kite
+pilot ['relatedto'] glider ['isa'] user_guided_device ['isa'] kite
+pilot ['relatedto'] glider ['isa'] hang_glider ['relatedto'] kite
+pilot ['relatedto'] glider ['relatedto'] glide ['mannerof', 'relatedto'] kite
+pilot ['relatedto'] glider ['relatedto'] parafoil ['relatedto'] kite
+pilot ['relatedto'] glider ['relatedto'] soar ['relatedto'] kite
+pilot ['relatedto'] helicopter ['atlocation'] air ['relatedto', 'atlocation'] kite
+pilot ['relatedto'] helicopter ['usedfor'] fly ['capableof', 'mannerof', 'relatedto'] kite
+pilot ['relatedto'] helicopter ['usedfor', 'relatedto'] travel ['relatedto'] kite
+pilot ['relatedto'] helicopter ['relatedto'] aeroplane ['relatedto'] kite
+pilot ['relatedto'] instrument ['relatedto'] paper ['relatedto'] kite
+pilot ['relatedto'] instrument ['relatedto'] park ['atlocation'] kite
+pilot ['relatedto'] instrument ['usedfor'] playing ['usedfor'] kite
+pilot ['relatedto'] instrument ['relatedto'] doubler ['relatedto'] kite
+pilot ['relatedto'] instrument ['relatedto'] parakite ['relatedto'] kite
+pilot ['capableof'] fly_helicopter ['usedfor'] sky ['relatedto', 'atlocation'] kite

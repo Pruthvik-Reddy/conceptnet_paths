@@ -1,0 +1,100 @@
+man ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] child ['desires'] candy ['isa', 'relatedto'] peep
+man ['relatedto'] child ['relatedto'] chick ['relatedto'] peep
+man ['antonym', 'isa', 'relatedto'] adult ['antonym'] chick ['relatedto'] peep
+man ['relatedto', 'synonym'] human ['antonym'] bird ['relatedto'] peep
+man ['relatedto', 'synonym'] human ['atlocation'] jeep ['relatedto'] peep
+man ['relatedto', 'synonym'] human ['atlocation'] show ['mannerof'] peep
+man ['relatedto', 'synonym'] human ['capableof'] die ['relatedto'] peep
+man ['relatedto', 'synonym'] human ['relatedto'] chick ['relatedto'] peep
+man ['relatedto', 'synonym'] human ['relatedto'] sound ['relatedto'] peep
+man ['relatedto', 'synonym'] human ['relatedto'] talk ['mannerof'] peep
+man ['relatedto', 'synonym'] human ['relatedto'] voice ['relatedto'] peep
+man ['relatedto'] old ['motivatedbygoal', 'relatedto'] die ['relatedto'] peep
+man ['relatedto'] agent ['relatedto'] spying ['relatedto'] peep
+man ['relatedto'] alive ['distinctfrom', 'hasprerequisite'] die ['relatedto'] peep
+man ['antonym', 'distinctfrom'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] peep
+man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] peeper ['relatedto', 'derivedfrom'] peep
+man ['antonym', 'distinctfrom'] animal ['relatedto'] chick ['relatedto'] peep
+man ['relatedto'] bird ['capableof', 'relatedto'] chirp ['synonym'] peep
+man ['relatedto'] bird ['isa'] sandpiper ['relatedto'] peep
+man ['relatedto'] bird ['relatedto', 'synonym'] chick ['relatedto'] peep
+man ['relatedto'] bird ['relatedto'] peeper ['relatedto', 'derivedfrom'] peep
+man ['relatedto'] bird ['relatedto'] sound ['relatedto'] peep
+man ['antonym', 'relatedto'] baby ['relatedto'] bird ['relatedto'] peep
+man ['antonym', 'relatedto'] baby ['relatedto'] chick ['relatedto'] peep
+man ['antonym', 'relatedto'] baby ['relatedto'] sound ['relatedto'] peep
+man ['antonym', 'distinctfrom', 'relatedto'] lady ['relatedto'] bird ['relatedto'] peep
+man ['antonym', 'distinctfrom', 'relatedto'] lady ['relatedto'] chick ['relatedto'] peep
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['antonym'] chick ['relatedto'] peep
+man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['relatedto'] chick ['relatedto'] peep
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['synonym'] bird ['relatedto'] peep
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['relatedto'] chick ['relatedto'] peep
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] woman ['relatedto'] chick ['relatedto'] peep
+man ['antonym', 'distinctfrom', 'relatedto'] women ['relatedto'] chick ['relatedto'] peep
+man ['derivedfrom'] candyman ['derivedfrom'] candy ['isa', 'relatedto'] peep
+man ['isa'] black ['relatedto'] talk ['mannerof'] peep
+man ['isa', 'relatedto'] fellow ['relatedto'] bird ['relatedto'] peep
+man ['isa'] fireman ['relatedto'] pip ['etymologicallyrelatedto', 'relatedto', 'synonym'] peep
+man ['isa', 'relatedto'] guy ['synonym'] bird ['relatedto'] peep
+man ['isa', 'relatedto'] guy ['antonym', 'distinctfrom'] chick ['relatedto'] peep
+man ['isa'] tile ['relatedto'] domino ['relatedto'] peep
+man ['isa'] white ['relatedto'] bird ['relatedto'] peep
+man ['mannerof'] work ['haslastsubevent'] die ['relatedto'] peep
+man ['mannerof'] work ['relatedto'] steam_engine ['relatedto'] peep
+man ['relatedto'] art ['relatedto'] sound ['relatedto'] peep
+man ['relatedto'] bill ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] bill ['relatedto'] notice ['relatedto'] peep
+man ['relatedto'] bitch ['relatedto'] complaint ['relatedto'] peep
+man ['relatedto'] blood ['relatedto'] show ['mannerof'] peep
+man ['relatedto'] board ['relatedto'] sound ['relatedto'] peep
+man ['relatedto'] board ['relatedto'] notice ['relatedto'] peep
+man ['relatedto'] body ['relatedto'] die ['relatedto'] peep
+man ['relatedto'] break ['mannerof'] appear ['mannerof'] peep
+man ['relatedto'] butcher ['relatedto'] look ['mannerof', 'relatedto'] peep
+man ['relatedto'] chap ['synonym'] bird ['relatedto'] peep
+man ['relatedto'] chief ['relatedto'] complaint ['relatedto'] peep
+man ['relatedto'] club ['relatedto'] spot ['relatedto'] peep
+man ['relatedto'] dad ['relatedto'] chick ['relatedto'] peep
+man ['relatedto'] date ['relatedto'] see ['relatedto'] peep
+man ['relatedto'] dog ['relatedto'] spot ['relatedto'] peep
+man ['relatedto'] doll ['relatedto'] look ['mannerof', 'relatedto'] peep
+man ['relatedto'] dude ['antonym'] chick ['relatedto'] peep
+man ['relatedto'] eye ['relatedto'] appear ['mannerof'] peep
+man ['relatedto'] eye ['relatedto'] see ['relatedto'] peep
+man ['relatedto'] eye ['isa', 'relatedto'] peeper ['relatedto', 'derivedfrom'] peep
+man ['relatedto'] eye ['mannerof', 'relatedto'] look ['mannerof', 'relatedto'] peep
+man ['relatedto'] fathom ['synonym'] sound ['relatedto'] peep
+man ['relatedto'] flesh ['relatedto'] quick ['relatedto'] peep
+man ['relatedto'] freak ['relatedto'] geek ['relatedto'] peep
+man ['relatedto'] gender ['synonym'] voice ['relatedto'] peep
+man ['relatedto'] general ['relatedto'] sound ['relatedto'] peep
+man ['relatedto'] good ['distinctfrom'] die ['relatedto'] peep
+man ['relatedto'] good ['relatedto', 'synonym'] sound ['relatedto'] peep
+man ['relatedto'] good ['relatedto'] talk ['mannerof'] peep
+man ['relatedto'] hunt ['relatedto'] look ['mannerof', 'relatedto'] peep
+man ['relatedto'] lightning_bird ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] area ['isa'] quick ['relatedto'] peep
+man ['relatedto'] area ['relatedto'] spot ['relatedto'] peep
+man ['relatedto'] beard ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] fish ['antonym'] bird ['relatedto'] peep
+man ['relatedto'] fish ['isa'] spot ['relatedto'] peep
+man ['relatedto'] fish ['relatedto'] sound ['relatedto'] peep
+man ['relatedto'] form ['relatedto'] sound ['relatedto'] peep
+man ['relatedto'] generic ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] generic ['relatedto'] sound ['relatedto'] peep
+man ['relatedto'] grown ['relatedto'] chick ['relatedto'] peep
+man ['relatedto'] grownup ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] house ['relatedto'] chick ['relatedto'] peep
+man ['relatedto'] legs ['relatedto'] chick ['relatedto'] peep
+man ['relatedto'] living ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] living ['distinctfrom', 'relatedto'] die ['relatedto'] peep
+man ['relatedto'] living ['relatedto'] quick ['relatedto'] peep
+man ['relatedto'] penis ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] primate ['relatedto'] see ['relatedto'] peep
+man ['relatedto'] single ['relatedto'] pip ['etymologicallyrelatedto', 'relatedto', 'synonym'] peep
+man ['relatedto'] single ['relatedto'] sound ['relatedto'] peep
+man ['relatedto'] two ['relatedto'] bird ['relatedto'] peep
+man ['relatedto'] two ['relatedto'] appear ['mannerof'] peep
+man ['relatedto'] two ['relatedto'] chick ['relatedto'] peep
+man ['relatedto'] two ['relatedto'] look ['mannerof', 'relatedto'] peep

@@ -1,0 +1,100 @@
+man ['relatedto', 'synonym'] human ['atlocation'] motion ['relatedto'] stagger
+man ['relatedto', 'synonym'] human ['capableof'] stand ['relatedto'] stagger
+man ['relatedto', 'synonym'] human ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] old ['relatedto'] shock ['relatedto'] stagger
+man ['relatedto'] alive ['relatedto'] motion ['relatedto'] stagger
+man ['antonym', 'distinctfrom'] animal ['relatedto'] movement ['relatedto'] stagger
+man ['antonym', 'distinctfrom'] animal ['relatedto'] staggers ['formof', 'relatedto'] stagger
+man ['antonym'] dress ['mannerof', 'synonym'] arrange ['mannerof', 'relatedto'] stagger
+man ['antonym'] dress ['relatedto'] tire ['relatedto'] stagger
+man ['derivedfrom'] unman ['synonym'] weaken ['synonym'] stagger
+man ['distinctfrom'] machine ['relatedto'] movement ['relatedto'] stagger
+man ['isa'] black ['relatedto'] disease ['relatedto'] stagger
+man ['isa'] black ['relatedto'] tire ['relatedto'] stagger
+man ['mannerof'] work ['relatedto'] cause ['relatedto'] stagger
+man ['relatedto'] art ['relatedto'] movement ['relatedto'] stagger
+man ['relatedto'] bear ['synonym'] stand ['relatedto'] stagger
+man ['relatedto'] body ['relatedto'] purpose ['relatedto'] stagger
+man ['relatedto'] body ['relatedto'] movement ['relatedto'] stagger
+man ['relatedto'] body ['relatedto'] disease ['relatedto'] stagger
+man ['relatedto'] body ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] break ['relatedto'] purpose ['relatedto'] stagger
+man ['relatedto'] break ['relatedto'] fall ['relatedto'] stagger
+man ['relatedto'] break ['relatedto'] cease ['relatedto'] stagger
+man ['relatedto'] break ['mannerof'] weaken ['synonym'] stagger
+man ['relatedto'] break ['relatedto'] interval ['relatedto'] stagger
+man ['relatedto'] bridge ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] count ['relatedto'] similar ['relatedto'] stagger
+man ['relatedto'] engineer ['relatedto'] motion ['relatedto'] stagger
+man ['relatedto'] eye ['relatedto'] oval ['relatedto'] stagger
+man ['relatedto'] fathom ['relatedto'] similar ['relatedto'] stagger
+man ['relatedto'] freak ['relatedto'] sudden ['relatedto'] stagger
+man ['relatedto'] general ['relatedto'] disease ['relatedto'] stagger
+man ['relatedto'] general ['relatedto'] motion ['relatedto'] stagger
+man ['relatedto'] gentle ['relatedto'] sudden ['relatedto'] stagger
+man ['relatedto'] hand ['relatedto'] stand ['relatedto'] stagger
+man ['relatedto'] hand ['relatedto'] sway ['relatedto'] stagger
+man ['relatedto'] health ['antonym', 'distinctfrom', 'relatedto'] disease ['relatedto'] stagger
+man ['relatedto'] jockey ['relatedto'] track ['relatedto'] stagger
+man ['relatedto'] jockey ['relatedto'] horses ['relatedto'] stagger
+man ['relatedto'] judge ['mannerof'] stand ['relatedto'] stagger
+man ['relatedto'] king ['relatedto'] movement ['relatedto'] stagger
+man ['relatedto'] lapsarian ['relatedto'] fall ['relatedto'] stagger
+man ['relatedto'] lord ['relatedto'] similar ['relatedto'] stagger
+man ['relatedto'] lumber ['mannerof'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] area ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] area ['synonym'] track ['relatedto'] stagger
+man ['relatedto'] arms ['relatedto'] stand ['relatedto'] stagger
+man ['relatedto'] big ['relatedto'] shock ['relatedto'] stagger
+man ['relatedto'] fish ['isa', 'relatedto'] flounder ['synonym'] stagger
+man ['relatedto'] form ['relatedto'] movement ['relatedto'] stagger
+man ['relatedto'] generic ['relatedto'] disease ['relatedto'] stagger
+man ['relatedto'] legs ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] sex ['relatedto'] motion ['relatedto'] stagger
+man ['relatedto'] single ['relatedto'] track ['relatedto'] stagger
+man ['relatedto'] single ['relatedto'] gait ['relatedto'] stagger
+man ['relatedto'] two ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] two_legs ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] system ['relatedto'] movement ['relatedto'] stagger
+man ['relatedto'] matter ['synonym'] purpose ['relatedto'] stagger
+man ['relatedto'] fortify ['antonym'] weaken ['synonym'] stagger
+man ['relatedto'] position ['isa', 'relatedto'] stand ['relatedto'] stagger
+man ['relatedto'] position ['relatedto'] motion ['relatedto'] stagger
+man ['relatedto'] position ['relatedto'] similar ['relatedto'] stagger
+man ['relatedto'] steel ['relatedto'] purpose ['relatedto'] stagger
+man ['relatedto'] steel ['relatedto'] cause ['relatedto'] stagger
+man ['relatedto'] steel ['relatedto'] similar ['relatedto'] stagger
+man ['relatedto'] supply ['relatedto'] distribute ['synonym'] stagger
+man ['relatedto'] manufacture ['relatedto'] purpose ['relatedto'] stagger
+man ['relatedto'] news ['relatedto'] stand ['relatedto'] stagger
+man ['relatedto'] press ['relatedto'] movement ['relatedto'] stagger
+man ['relatedto'] press ['relatedto'] motion ['relatedto'] stagger
+man ['relatedto'] road ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] road ['relatedto'] similar ['relatedto'] stagger
+man ['relatedto'] road ['isa', 'relatedto'] track ['relatedto'] stagger
+man ['relatedto'] road ['relatedto'] tire ['relatedto'] stagger
+man ['relatedto'] sanitation ['relatedto'] disease ['relatedto'] stagger
+man ['relatedto'] wise ['relatedto'] cause ['relatedto'] stagger
+man ['synonym'] valet ['relatedto'] stand ['relatedto'] stagger
+man ['relatedto'] establishment ['isa', 'relatedto'] bar ['isa'] track ['relatedto'] stagger
+man ['relatedto'] establishment ['isa', 'relatedto'] organization ['relatedto'] purpose ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] band ['isa'] oval ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] bank ['relatedto'] arrange ['mannerof', 'relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] bank ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] coin ['relatedto'] oval ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] stable ['relatedto'] horses ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] force ['relatedto'] cause ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] state ['isa', 'relatedto'] motion ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] state ['relatedto'] shock ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] farm ['relatedto'] horses ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] hospital ['atlocation'] disease ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] institute ['relatedto'] cause ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] protoliberal ['relatedto'] similar ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] motion ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] rest ['mannerof'] stand ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] rest ['relatedto'] cease ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] rule ['relatedto'] sway ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] school ['atlocation'] track ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] shop ['relatedto'] purpose ['relatedto'] stagger
+man ['relatedto'] establishment ['relatedto'] shop ['relatedto'] swag ['synonym'] stagger
+man ['relatedto'] establishment ['relatedto'] trade ['relatedto'] similar ['relatedto'] stagger

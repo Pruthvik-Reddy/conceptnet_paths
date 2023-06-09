@@ -1,0 +1,100 @@
+hair ['relatedto'] clothing ['relatedto', 'synonym'] wear
+hair ['relatedto'] bear ['relatedto', 'synonym'] wear
+hair ['relatedto'] tie ['isa', 'relatedto'] wear
+hair ['isa'] coat ['relatedto'] wear
+hair ['isa'] process ['relatedto'] wear
+hair ['relatedto'] bareskin ['relatedto'] wear
+hair ['usedfor'] decoration ['relatedto'] wear
+hair ['relatedto'] age ['relatedto'] rock ['relatedto'] wear
+hair ['relatedto'] age ['relatedto'] value ['relatedto'] wear
+hair ['relatedto', 'partof'] human ['atlocation'] suit ['relatedto'] wear
+hair ['relatedto', 'partof'] human ['relatedto'] cheek ['relatedto'] wear
+hair ['relatedto', 'partof'] human ['relatedto'] coat ['relatedto'] wear
+hair ['relatedto', 'partof'] human ['relatedto'] eye ['relatedto'] wear
+hair ['relatedto', 'partof'] human ['relatedto'] feet ['relatedto'] wear
+hair ['relatedto', 'partof'] human ['relatedto'] foot ['relatedto'] wear
+hair ['atlocation'] arm ['antonym'] feet ['relatedto'] wear
+hair ['atlocation'] arm ['antonym', 'relatedto'] foot ['relatedto'] wear
+hair ['atlocation'] arm ['atlocation'] coat ['relatedto'] wear
+hair ['atlocation'] arm ['atlocation'] jacket ['relatedto'] wear
+hair ['atlocation'] arm ['derivedfrom'] armor ['relatedto'] wear
+hair ['atlocation'] arm ['relatedto'] dress ['mannerof', 'relatedto', 'entails'] wear
+hair ['atlocation'] arm ['relatedto'] shirt ['relatedto'] wear
+hair ['atlocation'] arm ['relatedto'] watch ['relatedto'] wear
+hair ['relatedto'] leg ['hasa', 'relatedto', 'partof'] foot ['relatedto'] wear
+hair ['relatedto'] leg ['relatedto'] break ['synonym'] wear
+hair ['relatedto'] leg ['relatedto'] crown ['relatedto'] wear
+hair ['relatedto'] leg ['relatedto'] feet ['relatedto'] wear
+hair ['relatedto'] leg ['relatedto'] pants ['relatedto'] wear
+hair ['relatedto'] leg ['relatedto'] use ['relatedto', 'synonym'] wear
+hair ['relatedto'] leg ['relatedto'] wearer ['relatedto', 'derivedfrom'] wear
+hair ['relatedto'] leg ['relatedto'] garment ['relatedto'] wear
+hair ['relatedto'] leg ['relatedto'] ring ['relatedto'] wear
+hair ['relatedto'] leg ['relatedto'] shoe ['relatedto'] wear
+hair ['relatedto'] leg ['relatedto'] sock ['relatedto'] wear
+hair ['relatedto'] leg ['relatedto'] stocking ['relatedto'] wear
+hair ['relatedto'] clothing ['antonym', 'relatedto'] armor ['relatedto'] wear
+hair ['relatedto'] clothing ['usedfor', 'relatedto', 'atlocation'] cotton ['relatedto'] wear
+hair ['relatedto'] clothing ['atlocation'] nylon ['usedfor'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto'] dress ['mannerof', 'relatedto', 'entails'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto'] footwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto', 'synonym'] garment ['relatedto'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto'] jacket ['relatedto'] wear
+hair ['relatedto'] clothing ['isa'] knitwear ['relatedto', 'derivedfrom'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto'] outerwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['isa'] scarf ['mannerof'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto'] swimwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto'] tie ['isa', 'relatedto'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto'] underwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['isa', 'relatedto'] uniform ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto', 'partof'] shoe ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] artwear ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] athleticwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] badge ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] bareskin ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] bridalwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] cape ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] childrenswear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] clad ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto', 'synonym'] clothes ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] coat ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] hat ['mannerof', 'relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] pants ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] shirt ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] stocking ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] worn ['formof', 'relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] fashion ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] clubwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] costume ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] dancewear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] discowear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] divewear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] fetishwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] geekwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] glamourwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] gown ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] habit ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] leatherwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] menswear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] neckwear ['relatedto', 'derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] overwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] partywear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] pridewear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] rainwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] ravewear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] seersucker ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] skatewear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] skirt ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] sock ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] sportswear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] suit ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] surfwear ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] vest ['etymologicallyrelatedto', 'relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] wash ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto'] watch ['relatedto'] wear
+hair ['relatedto'] clothing ['relatedto', 'synonym'] wearable ['derivedfrom'] wear
+hair ['relatedto'] clothing ['relatedto'] womenswear ['derivedfrom'] wear
+hair ['relatedto'] back ['relatedto'] wind ['relatedto'] wear
+hair ['relatedto'] back ['relatedto'] cape ['relatedto'] wear
+hair ['relatedto'] back ['relatedto'] stern ['relatedto'] wear
+hair ['relatedto'] main ['relatedto', 'synonym'] strength ['relatedto'] wear

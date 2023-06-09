@@ -1,0 +1,100 @@
+bottle ['atlocation'] water ['relatedto'] candlebomb ['relatedto'] explode
+bottle ['relatedto'] mineral ['relatedto', 'derivedfrom'] mine ['capableof', 'usedfor'] explode
+bottle ['relatedto'] house ['relatedto'] fly ['synonym'] explode
+bottle ['atlocation'] drug ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] milk ['relatedto'] gas ['capableof'] explode
+bottle ['derivedfrom'] bottlefly ['derivedfrom'] fly ['synonym'] explode
+bottle ['etymologicallyrelatedto'] build ['antonym', 'distinctfrom'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bottle ['etymologicallyrelatedto'] build ['relatedto'] increase ['mannerof'] explode
+bottle ['hasa', 'relatedto'] liquid ['antonym', 'distinctfrom', 'relatedto', 'similarto'] gas ['capableof'] explode
+bottle ['isa'] split ['isa'] increase ['mannerof'] explode
+bottle ['isa'] split ['relatedto'] unstring ['synonym'] explode
+bottle ['isa'] split ['similarto', 'synonym'] burst ['synonym'] explode
+bottle ['partof'] mouth ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['relatedto'] backhander ['isa', 'relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['relatedto'] cap ['derivedfrom'] percussion_cap ['relatedto'] explode
+bottle ['relatedto'] cap ['relatedto'] detonate ['relatedto', 'synonym'] explode
+bottle ['relatedto'] cap ['relatedto'] explosive ['relatedto'] explode
+bottle ['relatedto'] coke ['synonym'] blow ['relatedto', 'synonym'] explode
+bottle ['relatedto'] coke ['mannerof'] change_state ['mannerof'] explode
+bottle ['relatedto'] glass ['relatedto'] candlebomb ['relatedto'] explode
+bottle ['relatedto'] nerve ['relatedto'] string ['relatedto'] explode
+bottle ['relatedto'] condition ['relatedto'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bottle ['relatedto'] condition ['synonym'] string ['relatedto'] explode
+bottle ['relatedto'] cork ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['relatedto'] message ['relatedto'] blast ['relatedto'] explode
+bottle ['relatedto'] poison ['synonym'] gas ['capableof'] explode
+bottle ['atlocation'] water ['atlocation'] underground ['relatedto'] mine ['capableof', 'usedfor'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['isa', 'relatedto', 'synonym'] gas ['capableof'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] fly ['synonym'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] star ['capableof'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['synonym'] blast ['relatedto'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto'] ground ['relatedto', 'atlocation'] mine ['capableof', 'usedfor'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto'] ground ['relatedto'] fly ['synonym'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] land ['antonym', 'haslastsubevent'] fly ['synonym'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] land_mine ['relatedto'] explode
+bottle ['atlocation'] water ['antonym', 'synonym'] burn ['mannerof'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bottle ['atlocation'] water ['antonym', 'synonym'] burn ['mannerof'] change_integrity ['mannerof'] explode
+bottle ['atlocation'] water ['antonym', 'synonym'] burn ['mannerof'] change_state ['mannerof'] explode
+bottle ['atlocation'] water ['antonym', 'synonym'] burn ['relatedto'] detonize ['relatedto'] explode
+bottle ['atlocation'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] oil ['antonym', 'distinctfrom', 'relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto', 'atlocation'] rock ['atlocation'] mine ['capableof', 'usedfor'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] emotional ['relatedto'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto'] sky ['usedfor', 'relatedto', 'atlocation'] fly ['synonym'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto'] sky ['relatedto', 'atlocation'] star ['capableof'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto'] sky ['isa'] gas ['capableof'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['isa', 'relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] blast ['relatedto'] explode
+bottle ['atlocation'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] candlebomb ['relatedto'] explode
+bottle ['atlocation'] water ['antonym', 'isa'] food ['relatedto'] fly ['synonym'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] boat ['atlocation'] gas ['capableof'] explode
+bottle ['atlocation'] water ['atlocation'] bubbles ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] current ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['atlocation'] diver ['relatedto'] decompress ['relatedto'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] fish ['isa', 'relatedto'] torpedo ['capableof'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] fish ['relatedto'] fizgig ['relatedto'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation', 'hasa', 'madeof', 'partof'] oxygen ['isa', 'relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] salt ['atlocation'] mine ['capableof', 'usedfor'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] salt ['isa', 'relatedto'] fulminate ['relatedto'] explode
+bottle ['atlocation'] water ['atlocation'] shipwreck ['mannerof'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] submarine ['relatedto'] torpedo ['capableof'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] bridge ['relatedto'] string ['relatedto'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] brine ['etymologicallyrelatedto'] burst ['synonym'] explode
+bottle ['atlocation'] water ['atlocation'] bubble ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['atlocation'] bubble ['relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['atlocation'] bubble ['capableof'] burst ['synonym'] explode
+bottle ['atlocation'] water ['atlocation'] bubble ['relatedto'] candlebomb ['relatedto'] explode
+bottle ['atlocation'] water ['atlocation'] comet ['relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] condensation ['relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['atlocation'] downpour ['synonym'] burst ['synonym'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] gallon ['relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] glass ['relatedto'] candlebomb ['relatedto'] explode
+bottle ['atlocation'] water ['atlocation'] mouth ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['isa', 'relatedto', 'atlocation'] snow ['synonym'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['isa', 'relatedto', 'atlocation'] snow ['relatedto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['atlocation'] snowball ['mannerof'] increase ['mannerof'] explode
+bottle ['atlocation'] water ['madeof', 'relatedto', 'atlocation'] soup ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['atlocation'] space_shuttle ['capableof'] fly ['synonym'] explode
+bottle ['atlocation'] water ['atlocation'] spit ['relatedto'] violently ['relatedto'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] spurt ['mannerof'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['atlocation'] torrent ['relatedto'] violent ['relatedto'] explode
+bottle ['atlocation'] water ['relatedto', 'atlocation'] whale ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['capableof'] evaporate ['mannerof'] change_integrity ['mannerof'] explode
+bottle ['atlocation'] water ['capableof'] freeze ['mannerof'] change_state ['mannerof'] explode
+bottle ['atlocation'] water ['hasa'] surface ['relatedto'] mine ['capableof', 'usedfor'] explode
+bottle ['atlocation'] water ['hasa'] weight ['hasa'] gas ['capableof'] explode
+bottle ['atlocation'] water ['relatedto', 'hasprerequisite'] fishing ['relatedto'] fly ['synonym'] explode
+bottle ['atlocation'] water ['relatedto', 'hasprerequisite'] swimming ['relatedto'] fly ['synonym'] explode
+bottle ['atlocation'] water ['relatedto', 'hasproperty'] blue ['etymologicallyrelatedto', 'relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['hasproperty'] cloudy ['relatedto'] nebula ['relatedto'] explode
+bottle ['atlocation'] water ['hasproperty'] dangerous ['hasproperty'] explosive ['relatedto'] explode
+bottle ['atlocation'] water ['hasproperty'] dangerous ['relatedto'] dynamite ['capableof'] explode
+bottle ['atlocation'] water ['isa', 'relatedto', 'hasproperty'] liquid ['antonym', 'distinctfrom', 'relatedto', 'similarto'] gas ['capableof'] explode
+bottle ['atlocation'] water ['hasproperty'] refreshing ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['relatedto', 'hasproperty'] transparent ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['isa'] seawater ['relatedto'] blow ['relatedto', 'synonym'] explode
+bottle ['atlocation'] water ['isa'] chemical ['relatedto'] explosion ['relatedto'] explode
+bottle ['atlocation'] water ['isa'] chemical ['relatedto'] gas ['capableof'] explode

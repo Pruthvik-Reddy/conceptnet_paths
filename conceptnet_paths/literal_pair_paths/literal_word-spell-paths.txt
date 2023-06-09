@@ -1,0 +1,100 @@
+word ['capableof'] mean ['mannerof'] spell
+word ['isa', 'relatedto', 'synonym'] term ['synonym'] spell
+word ['relatedto'] speak ['relatedto'] spell
+word ['relatedto'] speech ['isa', 'relatedto'] spell
+word ['partof'] letter ['usedfor'] spell
+word ['relatedto'] acrostic ['relatedto'] spell
+word ['relatedto'] aphthong ['relatedto'] spell
+word ['relatedto'] hyphenate ['mannerof'] spell
+word ['relatedto'] spellcheck ['relatedto'] spell
+word ['relatedto'] write ['synonym', 'entails'] spell
+word ['relatedto'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['relatedto'] spell
+word ['relatedto'] action ['relatedto'] go ['synonym'] spell
+word ['relatedto'] action ['relatedto'] heal ['relatedto'] spell
+word ['relatedto'] action ['relatedto', 'synonym'] measure ['relatedto'] spell
+word ['relatedto'] action ['relatedto'] read ['relatedto'] spell
+word ['relatedto'] action ['relatedto'] trick ['relatedto'] spell
+word ['relatedto'] action ['relatedto'] write ['synonym', 'entails'] spell
+word ['relatedto'] adverb ['relatedto'] speech ['isa', 'relatedto'] spell
+word ['relatedto'] adjective ['relatedto'] mean ['mannerof'] spell
+word ['relatedto'] always ['relatedto'] period ['relatedto'] spell
+word ['relatedto'] disambiguate ['mannerof'] clarify ['relatedto'] spell
+word ['isa', 'relatedto'] order ['relatedto'] bat ['relatedto'] spell
+word ['relatedto'] bird ['distinctfrom', 'relatedto'] bat ['relatedto'] spell
+word ['relatedto'] bird ['relatedto'] term ['synonym'] spell
+word ['relatedto'] bird ['relatedto'] charm ['synonym'] spell
+word ['relatedto'] bird ['relatedto'] wood ['relatedto'] spell
+word ['relatedto'] please ['mannerof'] enchant ['relatedto'] spell
+word ['relatedto'] please ['relatedto'] term ['synonym'] spell
+word ['relatedto'] question ['relatedto'] speech ['isa', 'relatedto'] spell
+word ['relatedto'] antecedent ['relatedto'] term ['synonym'] spell
+word ['relatedto'] inarticulate ['relatedto'] speak ['relatedto'] spell
+word ['relatedto'] ending ['relatedto'] period ['relatedto'] spell
+word ['relatedto'] thing ['relatedto'] bat ['relatedto'] spell
+word ['relatedto'] small ['relatedto'] rest ['relatedto'] spell
+word ['relatedto'] small ['relatedto'] bat ['relatedto'] spell
+word ['relatedto'] small ['relatedto'] letter ['usedfor'] spell
+word ['relatedto'] small ['relatedto'] mean ['mannerof'] spell
+word ['relatedto'] small ['relatedto'] moment ['relatedto'] spell
+word ['relatedto'] small ['relatedto'] wood ['relatedto'] spell
+word ['relatedto'] bit ['isa'] splinter ['relatedto'] spell
+word ['relatedto'] bit ['relatedto'] measure ['relatedto'] spell
+word ['relatedto'] bit ['synonym'] moment ['relatedto'] spell
+word ['isa'] head ['relatedto'] wood ['relatedto'] spell
+word ['atlocation'] book ['relatedto', 'derivedfrom'] spellbook ['relatedto', 'derivedfrom'] spell
+word ['atlocation'] book ['relatedto'] read ['relatedto'] spell
+word ['atlocation'] book ['relatedto'] trick ['relatedto'] spell
+word ['atlocation'] book ['relatedto'] primer ['relatedto'] spell
+word ['atlocation'] book ['relatedto'] speller ['relatedto', 'derivedfrom'] spell
+word ['atlocation'] book ['relatedto'] weird ['relatedto'] spell
+word ['atlocation'] book ['relatedto'] write ['synonym', 'entails'] spell
+word ['relatedto'] stem ['relatedto'] wood ['relatedto'] spell
+word ['relatedto'] orthography ['derivedfrom'] dysorthography ['relatedto'] spell
+word ['relatedto'] orthography ['isa', 'relatedto', 'similarto', 'synonym'] spelling ['formof', 'relatedto', 'derivedfrom'] spell
+word ['relatedto'] orthography ['relatedto'] letter ['usedfor'] spell
+word ['relatedto'] text ['isa'] letter ['usedfor'] spell
+word ['relatedto'] text ['receivesaction'] read ['relatedto'] spell
+word ['relatedto'] text ['relatedto'] acrostic ['relatedto'] spell
+word ['relatedto'] text ['relatedto'] primer ['relatedto'] spell
+word ['relatedto'] text ['relatedto'] recite ['mannerof'] spell
+word ['relatedto'] paper ['antonym', 'madeof', 'relatedto'] wood ['relatedto'] spell
+word ['relatedto'] paper ['madeof', 'relatedto'] letter ['usedfor'] spell
+word ['relatedto'] paper ['relatedto'] read ['relatedto'] spell
+word ['relatedto'] paper ['relatedto'] write ['synonym', 'entails'] spell
+word ['relatedto'] paper ['relatedto'] term ['synonym'] spell
+word ['relatedto'] paper ['relatedto'] witch ['relatedto'] spell
+word ['isa'] care ['antonym'] mean ['mannerof'] spell
+word ['capableof'] mean ['relatedto'] term ['synonym'] spell
+word ['capableof'] mean ['relatedto'] indicate ['relatedto'] spell
+word ['capableof'] mean ['relatedto'] trick ['relatedto'] spell
+word ['isa', 'relatedto', 'synonym'] term ['relatedto'] mean ['mannerof'] spell
+word ['isa', 'relatedto', 'synonym'] term ['relatedto'] period ['relatedto'] spell
+word ['isa', 'relatedto', 'synonym'] term ['relatedto'] wood ['relatedto'] spell
+word ['relatedto'] line ['relatedto'] term ['synonym'] spell
+word ['relatedto'] line ['relatedto'] cast ['relatedto'] spell
+word ['relatedto'] line ['relatedto', 'partof'] letter ['usedfor'] spell
+word ['relatedto'] line ['relatedto'] measure ['relatedto'] spell
+word ['relatedto'] line ['relatedto'] read ['relatedto'] spell
+word ['relatedto', 'partof'] character ['relatedto'] nerf ['relatedto'] spell
+word ['relatedto', 'partof'] character ['relatedto'] term ['synonym'] spell
+word ['relatedto', 'partof'] character ['relatedto'] cast ['relatedto'] spell
+word ['relatedto', 'partof'] character ['isa', 'relatedto'] letter ['usedfor'] spell
+word ['relatedto', 'partof'] character ['isa', 'relatedto'] rune ['relatedto'] spell
+word ['relatedto', 'partof'] character ['relatedto'] write ['synonym', 'entails'] spell
+word ['relatedto'] single ['relatedto'] letter ['usedfor'] spell
+word ['relatedto'] single ['relatedto'] moment ['relatedto'] spell
+word ['relatedto'] single ['relatedto'] primer ['relatedto'] spell
+word ['relatedto'] tonic ['relatedto'] speech ['isa', 'relatedto'] spell
+word ['relatedto'] command ['relatedto'] go ['synonym'] spell
+word ['relatedto'] communication ['relatedto'] speech ['isa', 'relatedto'] spell
+word ['relatedto'] communication ['usedfor', 'relatedto'] letter ['usedfor'] spell
+word ['relatedto'] communication ['relatedto'] write ['synonym', 'entails'] spell
+word ['relatedto'] termination ['etymologicallyrelatedto', 'synonym'] term ['synonym'] spell
+word ['relatedto'] vowel ['isa', 'relatedto'] letter ['usedfor'] spell
+word ['relatedto'] vowel ['partof'] speech ['isa', 'relatedto'] spell
+word ['relatedto'] construction ['relatedto'] wood ['relatedto'] spell
+word ['relatedto'] terminal ['etymologicallyrelatedto', 'relatedto'] term ['synonym'] spell
+word ['relatedto'] group ['relatedto'] go ['synonym'] spell
+word ['relatedto'] group ['relatedto'] cast ['relatedto'] spell
+word ['relatedto'] group ['relatedto'] charm ['synonym'] spell
+word ['relatedto'] group ['relatedto'] splinter ['relatedto'] spell

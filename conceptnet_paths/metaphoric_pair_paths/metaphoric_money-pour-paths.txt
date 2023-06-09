@@ -1,0 +1,100 @@
+money ['relatedto'] refund ['relatedto'] pour
+money ['relatedto'] transfer ['relatedto'] pour
+money ['relatedto'] gain ['relatedto'] run ['causes', 'mannerof'] pour
+money ['relatedto'] gain ['relatedto'] spurt ['mannerof'] pour
+money ['relatedto'] accident ['relatedto'] crowd ['mannerof'] pour
+money ['relatedto'] accident ['relatedto'] drop ['antonym'] pour
+money ['hasproperty'] fake ['relatedto'] move ['mannerof', 'relatedto'] pour
+money ['relatedto'] advance ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] pour
+money ['relatedto'] advance ['mannerof', 'relatedto'] pass ['relatedto'] pour
+money ['relatedto'] advance ['relatedto'] movement ['relatedto'] pour
+money ['relatedto'] advance ['relatedto'] supply ['mannerof'] pour
+money ['relatedto'] advance ['relatedto'] crowd ['mannerof'] pour
+money ['relatedto'] advance ['relatedto'] dribble ['mannerof'] pour
+money ['relatedto'] payment ['relatedto'] action ['relatedto'] pour
+money ['relatedto'] payment ['antonym', 'isa'] refund ['relatedto'] pour
+money ['relatedto'] payment ['relatedto'] put ['relatedto'] pour
+money ['relatedto'] payment ['relatedto'] send ['relatedto'] pour
+money ['relatedto'] payment ['relatedto'] transfer ['relatedto'] pour
+money ['relatedto'] safe ['distinctfrom'] drop ['antonym'] pour
+money ['relatedto'] safe ['relatedto'] put ['relatedto'] pour
+money ['relatedto'] afford ['relatedto'] issue ['relatedto'] pour
+money ['relatedto'] afford ['relatedto', 'synonym'] supply ['mannerof'] pour
+money ['relatedto'] afford ['relatedto'] beteem ['relatedto'] pour
+money ['hasprerequisite'] getting ['hasprerequisite'] action ['relatedto'] pour
+money ['hasprerequisite'] getting ['relatedto'] drink ['hasfirstsubevent'] pour
+money ['hasprerequisite'] getting ['relatedto'] move ['mannerof', 'relatedto'] pour
+money ['desires'] human ['relatedto'] crowd ['mannerof'] pour
+money ['desires'] human ['relatedto'] run ['causes', 'mannerof'] pour
+money ['isa'] agent ['relatedto'] action ['relatedto'] pour
+money ['atlocation'] ground ['antonym', 'relatedto'] water ['relatedto'] pour
+money ['atlocation'] ground ['mannerof'] put ['relatedto'] pour
+money ['atlocation'] ground ['relatedto'] drop ['antonym'] pour
+money ['atlocation'] ground ['relatedto'] glass ['relatedto'] pour
+money ['atlocation'] ground ['relatedto'] cause ['relatedto'] pour
+money ['relatedto'] free ['mannerof'] issue ['relatedto'] pour
+money ['relatedto'] free ['mannerof'] run ['causes', 'mannerof'] pour
+money ['relatedto'] free ['relatedto'] drop ['antonym'] pour
+money ['relatedto'] free ['relatedto'] pass ['relatedto'] pour
+money ['relatedto'] free ['synonym'] discharge ['relatedto'] pour
+money ['relatedto'] poor ['relatedto'] pour_poor_merger ['relatedto'] pour
+money ['relatedto'] back ['relatedto'] movement ['relatedto'] pour
+money ['relatedto'] front ['relatedto'] move ['mannerof', 'relatedto'] pour
+money ['relatedto'] front ['synonym'] movement ['relatedto'] pour
+money ['relatedto', 'atlocation'] bank ['relatedto'] put ['relatedto'] pour
+money ['relatedto', 'atlocation'] bank ['relatedto'] transfer ['relatedto'] pour
+money ['relatedto', 'atlocation'] bank ['relatedto'] run ['causes', 'mannerof'] pour
+money ['relatedto'] cover ['relatedto'] action ['relatedto'] pour
+money ['relatedto'] cover ['mannerof', 'relatedto'] sheet ['mannerof', 'relatedto'] pour
+money ['relatedto'] cover ['relatedto'] put ['relatedto'] pour
+money ['relatedto'] cover ['relatedto'] glass ['relatedto'] pour
+money ['relatedto'] cover ['relatedto'] shed ['relatedto'] pour
+money ['atlocation'] floor ['relatedto'] drop ['antonym'] pour
+money ['atlocation'] floor ['relatedto'] machicolation ['relatedto'] pour
+money ['usedfor', 'relatedto'] rich ['antonym'] pore ['formof'] pour
+money ['relatedto'] benefit ['relatedto'] cause ['relatedto'] pour
+money ['relatedto'] beverage ['isa', 'relatedto'] water ['relatedto'] pour
+money ['relatedto'] beverage ['isa', 'relatedto'] liquid ['relatedto'] pour
+money ['relatedto'] beverage ['relatedto', 'synonym'] drink ['hasfirstsubevent'] pour
+money ['relatedto'] beverage ['relatedto'] glass ['relatedto'] pour
+money ['relatedto'] beverage ['relatedto'] carafe ['usedfor'] pour
+money ['relatedto'] beverage ['relatedto', 'synonym'] libation ['relatedto'] pour
+money ['isa', 'relatedto'] bill ['relatedto'] send ['relatedto'] pour
+money ['relatedto'] check ['mannerof', 'entails'] move ['mannerof', 'relatedto'] pour
+money ['relatedto'] check ['relatedto'] pass ['relatedto'] pour
+money ['relatedto'] paycheck ['isa'] transfer ['relatedto'] pour
+money ['isa', 'relatedto'] time ['etymologicallyrelatedto', 'relatedto'] tide ['relatedto'] pour
+money ['isa', 'relatedto'] time ['relatedto'] issue ['relatedto'] pour
+money ['isa', 'relatedto'] time ['relatedto'] pass ['relatedto'] pour
+money ['isa', 'relatedto'] time ['relatedto'] run ['causes', 'mannerof'] pour
+money ['relatedto'] green ['hasproperty'] glass ['relatedto'] pour
+money ['relatedto'] green ['relatedto'] put ['relatedto'] pour
+money ['relatedto'] board ['relatedto'] water ['relatedto'] pour
+money ['relatedto'] board ['isa', 'relatedto'] sheet ['mannerof', 'relatedto'] pour
+money ['relatedto'] board ['relatedto'] cup ['relatedto'] pour
+money ['relatedto'] board ['relatedto'] move ['mannerof', 'relatedto'] pour
+money ['isa'] magazine ['relatedto'] issue ['relatedto'] pour
+money ['isa'] magazine ['relatedto'] supply ['mannerof'] pour
+money ['relatedto'] interest ['relatedto'] crowd ['mannerof'] pour
+money ['relatedto'] root ['relatedto'] water ['relatedto'] pour
+money ['relatedto'] root ['relatedto'] cause ['relatedto'] pour
+money ['relatedto'] bread ['antonym', 'relatedto'] water ['relatedto'] pour
+money ['relatedto'] bread ['distinctfrom'] filling ['relatedto'] pour
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['isa', 'relatedto'] action ['relatedto'] pour
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['mannerof'] fill ['relatedto'] pour
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] pour
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['relatedto'] issue ['relatedto'] pour
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['relatedto'] run ['causes', 'mannerof'] pour
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['relatedto'] cause ['relatedto'] pour
+money ['antonym', 'relatedto'] buy ['relatedto'] action ['relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['isa', 'relatedto'] action ['relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] put ['relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['relatedto'] cast ['relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] drop ['antonym'] pour
+money ['antonym', 'isa', 'relatedto'] change ['isa', 'mannerof', 'relatedto'] move ['mannerof', 'relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['isa', 'relatedto'] movement ['relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] empty ['relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] fill ['relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] pass ['relatedto'] pour
+money ['antonym', 'isa', 'relatedto'] change ['relatedto', 'synonym'] transfer ['relatedto'] pour
+money ['antonym', 'relatedto'] debt ['relatedto'] action ['relatedto'] pour

@@ -1,0 +1,100 @@
+intelligence ['relatedto'] genius ['relatedto'] flash
+intelligence ['isa', 'relatedto', 'synonym'] brightness ['isa', 'relatedto'] flash
+intelligence ['isa'] brilliance ['relatedto'] flash
+intelligence ['relatedto'] military ['relatedto'] flash
+intelligence ['relatedto'] understand ['relatedto'] flash
+intelligence ['synonym'] wit ['relatedto'] flash
+intelligence ['isa', 'relatedto'] ability ['relatedto'] function ['relatedto'] flash
+intelligence ['isa', 'relatedto'] ability ['relatedto'] language ['relatedto'] flash
+intelligence ['isa', 'relatedto'] ability ['relatedto'] memory ['relatedto'] flash
+intelligence ['isa', 'relatedto'] ability ['relatedto'] stream ['relatedto'] flash
+intelligence ['relatedto'] able ['relatedto'] visible ['relatedto'] flash
+intelligence ['relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] flash
+intelligence ['relatedto'] activity ['isa'] burst ['relatedto'] flash
+intelligence ['relatedto'] activity ['isa'] market ['relatedto'] flash
+intelligence ['relatedto'] activity ['isa'] preparation ['relatedto'] flash
+intelligence ['relatedto'] activity ['relatedto'] experience ['isa'] flash
+intelligence ['relatedto'] activity ['relatedto'] memory ['relatedto'] flash
+intelligence ['relatedto'] activity ['relatedto'] move ['relatedto'] flash
+intelligence ['relatedto'] activity ['relatedto'] thunder ['relatedto'] flash
+intelligence ['relatedto'] activity ['relatedto'] weather ['relatedto'] flash
+intelligence ['relatedto'] agent ['relatedto'] action ['relatedto'] flash
+intelligence ['relatedto'] agent ['relatedto'] sugar ['relatedto'] flash
+intelligence ['relatedto'] enemy ['relatedto'] cover ['mannerof'] flash
+intelligence ['relatedto'] enemy ['relatedto'] military ['relatedto'] flash
+intelligence ['relatedto'] synthesis ['isa'] action ['relatedto'] flash
+intelligence ['relatedto'] apply ['relatedto'] action ['relatedto'] flash
+intelligence ['relatedto'] apply ['relatedto'] move ['relatedto'] flash
+intelligence ['relatedto'] apply ['relatedto'] patch ['isa'] flash
+intelligence ['relatedto'] apply ['relatedto'] pressure ['relatedto'] flash
+intelligence ['relatedto'] apply ['relatedto'] speedy ['relatedto'] flash
+intelligence ['similarto'] aptitude ['isa'] software ['relatedto'] flash
+intelligence ['relatedto'] ending ['isa'] happening ['isa'] flash
+intelligence ['isa', 'relatedto', 'synonym'] mind ['antonym', 'distinctfrom', 'relatedto'] body ['relatedto'] flash
+intelligence ['isa', 'relatedto', 'synonym'] mind ['relatedto', 'synonym'] memory ['relatedto'] flash
+intelligence ['isa', 'relatedto', 'synonym'] mind ['relatedto'] part ['relatedto'] flash
+intelligence ['isa', 'relatedto', 'synonym'] mind ['relatedto'] material ['relatedto'] flash
+intelligence ['isa', 'relatedto', 'synonym'] mind ['relatedto'] phenomenon ['relatedto'] flash
+intelligence ['isa', 'relatedto', 'synonym'] mind ['synonym'] attention ['relatedto'] flash
+intelligence ['isa', 'relatedto', 'synonym'] mind ['synonym'] genius ['relatedto'] flash
+intelligence ['isa', 'relatedto', 'synonym'] mind ['synonym'] wit ['relatedto'] flash
+intelligence ['relatedto'] idiot ['antonym'] genius ['relatedto'] flash
+intelligence ['relatedto'] capacity ['isa', 'relatedto'] function ['relatedto'] flash
+intelligence ['relatedto'] capacity ['relatedto'] amount ['relatedto'] flash
+intelligence ['relatedto'] capacity ['relatedto', 'synonym'] content ['relatedto'] flash
+intelligence ['relatedto'] capacity ['relatedto'] genius ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] short ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] brief ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] card ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] language ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] material ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] part ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] passing ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] quick ['relatedto'] flash
+intelligence ['relatedto'] note ['relatedto'] write ['relatedto'] flash
+intelligence ['relatedto'] clever ['relatedto'] quick ['relatedto'] flash
+intelligence ['relatedto'] clever ['relatedto'] genius ['relatedto'] flash
+intelligence ['relatedto'] fine ['relatedto'] time ['relatedto'] flash
+intelligence ['relatedto'] fine ['relatedto'] edge ['relatedto'] flash
+intelligence ['relatedto'] fine ['relatedto'] surface ['relatedto'] flash
+intelligence ['relatedto'] fine ['relatedto'] weather ['relatedto'] flash
+intelligence ['relatedto'] fine ['relatedto'] showy ['relatedto'] flash
+intelligence ['relatedto'] fine ['relatedto'] sugar ['relatedto'] flash
+intelligence ['synonym'] news ['relatedto'] brief ['relatedto'] flash
+intelligence ['synonym'] news ['relatedto'] show ['mannerof'] flash
+intelligence ['synonym'] news ['antonym', 'relatedto'] weather ['relatedto'] flash
+intelligence ['synonym'] news ['isa', 'relatedto'] report ['relatedto'] flash
+intelligence ['synonym'] news ['relatedto'] content ['relatedto'] flash
+intelligence ['synonym'] news ['relatedto'] happening ['isa'] flash
+intelligence ['synonym'] news ['relatedto'] material ['relatedto'] flash
+intelligence ['synonym'] news ['relatedto'] passing ['relatedto'] flash
+intelligence ['synonym'] news ['relatedto'] public ['relatedto'] flash
+intelligence ['relatedto'] dense ['relatedto'] light ['isa', 'usedfor', 'relatedto'] flash
+intelligence ['relatedto'] dense ['relatedto'] understand ['relatedto'] flash
+intelligence ['relatedto'] department ['relatedto'] super ['relatedto'] flash
+intelligence ['relatedto'] department ['relatedto'] part ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['relatedto'] body ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['isa'] material ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['motivatedbygoal', 'relatedto'] communicate ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['relatedto'] content ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['relatedto'] animation ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['relatedto'] memory ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['relatedto'] report ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['relatedto'] surface ['relatedto'] flash
+intelligence ['isa', 'relatedto'] information ['relatedto'] understand ['relatedto'] flash
+intelligence ['relatedto'] genius ['relatedto'] brilliant ['relatedto'] flash
+intelligence ['relatedto'] genius ['synonym'] brilliance ['relatedto'] flash
+intelligence ['relatedto'] intelligent ['relatedto'] brilliant ['relatedto'] flash
+intelligence ['relatedto'] intelligent ['relatedto', 'similarto'] bright ['relatedto'] flash
+intelligence ['relatedto'] intelligent ['relatedto'] genius ['relatedto'] flash
+intelligence ['relatedto'] intelligent ['relatedto', 'similarto'] quick ['relatedto'] flash
+intelligence ['relatedto'] intelligent ['similarto'] searching ['relatedto'] flash
+intelligence ['relatedto'] smart ['relatedto'] brilliant ['relatedto'] flash
+intelligence ['relatedto'] smart ['antonym', 'relatedto', 'synonym'] bright ['relatedto'] flash
+intelligence ['relatedto'] smart ['relatedto', 'hasproperty'] genius ['relatedto'] flash
+intelligence ['relatedto'] smart ['similarto'] fast ['relatedto'] flash
+intelligence ['relatedto'] fact ['relatedto'] action ['relatedto'] flash
+intelligence ['relatedto'] fact ['relatedto'] phenomenon ['relatedto'] flash
+intelligence ['relatedto'] fact ['relatedto'] surface ['relatedto'] flash
+intelligence ['relatedto'] knowledge ['relatedto'] body ['relatedto'] flash
+intelligence ['relatedto'] knowledge ['relatedto'] open ['relatedto'] flash

@@ -1,0 +1,100 @@
+shoulder ['relatedto'] top ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] twist
+shoulder ['relatedto'] bottle ['relatedto'] twist
+shoulder ['relatedto', 'partof'] road ['relatedto'] twist
+shoulder ['relatedto', 'partof'] chuck ['relatedto'] twist
+shoulder ['relatedto'] type ['relatedto'] twist
+shoulder ['relatedto'] arm ['antonym'] feet ['relatedto'] twist
+shoulder ['relatedto'] arm ['relatedto', 'partof'] body ['relatedto'] twist
+shoulder ['relatedto'] arm ['relatedto'] hands ['relatedto'] twist
+shoulder ['relatedto'] arm ['relatedto'] twisted ['formof', 'relatedto'] twist
+shoulder ['relatedto'] arm ['relatedto'] curl ['mannerof', 'relatedto'] twist
+shoulder ['relatedto'] arm ['relatedto'] gun ['relatedto'] twist
+shoulder ['relatedto'] arm ['relatedto'] iron ['relatedto'] twist
+shoulder ['relatedto'] back ['isa'] position ['relatedto'] twist
+shoulder ['relatedto'] back ['relatedto', 'partof'] body ['relatedto'] twist
+shoulder ['relatedto'] back ['relatedto'] movement ['isa', 'relatedto'] twist
+shoulder ['relatedto'] back ['relatedto'] change ['relatedto'] twist
+shoulder ['relatedto'] back ['relatedto'] wind ['relatedto', 'synonym'] twist
+shoulder ['relatedto'] back ['relatedto'] shake ['relatedto'] twist
+shoulder ['relatedto'] back ['relatedto'] steel ['relatedto'] twist
+shoulder ['relatedto'] back ['relatedto'] turn ['antonym', 'mannerof', 'relatedto', 'synonym'] twist
+shoulder ['relatedto'] back ['relatedto'] wrick ['relatedto', 'synonym'] twist
+shoulder ['relatedto'] top ['relatedto'] position ['relatedto'] twist
+shoulder ['relatedto'] top ['capableof', 'relatedto'] spin ['mannerof', 'relatedto', 'synonym'] twist
+shoulder ['relatedto'] top ['isa', 'relatedto', 'synonym'] cap ['relatedto'] twist
+shoulder ['relatedto'] top ['isa'] turn ['antonym', 'mannerof', 'relatedto', 'synonym'] twist
+shoulder ['relatedto'] top ['relatedto'] corkscrew ['relatedto'] twist
+shoulder ['relatedto'] top ['relatedto'] bottle ['relatedto'] twist
+shoulder ['relatedto'] top ['relatedto'] music ['relatedto'] twist
+shoulder ['relatedto'] top ['relatedto'] spinning ['relatedto'] twist
+shoulder ['relatedto'] top ['relatedto'] wick ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] ground ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] together ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] ankle ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] full ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] attitude ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] bend ['antonym', 'relatedto', 'synonym'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] feet ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] form ['mannerof'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] hands ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] movement ['isa', 'relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] shape ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] tie ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] woman ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] type ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] contortionist ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] dance ['mannerof', 'relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] flex ['synonym'] twist
+shoulder ['relatedto', 'partof'] body ['usedfor', 'relatedto'] move ['relatedto'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] turn ['antonym', 'mannerof', 'relatedto', 'synonym'] twist
+shoulder ['relatedto', 'partof'] body ['relatedto'] writhe ['relatedto', 'synonym'] twist
+shoulder ['relatedto'] head ['isa', 'relatedto', 'synonym'] top ['relatedto'] twist
+shoulder ['relatedto'] head ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'partof'] body ['relatedto'] twist
+shoulder ['relatedto'] head ['antonym', 'distinctfrom'] feet ['relatedto'] twist
+shoulder ['relatedto'] head ['isa', 'relatedto', 'synonym'] toilet ['relatedto'] twist
+shoulder ['relatedto'] head ['isa'] word ['relatedto'] twist
+shoulder ['relatedto'] head ['isa'] individual ['relatedto'] twist
+shoulder ['relatedto'] head ['mannerof'] form ['mannerof'] twist
+shoulder ['relatedto'] head ['relatedto'] cap ['relatedto'] twist
+shoulder ['relatedto'] head ['relatedto'] chignon ['relatedto'] twist
+shoulder ['relatedto'] head ['relatedto'] flat ['antonym'] twist
+shoulder ['relatedto'] head ['relatedto'] music ['relatedto'] twist
+shoulder ['relatedto'] head ['relatedto'] round ['relatedto'] twist
+shoulder ['relatedto'] head ['relatedto'] kakezori ['relatedto'] twist
+shoulder ['relatedto'] head ['relatedto'] vine_staff ['relatedto'] twist
+shoulder ['relatedto'] carry ['relatedto'] action ['relatedto'] twist
+shoulder ['relatedto'] carry ['relatedto'] position ['relatedto'] twist
+shoulder ['relatedto'] carry ['relatedto'] attitude ['relatedto'] twist
+shoulder ['relatedto'] carry ['relatedto'] move ['relatedto'] twist
+shoulder ['relatedto'] carry ['relatedto'] movement ['isa', 'relatedto'] twist
+shoulder ['relatedto'] bottle ['relatedto'] top ['relatedto'] twist
+shoulder ['relatedto'] bottle ['relatedto'] cap ['relatedto'] twist
+shoulder ['relatedto'] bottle ['relatedto'] soda ['relatedto'] twist
+shoulder ['relatedto'] put ['relatedto'] join ['relatedto'] twist
+shoulder ['relatedto'] put ['relatedto'] action ['relatedto'] twist
+shoulder ['relatedto'] put ['mannerof'] ground ['relatedto'] twist
+shoulder ['relatedto'] put ['mannerof', 'relatedto', 'synonym'] lay ['relatedto'] twist
+shoulder ['relatedto'] put ['mannerof', 'relatedto', 'synonym'] position ['relatedto'] twist
+shoulder ['relatedto'] put ['mannerof'] bottle ['relatedto'] twist
+shoulder ['relatedto'] put ['antonym', 'mannerof'] move ['relatedto'] twist
+shoulder ['relatedto'] put ['mannerof'] barrel ['relatedto'] twist
+shoulder ['relatedto'] put ['mannerof'] change ['relatedto'] twist
+shoulder ['relatedto'] put ['mannerof', 'relatedto'] throw ['relatedto'] twist
+shoulder ['relatedto'] put ['relatedto'] movement ['isa', 'relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] together ['relatedto'] twist
+shoulder ['relatedto'] hand ['antonym', 'relatedto', 'partof'] body ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] gun ['relatedto'] twist
+shoulder ['relatedto'] hand ['antonym', 'distinctfrom', 'relatedto'] feet ['relatedto'] twist
+shoulder ['relatedto'] hand ['formof', 'relatedto'] hands ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] card ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto', 'synonym'] deal ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] draw ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] flat ['antonym'] twist
+shoulder ['relatedto'] hand ['relatedto'] device ['synonym'] twist
+shoulder ['relatedto'] hand ['relatedto'] round ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] shake ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] type ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] game ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] pronate ['relatedto'] twist
+shoulder ['relatedto'] hand ['relatedto'] rock ['relatedto'] twist

@@ -1,0 +1,100 @@
+ground ['relatedto'] level
+ground ['relatedto'] advance ['relatedto'] level
+ground ['antonym', 'relatedto'] water ['relatedto'] level
+ground ['antonym', 'isa', 'relatedto'] hill ['relatedto'] level
+ground ['antonym', 'relatedto'] slope ['antonym', 'distinctfrom'] level
+ground ['relatedto', 'atlocation'] well ['relatedto'] level
+ground ['distinctfrom', 'relatedto'] floor ['relatedto', 'hasproperty', 'synonym'] level
+ground ['isa', 'relatedto'] surface ['relatedto'] level
+ground ['relatedto'] aflat ['relatedto'] level
+ground ['relatedto'] agl ['relatedto'] level
+ground ['relatedto'] band ['relatedto'] level
+ground ['relatedto'] cryptoporticus ['relatedto'] level
+ground ['relatedto'] field ['relatedto'] level
+ground ['relatedto'] geothermometer ['relatedto'] level
+ground ['relatedto'] grade ['isa', 'relatedto', 'synonym'] level
+ground ['relatedto'] building ['usedfor', 'relatedto'] level
+ground ['relatedto'] falling ['relatedto'] level
+ground ['relatedto'] flat ['isa', 'relatedto', 'synonym'] level
+ground ['relatedto'] flat_surface ['relatedto'] level
+ground ['relatedto'] place ['isa', 'relatedto'] level
+ground ['relatedto'] flush ['synonym'] level
+ground ['relatedto'] plain ['relatedto'] level
+ground ['relatedto'] reference ['relatedto'] level
+ground ['relatedto'] ground_level ['relatedto'] level
+ground ['relatedto'] leader ['relatedto'] level
+ground ['relatedto'] metal ['relatedto'] level
+ground ['relatedto'] raze ['relatedto', 'synonym'] level
+ground ['relatedto'] stage ['relatedto', 'synonym'] level
+ground ['relatedto'] step ['relatedto'] level
+ground ['relatedto'] tail_lift ['relatedto'] level
+ground ['relatedto'] tunnel ['relatedto'] level
+ground ['relatedto'] water_table ['relatedto'] level
+ground ['relatedto'] aboveground ['relatedto', 'similarto'] surface ['relatedto'] level
+ground ['relatedto', 'derivedfrom'] underground ['atlocation'] water ['relatedto'] level
+ground ['relatedto', 'derivedfrom'] underground ['hasproperty'] buildings ['relatedto'] level
+ground ['relatedto', 'derivedfrom'] underground ['isa', 'relatedto'] tunnel ['relatedto'] level
+ground ['relatedto', 'derivedfrom'] underground ['relatedto'] basement ['relatedto'] level
+ground ['relatedto', 'derivedfrom'] underground ['relatedto'] flush ['synonym'] level
+ground ['relatedto', 'derivedfrom'] underground ['relatedto'] raise_borer ['relatedto'] level
+ground ['relatedto', 'derivedfrom'] underground ['relatedto'] subsidence ['relatedto'] level
+ground ['relatedto', 'derivedfrom'] underground ['relatedto', 'synonym'] tube ['relatedto'] level
+ground ['relatedto', 'derivedfrom'] underground ['relatedto'] water_table ['relatedto'] level
+ground ['relatedto'] concrete ['madeof', 'relatedto'] floor ['relatedto', 'hasproperty', 'synonym'] level
+ground ['relatedto'] concrete ['relatedto'] buildings ['relatedto'] level
+ground ['relatedto'] concrete ['relatedto'] building ['usedfor', 'relatedto'] level
+ground ['relatedto'] concrete ['relatedto'] quality ['relatedto'] level
+ground ['relatedto'] concrete ['relatedto'] water ['relatedto'] level
+ground ['relatedto'] concrete ['relatedto'] strickle ['relatedto'] level
+ground ['relatedto'] base ['derivedfrom'] basement ['relatedto'] level
+ground ['relatedto'] base ['etymologicallyrelatedto'] bar ['relatedto'] level
+ground ['relatedto'] base ['isa', 'relatedto'] number ['relatedto'] level
+ground ['relatedto'] base ['relatedto'] field ['relatedto'] level
+ground ['relatedto'] base ['relatedto'] game ['relatedto'] level
+ground ['relatedto'] base ['relatedto'] place ['isa', 'relatedto'] level
+ground ['relatedto'] base ['relatedto'] square ['relatedto'] level
+ground ['relatedto'] base ['relatedto'] rank ['relatedto'] level
+ground ['relatedto'] base ['relatedto'] board ['relatedto'] level
+ground ['relatedto'] base ['relatedto', 'synonym'] floor ['relatedto', 'hasproperty', 'synonym'] level
+ground ['relatedto'] base ['relatedto'] high ['relatedto'] level
+ground ['relatedto'] base ['relatedto'] orientation ['relatedto'] level
+ground ['relatedto'] base ['relatedto'] wave ['relatedto'] level
+ground ['relatedto'] potential ['relatedto'] field ['relatedto'] level
+ground ['relatedto'] potential ['relatedto'] floor ['relatedto', 'hasproperty', 'synonym'] level
+ground ['relatedto'] child ['relatedto'] place ['isa', 'relatedto'] level
+ground ['relatedto'] child ['relatedto'] game ['relatedto'] level
+ground ['relatedto'] advance ['relatedto', 'synonym'] gain ['relatedto'] level
+ground ['relatedto'] advance ['mannerof'] edge ['relatedto'] level
+ground ['relatedto'] advance ['relatedto'] achievement ['relatedto'] level
+ground ['relatedto'] advance ['relatedto'] charge ['synonym'] level
+ground ['relatedto'] advance ['relatedto'] gaining ['relatedto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] air ['antonym', 'relatedto'] heat ['relatedto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] air ['atlocation'] plain ['relatedto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'atlocation'] plane ['relatedto', 'synonym'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] air ['isa', 'relatedto'] quality ['relatedto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] air ['isa'] band ['relatedto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] bubble ['relatedto'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['antonym', 'relatedto'] water ['relatedto'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['distinctfrom', 'hasproperty'] flat ['isa', 'relatedto', 'synonym'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['hasa'] surface ['relatedto'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] degree ['relatedto', 'synonym'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] place ['isa', 'relatedto'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] floor ['relatedto', 'hasproperty', 'synonym'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] ground_level ['relatedto'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] hill ['relatedto'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] subsidence ['relatedto'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] terreplein ['relatedto'] level
+ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] year ['relatedto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] ceiling ['antonym', 'distinctfrom', 'relatedto'] floor ['relatedto', 'hasproperty', 'synonym'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] ceiling ['atlocation'] building ['usedfor', 'relatedto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] ceiling ['hasproperty'] horizontal ['relatedto', 'similarto'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] ceiling ['isa'] altitude ['isa'] level
+ground ['antonym', 'distinctfrom', 'relatedto'] ceiling ['relatedto'] trapdoor ['relatedto'] level
+ground ['antonym'] roof ['atlocation'] water ['relatedto'] level
+ground ['antonym'] roof ['antonym', 'distinctfrom', 'relatedto'] floor ['relatedto', 'hasproperty', 'synonym'] level
+ground ['antonym'] roof ['relatedto'] upper ['relatedto'] level
+ground ['antonym'] roof ['atlocation'] en ['derivedfrom', 'atlocation'] level
+ground ['antonym'] roof ['atlocation'] garage ['atlocation'] level
+ground ['antonym'] roof ['relatedto', 'partof'] building ['usedfor', 'relatedto'] level
+ground ['antonym'] roof ['relatedto'] buildings ['relatedto'] level

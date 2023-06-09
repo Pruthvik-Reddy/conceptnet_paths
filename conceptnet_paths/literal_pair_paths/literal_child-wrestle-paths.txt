@@ -1,0 +1,100 @@
+child ['relatedto', 'atlocation'] school ['relatedto'] defeat ['relatedto'] wrestle
+child ['relatedto', 'atlocation'] school ['atlocation'] rule ['relatedto'] wrestle
+child ['relatedto', 'atlocation'] school ['relatedto'] opponent ['relatedto'] wrestle
+child ['capableof'] flying_kite ['usedfor'] exercise ['hasprerequisite'] wrestle
+child ['capableof'] leave_home ['relatedto'] move ['relatedto'] wrestle
+child ['capableof'] pain ['relatedto'] anger ['causesdesire'] wrestle
+child ['capableof'] pain ['capableof'] immobilize ['relatedto'] wrestle
+child ['capableof'] pain ['mannerof'] agonize ['relatedto'] wrestle
+child ['capableof'] pain ['relatedto'] stretch ['hasprerequisite'] wrestle
+child ['capableof'] play_game ['hasprerequisite'] stretch ['hasprerequisite'] wrestle
+child ['capableof'] play_game ['hasprerequisite'] find_opponent ['hasfirstsubevent', 'hasprerequisite'] wrestle
+child ['capableof'] walk_dog ['motivatedbygoal', 'relatedto'] exercise ['hasprerequisite'] wrestle
+child ['desires'] love ['relatedto'] strong ['hasprerequisite'] wrestle
+child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto'] calf ['relatedto'] wrestle
+child ['formof', 'relatedto'] children ['usedfor'] wrestling ['formof', 'relatedto', 'synonym'] wrestle
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] exercise ['hasprerequisite'] wrestle
+child ['relatedto', 'hasprerequisite'] play ['distinctfrom'] fight ['mannerof'] wrestle
+child ['relatedto', 'hasprerequisite'] play ['mannerof', 'relatedto', 'entails'] move ['relatedto'] wrestle
+child ['relatedto', 'hasprerequisite'] play ['usedfor'] wrestling ['formof', 'relatedto', 'synonym'] wrestle
+child ['isa'] buster ['relatedto'] strong ['hasprerequisite'] wrestle
+child ['isa'] animal ['isa'] calf ['relatedto'] wrestle
+child ['isa'] animal ['relatedto'] move ['relatedto'] wrestle
+child ['isa'] silly ['causes'] wrestling ['formof', 'relatedto', 'synonym'] wrestle
+child ['motivatedbygoal'] jump_rope ['usedfor', 'motivatedbygoal', 'relatedto'] exercise ['hasprerequisite'] wrestle
+child ['relatedto'] ball ['relatedto'] throw ['relatedto'] wrestle
+child ['relatedto'] chicken ['isa'] contest ['relatedto'] wrestle
+child ['relatedto'] big ['relatedto'] battle ['mannerof'] wrestle
+child ['relatedto'] face ['relatedto'] anger ['causesdesire'] wrestle
+child ['relatedto'] face ['relatedto'] opponent ['relatedto'] wrestle
+child ['relatedto'] general ['relatedto'] battle ['mannerof'] wrestle
+child ['relatedto'] general ['relatedto'] exercise ['hasprerequisite'] wrestle
+child ['relatedto'] general ['relatedto'] move ['relatedto'] wrestle
+child ['relatedto'] generic ['relatedto'] energy ['causesdesire'] wrestle
+child ['relatedto'] human ['atlocation'] battle ['mannerof'] wrestle
+child ['relatedto'] human ['relatedto'] energy ['causesdesire'] wrestle
+child ['relatedto'] little ['relatedto'] battle ['mannerof'] wrestle
+child ['relatedto'] man ['relatedto'] strength ['causesdesire'] wrestle
+child ['relatedto'] name ['relatedto'] rule ['relatedto'] wrestle
+child ['relatedto'] nature ['relatedto'] energy ['causesdesire'] wrestle
+child ['relatedto'] nature ['relatedto'] consider ['mannerof'] wrestle
+child ['relatedto'] nice ['relatedto'] rule ['relatedto'] wrestle
+child ['relatedto'] single ['relatedto'] battle ['mannerof'] wrestle
+child ['relatedto'] small ['relatedto'] battle ['mannerof'] wrestle
+child ['relatedto'] small ['relatedto'] rule ['relatedto'] wrestle
+child ['relatedto'] term ['relatedto'] lift ['relatedto'] wrestle
+child ['relatedto'] another ['relatedto'] move ['relatedto'] wrestle
+child ['relatedto'] considered ['formof', 'relatedto'] consider ['mannerof'] wrestle
+child ['relatedto'] legal ['relatedto'] rule ['relatedto'] wrestle
+child ['relatedto'] legal ['relatedto'] power ['motivatedbygoal'] wrestle
+child ['relatedto'] place ['relatedto'] battle ['mannerof'] wrestle
+child ['relatedto'] place ['relatedto'] fight ['mannerof'] wrestle
+child ['relatedto'] place ['relatedto'] move ['relatedto'] wrestle
+child ['relatedto'] place ['relatedto'] match ['relatedto'] wrestle
+child ['relatedto'] process ['relatedto'] consider ['mannerof'] wrestle
+child ['relatedto', 'synonym'] product ['relatedto'] power ['motivatedbygoal'] wrestle
+child ['relatedto'] reach ['mannerof'] move ['relatedto'] wrestle
+child ['relatedto'] reach ['relatedto', 'synonym'] stretch ['hasprerequisite'] wrestle
+child ['relatedto'] reach ['synonym'] strive ['relatedto'] wrestle
+child ['relatedto'] something ['relatedto'] strength ['causesdesire'] wrestle
+child ['relatedto'] game ['relatedto'] defeat ['relatedto'] wrestle
+child ['relatedto'] game ['capableof', 'isa', 'relatedto'] contest ['relatedto'] wrestle
+child ['relatedto'] game ['relatedto', 'atlocation'] rule ['relatedto'] wrestle
+child ['relatedto'] game ['relatedto'] move ['relatedto'] wrestle
+child ['relatedto'] game ['relatedto', 'synonym'] match ['relatedto'] wrestle
+child ['relatedto'] game ['relatedto'] opponent ['relatedto'] wrestle
+child ['relatedto'] ground ['mannerof'] throw ['relatedto'] wrestle
+child ['relatedto'] ground ['relatedto'] match ['relatedto'] wrestle
+child ['relatedto'] house ['relatedto'] move ['relatedto'] wrestle
+child ['relatedto'] impotence ['antonym'] power ['motivatedbygoal'] wrestle
+child ['relatedto'] infantocracy ['relatedto'] rule ['relatedto'] wrestle
+child ['relatedto'] issue ['relatedto'] consider ['mannerof'] wrestle
+child ['relatedto'] kite ['relatedto'] lift ['relatedto'] wrestle
+child ['relatedto'] mama_grizzly ['relatedto'] grizzly_bear ['motivatedbygoal'] wrestle
+child ['relatedto'] operation ['relatedto'] move ['relatedto'] wrestle
+child ['relatedto'] paedocracy ['relatedto'] rule ['relatedto'] wrestle
+child ['relatedto'] pig ['relatedto'] grunt ['haslastsubevent'] wrestle
+child ['relatedto'] rein ['synonym'] rule ['relatedto'] wrestle
+child ['relatedto'] scuffle ['mannerof', 'relatedto'] fight ['mannerof'] wrestle
+child ['relatedto'] scuffle ['relatedto'] struggle ['isa', 'relatedto'] wrestle
+child ['relatedto'] scuffle ['relatedto'] scruffle ['relatedto'] wrestle
+child ['relatedto'] spank ['relatedto'] defeat ['relatedto'] wrestle
+child ['relatedto'] spank ['relatedto'] move ['relatedto'] wrestle
+child ['relatedto'] suck ['antonym'] rule ['relatedto'] wrestle
+child ['relatedto'] support ['antonym'] contest ['relatedto'] wrestle
+child ['relatedto'] support ['relatedto'] lift ['relatedto'] wrestle
+child ['relatedto'] support ['relatedto'] power ['motivatedbygoal'] wrestle
+child ['relatedto'] support ['relatedto'] strength ['causesdesire'] wrestle
+child ['relatedto'] toy ['relatedto'] consider ['mannerof'] wrestle
+child ['relatedto'] trouble ['isa', 'relatedto', 'synonym'] difficulty ['relatedto'] wrestle
+child ['relatedto'] trouble ['synonym'] move ['relatedto'] wrestle
+child ['relatedto'] wane ['relatedto'] power ['motivatedbygoal'] wrestle
+child ['usedfor'] fun ['distinctfrom', 'hasproperty'] exercise ['hasprerequisite'] wrestle
+child ['usedfor'] fun ['usedfor'] wrestling ['formof', 'relatedto', 'synonym'] wrestle
+child ['usedfor'] loving ['distinctfrom'] fight ['mannerof'] wrestle
+child ['usedfor'] playing_ball ['usedfor'] exercise ['hasprerequisite'] wrestle
+child ['usedfor'] raising ['relatedto'] lift ['relatedto'] wrestle
+child ['relatedto'] abandonment ['relatedto', 'derivedfrom'] abandon ['relatedto'] exercise ['hasprerequisite'] wrestle
+child ['relatedto'] abandonment ['isa'] disposal ['isa'] power ['motivatedbygoal'] wrestle
+child ['relatedto'] abandonment ['isa'] bolt ['mannerof'] move ['relatedto'] wrestle
+child ['relatedto'] abandonment ['isa'] discard ['relatedto'] throw ['relatedto'] wrestle

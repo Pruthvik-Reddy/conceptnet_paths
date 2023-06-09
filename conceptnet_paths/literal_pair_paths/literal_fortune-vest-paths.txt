@@ -1,0 +1,100 @@
+fortune ['relatedto'] good ['relatedto'] athlete ['relatedto'] vest
+fortune ['relatedto'] good ['relatedto'] permanent ['relatedto'] vest
+fortune ['atlocation'] bank ['isa'] array ['relatedto'] vest
+fortune ['relatedto'] rich ['hasprerequisite'] invest ['relatedto', 'synonym'] vest
+fortune ['relatedto'] big ['relatedto'] garment ['isa', 'relatedto'] vest
+fortune ['relatedto'] big ['relatedto'] coat ['relatedto'] vest
+fortune ['relatedto'] big ['relatedto'] dress ['mannerof'] vest
+fortune ['synonym'] lot ['relatedto'] coat ['relatedto'] vest
+fortune ['relatedto'] money ['relatedto'] invest ['relatedto', 'synonym'] vest
+fortune ['relatedto'] gift ['relatedto', 'synonym'] give ['mannerof'] vest
+fortune ['relatedto'] chance ['antonym'] chest ['relatedto'] vest
+fortune ['relatedto'] show ['mannerof'] give ['mannerof'] vest
+fortune ['isa'] condition ['relatedto'] permanent ['relatedto'] vest
+fortune ['atlocation'] treasure_chest ['isa', 'usedfor', 'relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] amount ['relatedto'] give ['mannerof'] vest
+fortune ['relatedto'] circus ['relatedto'] top ['isa', 'relatedto'] vest
+fortune ['relatedto'] inside ['relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] large ['relatedto'] coat ['relatedto'] vest
+fortune ['relatedto'] name ['relatedto'] give ['mannerof'] vest
+fortune ['relatedto'] tarot ['relatedto'] permanent ['relatedto'] vest
+fortune ['relatedto'] tarot ['relatedto'] suit ['relatedto'] vest
+fortune ['relatedto'] title ['relatedto'] top ['isa', 'relatedto'] vest
+fortune ['relatedto'] tv ['relatedto', 'synonym'] transvestite ['etymologicallyrelatedto'] vest
+fortune ['relatedto'] vast ['relatedto'] array ['relatedto'] vest
+fortune ['relatedto'] manner ['relatedto'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+fortune ['relatedto'] happen ['mannerof'] give ['mannerof'] vest
+fortune ['usedfor'] investing ['formof', 'relatedto'] invest ['relatedto', 'synonym'] vest
+fortune ['relatedto'] accident ['antonym', 'distinctfrom'] purpose ['relatedto'] invest ['relatedto', 'synonym'] vest
+fortune ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['distinctfrom', 'relatedto'] suit ['relatedto'] vest
+fortune ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['isa', 'relatedto'] sleeve ['distinctfrom'] vest
+fortune ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['relatedto'] clothes ['relatedto'] vest
+fortune ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['synonym'] chest ['relatedto'] vest
+fortune ['relatedto'] accident ['etymologicallyrelatedto', 'relatedto'] case ['synonym'] jacket ['relatedto'] vest
+fortune ['relatedto'] accident ['isa', 'relatedto'] break ['synonym'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] damage ['relatedto'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] money ['relatedto'] invest ['relatedto', 'synonym'] vest
+fortune ['relatedto'] accident ['relatedto'] appearance ['relatedto', 'synonym'] garb ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] appearance ['relatedto'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] chance ['antonym'] chest ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] number ['relatedto'] clothing ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] point ['relatedto'] top ['isa', 'relatedto'] vest
+fortune ['relatedto'] accident ['relatedto', 'synonym'] property ['relatedto'] cestuy_que_trust ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto', 'synonym'] property ['relatedto'] change_hands ['mannerof'] vest
+fortune ['relatedto'] accident ['relatedto', 'synonym'] property ['relatedto'] contingent_remainder ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] attribute ['atlocation'] array ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] claim ['antonym'] give ['mannerof'] vest
+fortune ['relatedto'] accident ['relatedto'] drop ['relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] fall ['mannerof'] change_hands ['mannerof'] vest
+fortune ['relatedto'] accident ['relatedto'] meet ['mannerof'] suit ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] slip ['relatedto'] clothing ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] slip ['relatedto'] dress ['mannerof'] vest
+fortune ['relatedto'] accident ['relatedto'] slip ['relatedto'] garment ['isa', 'relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] slip ['relatedto'] undergarment ['relatedto'] vest
+fortune ['relatedto'] accident ['relatedto'] slip ['relatedto'] sleeve ['distinctfrom'] vest
+fortune ['relatedto'] accident ['synonym'] change ['isa', 'relatedto'] clothing ['relatedto'] vest
+fortune ['relatedto'] accident ['synonym'] change ['antonym'] permanent ['relatedto'] vest
+fortune ['relatedto'] accident ['synonym'] change ['derivedfrom'] change_hands ['mannerof'] vest
+fortune ['relatedto'] accident ['synonym'] change ['mannerof'] dress ['mannerof'] vest
+fortune ['relatedto'] accident ['synonym'] condition ['relatedto'] permanent ['relatedto'] vest
+fortune ['relatedto'] accident ['synonym'] quality ['relatedto'] top ['isa', 'relatedto'] vest
+fortune ['relatedto'] accident ['synonym'] state ['mannerof'] give ['mannerof'] vest
+fortune ['relatedto'] accident ['synonym'] state ['relatedto'] singlet ['relatedto', 'synonym'] vest
+fortune ['relatedto'] future ['antonym', 'distinctfrom', 'relatedto'] present ['mannerof', 'relatedto', 'synonym'] give ['mannerof'] vest
+fortune ['relatedto'] future ['isa', 'relatedto'] time ['relatedto'] invest ['relatedto', 'synonym'] vest
+fortune ['relatedto'] future ['relatedto'] amillennialism ['relatedto'] permanent ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] back ['relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] bill ['relatedto'] fob ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] drill ['relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] ahead ['relatedto'] top ['isa', 'relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] events ['relatedto'] dress ['mannerof'] vest
+fortune ['relatedto'] future ['relatedto'] happen ['mannerof'] give ['mannerof'] vest
+fortune ['relatedto'] future ['relatedto'] range ['relatedto', 'synonym'] array ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] range ['relatedto'] top ['isa', 'relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] shiny ['relatedto'] dress ['mannerof'] vest
+fortune ['relatedto'] future ['relatedto'] times ['relatedto'] armor ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] hope ['relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] hope ['relatedto'] invest ['relatedto', 'synonym'] vest
+fortune ['relatedto'] future ['relatedto'] next ['relatedto'] button ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] position ['mannerof'] dress ['mannerof'] vest
+fortune ['relatedto'] future ['relatedto'] position ['relatedto'] button ['relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] position ['relatedto'] top ['isa', 'relatedto'] vest
+fortune ['relatedto'] future ['relatedto'] predict ['relatedto'] give ['mannerof'] vest
+fortune ['relatedto'] happiness ['atlocation'] celebration ['relatedto'] vestment ['relatedto'] vest
+fortune ['relatedto'] happiness ['isa'] album ['relatedto', 'synonym'] jacket ['relatedto'] vest
+fortune ['relatedto'] happiness ['relatedto'] hope ['relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] happiness ['relatedto'] hope ['relatedto'] invest ['relatedto', 'synonym'] vest
+fortune ['relatedto'] happiness ['relatedto'] laugh ['relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] happiness ['relatedto'] toy ['relatedto'] top ['isa', 'relatedto'] vest
+fortune ['relatedto'] happiness ['relatedto'] toy ['relatedto'] chest ['relatedto'] vest
+fortune ['relatedto'] happiness ['relatedto'] war ['relatedto'] armor ['relatedto'] vest
+fortune ['relatedto'] happiness ['relatedto'] war ['relatedto'] armour ['relatedto'] vest
+fortune ['relatedto'] arrival ['isa'] action ['capableof'] dress ['mannerof'] vest
+fortune ['relatedto'] arrival ['isa'] action ['relatedto'] give ['mannerof'] vest
+fortune ['relatedto'] arrival ['isa'] action ['relatedto'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+fortune ['relatedto'] arrival ['isa'] action ['synonym'] suit ['relatedto'] vest
+fortune ['relatedto'] arrival ['relatedto'] getting ['relatedto'] dress ['mannerof'] vest
+fortune ['relatedto'] arrival ['isa', 'synonym'] appearance ['relatedto', 'synonym'] garb ['relatedto'] vest
+fortune ['relatedto'] arrival ['isa', 'synonym'] appearance ['relatedto'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+fortune ['relatedto'] arrival ['isa'] entrance ['relatedto'] vestibule ['etymologicallyrelatedto', 'relatedto'] vest
+fortune ['relatedto'] arrival ['isa'] return ['antonym', 'relatedto'] give ['mannerof'] vest

@@ -1,0 +1,100 @@
+jewel ['relatedto'] piece ['relatedto'] door ['relatedto', 'partof', 'atlocation'] lock
+jewel ['relatedto'] piece ['relatedto'] move ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] master ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] toupee ['relatedto'] lock
+jewel ['relatedto'] piece ['synonym'] firearm ['partof'] lock
+jewel ['relatedto'] drop ['distinctfrom'] safe ['relatedto'] lock
+jewel ['relatedto'] drop ['antonym', 'distinctfrom', 'relatedto'] hold ['mannerof'] lock
+jewel ['relatedto'] drop ['antonym'] lift ['relatedto'] lock
+jewel ['relatedto'] drop ['mannerof'] move ['relatedto'] lock
+jewel ['relatedto'] drop ['relatedto'] pass ['mannerof'] lock
+jewel ['relatedto'] drop ['relatedto'] key ['usedfor', 'relatedto'] lock
+jewel ['relatedto'] precious ['relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] crown ['relatedto'] thing ['relatedto'] lock
+jewel ['relatedto'] crown ['relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] crown ['partof'] road ['relatedto'] lock
+jewel ['relatedto'] crown ['relatedto'] pound ['relatedto'] lock
+jewel ['relatedto'] gold ['relatedto'] bar ['relatedto'] lock
+jewel ['relatedto'] gold ['relatedto'] bat ['relatedto'] lock
+jewel ['relatedto'] gold ['isa', 'relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] gold ['etymologicallyrelatedto'] goldilocks ['etymologicallyrelatedto'] lock
+jewel ['relatedto'] watch ['relatedto'] gongoozle ['relatedto'] lock
+jewel ['relatedto'] watch ['relatedto'] ward ['relatedto'] lock
+jewel ['relatedto'] watch ['relatedto'] device ['relatedto'] lock
+jewel ['relatedto'] stone ['relatedto'] bar ['relatedto'] lock
+jewel ['relatedto'] stone ['relatedto'] construct ['mannerof'] lock
+jewel ['relatedto'] stone ['antonym'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] stone ['relatedto', 'partof'] pound ['relatedto'] lock
+jewel ['relatedto'] stone ['relatedto'] fist ['relatedto'] lock
+jewel ['relatedto'] rock ['distinctfrom', 'relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] rock ['relatedto'] curl ['relatedto', 'synonym'] lock
+jewel ['relatedto'] rock ['mannerof', 'relatedto'] move ['relatedto'] lock
+jewel ['relatedto'] rock ['synonym'] protection ['usedfor', 'relatedto'] lock
+jewel ['isa'] solitaire ['relatedto'] marriage ['relatedto'] lock
+jewel ['relatedto'] ring ['usedfor'] engage ['mannerof', 'synonym'] lock
+jewel ['relatedto'] ring ['relatedto'] marriage ['relatedto'] lock
+jewel ['relatedto'] ring ['relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] ring ['derivedfrom'] lockring ['derivedfrom'] lock
+jewel ['relatedto'] ring ['isa', 'relatedto', 'derivedfrom'] ringlet ['relatedto', 'synonym'] lock
+jewel ['relatedto'] ring ['relatedto'] hole ['atlocation'] lock
+jewel ['relatedto'] ring ['relatedto'] wrestling ['relatedto'] lock
+jewel ['relatedto'] bearing ['relatedto'] device ['relatedto'] lock
+jewel ['relatedto'] headlight ['relatedto'] road ['relatedto'] lock
+jewel ['relatedto', 'derivedfrom'] jewellery ['relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['isa', 'relatedto'] jewelry ['atlocation'] safe ['relatedto'] lock
+jewel ['isa', 'relatedto'] jewelry ['relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] foil ['isa', 'relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] pivot ['relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] pivot ['mannerof', 'relatedto'] turn ['relatedto'] lock
+jewel ['relatedto'] pivot ['relatedto'] wheel ['relatedto'] lock
+jewel ['relatedto'] pivot ['relatedto'] rowlock ['derivedfrom'] lock
+jewel ['relatedto'] decorate ['relatedto'] tuft ['relatedto'] lock
+jewel ['relatedto'] piece ['usedfor'] fix ['antonym'] move ['relatedto'] lock
+jewel ['relatedto'] piece ['usedfor'] fix ['relatedto'] user ['relatedto'] lock
+jewel ['relatedto'] piece ['usedfor'] fix ['relatedto'] forelock ['isa'] lock
+jewel ['relatedto'] piece ['usedfor'] fix ['relatedto'] grapple ['relatedto'] lock
+jewel ['relatedto'] piece ['usedfor'] fix ['relatedto'] seize ['relatedto'] lock
+jewel ['relatedto'] piece ['usedfor'] fix ['synonym'] fasten ['usedfor', 'mannerof', 'relatedto'] lock
+jewel ['relatedto'] piece ['usedfor'] fix ['synonym'] hole ['atlocation'] lock
+jewel ['relatedto'] piece ['relatedto'] peace ['isa'] security ['usedfor', 'relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] smaller ['relatedto'] lake ['etymologicallyrelatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] man ['derivedfrom'] manlock ['derivedfrom'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] man ['relatedto'] canal ['relatedto', 'partof'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] man ['relatedto'] master ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] man ['relatedto'] road ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] man ['relatedto'] toupee ['relatedto'] lock
+jewel ['relatedto'] piece ['isa'] creation ['isa'] master ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['atlocation'] entrance ['atlocation'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['relatedto', 'atlocation'] front_door ['atlocation'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['atlocation'] staircase ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['relatedto', 'derivedfrom'] lockhouse ['relatedto', 'derivedfrom'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['hasa', 'relatedto', 'partof'] door ['relatedto', 'partof', 'atlocation'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['hasa', 'relatedto'] doors ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['isa'] thing ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['madeof'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['relatedto'] bar ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['relatedto'] gate ['relatedto', 'partof', 'atlocation'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['relatedto'] four ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['relatedto'] road ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['relatedto'] keep ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['relatedto'] move ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] house ['usedfor'] protection ['usedfor', 'relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] graffiti ['relatedto'] dub ['relatedto'] lock
+jewel ['relatedto'] piece ['isa', 'relatedto'] article ['relatedto'] thing ['relatedto'] lock
+jewel ['relatedto'] piece ['isa', 'relatedto'] article ['relatedto'] combination ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] column ['relatedto', 'synonym'] post ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] column ['relatedto'] hold ['mannerof'] lock
+jewel ['relatedto'] piece ['relatedto'] column ['relatedto'] keyhole ['relatedto', 'partof'] lock
+jewel ['relatedto'] piece ['relatedto'] column ['relatedto'] metal ['madeof', 'relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] stick ['relatedto'] post ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] stick ['isa', 'relatedto'] limb ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] stick ['mannerof'] fasten ['usedfor', 'mannerof', 'relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] stick ['relatedto'] bar ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] stick ['relatedto'] bat ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] stick ['relatedto'] handle ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto', 'synonym'] stick ['relatedto'] device ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] bank ['relatedto'] safe ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] bank ['relatedto'] container ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] bank ['relatedto'] doors ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] bank ['relatedto'] keep ['relatedto'] lock
+jewel ['relatedto'] piece ['relatedto'] bank ['relatedto'] locker ['etymologicallyrelatedto', 'relatedto', 'atlocation'] lock

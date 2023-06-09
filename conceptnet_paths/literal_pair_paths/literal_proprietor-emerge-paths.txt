@@ -1,0 +1,100 @@
+proprietor ['isa'] human ['relatedto'] energy ['relatedto'] emerge
+proprietor ['relatedto'] business ['relatedto'] springspotter ['relatedto'] emerge
+proprietor ['isa', 'relatedto'] property ['relatedto'] emergent ['etymologicallyrelatedto', 'relatedto'] emerge
+proprietor ['relatedto'] result ['synonym'] arise ['synonym'] emerge
+proprietor ['relatedto'] result ['relatedto'] energy ['relatedto'] emerge
+proprietor ['relatedto'] result ['relatedto'] issue ['synonym'] emerge
+proprietor ['relatedto'] run ['relatedto', 'synonym'] escape ['synonym'] emerge
+proprietor ['relatedto'] run ['causesdesire'] emergency ['relatedto'] emerge
+proprietor ['relatedto'] run ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] child ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] children ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['antonym'] machine ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] aircraft ['relatedto'] hatch ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] band ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] bar ['relatedto'] dive ['antonym'] emerge
+proprietor ['isa'] human ['atlocation'] bar ['relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['atlocation'] bed ['relatedto'] arise ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] bed ['isa', 'relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['atlocation'] chair ['relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['atlocation'] charge ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto', 'atlocation'] coffin ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['atlocation'] command ['relatedto'] escape ['synonym'] emerge
+proprietor ['isa'] human ['relatedto', 'atlocation'] home ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['atlocation'] jail ['relatedto'] escape ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] library ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] lie ['antonym'] arise ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] lie ['relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['atlocation'] mine ['relatedto'] hatch ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] mine ['relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['atlocation'] motion ['relatedto'] arise ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] motion ['relatedto'] dive ['antonym'] emerge
+proprietor ['isa'] human ['atlocation'] motion ['isa', 'relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] moving_car ['hasprerequisite'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] plane ['isa', 'relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['atlocation'] pool ['relatedto'] dive ['antonym'] emerge
+proprietor ['isa'] human ['atlocation'] prison ['antonym', 'relatedto'] escape ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] room ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] show ['mannerof', 'relatedto'] appear ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['atlocation'] show ['synonym'] materialize ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] space_shuttle ['relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['atlocation'] spacecraft ['relatedto'] hatch ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] state ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] state ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['atlocation'] submarine ['relatedto'] hatch ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] submarine ['relatedto'] submerge ['relatedto'] emerge
+proprietor ['isa'] human ['atlocation'] thought ['relatedto'] arise ['synonym'] emerge
+proprietor ['isa'] human ['relatedto', 'atlocation'] village ['isa', 'instanceof'] burst ['mannerof'] emerge
+proprietor ['isa'] human ['atlocation'] mouth ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto', 'atlocation'] skin ['isa', 'relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto', 'atlocation'] soul ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['capableof'] stand ['relatedto', 'entails'] arise ['synonym'] emerge
+proprietor ['isa'] human ['capableof'] one ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['desires'] money ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['hasproperty'] nick ['relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['isa'] police ['relatedto'] emergency ['relatedto'] emerge
+proprietor ['isa'] human ['partof'] emotion ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['partof'] ecology ['relatedto'] emergence ['relatedto'] emerge
+proprietor ['isa'] human ['partof'] nature ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['partof'] nature ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] block ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['relatedto'] blow ['mannerof'] burst ['mannerof'] emerge
+proprietor ['isa'] human ['relatedto'] body ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['relatedto'] body ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] building ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] carcass ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['relatedto'] care ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] coat ['synonym'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto'] cut ['relatedto'] escape ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] dog ['relatedto'] hatch ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] ear ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['relatedto'] earth ['hasa'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto'] energy ['relatedto'] burst ['mannerof'] emerge
+proprietor ['isa'] human ['relatedto'] eye ['relatedto'] appear ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto'] face ['isa', 'relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto'] feel ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] head ['relatedto'] dive ['antonym'] emerge
+proprietor ['isa'] human ['relatedto'] head ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] hear ['relatedto'] appear ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto'] heikegani ['relatedto'] shell ['mannerof'] emerge
+proprietor ['isa'] human ['relatedto'] race ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] smart ['relatedto'] perk ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] two ['relatedto'] appear ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto'] type ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] world ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] life ['relatedto', 'hasproperty'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] macula ['relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto'] milk ['hasa'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] nose ['relatedto'] dive ['antonym'] emerge
+proprietor ['isa'] human ['relatedto'] psychoenergetics ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] rib ['relatedto'] surface ['mannerof', 'synonym'] emerge
+proprietor ['isa'] human ['relatedto'] run ['relatedto', 'synonym'] escape ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] run ['causesdesire'] emergency ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] run ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] sewer ['relatedto'] issue ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] sex_economy ['relatedto'] energy ['relatedto'] emerge
+proprietor ['isa'] human ['relatedto'] sound ['relatedto'] arise ['synonym'] emerge
+proprietor ['isa'] human ['relatedto'] sound ['relatedto'] dive ['antonym'] emerge
+proprietor ['isa'] human ['relatedto'] sound ['isa', 'relatedto'] energy ['relatedto'] emerge

@@ -1,0 +1,100 @@
+tree ['relatedto'] board ['relatedto'] top
+tree ['isa', 'relatedto'] box ['relatedto'] top
+tree ['relatedto'] branch ['relatedto'] top
+tree ['relatedto'] clear ['synonym'] top
+tree ['usedfor', 'relatedto'] climb ['relatedto'] top
+tree ['relatedto'] mountain ['relatedto'] top
+tree ['relatedto', 'partof'] crown ['isa', 'relatedto', 'synonym'] top
+tree ['relatedto'] flower ['relatedto'] top
+tree ['relatedto'] part ['relatedto'] top
+tree ['antonym', 'locatednear', 'relatedto', 'atlocation'] squirrel ['relatedto'] top
+tree ['relatedto'] lop ['relatedto'] top
+tree ['relatedto'] mast ['relatedto'] top
+tree ['relatedto'] toy ['relatedto'] top
+tree ['relatedto'] location ['relatedto'] top
+tree ['relatedto'] pole ['relatedto'] top
+tree ['relatedto'] yard ['relatedto'] top
+tree ['relatedto'] platform ['isa'] top
+tree ['relatedto'] treetop ['derivedfrom'] top
+tree ['relatedto'] present ['relatedto', 'atlocation'] box ['relatedto'] top
+tree ['relatedto'] present ['mannerof', 'relatedto'] spin ['capableof', 'relatedto'] top
+tree ['relatedto'] present ['relatedto'] cake ['relatedto'] top
+tree ['relatedto'] present ['relatedto'] lie ['mannerof'] top
+tree ['relatedto'] present ['relatedto'] point ['relatedto'] top
+tree ['relatedto'] present ['relatedto'] toy ['relatedto'] top
+tree ['etymologicallyrelatedto'] trough ['antonym', 'relatedto'] wave ['relatedto'] top
+tree ['capableof', 'relatedto'] grow ['mannerof'] cut ['relatedto'] top
+tree ['capableof', 'relatedto'] grow ['relatedto', 'synonym'] raise ['relatedto'] top
+tree ['capableof', 'relatedto'] grow ['relatedto'] poll ['isa'] top
+tree ['capableof', 'relatedto'] grow ['relatedto'] pot ['relatedto'] top
+tree ['capableof', 'relatedto'] grow ['synonym'] turn ['isa'] top
+tree ['atlocation'] earth ['hasa'] surface ['relatedto'] top
+tree ['atlocation'] earth ['isa'] location ['relatedto'] top
+tree ['atlocation'] earth ['relatedto'] hill ['relatedto'] top
+tree ['atlocation'] earth ['relatedto'] mountain ['relatedto'] top
+tree ['atlocation'] ground ['relatedto'] base ['antonym', 'distinctfrom'] top
+tree ['atlocation'] ground ['antonym'] roof ['relatedto'] top
+tree ['atlocation'] ground ['antonym', 'isa', 'relatedto'] hill ['relatedto'] top
+tree ['atlocation'] ground ['antonym'] mountain ['relatedto'] top
+tree ['atlocation'] ground ['antonym', 'relatedto'] slope ['distinctfrom'] top
+tree ['atlocation'] ground ['isa', 'relatedto'] surface ['relatedto'] top
+tree ['atlocation'] ground ['mannerof', 'relatedto'] hit ['mannerof'] top
+tree ['atlocation'] ground ['mannerof'] reach ['mannerof'] top
+tree ['atlocation'] ground ['relatedto'] bottom ['antonym', 'distinctfrom', 'relatedto'] top
+tree ['atlocation'] ground ['relatedto'] foot ['antonym'] top
+tree ['atlocation'] ground ['relatedto'] beneath ['antonym', 'distinctfrom'] top
+tree ['atlocation'] ground ['relatedto'] covering ['isa'] top
+tree ['atlocation'] ground ['relatedto'] general ['relatedto'] top
+tree ['atlocation'] ground ['relatedto'] low ['distinctfrom'] top
+tree ['atlocation'] ground ['relatedto'] yard ['relatedto'] top
+tree ['atlocation'] ground ['relatedto'] pepper_pot ['relatedto'] top
+tree ['atlocation'] ground ['relatedto'] pot ['relatedto'] top
+tree ['atlocation'] ground ['relatedto'] range ['relatedto'] top
+tree ['atlocation'] ground ['relatedto'] twist ['relatedto'] top
+tree ['desires'] water ['antonym', 'relatedto'] bread ['relatedto'] top
+tree ['desires'] water ['antonym', 'relatedto'] wave ['relatedto'] top
+tree ['desires'] water ['atlocation'] bottom ['antonym', 'distinctfrom', 'relatedto'] top
+tree ['desires'] water ['relatedto', 'desires', 'atlocation'] turtle ['relatedto'] top
+tree ['desires'] water ['atlocation'] bottle ['relatedto'] top
+tree ['desires'] water ['relatedto', 'atlocation'] iceberg ['relatedto'] top
+tree ['desires'] water ['atlocation'] jug ['relatedto'] top
+tree ['desires'] water ['atlocation'] roof ['relatedto'] top
+tree ['desires'] water ['atlocation'] suds ['relatedto'] top
+tree ['desires'] water ['relatedto', 'derivedfrom'] topwater ['derivedfrom'] top
+tree ['desires'] water ['hasa'] surface ['relatedto'] top
+tree ['desires'] water ['hasprerequisite'] climb ['relatedto'] top
+tree ['desires'] water ['relatedto', 'hasproperty'] clear ['synonym'] top
+tree ['desires'] water ['mannerof', 'relatedto'] fill ['relatedto'] top
+tree ['desires'] water ['mannerof'] supply ['mannerof'] top
+tree ['desires'] water ['relatedto'] board ['relatedto'] top
+tree ['desires'] water ['relatedto'] branch ['relatedto'] top
+tree ['desires'] water ['relatedto'] brim ['relatedto'] top
+tree ['desires'] water ['relatedto'] captain ['relatedto'] top
+tree ['desires'] water ['relatedto'] coat ['relatedto'] top
+tree ['desires'] water ['relatedto'] foam ['relatedto'] top
+tree ['desires'] water ['relatedto'] header ['relatedto'] top
+tree ['desires'] water ['relatedto'] lead ['synonym'] top
+tree ['desires'] water ['relatedto'] overshot ['relatedto'] top
+tree ['desires'] water ['relatedto'] pot ['relatedto'] top
+tree ['desires'] water ['relatedto'] shell ['relatedto'] top
+tree ['desires'] water ['relatedto'] ship ['partof'] top
+tree ['hasproperty'] alive ['relatedto', 'hasproperty'] flower ['relatedto'] top
+tree ['hasproperty'] alive ['relatedto'] hill ['relatedto'] top
+tree ['hasproperty'] alive ['relatedto'] squirrel ['relatedto'] top
+tree ['hasproperty'] alive ['relatedto'] wick ['relatedto'] top
+tree ['relatedto', 'atlocation'] bird ['atlocation'] roof ['relatedto'] top
+tree ['relatedto', 'atlocation'] bird ['relatedto'] high ['relatedto'] top
+tree ['relatedto', 'atlocation'] bird ['relatedto'] branch ['relatedto'] top
+tree ['relatedto', 'atlocation'] bird ['relatedto'] cap ['isa', 'relatedto', 'synonym'] top
+tree ['relatedto', 'atlocation'] bird ['relatedto'] crown ['isa', 'relatedto', 'synonym'] top
+tree ['relatedto', 'atlocation'] bird ['relatedto'] culmen ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['relatedto', 'atlocation'] pot ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['atlocation'] table ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['distinctfrom', 'relatedto'] flower ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['isa'] escape ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['mannerof', 'relatedto'] bed ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['relatedto'] board ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['relatedto'] branch ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['relatedto'] hill ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['relatedto'] general ['relatedto'] top
+tree ['antonym', 'isa', 'mannerof', 'relatedto'] plant ['relatedto'] foot ['antonym'] top

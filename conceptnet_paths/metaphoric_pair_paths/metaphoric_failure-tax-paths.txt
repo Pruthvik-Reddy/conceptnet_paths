@@ -1,0 +1,100 @@
+failure ['relatedto'] ability ['isa'] form ['relatedto'] tax
+failure ['relatedto'] ability ['relatedto', 'synonym'] gift ['antonym'] tax
+failure ['relatedto'] retreat ['antonym'] charge ['mannerof', 'relatedto'] tax
+failure ['relatedto'] retreat ['relatedto'] return ['relatedto'] tax
+failure ['isa', 'relatedto'] defeat ['relatedto'] concession ['relatedto'] tax
+failure ['isa', 'relatedto'] defeat ['relatedto'] giving ['relatedto'] tax
+failure ['isa', 'relatedto'] defeat ['relatedto'] related ['relatedto'] tax
+failure ['formof', 'relatedto', 'derivedfrom', 'synonym'] fail ['relatedto'] task ['relatedto', 'synonym'] tax
+failure ['formof', 'relatedto', 'derivedfrom', 'synonym'] fail ['relatedto'] transaction ['relatedto'] tax
+failure ['atlocation'] casino ['atlocation'] money ['antonym', 'relatedto'] tax
+failure ['relatedto'] bathos ['relatedto'] subject ['relatedto'] tax
+failure ['relatedto'] turkey ['isa', 'relatedto'] country ['relatedto'] tax
+failure ['relatedto'] state ['relatedto'] bill ['relatedto'] tax
+failure ['relatedto'] state ['isa'] death ['antonym', 'relatedto'] tax
+failure ['relatedto'] state ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'atlocation'] country ['relatedto'] tax
+failure ['relatedto'] state ['isa'] indiana ['relatedto'] tax
+failure ['relatedto'] state ['isa'] obligation ['relatedto'] tax
+failure ['relatedto'] state ['isa', 'relatedto'] government ['relatedto'] tax
+failure ['relatedto'] state ['isa', 'relatedto', 'partof'] united_states ['relatedto'] tax
+failure ['relatedto'] state ['relatedto'] federal ['relatedto'] tax
+failure ['relatedto'] state ['relatedto'] law ['relatedto'] tax
+failure ['relatedto'] state ['relatedto'] national_insurance ['relatedto'] tax
+failure ['relatedto'] state ['relatedto'] render_unto_caesar ['relatedto'] tax
+failure ['relatedto'] state ['relatedto'] sales_tax ['isa', 'relatedto'] tax
+failure ['relatedto'] state ['relatedto'] national ['relatedto'] tax
+failure ['relatedto'] state ['relatedto'] tax_farming ['relatedto'] tax
+failure ['relatedto'] condition ['relatedto'] fine ['relatedto', 'similarto'] tax
+failure ['relatedto'] condition ['relatedto'] cense ['relatedto'] tax
+failure ['relatedto'] condition ['relatedto'] cost ['relatedto'] tax
+failure ['relatedto'] condition ['relatedto'] law ['relatedto'] tax
+failure ['relatedto'] lose ['relatedto'] death ['antonym', 'relatedto'] tax
+failure ['isa'] disorder ['antonym'] law ['relatedto'] tax
+failure ['isa'] disorder ['relatedto'] public ['relatedto'] tax
+failure ['isa'] fortune ['relatedto'] money ['antonym', 'relatedto'] tax
+failure ['isa'] fortune ['relatedto'] gift ['antonym'] tax
+failure ['isa'] fortune ['usedfor'] spending ['relatedto'] tax
+failure ['isa'] fortune ['antonym'] doom ['relatedto'] tax
+failure ['relatedto'] doomed ['relatedto'] death ['antonym', 'relatedto'] tax
+failure ['relatedto'] doomed ['formof', 'relatedto'] doom ['relatedto'] tax
+failure ['relatedto'] function ['mannerof', 'relatedto'] cut ['relatedto'] tax
+failure ['relatedto'] function ['isa'] duty ['isa', 'relatedto', 'synonym'] tax
+failure ['relatedto'] function ['antonym', 'relatedto'] form ['relatedto'] tax
+failure ['relatedto'] function ['mannerof', 'relatedto'] service ['relatedto'] tax
+failure ['relatedto'] function ['relatedto'] law ['relatedto'] tax
+failure ['relatedto'] function ['relatedto'] rate ['relatedto'] tax
+failure ['relatedto'] fatigue ['similarto'] duty ['isa', 'relatedto', 'synonym'] tax
+failure ['relatedto'] fatigue ['similarto'] corvee ['relatedto'] tax
+failure ['relatedto'] fatigue ['similarto'] strain ['mannerof'] tax
+failure ['isa', 'relatedto'] error ['relatedto'] value ['relatedto'] tax
+failure ['causes'] opening_business ['hasprerequisite'] money ['antonym', 'relatedto'] tax
+failure ['causes'] opening_business ['causes', 'usedfor'] income ['antonym', 'relatedto'] tax
+failure ['causes'] opening_business ['causes'] debt ['relatedto'] tax
+failure ['causes'] opening_business ['hasprerequisite'] funding ['relatedto'] tax
+failure ['causes'] taking_exam ['causes'] relief ['relatedto'] tax
+failure ['causesdesire'] commit_suicide ['causes'] death ['antonym', 'relatedto'] tax
+failure ['isa'] bankrupt ['relatedto'] debt ['relatedto'] tax
+failure ['isa', 'synonym'] bankruptcy ['relatedto'] debt ['relatedto'] tax
+failure ['isa'] breach ['relatedto'] law ['relatedto'] tax
+failure ['isa'] breach ['relatedto'] obligation ['relatedto'] tax
+failure ['isa', 'relatedto'] breakdown ['relatedto'] united_states ['relatedto'] tax
+failure ['isa'] default ['entails'] owe ['relatedto'] tax
+failure ['isa'] downfall ['relatedto'] death ['antonym', 'relatedto'] tax
+failure ['isa'] downfall ['synonym'] doom ['relatedto'] tax
+failure ['isa'] omission ['relatedto'] surcharge ['relatedto'] tax
+failure ['isa'] happening ['relatedto'] inevitable ['relatedto'] tax
+failure ['isa'] loss ['relatedto'] death ['antonym', 'relatedto'] tax
+failure ['isa'] loss ['relatedto'] debt ['relatedto'] tax
+failure ['isa'] loss ['relatedto'] expense ['relatedto'] tax
+failure ['isa'] loss ['isa'] squeeze ['relatedto'] tax
+failure ['isa'] loss ['relatedto'] stuffing ['relatedto'] tax
+failure ['isa', 'relatedto'] miss ['mannerof'] cut ['relatedto'] tax
+failure ['isa', 'relatedto'] miss ['relatedto'] es ['relatedto'] tax
+failure ['isa', 'relatedto'] miss ['relatedto'] deadline ['relatedto'] tax
+failure ['relatedto'] anosognosia ['relatedto'] deficit ['relatedto'] tax
+failure ['relatedto'] circle_drain ['relatedto'] inevitable ['relatedto'] tax
+failure ['relatedto'] clusterfuck ['relatedto'] rape ['relatedto'] tax
+failure ['relatedto'] death_spiral ['relatedto'] inevitable ['relatedto'] tax
+failure ['relatedto'] intended ['relatedto'] budget ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] money ['antonym', 'relatedto'] tax
+failure ['relatedto'] item ['synonym'] subject ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] cost ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] decimate ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] price ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] property ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] value ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] collection ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] concession ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] deduction ['relatedto'] tax
+failure ['relatedto'] item ['relatedto'] task ['relatedto', 'synonym'] tax
+failure ['relatedto'] objective ['relatedto', 'synonym'] task ['relatedto', 'synonym'] tax
+failure ['relatedto'] perform ['mannerof', 'relatedto'] cut ['relatedto'] tax
+failure ['relatedto'] perform ['relatedto'] debt ['relatedto'] tax
+failure ['relatedto'] required ['relatedto', 'similarto'] mandatory ['relatedto'] tax
+failure ['relatedto'] required ['relatedto'] cost ['relatedto'] tax
+failure ['relatedto'] required ['relatedto'] duty ['isa', 'relatedto', 'synonym'] tax
+failure ['relatedto'] required ['relatedto'] price ['relatedto'] tax
+failure ['relatedto'] required ['relatedto', 'similarto'] obligatory ['relatedto'] tax
+failure ['relatedto'] fatal ['synonym'] inevitable ['relatedto'] tax
+failure ['relatedto'] fatal ['relatedto'] death ['antonym', 'relatedto'] tax
+failure ['relatedto'] fatal ['relatedto'] program ['relatedto'] tax

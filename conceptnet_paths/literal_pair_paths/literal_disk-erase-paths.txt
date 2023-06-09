@@ -1,0 +1,100 @@
+disk ['relatedto'] record ['antonym'] erase
+disk ['usedfor', 'relatedto'] storage ['relatedto'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] record ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] copy ['antonym'] erase
+disk ['isa', 'relatedto'] circle ['relatedto'] draw ['antonym'] erase
+disk ['isa', 'relatedto'] circle ['relatedto'] mark ['antonym', 'relatedto'] erase
+disk ['isa', 'relatedto'] circle ['relatedto'] record ['antonym'] erase
+disk ['relatedto'] thin ['relatedto'] remove ['relatedto'] erase
+disk ['relatedto'] thin ['mannerof'] draw ['antonym'] erase
+disk ['relatedto'] thin ['relatedto'] efface ['relatedto', 'synonym'] erase
+disk ['relatedto'] save ['antonym'] kill ['mannerof'] erase
+disk ['relatedto'] save ['mannerof', 'relatedto'] record ['antonym'] erase
+disk ['relatedto'] save ['relatedto'] medium ['relatedto'] erase
+disk ['relatedto'] save ['relatedto'] storage ['relatedto'] erase
+disk ['relatedto', 'hasproperty'] flat ['relatedto'] print ['antonym'] erase
+disk ['relatedto', 'hasproperty'] flat ['relatedto'] record ['antonym'] erase
+disk ['relatedto'] fragmentation ['isa'] storage ['relatedto'] erase
+disk ['etymologicallyrelatedto'] desk ['atlocation'] eraser ['relatedto', 'derivedfrom'] erase
+disk ['hasproperty'] round ['relatedto'] record ['antonym'] erase
+disk ['atlocation'] computer ['relatedto'] copy ['antonym'] erase
+disk ['atlocation'] computer ['relatedto'] print ['antonym'] erase
+disk ['atlocation'] computer ['relatedto'] storage ['relatedto'] erase
+disk ['relatedto'] record ['relatedto'] copy ['antonym'] erase
+disk ['relatedto'] record ['hasa', 'relatedto'] information ['relatedto'] erase
+disk ['relatedto'] record ['relatedto'] mark ['antonym', 'relatedto'] erase
+disk ['relatedto'] record ['relatedto'] format ['relatedto'] erase
+disk ['relatedto'] record ['relatedto'] medium ['relatedto'] erase
+disk ['relatedto'] record ['relatedto'] storage ['relatedto'] erase
+disk ['relatedto'] weight ['relatedto'] paint ['antonym'] erase
+disk ['isa'] point ['distinctfrom'] eraser ['relatedto', 'derivedfrom'] erase
+disk ['isa'] point ['isa', 'relatedto', 'synonym'] mark ['antonym', 'relatedto'] erase
+disk ['distinctfrom'] memory ['relatedto'] take_away ['mannerof'] erase
+disk ['distinctfrom'] memory ['relatedto'] information ['relatedto'] erase
+disk ['distinctfrom'] memory ['relatedto'] record ['antonym'] erase
+disk ['distinctfrom'] memory ['relatedto'] blank ['relatedto'] erase
+disk ['distinctfrom'] memory ['relatedto'] damnatio_memoriae ['relatedto'] erase
+disk ['distinctfrom'] memory ['relatedto', 'synonym'] storage ['relatedto'] erase
+disk ['relatedto'] write ['mannerof', 'relatedto'] copy ['antonym'] erase
+disk ['relatedto'] write ['antonym', 'distinctfrom', 'mannerof', 'relatedto'] print ['antonym'] erase
+disk ['relatedto'] write ['mannerof', 'relatedto'] draw ['antonym'] erase
+disk ['relatedto'] write ['mannerof', 'relatedto'] record ['antonym'] erase
+disk ['relatedto'] write ['relatedto'] mark ['antonym', 'relatedto'] erase
+disk ['relatedto'] write ['mannerof'] overwrite ['relatedto'] erase
+disk ['relatedto'] write ['relatedto'] eraser ['relatedto', 'derivedfrom'] erase
+disk ['relatedto'] write ['relatedto'] unwrite ['relatedto'] erase
+disk ['relatedto', 'synonym'] disc ['antonym', 'relatedto', 'synonym'] record ['antonym'] erase
+disk ['relatedto', 'synonym'] disc ['relatedto'] storage ['relatedto'] erase
+disk ['synonym'] album ['relatedto'] record ['antonym'] erase
+disk ['synonym'] album ['isa'] medium ['relatedto'] erase
+disk ['relatedto'] trash ['relatedto'] delete ['mannerof', 'relatedto', 'synonym'] erase
+disk ['relatedto'] cd ['distinctfrom', 'relatedto'] record ['antonym'] erase
+disk ['relatedto'] cd ['isa'] medium ['relatedto'] erase
+disk ['etymologicallyrelatedto'] dish ['relatedto'] remove ['relatedto'] erase
+disk ['etymologicallyrelatedto'] dish ['relatedto'] record ['antonym'] erase
+disk ['atlocation'] hard_drive ['relatedto'] gutmann_method ['relatedto'] erase
+disk ['relatedto', 'derivedfrom'] diskspace ['relatedto'] storage ['relatedto'] erase
+disk ['relatedto', 'hasproperty'] circular ['relatedto'] record ['antonym'] erase
+disk ['relatedto', 'hasproperty'] circular ['relatedto'] rub ['relatedto', 'entails'] erase
+disk ['isa'] round_shape ['relatedto'] record ['antonym'] erase
+disk ['isa'] hockey_puck ['usedfor'] kill ['mannerof'] erase
+disk ['isa', 'relatedto'] planchet ['relatedto'] blank ['relatedto'] erase
+disk ['isa', 'relatedto'] puck ['relatedto'] clear ['relatedto'] erase
+disk ['isa'] token ['relatedto'] mark ['antonym', 'relatedto'] erase
+disk ['relatedto'] bootable ['relatedto'] medium ['relatedto'] erase
+disk ['relatedto'] bootblock ['relatedto'] storage ['relatedto'] erase
+disk ['relatedto'] data_set ['relatedto'] record ['antonym'] erase
+disk ['relatedto'] data_set ['relatedto'] medium ['relatedto'] erase
+disk ['relatedto'] dvd ['isa'] medium ['relatedto'] erase
+disk ['relatedto'] gramophone ['relatedto'] record ['antonym'] erase
+disk ['relatedto'] hard_disk ['relatedto'] information ['relatedto'] erase
+disk ['relatedto'] phonograph ['relatedto'] record ['antonym'] erase
+disk ['relatedto'] vinyl ['relatedto'] record ['antonym'] erase
+disk ['relatedto'] file_shredder ['relatedto'] eraser ['relatedto', 'derivedfrom'] erase
+disk ['relatedto'] frisbee ['relatedto'] record ['antonym'] erase
+disk ['relatedto'] minidisc ['relatedto'] format ['relatedto'] erase
+disk ['relatedto'] slot ['relatedto'] kill ['mannerof'] erase
+disk ['usedfor', 'relatedto'] storage ['relatedto'] record ['antonym'] erase
+disk ['usedfor', 'relatedto'] storage ['relatedto'] demagnetise ['relatedto'] erase
+disk ['usedfor', 'relatedto'] storage ['relatedto'] demagnetize ['mannerof', 'relatedto'] erase
+disk ['usedfor', 'relatedto'] storage ['relatedto'] format ['relatedto'] erase
+disk ['relatedto'] udf ['relatedto'] format ['relatedto'] erase
+disk ['relatedto'] unformat ['relatedto'] format ['relatedto'] erase
+disk ['synonym'] phonograph_record ['relatedto', 'synonym'] record ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['antonym', 'relatedto'] base ['relatedto'] generate ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['antonym', 'relatedto'] base ['relatedto'] medium ['relatedto'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] negative ['relatedto'] print ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] land ['relatedto'] medium ['relatedto'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] animal ['isa', 'relatedto'] sponge ['mannerof'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] animal ['relatedto'] rub ['relatedto', 'entails'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] house ['relatedto'] draw ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] house ['relatedto'] paint ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] home ['relatedto'] paint ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] good ['relatedto'] clear ['relatedto'] erase
+disk ['isa', 'relatedto'] plate ['relatedto'] good ['relatedto'] rub ['relatedto', 'entails'] erase
+disk ['isa', 'relatedto'] plate ['relatedto', 'atlocation'] cake ['relatedto'] sponge ['mannerof'] erase
+disk ['isa', 'relatedto'] plate ['atlocation'] colors ['relatedto'] draw ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['atlocation'] colors ['relatedto'] paint ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['atlocation'] design ['relatedto'] print ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['atlocation'] design ['relatedto'] draw ['antonym'] erase
+disk ['isa', 'relatedto'] plate ['atlocation'] dust ['entails'] remove ['relatedto'] erase

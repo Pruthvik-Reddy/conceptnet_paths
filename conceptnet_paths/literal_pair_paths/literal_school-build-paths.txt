@@ -1,0 +1,100 @@
+school ['relatedto'] house ['relatedto'] build
+school ['relatedto'] big ['relatedto'] build
+school ['relatedto'] board ['usedfor', 'relatedto'] build
+school ['relatedto'] break ['antonym'] build
+school ['antonym'] camp ['relatedto'] build
+school ['isa', 'relatedto'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+school ['isa', 'relatedto'] place ['relatedto'] build
+school ['relatedto'] play ['relatedto'] build
+school ['relatedto'] location ['relatedto'] build
+school ['relatedto'] form ['relatedto'] build
+school ['relatedto'] establishment ['relatedto'] establish ['mannerof', 'relatedto', 'synonym'] build
+school ['relatedto'] establishment ['isa'] structure ['relatedto'] build
+school ['relatedto'] establishment ['relatedto', 'synonym'] constitution ['relatedto'] build
+school ['relatedto'] remove ['relatedto'] break ['antonym'] build
+school ['relatedto'] remove ['relatedto'] destroy ['antonym', 'distinctfrom'] build
+school ['relatedto'] remove ['relatedto'] form ['relatedto'] build
+school ['relatedto', 'atlocation'] child ['relatedto', 'hasprerequisite'] play ['relatedto'] build
+school ['relatedto', 'atlocation'] child ['relatedto'] big ['relatedto'] build
+school ['relatedto', 'atlocation'] child ['relatedto'] place ['relatedto'] build
+school ['relatedto', 'atlocation'] child ['relatedto'] process ['relatedto'] build
+school ['relatedto', 'atlocation'] child ['relatedto'] house ['relatedto'] build
+school ['usedfor', 'relatedto', 'atlocation'] children ['relatedto'] camp ['relatedto'] build
+school ['usedfor', 'relatedto', 'atlocation'] children ['relatedto'] play ['relatedto'] build
+school ['relatedto', 'hasproperty', 'receivesaction'] boring ['antonym'] play ['relatedto'] build
+school ['relatedto', 'hasproperty', 'receivesaction'] boring ['relatedto', 'hasproperty'] work ['relatedto'] build
+school ['atlocation'] lunch ['relatedto'] break ['antonym'] build
+school ['atlocation'] lunch ['relatedto'] work ['relatedto'] build
+school ['atlocation'] lunch ['relatedto'] play ['relatedto'] build
+school ['atlocation'] human ['atlocation'] homes ['relatedto'] build
+school ['atlocation'] human ['atlocation'] pool ['relatedto'] build
+school ['atlocation'] human ['relatedto'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+school ['atlocation'] human ['relatedto'] statue ['relatedto'] build
+school ['atlocation'] human ['relatedto'] work ['relatedto'] build
+school ['relatedto'] defeat ['relatedto'] burn ['antonym'] build
+school ['relatedto'] defeat ['relatedto'] concession ['relatedto'] build
+school ['relatedto'] defeat ['relatedto'] demolish ['antonym'] build
+school ['relatedto'] defeat ['relatedto'] destroy ['antonym', 'distinctfrom'] build
+school ['relatedto'] defeat ['relatedto'] hammer ['motivatedbygoal', 'relatedto'] build
+school ['relatedto'] social ['relatedto'] fashion ['relatedto'] build
+school ['relatedto'] social ['relatedto'] undeveloped ['relatedto'] build
+school ['relatedto'] house ['atlocation'] material ['usedfor', 'relatedto'] build
+school ['relatedto'] house ['atlocation'] stuff ['relatedto'] build
+school ['relatedto'] house ['formof', 'relatedto'] houses ['relatedto'] build
+school ['relatedto'] house ['isa', 'relatedto'] place ['relatedto'] build
+school ['relatedto'] house ['isa', 'relatedto'] structure ['relatedto'] build
+school ['relatedto'] house ['isa', 'relatedto'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+school ['relatedto'] house ['isa'] play ['relatedto'] build
+school ['relatedto'] house ['receivesaction'] built ['formof', 'relatedto'] build
+school ['relatedto'] house ['relatedto'] bottle ['etymologicallyrelatedto'] build
+school ['relatedto'] house ['relatedto'] brick ['relatedto'] build
+school ['relatedto'] house ['relatedto'] camp ['relatedto'] build
+school ['relatedto'] house ['relatedto'] castle ['relatedto'] build
+school ['relatedto'] house ['relatedto'] construction ['relatedto'] build
+school ['relatedto'] house ['relatedto'] homebuilder ['relatedto'] build
+school ['relatedto'] house ['relatedto'] big ['relatedto'] build
+school ['relatedto'] house ['relatedto'] housewright ['relatedto'] build
+school ['relatedto'] house ['relatedto'] nest ['relatedto'] build
+school ['relatedto'] house ['relatedto'] plan ['relatedto'] build
+school ['relatedto'] go ['relatedto'] decay ['antonym'] build
+school ['relatedto'] go ['relatedto'] action ['relatedto'] build
+school ['relatedto'] go ['relatedto'] activity ['relatedto'] build
+school ['relatedto'] go ['mannerof', 'relatedto'] work ['relatedto'] build
+school ['relatedto'] go ['relatedto'] camp ['relatedto'] build
+school ['relatedto'] go ['relatedto'] castle ['relatedto'] build
+school ['relatedto'] go ['relatedto'] compile ['relatedto'] build
+school ['relatedto'] go ['relatedto'] fashion ['relatedto'] build
+school ['relatedto'] go ['relatedto'] part ['relatedto'] build
+school ['relatedto'] go ['relatedto'] increase ['relatedto'] build
+school ['relatedto'] go ['relatedto'] place ['relatedto'] build
+school ['relatedto'] go ['relatedto'] raise ['relatedto'] build
+school ['relatedto'] art ['relatedto'] activity ['relatedto'] build
+school ['relatedto'] art ['relatedto'] beauty ['relatedto'] build
+school ['relatedto'] art ['relatedto'] form ['relatedto'] build
+school ['relatedto'] art ['relatedto'] making ['relatedto'] build
+school ['relatedto'] art ['relatedto'] statue ['relatedto'] build
+school ['relatedto'] art ['relatedto'] stuff ['relatedto'] build
+school ['relatedto'] art ['relatedto'] work ['relatedto'] build
+school ['relatedto'] art ['relatedto'] fashion ['relatedto'] build
+school ['relatedto'] art ['relatedto'] play ['relatedto'] build
+school ['relatedto'] art ['usedfor'] tile ['usedfor'] build
+school ['relatedto', 'atlocation'] science ['relatedto'] activity ['relatedto'] build
+school ['relatedto', 'atlocation'] science ['isa'] architecture ['relatedto'] build
+school ['relatedto', 'atlocation'] science ['relatedto'] stuff ['relatedto'] build
+school ['relatedto', 'atlocation'] science ['relatedto'] work ['relatedto'] build
+school ['relatedto'] fail ['synonym'] decay ['antonym'] build
+school ['relatedto'] fail ['relatedto'] action ['relatedto'] build
+school ['relatedto'] fail ['synonym'] break ['antonym'] build
+school ['atlocation'] audience ['isa'] house ['relatedto'] build
+school ['atlocation'] audience ['relatedto'] play ['relatedto'] build
+school ['relatedto'] band ['isa'] house ['relatedto'] build
+school ['relatedto'] band ['isa', 'relatedto'] camp ['relatedto'] build
+school ['relatedto'] band ['isa', 'relatedto'] tool ['usedfor'] build
+school ['relatedto'] band ['relatedto'] making ['relatedto'] build
+school ['relatedto'] band ['relatedto'] play ['relatedto'] build
+school ['relatedto'] band ['relatedto'] player ['relatedto'] build
+school ['relatedto', 'atlocation'] room ['relatedto'] house ['relatedto'] build
+school ['relatedto', 'atlocation'] room ['atlocation'] tile ['usedfor'] build
+school ['relatedto', 'atlocation'] room ['isa', 'relatedto', 'synonym'] place ['relatedto'] build
+school ['relatedto', 'atlocation'] room ['relatedto', 'partof'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+school ['relatedto', 'atlocation'] room ['relatedto', 'synonym'] board ['usedfor', 'relatedto'] build

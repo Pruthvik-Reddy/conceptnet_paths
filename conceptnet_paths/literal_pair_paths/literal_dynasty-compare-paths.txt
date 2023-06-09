@@ -1,0 +1,100 @@
+dynasty ['relatedto'] long ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] china ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] part ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] part ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] rule ['relatedto'] see ['relatedto'] compare
+dynasty ['isa', 'relatedto'] ming ['relatedto'] relate ['relatedto'] compare
+dynasty ['relatedto'] sophy ['relatedto'] study ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] adjective ['isa'] comparative ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] adjective ['relatedto'] comparable ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] ancient ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] sleep ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] arm ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] leg ['relatedto'] par ['etymologicallyrelatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] leg ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] column ['relatedto'] parallel ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] position ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] position ['relatedto'] judge ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] position ['relatedto'] rate ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] position ['relatedto'] similar ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] stick ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] slash ['relatedto'] contrast ['antonym', 'distinctfrom', 'relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] slash ['relatedto'] similar ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] bar ['relatedto'] judge ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto', 'synonym'] time ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto', 'synonym'] time ['relatedto'] see ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] board ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] board ['relatedto'] obtain ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] branch ['relatedto'] different ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] stem ['mannerof'] check ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto', 'derivedfrom'] length ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] hold ['antonym'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] hold ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['antonym', 'relatedto'] distance ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['antonym', 'relatedto'] distance ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] belong ['relatedto', 'synonym'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] albatross ['relatedto'] par ['etymologicallyrelatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] arachnodactyly ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] beam ['relatedto'] balance ['synonym'] compare
+dynasty ['relatedto'] long ['relatedto'] coast ['relatedto'] parallel ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] course ['relatedto'] study ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] desk ['relatedto', 'atlocation'] study ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] dictionary ['relatedto'] study ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] division ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] doll ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] drop ['antonym', 'relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] european_radish ['relatedto'] distinguish ['relatedto', 'entails'] compare
+dynasty ['relatedto'] long ['relatedto'] ever ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] examination ['relatedto'] check ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] examination ['isa'] comparison ['relatedto', 'derivedfrom', 'synonym'] compare
+dynasty ['relatedto'] long ['relatedto'] examination ['relatedto'] study ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] examination ['relatedto'] analyze ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] extend ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] extend ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] farewell ['relatedto'] see ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] finger ['relatedto'] similar ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] foot ['antonym', 'relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] hall ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] history ['relatedto'] study ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] horse ['relatedto'] study ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] hour ['relatedto'] check ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] hour ['relatedto'] rate ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] inch ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] inch ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] line ['relatedto'] parallel ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] line ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] line ['relatedto'] illustration ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] line ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] line ['synonym'] contrast ['antonym', 'distinctfrom', 'relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] measure ['relatedto'] comparison ['relatedto', 'derivedfrom', 'synonym'] compare
+dynasty ['relatedto'] long ['relatedto'] measure ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] measure ['mannerof'] judge ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] measure ['mannerof', 'relatedto'] rate ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] measure ['relatedto'] criterion ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] measure ['relatedto'] obtain ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] measure ['synonym'] evaluate ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] measurement ['relatedto'] rate ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] baseline ['relatedto'] comparison ['relatedto', 'derivedfrom', 'synonym'] compare
+dynasty ['relatedto'] long ['relatedto'] large ['relatedto'] means ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] note ['relatedto'] finger ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto', 'synonym'] broad ['relatedto'] means ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] space ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] desire ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] pertain ['relatedto'] relate ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] mile ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] mile ['relatedto'] similar ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] mile ['relatedto'] rate ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] pants ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] past ['relatedto'] choose ['entails'] compare
+dynasty ['relatedto'] long ['relatedto'] pine ['relatedto'] resemble ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] quarter ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] rabbit ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] rail ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] railroad ['relatedto'] means ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] reach ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] record ['relatedto'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] record ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] rectangle ['relatedto'] parallel ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] rifle ['synonym'] go ['mannerof'] compare
+dynasty ['relatedto'] long ['relatedto'] rifle ['relatedto'] two ['relatedto'] compare
+dynasty ['relatedto'] long ['relatedto'] rifle ['relatedto'] similar ['relatedto'] compare

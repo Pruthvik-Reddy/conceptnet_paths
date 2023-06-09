@@ -1,0 +1,100 @@
+wall ['relatedto'] water ['relatedto', 'atlocation'] spray
+wall ['relatedto', 'atlocation'] paint ['relatedto'] spray
+wall ['relatedto'] water ['relatedto', 'atlocation'] fountain ['relatedto'] spray
+wall ['relatedto'] water ['relatedto', 'atlocation'] shower ['mannerof'] spray
+wall ['relatedto'] water ['atlocation'] waterfall ['atlocation'] spray
+wall ['relatedto'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] spray
+wall ['relatedto'] water ['madeof', 'relatedto'] water_vapor ['isa'] spray
+wall ['relatedto'] water ['mannerof', 'relatedto'] hose ['relatedto'] spray
+wall ['relatedto'] water ['relatedto'] branch ['relatedto'] spray
+wall ['relatedto'] water ['relatedto'] hydropult ['relatedto'] spray
+wall ['relatedto'] water ['relatedto'] jetwash ['relatedto'] spray
+wall ['relatedto'] water ['relatedto'] mist ['mannerof', 'relatedto'] spray
+wall ['relatedto'] water ['relatedto'] paint ['relatedto'] spray
+wall ['relatedto'] water ['relatedto'] plume ['relatedto'] spray
+wall ['relatedto'] water ['relatedto'] rooster_tail ['relatedto'] spray
+wall ['relatedto'] water ['relatedto'] spraydeck ['derivedfrom'] spray
+wall ['relatedto'] water ['relatedto'] sunbow ['relatedto'] spray
+wall ['relatedto'] water ['relatedto'] water_breaker ['relatedto'] spray
+wall ['relatedto'] one ['relatedto'] bog ['relatedto'] spray
+wall ['relatedto', 'partof', 'atlocation'] house ['partof', 'atlocation'] shower ['mannerof'] spray
+wall ['relatedto', 'partof', 'atlocation'] house ['etymologicallyrelatedto'] hose ['relatedto'] spray
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] paint ['relatedto'] spray
+wall ['relatedto'] art ['relatedto'] fine ['relatedto'] spray
+wall ['relatedto'] art ['relatedto'] paint ['relatedto'] spray
+wall ['relatedto'] art ['relatedto'] block ['relatedto'] spray
+wall ['relatedto'] defend ['relatedto'] cover ['mannerof'] spray
+wall ['relatedto'] spring ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] spray
+wall ['relatedto'] spring ['relatedto', 'synonym'] fountain ['relatedto'] spray
+wall ['relatedto'] home ['antonym', 'distinctfrom', 'relatedto'] away ['relatedto'] spray
+wall ['relatedto'] home ['atlocation'] dust ['relatedto'] spray
+wall ['relatedto'] home ['relatedto'] paint ['relatedto'] spray
+wall ['etymologicallyrelatedto', 'relatedto'] well ['hasa', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] spray
+wall ['etymologicallyrelatedto', 'relatedto'] well ['relatedto'] fine ['relatedto'] spray
+wall ['etymologicallyrelatedto', 'relatedto'] well ['relatedto'] fountain ['relatedto'] spray
+wall ['etymologicallyrelatedto', 'relatedto'] well ['relatedto'] block ['relatedto'] spray
+wall ['etymologicallyrelatedto', 'relatedto'] well ['relatedto'] liquid ['relatedto'] spray
+wall ['isa'] attic ['atlocation'] dust ['relatedto'] spray
+wall ['relatedto'] drum ['relatedto'] block ['relatedto'] spray
+wall ['relatedto'] drum ['relatedto'] liquid ['relatedto'] spray
+wall ['relatedto'] bed ['relatedto'] cover ['mannerof'] spray
+wall ['relatedto'] bed ['atlocation'] dust ['relatedto'] spray
+wall ['relatedto'] bed ['atlocation'] hair ['relatedto'] spray
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto'] cover ['mannerof'] spray
+wall ['antonym', 'isa', 'relatedto'] floor ['atlocation'] dust ['relatedto'] spray
+wall ['relatedto', 'partof', 'atlocation'] room ['atlocation'] cover ['mannerof'] spray
+wall ['relatedto', 'partof', 'atlocation'] room ['atlocation'] dust ['relatedto'] spray
+wall ['relatedto', 'partof', 'atlocation'] room ['usedfor', 'relatedto'] paint ['relatedto'] spray
+wall ['relatedto'] board ['relatedto'] water ['relatedto', 'atlocation'] spray
+wall ['relatedto'] board ['relatedto'] cover ['mannerof'] spray
+wall ['relatedto'] head ['relatedto'] block ['relatedto'] spray
+wall ['relatedto'] head ['relatedto', 'partof', 'atlocation'] hair ['relatedto'] spray
+wall ['relatedto'] head ['relatedto'] sprig ['relatedto'] spray
+wall ['relatedto'] head ['synonym'] branch ['relatedto'] spray
+wall ['relatedto'] boil ['relatedto'] water ['relatedto', 'atlocation'] spray
+wall ['relatedto'] boil ['capableof', 'relatedto'] liquid ['relatedto'] spray
+wall ['relatedto'] brick ['isa', 'relatedto'] block ['relatedto'] spray
+wall ['relatedto'] hanging ['relatedto'] branch ['relatedto'] spray
+wall ['relatedto'] flat ['relatedto'] flask ['relatedto'] spray
+wall ['relatedto'] ceiling ['usedfor'] cover ['mannerof'] spray
+wall ['relatedto'] china ['relatedto'] fine ['relatedto'] spray
+wall ['relatedto'] climb ['hasprerequisite'] water ['relatedto', 'atlocation'] spray
+wall ['relatedto'] climb ['relatedto'] branch ['relatedto'] spray
+wall ['relatedto'] division ['isa', 'relatedto'] branch ['relatedto'] spray
+wall ['relatedto'] divide ['relatedto'] branch ['relatedto'] spray
+wall ['antonym', 'relatedto', 'atlocation'] corner ['relatedto'] block ['relatedto'] spray
+wall ['antonym', 'relatedto', 'atlocation'] corner ['atlocation'] dust ['relatedto'] spray
+wall ['antonym'] dance ['relatedto'] fine ['relatedto'] spray
+wall ['antonym', 'relatedto', 'atlocation'] door ['relatedto'] block ['relatedto'] spray
+wall ['antonym', 'relatedto'] glass ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] spray
+wall ['antonym', 'relatedto'] glass ['relatedto'] cover ['mannerof'] spray
+wall ['antonym', 'relatedto'] glass ['hasproperty'] clean ['relatedto'] spray
+wall ['antonym', 'relatedto'] glass ['relatedto'] liquid ['relatedto'] spray
+wall ['atlocation'] hole ['usedfor'] water ['relatedto', 'atlocation'] spray
+wall ['atlocation'] hole ['relatedto'] exploit ['relatedto'] spray
+wall ['atlocation'] lath ['relatedto'] cover ['mannerof'] spray
+wall ['relatedto', 'atlocation'] paint ['relatedto'] water ['relatedto', 'atlocation'] spray
+wall ['relatedto', 'atlocation'] paint ['mannerof', 'relatedto'] cover ['mannerof'] spray
+wall ['relatedto', 'atlocation'] paint ['isa', 'relatedto'] spray_paint ['relatedto', 'derivedfrom'] spray
+wall ['relatedto', 'atlocation'] paint ['relatedto'] liquid ['relatedto'] spray
+wall ['relatedto', 'atlocation'] paint ['relatedto'] spray_gun ['derivedfrom'] spray
+wall ['relatedto', 'atlocation'] picture ['relatedto'] memory ['relatedto'] spray
+wall ['relatedto', 'atlocation'] picture ['relatedto'] paint ['relatedto'] spray
+wall ['atlocation'] plumbing ['relatedto'] water ['relatedto', 'atlocation'] spray
+wall ['relatedto', 'atlocation'] shelf ['atlocation'] paint ['relatedto'] spray
+wall ['relatedto', 'atlocation'] shelf ['atlocation'] dust ['relatedto'] spray
+wall ['relatedto', 'atlocation'] shelf ['atlocation'] project ['relatedto'] spray
+wall ['usedfor', 'atlocation'] tile ['mannerof', 'relatedto'] cover ['mannerof'] spray
+wall ['usedfor', 'atlocation'] tile ['atlocation'] shower ['mannerof'] spray
+wall ['relatedto', 'partof', 'atlocation'] building ['atlocation'] dust ['relatedto'] spray
+wall ['relatedto', 'partof', 'atlocation'] building ['relatedto'] fountain ['relatedto'] spray
+wall ['relatedto', 'atlocation'] writing ['relatedto'] block ['relatedto'] spray
+wall ['relatedto', 'atlocation'] writing ['relatedto'] sequence ['relatedto'] spray
+wall ['isa', 'derivedfrom'] firewall ['relatedto'] block ['relatedto'] spray
+wall ['relatedto', 'derivedfrom'] wallpaper ['mannerof'] cover ['mannerof'] spray
+wall ['relatedto', 'derivedfrom'] wallpaper ['antonym', 'distinctfrom', 'relatedto'] paint ['relatedto'] spray
+wall ['derivedfrom'] wallscape ['relatedto'] paint ['relatedto'] spray
+wall ['etymologicallyrelatedto'] walk ['relatedto'] bog ['relatedto'] spray
+wall ['etymologicallyrelatedto'] walk ['relatedto'] sequence ['relatedto'] spray
+wall ['etymologicallyrelatedto'] wallow ['relatedto'] water ['relatedto', 'atlocation'] spray
+wall ['formof', 'relatedto'] walls ['relatedto'] paint ['relatedto'] spray

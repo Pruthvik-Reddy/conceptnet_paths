@@ -1,0 +1,100 @@
+prisoner ['antonym'] free ['antonym'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['relatedto', 'synonym'] rescue ['synonym'] recapture
+prisoner ['relatedto'] escape ['antonym', 'relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['isa', 'relatedto', 'synonym'] captive ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym'] guard ['relatedto'] recovery ['isa'] recapture
+prisoner ['relatedto'] redeem ['relatedto'] recover ['synonym'] recapture
+prisoner ['relatedto'] redeem ['relatedto', 'synonym'] rescue ['synonym'] recapture
+prisoner ['antonym'] free ['relatedto'] nothing ['relatedto'] feel ['mannerof'] recapture
+prisoner ['antonym'] free ['relatedto'] rest ['relatedto'] recover ['synonym'] recapture
+prisoner ['antonym'] free ['relatedto'] rest ['relatedto'] recovery ['isa'] recapture
+prisoner ['antonym'] free ['relatedto'] payment ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['antonym', 'distinctfrom'] expensive ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['antonym'] control ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym'] free ['antonym', 'distinctfrom', 'relatedto'] cost ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['antonym', 'distinctfrom', 'relatedto'] captive ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym'] free ['antonym'] paid ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['antonym', 'distinctfrom', 'relatedto'] pay ['relatedto'] reprise ['relatedto'] recapture
+prisoner ['antonym'] free ['antonym', 'distinctfrom', 'relatedto'] pay ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['antonym', 'distinctfrom'] paying ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['antonym', 'relatedto'] price ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['antonym'] tax ['relatedto'] collection ['relatedto'] recapture
+prisoner ['antonym'] free ['desires'] information ['relatedto'] feel ['mannerof'] recapture
+prisoner ['antonym'] free ['distinctfrom'] charge ['mannerof', 'relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['hasproperty'] gift ['antonym'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['isa', 'mannerof', 'relatedto', 'synonym'] liberate ['relatedto', 'synonym'] rescue ['synonym'] recapture
+prisoner ['antonym'] free ['isa', 'relatedto', 'synonym'] release ['synonym'] rescue ['synonym'] recapture
+prisoner ['antonym'] free ['mannerof'] cut ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['mannerof'] issue ['relatedto'] feel ['mannerof'] recapture
+prisoner ['antonym'] free ['relatedto'] drop ['relatedto'] collection ['relatedto'] recapture
+prisoner ['antonym'] free ['relatedto'] escape ['antonym', 'relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym'] free ['relatedto'] charity ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['relatedto'] given ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['relatedto'] giving ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['relatedto'] money ['antonym', 'relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['relatedto'] library ['isa', 'relatedto'] collection ['relatedto'] recapture
+prisoner ['antonym'] free ['relatedto'] ransom ['isa'] recovery ['isa'] recapture
+prisoner ['antonym'] free ['relatedto', 'synonym'] rescue ['isa'] recovery ['isa'] recapture
+prisoner ['antonym'] free ['relatedto', 'synonym'] rescue ['relatedto', 'synonym'] recover ['synonym'] recapture
+prisoner ['antonym'] free ['relatedto'] scot_free ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym'] free ['synonym'] deliver ['relatedto', 'synonym'] rescue ['synonym'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto', 'synonym'] human ['relatedto'] feel ['mannerof'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] fire ['relatedto'] collection ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['antonym', 'distinctfrom', 'relatedto', 'isa'] woman ['relatedto'] feel ['mannerof'] recapture
+prisoner ['antonym', 'relatedto'] man ['mannerof'] work ['mannerof'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym', 'relatedto'] man ['mannerof'] work ['relatedto'] feel ['mannerof'] recapture
+prisoner ['antonym', 'relatedto'] man ['partof'] checkers ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto', 'partof'] draughts ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] bill ['relatedto'] collection ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] bill ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] board ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] body ['relatedto'] collection ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] date ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] demand ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] guard ['relatedto'] recovery ['isa'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] hand ['isa'] collection ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] hand ['relatedto'] feel ['mannerof'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] health ['relatedto'] feel ['mannerof'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] hunt ['mannerof'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] king ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] form ['relatedto'] tax ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] system ['relatedto'] collection ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] chess ['relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] family ['relatedto'] collection ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] group ['isa', 'relatedto', 'synonym'] collection ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto', 'synonym'] piece ['partof'] collection ['relatedto'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] rescueman ['relatedto'] rescue ['synonym'] recapture
+prisoner ['antonym', 'relatedto'] man ['relatedto'] tough ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['relatedto'] abduction ['isa'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['relatedto'] bad ['relatedto'] action ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['relatedto'] anger ['mannerof'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['relatedto'] appropriate ['synonym'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['relatedto'] bad ['antonym'] fine ['relatedto', 'similarto'] tax ['relatedto'] recapture
+prisoner ['relatedto'] bad ['antonym', 'isa'] quality ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['hasproperty'] die ['mannerof'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['isa', 'relatedto', 'similarto', 'hasproperty'] evil ['relatedto'] rescue ['synonym'] recapture
+prisoner ['relatedto'] bad ['relatedto', 'hasproperty'] pain ['antonym', 'relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['hasproperty'] stealing ['relatedto'] tax ['relatedto'] recapture
+prisoner ['relatedto'] bad ['hasproperty'] trash ['relatedto'] recover ['synonym'] recapture
+prisoner ['relatedto'] bad ['relatedto'] danger ['relatedto'] rescue ['synonym'] recapture
+prisoner ['relatedto'] bad ['relatedto'] debt ['relatedto'] collection ['relatedto'] recapture
+prisoner ['relatedto'] bad ['relatedto'] debt ['relatedto'] tax ['relatedto'] recapture
+prisoner ['relatedto'] bad ['relatedto'] guilt ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['relatedto', 'similarto', 'synonym'] ill ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['relatedto'] regret ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['relatedto'] robbery ['relatedto'] tax ['relatedto'] recapture
+prisoner ['relatedto'] bad ['relatedto'] sad ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['relatedto'] sin ['relatedto'] rescue ['synonym'] recapture
+prisoner ['relatedto'] bad ['relatedto'] taste ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['similarto', 'synonym'] tough ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto'] bad ['synonym'] corrupt ['antonym'] rescue ['synonym'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['relatedto'] human ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['relatedto'] block ['isa'] collection ['relatedto'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['relatedto', 'partof'] body ['relatedto'] collection ['relatedto'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['relatedto'] skin ['relatedto'] feel ['mannerof'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['isa'] book ['isa', 'relatedto'] collection ['relatedto'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['isa'] book ['isa'] seizure ['isa'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['isa'] hold ['mannerof', 'relatedto'] capture ['mannerof', 'relatedto', 'derivedfrom'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['relatedto'] term ['relatedto'] collection ['relatedto'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['relatedto', 'atlocation'] membrane ['relatedto'] recover ['synonym'] recapture
+prisoner ['relatedto', 'atlocation'] cell ['isa'] film ['relatedto'] retake ['synonym'] recapture

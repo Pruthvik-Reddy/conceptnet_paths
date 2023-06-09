@@ -1,0 +1,100 @@
+ship ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land
+ship ['relatedto'] disembark ['mannerof', 'relatedto'] land
+ship ['relatedto'] big ['relatedto'] land
+ship ['relatedto'] board ['relatedto'] land
+ship ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] boat ['relatedto'] land
+ship ['antonym', 'relatedto'] deliver ['mannerof', 'relatedto'] land
+ship ['atlocation'] batten ['relatedto'] land
+ship ['atlocation'] sailors ['relatedto'] land
+ship ['atlocation'] ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land
+ship ['relatedto', 'atlocation'] port ['mannerof', 'relatedto'] land
+ship ['hasa', 'relatedto'] bridge ['relatedto'] land
+ship ['isa', 'relatedto'] vessel ['relatedto'] land
+ship ['partof'] bay ['relatedto'] land
+ship ['relatedto'] carry ['relatedto'] land
+ship ['relatedto'] course ['relatedto'] land
+ship ['relatedto'] dock ['relatedto'] land
+ship ['relatedto'] landfall ['derivedfrom'] land
+ship ['relatedto'] offing ['relatedto'] land
+ship ['relatedto'] touch ['relatedto'] land
+ship ['relatedto'] engage ['mannerof'] touch ['relatedto'] land
+ship ['relatedto'] engage ['synonym'] lease ['relatedto'] land
+ship ['relatedto'] con ['relatedto'] consonant ['relatedto'] land
+ship ['etymologicallyrelatedto', 'relatedto'] relationship ['isa'] state ['relatedto', 'synonym'] land
+ship ['etymologicallyrelatedto', 'relatedto'] relationship ['relatedto'] cosinage ['relatedto'] land
+ship ['etymologicallyrelatedto', 'relatedto'] relationship ['relatedto'] map ['atlocation'] land
+ship ['etymologicallyrelatedto', 'relatedto'] relationship ['relatedto'] range ['relatedto'] land
+ship ['relatedto'] aft ['relatedto'] airplane ['relatedto'] land
+ship ['relatedto'] aft ['relatedto'] boat ['relatedto'] land
+ship ['relatedto'] aft ['relatedto'] vessel ['relatedto'] land
+ship ['relatedto'] fore ['relatedto'] term ['relatedto'] land
+ship ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] air ['antonym', 'distinctfrom'] land
+ship ['relatedto'] water ['antonym', 'relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land
+ship ['relatedto'] water ['antonym', 'relatedto'] ground ['relatedto', 'synonym'] land
+ship ['relatedto'] water ['antonym', 'relatedto'] sand ['relatedto'] land
+ship ['relatedto'] water ['antonym', 'relatedto'] sky ['antonym', 'distinctfrom', 'relatedto'] land
+ship ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] bay ['relatedto'] land
+ship ['relatedto'] water ['relatedto', 'atlocation'] boat ['relatedto'] land
+ship ['relatedto'] water ['relatedto', 'atlocation'] island ['isa', 'relatedto'] land
+ship ['relatedto'] water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land
+ship ['relatedto'] water ['relatedto', 'atlocation'] bridge ['relatedto'] land
+ship ['relatedto'] water ['atlocation'] disneyland ['isa'] land
+ship ['relatedto'] water ['relatedto', 'atlocation'] flood ['relatedto'] land
+ship ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] land
+ship ['relatedto'] water ['relatedto', 'atlocation'] mud ['relatedto'] land
+ship ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] river ['antonym'] land
+ship ['relatedto'] water ['relatedto', 'atlocation'] swamp ['relatedto'] land
+ship ['relatedto'] water ['relatedto', 'derivedfrom'] waterfront ['relatedto'] land
+ship ['relatedto'] water ['relatedto', 'derivedfrom'] waterside ['relatedto'] land
+ship ['relatedto'] water ['distinctfrom'] grass ['relatedto'] land
+ship ['relatedto'] water ['hasa', 'relatedto'] canal ['relatedto'] land
+ship ['relatedto'] water ['hasa'] surface ['relatedto'] land
+ship ['relatedto'] water ['madeof', 'relatedto', 'partof'] sea ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land
+ship ['relatedto'] water ['relatedto'] amphibiotic ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] beach ['mannerof'] land
+ship ['relatedto'] water ['relatedto'] board ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] carry ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] coast ['antonym', 'relatedto'] land
+ship ['relatedto'] water ['relatedto'] continent ['relatedto', 'atlocation'] land
+ship ['relatedto'] water ['relatedto'] dock ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] dry ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] dyke ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] ecological_footprint ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] flying_boat ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] hydrolic_cycle ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] hydroski ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] hydrosphere ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] indraught ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] isle ['isa', 'relatedto'] land
+ship ['relatedto'] water ['relatedto'] isthmus ['isa'] land
+ship ['relatedto'] water ['relatedto'] jantu ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] landslide ['derivedfrom'] land
+ship ['relatedto'] water ['relatedto'] office ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] promontory ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] scorch ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] shoreline ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] splashdown ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] strand ['mannerof'] land
+ship ['relatedto'] water ['relatedto'] strand_line ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] tortoise ['relatedto'] land
+ship ['relatedto'] water ['relatedto', 'synonym'] urine ['etymologicallyrelatedto', 'relatedto'] land
+ship ['relatedto'] water ['relatedto'] vessel ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] common ['relatedto'] land
+ship ['relatedto'] water ['relatedto'] state ['relatedto', 'synonym'] land
+ship ['relatedto'] water ['relatedto'] wetland ['isa', 'relatedto', 'derivedfrom'] land
+ship ['relatedto'] crowd ['isa'] army ['relatedto'] land
+ship ['relatedto'] crowd ['isa'] drove ['relatedto'] land
+ship ['relatedto'] crowd ['mannerof', 'relatedto'] mass ['relatedto'] land
+ship ['relatedto'] crowd ['relatedto'] big ['relatedto'] land
+ship ['relatedto'] crowd ['relatedto', 'synonym'] lot ['relatedto'] land
+ship ['relatedto'] crowd ['relatedto'] place ['relatedto'] land
+ship ['relatedto'] crowd ['relatedto'] term ['relatedto'] land
+ship ['relatedto'] crowd ['relatedto'] play ['relatedto'] land
+ship ['relatedto'] navy ['antonym'] air ['antonym', 'distinctfrom'] land
+ship ['relatedto'] navy ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land
+ship ['relatedto'] navy ['antonym', 'distinctfrom', 'relatedto'] army ['relatedto'] land
+ship ['relatedto'] navy ['hasa', 'relatedto'] sailors ['relatedto'] land
+ship ['relatedto'] navy ['relatedto'] boat ['relatedto'] land
+ship ['relatedto'] navy ['relatedto'] aircraft ['usedfor'] land
+ship ['relatedto'] navy ['relatedto'] ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land
+ship ['relatedto'] navy ['relatedto'] sea ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land

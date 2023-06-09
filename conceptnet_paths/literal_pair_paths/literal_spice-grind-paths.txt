@@ -1,0 +1,100 @@
+spice ['relatedto'] rub ['relatedto'] grind
+spice ['relatedto'] togarashi ['relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] smaller ['relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] coffee ['relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] shell ['relatedto'] grind
+spice ['relatedto'] vegetable ['isa', 'relatedto'] bean ['relatedto'] grind
+spice ['relatedto'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['relatedto'] grind
+spice ['relatedto'] food ['isa'] cracker ['relatedto'] grind
+spice ['relatedto'] food ['isa'] grit ['relatedto'] grind
+spice ['relatedto'] food ['relatedto'] bean ['relatedto'] grind
+spice ['relatedto'] food ['relatedto'] chew ['relatedto', 'synonym'] grind
+spice ['relatedto'] food ['relatedto'] manakish ['relatedto'] grind
+spice ['relatedto'] food ['relatedto'] molcajete ['relatedto'] grind
+spice ['relatedto'] sweet ['relatedto'] chew ['relatedto', 'synonym'] grind
+spice ['mannerof'] change ['mannerof'] weaken ['relatedto'] grind
+spice ['relatedto'] heat ['causes', 'relatedto'] friction ['relatedto'] grind
+spice ['relatedto'] heat ['relatedto'] degree ['isa', 'relatedto'] grind
+spice ['relatedto'] hot ['relatedto'] sexual ['relatedto'] grind
+spice ['relatedto'] hot ['relatedto', 'hasproperty'] coffee ['relatedto'] grind
+spice ['relatedto'] hot ['relatedto'] degree ['isa', 'relatedto'] grind
+spice ['relatedto'] sage ['relatedto'] lincolnshire_sausage ['relatedto'] grind
+spice ['isa', 'mannerof', 'relatedto'] salt ['relatedto'] powder ['relatedto'] grind
+spice ['isa', 'mannerof', 'relatedto'] salt ['relatedto'] washoe_process ['relatedto'] grind
+spice ['relatedto'] making ['relatedto'] work ['relatedto'] grind
+spice ['relatedto'] making ['relatedto'] dance ['mannerof', 'relatedto'] grind
+spice ['relatedto'] making ['relatedto'] machine ['usedfor'] grind
+spice ['relatedto'] general ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['relatedto'] general ['relatedto'] work ['relatedto'] grind
+spice ['relatedto'] general ['relatedto'] machine ['usedfor'] grind
+spice ['isa'] software ['isa'] bean ['relatedto'] grind
+spice ['isa'] software ['isa'] file ['relatedto'] grind
+spice ['relatedto'] garlic ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['isa', 'relatedto'] pepper ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['isa', 'relatedto'] pepper ['relatedto'] peppier ['relatedto'] grind
+spice ['relatedto'] rub ['relatedto'] slide ['relatedto'] grind
+spice ['relatedto'] rub ['entails'] file ['relatedto'] grind
+spice ['relatedto'] rub ['mannerof', 'relatedto', 'entails'] grate ['relatedto', 'synonym'] grind
+spice ['relatedto'] rub ['mannerof'] puree ['relatedto'] grind
+spice ['relatedto'] rub ['relatedto'] grinding ['formof', 'relatedto'] grind
+spice ['relatedto'] rub ['relatedto'] mortar ['relatedto'] grind
+spice ['relatedto'] rub ['relatedto'] pestle ['mannerof', 'relatedto'] grind
+spice ['relatedto'] rub ['relatedto'] powder ['relatedto'] grind
+spice ['relatedto'] rub ['relatedto'] abrasive ['relatedto'] grind
+spice ['relatedto'] rub ['relatedto'] friction ['relatedto'] grind
+spice ['relatedto'] rub ['relatedto'] triture ['relatedto'] grind
+spice ['antonym', 'distinctfrom', 'relatedto'] sugar ['relatedto', 'atlocation'] coffee ['relatedto'] grind
+spice ['antonym', 'distinctfrom', 'relatedto'] sugar ['derivedfrom'] powdered_sugar ['relatedto'] grind
+spice ['antonym', 'distinctfrom', 'relatedto'] sugar ['distinctfrom', 'relatedto'] flour ['relatedto'] grind
+spice ['antonym', 'distinctfrom', 'relatedto'] sugar ['relatedto'] powder ['relatedto'] grind
+spice ['relatedto'] size ['antonym', 'relatedto'] shape ['mannerof', 'relatedto'] grind
+spice ['isa', 'relatedto'] chili ['relatedto'] powder ['relatedto'] grind
+spice ['isa', 'relatedto'] cinnamon ['relatedto'] powder ['relatedto'] grind
+spice ['isa', 'relatedto'] cumin ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['isa', 'relatedto'] mace ['isa'] powder ['relatedto'] grind
+spice ['isa'] food_ingredient ['isa'] flour ['relatedto'] grind
+spice ['isa', 'relatedto', 'synonym'] seasoning ['relatedto'] rub ['relatedto'] grind
+spice ['isa', 'relatedto', 'synonym'] seasoning ['relatedto'] ground_beef ['relatedto'] grind
+spice ['isa', 'relatedto'] thyme ['relatedto'] manakish ['relatedto'] grind
+spice ['relatedto'] bean_pie ['relatedto'] bean ['relatedto'] grind
+spice ['relatedto'] charchari ['relatedto'] dance ['mannerof', 'relatedto'] grind
+spice ['relatedto'] dahl ['relatedto'] bean ['relatedto'] grind
+spice ['relatedto', 'similarto'] herb ['relatedto'] lincolnshire_sausage ['relatedto'] grind
+spice ['relatedto'] jamaican_patty ['relatedto'] shell ['relatedto'] grind
+spice ['relatedto'] kachori ['relatedto'] bean ['relatedto'] grind
+spice ['relatedto'] kachori ['relatedto'] flour ['relatedto'] grind
+spice ['relatedto'] lardy_cake ['relatedto'] flour ['relatedto'] grind
+spice ['relatedto'] mull ['etymologicallyrelatedto'] mill ['mannerof', 'relatedto', 'synonym'] grind
+spice ['relatedto'] mull ['relatedto'] powder ['relatedto'] grind
+spice ['relatedto'] mull ['relatedto'] pulverize ['relatedto'] grind
+spice ['relatedto'] mull ['relatedto'] muller ['relatedto'] grind
+spice ['relatedto'] patty ['relatedto'] shell ['relatedto'] grind
+spice ['relatedto'] pigment ['relatedto'] roller_mill ['relatedto'] grind
+spice ['relatedto'] contains ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['relatedto'] cooking ['usedfor'] bean ['relatedto'] grind
+spice ['relatedto'] ingredient ['relatedto'] mortar ['relatedto'] grind
+spice ['relatedto'] tamarind ['relatedto'] pulp ['mannerof'] grind
+spice ['relatedto'] temper ['relatedto'] mortar ['relatedto'] grind
+spice ['relatedto'] uthappam ['relatedto'] flour ['relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] ring ['relatedto'] shape ['mannerof', 'relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] single ['isa'] dance ['mannerof', 'relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] single ['relatedto'] degree ['isa', 'relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] plant ['relatedto'] smaller ['relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] plant ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] plant ['relatedto'] coffee ['relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] plant ['relatedto'] shell ['relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] diapasm ['relatedto'] powder ['relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] flower ['antonym'] dance ['mannerof', 'relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] malambo ['relatedto'] dance ['mannerof', 'relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] onion ['relatedto'] shell ['relatedto'] grind
+spice ['relatedto'] aromatic ['relatedto'] sage ['relatedto'] lincolnshire_sausage ['relatedto'] grind
+spice ['relatedto'] plant ['synonym'] establish ['synonym'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] underground ['relatedto', 'derivedfrom'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] action ['isa', 'relatedto'] work ['relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] action ['isa'] bruxism ['relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] action ['relatedto'] chew ['relatedto', 'synonym'] grind
+spice ['relatedto'] plant ['relatedto'] action ['relatedto'] crush ['isa', 'relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] action ['relatedto'] dance ['mannerof', 'relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] action ['relatedto'] eat ['relatedto'] grind
+spice ['relatedto'] plant ['relatedto'] action ['relatedto'] rub ['relatedto'] grind

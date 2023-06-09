@@ -1,0 +1,100 @@
+debate ['relatedto'] think ['mannerof'] change ['mannerof'] sharpen
+debate ['relatedto'] high ['relatedto'] heighten ['synonym'] sharpen
+debate ['relatedto'] high ['relatedto'] keen ['relatedto'] sharpen
+debate ['relatedto'] high ['synonym'] sharp ['relatedto', 'derivedfrom'] sharpen
+debate ['relatedto'] political ['relatedto'] knife ['relatedto'] sharpen
+debate ['relatedto'] reason ['relatedto'] point ['synonym'] sharpen
+debate ['relatedto'] structure ['relatedto'] steel ['relatedto'] sharpen
+debate ['relatedto'] anacoenosis ['relatedto'] point ['synonym'] sharpen
+debate ['relatedto', 'synonym'] argue ['mannerof'] present ['relatedto'] point ['synonym'] sharpen
+debate ['relatedto', 'synonym'] argue ['relatedto', 'synonym'] indicate ['mannerof', 'relatedto', 'synonym'] point ['synonym'] sharpen
+debate ['relatedto', 'synonym'] argue ['relatedto'] viewpoint ['derivedfrom'] point ['synonym'] sharpen
+debate ['relatedto', 'synonym'] argue ['relatedto'] camp ['mannerof'] change ['mannerof'] sharpen
+debate ['relatedto', 'synonym'] argue ['relatedto'] protest ['relatedto'] change ['mannerof'] sharpen
+debate ['relatedto', 'synonym'] argue ['relatedto', 'synonym'] reason ['relatedto'] point ['synonym'] sharpen
+debate ['relatedto'] disagreement ['relatedto', 'synonym'] difference ['isa', 'relatedto', 'hasprerequisite'] change ['mannerof'] sharpen
+debate ['relatedto'] disagreement ['relatedto'] protest ['relatedto'] change ['mannerof'] sharpen
+debate ['relatedto'] disagreement ['relatedto'] war ['atlocation'] knife ['relatedto'] sharpen
+debate ['relatedto'] disagreement ['relatedto'] war ['usedfor', 'atlocation'] rifle ['relatedto'] sharpen
+debate ['relatedto'] dispute ['relatedto'] prejudication ['relatedto'] point ['synonym'] sharpen
+debate ['relatedto'] dispute ['relatedto'] revert_war ['relatedto'] change ['mannerof'] sharpen
+debate ['relatedto'] dispute ['relatedto'] war ['atlocation'] knife ['relatedto'] sharpen
+debate ['relatedto'] dispute ['relatedto'] war ['usedfor', 'atlocation'] rifle ['relatedto'] sharpen
+debate ['relatedto'] dispute ['synonym'] difference ['isa', 'relatedto', 'hasprerequisite'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] act ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['isa', 'relatedto'] advantage ['isa'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['isa', 'relatedto'] advantage ['relatedto', 'synonym'] edge ['mannerof', 'relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] almost ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] man ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['distinctfrom', 'relatedto'] average ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] cool ['mannerof'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['antonym'] mood ['relatedto'] strop ['mannerof'] sharpen
+debate ['hasproperty'] good ['antonym'] pain ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+debate ['hasproperty'] good ['antonym'] rap ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+debate ['hasproperty'] good ['formof', 'distinctfrom', 'relatedto', 'isa'] better ['mannerof'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['formof', 'distinctfrom', 'relatedto', 'isa'] better ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['distinctfrom'] die ['mannerof'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['distinctfrom'] poison ['mannerof'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['isa', 'distinctfrom', 'relatedto'] quality ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['distinctfrom'] slice ['relatedto'] knife ['relatedto'] sharpen
+debate ['hasproperty'] good ['hasproperty'] exercise ['relatedto'] hone ['mannerof', 'relatedto', 'synonym'] sharpen
+debate ['hasproperty'] good ['hasproperty'] giving ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['hasproperty'] important ['relatedto'] focus ['mannerof', 'synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] ball ['distinctfrom'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] ball ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] bat ['relatedto'] blunt ['antonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] bat ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+debate ['hasproperty'] good ['relatedto'] booth ['relatedto'] dag ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] bread ['relatedto'] whet ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] clear ['mannerof'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] clear ['relatedto'] sharp ['relatedto', 'derivedfrom'] sharpen
+debate ['hasproperty'] good ['relatedto'] common ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] cost ['hasa'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] discerning ['relatedto'] keen ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] dog ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] extra ['relatedto'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto', 'synonym'] fine ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto', 'synonym'] fine ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] description ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] hard ['relatedto', 'hasproperty'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] job ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] meaning ['isa', 'relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] effective ['relatedto'] hone ['mannerof', 'relatedto', 'synonym'] sharpen
+debate ['hasproperty'] good ['relatedto', 'synonym'] full ['mannerof'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] large ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] moral ['relatedto'] blur ['antonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] moral ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto', 'synonym'] right ['mannerof'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] force ['relatedto'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] force ['relatedto'] knife_edge ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] fatten ['mannerof'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] repair ['mannerof'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] dung ['relatedto'] dag ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] heavy ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] idea ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] manufacture ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] memory ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] opportunity ['relatedto'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] permanent ['antonym'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] plate ['relatedto', 'atlocation'] knife ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] plate ['relatedto'] edge ['mannerof', 'relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] plate ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] progress ['relatedto'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] rub ['relatedto'] whet ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] stock ['relatedto'] point ['synonym'] sharpen
+debate ['hasproperty'] good ['relatedto'] stock ['relatedto'] rifle ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] strong ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] surprise ['isa'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] surprise ['relatedto'] dag ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] trade ['relatedto'] steel ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] trade ['relatedto'] knifegrinder ['relatedto'] sharpen
+debate ['hasproperty'] good ['relatedto'] wallet ['relatedto'] change ['mannerof'] sharpen
+debate ['hasproperty'] good ['relatedto'] wave ['relatedto'] blunt ['antonym'] sharpen
+debate ['hasproperty'] good ['similarto'] well_behaved ['relatedto'] point ['synonym'] sharpen
+debate ['relatedto'] chest ['atlocation'] animal ['relatedto'] point ['synonym'] sharpen
+debate ['relatedto'] chest ['relatedto'] man ['relatedto'] steel ['relatedto'] sharpen
+debate ['relatedto'] chest ['relatedto'] armor ['relatedto'] steel ['relatedto'] sharpen
+debate ['relatedto'] chest ['relatedto'] back ['atlocation'] knife ['relatedto'] sharpen
+debate ['relatedto'] chest ['relatedto'] back ['relatedto'] change ['mannerof'] sharpen
+debate ['relatedto'] chest ['relatedto'] back ['relatedto'] steel ['relatedto'] sharpen
+debate ['relatedto'] chest ['isa', 'relatedto'] box ['relatedto'] edge ['mannerof', 'relatedto'] sharpen

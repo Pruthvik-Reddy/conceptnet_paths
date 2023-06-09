@@ -1,0 +1,100 @@
+company ['relatedto'] name ['relatedto'] raid
+company ['relatedto'] property ['relatedto'] raid
+company ['relatedto'] embezzlement ['isa'] raid
+company ['synonym'] party ['relatedto'] raid
+company ['isa'] acquire ['relatedto'] steal ['relatedto'] raid
+company ['isa'] acquire ['synonym'] assume ['mannerof'] raid
+company ['isa'] real ['relatedto'] property ['relatedto'] raid
+company ['relatedto'] smaller ['relatedto'] live ['relatedto'] raid
+company ['isa'] number ['mannerof'] name ['relatedto'] raid
+company ['antonym', 'relatedto'] crowd ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] many_people ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] together ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+company ['relatedto'] together ['relatedto'] party ['relatedto'] raid
+company ['isa'] post ['relatedto', 'synonym'] brand ['relatedto'] raid
+company ['isa'] post ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+company ['relatedto'] apple ['relatedto'] brand ['relatedto'] raid
+company ['relatedto'] apple ['relatedto'] snow ['relatedto'] raid
+company ['relatedto'] liability ['relatedto'] name ['relatedto'] raid
+company ['relatedto'] good ['relatedto'] indulge ['relatedto'] raid
+company ['relatedto'] good ['relatedto'] killer ['relatedto'] raid
+company ['relatedto'] good ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] friend ['relatedto'] bug ['relatedto'] raid
+company ['relatedto'] friend ['relatedto'] party ['relatedto'] raid
+company ['isa'] trust ['isa'] property ['relatedto'] raid
+company ['relatedto'] big ['relatedto'] name ['relatedto'] raid
+company ['relatedto'] big ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] big ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+company ['relatedto'] small ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] small ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+company ['relatedto'] board ['mannerof'] live ['relatedto'] raid
+company ['relatedto'] board ['relatedto'] snow ['relatedto'] raid
+company ['relatedto'] ship ['relatedto'] engage ['relatedto'] raid
+company ['isa'] head ['relatedto'] bust ['synonym'] raid
+company ['isa'] head ['relatedto'] live ['relatedto'] raid
+company ['isa'] head ['relatedto'] party ['relatedto'] raid
+company ['isa'] head ['synonym'] bug ['relatedto'] raid
+company ['relatedto'] boss ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] put ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+company ['relatedto'] put_together ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+company ['relatedto'] work ['antonym', 'distinctfrom'] party ['relatedto'] raid
+company ['relatedto', 'desires'] money ['relatedto'] embezzlement ['isa'] raid
+company ['relatedto', 'desires'] money ['relatedto'] property ['relatedto'] raid
+company ['relatedto'] selling ['relatedto'] property ['relatedto'] raid
+company ['relatedto'] nice ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] term ['mannerof'] name ['relatedto'] raid
+company ['relatedto'] term ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] term ['relatedto'] property ['relatedto'] raid
+company ['usedfor'] dog ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+company ['relatedto'] pay ['antonym'] steal ['relatedto'] raid
+company ['atlocation'] city ['isa'] brand ['relatedto'] raid
+company ['atlocation'] city ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+company ['atlocation'] city ['relatedto'] starfish_site ['relatedto'] raid
+company ['atlocation'] country ['relatedto'] bordraging ['relatedto'] raid
+company ['atlocation'] country ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+company ['relatedto'] division ['relatedto'] party ['relatedto'] raid
+company ['relatedto'] show ['isa'] broadcast ['relatedto'] raid
+company ['antonym'] lonely ['antonym'] party ['relatedto'] raid
+company ['antonym', 'relatedto'] department ['relatedto'] name ['relatedto'] raid
+company ['atlocation'] armed_forces ['relatedto'] invasion ['relatedto'] raid
+company ['atlocation'] phone_book ['relatedto', 'atlocation'] name ['relatedto'] raid
+company ['atlocation'] humans ['capableof'] attack ['mannerof', 'relatedto', 'synonym'] raid
+company ['etymologicallyrelatedto', 'relatedto'] coy ['relatedto'] entice ['relatedto'] raid
+company ['etymologicallyrelatedto', 'relatedto'] propco ['etymologicallyrelatedto', 'relatedto'] property ['relatedto'] raid
+company ['hasa'] assets ['relatedto'] property ['relatedto'] raid
+company ['isa'] access ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+company ['isa'] burberry ['relatedto'] brand ['relatedto'] raid
+company ['isa'] cadillac ['relatedto'] brand ['relatedto'] raid
+company ['isa'] chevrolet ['relatedto'] brand ['relatedto'] raid
+company ['isa', 'relatedto'] organization ['isa'] party ['relatedto'] raid
+company ['isa'] social_gathering ['isa', 'relatedto'] party ['relatedto'] raid
+company ['isa'] converse ['relatedto'] chat ['relatedto'] raid
+company ['isa'] corporate_investor ['isa'] raider ['relatedto', 'derivedfrom'] raid
+company ['isa'] deep ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+company ['isa', 'relatedto'] dell ['relatedto'] brand ['relatedto'] raid
+company ['isa'] dodge ['relatedto'] brand ['relatedto'] raid
+company ['isa'] feel ['mannerof'] search ['mannerof'] raid
+company ['isa'] glory ['relatedto'] name ['relatedto'] raid
+company ['isa'] google ['relatedto'] search ['mannerof'] raid
+company ['isa', 'relatedto'] hitachi ['relatedto'] brand ['relatedto'] raid
+company ['isa', 'relatedto'] jeep ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+company ['isa', 'relatedto'] jeep ['relatedto'] brand ['relatedto'] raid
+company ['isa'] look ['relatedto', 'synonym'] search ['mannerof'] raid
+company ['isa'] mercedes_benz ['relatedto'] brand ['relatedto'] raid
+company ['isa'] mercury ['relatedto'] name ['relatedto'] raid
+company ['isa'] meteor ['relatedto'] snow ['relatedto'] raid
+company ['isa'] nival ['relatedto'] snow ['relatedto'] raid
+company ['isa'] prototype ['relatedto'] name ['relatedto'] raid
+company ['isa'] quick ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+company ['isa'] quick ['relatedto'] commando ['relatedto'] raid
+company ['isa'] scion ['instanceof'] brand ['relatedto'] raid
+company ['isa'] soap ['relatedto'] killing ['relatedto'] raid
+company ['isa'] sony ['isa'] brand ['relatedto'] raid
+company ['isa'] strategy ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+company ['isa'] swatch ['relatedto'] brand ['relatedto'] raid
+company ['isa'] talbot ['relatedto'] brand ['relatedto'] raid
+company ['isa'] yahoo ['relatedto'] search ['mannerof'] raid
+company ['isa'] zenith ['relatedto'] brand ['relatedto'] raid
+company ['motivatedbygoal'] socialize ['hasprerequisite'] party ['relatedto'] raid
+company ['relatedto'] abc ['relatedto'] broadcast ['relatedto'] raid
+company ['relatedto'] brand_avatar ['relatedto'] brand ['relatedto'] raid

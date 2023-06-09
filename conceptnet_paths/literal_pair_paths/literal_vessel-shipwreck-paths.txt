@@ -1,0 +1,100 @@
+vessel ['relatedto'] water ['atlocation'] shipwreck
+vessel ['isa', 'relatedto'] boat ['relatedto'] shipwreck
+vessel ['isa', 'relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] aft ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] aft ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['atlocation'] shipwreck
+vessel ['relatedto'] land ['antonym', 'distinctfrom', 'relatedto'] water ['atlocation'] shipwreck
+vessel ['relatedto'] land ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] water ['relatedto', 'atlocation'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] water ['atlocation'] shipwrecks ['formof', 'relatedto'] shipwreck
+vessel ['relatedto'] water ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] disembark ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] disembark ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['partof'] bow ['relatedto', 'partof'] ship ['isa', 'relatedto'] shipwreck
+vessel ['partof'] bow ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] junk ['isa'] boat ['relatedto'] shipwreck
+vessel ['isa'] well ['hasa', 'relatedto', 'atlocation'] water ['atlocation'] shipwreck
+vessel ['isa'] well ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['isa'] well ['relatedto'] sunk ['relatedto'] shipwreck
+vessel ['isa'] bath ['relatedto', 'atlocation'] water ['atlocation'] shipwreck
+vessel ['relatedto'] big ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] big ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] board ['relatedto'] water ['atlocation'] shipwreck
+vessel ['relatedto'] board ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] board ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['isa', 'relatedto'] boat ['relatedto', 'atlocation'] water ['atlocation'] shipwreck
+vessel ['isa', 'relatedto'] boat ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] ship ['isa', 'relatedto'] shipwreck
+vessel ['isa', 'relatedto'] boat ['relatedto', 'derivedfrom'] lifeboat ['relatedto'] shipwreck
+vessel ['isa', 'relatedto'] boat ['relatedto'] breaker ['relatedto'] shipwreck
+vessel ['isa', 'relatedto'] ship ['relatedto'] water ['atlocation'] shipwreck
+vessel ['isa', 'relatedto'] ship ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] boat ['relatedto'] shipwreck
+vessel ['isa', 'relatedto'] ship ['isa', 'relatedto'] wreck ['relatedto', 'derivedfrom', 'synonym'] shipwreck
+vessel ['isa', 'relatedto'] ship ['relatedto'] breaker ['relatedto'] shipwreck
+vessel ['relatedto', 'partof', 'atlocation'] body ['relatedto'] water ['atlocation'] shipwreck
+vessel ['isa', 'relatedto'] bottle ['atlocation'] water ['atlocation'] shipwreck
+vessel ['relatedto'] bump ['relatedto'] collision ['relatedto'] shipwreck
+vessel ['relatedto'] captain ['relatedto'] water ['atlocation'] shipwreck
+vessel ['relatedto'] captain ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] captain ['antonym', 'usedfor', 'relatedto', 'atlocation'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] term ['isa', 'relatedto'] subject ['mannerof'] shipwreck
+vessel ['relatedto'] fluid ['isa', 'relatedto'] water ['atlocation'] shipwreck
+vessel ['relatedto', 'atlocation'] sea ['madeof', 'relatedto', 'partof'] water ['atlocation'] shipwreck
+vessel ['relatedto', 'atlocation'] sea ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto', 'atlocation'] sea ['relatedto'] flotsam ['relatedto'] shipwreck
+vessel ['relatedto', 'atlocation'] sea ['relatedto'] waveson ['relatedto'] shipwreck
+vessel ['atlocation'] ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['atlocation'] shipwreck
+vessel ['atlocation'] ocean ['relatedto', 'atlocation'] boat ['relatedto'] shipwreck
+vessel ['atlocation'] ocean ['atlocation'] ship ['isa', 'relatedto'] shipwreck
+vessel ['atlocation'] ocean ['atlocation'] shipwrecks ['formof', 'relatedto'] shipwreck
+vessel ['relatedto'] metal ['relatedto'] water ['atlocation'] shipwreck
+vessel ['usedfor'] float ['relatedto'] water ['atlocation'] shipwreck
+vessel ['usedfor'] float ['relatedto'] flotsam ['relatedto'] shipwreck
+vessel ['usedfor'] float ['relatedto'] waveson ['relatedto'] shipwreck
+vessel ['relatedto'] sink ['relatedto', 'atlocation'] water ['atlocation'] shipwreck
+vessel ['relatedto'] sink ['formof'] sunk ['relatedto'] shipwreck
+vessel ['relatedto'] liquid ['isa', 'relatedto', 'hasproperty'] water ['atlocation'] shipwreck
+vessel ['relatedto'] liquid ['relatedto'] breaker ['relatedto'] shipwreck
+vessel ['relatedto'] generic ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] generic ['relatedto'] destruction ['relatedto', 'synonym'] shipwreck
+vessel ['relatedto'] glass ['relatedto', 'atlocation'] water ['atlocation'] shipwreck
+vessel ['relatedto'] cradle ['relatedto'] wreck ['relatedto', 'derivedfrom', 'synonym'] shipwreck
+vessel ['relatedto'] large ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] mess ['relatedto'] ruin ['isa', 'mannerof', 'relatedto'] shipwreck
+vessel ['isa', 'relatedto'] pot ['relatedto'] water ['atlocation'] shipwreck
+vessel ['isa', 'relatedto'] pot ['relatedto'] ruin ['isa', 'mannerof', 'relatedto'] shipwreck
+vessel ['relatedto', 'atlocation'] port ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto', 'atlocation'] port ['relatedto', 'atlocation'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] motorboat ['isa', 'mannerof'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] screw ['partof'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] steamer ['relatedto'] water ['atlocation'] shipwreck
+vessel ['relatedto'] steamer ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['relatedto'] steamer ['isa'] ship ['isa', 'relatedto'] shipwreck
+vessel ['relatedto'] tap ['usedfor', 'relatedto'] water ['atlocation'] shipwreck
+vessel ['relatedto'] underwater ['relatedto'] water ['atlocation'] shipwreck
+vessel ['relatedto'] underwater ['relatedto'] breaker ['relatedto'] shipwreck
+vessel ['relatedto'] underwater ['relatedto'] rusticle ['relatedto'] shipwreck
+vessel ['atlocation'] harbor ['relatedto'] water ['atlocation'] shipwreck
+vessel ['atlocation'] harbor ['atlocation'] boat ['relatedto'] shipwreck
+vessel ['atlocation'] human_body ['hasa', 'madeof'] water ['atlocation'] shipwreck
+vessel ['derivedfrom'] lightvessel ['relatedto'] ship ['isa', 'relatedto'] shipwreck
+vessel ['isa'] bareboat ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['isa'] basin ['hasa', 'relatedto'] water ['atlocation'] shipwreck
+vessel ['isa'] bathtub ['atlocation'] water ['atlocation'] shipwreck
+vessel ['isa'] bucket ['atlocation'] water ['atlocation'] shipwreck
+vessel ['isa'] cask ['relatedto'] breaker ['relatedto'] shipwreck
+vessel ['isa'] fishing_boat ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['isa'] galley ['atlocation'] boat ['relatedto'] shipwreck
+vessel ['isa'] galley ['isa', 'relatedto', 'partof'] ship ['isa', 'relatedto'] shipwreck
+vessel ['isa'] iceboat ['derivedfrom'] boat ['relatedto'] shipwreck
+vessel ['isa', 'relatedto'] jar ['relatedto', 'atlocation'] water ['atlocation'] shipwreck
+vessel ['isa', 'relatedto'] mortar ['relatedto'] water ['atlocation'] shipwreck
+vessel ['isa'] muller ['relatedto'] destroy ['mannerof'] shipwreck
+vessel ['isa', 'relatedto'] patrol_boat ['isa'] boat ['relatedto'] shipwreck
+vessel ['isa'] sailing_vessel ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['isa'] tank ['relatedto'] fail ['mannerof'] shipwreck
+vessel ['isa', 'relatedto'] tub ['relatedto'] boat ['relatedto'] shipwreck
+vessel ['isa', 'relatedto'] tugboat ['isa', 'relatedto'] boat ['relatedto'] shipwreck
+vessel ['isa', 'relatedto'] urceole ['relatedto'] water ['atlocation'] shipwreck
+vessel ['isa', 'relatedto'] craft ['relatedto', 'synonym'] boat ['relatedto'] shipwreck
+vessel ['isa', 'relatedto'] craft ['relatedto'] ship ['isa', 'relatedto'] shipwreck

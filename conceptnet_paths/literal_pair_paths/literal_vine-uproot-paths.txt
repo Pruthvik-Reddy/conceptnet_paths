@@ -1,0 +1,100 @@
+vine ['isa', 'relatedto'] plant ['relatedto', 'derivedfrom'] transplant ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] floralturbation ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] radicate ['antonym'] uproot
+vine ['isa'] potato ['isa'] root ['relatedto', 'derivedfrom'] uproot
+vine ['relatedto'] growing ['relatedto'] transplant ['relatedto'] uproot
+vine ['isa'] station ['mannerof'] move ['mannerof'] uproot
+vine ['isa'] dodder ['relatedto'] move ['mannerof'] uproot
+vine ['isa'] hop ['mannerof'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] sarsaparilla ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] yam ['isa'] root ['relatedto', 'derivedfrom'] uproot
+vine ['relatedto'] loop ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] cane ['relatedto'] destroy ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['synonym'] establish ['relatedto'] radicate ['antonym'] uproot
+vine ['isa', 'relatedto'] plant ['synonym'] establish ['relatedto'] transplant ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] underground ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] action ['relatedto'] destroy ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] action ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['capableof', 'relatedto', 'synonym'] grow ['mannerof', 'relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] water ['relatedto'] displace ['synonym'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] water ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['antonym'] rock ['mannerof', 'relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto', 'atlocation'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] floralturbation ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto'] stub ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto', 'atlocation'] house ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['atlocation'] table ['relatedto'] stub ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto', 'derivedfrom'] transplant ['entails'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto', 'derivedfrom'] transplant ['mannerof'] displace ['synonym'] uproot
+vine ['isa', 'relatedto'] plant ['distinctfrom', 'relatedto'] bush ['relatedto'] stub ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['isa'] asafoetida ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa'] calamus ['isa'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa', 'relatedto'] cassava ['isa', 'relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa'] elecampane ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa'] flowering_plant ['partof'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa'] ginseng ['isa', 'relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa'] horseradish ['isa'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa', 'relatedto'] inula ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa'] parsnip ['isa'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa', 'partof'] potato ['isa'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['isa'] rhubarb ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto'] put ['antonym', 'mannerof'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['derivedfrom'] root_fallen ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto'] disroot ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto'] eradicate ['relatedto', 'synonym'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto'] eradication ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto'] extirpate ['relatedto', 'synonym'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto'] floralturbation ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto', 'synonym'] radicate ['antonym'] uproot
+vine ['isa', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root ['relatedto'] unroot ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['partof'] plant_part ['isa'] stub ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto', 'partof'] stem ['relatedto', 'synonym'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] alkanet ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] arbuscle ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] asarabacca ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] bareroot ['derivedfrom'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] beechdrops ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] board ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] boot ['isa'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] branch ['antonym', 'relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] breadroot ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] broom_rape ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] broomrape ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] calumba ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] cammock ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] cancer_root ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] canker ['relatedto'] destroy ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] canoe_plant ['relatedto'] transplant ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] caudex ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] chicory ['isa'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] chresard ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] contrayerva ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] convolvulin ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] cowish ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] crinkleroot ['derivedfrom'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] derris ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] diageotropism ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] dodder ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] echinacea ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] edaphophyte ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] emergent ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] energy ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] feverroot ['derivedfrom'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] floralturbation ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] ginger ['isa', 'relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] ginger ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] growth ['relatedto'] floralturbation ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] haustorium ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] herb ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] herbicidal ['relatedto'] destroy ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] hop ['mannerof'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] hypocotyl ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] interplant ['relatedto'] transplant ['relatedto'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] intraradical ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] inulin ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] karree ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] leave ['relatedto'] move ['mannerof'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] leghemoglobin ['relatedto'] root ['relatedto', 'derivedfrom'] uproot
+vine ['isa', 'relatedto'] plant ['relatedto'] list ['mannerof'] move ['mannerof'] uproot

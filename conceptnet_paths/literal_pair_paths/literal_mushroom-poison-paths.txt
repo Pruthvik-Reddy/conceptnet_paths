@@ -1,0 +1,100 @@
+mushroom ['formof', 'relatedto'] mushrooms ['relatedto', 'hasproperty'] poison
+mushroom ['synonym'] gain ['relatedto'] good ['distinctfrom'] poison
+mushroom ['synonym'] accelerate ['mannerof'] change ['mannerof'] poison
+mushroom ['synonym'] accelerate ['relatedto'] gas ['synonym'] poison
+mushroom ['mannerof'] grow ['mannerof', 'relatedto'] change ['mannerof'] poison
+mushroom ['mannerof'] grow ['mannerof'] leaf ['relatedto'] poison
+mushroom ['isa'] vegetable ['isa', 'relatedto'] food ['distinctfrom', 'relatedto'] poison
+mushroom ['relatedto'] atom ['isa', 'relatedto'] substance ['isa', 'relatedto'] poison
+mushroom ['relatedto'] atom ['isa', 'relatedto'] material ['relatedto'] poison
+mushroom ['relatedto'] atom ['relatedto'] arsenic ['isa', 'relatedto'] poison
+mushroom ['relatedto'] atom ['relatedto'] chemistry ['relatedto'] poison
+mushroom ['relatedto'] atom ['relatedto'] matter ['relatedto'] poison
+mushroom ['relatedto'] atom ['relatedto'] type ['relatedto'] poison
+mushroom ['relatedto'] bell ['relatedto'] death ['causes', 'relatedto'] poison
+mushroom ['relatedto'] bell ['relatedto'] tool ['relatedto'] poison
+mushroom ['relatedto'] bell ['relatedto'] change ['mannerof'] poison
+mushroom ['relatedto'] cap ['relatedto'] bottle ['relatedto'] poison
+mushroom ['relatedto'] cap ['relatedto'] tolerance ['relatedto'] poison
+mushroom ['relatedto'] cap ['synonym'] pill ['relatedto'] poison
+mushroom ['isa'] cloud ['relatedto'] water ['relatedto'] poison
+mushroom ['isa'] cloud ['relatedto'] white ['relatedto'] poison
+mushroom ['isa'] cloud ['mannerof'] change ['mannerof'] poison
+mushroom ['isa'] cloud ['relatedto'] related ['relatedto'] poison
+mushroom ['isa'] cloud ['usedfor', 'relatedto'] snow ['relatedto'] poison
+mushroom ['isa'] cloud ['relatedto'] stuff ['relatedto'] poison
+mushroom ['synonym'] spread ['relatedto'] food ['distinctfrom', 'relatedto'] poison
+mushroom ['synonym'] spread ['relatedto'] material ['relatedto'] poison
+mushroom ['relatedto'] context ['relatedto'] present ['relatedto'] poison
+mushroom ['relatedto'] context ['isa', 'relatedto'] environment ['relatedto'] poison
+mushroom ['relatedto'] inflate ['mannerof'] change ['mannerof'] poison
+mushroom ['mannerof'] pick ['antonym'] give ['relatedto'] poison
+mushroom ['mannerof'] pick ['isa', 'relatedto'] tool ['relatedto'] poison
+mushroom ['relatedto'] intensify ['mannerof'] change ['mannerof'] poison
+mushroom ['synonym'] rise ['relatedto'] present ['relatedto'] poison
+mushroom ['synonym'] rise ['mannerof'] change ['mannerof'] poison
+mushroom ['synonym'] rise ['relatedto'] material ['relatedto'] poison
+mushroom ['synonym'] rise ['relatedto'] type ['relatedto'] poison
+mushroom ['relatedto'] gather ['etymologicallyrelatedto'] good ['distinctfrom'] poison
+mushroom ['relatedto'] gather ['relatedto'] food ['distinctfrom', 'relatedto'] poison
+mushroom ['relatedto'] gather ['relatedto'] stuff ['relatedto'] poison
+mushroom ['isa', 'relatedto'] fungus ['atlocation'] food ['distinctfrom', 'relatedto'] poison
+mushroom ['isa', 'relatedto'] fungus ['atlocation'] mushrooms ['relatedto', 'hasproperty'] poison
+mushroom ['atlocation'] tree ['relatedto'] present ['relatedto'] poison
+mushroom ['atlocation'] tree ['desires'] water ['relatedto'] poison
+mushroom ['atlocation'] tree ['locatednear', 'relatedto', 'partof', 'atlocation'] leaf ['relatedto'] poison
+mushroom ['atlocation'] tree ['atlocation'] snake ['relatedto'] poison
+mushroom ['atlocation'] tree ['relatedto'] hemlock ['relatedto'] poison
+mushroom ['atlocation'] tree ['relatedto'] ivy ['relatedto'] poison
+mushroom ['atlocation'] tree ['relatedto'] sassy_bark ['relatedto'] poison
+mushroom ['atlocation'] tree ['relatedto'] suicide_tree ['relatedto'] poison
+mushroom ['relatedto'] soup ['madeof', 'relatedto', 'atlocation'] water ['relatedto'] poison
+mushroom ['relatedto'] soup ['antonym', 'isa', 'relatedto'] food ['distinctfrom', 'relatedto'] poison
+mushroom ['relatedto'] soup ['relatedto'] fluid ['relatedto'] poison
+mushroom ['relatedto'] soup ['relatedto'] drink ['distinctfrom', 'relatedto'] poison
+mushroom ['relatedto'] soup ['relatedto'] eat ['relatedto'] poison
+mushroom ['relatedto'] soup ['relatedto'] drinkable ['distinctfrom', 'relatedto'] poison
+mushroom ['relatedto'] soup ['isa', 'relatedto'] liquid ['relatedto'] poison
+mushroom ['relatedto'] soup ['relatedto'] healing ['antonym'] poison
+mushroom ['relatedto'] soup ['relatedto'] taste ['relatedto'] poison
+mushroom ['relatedto'] soup ['relatedto'] french ['relatedto'] poison
+mushroom ['relatedto'] soup ['relatedto'] juice ['relatedto'] poison
+mushroom ['relatedto'] soup ['relatedto'] properties ['relatedto'] poison
+mushroom ['isa'] living_thing ['atlocation'] injury ['relatedto'] poison
+mushroom ['formof', 'relatedto'] mushrooms ['hasproperty'] poisonous ['relatedto'] poison
+mushroom ['etymologicallyrelatedto'] mush ['relatedto'] snow ['relatedto'] poison
+mushroom ['etymologicallyrelatedto'] mush ['synonym'] treacle ['relatedto'] poison
+mushroom ['isa'] tangible_thing ['isa'] agent ['relatedto'] poison
+mushroom ['isa'] tangible_thing ['isa'] die ['relatedto'] poison
+mushroom ['isa'] tangible_thing ['isa'] matter ['relatedto'] poison
+mushroom ['isa'] tangible_thing ['isa'] medicine ['antonym', 'relatedto'] poison
+mushroom ['isa'] tangible_thing ['isa'] nutrient ['antonym'] poison
+mushroom ['isa'] tangible_thing ['isa'] injury ['relatedto'] poison
+mushroom ['isa'] tangible_thing ['isa'] environment ['relatedto'] poison
+mushroom ['isa'] agaric ['relatedto'] medicine ['antonym', 'relatedto'] poison
+mushroom ['isa', 'relatedto'] toadstool ['relatedto'] poisonous ['relatedto'] poison
+mushroom ['isa', 'relatedto'] toadstool ['isa'] toxic_substance ['relatedto'] poison
+mushroom ['relatedto'] amanita ['relatedto'] poisonous ['relatedto'] poison
+mushroom ['relatedto'] amatoxin ['relatedto'] toxic ['relatedto'] poison
+mushroom ['relatedto'] amatoxin ['derivedfrom'] toxin ['isa', 'relatedto'] poison
+mushroom ['relatedto'] baeocystin ['isa'] drug ['mannerof', 'relatedto'] poison
+mushroom ['relatedto'] bufotoxin ['relatedto'] toxic ['relatedto'] poison
+mushroom ['relatedto'] bufotoxin ['relatedto'] substance ['isa', 'relatedto'] poison
+mushroom ['relatedto'] bufotoxin ['etymologicallyrelatedto'] toxin ['isa', 'relatedto'] poison
+mushroom ['relatedto'] cacciatore ['relatedto'] wine ['isa'] poison
+mushroom ['relatedto'] cepelinas ['relatedto'] stuff ['relatedto'] poison
+mushroom ['relatedto'] conk ['synonym'] die ['relatedto'] poison
+mushroom ['relatedto'] conk ['relatedto'] chemical ['relatedto'] poison
+mushroom ['relatedto'] destroying_angel ['relatedto'] toxic ['relatedto'] poison
+mushroom ['relatedto'] flybane ['relatedto'] poisonous ['relatedto'] poison
+mushroom ['relatedto'] fumet ['relatedto'] food ['distinctfrom', 'relatedto'] poison
+mushroom ['relatedto'] fumet ['relatedto'] fish ['relatedto'] poison
+mushroom ['relatedto'] fumet ['relatedto'] wine ['isa'] poison
+mushroom ['relatedto'] fungi ['isa'] mushrooms ['relatedto', 'hasproperty'] poison
+mushroom ['relatedto'] gill ['relatedto'] fish ['relatedto'] poison
+mushroom ['relatedto'] lead_poisoner ['relatedto'] poisonous ['relatedto'] poison
+mushroom ['relatedto'] luwombo ['relatedto'] leaf ['relatedto'] poison
+mushroom ['relatedto'] muscazone ['relatedto'] toxic ['relatedto'] poison
+mushroom ['relatedto'] upstart ['relatedto'] power ['relatedto'] poison
+mushroom ['relatedto'] mycetism ['relatedto'] poisoning ['formof', 'relatedto'] poison
+mushroom ['relatedto'] norbaeocystin ['isa'] drug ['mannerof', 'relatedto'] poison

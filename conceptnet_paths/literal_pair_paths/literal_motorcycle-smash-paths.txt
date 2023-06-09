@@ -1,0 +1,100 @@
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['relatedto'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['relatedto', 'synonym'] smash
+motorcycle ['relatedto'] two ['relatedto'] little ['relatedto'] smash
+motorcycle ['relatedto'] two ['relatedto'] break ['mannerof', 'relatedto'] smash
+motorcycle ['relatedto'] two ['relatedto'] hand ['relatedto'] smash
+motorcycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] action ['relatedto'] smash
+motorcycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] activity ['relatedto'] smash
+motorcycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] car ['relatedto'] smash
+motorcycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] movement ['relatedto'] smash
+motorcycle ['usedfor', 'mannerof', 'relatedto'] ride ['relatedto'] sexual_intercourse ['relatedto'] smash
+motorcycle ['relatedto'] filter ['hasa'] car ['relatedto'] smash
+motorcycle ['entails'] kick ['relatedto'] action ['relatedto'] smash
+motorcycle ['entails'] kick ['isa'] blow ['relatedto'] smash
+motorcycle ['entails'] kick ['antonym', 'mannerof', 'relatedto'] hit ['mannerof', 'relatedto', 'synonym'] smash
+motorcycle ['entails'] kick ['relatedto'] blooter ['relatedto'] smash
+motorcycle ['entails'] kick ['relatedto'] violence ['relatedto'] smash
+motorcycle ['entails'] kick ['relatedto'] stroke ['relatedto'] smash
+motorcycle ['usedfor'] rush ['relatedto'] action ['relatedto'] smash
+motorcycle ['usedfor'] rush ['relatedto'] band ['relatedto'] smash
+motorcycle ['usedfor'] rush ['relatedto'] big ['relatedto'] smash
+motorcycle ['usedfor'] rush ['relatedto'] boom ['synonym'] smash
+motorcycle ['usedfor'] rush ['relatedto'] movement ['relatedto'] smash
+motorcycle ['usedfor'] rush ['isa', 'mannerof', 'relatedto'] run ['relatedto'] smash
+motorcycle ['usedfor'] rush ['relatedto'] frush ['relatedto'] smash
+motorcycle ['usedfor'] rush ['relatedto'] dash ['synonym'] smash
+motorcycle ['usedfor'] rush ['relatedto'] event ['relatedto'] smash
+motorcycle ['atlocation'] screw ['relatedto'] sexual_intercourse ['relatedto'] smash
+motorcycle ['atlocation'] garage ['relatedto', 'atlocation'] car ['relatedto'] smash
+motorcycle ['atlocation'] garage ['atlocation'] hammer ['relatedto'] smash
+motorcycle ['partof'] engine ['hasa', 'relatedto', 'partof'] car ['relatedto'] smash
+motorcycle ['partof'] engine ['relatedto'] movement ['relatedto'] smash
+motorcycle ['partof'] engine ['relatedto'] run ['relatedto'] smash
+motorcycle ['partof'] engine ['relatedto'] blast ['synonym'] smash
+motorcycle ['relatedto'] hot_rod ['isa', 'relatedto'] car ['relatedto'] smash
+motorcycle ['relatedto'] monkey ['relatedto'] little ['relatedto'] smash
+motorcycle ['relatedto'] monkey ['relatedto'] boom ['synonym'] smash
+motorcycle ['relatedto', 'derivedfrom'] motor ['relatedto'] car ['relatedto'] smash
+motorcycle ['relatedto', 'derivedfrom'] motor ['relatedto'] movement ['relatedto'] smash
+motorcycle ['isa'] honda ['isa'] car ['relatedto'] smash
+motorcycle ['isa'] motor_vehicle ['isa', 'relatedto'] car ['relatedto'] smash
+motorcycle ['relatedto'] airbox ['relatedto'] car ['relatedto'] smash
+motorcycle ['relatedto'] biker ['relatedto'] club ['relatedto'] smash
+motorcycle ['relatedto'] cruiser ['isa', 'relatedto'] car ['relatedto'] smash
+motorcycle ['relatedto'] driving_school ['relatedto'] car ['relatedto'] smash
+motorcycle ['relatedto'] enduro ['relatedto'] event ['relatedto'] smash
+motorcycle ['relatedto'] high_side ['relatedto'] crash ['relatedto', 'synonym'] smash
+motorcycle ['relatedto'] hog ['relatedto'] big ['relatedto'] smash
+motorcycle ['relatedto'] low_side ['relatedto'] crash ['relatedto', 'synonym'] smash
+motorcycle ['relatedto'] scooter ['relatedto'] little ['relatedto'] smash
+motorcycle ['relatedto'] ride_bitch ['relatedto'] car ['relatedto'] smash
+motorcycle ['relatedto'] sidecar ['derivedfrom'] car ['relatedto'] smash
+motorcycle ['relatedto'] stroker ['relatedto'] stroke ['relatedto'] smash
+motorcycle ['usedfor'] transportation ['relatedto'] car ['relatedto'] smash
+motorcycle ['usedfor'] transportation ['isa'] movement ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] handle ['relatedto', 'partof'] hammer ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] handle ['relatedto'] car ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] handle ['relatedto'] grab ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] handle ['relatedto', 'synonym'] hand ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] handle ['relatedto'] put ['antonym'] smash
+motorcycle ['synonym'] bike ['relatedto'] handle ['relatedto'] sledgehammer ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] handle ['synonym'] feel ['antonym'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['relatedto'] accident ['relatedto'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['relatedto'] big ['relatedto'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['atlocation'] flat ['relatedto'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['capableof'] crash ['relatedto', 'synonym'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['hasa'] windows ['relatedto'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['relatedto'] break ['mannerof', 'relatedto'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['relatedto'] put ['antonym'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['relatedto'] car_crash ['relatedto'] smash
+motorcycle ['synonym'] bike ['antonym', 'distinctfrom'] car ['relatedto'] wreck ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] garage ['relatedto', 'atlocation'] car ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] garage ['atlocation'] hammer ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] street ['relatedto'] big ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] street ['relatedto'] little ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] street ['relatedto'] car ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] street ['atlocation'] glass ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] seat ['hasa', 'relatedto'] car ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] seat ['mannerof'] put ['antonym'] smash
+motorcycle ['synonym'] bike ['atlocation'] seat ['relatedto'] term ['relatedto'] smash
+motorcycle ['synonym'] bike ['atlocation'] seat ['usedfor'] hit ['mannerof', 'relatedto', 'synonym'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['isa', 'relatedto'] accident ['relatedto'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['capableof'] car ['relatedto'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['etymologicallyrelatedto'] break ['mannerof', 'relatedto'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['isa', 'relatedto'] hit ['mannerof', 'relatedto', 'synonym'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['relatedto'] loud ['relatedto'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['relatedto', 'synonym'] wreck ['relatedto'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['mannerof', 'relatedto'] collide ['mannerof'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['relatedto'] crush ['relatedto', 'synonym'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['relatedto'] frush ['relatedto'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['synonym'] break_apart ['relatedto'] smash
+motorcycle ['synonym'] bike ['capableof'] crash ['synonym'] dash ['synonym'] smash
+motorcycle ['synonym'] bike ['derivedfrom'] biker ['relatedto'] club ['relatedto'] smash
+motorcycle ['synonym'] bike ['derivedfrom'] cross_bike ['relatedto'] flat ['relatedto'] smash
+motorcycle ['synonym'] bike ['hasprerequisite'] riding_bike ['causes'] accident ['relatedto'] smash
+motorcycle ['synonym'] bike ['partof'] sprocket ['relatedto'] band ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] ant ['relatedto'] little ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] ant ['relatedto'] tiny ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] bee ['atlocation'] car ['relatedto'] smash
+motorcycle ['synonym'] bike ['relatedto'] bee ['relatedto'] nail ['synonym'] smash
+motorcycle ['synonym'] bike ['relatedto'] nest ['relatedto'] little ['relatedto'] smash

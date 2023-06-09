@@ -1,0 +1,100 @@
+sandwich ['relatedto'] egg ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] murder ['relatedto'] devour
+sandwich ['atlocation'] plate ['relatedto', 'atlocation'] eat ['mannerof', 'relatedto'] devour
+sandwich ['isa', 'relatedto'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['isa', 'relatedto'] food ['relatedto'] pig ['synonym'] devour
+sandwich ['isa', 'relatedto'] food ['relatedto'] voracious ['relatedto'] devour
+sandwich ['isa', 'relatedto'] food ['relatedto'] wolfer ['relatedto'] devour
+sandwich ['relatedto', 'partof', 'atlocation'] bread ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] dinner ['relatedto', 'atlocation'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] soup ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['isa'] snack_food ['relatedto'] consume ['synonym'] devour
+sandwich ['relatedto', 'partof'] meal ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto', 'partof'] meal ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] honeycomb ['mannerof'] fret ['relatedto'] devour
+sandwich ['relatedto'] dish ['usedfor'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] smaller ['formof', 'relatedto'] small ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] smaller ['relatedto'] fox ['relatedto'] wolf ['relatedto'] devour
+sandwich ['relatedto'] smaller ['relatedto'] grind ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] smaller ['relatedto'] live ['hasprerequisite'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] smaller ['relatedto'] live ['mannerof', 'relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] smaller ['relatedto'] river ['isa'] wolf ['relatedto'] devour
+sandwich ['relatedto'] smaller ['relatedto'] rock ['isa'] lurch ['relatedto'] devour
+sandwich ['relatedto'] smaller ['relatedto'] sea ['relatedto'] fret ['relatedto'] devour
+sandwich ['relatedto'] smaller ['relatedto'] seed ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] smaller ['relatedto'] squirrel ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] birth ['antonym'] murder ['relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] child ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] young ['capableof'] enjoy ['mannerof'] devour
+sandwich ['relatedto'] egg ['relatedto'] animal ['desires'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] animal ['isa', 'relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] animal ['isa', 'relatedto'] wolf ['relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] bird ['isa', 'relatedto'] raven ['relatedto', 'synonym'] devour
+sandwich ['relatedto'] egg ['antonym'] banana ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] lay ['derivedfrom'] lay_waste ['relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] good ['relatedto'] enjoy ['mannerof'] devour
+sandwich ['relatedto'] egg ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'createdby'] chicken ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['atlocation'] plate ['relatedto', 'atlocation'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['relatedto'] voracious ['relatedto'] devour
+sandwich ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['relatedto'] wolfer ['relatedto'] devour
+sandwich ['relatedto'] egg ['madeof', 'relatedto'] cake ['usedfor', 'relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] breakfast ['mannerof', 'relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] chickenarian ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] bacon ['madeof', 'relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] birds ['capableof'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] birthday ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['relatedto'] demolish ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['relatedto'] destroy ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['relatedto', 'derivedfrom'] fret ['relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['mannerof', 'relatedto', 'synonym'] consume ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['mannerof', 'relatedto'] gobble ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['mannerof', 'relatedto'] wolf ['relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['relatedto'] abite ['relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['relatedto'] engorge ['relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] eat ['relatedto'] lurch ['relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] eaten ['formof', 'relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] eating ['formof', 'relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] edible ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] edible ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] farms ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] origin ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] produce ['antonym'] destroy ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] produce ['antonym'] consume ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] seed ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['relatedto'] small ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] source ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] egg ['relatedto'] ovivorous ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] egg ['usedfor'] throwing ['antonym'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] present ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] action ['relatedto'] destroy ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] action ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] activity ['relatedto'] eat ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] someone ['relatedto'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['antonym'] go ['relatedto'] enjoy ['mannerof'] devour
+sandwich ['relatedto'] hang ['antonym'] lay ['derivedfrom'] lay_waste ['relatedto'] devour
+sandwich ['relatedto'] hang ['isa', 'mannerof', 'relatedto'] execute ['mannerof'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['mannerof', 'relatedto'] decorate ['mannerof'] fret ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] bar ['isa'] fret ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] death ['createdby', 'relatedto'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] execution ['synonym'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] kill ['mannerof', 'relatedto', 'synonym'] destroy ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] kill ['mannerof', 'relatedto', 'hasprerequisite', 'synonym'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] kill ['relatedto'] wolfer ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] kill_someone ['relatedto'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] killing ['antonym', 'isa', 'relatedto'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] lynching ['isa'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] self ['antonym'] murder ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] string ['relatedto'] fret ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] use ['synonym'] absorb ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] use ['relatedto'] destroy ['mannerof', 'relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] use ['mannerof', 'relatedto'] enjoy ['mannerof'] devour
+sandwich ['relatedto'] hang ['relatedto'] use ['mannerof', 'relatedto', 'synonym', 'entails'] consume ['synonym'] devour
+sandwich ['relatedto'] hang ['relatedto'] ham ['relatedto'] pig ['synonym'] devour
+sandwich ['relatedto'] hang ['relatedto'] pitch ['synonym'] lurch ['relatedto'] devour
+sandwich ['relatedto'] hang ['relatedto'] loafer ['relatedto'] wolf ['relatedto'] devour
+sandwich ['atlocation'] plate ['relatedto'] negative ['relatedto'] destructive ['relatedto'] devour
+sandwich ['atlocation'] plate ['relatedto'] animal ['desires'] eat ['mannerof', 'relatedto'] devour
+sandwich ['atlocation'] plate ['relatedto'] animal ['isa', 'relatedto'] pig ['synonym'] devour
+sandwich ['atlocation'] plate ['relatedto'] animal ['isa', 'relatedto'] wolf ['relatedto'] devour

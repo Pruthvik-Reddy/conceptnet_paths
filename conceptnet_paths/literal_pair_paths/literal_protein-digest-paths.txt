@@ -1,0 +1,100 @@
+protein ['relatedto'] erepsin ['relatedto'] digest
+protein ['relatedto'] marasmus ['relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] food ['antonym', 'distinctfrom', 'relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] food ['relatedto', 'atlocation'] stomach ['mannerof', 'synonym'] digest
+protein ['relatedto'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] food ['isa', 'relatedto'] chyme ['relatedto'] digest
+protein ['relatedto'] food ['relatedto'] digester ['relatedto'] digest
+protein ['relatedto'] food ['relatedto'] digestion ['relatedto'] digest
+protein ['relatedto'] food ['relatedto'] prebiotic ['relatedto'] digest
+protein ['relatedto'] food ['relatedto'] process ['mannerof'] digest
+protein ['relatedto'] fish ['relatedto'] bear ['synonym'] digest
+protein ['relatedto'] fish ['isa'] permit ['mannerof'] digest
+protein ['relatedto'] fish ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] fish ['usedfor'] brook ['synonym'] digest
+protein ['hasa', 'relatedto', 'usedfor'] meat ['antonym'] drink ['relatedto'] digest
+protein ['hasa', 'relatedto', 'usedfor'] meat ['usedfor'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] chicken ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['isa'] silk ['relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] energy ['relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] foot ['relatedto'] stand ['synonym'] digest
+protein ['relatedto'] foot ['mannerof', 'relatedto'] pay ['mannerof'] digest
+protein ['relatedto'] foot ['isa'] support ['synonym'] digest
+protein ['relatedto', 'similarto'] fat ['relatedto'] olestra ['relatedto'] digest
+protein ['relatedto'] milk ['relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] chain ['mannerof'] arrange ['synonym'] digest
+protein ['relatedto'] hemoglobin ['relatedto'] bilirubin ['relatedto'] digest
+protein ['relatedto'] albumose ['relatedto'] digestion ['relatedto'] digest
+protein ['isa', 'relatedto'] enzyme ['relatedto'] erepsin ['relatedto'] digest
+protein ['isa', 'relatedto'] enzyme ['relatedto'] macerozyme ['relatedto'] digest
+protein ['relatedto', 'partof'] amino_acid ['relatedto'] erepsin ['relatedto'] digest
+protein ['relatedto'] peptone ['relatedto'] erepsin ['relatedto'] digest
+protein ['relatedto', 'similarto'] carbohydrate ['relatedto'] dietary_fibre ['relatedto'] digest
+protein ['relatedto'] proteolysis ['relatedto'] digestion ['relatedto'] digest
+protein ['relatedto'] checkpoint_protein ['relatedto'] process ['mannerof'] digest
+protein ['relatedto'] chromatin ['relatedto'] condense ['synonym'] digest
+protein ['isa', 'relatedto'] cholecystokinin ['relatedto'] digestion ['relatedto'] digest
+protein ['isa'] gastrin ['relatedto'] stomach ['mannerof', 'synonym'] digest
+protein ['isa'] ghrelin ['relatedto'] stomach ['mannerof', 'synonym'] digest
+protein ['relatedto'] actinidin ['relatedto'] digesting ['formof', 'relatedto'] digest
+protein ['relatedto'] bilitranslocase ['relatedto'] bilirubin ['relatedto'] digest
+protein ['relatedto'] denature ['mannerof'] change ['mannerof'] digest
+protein ['relatedto'] digestome ['relatedto'] digestion ['relatedto'] digest
+protein ['relatedto'] hydrolysis ['relatedto'] process ['mannerof'] digest
+protein ['relatedto'] liver_function_test ['relatedto'] bilirubin ['relatedto'] digest
+protein ['relatedto'] phenylalanine ['relatedto'] metabolize ['entails'] digest
+protein ['relatedto'] processome ['derivedfrom'] process ['mannerof'] digest
+protein ['relatedto'] rubiscolin ['relatedto'] digestion ['relatedto'] digest
+protein ['relatedto'] sonic_hedgehog ['relatedto'] compilation ['synonym'] digest
+protein ['relatedto'] translation ['relatedto'] change ['mannerof'] digest
+protein ['relatedto'] translation ['relatedto'] process ['mannerof'] digest
+protein ['relatedto'] zonulin ['relatedto'] digestive_tract ['relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] birth ['etymologicallyrelatedto', 'relatedto'] bear ['synonym'] digest
+protein ['relatedto'] egg ['relatedto'] birth ['isa'] change ['mannerof'] digest
+protein ['relatedto'] egg ['relatedto'] child ['relatedto'] process ['mannerof'] digest
+protein ['relatedto'] egg ['relatedto'] child ['relatedto'] support ['synonym'] digest
+protein ['relatedto'] egg ['relatedto'] animal ['atlocation'] stomach ['mannerof', 'synonym'] digest
+protein ['relatedto'] egg ['relatedto'] animal ['desires'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] animal ['isa', 'relatedto'] bear ['synonym'] digest
+protein ['relatedto'] egg ['relatedto'] animal ['relatedto'] carnivorous_plant ['relatedto'] digest
+protein ['relatedto'] egg ['antonym'] banana ['atlocation'] stomach ['mannerof', 'synonym'] digest
+protein ['relatedto'] egg ['antonym'] banana ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] lay ['antonym'] stand ['synonym'] digest
+protein ['relatedto'] egg ['relatedto'] baby ['relatedto'] bear ['synonym'] digest
+protein ['relatedto'] egg ['relatedto'] good ['relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] egg ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'createdby'] chicken ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['atlocation'] plate ['relatedto', 'atlocation'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['relatedto', 'hasproperty'] round ['relatedto'] change ['mannerof'] digest
+protein ['relatedto'] egg ['relatedto', 'hasproperty'] white ['relatedto'] bear ['synonym'] digest
+protein ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['antonym', 'distinctfrom', 'relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['relatedto', 'atlocation'] stomach ['mannerof', 'synonym'] digest
+protein ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['isa', 'relatedto'] chyme ['relatedto'] digest
+protein ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['relatedto'] digester ['relatedto'] digest
+protein ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['relatedto'] digestion ['relatedto'] digest
+protein ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['relatedto'] prebiotic ['relatedto'] digest
+protein ['relatedto'] egg ['isa', 'usedfor', 'relatedto'] food ['relatedto'] process ['mannerof'] digest
+protein ['relatedto'] egg ['isa'] foodstuff ['isa'] concentrate ['synonym'] digest
+protein ['relatedto'] egg ['isa'] magazine ['isa', 'relatedto', 'synonym'] periodical ['isa'] digest
+protein ['relatedto'] egg ['isa'] magazine ['relatedto'] read ['relatedto'] digest
+protein ['relatedto'] egg ['madeof', 'relatedto'] cake ['usedfor', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['relatedto', 'partof'] shell ['relatedto'] pay ['mannerof'] digest
+protein ['relatedto'] egg ['relatedto'] bavaroise ['relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] breakfast ['mannerof', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] caudle ['relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] chickenarian ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] copenhagen ['relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] drop ['mannerof'] change ['mannerof'] digest
+protein ['relatedto'] egg ['relatedto'] birds ['capableof'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] birthday ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] boiling ['relatedto'] change ['mannerof'] digest
+protein ['relatedto'] egg ['relatedto'] center ['relatedto', 'synonym'] concentrate ['synonym'] digest
+protein ['relatedto'] egg ['relatedto'] cholesterol ['relatedto'] olestra ['relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] circle ['relatedto'] change ['mannerof'] digest
+protein ['relatedto'] egg ['usedfor', 'relatedto'] cooking ['relatedto'] reduce ['relatedto'] digest
+protein ['relatedto'] egg ['usedfor', 'relatedto'] cooking ['relatedto'] process ['mannerof'] digest
+protein ['relatedto'] egg ['relatedto'] eat ['antonym', 'distinctfrom', 'relatedto'] drink ['relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] eat ['isa', 'mannerof'] ruminate ['relatedto'] digest
+protein ['relatedto'] egg ['relatedto'] eat ['mannerof', 'relatedto', 'synonym'] consume ['entails'] digest
+protein ['relatedto'] egg ['relatedto'] eat ['relatedto'] digestion ['relatedto'] digest

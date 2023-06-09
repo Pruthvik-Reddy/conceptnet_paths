@@ -1,0 +1,100 @@
+neutron ['relatedto', 'partof'] atom ['atlocation'] string ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] radiative_recombination ['relatedto'] capture
+neutron ['relatedto'] charge ['mannerof'] change ['mannerof'] capture
+neutron ['relatedto'] charge ['mannerof', 'relatedto'] account ['relatedto'] capture
+neutron ['relatedto'] charge ['relatedto'] control ['relatedto'] capture
+neutron ['relatedto'] charge ['relatedto'] king ['relatedto'] capture
+neutron ['relatedto'] pit ['isa', 'usedfor'] trap ['mannerof'] capture
+neutron ['relatedto'] pit ['synonym'] match ['relatedto'] capture
+neutron ['synonym'] en ['etymologicallyrelatedto'] entrance ['synonym'] capture
+neutron ['synonym'] en ['derivedfrom'] enchant ['synonym'] capture
+neutron ['synonym'] en ['derivedfrom'] enamor ['synonym'] capture
+neutron ['synonym'] en ['relatedto'] rat ['mannerof'] capture
+neutron ['relatedto'] quark ['relatedto'] text ['relatedto'] capture
+neutron ['relatedto'] quark ['isa'] charm ['synonym'] capture
+neutron ['relatedto'] quark ['relatedto', 'atlocation'] string ['relatedto'] capture
+neutron ['relatedto'] absorption ['isa'] natural_process ['isa'] capture
+neutron ['relatedto'] magic_number ['relatedto'] catch ['relatedto', 'synonym'] capture
+neutron ['relatedto'] nuclear_reaction ['isa'] natural_process ['isa'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] smaller ['relatedto'] reduce ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] biological ['relatedto'] cavicapture ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] number ['relatedto'] account ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] together ['relatedto'] exchange ['isa', 'relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] set ['relatedto'] go ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] set ['mannerof'] change ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] set ['relatedto'] bag ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] set ['relatedto'] board ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] set ['relatedto'] match ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] set ['relatedto'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] science ['relatedto'] hygiene ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] science ['relatedto'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['madeof', 'relatedto', 'atlocation'] electrons ['relatedto'] reduce ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto', 'partof', 'synonym', 'atlocation'] molecule ['relatedto'] affinity_reagent ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto', 'partof', 'synonym', 'atlocation'] molecule ['relatedto'] cavicapture ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['atlocation'] string ['relatedto'] pattern ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['atlocation'] string ['relatedto'] hang ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['atlocation'] string ['relatedto'] text ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['atlocation'] string ['mannerof'] change ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['atlocation'] string ['relatedto'] collar ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['atlocation'] string ['relatedto'] escape ['antonym', 'relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto', 'derivedfrom'] atomize ['relatedto'] reduce ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['isa', 'relatedto'] material ['relatedto'] pattern ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['isa', 'relatedto'] material ['relatedto'] board ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['isa', 'relatedto'] material ['relatedto'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['isa', 'relatedto'] material ['relatedto'] sail ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['isa'] comics_character ['isa'] fang ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['isa'] grain ['relatedto'] board ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] absorption_line ['relatedto'] pattern ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] adam ['synonym'] go ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] ball ['relatedto'] catch ['relatedto', 'synonym'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] ball ['relatedto'] chase ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] ball ['relatedto'] string ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] block ['mannerof'] hold ['mannerof', 'relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] building ['usedfor', 'relatedto', 'atlocation'] board ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] building ['relatedto', 'hasprerequisite'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] cell ['isa'] hold ['mannerof', 'relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] cell ['relatedto'] frog ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] cloud ['mannerof'] change ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] component ['relatedto'] king ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] description ['relatedto', 'synonym'] account ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] energy ['relatedto', 'synonym'] go ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] energy ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] energy ['relatedto'] radiative_recombination ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] large ['relatedto'] madrague ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] large ['relatedto'] rat ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] large ['relatedto'] sail ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] life ['relatedto'] go ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] life ['relatedto'] board ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] life ['relatedto', 'derivedfrom'] lifelog ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] living ['causes'] change ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] living ['relatedto'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] made ['relatedto'] board ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] made ['relatedto'] sail ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] mass ['relatedto'] malaxation ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] matter ['isa'] text ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] matter ['relatedto'] change ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] much ['distinctfrom'] rat ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] part ['relatedto'] go ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] part ['relatedto'] board ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] part ['synonym'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] part ['relatedto'] sail ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] physical ['relatedto'] apprehension ['isa'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] physical ['relatedto'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] physical ['relatedto'] reward ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] piece ['relatedto'] board ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] piece ['isa', 'relatedto'] king ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] piece ['relatedto'] chess ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] piece ['relatedto'] quiet_move ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] piece ['relatedto'] touch_move ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] piece ['relatedto'] touch_move_rule ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] small ['relatedto'] change ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] small ['relatedto'] frog ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] small ['relatedto'] rat ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] small ['relatedto'] reduce ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] structure ['relatedto'] attract ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] structure ['relatedto'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] structure ['isa'] sail ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] term ['relatedto'] work ['mannerof'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] term ['relatedto'] account ['relatedto'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] term ['relatedto'] conquest ['isa'] capture
+neutron ['relatedto', 'partof'] atom ['relatedto'] term ['relatedto'] control ['relatedto'] capture

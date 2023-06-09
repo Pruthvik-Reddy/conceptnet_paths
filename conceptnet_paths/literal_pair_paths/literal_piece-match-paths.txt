@@ -1,0 +1,100 @@
+piece ['relatedto'] head ['partof'] match
+piece ['etymologicallyrelatedto'] fit ['relatedto', 'synonym'] match
+piece ['relatedto'] card ['relatedto'] match
+piece ['relatedto'] game ['relatedto', 'synonym'] match
+piece ['relatedto'] sock ['relatedto'] match
+piece ['usedfor'] fix ['relatedto'] join ['mannerof'] match
+piece ['usedfor'] fix ['synonym'] set ['relatedto'] match
+piece ['relatedto'] peace ['antonym', 'distinctfrom'] fight ['relatedto'] match
+piece ['relatedto'] peace ['relatedto'] agreement ['relatedto'] match
+piece ['relatedto'] peace ['relatedto'] equal ['mannerof', 'relatedto', 'synonym'] match
+piece ['relatedto'] smaller ['relatedto'] compact ['relatedto'] match
+piece ['relatedto'] apart ['antonym', 'distinctfrom', 'relatedto'] join ['mannerof'] match
+piece ['relatedto'] apart ['relatedto'] away ['relatedto'] match
+piece ['relatedto', 'synonym'] man ['relatedto'] fire ['causes', 'relatedto', 'usedfor'] match
+piece ['relatedto', 'synonym'] man ['isa', 'relatedto'] fellow ['relatedto'] match
+piece ['relatedto', 'synonym'] man ['relatedto'] supply ['mannerof'] match
+piece ['relatedto'] house ['atlocation'] fire ['causes', 'relatedto', 'usedfor'] match
+piece ['relatedto'] house ['relatedto'] ground ['relatedto'] match
+piece ['relatedto'] house ['atlocation'] rubber ['relatedto'] match
+piece ['relatedto'] house ['atlocation'] sock ['relatedto'] match
+piece ['relatedto'] house ['isa', 'relatedto'] place ['relatedto'] match
+piece ['relatedto'] house ['relatedto'] card ['relatedto'] match
+piece ['relatedto'] house ['relatedto'] head ['partof'] match
+piece ['relatedto'] house ['relatedto'] game ['relatedto', 'synonym'] match
+piece ['relatedto'] house ['relatedto'] square ['mannerof'] match
+piece ['relatedto'] arrangement ['relatedto', 'synonym'] agreement ['relatedto'] match
+piece ['relatedto'] arrangement ['relatedto'] pattern ['mannerof', 'relatedto'] match
+piece ['relatedto'] art ['relatedto'] amate ['relatedto'] match
+piece ['isa', 'relatedto'] article ['relatedto'] set ['relatedto'] match
+piece ['isa', 'relatedto'] article ['relatedto'] sock ['relatedto'] match
+piece ['relatedto'] column ['relatedto'] parallel ['mannerof'] match
+piece ['relatedto'] column ['hasproperty'] straight ['relatedto'] match
+piece ['relatedto'] column ['relatedto'] call ['relatedto'] match
+piece ['relatedto'] column ['relatedto'] round ['relatedto'] match
+piece ['relatedto'] column ['relatedto'] head ['partof'] match
+piece ['relatedto'] column ['relatedto'] place ['relatedto'] match
+piece ['relatedto'] column ['relatedto'] square ['mannerof'] match
+piece ['relatedto'] atom ['relatedto'] set ['relatedto'] match
+piece ['relatedto'] atom ['relatedto'] equivalence ['relatedto'] match
+piece ['relatedto'] attraction ['relatedto'] card ['relatedto'] match
+piece ['relatedto', 'synonym'] stick ['relatedto'] ground ['relatedto'] match
+piece ['relatedto', 'synonym'] stick ['isa'] matchstick ['relatedto', 'partof'] match
+piece ['relatedto', 'synonym'] stick ['relatedto', 'synonym'] adhere ['mannerof'] match
+piece ['relatedto', 'synonym'] stick ['relatedto'] catch ['synonym'] match
+piece ['relatedto', 'synonym'] stick ['relatedto', 'synonym'] cigarette ['relatedto'] match
+piece ['relatedto', 'synonym'] stick ['relatedto'] straight ['relatedto'] match
+piece ['relatedto', 'synonym'] stick ['relatedto'] utensil ['isa'] match
+piece ['relatedto'] bank ['relatedto', 'atlocation'] check ['synonym'] match
+piece ['relatedto'] bank ['relatedto'] place ['relatedto'] match
+piece ['relatedto'] bank ['relatedto'] side ['relatedto'] match
+piece ['relatedto'] cover ['isa'] fire ['causes', 'relatedto', 'usedfor'] match
+piece ['relatedto'] cover ['relatedto'] square ['mannerof'] match
+piece ['relatedto'] cover ['relatedto'] place ['relatedto'] match
+piece ['relatedto'] cover ['relatedto'] rubber ['relatedto'] match
+piece ['relatedto'] cover ['relatedto'] sock ['relatedto'] match
+piece ['relatedto'] cover ['usedfor'] diving ['isa'] match
+piece ['relatedto', 'atlocation'] plate ['relatedto'] main ['relatedto'] match
+piece ['relatedto', 'atlocation'] plate ['relatedto'] place ['relatedto'] match
+piece ['relatedto', 'atlocation'] plate ['relatedto'] round ['relatedto'] match
+piece ['relatedto', 'atlocation'] plate ['relatedto'] utensil ['isa'] match
+piece ['relatedto', 'atlocation'] plate ['relatedto'] contest ['isa'] match
+piece ['relatedto'] bed ['relatedto'] square ['mannerof'] match
+piece ['relatedto'] bed ['isa', 'relatedto'] place ['relatedto'] match
+piece ['relatedto'] bed ['mannerof'] supply ['mannerof'] match
+piece ['relatedto'] bed ['relatedto'] double ['relatedto'] match
+piece ['relatedto'] bed ['relatedto'] twin ['mannerof', 'synonym'] match
+piece ['relatedto'] bed ['relatedto'] utensil ['isa'] match
+piece ['relatedto'] little ['relatedto'] card ['relatedto'] match
+piece ['relatedto'] little ['relatedto'] double ['relatedto'] match
+piece ['relatedto'] little ['relatedto'] mouse ['relatedto'] match
+piece ['relatedto'] little ['relatedto'] tally ['relatedto', 'synonym'] match
+piece ['relatedto'] small ['relatedto'] ground ['relatedto'] match
+piece ['relatedto'] small ['relatedto'] away ['relatedto'] match
+piece ['relatedto'] small ['relatedto'] card ['relatedto'] match
+piece ['relatedto'] small ['relatedto'] cigarette ['relatedto'] match
+piece ['relatedto'] small ['relatedto'] compact ['relatedto'] match
+piece ['relatedto'] small ['relatedto'] matchstick ['relatedto', 'partof'] match
+piece ['relatedto'] small ['relatedto'] mouse ['relatedto'] match
+piece ['relatedto'] small ['relatedto'] side ['relatedto'] match
+piece ['relatedto'] small ['relatedto'] spark ['relatedto'] match
+piece ['relatedto'] coin ['atlocation'] ground ['relatedto'] match
+piece ['relatedto'] coin ['partof'] head ['partof'] match
+piece ['relatedto'] coin ['relatedto'] round ['relatedto'] match
+piece ['relatedto'] coin ['relatedto'] card ['relatedto'] match
+piece ['relatedto'] coin ['relatedto'] double ['relatedto'] match
+piece ['relatedto', 'synonym'] bit ['isa'] matchwood ['relatedto', 'derivedfrom'] match
+piece ['relatedto', 'synonym'] bit ['relatedto'] fit ['relatedto', 'synonym'] match
+piece ['relatedto', 'synonym'] bit ['relatedto'] spark ['relatedto'] match
+piece ['relatedto'] black ['relatedto'] race ['relatedto'] match
+piece ['relatedto'] black ['relatedto'] card ['relatedto'] match
+piece ['relatedto'] white ['relatedto'] card ['relatedto'] match
+piece ['relatedto'] white ['relatedto'] cigarette ['relatedto'] match
+piece ['relatedto'] white ['relatedto'] sock ['relatedto'] match
+piece ['relatedto'] white ['relatedto'] mark ['relatedto'] match
+piece ['relatedto'] board ['relatedto'] set ['relatedto'] match
+piece ['relatedto'] board ['relatedto'] square ['mannerof'] match
+piece ['relatedto'] board ['mannerof'] catch ['synonym'] match
+piece ['relatedto'] board ['relatedto'] diving ['isa'] match
+piece ['relatedto'] board ['relatedto'] game ['relatedto', 'synonym'] match
+piece ['relatedto'] board ['relatedto'] head ['partof'] match

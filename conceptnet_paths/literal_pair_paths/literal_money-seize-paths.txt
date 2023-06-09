@@ -1,0 +1,100 @@
+money ['relatedto'] capitalize ['relatedto'] seize
+money ['relatedto'] gain ['relatedto'] bind ['relatedto'] seize
+money ['relatedto'] gain ['relatedto'] fast ['relatedto'] seize
+money ['relatedto'] advance ['mannerof', 'relatedto'] encroach ['relatedto'] seize
+money ['relatedto'] payment ['relatedto'] distrain ['relatedto'] seize
+money ['relatedto'] payment ['relatedto'] distress ['synonym'] seize
+money ['relatedto'] safe ['relatedto'] lock ['relatedto'] seize
+money ['desires'] human ['atlocation'] distress ['synonym'] seize
+money ['desires'] human ['isa'] fang ['relatedto'] seize
+money ['isa'] agent ['relatedto'] crimp ['relatedto'] seize
+money ['atlocation'] ground ['relatedto'] upon ['relatedto'] seize
+money ['relatedto'] dead ['relatedto'] abstract ['synonym'] seize
+money ['relatedto'] back ['relatedto'] snap ['relatedto'] seize
+money ['relatedto'] band ['etymologicallyrelatedto'] bind ['relatedto'] seize
+money ['relatedto'] band ['isa', 'relatedto'] collar ['mannerof', 'relatedto'] seize
+money ['relatedto'] band ['isa'] snap ['relatedto'] seize
+money ['relatedto'] cover ['synonym'] embrace ['relatedto'] seize
+money ['relatedto'] cover ['mannerof'] bind ['relatedto'] seize
+money ['relatedto'] cover ['mannerof'] hold ['relatedto'] seize
+money ['relatedto'] cover ['relatedto'] upon ['relatedto'] seize
+money ['relatedto'] bargain ['relatedto'] bind ['relatedto'] seize
+money ['relatedto'] benefit ['relatedto'] capitalize ['relatedto'] seize
+money ['isa', 'relatedto'] bill ['relatedto'] hook ['mannerof'] seize
+money ['isa', 'relatedto'] bill ['relatedto'] bind ['relatedto'] seize
+money ['isa', 'relatedto'] bill ['relatedto'] hijack ['relatedto'] seize
+money ['relatedto'] check ['relatedto', 'synonym'] arrest ['relatedto'] seize
+money ['isa', 'relatedto'] time ['relatedto'] fix ['relatedto'] seize
+money ['isa', 'relatedto'] time ['relatedto'] abstract ['synonym'] seize
+money ['isa', 'relatedto'] time ['relatedto'] fast ['relatedto'] seize
+money ['isa', 'relatedto'] time ['relatedto'] snap ['relatedto'] seize
+money ['relatedto'] board ['mannerof'] catch ['mannerof', 'relatedto'] seize
+money ['relatedto'] board ['relatedto'] capture ['relatedto'] seize
+money ['relatedto'] nut ['relatedto'] rack ['mannerof'] seize
+money ['isa'] magazine ['atlocation'] rack ['mannerof'] seize
+money ['relatedto'] root ['relatedto'] catch ['mannerof', 'relatedto'] seize
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['mannerof'] rack ['mannerof'] seize
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['mannerof'] capture ['relatedto'] seize
+money ['causesdesire', 'motivatedbygoal', 'relatedto'] work ['relatedto'] diligence ['relatedto'] seize
+money ['relatedto'] brief ['relatedto'] abstract ['synonym'] seize
+money ['relatedto'] brief ['relatedto'] hook ['mannerof'] seize
+money ['relatedto'] broke ['antonym'] fix ['relatedto'] seize
+money ['relatedto'] business ['relatedto'] opportunity ['relatedto'] seize
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] fix ['relatedto'] seize
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] catch ['mannerof', 'relatedto'] seize
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] assume ['synonym'] seize
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] capitalize ['relatedto'] seize
+money ['antonym', 'isa', 'relatedto'] change ['mannerof'] capture ['relatedto'] seize
+money ['antonym', 'isa', 'relatedto'] change ['relatedto'] opportunity ['relatedto'] seize
+money ['antonym', 'relatedto'] debt ['relatedto'] distress ['synonym'] seize
+money ['antonym', 'relatedto'] debt ['relatedto'] diligence ['relatedto'] seize
+money ['antonym', 'relatedto'] debt ['relatedto'] distrain ['relatedto'] seize
+money ['antonym', 'relatedto'] profit ['mannerof', 'relatedto'] capitalize ['relatedto'] seize
+money ['antonym', 'relatedto'] profit ['relatedto'] opportunity ['relatedto'] seize
+money ['antonym', 'relatedto'] tax ['relatedto'] grab ['mannerof', 'relatedto', 'synonym'] seize
+money ['antonym', 'relatedto'] tax ['relatedto'] rape ['relatedto'] seize
+money ['relatedto', 'atlocation'] drawer ['relatedto', 'partof'] lock ['relatedto'] seize
+money ['hasa', 'relatedto', 'atlocation'] purse ['relatedto'] clutch ['relatedto', 'synonym'] seize
+money ['hasa', 'relatedto', 'atlocation'] wallet ['relatedto'] hold ['relatedto'] seize
+money ['hasa', 'relatedto'] budget ['relatedto'] appropriate ['synonym'] seize
+money ['hasa', 'relatedto', 'hasproperty'] value ['relatedto'] hold ['relatedto'] seize
+money ['hasprerequisite'] purchase ['relatedto'] hold ['relatedto'] seize
+money ['isa'] appropriation ['isa'] seizure ['relatedto'] seize
+money ['isa', 'relatedto', 'similarto', 'synonym'] cash ['relatedto'] capitalize ['relatedto'] seize
+money ['isa', 'relatedto', 'similarto', 'synonym'] cash ['usedfor'] impress ['relatedto'] seize
+money ['madeof', 'relatedto'] paper ['relatedto'] upon ['relatedto'] seize
+money ['motivatedbygoal'] comfort_friend ['haslastsubevent'] hold ['relatedto'] seize
+money ['motivatedbygoal'] kill ['mannerof', 'relatedto'] overwhelm ['mannerof'] seize
+money ['relatedto'] account ['relatedto'] capture ['relatedto'] seize
+money ['relatedto'] advancement ['relatedto'] opportunity ['relatedto'] seize
+money ['relatedto'] bag ['usedfor', 'relatedto'] hold ['relatedto'] seize
+money ['relatedto'] bag ['relatedto'] catch ['mannerof', 'relatedto'] seize
+money ['relatedto'] bag ['synonym'] grip ['mannerof'] seize
+money ['relatedto'] bag ['mannerof'] capture ['relatedto'] seize
+money ['relatedto'] bag ['partof'] clasp ['mannerof'] seize
+money ['relatedto'] bail ['relatedto'] arrest ['relatedto'] seize
+money ['relatedto'] bail ['relatedto'] detain ['relatedto'] seize
+money ['relatedto'] black_hand ['relatedto'] kidnap ['mannerof', 'relatedto'] seize
+money ['relatedto'] bleed ['mannerof'] extort ['relatedto'] seize
+money ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind ['relatedto'] seize
+money ['relatedto'] capital ['relatedto'] capitalize ['relatedto'] seize
+money ['relatedto'] capitalize ['relatedto'] opportunity ['relatedto'] seize
+money ['relatedto'] case ['relatedto'] hold ['relatedto'] seize
+money ['relatedto'] ceremony ['isa'] circumstance ['relatedto'] seize
+money ['relatedto'] charge ['mannerof'] overwhelm ['mannerof'] seize
+money ['relatedto'] charge ['relatedto'] fast ['relatedto'] seize
+money ['relatedto'] chievance ['relatedto'] extort ['relatedto'] seize
+money ['relatedto'] crimpage ['relatedto'] crimp ['relatedto'] seize
+money ['relatedto'] doctor ['relatedto', 'synonym'] fix ['relatedto'] seize
+money ['relatedto'] dole ['synonym'] distress ['synonym'] seize
+money ['relatedto'] due ['relatedto'] encroach ['relatedto'] seize
+money ['relatedto'] exchange ['isa', 'relatedto'] capture ['relatedto'] seize
+money ['relatedto'] expense ['relatedto'] capitalize ['relatedto'] seize
+money ['relatedto'] express ['relatedto', 'similarto', 'synonym'] fast ['relatedto'] seize
+money ['relatedto'] extortion ['relatedto', 'derivedfrom'] extort ['relatedto'] seize
+money ['relatedto'] extortion ['relatedto'] rack ['mannerof'] seize
+money ['relatedto'] forfeiture_fund ['relatedto'] seizure ['relatedto'] seize
+money ['relatedto'] fraud ['relatedto'] collar ['mannerof', 'relatedto'] seize
+money ['relatedto'] grease_payment ['relatedto'] extort ['relatedto'] seize
+money ['relatedto'] guard ['relatedto'] bind ['relatedto'] seize
+money ['relatedto'] income ['relatedto'] capitalize ['relatedto'] seize

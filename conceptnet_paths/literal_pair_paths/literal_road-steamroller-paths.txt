@@ -1,0 +1,100 @@
+road ['relatedto'] steamroller
+road ['relatedto'] go ['mannerof'] steamroller
+road ['derivedfrom'] road_roller ['relatedto', 'synonym'] steamroller
+road ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] rest ['relatedto'] go ['mannerof'] steamroller
+road ['relatedto'] ground ['relatedto'] level ['relatedto'] steamroller
+road ['relatedto'] land ['relatedto'] roller ['derivedfrom'] steamroller
+road ['relatedto'] go ['relatedto', 'synonym'] proceed ['relatedto'] steamroller
+road ['synonym'] away ['relatedto'] go ['mannerof'] steamroller
+road ['relatedto'] main ['isa', 'relatedto'] pipe ['relatedto'] steamroller
+road ['relatedto'] main ['relatedto'] force ['relatedto'] steamroller
+road ['relatedto'] well ['relatedto'] level ['relatedto'] steamroller
+road ['relatedto'] stop ['antonym', 'distinctfrom', 'relatedto'] go ['mannerof'] steamroller
+road ['relatedto'] big ['relatedto', 'similarto', 'synonym'] heavy ['relatedto'] steamroller
+road ['relatedto'] small ['relatedto'] steam ['relatedto', 'derivedfrom'] steamroller
+road ['relatedto'] straight ['relatedto'] level ['relatedto'] steamroller
+road ['relatedto', 'atlocation'] car ['hasproperty'] heavy ['relatedto'] steamroller
+road ['relatedto', 'atlocation'] car ['isa', 'relatedto'] vehicle ['isa'] steamroller
+road ['relatedto', 'atlocation'] car ['relatedto'] powered ['relatedto'] steamroller
+road ['relatedto'] tunnel ['relatedto'] level ['relatedto'] steamroller
+road ['relatedto'] dip ['relatedto'] bowl ['relatedto'] steamroller
+road ['relatedto', 'atlocation'] bus ['relatedto'] vehicle ['isa'] steamroller
+road ['atlocation'] truck ['isa', 'relatedto'] vehicle ['isa'] steamroller
+road ['atlocation'] truck ['relatedto'] juggernaut ['synonym'] steamroller
+road ['atlocation'] truck ['relatedto'] heavy ['relatedto'] steamroller
+road ['atlocation'] truck ['relatedto'] roller ['derivedfrom'] steamroller
+road ['relatedto'] flat ['isa', 'relatedto', 'synonym'] level ['relatedto'] steamroller
+road ['isa', 'relatedto'] line ['relatedto'] pipe ['relatedto'] steamroller
+road ['relatedto'] metal ['relatedto', 'hasproperty'] heavy ['relatedto'] steamroller
+road ['relatedto'] metal ['relatedto'] level ['relatedto'] steamroller
+road ['relatedto'] metal ['relatedto'] roller ['derivedfrom'] steamroller
+road ['relatedto'] walk ['relatedto'] go ['mannerof'] steamroller
+road ['partof'] crown ['relatedto'] heavy ['relatedto'] steamroller
+road ['relatedto'] life ['relatedto'] go ['mannerof'] steamroller
+road ['relatedto'] life ['relatedto'] force ['relatedto'] steamroller
+road ['relatedto'] deep ['relatedto', 'synonym'] heavy ['relatedto'] steamroller
+road ['antonym'] door ['relatedto'] go ['mannerof'] steamroller
+road ['antonym', 'relatedto'] river ['relatedto'] steam ['relatedto', 'derivedfrom'] steamroller
+road ['relatedto', 'partof', 'atlocation'] intersection ['relatedto'] go ['mannerof'] steamroller
+road ['relatedto', 'atlocation'] lane ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto', 'derivedfrom'] hit_road ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto', 'derivedfrom'] railroad ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto', 'derivedfrom'] roadeo ['relatedto'] vehicle ['isa'] steamroller
+road ['derivedfrom'] roadtest ['relatedto'] vehicle ['isa'] steamroller
+road ['derivedfrom'] road_rage ['relatedto'] vehicle ['isa'] steamroller
+road ['derivedfrom'] road_roller ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto', 'derivedfrom'] roadkill ['relatedto'] vehicle ['isa'] steamroller
+road ['isa', 'distinctfrom', 'relatedto', 'synonym'] street ['relatedto', 'atlocation'] vehicle ['isa'] steamroller
+road ['isa', 'relatedto'] drive ['relatedto'] go ['mannerof'] steamroller
+road ['isa', 'relatedto'] drive ['relatedto', 'synonym'] force ['relatedto'] steamroller
+road ['isa', 'relatedto'] drive ['mannerof'] coerce ['mannerof'] steamroller
+road ['isa', 'relatedto'] drive ['relatedto'] vehicle ['isa'] steamroller
+road ['isa', 'relatedto'] freeway ['atlocation'] vehicle ['isa'] steamroller
+road ['isa', 'relatedto'] surface ['relatedto'] level ['relatedto'] steamroller
+road ['isa', 'relatedto'] surface ['relatedto'] roller ['derivedfrom'] steamroller
+road ['isa'] means ['relatedto'] go ['mannerof'] steamroller
+road ['partof'] bend ['relatedto'] force ['relatedto'] steamroller
+road ['relatedto'] anti_sway_bar ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] asphalt ['relatedto'] road_roller ['relatedto', 'synonym'] steamroller
+road ['relatedto'] ballast ['relatedto'] heavy ['relatedto'] steamroller
+road ['relatedto'] bypass ['relatedto'] pipe ['relatedto'] steamroller
+road ['relatedto'] camber ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] canal ['relatedto'] pipe ['relatedto'] steamroller
+road ['relatedto'] chevron ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] curb ['relatedto'] force ['relatedto'] steamroller
+road ['relatedto'] denver_boot ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] e_toll ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] hill ['relatedto'] level ['relatedto'] steamroller
+road ['relatedto'] hit_pavement ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] hitchhike ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] jeep ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] mile ['relatedto'] go ['mannerof'] steamroller
+road ['relatedto'] nearside ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] offside ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] one_way_street ['relatedto'] proceed ['relatedto'] steamroller
+road ['relatedto', 'synonym'] pass ['distinctfrom', 'relatedto'] go ['mannerof'] steamroller
+road ['relatedto'] passenger_car ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] passing_place ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] pedrail ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] pedrail ['relatedto'] roller ['derivedfrom'] steamroller
+road ['relatedto'] peirameter ['relatedto'] force ['relatedto'] steamroller
+road ['relatedto'] cars ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] conduit ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] conduit ['isa', 'relatedto'] pipe ['relatedto'] steamroller
+road ['relatedto'] conveyance ['isa', 'relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] driving ['relatedto', 'hasprerequisite'] vehicle ['isa'] steamroller
+road ['relatedto'] general ['relatedto'] heavy ['relatedto'] steamroller
+road ['relatedto'] general ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] large ['relatedto'] heavy ['relatedto'] steamroller
+road ['relatedto'] lines ['relatedto'] level ['relatedto'] steamroller
+road ['relatedto'] medium ['relatedto'] force ['relatedto'] steamroller
+road ['relatedto'] medium ['isa', 'relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] middle ['relatedto'] level ['relatedto'] steamroller
+road ['relatedto'] part ['relatedto'] go ['mannerof'] steamroller
+road ['relatedto'] place ['relatedto'] go ['mannerof'] steamroller
+road ['relatedto'] place ['isa', 'relatedto'] level ['relatedto'] steamroller
+road ['relatedto'] traffic ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] transport ['relatedto'] vehicle ['isa'] steamroller
+road ['relatedto'] transport ['mannerof'] pipe ['relatedto'] steamroller
+road ['relatedto'] transportation ['relatedto'] vehicle ['isa'] steamroller

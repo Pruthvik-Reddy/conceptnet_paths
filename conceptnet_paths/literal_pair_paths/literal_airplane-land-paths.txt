@@ -1,0 +1,100 @@
+airplane ['relatedto'] land
+airplane ['atlocation'] air ['antonym', 'distinctfrom'] land
+airplane ['relatedto'] fall ['haslastsubevent'] land
+airplane ['relatedto'] arrive ['etymologicallyrelatedto', 'mannerof'] land
+airplane ['relatedto'] disembark ['mannerof', 'relatedto'] land
+airplane ['relatedto', 'atlocation'] sky ['antonym', 'distinctfrom', 'relatedto'] land
+airplane ['relatedto'] board ['relatedto'] land
+airplane ['usedfor', 'relatedto'] fly ['antonym', 'haslastsubevent'] land
+airplane ['isa', 'relatedto'] aircraft ['usedfor'] land
+airplane ['relatedto'] jump_jet ['relatedto'] land
+airplane ['relatedto'] runway ['relatedto'] land
+airplane ['relatedto'] aft ['relatedto'] boat ['relatedto'] land
+airplane ['relatedto'] aft ['relatedto'] vessel ['relatedto'] land
+airplane ['atlocation'] human ['atlocation'] aircraft ['usedfor'] land
+airplane ['atlocation'] human ['atlocation'] boat ['relatedto'] land
+airplane ['atlocation'] human ['atlocation'] country ['relatedto', 'synonym', 'atlocation'] land
+airplane ['atlocation'] human ['atlocation'] farm ['relatedto'] land
+airplane ['atlocation'] human ['atlocation'] grave ['relatedto'] land
+airplane ['atlocation'] human ['atlocation'] graveyard ['relatedto'] land
+airplane ['atlocation'] human ['atlocation'] state ['relatedto', 'synonym'] land
+airplane ['atlocation'] human ['relatedto'] canal ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] cell ['antonym'] land
+airplane ['atlocation'] human ['relatedto'] death_zone ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land
+airplane ['atlocation'] human ['relatedto'] farmer ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] feet ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] geography ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] living ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] lord ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] native ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] neck ['isa', 'relatedto'] land
+airplane ['atlocation'] human ['relatedto'] touch ['relatedto'] land
+airplane ['atlocation'] human ['relatedto'] waste ['relatedto'] land
+airplane ['atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land
+airplane ['atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto', 'synonym'] land
+airplane ['atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land
+airplane ['atlocation'] air ['atlocation'] bridge ['relatedto'] land
+airplane ['atlocation'] air ['atlocation'] house ['relatedto'] land
+airplane ['atlocation'] air ['atlocation'] pocket ['relatedto'] land
+airplane ['atlocation'] air ['relatedto', 'atlocation'] sky ['antonym', 'distinctfrom', 'relatedto'] land
+airplane ['atlocation'] air ['relatedto', 'atlocation'] aircraft ['usedfor'] land
+airplane ['atlocation'] air ['atlocation'] birds ['capableof'] land
+airplane ['atlocation'] air ['atlocation'] plain ['isa', 'relatedto'] land
+airplane ['atlocation'] air ['derivedfrom'] airland ['derivedfrom'] land
+airplane ['atlocation'] air ['relatedto', 'hasprerequisite'] living ['relatedto'] land
+airplane ['atlocation'] air ['isa'] medium ['relatedto'] land
+airplane ['atlocation'] air ['isa'] region ['relatedto'] land
+airplane ['atlocation'] air ['mannerof', 'relatedto'] dry ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] everywhere ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] term ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] army ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] bottle_flipping ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] chicken ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] coast ['antonym', 'relatedto'] land
+airplane ['atlocation'] air ['relatedto'] fly ['antonym', 'haslastsubevent'] land
+airplane ['atlocation'] air ['relatedto'] indraught ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] ridge ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] terra_firma ['relatedto', 'synonym'] land
+airplane ['atlocation'] air ['relatedto'] tongue ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] triphibian ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] triphibious ['relatedto'] land
+airplane ['atlocation'] air ['relatedto'] vessel ['relatedto'] land
+airplane ['relatedto'] bird ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom'] land
+airplane ['relatedto'] bird ['atlocation'] countryside ['relatedto', 'atlocation'] land
+airplane ['relatedto'] bird ['atlocation'] forest ['isa', 'relatedto'] land
+airplane ['relatedto'] bird ['atlocation'] garden ['relatedto'] land
+airplane ['relatedto'] bird ['atlocation'] sea ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land
+airplane ['relatedto'] bird ['relatedto', 'atlocation'] sky ['antonym', 'distinctfrom', 'relatedto'] land
+airplane ['relatedto'] bird ['capableof', 'relatedto', 'desires'] fly ['antonym', 'haslastsubevent'] land
+airplane ['relatedto'] bird ['formof', 'relatedto'] birds ['capableof'] land
+airplane ['relatedto'] bird ['isa', 'relatedto'] chicken ['relatedto'] land
+airplane ['relatedto'] bird ['isa', 'relatedto'] roller ['relatedto'] land
+airplane ['relatedto'] bird ['relatedto'] living ['relatedto'] land
+airplane ['relatedto'] bird ['relatedto'] owner ['relatedto'] land
+airplane ['relatedto'] bird ['relatedto'] term ['relatedto'] land
+airplane ['relatedto'] bird ['relatedto'] environment ['partof'] land
+airplane ['relatedto'] bird ['relatedto'] colony ['relatedto'] land
+airplane ['relatedto'] bird ['relatedto'] crop ['relatedto'] land
+airplane ['relatedto'] bird ['relatedto'] landbirding ['relatedto', 'derivedfrom'] land
+airplane ['relatedto'] bird ['relatedto'] stale ['relatedto'] land
+airplane ['relatedto'] fall ['relatedto'] action ['relatedto'] land
+airplane ['relatedto'] fall ['antonym'] fly ['antonym', 'haslastsubevent'] land
+airplane ['relatedto'] fall ['antonym'] stick ['relatedto'] land
+airplane ['relatedto'] fall ['derivedfrom'] landfall ['derivedfrom'] land
+airplane ['relatedto'] fall ['mannerof', 'relatedto'] slope ['relatedto'] land
+airplane ['relatedto'] fall ['relatedto'] landing ['formof', 'relatedto'] land
+airplane ['relatedto'] fall ['relatedto'] sky ['antonym', 'distinctfrom', 'relatedto'] land
+airplane ['relatedto'] fall ['relatedto'] arrive ['etymologicallyrelatedto', 'mannerof'] land
+airplane ['relatedto'] arrive ['relatedto'] action ['relatedto'] land
+airplane ['relatedto'] arrive ['relatedto'] fall ['haslastsubevent'] land
+airplane ['relatedto'] arrive ['antonym'] disembark ['mannerof', 'relatedto'] land
+airplane ['relatedto'] arrive ['relatedto'] area ['relatedto'] land
+airplane ['relatedto'] arrive ['relatedto'] lands ['formof', 'relatedto'] land
+airplane ['relatedto'] arrive ['relatedto'] shore ['relatedto', 'synonym'] land
+airplane ['relatedto'] disembark ['antonym'] arrive ['etymologicallyrelatedto', 'mannerof'] land
+airplane ['relatedto'] disembark ['relatedto'] ashore ['relatedto'] land
+airplane ['relatedto'] disembark ['relatedto'] boat ['relatedto'] land
+airplane ['relatedto'] disembark ['relatedto'] shore ['relatedto', 'synonym'] land
+airplane ['relatedto'] disembark ['relatedto'] vessel ['relatedto'] land
+airplane ['relatedto'] disembark ['relatedto'] unbark ['relatedto'] land

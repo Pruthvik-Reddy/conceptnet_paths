@@ -1,0 +1,100 @@
+ball ['isa', 'relatedto'] mothball ['relatedto'] mold
+ball ['madeof'] plastic ['relatedto'] mold
+ball ['relatedto'] astragal ['relatedto'] mold
+ball ['relatedto'] shape ['relatedto', 'synonym'] mold
+ball ['relatedto'] chase ['relatedto'] mold
+ball ['relatedto'] ornament ['relatedto'] mold
+ball ['relatedto'] base ['relatedto'] ground ['relatedto'] mold
+ball ['relatedto'] base ['relatedto'] bread ['relatedto'] mold
+ball ['relatedto'] base ['relatedto'] flask ['relatedto'] mold
+ball ['relatedto'] child ['relatedto'] container ['isa'] mold
+ball ['relatedto'] child ['relatedto'] formboard ['relatedto'] mold
+ball ['relatedto'] child ['relatedto'] ground ['relatedto'] mold
+ball ['relatedto'] child ['relatedto'] pig ['relatedto'] mold
+ball ['relatedto'] children ['relatedto'] growing ['relatedto'] mold
+ball ['relatedto'] children ['relatedto'] growth ['relatedto'] mold
+ball ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] mold
+ball ['relatedto'] air ['isa'] fluid ['relatedto'] mold
+ball ['relatedto'] air ['relatedto'] substance ['relatedto'] mold
+ball ['relatedto'] earth ['mannerof', 'relatedto', 'synonym', 'atlocation'] ground ['relatedto'] mold
+ball ['relatedto'] earth ['atlocation'] fungus ['antonym', 'isa', 'relatedto', 'synonym'] mold
+ball ['relatedto'] earth ['isa', 'relatedto', 'synonym'] soil ['isa', 'relatedto'] mold
+ball ['relatedto'] earth ['relatedto'] core ['relatedto'] mold
+ball ['relatedto'] earth ['relatedto'] blue ['relatedto'] mold
+ball ['relatedto'] earth ['relatedto'] blue_green ['relatedto'] mold
+ball ['relatedto'] earth ['relatedto'] green ['relatedto'] mold
+ball ['relatedto'] earth ['relatedto'] plant ['relatedto'] mold
+ball ['relatedto'] earth ['relatedto'] substance ['relatedto'] mold
+ball ['relatedto'] red ['antonym', 'distinctfrom', 'relatedto'] blue ['relatedto'] mold
+ball ['relatedto'] red ['antonym', 'distinctfrom', 'relatedto'] green ['relatedto'] mold
+ball ['relatedto'] red ['relatedto'] black ['relatedto'] mold
+ball ['relatedto'] one ['relatedto'] stale ['relatedto'] mold
+ball ['relatedto'] apple ['isa'] plant ['relatedto'] mold
+ball ['relatedto'] apple ['atlocation'] fridge ['atlocation'] mold
+ball ['relatedto'] apple ['atlocation'] refrigerator ['atlocation'] mold
+ball ['relatedto'] apple ['hasa', 'relatedto'] core ['relatedto'] mold
+ball ['relatedto'] apple ['relatedto', 'hasproperty'] green ['relatedto'] mold
+ball ['relatedto'] apple ['relatedto'] shape ['relatedto', 'synonym'] mold
+ball ['relatedto'] orange ['antonym', 'relatedto'] blue ['relatedto'] mold
+ball ['relatedto'] orange ['etymologicallyrelatedto'] blue_green ['relatedto'] mold
+ball ['relatedto'] lie ['relatedto'] action ['relatedto'] mold
+ball ['relatedto'] lie ['relatedto'] pig ['relatedto'] mold
+ball ['relatedto'] around ['relatedto'] frame ['relatedto'] mold
+ball ['relatedto'] around ['relatedto'] guide ['relatedto'] mold
+ball ['relatedto'] atom ['isa', 'relatedto'] substance ['relatedto'] mold
+ball ['relatedto'] stick ['relatedto'] action ['relatedto'] mold
+ball ['relatedto'] stick ['relatedto'] ground ['relatedto'] mold
+ball ['relatedto'] stick ['synonym'] plant ['relatedto'] mold
+ball ['relatedto'] stick ['relatedto'] chase ['relatedto'] mold
+ball ['relatedto'] stick ['relatedto'] shape ['relatedto', 'synonym'] mold
+ball ['relatedto'] stick ['relatedto'] cast ['relatedto', 'synonym'] mold
+ball ['relatedto'] stick ['synonym'] cling ['mannerof'] mold
+ball ['relatedto'] slash ['relatedto'] action ['relatedto'] mold
+ball ['relatedto'] slash ['relatedto'] plant ['relatedto'] mold
+ball ['relatedto'] slash ['relatedto'] character ['relatedto'] mold
+ball ['relatedto'] backspin ['relatedto'] drag ['relatedto'] mold
+ball ['relatedto'] good ['relatedto'] bread ['relatedto'] mold
+ball ['relatedto'] good ['relatedto'] fashion ['relatedto'] mold
+ball ['relatedto'] good ['relatedto'] fit ['relatedto'] mold
+ball ['relatedto'] good ['relatedto'] stale ['relatedto'] mold
+ball ['relatedto'] good ['relatedto'] soil ['isa', 'relatedto'] mold
+ball ['antonym'] cube ['isa', 'relatedto'] shape ['relatedto', 'synonym'] mold
+ball ['antonym'] square ['isa', 'relatedto'] shape ['relatedto', 'synonym'] mold
+ball ['antonym'] square ['mannerof'] form ['isa', 'relatedto'] mold
+ball ['antonym'] square ['relatedto'] bread ['relatedto'] mold
+ball ['antonym'] box ['atlocation'] cellar ['atlocation'] mold
+ball ['antonym'] box ['derivedfrom'] breadbox ['atlocation'] mold
+ball ['antonym'] box ['isa', 'relatedto'] container ['isa'] mold
+ball ['antonym'] box ['relatedto'] hollow ['relatedto'] mold
+ball ['antonym'] box ['relatedto'] shape ['relatedto', 'synonym'] mold
+ball ['antonym'] box ['relatedto'] bread ['relatedto'] mold
+ball ['antonym'] box ['relatedto'] flask ['relatedto'] mold
+ball ['antonym'] box ['relatedto'] refrigerator ['atlocation'] mold
+ball ['antonym'] box ['relatedto'] sandbox ['isa'] mold
+ball ['atlocation'] baseball_field ['hasproperty'] green ['relatedto'] mold
+ball ['atlocation'] bowling_alley ['atlocation'] carpet ['atlocation'] mold
+ball ['atlocation'] closet ['atlocation'] carpet ['atlocation'] mold
+ball ['atlocation'] closet ['atlocation'] container ['isa'] mold
+ball ['atlocation'] closet ['relatedto'] intend ['relatedto'] mold
+ball ['relatedto', 'atlocation'] hole ['relatedto', 'atlocation'] ground ['relatedto'] mold
+ball ['relatedto', 'atlocation'] hole ['usedfor'] black ['relatedto'] mold
+ball ['relatedto', 'atlocation'] hole ['relatedto', 'atlocation'] green ['relatedto'] mold
+ball ['relatedto', 'atlocation'] hole ['relatedto'] cheese ['relatedto'] mold
+ball ['relatedto', 'atlocation'] hole ['etymologicallyrelatedto', 'mannerof', 'synonym'] hollow ['relatedto'] mold
+ball ['relatedto', 'atlocation'] hole ['relatedto'] formboard ['relatedto'] mold
+ball ['atlocation'] sack ['relatedto'] container ['isa'] mold
+ball ['atlocation'] soccer_field ['hasproperty'] green ['relatedto'] mold
+ball ['relatedto', 'atlocation'] sport ['relatedto'] plant ['relatedto'] mold
+ball ['atlocation'] street ['relatedto'] black ['relatedto'] mold
+ball ['atlocation'] street ['atlocation'] machine ['usedfor'] mold
+ball ['capableof', 'usedfor', 'relatedto'] bounce ['relatedto'] chase ['relatedto'] mold
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] action ['relatedto'] mold
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] ground ['relatedto'] mold
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['isa', 'relatedto'] bread ['relatedto'] mold
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['synonym'] cast ['relatedto', 'synonym'] mold
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['mannerof'] change ['mannerof'] mold
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['mannerof', 'relatedto'] form ['isa', 'relatedto'] mold
+ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] shape ['relatedto', 'synonym'] mold
+ball ['capableof', 'isa', 'relatedto'] toy ['relatedto'] action ['relatedto'] mold
+ball ['capableof', 'isa', 'relatedto'] toy ['relatedto'] plastic ['relatedto'] mold
+ball ['capableof', 'isa', 'relatedto'] toy ['relatedto'] formboard ['relatedto'] mold

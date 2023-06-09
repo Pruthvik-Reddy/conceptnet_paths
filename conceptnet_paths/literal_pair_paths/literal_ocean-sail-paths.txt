@@ -1,0 +1,100 @@
+ocean ['usedfor', 'relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] sail
+ocean ['relatedto'] big ['relatedto'] sail
+ocean ['relatedto', 'atlocation'] boat ['mannerof', 'relatedto'] sail
+ocean ['atlocation'] ship ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'atlocation', 'isa'] sea ['relatedto'] sail
+ocean ['atlocation'] ships ['relatedto'] sail
+ocean ['atlocation'] submarine ['relatedto'] sail
+ocean ['isa', 'relatedto'] indian_ocean ['usedfor'] sail
+ocean ['isa', 'usedfor'] sailing ['formof', 'relatedto', 'derivedfrom'] sail
+ocean ['relatedto'] large ['relatedto'] sail
+ocean ['usedfor'] travel ['mannerof'] sail
+ocean ['atlocation'] future ['relatedto'] travel ['mannerof'] sail
+ocean ['relatedto', 'atlocation'] earth ['antonym', 'relatedto', 'atlocation'] sea ['relatedto'] sail
+ocean ['relatedto', 'atlocation'] earth ['antonym', 'relatedto'] water ['relatedto'] sail
+ocean ['relatedto', 'atlocation'] earth ['atlocation'] indian_ocean ['usedfor'] sail
+ocean ['relatedto', 'atlocation'] earth ['isa'] material ['relatedto'] sail
+ocean ['relatedto', 'atlocation'] earth ['relatedto'] big ['relatedto'] sail
+ocean ['relatedto', 'atlocation'] earth ['relatedto'] large ['relatedto'] sail
+ocean ['relatedto', 'atlocation'] earth ['relatedto'] float ['relatedto'] sail
+ocean ['relatedto', 'atlocation'] earth ['relatedto'] wind ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] action ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] sea ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] batten ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] gore ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] big ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] yard ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] boat ['mannerof', 'relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] part ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] pocket ['relatedto'] sail
+ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] land ['relatedto'] touch ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['distinctfrom'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto', 'atlocation'] boat ['mannerof', 'relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['atlocation'] boats ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto', 'atlocation'] submarine ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['madeof', 'relatedto', 'partof'] sea ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] aquatourism ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] boating ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] float ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] navigate ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] propeller ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] sailing ['formof', 'relatedto', 'derivedfrom'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] ship ['relatedto'] sail
+ocean ['hasa', 'relatedto', 'madeof', 'atlocation'] water ['relatedto'] white ['relatedto'] sail
+ocean ['relatedto'] along ['antonym'] across ['relatedto'] sail
+ocean ['relatedto'] along ['relatedto'] go ['relatedto'] sail
+ocean ['relatedto'] along ['relatedto'] ride ['relatedto'] sail
+ocean ['relatedto'] bottom ['atlocation'] water ['relatedto'] sail
+ocean ['relatedto'] bottom ['isa', 'relatedto'] foot ['relatedto'] sail
+ocean ['relatedto'] bottom ['relatedto'] direction ['relatedto'] sail
+ocean ['relatedto'] bottom ['relatedto'] part ['relatedto'] sail
+ocean ['relatedto'] bottom ['relatedto'] wind ['relatedto'] sail
+ocean ['relatedto'] bottom ['relatedto', 'synonym'] catcher ['relatedto'] sail
+ocean ['relatedto'] bottom ['relatedto'] footloose ['relatedto'] sail
+ocean ['relatedto'] navy ['relatedto'] water ['relatedto'] sail
+ocean ['relatedto'] navy ['relatedto'] boat ['mannerof', 'relatedto'] sail
+ocean ['relatedto'] navy ['relatedto'] navigate ['relatedto'] sail
+ocean ['relatedto'] navy ['relatedto'] boats ['relatedto'] sail
+ocean ['relatedto'] navy ['relatedto'] sea ['relatedto'] sail
+ocean ['relatedto'] navy ['relatedto'] ship ['relatedto'] sail
+ocean ['relatedto'] navy ['relatedto'] ships ['relatedto'] sail
+ocean ['relatedto'] current ['relatedto', 'atlocation'] water ['relatedto'] sail
+ocean ['relatedto'] current ['relatedto'] moving ['relatedto'] sail
+ocean ['relatedto'] current ['relatedto'] power ['relatedto'] sail
+ocean ['relatedto'] current ['relatedto'] sea ['relatedto'] sail
+ocean ['relatedto'] current ['relatedto'] speed ['distinctfrom'] sail
+ocean ['relatedto'] current ['relatedto'] wind ['relatedto'] sail
+ocean ['relatedto'] current ['relatedto'] weather ['mannerof'] sail
+ocean ['hasproperty'] beautiful ['hasproperty'] water ['relatedto'] sail
+ocean ['hasproperty'] beautiful ['relatedto', 'similarto', 'synonym'] pretty ['relatedto'] sail
+ocean ['relatedto', 'hasproperty'] wet ['etymologicallyrelatedto', 'relatedto', 'atlocation', 'capableof', 'mannerof'] water ['relatedto'] sail
+ocean ['relatedto', 'hasproperty'] wet ['relatedto', 'hasproperty', 'atlocation'] sea ['relatedto'] sail
+ocean ['relatedto', 'hasproperty'] wet ['relatedto'] boat ['mannerof', 'relatedto'] sail
+ocean ['relatedto', 'hasproperty'] wet ['relatedto'] steam ['distinctfrom'] sail
+ocean ['relatedto'] big ['relatedto', 'synonym'] large ['relatedto'] sail
+ocean ['relatedto'] big ['relatedto'] tall ['relatedto'] sail
+ocean ['relatedto'] big ['relatedto'] boat ['mannerof', 'relatedto'] sail
+ocean ['relatedto'] big ['relatedto'] sea ['relatedto'] sail
+ocean ['relatedto'] big ['relatedto'] ship ['relatedto'] sail
+ocean ['relatedto'] big ['relatedto'] voyage ['synonym'] sail
+ocean ['relatedto'] big ['relatedto'] wind ['relatedto'] sail
+ocean ['relatedto'] big ['relatedto'] yacht ['usedfor', 'relatedto'] sail
+ocean ['relatedto'] small ['antonym', 'distinctfrom', 'relatedto'] big ['relatedto'] sail
+ocean ['relatedto'] small ['antonym', 'distinctfrom', 'relatedto'] large ['relatedto'] sail
+ocean ['relatedto'] small ['relatedto'] boat ['mannerof', 'relatedto'] sail
+ocean ['relatedto'] small ['relatedto'] foot ['relatedto'] sail
+ocean ['relatedto'] small ['relatedto'] part ['relatedto'] sail
+ocean ['relatedto'] small ['relatedto'] point ['relatedto'] sail
+ocean ['relatedto'] small ['relatedto'] sea ['relatedto'] sail
+ocean ['relatedto'] small ['relatedto'] steam ['distinctfrom'] sail
+ocean ['relatedto'] small ['relatedto'] tack ['mannerof', 'relatedto'] sail
+ocean ['relatedto'] small ['relatedto'] trinket ['relatedto'] sail
+ocean ['usedfor', 'relatedto', 'atlocation'] fish ['relatedto', 'atlocation'] water ['relatedto'] sail
+ocean ['usedfor', 'relatedto', 'atlocation'] fish ['atlocation'] boat ['mannerof', 'relatedto'] sail
+ocean ['usedfor', 'relatedto', 'atlocation'] fish ['isa'] sailfish ['relatedto', 'derivedfrom'] sail
+ocean ['usedfor', 'relatedto', 'atlocation'] fish ['mannerof'] brail ['relatedto'] sail
+ocean ['usedfor', 'relatedto', 'atlocation'] fish ['mannerof'] catch ['relatedto'] sail
+ocean ['usedfor', 'relatedto', 'atlocation'] fish ['relatedto'] sea ['relatedto'] sail
+ocean ['usedfor', 'relatedto', 'atlocation'] fish ['relatedto'] gaff ['relatedto'] sail

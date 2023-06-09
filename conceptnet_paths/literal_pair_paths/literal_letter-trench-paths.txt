@@ -1,0 +1,100 @@
+letter ['relatedto'] put ['mannerof'] trench
+letter ['relatedto', 'partof'] line ['relatedto'] trench
+letter ['antonym', 'distinctfrom', 'relatedto'] number ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] one ['hasproperty'] hole ['relatedto'] trench
+letter ['relatedto'] one ['synonym'] right ['relatedto'] trench
+letter ['relatedto'] lower ['synonym'] cut ['mannerof'] trench
+letter ['relatedto'] home ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] home ['relatedto'] deep ['relatedto', 'synonym'] trench
+letter ['relatedto'] small ['relatedto'] cut ['mannerof'] trench
+letter ['relatedto'] small ['relatedto'] moat ['isa'] trench
+letter ['relatedto'] small ['relatedto'] mote ['relatedto'] trench
+letter ['relatedto'] small ['relatedto'] trinket ['etymologicallyrelatedto'] trench
+letter ['relatedto'] spirit ['relatedto'] fortify ['mannerof'] trench
+letter ['relatedto'] box ['relatedto'] rectangular ['relatedto'] trench
+letter ['relatedto'] box ['relatedto'] hole ['relatedto'] trench
+letter ['relatedto'] box ['relatedto'] sap ['relatedto'] trench
+letter ['relatedto'] box ['relatedto'] coffer ['relatedto'] trench
+letter ['relatedto'] piece ['relatedto'] trinket ['etymologicallyrelatedto'] trench
+letter ['relatedto'] put ['antonym'] cut ['mannerof'] trench
+letter ['relatedto'] put ['relatedto'] coat ['relatedto'] trench
+letter ['relatedto'] put ['relatedto'] hole ['relatedto'] trench
+letter ['relatedto'] long ['relatedto'] trough ['relatedto'] trench
+letter ['relatedto'] long ['relatedto'] coat ['relatedto'] trench
+letter ['relatedto'] long ['relatedto', 'synonym'] deep ['relatedto', 'synonym'] trench
+letter ['relatedto'] long ['relatedto'] ditch ['isa', 'relatedto', 'synonym'] trench
+letter ['relatedto'] long ['relatedto'] elongate ['relatedto'] trench
+letter ['relatedto'] long ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] personal ['relatedto'] pit ['relatedto'] trench
+letter ['isa'] text ['isa', 'relatedto'] line ['relatedto'] trench
+letter ['relatedto'] capital ['relatedto'] authority ['relatedto'] trench
+letter ['relatedto'] case ['relatedto'] put ['mannerof'] trench
+letter ['relatedto'] hand ['isa', 'relatedto'] right ['relatedto'] trench
+letter ['relatedto'] hand ['relatedto'] cut ['mannerof'] trench
+letter ['relatedto'] hand ['relatedto'] grip ['relatedto'] trench
+letter ['relatedto'] card ['relatedto'] rectangular ['relatedto'] trench
+letter ['madeof', 'relatedto'] paper ['relatedto', 'receivesaction'] cut ['mannerof'] trench
+letter ['madeof', 'relatedto'] paper ['relatedto'] rectangular ['relatedto'] trench
+letter ['relatedto', 'partof'] line ['instanceof'] rapid_transit ['relatedto'] trench
+letter ['relatedto', 'partof'] line ['relatedto'] boyau ['relatedto'] trench
+letter ['relatedto', 'partof'] line ['relatedto'] cut ['mannerof'] trench
+letter ['relatedto', 'partof'] line ['relatedto'] fortify ['mannerof'] trench
+letter ['relatedto', 'partof'] line ['relatedto'] perpendicular ['relatedto'] trench
+letter ['relatedto'] note ['synonym'] line ['relatedto'] trench
+letter ['relatedto'] note ['relatedto'] salient ['relatedto'] trench
+letter ['relatedto'] single ['synonym'] exclusive ['relatedto'] trench
+letter ['usedfor', 'relatedto'] communication ['relatedto'] line ['relatedto'] trench
+letter ['usedfor', 'relatedto'] communication ['relatedto'] boyau ['relatedto'] trench
+letter ['mannerof', 'relatedto'] print ['relatedto'] put ['mannerof'] trench
+letter ['relatedto'] love ['relatedto'] deep ['relatedto', 'synonym'] trench
+letter ['relatedto'] part ['isa', 'relatedto'] line ['relatedto'] trench
+letter ['relatedto'] part ['relatedto'] pit ['relatedto'] trench
+letter ['relatedto'] tail ['synonym'] chase ['relatedto'] trench
+letter ['relatedto'] point ['antonym', 'distinctfrom', 'relatedto'] line ['relatedto'] trench
+letter ['relatedto'] point ['relatedto'] cut ['mannerof'] trench
+letter ['relatedto'] point ['relatedto'] chase ['relatedto'] trench
+letter ['relatedto'] point ['relatedto'] gully ['relatedto'] trench
+letter ['relatedto'] point ['relatedto'] perpendicular ['relatedto'] trench
+letter ['relatedto'] point ['relatedto'] salient ['relatedto'] trench
+letter ['relatedto'] office ['relatedto'] right ['relatedto'] trench
+letter ['relatedto'] inch ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] inside ['relatedto'] put ['mannerof'] trench
+letter ['relatedto'] italic ['relatedto'] right ['relatedto'] trench
+letter ['hasa', 'relatedto', 'atlocation'] envelope ['relatedto'] ditch ['isa', 'relatedto', 'synonym'] trench
+letter ['relatedto', 'atlocation'] post_office ['atlocation'] line ['relatedto'] trench
+letter ['isa', 'relatedto'] ascender ['isa'] line ['relatedto'] trench
+letter ['isa', 'relatedto'] descender ['isa'] line ['relatedto'] trench
+letter ['isa', 'relatedto'] epistle ['synonym'] line ['relatedto'] trench
+letter ['isa', 'relatedto'] symbol ['relatedto'] line ['relatedto'] trench
+letter ['isa'] shin ['isa'] cut ['mannerof'] trench
+letter ['isa'] shin ['relatedto'] greave ['relatedto'] trench
+letter ['mannerof', 'relatedto'] write ['relatedto'] cut ['mannerof'] trench
+letter ['partof'] word ['relatedto'] line ['relatedto'] trench
+letter ['partof'] word ['relatedto'] exclusive ['relatedto'] trench
+letter ['relatedto'] en ['relatedto'] right ['relatedto'] trench
+letter ['relatedto'] accredit ['relatedto'] authority ['relatedto'] trench
+letter ['relatedto'] graph ['atlocation'] line ['relatedto'] trench
+letter ['relatedto'] graph ['relatedto'] cut ['mannerof'] trench
+letter ['relatedto'] graph ['relatedto'] hole ['relatedto'] trench
+letter ['relatedto'] hook ['relatedto'] perpendicular ['relatedto'] trench
+letter ['relatedto'] isogram ['isa', 'relatedto'] line ['relatedto'] trench
+letter ['relatedto'] component ['relatedto'] grip ['relatedto'] trench
+letter ['relatedto'] device ['relatedto'] perpendicular ['relatedto'] trench
+letter ['relatedto'] device ['relatedto'] latrine ['relatedto'] trench
+letter ['relatedto'] drawing ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] filler ['relatedto'] cut ['mannerof'] trench
+letter ['relatedto'] item ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] item ['relatedto'] coat ['relatedto'] trench
+letter ['relatedto'] lines ['formof'] line ['relatedto'] trench
+letter ['relatedto'] page ['relatedto'] rectangular ['relatedto'] trench
+letter ['relatedto'] postcard ['relatedto'] rectangular ['relatedto'] trench
+letter ['relatedto'] sign ['mannerof', 'relatedto'] put ['mannerof'] trench
+letter ['relatedto'] size ['relatedto'] right ['relatedto'] trench
+letter ['relatedto'] size ['mannerof'] coat ['relatedto'] trench
+letter ['relatedto'] unit ['relatedto'] authority ['relatedto'] trench
+letter ['relatedto'] writing ['relatedto'] right ['relatedto'] trench
+letter ['relatedto'] writing ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] written ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] meaning ['relatedto'] line ['relatedto'] trench
+letter ['relatedto'] meaning ['relatedto'] deep ['relatedto', 'synonym'] trench
+letter ['relatedto'] matrix ['relatedto'] rectangular ['relatedto'] trench

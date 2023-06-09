@@ -1,0 +1,100 @@
+village ['relatedto'] lots ['relatedto'] flood
+village ['relatedto'] smaller ['relatedto'] lake ['relatedto'] flood
+village ['relatedto', 'atlocation'] human ['relatedto'] climb ['causesdesire'] flood
+village ['relatedto'] old ['antonym', 'distinctfrom'] fresh ['relatedto'] flood
+village ['relatedto'] old ['derivedfrom'] old_testament ['relatedto'] flood
+village ['relatedto'] old ['relatedto'] antediluvian ['relatedto'] flood
+village ['relatedto'] old ['relatedto'] ark ['relatedto'] flood
+village ['atlocation'] house ['relatedto'] land ['relatedto'] flood
+village ['atlocation'] house ['atlocation'] light_source ['relatedto'] flood
+village ['atlocation'] house ['relatedto'] climb ['causesdesire'] flood
+village ['atlocation'] house ['relatedto'] big ['relatedto'] flood
+village ['atlocation'] house ['relatedto'] large ['relatedto'] flood
+village ['relatedto'] navy ['relatedto'] water ['relatedto', 'atlocation'] flood
+village ['relatedto'] church ['relatedto'] large ['relatedto'] flood
+village ['isa', 'instanceof'] bare ['antonym'] cover ['mannerof'] flood
+village ['relatedto'] small ['antonym', 'distinctfrom', 'relatedto'] big ['relatedto'] flood
+village ['relatedto'] small ['antonym', 'distinctfrom', 'relatedto'] large ['relatedto'] flood
+village ['relatedto'] small ['relatedto'] drop ['antonym'] flood
+village ['relatedto'] small ['relatedto'] dyke ['relatedto'] flood
+village ['relatedto'] small ['relatedto'] lake ['relatedto'] flood
+village ['isa', 'instanceof'] pale ['relatedto', 'similarto', 'synonym'] light ['isa'] flood
+village ['relatedto'] bridge ['relatedto'] land ['relatedto'] flood
+village ['relatedto'] bridge ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] flood
+village ['relatedto'] bridge ['relatedto'] cities ['capableof'] flood
+village ['relatedto'] bridge ['relatedto'] high ['relatedto'] flood
+village ['atlocation'] cow ['relatedto'] big ['relatedto'] flood
+village ['atlocation'] cow ['atlocation'] swamp ['mannerof'] flood
+village ['atlocation'] cow ['relatedto'] large ['relatedto'] flood
+village ['relatedto'] rural ['relatedto'] land ['relatedto'] flood
+village ['isa', 'relatedto'] town ['relatedto'] niagara ['relatedto'] flood
+village ['relatedto'] chief ['relatedto'] big ['relatedto'] flood
+village ['relatedto'] chief ['relatedto'] high ['relatedto'] flood
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] water ['relatedto', 'atlocation'] flood
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] big ['relatedto'] flood
+village ['antonym', 'isa', 'relatedto'] city ['formof', 'relatedto'] cities ['capableof'] flood
+village ['antonym', 'isa', 'relatedto'] city ['isa', 'relatedto'] dera_ghazi_khan ['relatedto'] flood
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] high ['relatedto'] flood
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] large ['relatedto'] flood
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] lots ['relatedto'] flood
+village ['antonym', 'isa', 'relatedto'] city ['relatedto'] dyke ['relatedto'] flood
+village ['relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] flood
+village ['relatedto'] country ['relatedto'] big ['relatedto'] flood
+village ['relatedto'] country ['relatedto', 'atlocation'] cities ['capableof'] flood
+village ['relatedto'] country ['atlocation'] lake ['relatedto'] flood
+village ['relatedto'] country ['relatedto'] large ['relatedto'] flood
+village ['relatedto'] country ['relatedto'] lots ['relatedto'] flood
+village ['atlocation'] countryside ['relatedto', 'atlocation'] land ['relatedto'] flood
+village ['atlocation'] countryside ['atlocation'] lake ['relatedto'] flood
+village ['atlocation'] barbershop ['atlocation'] water ['relatedto', 'atlocation'] flood
+village ['atlocation'] churchyard ['isa'] land ['relatedto'] flood
+village ['relatedto', 'atlocation'] market ['relatedto'] cities ['capableof'] flood
+village ['relatedto', 'atlocation'] market ['relatedto'] flash ['relatedto'] flood
+village ['relatedto', 'atlocation'] market ['relatedto'] fresh ['relatedto'] flood
+village ['relatedto', 'atlocation'] market ['relatedto'] quote_stuffing ['relatedto'] flood
+village ['atlocation'] mill ['relatedto'] paddy ['relatedto'] flood
+village ['atlocation'] michigan ['relatedto', 'atlocation'] lake ['relatedto'] flood
+village ['atlocation'] michigan ['atlocation'] swamp ['mannerof'] flood
+village ['atlocation'] world ['hasa'] water ['relatedto', 'atlocation'] flood
+village ['atlocation'] world ['relatedto'] big ['relatedto'] flood
+village ['isa', 'instanceof'] burst ['relatedto'] flash ['relatedto'] flood
+village ['isa'] pope ['relatedto'] big ['relatedto'] flood
+village ['isa'] pope ['relatedto'] large ['relatedto'] flood
+village ['relatedto'] colony ['relatedto'] land ['relatedto'] flood
+village ['relatedto'] colony ['relatedto'] lots ['relatedto'] flood
+village ['relatedto'] colorado ['relatedto'] avalanche ['relatedto'] flood
+village ['relatedto', 'synonym'] hamlet ['isa'] video_game ['isa'] flood
+village ['relatedto'] place ['relatedto'] land ['relatedto'] flood
+village ['relatedto'] place ['relatedto'] cover ['mannerof'] flood
+village ['relatedto'] place ['relatedto'] dyke ['relatedto'] flood
+village ['relatedto'] place ['relatedto'] lake ['relatedto'] flood
+village ['relatedto'] seal ['relatedto'] water ['relatedto', 'atlocation'] flood
+village ['relatedto'] seal ['relatedto'] hydrostatic_lock ['relatedto'] flood
+village ['relatedto'] side ['relatedto'] large ['relatedto'] flood
+village ['relatedto'] street ['atlocation'] water ['relatedto', 'atlocation'] flood
+village ['relatedto'] street ['relatedto'] big ['relatedto'] flood
+village ['relatedto'] street ['atlocation'] rain ['relatedto'] flood
+village ['relatedto'] street ['relatedto'] cities ['capableof'] flood
+village ['relatedto'] england ['relatedto'] lake ['relatedto'] flood
+village ['relatedto'] gathering ['isa'] multitude ['relatedto'] flood
+village ['relatedto'] tiny ['distinctfrom'] big ['relatedto'] flood
+village ['relatedto'] tiny ['relatedto'] drop ['antonym'] flood
+village ['relatedto'] tiny ['antonym', 'distinctfrom'] large ['relatedto'] flood
+village ['relatedto'] district ['relatedto'] cities ['capableof'] flood
+village ['relatedto'] size ['relatedto'] big ['relatedto'] flood
+village ['relatedto'] size ['relatedto'] drop ['antonym'] flood
+village ['relatedto'] size ['isa', 'relatedto'] large ['relatedto'] flood
+village ['relatedto'] waterloo ['etymologicallyrelatedto'] water ['relatedto', 'atlocation'] flood
+village ['relatedto'] smaller ['antonym', 'relatedto'] grow ['relatedto'] big ['relatedto'] flood
+village ['relatedto'] smaller ['antonym', 'relatedto'] grow ['relatedto'] rising ['relatedto'] flood
+village ['relatedto'] smaller ['formof'] little ['antonym', 'distinctfrom', 'relatedto'] big ['relatedto'] flood
+village ['relatedto'] smaller ['formof'] little ['antonym'] large ['relatedto'] flood
+village ['relatedto'] smaller ['formof'] little ['relatedto'] drop ['antonym'] flood
+village ['relatedto'] smaller ['formof', 'relatedto'] small ['antonym', 'distinctfrom', 'relatedto'] big ['relatedto'] flood
+village ['relatedto'] smaller ['formof', 'relatedto'] small ['antonym', 'distinctfrom', 'relatedto'] large ['relatedto'] flood
+village ['relatedto'] smaller ['formof', 'relatedto'] small ['relatedto'] drop ['antonym'] flood
+village ['relatedto'] smaller ['formof', 'relatedto'] small ['relatedto'] dyke ['relatedto'] flood
+village ['relatedto'] smaller ['formof', 'relatedto'] small ['relatedto'] lake ['relatedto'] flood
+village ['relatedto'] smaller ['relatedto'] atom ['relatedto'] disaster ['causes', 'relatedto'] flood
+village ['relatedto'] smaller ['relatedto'] atom ['relatedto'] everywhere ['relatedto'] flood
+village ['relatedto'] smaller ['relatedto'] atom ['relatedto'] large ['relatedto'] flood

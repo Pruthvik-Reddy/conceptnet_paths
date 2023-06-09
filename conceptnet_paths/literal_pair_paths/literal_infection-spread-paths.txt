@@ -1,0 +1,100 @@
+infection ['relatedto'] catch ['mannerof', 'relatedto'] spread
+infection ['relatedto'] discharge ['mannerof'] spread
+infection ['relatedto'] infective ['relatedto'] spread
+infection ['relatedto'] viruslike ['relatedto'] spread
+infection ['synonym'] contagion ['relatedto'] spread
+infection ['causes'] death ['causes'] cancer ['capableof', 'relatedto'] spread
+infection ['relatedto'] catch ['relatedto'] open ['relatedto'] spread
+infection ['isa', 'relatedto'] disease ['isa', 'relatedto'] cancer ['capableof', 'relatedto'] spread
+infection ['isa', 'relatedto'] disease ['relatedto'] contagion ['relatedto'] spread
+infection ['isa', 'relatedto'] disease ['relatedto'] systemic ['relatedto'] spread
+infection ['isa', 'relatedto'] disease ['relatedto'] epidemiology ['relatedto'] spread
+infection ['isa', 'relatedto'] disease ['relatedto'] transmit ['relatedto'] spread
+infection ['isa', 'relatedto'] disease ['relatedto'] wildfire ['relatedto'] spread
+infection ['relatedto', 'derivedfrom'] infect ['relatedto'] catch ['mannerof', 'relatedto'] spread
+infection ['relatedto'] host ['isa', 'relatedto'] bread ['relatedto'] spread
+infection ['relatedto'] host ['relatedto'] run ['relatedto'] spread
+infection ['isa'] illness ['isa'] cancer ['capableof', 'relatedto'] spread
+infection ['relatedto'] poison ['distinctfrom', 'relatedto'] food ['relatedto'] spread
+infection ['relatedto'] poison ['relatedto'] material ['relatedto'] spread
+infection ['relatedto'] penicillin ['relatedto'] bread ['relatedto'] spread
+infection ['relatedto'] germ ['relatedto'] spore ['etymologicallyrelatedto'] spread
+infection ['synonym'] transmission ['atlocation'] noise ['relatedto'] spread
+infection ['synonym'] transmission ['isa'] dissemination ['relatedto'] spread
+infection ['synonym'] transmission ['relatedto'] contagion ['relatedto'] spread
+infection ['synonym'] transmission ['relatedto'] transmit ['relatedto'] spread
+infection ['relatedto'] ulcer ['relatedto'] open ['relatedto'] spread
+infection ['causes'] virus ['relatedto'] epidemiology ['relatedto'] spread
+infection ['causes'] virus ['relatedto'] payload ['relatedto'] spread
+infection ['causes'] virus ['relatedto'] viruslike ['relatedto'] spread
+infection ['causes'] malfunction ['mannerof'] jam ['isa'] spread
+infection ['isa'] sore ['relatedto'] cut ['relatedto'] spread
+infection ['relatedto'] rash ['relatedto'] outbreak ['relatedto'] spread
+infection ['relatedto', 'derivedfrom'] infectious ['relatedto'] transmit ['relatedto'] spread
+infection ['relatedto', 'derivedfrom'] infectious ['relatedto', 'synonym'] infective ['relatedto'] spread
+infection ['isa'] sexually_transmitted_disease ['relatedto'] sexual ['relatedto'] spread
+infection ['relatedto'] adhesin ['relatedto'] surface ['relatedto'] spread
+infection ['relatedto'] agonistic_monoclonal_antibody ['relatedto'] cancer ['capableof', 'relatedto'] spread
+infection ['relatedto'] bavituximab ['relatedto'] cancer ['capableof', 'relatedto'] spread
+infection ['relatedto'] bavituxumab ['relatedto'] cancer ['capableof', 'relatedto'] spread
+infection ['relatedto'] dermatophytid ['relatedto'] disseminated ['relatedto'] spread
+infection ['relatedto'] discharge ['relatedto'] spend ['relatedto'] spread
+infection ['relatedto'] discharge ['mannerof'] scatter ['isa', 'relatedto', 'synonym'] spread
+infection ['relatedto'] discharge ['isa'] material ['relatedto'] spread
+infection ['relatedto'] discharge ['synonym'] run ['relatedto'] spread
+infection ['relatedto'] dissect ['mannerof', 'relatedto'] cut ['relatedto'] spread
+infection ['relatedto'] eruption ['relatedto', 'synonym'] outbreak ['relatedto'] spread
+infection ['relatedto'] flatness ['relatedto'] scatter ['isa', 'relatedto', 'synonym'] spread
+infection ['relatedto'] husk ['relatedto'] run ['relatedto'] spread
+infection ['relatedto'] infectivity ['derivedfrom'] infective ['relatedto'] spread
+infection ['relatedto'] malabar_itch ['relatedto'] scale ['relatedto'] spread
+infection ['relatedto'] neuroinvasion ['relatedto'] invasion ['isa'] spread
+infection ['relatedto'] pestiduct ['relatedto'] contagion ['relatedto'] spread
+infection ['relatedto'] pus ['relatedto'] gather ['antonym'] spread
+infection ['relatedto'] pus ['relatedto'] discharge ['mannerof'] spread
+infection ['relatedto'] taint ['relatedto'] food ['relatedto'] spread
+infection ['relatedto'] taint ['relatedto'] profit ['relatedto'] spread
+infection ['relatedto'] taint ['relatedto'] meal ['relatedto'] spread
+infection ['relatedto'] toxemia ['relatedto'] systemic ['relatedto'] spread
+infection ['causes'] death ['relatedto'] existence ['relatedto'] preserve ['relatedto'] spread
+infection ['causes'] death ['relatedto'] accident ['relatedto'] point ['relatedto'] spread
+infection ['causes'] death ['isa', 'relatedto'] rest ['distinctfrom'] move ['mannerof'] spread
+infection ['causes'] death ['isa', 'relatedto'] rest ['haslastsubevent'] run ['relatedto'] spread
+infection ['causes'] death ['isa', 'relatedto'] rest ['relatedto'] price ['relatedto'] spread
+infection ['causes'] death ['causes'] getting ['relatedto'] apply ['relatedto', 'similarto'] spread
+infection ['causes'] death ['causes'] getting ['relatedto'] gather ['antonym'] spread
+infection ['causes'] death ['causes'] getting ['relatedto'] profit ['relatedto'] spread
+infection ['causes'] death ['causes'] getting ['relatedto'] move ['mannerof'] spread
+infection ['causes'] death ['causes'] getting ['relatedto'] stretch ['relatedto'] spread
+infection ['causes'] death ['relatedto'] old ['antonym', 'distinctfrom'] news ['relatedto'] spread
+infection ['causes'] death ['relatedto'] go ['relatedto'] apply ['relatedto', 'similarto'] spread
+infection ['causes'] death ['relatedto'] go ['isa', 'relatedto', 'synonym'] move ['mannerof'] spread
+infection ['causes'] death ['relatedto'] go ['relatedto'] discharge ['mannerof'] spread
+infection ['causes'] death ['relatedto'] go ['relatedto'] item ['relatedto'] spread
+infection ['causes'] death ['relatedto'] go ['relatedto', 'synonym'] run ['relatedto'] spread
+infection ['causes'] death ['relatedto'] go ['relatedto'] extend ['relatedto'] spread
+infection ['causes'] death ['relatedto'] go ['relatedto'] spend ['relatedto'] spread
+infection ['causes'] death ['relatedto'] go ['relatedto'] schmear ['relatedto'] spread
+infection ['causes'] death ['relatedto'] sleep ['relatedto'] catch ['mannerof', 'relatedto'] spread
+infection ['causes'] death ['relatedto'] departure ['relatedto'] move ['mannerof'] spread
+infection ['causes'] death ['relatedto'] departure ['synonym'] difference ['relatedto'] spread
+infection ['causes'] death ['relatedto'] attack ['relatedto'] apply ['relatedto', 'similarto'] spread
+infection ['causes'] death ['relatedto'] attack ['relatedto'] invasion ['isa'] spread
+infection ['causes'] death ['relatedto'] attack ['relatedto'] move ['mannerof'] spread
+infection ['causes'] death ['relatedto'] attack ['relatedto'] run ['relatedto'] spread
+infection ['causes'] death ['relatedto'] attack ['relatedto'] smear ['relatedto', 'synonym'] spread
+infection ['causes'] death ['relatedto'] hang ['relatedto'] apply ['relatedto', 'similarto'] spread
+infection ['causes'] death ['causes'] living ['relatedto'] land ['relatedto'] spread
+infection ['causes'] death ['causes'] living ['causes'] happiness ['capableof'] spread
+infection ['causes'] death ['causes'] living ['hasprerequisite'] food ['relatedto'] spread
+infection ['causes'] death ['relatedto'] bell ['relatedto'] item ['relatedto'] spread
+infection ['causes'] death ['relatedto'] bell ['relatedto'] mushroom ['synonym'] spread
+infection ['causes'] death ['relatedto'] bell ['relatedto'] noise ['relatedto'] spread
+infection ['causes'] death ['relatedto'] malignant ['relatedto'] cancer ['capableof', 'relatedto'] spread
+infection ['causes'] death ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] life ['isa'] magazine ['relatedto'] spread
+infection ['causes'] death ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] life ['relatedto'] bread ['relatedto'] spread
+infection ['causes'] death ['antonym', 'distinctfrom', 'relatedto', 'hasprerequisite', 'partof'] life ['relatedto'] preserve ['relatedto'] spread
+infection ['causes'] death ['antonym'] exist ['mannerof'] distribute ['mannerof', 'relatedto', 'synonym'] spread
+infection ['causes'] death ['antonym'] health ['relatedto'] happiness ['capableof'] spread
+infection ['causes'] death ['antonym'] health ['relatedto'] stretch ['relatedto'] spread
+infection ['causes'] death ['antonym', 'distinctfrom', 'relatedto'] live ['relatedto'] news ['relatedto'] spread

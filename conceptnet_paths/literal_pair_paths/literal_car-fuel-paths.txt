@@ -1,0 +1,100 @@
+car ['relatedto', 'atlocation'] fuel
+car ['atlocation'] lighter ['relatedto'] fuel
+car ['usedfor', 'relatedto', 'atlocation'] oil ['relatedto'] fuel
+car ['atlocation'] petrol ['relatedto'] fuel
+car ['formof', 'relatedto'] cars ['relatedto'] fuel
+car ['isa', 'relatedto'] motor_vehicle ['relatedto'] fuel
+car ['isa'] gas_guzzler ['relatedto'] fuel
+car ['partof'] fuel_tank ['relatedto', 'derivedfrom'] fuel
+car ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+car ['relatedto'] gasoline ['isa', 'relatedto'] fuel
+car ['relatedto'] combustion ['relatedto'] fuel
+car ['relatedto'] fuel_economy ['relatedto'] fuel
+car ['relatedto'] mileage ['relatedto'] fuel
+car ['relatedto'] tanker ['relatedto'] fuel
+car ['relatedto'] wax ['isa', 'relatedto'] fuel
+car ['relatedto'] acceleration ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+car ['relatedto'] acceleration ['relatedto'] sportbike ['relatedto'] fuel
+car ['relatedto'] accident ['causes'] chopping_firewood ['causes'] fuel
+car ['relatedto'] accident ['causes'] driving_car ['hasprerequisite'] fuel
+car ['relatedto'] accident ['relatedto'] cars ['relatedto'] fuel
+car ['relatedto'] accident ['relatedto'] substance ['isa', 'relatedto'] fuel
+car ['relatedto'] smaller ['relatedto'] compression ['relatedto'] fuel
+car ['relatedto'] smaller ['relatedto'] crop ['relatedto'] fuel
+car ['atlocation'] children ['relatedto'] corn ['relatedto'] fuel
+car ['hasproperty'] expensive ['hasproperty'] cars ['relatedto'] fuel
+car ['hasproperty'] expensive ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+car ['hasproperty'] expensive ['relatedto'] oil ['relatedto'] fuel
+car ['hasproperty'] expensive ['relatedto'] rich ['relatedto'] fuel
+car ['atlocation'] land ['isa'] turf ['relatedto'] fuel
+car ['atlocation'] land ['relatedto'] crop ['relatedto'] fuel
+car ['atlocation'] land ['relatedto'] term ['relatedto'] fuel
+car ['atlocation'] land ['relatedto'] stick ['usedfor'] fuel
+car ['relatedto', 'synonym'] auto ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+car ['relatedto', 'synonym'] auto ['relatedto'] oil ['relatedto'] fuel
+car ['relatedto'] short ['relatedto'] crop ['relatedto'] fuel
+car ['hasproperty'] red ['relatedto'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+car ['hasproperty'] red ['hasproperty'] cars ['relatedto'] fuel
+car ['hasproperty'] red ['relatedto'] energy ['relatedto'] fuel
+car ['hasproperty'] red ['relatedto'] heat ['relatedto'] fuel
+car ['hasproperty'] red ['relatedto'] red_fire ['isa'] fuel
+car ['hasproperty'] red ['relatedto'] wood ['isa', 'relatedto'] fuel
+car ['causes'] pollution ['causes'] driving_car ['hasprerequisite'] fuel
+car ['causes'] pollution ['relatedto'] coal ['isa', 'relatedto'] fuel
+car ['causes'] pollution ['relatedto'] substance ['isa', 'relatedto'] fuel
+car ['relatedto'] automatic ['antonym'] stick ['usedfor'] fuel
+car ['relatedto'] automatic ['relatedto'] autothrottle ['relatedto'] fuel
+car ['relatedto'] bar ['relatedto'] stick ['usedfor'] fuel
+car ['relatedto'] bar ['atlocation'] coke ['isa', 'relatedto'] fuel
+car ['relatedto'] bar ['relatedto'] alcohol ['isa'] fuel
+car ['relatedto'] bar ['relatedto', 'synonym'] block ['relatedto'] fuel
+car ['relatedto'] bar ['relatedto'] cocktail ['relatedto'] fuel
+car ['relatedto'] bar ['relatedto'] food ['isa', 'relatedto'] fuel
+car ['relatedto'] bar ['relatedto'] wood ['isa', 'relatedto'] fuel
+car ['relatedto'] bar ['relatedto'] substance ['isa', 'relatedto'] fuel
+car ['relatedto'] bar ['relatedto'] step_grate ['relatedto'] fuel
+car ['relatedto'] cover ['isa'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+car ['relatedto'] cover ['mannerof'] oil ['relatedto'] fuel
+car ['relatedto'] cover ['mannerof'] turf ['relatedto'] fuel
+car ['relatedto'] cover ['mannerof'] wax ['isa', 'relatedto'] fuel
+car ['relatedto'] cover ['relatedto'] general ['relatedto'] fuel
+car ['relatedto'] cover ['relatedto'] general_term ['relatedto'] fuel
+car ['relatedto'] cover ['relatedto'] term ['relatedto'] fuel
+car ['relatedto'] cover ['relatedto'] grate ['relatedto'] fuel
+car ['relatedto'] stop ['relatedto', 'synonym'] block ['relatedto'] fuel
+car ['relatedto'] big ['antonym', 'relatedto'] stick ['usedfor'] fuel
+car ['relatedto'] big ['relatedto'] crop ['relatedto'] fuel
+car ['relatedto'] big ['relatedto'] general ['relatedto'] fuel
+car ['relatedto'] big ['relatedto'] lantern ['relatedto'] fuel
+car ['relatedto'] big ['relatedto'] oil ['relatedto'] fuel
+car ['relatedto'] big ['synonym'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+car ['relatedto'] small ['relatedto'] stick ['usedfor'] fuel
+car ['relatedto'] small ['relatedto'] corn ['relatedto'] fuel
+car ['relatedto'] small ['relatedto'] lantern ['relatedto'] fuel
+car ['relatedto'] small ['relatedto'] wood ['isa', 'relatedto'] fuel
+car ['relatedto'] lot ['relatedto'] cars ['relatedto'] fuel
+car ['relatedto'] handle ['relatedto'] stick ['usedfor'] fuel
+car ['relatedto'] handle ['isa'] crop ['relatedto'] fuel
+car ['relatedto'] handle ['relatedto'] lantern ['relatedto'] fuel
+car ['hasproperty'] green ['relatedto'] corn ['relatedto'] fuel
+car ['hasproperty'] green ['relatedto'] crop ['relatedto'] fuel
+car ['hasproperty'] green ['relatedto'] verd ['relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['atlocation'] food ['isa', 'relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] thing ['relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] plane ['atlocation'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['atlocation'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['atlocation'] gasoline ['isa', 'relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto', 'atlocation'] wood ['isa', 'relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] lighter ['relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto', 'isa'] bus ['atlocation'] fuel_tank ['relatedto', 'derivedfrom'] fuel
+car ['antonym', 'distinctfrom', 'relatedto', 'isa'] bus ['isa'] motor_vehicle ['relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] truck ['atlocation'] food ['isa', 'relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] truck ['relatedto'] thing ['relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] truck ['isa', 'relatedto'] tanker ['relatedto'] fuel
+car ['antonym', 'distinctfrom', 'relatedto'] truck ['isa'] motor_vehicle ['relatedto'] fuel
+car ['antonym'] dog ['relatedto'] stick ['usedfor'] fuel
+car ['antonym'] dog ['desires'] food ['isa', 'relatedto'] fuel
+car ['antonym'] dog ['isa'] thing ['relatedto'] fuel
+car ['antonym'] dog ['desires'] meat ['usedfor'] fuel
+car ['antonym'] dog ['relatedto'] general ['relatedto'] fuel
+car ['atlocation'] air_conditioning ['antonym'] heat ['relatedto'] fuel

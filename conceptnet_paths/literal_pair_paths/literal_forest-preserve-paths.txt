@@ -1,0 +1,100 @@
+forest ['atlocation'] wildlife ['relatedto'] preserve
+forest ['capableof', 'relatedto'] place ['relatedto'] preserve
+forest ['relatedto', 'partof'] nature ['relatedto'] preserve
+forest ['relatedto'] area ['relatedto'] preserve
+forest ['relatedto'] smoke ['relatedto'] preserve
+forest ['atlocation'] earth ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] space ['relatedto'] preserve
+forest ['atlocation'] earth ['relatedto', 'atlocation'] life ['relatedto'] preserve
+forest ['atlocation'] earth ['relatedto'] place ['relatedto'] preserve
+forest ['atlocation'] earth ['relatedto'] sphere ['isa'] preserve
+forest ['atlocation'] earth ['relatedto'] stuff ['relatedto'] preserve
+forest ['atlocation'] earth ['relatedto'] nature ['relatedto'] preserve
+forest ['atlocation'] earth ['relatedto'] salt ['mannerof', 'relatedto'] preserve
+forest ['atlocation'] fire ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] smoke ['relatedto'] preserve
+forest ['atlocation'] fire ['usedfor', 'relatedto'] cook ['mannerof'] preserve
+forest ['atlocation'] fire ['relatedto'] cooking ['relatedto'] preserve
+forest ['atlocation'] fire ['relatedto'] energy ['relatedto'] preserve
+forest ['atlocation'] fire ['relatedto'] food ['relatedto'] preserve
+forest ['atlocation'] fire ['relatedto'] red ['relatedto'] preserve
+forest ['atlocation'] fire ['relatedto'] stuff ['relatedto'] preserve
+forest ['atlocation'] fire ['relatedto'] killing_field ['relatedto'] preserve
+forest ['isa', 'relatedto'] land ['relatedto'] action ['relatedto'] preserve
+forest ['isa', 'relatedto'] land ['relatedto'] area ['relatedto'] preserve
+forest ['isa', 'relatedto'] land ['relatedto'] place ['relatedto'] preserve
+forest ['isa', 'relatedto'] land ['relatedto'] reservation ['isa', 'relatedto'] preserve
+forest ['isa', 'relatedto'] land ['relatedto'] spread ['relatedto'] preserve
+forest ['isa', 'relatedto'] land ['relatedto', 'synonym'] state ['relatedto'] preserve
+forest ['isa', 'relatedto'] land ['relatedto'] waste ['antonym'] preserve
+forest ['relatedto'] animal ['atlocation'] park ['relatedto'] preserve
+forest ['relatedto'] animal ['formof', 'relatedto'] animals ['relatedto'] preserve
+forest ['relatedto'] animal ['relatedto', 'partof'] nature ['relatedto'] preserve
+forest ['relatedto'] animal ['relatedto'] life ['relatedto'] preserve
+forest ['relatedto'] animal ['relatedto'] type ['relatedto'] preserve
+forest ['relatedto'] animal ['relatedto'] bellyband ['relatedto'] preserve
+forest ['relatedto'] animal ['relatedto'] pelt ['relatedto'] preserve
+forest ['relatedto'] animal ['relatedto'] wildlife ['relatedto'] preserve
+forest ['relatedto'] animal ['usedfor'] food ['relatedto'] preserve
+forest ['atlocation'] bird ['relatedto'] animals ['relatedto'] preserve
+forest ['atlocation'] bird ['relatedto'] making ['relatedto'] preserve
+forest ['atlocation'] bird ['relatedto'] type ['relatedto'] preserve
+forest ['atlocation'] bird ['relatedto'] corn ['mannerof'] preserve
+forest ['relatedto'] plant ['relatedto'] action ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto', 'atlocation'] pot ['relatedto'] preserve
+forest ['relatedto'] plant ['createdby'] fruit ['relatedto'] preserve
+forest ['relatedto'] plant ['isa'] strawberry ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto', 'partof'] nature ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto'] conservatory ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto'] corn ['mannerof'] preserve
+forest ['relatedto'] plant ['relatedto'] energy ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto'] nature_preserve ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto'] nature_reserve ['synonym'] preserve
+forest ['relatedto'] plant ['relatedto'] food ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto'] life ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto'] product ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto'] smoke ['relatedto'] preserve
+forest ['relatedto'] plant ['relatedto'] wildlife ['relatedto'] preserve
+forest ['relatedto', 'atlocation'] stick ['relatedto'] action ['relatedto'] preserve
+forest ['relatedto', 'atlocation'] stick ['relatedto'] nature ['relatedto'] preserve
+forest ['relatedto', 'atlocation'] stick ['relatedto'] toast ['relatedto'] preserve
+forest ['relatedto', 'atlocation'] stick ['relatedto'] jam ['distinctfrom', 'relatedto', 'similarto', 'synonym'] preserve
+forest ['relatedto'] slash ['relatedto'] action ['relatedto'] preserve
+forest ['relatedto'] slash ['relatedto'] area ['relatedto'] preserve
+forest ['relatedto'] bat ['relatedto'] good ['relatedto'] preserve
+forest ['relatedto'] bat ['relatedto'] fruit ['relatedto'] preserve
+forest ['relatedto'] bear ['atlocation'] park ['relatedto'] preserve
+forest ['relatedto'] bear ['mannerof', 'synonym'] fruit ['relatedto'] preserve
+forest ['relatedto'] bear ['relatedto'] smoke ['relatedto'] preserve
+forest ['relatedto'] bear ['relatedto'] stuff ['relatedto'] preserve
+forest ['relatedto'] big ['relatedto'] onto ['relatedto'] preserve
+forest ['relatedto'] big ['relatedto'] park ['relatedto'] preserve
+forest ['relatedto'] big ['relatedto'] space ['relatedto'] preserve
+forest ['relatedto'] green ['antonym', 'distinctfrom', 'relatedto'] red ['relatedto'] preserve
+forest ['relatedto'] green ['antonym', 'relatedto'] smoked ['relatedto'] preserve
+forest ['relatedto'] green ['relatedto'] conservation ['relatedto'] preserve
+forest ['relatedto'] green ['relatedto'] corn ['mannerof'] preserve
+forest ['relatedto'] green ['relatedto'] fresh ['relatedto'] preserve
+forest ['relatedto'] green ['relatedto'] nature ['relatedto'] preserve
+forest ['relatedto'] green ['relatedto', 'synonym'] unsmoked ['relatedto'] preserve
+forest ['relatedto'] green ['relatedto', 'synonym'] park ['relatedto'] preserve
+forest ['relatedto'] green ['relatedto'] pickle ['mannerof', 'relatedto'] preserve
+forest ['relatedto'] green ['relatedto'] sulfur ['relatedto'] preserve
+forest ['atlocation'] branch ['relatedto'] food ['relatedto'] preserve
+forest ['atlocation'] branch ['relatedto'] holding ['relatedto'] preserve
+forest ['relatedto'] build ['antonym'] decay ['antonym'] preserve
+forest ['relatedto'] build ['relatedto'] action ['relatedto'] preserve
+forest ['relatedto'] build ['relatedto'] activity ['relatedto'] preserve
+forest ['relatedto'] build ['antonym', 'distinctfrom'] destroy ['antonym'] preserve
+forest ['relatedto'] build ['antonym'] ruin ['antonym'] preserve
+forest ['relatedto'] build ['relatedto'] making ['relatedto'] preserve
+forest ['relatedto'] build ['relatedto'] place ['relatedto'] preserve
+forest ['relatedto'] build ['relatedto'] stuff ['relatedto'] preserve
+forest ['relatedto'] camp ['relatedto'] action ['relatedto'] preserve
+forest ['relatedto'] camp ['relatedto'] activity ['relatedto'] preserve
+forest ['relatedto'] camp ['isa', 'relatedto'] place ['relatedto'] preserve
+forest ['relatedto'] camp ['relatedto'] area ['relatedto'] preserve
+forest ['relatedto'] camp ['relatedto'] cooking ['relatedto'] preserve
+forest ['relatedto'] camp ['relatedto'] nature ['relatedto'] preserve
+forest ['relatedto'] camp ['relatedto'] park ['relatedto'] preserve
+forest ['relatedto'] dear ['synonym'] good ['relatedto'] preserve
+forest ['relatedto'] dear ['relatedto'] beginning ['relatedto'] preserve
+forest ['relatedto'] dear ['relatedto'] food ['relatedto'] preserve

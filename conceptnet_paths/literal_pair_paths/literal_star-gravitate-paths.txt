@@ -1,0 +1,100 @@
+star ['relatedto'] act ['relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] act ['relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] fire ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] body ['usedfor', 'relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] force ['isa', 'relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] force ['isa', 'relatedto'] gravity ['relatedto'] gravitate
+star ['isa', 'relatedto'] sun ['usedfor'] gravity ['relatedto'] gravitate
+star ['relatedto'] light ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] heaven ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto', 'atlocation'] space ['relatedto'] gravity ['relatedto'] gravitate
+star ['relatedto', 'atlocation'] space ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] general ['relatedto'] move ['mannerof'] gravitate
+star ['isa', 'relatedto'] shape ['relatedto'] drift ['relatedto'] gravitate
+star ['relatedto', 'derivedfrom'] stardrift ['derivedfrom'] drift ['relatedto'] gravitate
+star ['isa', 'relatedto'] neutron_star ['relatedto'] gravity ['relatedto'] gravitate
+star ['relatedto'] fusor ['relatedto'] gravity ['relatedto'] gravitate
+star ['relatedto'] plough ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] ringworld ['relatedto'] gravity ['relatedto'] gravitate
+star ['relatedto'] influence ['relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] purpose ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['causes'] incite ['relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['definedas'] proceed ['synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['derivedfrom'] act_upon ['synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['etymologicallyrelatedto'] agitate ['mannerof', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['hasfirstsubevent', 'relatedto', 'hasprerequisite', 'synonym'] pretend ['etymologicallyrelatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] act ['isa'] activity ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['isa'] departure ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['isa'] stay ['antonym', 'distinctfrom'] move ['mannerof'] gravitate
+star ['relatedto'] act ['isa'] stop ['antonym', 'distinctfrom', 'relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] serve ['mannerof'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] serve ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] act ['mannerof'] attack ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] continue ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] court ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] create ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof', 'relatedto'] deal ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] force ['isa', 'relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] act ['mannerof'] force ['isa', 'relatedto'] gravity ['relatedto'] gravitate
+star ['relatedto'] act ['mannerof'] go ['isa', 'relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] go ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] act ['mannerof'] go ['relatedto'] gravity ['relatedto'] gravitate
+star ['relatedto'] act ['mannerof'] maneuver ['isa', 'relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['mannerof', 'relatedto', 'entails'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] race ['mannerof'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] reciprocate ['mannerof'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof', 'relatedto'] rush ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['mannerof'] take_care ['mannerof'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] act ['mannerof'] wait ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] act ['relatedto'] behavior ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] fake ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] give ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] motion ['relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] motion ['relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] act ['relatedto'] rule ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] bishop ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] concession ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] cut ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] fast ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] front ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] inert ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] resistance ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] act ['relatedto'] slash ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] sling ['mannerof'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] stand ['antonym', 'distinctfrom'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] stir ['mannerof', 'relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto', 'synonym'] take_action ['synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] translation ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] transportation ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] trick ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] trouble ['synonym'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] vault ['relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] act ['relatedto', 'synonym'] work ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['relatedto'] writing ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] act ['synonym'] law ['relatedto'] gravity ['relatedto'] gravitate
+star ['relatedto'] act ['synonym'] turn ['isa', 'mannerof', 'relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] future ['antonym'] current ['relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] future ['isa'] tense ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] future ['relatedto'] advance ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] future ['relatedto'] come ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] future ['relatedto'] court ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] future ['relatedto', 'similarto'] forward ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] future ['relatedto'] travel ['relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] future ['relatedto'] prospect ['relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] future ['relatedto'] next ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] future ['relatedto'] plan ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] future ['relatedto'] position ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] future ['relatedto'] progress ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] agent ['relatedto'] act ['relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] agent ['relatedto'] act ['relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] agent ['relatedto'] action ['relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] agent ['etymologicallyrelatedto'] agitate ['mannerof', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] agent ['isa'] substance ['relatedto'] gravitas ['relatedto'] gravitate
+star ['relatedto'] agent ['relatedto'] le ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] agent ['relatedto'] minister ['relatedto'] tend ['mannerof', 'relatedto'] gravitate
+star ['relatedto'] agent ['relatedto'] transport ['mannerof', 'relatedto'] move ['mannerof'] gravitate
+star ['relatedto'] agent ['relatedto'] vehicle ['relatedto'] drift ['relatedto'] gravitate
+star ['relatedto'] fire ['mannerof'] remove ['relatedto', 'synonym'] move ['mannerof'] gravitate
+star ['relatedto'] fire ['relatedto'] earth ['hasa', 'relatedto'] gravity ['relatedto'] gravitate
+star ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['relatedto'] move ['mannerof'] gravitate

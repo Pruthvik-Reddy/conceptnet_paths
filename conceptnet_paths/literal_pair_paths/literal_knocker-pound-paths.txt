@@ -1,0 +1,100 @@
+knocker ['partof'] front_door ['atlocation'] dog ['atlocation'] pound
+knocker ['partof'] front_door ['atlocation'] lock ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] pitch ['relatedto'] pound
+knocker ['relatedto'] plate ['relatedto'] animal ['relatedto'] pound
+knocker ['relatedto'] plate ['isa'] tap ['relatedto'] pound
+knocker ['relatedto'] plate ['relatedto'] lady ['relatedto'] pound
+knocker ['relatedto'] plate ['relatedto'] blow ['relatedto'] pound
+knocker ['relatedto'] plate ['relatedto'] large ['relatedto'] pound
+knocker ['relatedto'] plate ['relatedto'] weight ['relatedto'] pound
+knocker ['relatedto'] plate ['synonym'] scale ['relatedto'] pound
+knocker ['synonym'] breast ['relatedto'] lady ['relatedto'] pound
+knocker ['relatedto'] door ['relatedto', 'partof', 'atlocation'] lock ['relatedto'] pound
+knocker ['relatedto'] door ['hasproperty'] large ['relatedto'] pound
+knocker ['relatedto'] door ['relatedto'] hard ['relatedto'] pound
+knocker ['relatedto'] door ['relatedto'] software ['isa'] pound
+knocker ['relatedto'] door ['relatedto'] ram ['synonym'] pound
+knocker ['relatedto'] dwarf ['relatedto'] animal ['relatedto'] pound
+knocker ['isa'] mechanical_device ['isa'] lock ['relatedto'] pound
+knocker ['relatedto'] mine ['atlocation'] stone ['relatedto', 'partof'] pound
+knocker ['relatedto'] breasts ['relatedto'] lady ['relatedto'] pound
+knocker ['relatedto'] mechanical ['relatedto'] animal ['relatedto'] pound
+knocker ['relatedto'] mechanical ['relatedto'] foot_pound_second ['relatedto'] pound
+knocker ['relatedto', 'derivedfrom'] knock ['synonym'] bang ['relatedto'] pound
+knocker ['relatedto', 'derivedfrom'] knock ['isa'] blow ['relatedto'] pound
+knocker ['relatedto', 'derivedfrom'] knock ['mannerof'] strike ['relatedto'] pound
+knocker ['relatedto', 'derivedfrom'] knock ['relatedto', 'synonym'] smash ['relatedto', 'synonym'] pound
+knocker ['relatedto', 'derivedfrom'] knock ['synonym'] tap ['relatedto'] pound
+knocker ['isa'] device ['relatedto'] hammer ['usedfor', 'relatedto', 'synonym'] pound
+knocker ['isa'] device ['relatedto'] lock ['relatedto'] pound
+knocker ['isa'] device ['relatedto'] tap ['relatedto'] pound
+knocker ['isa'] device ['relatedto'] scale ['relatedto'] pound
+knocker ['relatedto'] boulder ['relatedto'] large ['relatedto'] pound
+knocker ['relatedto'] boulder ['isa', 'relatedto'] stone ['relatedto', 'partof'] pound
+knocker ['relatedto'] knocking ['relatedto'] tap ['relatedto'] pound
+knocker ['relatedto'] percussive ['relatedto'] bang ['relatedto'] pound
+knocker ['relatedto'] percussive ['relatedto'] pounding ['formof', 'relatedto'] pound
+knocker ['relatedto'] pinball ['relatedto'] score ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto', 'atlocation'] house ['relatedto'] animal ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto', 'atlocation'] house ['relatedto', 'atlocation'] dog ['atlocation'] pound
+knocker ['partof'] front_door ['relatedto', 'atlocation'] house ['isa'] noun ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto', 'atlocation'] house ['relatedto'] large ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto', 'atlocation'] house ['relatedto'] kennel ['synonym'] pound
+knocker ['partof'] front_door ['relatedto', 'atlocation'] house ['relatedto'] kip ['etymologicallyrelatedto'] pound
+knocker ['partof'] front_door ['relatedto', 'atlocation'] house ['relatedto'] lot ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto', 'atlocation'] house ['relatedto'] stone ['relatedto', 'partof'] pound
+knocker ['partof'] front_door ['relatedto'] home ['relatedto'] animal_shelter ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] home ['relatedto'] dog ['atlocation'] pound
+knocker ['partof'] front_door ['relatedto'] home ['relatedto'] unit ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] home ['relatedto'] warm ['hasproperty'] pound
+knocker ['partof'] front_door ['relatedto'] home ['relatedto'] kennel ['synonym'] pound
+knocker ['partof'] front_door ['relatedto'] home ['relatedto'] net ['relatedto'] pound
+knocker ['partof'] front_door ['antonym', 'distinctfrom', 'relatedto'] back_door ['relatedto'] pitch ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] bell ['relatedto'] hammer ['usedfor', 'relatedto', 'synonym'] pound
+knocker ['partof'] front_door ['atlocation'] bell ['relatedto'] noise ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] bell ['relatedto'] english ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] cat ['isa', 'relatedto'] animal ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] cat ['antonym', 'distinctfrom', 'relatedto'] dog ['atlocation'] pound
+knocker ['partof'] front_door ['atlocation'] cat ['isa'] noun ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] dog ['relatedto'] animal ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] dog ['relatedto', 'atlocation'] kennel ['synonym'] pound
+knocker ['partof'] front_door ['atlocation'] dog ['capableof'] stray ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] dog ['relatedto'] large ['relatedto'] pound
+knocker ['partof'] front_door ['isa', 'atlocation'] door ['relatedto', 'partof', 'atlocation'] lock ['relatedto'] pound
+knocker ['partof'] front_door ['isa', 'atlocation'] door ['hasproperty'] large ['relatedto'] pound
+knocker ['partof'] front_door ['isa', 'atlocation'] door ['relatedto'] hard ['relatedto'] pound
+knocker ['partof'] front_door ['isa', 'atlocation'] door ['relatedto'] software ['isa'] pound
+knocker ['partof'] front_door ['isa', 'atlocation'] door ['relatedto'] ram ['synonym'] pound
+knocker ['partof'] front_door ['atlocation'] doorknob ['atlocation'] lock ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] key ['usedfor', 'relatedto'] lock ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] key ['isa'] pitch ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] key ['relatedto'] scale ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] letters ['relatedto'] pitch ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] lock ['etymologicallyrelatedto'] lake ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] lock ['isa'] enclosure ['isa'] pound
+knocker ['partof'] front_door ['atlocation'] lock ['relatedto', 'partof'] canal ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] paper ['madeof', 'relatedto'] money ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] paper ['antonym'] stone ['relatedto', 'partof'] pound
+knocker ['partof'] front_door ['atlocation'] paper ['relatedto'] currency ['isa', 'relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] paper ['relatedto'] dollar ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] paper ['relatedto'] unit ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] paper ['relatedto'] paste ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] paper ['relatedto'] royal ['relatedto'] pound
+knocker ['partof'] front_door ['atlocation'] window ['relatedto'] nicker ['synonym'] pound
+knocker ['partof'] front_door ['atlocation'] wreath ['isa', 'relatedto'] crown ['relatedto'] pound
+knocker ['partof'] front_door ['definedas'] find_downstairs ['isa'] dog ['atlocation'] pound
+knocker ['partof'] front_door ['relatedto'] entrance ['atlocation'] lock ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] anus ['relatedto'] penetrate ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] building ['relatedto'] lot ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] building ['usedfor'] hammer ['usedfor', 'relatedto', 'synonym'] pound
+knocker ['partof'] front_door ['relatedto'] building ['relatedto', 'partof'] stone ['relatedto', 'partof'] pound
+knocker ['partof'] front_door ['relatedto'] building ['relatedto'] lumber ['synonym'] pound
+knocker ['partof'] front_door ['relatedto'] pitch ['isa', 'relatedto'] strike ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] plate ['relatedto'] animal ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] plate ['isa'] tap ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] plate ['relatedto'] lady ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] plate ['relatedto'] blow ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] plate ['relatedto'] large ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] plate ['relatedto'] weight ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] plate ['synonym'] scale ['relatedto'] pound
+knocker ['partof'] front_door ['relatedto'] sexual_intercourse ['relatedto'] sexual ['relatedto'] pound

@@ -1,0 +1,100 @@
+book ['atlocation'] house ['usedfor'] sell
+book ['relatedto', 'derivedfrom'] bookseller ['relatedto'] sell
+book ['derivedfrom'] overbook ['relatedto'] sell
+book ['relatedto', 'derivedfrom'] underbook ['relatedto'] sell
+book ['isa', 'relatedto'] album ['usedfor'] sell
+book ['isa', 'relatedto'] product ['relatedto'] sell
+book ['isa'] persuasion ['relatedto'] sell
+book ['relatedto'] bundle ['relatedto'] sell
+book ['relatedto'] trick ['relatedto'] sell
+book ['synonym'] engage ['mannerof'] move ['mannerof'] sell
+book ['synonym'] engage ['relatedto'] pawn ['relatedto'] sell
+book ['synonym'] engage ['relatedto'] trade ['mannerof', 'relatedto', 'entails'] sell
+book ['relatedto', 'synonym'] reserve ['relatedto'] auction ['mannerof'] sell
+book ['relatedto'] speaker ['isa'] product ['relatedto'] sell
+book ['relatedto'] speaker ['relatedto'] house ['usedfor'] sell
+book ['relatedto'] adventure ['relatedto'] action ['relatedto'] sell
+book ['relatedto'] adventure ['relatedto'] excitement ['relatedto'] sell
+book ['relatedto'] adventure ['relatedto'] go ['relatedto'] sell
+book ['relatedto'] adventure ['relatedto'] good ['relatedto'] sell
+book ['isa'] fire ['atlocation'] house ['usedfor'] sell
+book ['isa'] fire ['relatedto'] seat ['relatedto'] sell
+book ['isa'] fire ['relatedto'] vent ['relatedto'] sell
+book ['isa'] plant ['relatedto'] action ['relatedto'] sell
+book ['isa'] plant ['relatedto', 'atlocation'] house ['usedfor'] sell
+book ['isa'] plant ['mannerof'] stock ['relatedto'] sell
+book ['isa'] plant ['relatedto'] product ['relatedto'] sell
+book ['isa'] plant ['relatedto'] rhizomatist ['relatedto'] sell
+book ['isa'] plant ['relatedto'] stool ['relatedto'] sell
+book ['isa'] plant ['relatedto'] wildcraft ['relatedto'] sell
+book ['atlocation'] house ['antonym', 'relatedto'] rent ['relatedto'] sell
+book ['atlocation'] house ['derivedfrom'] seedhouse ['relatedto'] sell
+book ['atlocation'] house ['relatedto'] lumber_yard ['relatedto'] sell
+book ['atlocation'] house ['relatedto'] move ['mannerof'] sell
+book ['atlocation'] house ['synonym'] shop ['relatedto'] sell
+book ['isa'] fall ['relatedto'] action ['relatedto'] sell
+book ['isa'] fall ['relatedto'] go ['relatedto'] sell
+book ['isa'] fall ['relatedto'] undercut ['relatedto'] sell
+book ['causesdesire'] sleep ['relatedto'] action ['relatedto'] sell
+book ['causesdesire'] sleep ['relatedto'] go ['relatedto'] sell
+book ['causesdesire'] sleep ['hasprerequisite'] shop ['relatedto'] sell
+book ['causesdesire'] sleep ['mannerof', 'relatedto'] bundle ['relatedto'] sell
+book ['causesdesire'] sleep ['relatedto'] good ['relatedto'] sell
+book ['relatedto'] arm ['atlocation'] house ['usedfor'] sell
+book ['relatedto'] arm ['relatedto'] sling ['relatedto'] sell
+book ['relatedto'] audience ['isa'] house ['usedfor'] sell
+book ['relatedto'] audience ['isa'] gallery ['relatedto'] sell
+book ['isa', 'relatedto'] reader ['relatedto'] album ['usedfor'] sell
+book ['isa', 'relatedto'] reader ['relatedto'] advertisement ['usedfor'] sell
+book ['isa', 'relatedto'] reader ['relatedto'] service ['relatedto'] sell
+book ['relatedto'] back ['derivedfrom'] sellback ['relatedto', 'derivedfrom'] sell
+book ['relatedto'] back ['relatedto', 'partof'] saddle ['relatedto'] sell
+book ['relatedto'] back ['relatedto'] exchange ['mannerof', 'relatedto'] sell
+book ['relatedto'] back ['relatedto'] money ['motivatedbygoal', 'relatedto'] sell
+book ['relatedto'] back ['relatedto'] pay ['antonym'] sell
+book ['relatedto'] back ['relatedto'] stool ['relatedto'] sell
+book ['relatedto'] plot ['isa'] action ['relatedto'] sell
+book ['relatedto'] square ['relatedto'] house ['usedfor'] sell
+book ['relatedto'] square ['relatedto'] go ['relatedto'] sell
+book ['relatedto'] square ['isa'] company ['relatedto'] sell
+book ['relatedto'] square ['relatedto'] market ['relatedto'] sell
+book ['relatedto'] square ['relatedto'] pitch ['relatedto'] sell
+book ['relatedto'] square ['relatedto'] product ['relatedto'] sell
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['relatedto'] action ['relatedto'] sell
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['relatedto'] album ['usedfor'] sell
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['relatedto'] purchase ['relatedto'] sell
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['relatedto'] money ['motivatedbygoal', 'relatedto'] sell
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['synonym'] deal ['relatedto', 'synonym'] sell
+book ['atlocation'] bed ['relatedto', 'atlocation'] house ['usedfor'] sell
+book ['atlocation'] bed ['relatedto'] go ['relatedto'] sell
+book ['atlocation'] bed ['relatedto'] good ['relatedto'] sell
+book ['atlocation'] bed ['antonym'] seat ['relatedto'] sell
+book ['atlocation'] bed ['relatedto'] bundle ['relatedto'] sell
+book ['atlocation'] bed ['relatedto'] stock ['relatedto'] sell
+book ['atlocation'] floor ['hasa', 'relatedto', 'atlocation'] house ['usedfor'] sell
+book ['atlocation'] floor ['atlocation'] money ['motivatedbygoal', 'relatedto'] sell
+book ['atlocation'] floor ['partof'] exchange ['mannerof', 'relatedto'] sell
+book ['atlocation'] bedroom ['relatedto', 'atlocation'] house ['usedfor'] sell
+book ['relatedto'] thing ['isa'] action ['relatedto'] sell
+book ['relatedto'] thing ['isa'] house ['usedfor'] sell
+book ['relatedto'] thing ['motivatedbygoal'] buy ['antonym', 'distinctfrom', 'relatedto'] sell
+book ['relatedto'] thing ['relatedto'] deal ['relatedto', 'synonym'] sell
+book ['relatedto'] thing ['relatedto'] product ['relatedto'] sell
+book ['isa'] night ['relatedto'] pitch ['relatedto'] sell
+book ['relatedto'] white ['relatedto'] surrender ['mannerof'] sell
+book ['relatedto'] white ['relatedto', 'similarto'] good ['relatedto'] sell
+book ['relatedto'] white ['relatedto'] buy ['antonym', 'distinctfrom', 'relatedto'] sell
+book ['isa'] freedom ['hasproperty'] good ['relatedto'] sell
+book ['antonym', 'isa', 'relatedto'] magazine ['atlocation'] advertisement ['usedfor'] sell
+book ['antonym', 'isa', 'relatedto'] magazine ['atlocation'] shop ['relatedto'] sell
+book ['antonym', 'isa', 'relatedto'] magazine ['isa'] product ['relatedto'] sell
+book ['antonym', 'isa', 'relatedto'] magazine ['isa'] money ['motivatedbygoal', 'relatedto'] sell
+book ['antonym', 'relatedto'] leaflet ['relatedto'] advertisement ['usedfor'] sell
+book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['relatedto'] deaccession ['mannerof'] sell
+book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['relatedto', 'partof', 'atlocation'] house ['usedfor'] sell
+book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['atlocation'] excitement ['relatedto'] sell
+book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['relatedto'] rent ['relatedto'] sell
+book ['antonym', 'relatedto', 'partof'] page ['relatedto'] cheat ['relatedto'] sell
+book ['antonym', 'relatedto', 'partof'] page ['relatedto'] product ['relatedto'] sell
+book ['atlocation'] blowfish ['atlocation'] house ['usedfor'] sell
+book ['atlocation'] blowfish ['atlocation'] pet_shop ['relatedto'] sell

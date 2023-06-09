@@ -1,0 +1,100 @@
+kindness ['relatedto'] thanksgiver ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] allow ['relatedto'] acknowledge
+kindness ['isa'] good ['relatedto', 'synonym'] well ['relatedto'] acknowledge
+kindness ['relatedto'] care ['relatedto'] well ['relatedto'] acknowledge
+kindness ['antonym'] mean ['relatedto'] low ['relatedto'] acknowledge
+kindness ['relatedto'] respect ['mannerof', 'relatedto'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] favor ['causesdesire'] thank ['mannerof'] acknowledge
+kindness ['relatedto'] favour ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['similarto'] grace ['etymologicallyrelatedto', 'relatedto'] grateful ['relatedto'] acknowledge
+kindness ['similarto'] grace ['relatedto'] thank ['mannerof'] acknowledge
+kindness ['relatedto'] office ['relatedto'] receipt ['synonym'] acknowledge
+kindness ['hasprerequisite'] helping ['hasprerequisite'] knowledge ['relatedto'] acknowledge
+kindness ['isa'] consideration ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] accept ['antonym'] disavow ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] accept ['relatedto', 'synonym'] admit ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] accept ['relatedto', 'synonym'] assent ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] accept ['relatedto'] allow ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] accept ['relatedto'] vouchsafe ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] accept ['synonym'] avow ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['causes'] faith ['relatedto'] blind ['relatedto'] acknowledge
+kindness ['isa'] action ['causes'] faith ['antonym'] knowledge ['relatedto'] acknowledge
+kindness ['isa'] action ['isa', 'causes', 'synonym'] performing ['relatedto'] allow ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto', 'derivedfrom'] actionlet ['relatedto'] recognition ['relatedto'] acknowledge
+kindness ['isa'] action ['isa'] state ['relatedto'] avowed ['relatedto'] acknowledge
+kindness ['isa'] action ['isa', 'relatedto'] change ['mannerof'] blind ['relatedto'] acknowledge
+kindness ['isa'] action ['isa', 'relatedto', 'synonym'] course ['relatedto'] knowledge ['relatedto'] acknowledge
+kindness ['isa'] action ['isa'] employment ['relatedto'] notice ['synonym'] acknowledge
+kindness ['isa'] action ['isa'] interaction ['motivatedbygoal'] communicate ['mannerof'] acknowledge
+kindness ['isa'] action ['isa'] mercy ['relatedto'] thank ['mannerof'] acknowledge
+kindness ['isa'] action ['isa', 'relatedto'] mistake ['relatedto'] misken ['relatedto'] acknowledge
+kindness ['isa'] action ['isa', 'relatedto'] play ['relatedto'] notice ['synonym'] acknowledge
+kindness ['isa'] action ['isa'] remembering ['causes', 'hasprerequisite'] knowledge ['relatedto'] acknowledge
+kindness ['isa'] action ['isa'] transgression ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['mannerof', 'relatedto'] challenge ['relatedto'] stipulate ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] acceptance ['relatedto', 'derivedfrom'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] acceptance ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] acceptance ['isa'] acknowledgment ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] acceptance ['isa', 'relatedto', 'similarto', 'synonym'] assent ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] acceptance ['isa', 'relatedto'] recognition ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] capital ['relatedto'] knowledge ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] charge ['relatedto'] low ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] device ['isa'] well ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] done ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] share ['mannerof', 'relatedto'] communicate ['mannerof'] acknowledge
+kindness ['isa'] action ['relatedto'] stock ['relatedto'] genuine ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] request ['mannerof'] communicate ['mannerof'] acknowledge
+kindness ['isa'] action ['relatedto'] adopt ['mannerof', 'synonym'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] adopt ['synonym'] avow ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] agree ['mannerof', 'relatedto', 'synonym'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] agree ['mannerof', 'relatedto', 'synonym'] assent ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] agree ['mannerof'] concede ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] agree ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+kindness ['isa'] action ['relatedto'] allow ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] allow ['relatedto', 'synonym'] admit ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] allow ['mannerof'] vouchsafe ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] allow ['relatedto'] concede ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] allow ['relatedto'] low ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] ask ['mannerof'] communicate ['mannerof'] acknowledge
+kindness ['isa'] action ['relatedto'] ask ['relatedto'] knowledge ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] attention ['isa', 'relatedto'] notice ['synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] attention ['relatedto'] recognition ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] bad ['antonym'] well ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] believe ['mannerof', 'relatedto'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] believe ['relatedto'] know ['synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] believe ['relatedto'] flat_earther ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] bid ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] bless ['relatedto'] well ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] bless ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+kindness ['isa'] action ['relatedto'] blow ['relatedto'] receipt ['synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] brain ['relatedto'] knowledge ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] burn ['relatedto'] low ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] buy ['relatedto', 'synonym'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] buy ['relatedto'] receipt ['synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] call ['usedfor', 'relatedto'] communicate ['mannerof'] acknowledge
+kindness ['isa'] action ['relatedto'] care ['relatedto'] well ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] carry ['mannerof'] communicate ['mannerof'] acknowledge
+kindness ['isa'] action ['relatedto'] clear ['hasprerequisite'] communicate ['mannerof'] acknowledge
+kindness ['isa'] action ['relatedto'] climb ['relatedto'] assent ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] close ['relatedto'] blind ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] consequence ['relatedto'] con ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] consider ['relatedto'] con ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] consider ['relatedto'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] consider ['relatedto'] recognise ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] continue ['relatedto'] con ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] cry ['relatedto'] notify ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] deliver ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] die ['relatedto'] bite_biscuit ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] distinguish ['mannerof'] know ['synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] distinguish ['relatedto', 'similarto', 'synonym'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] docket ['relatedto'] receipt ['synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] draw ['relatedto'] well ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] drop ['relatedto'] allow ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] enter ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] face_music ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+kindness ['isa'] action ['relatedto'] fact ['relatedto'] knowledge ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] fail ['relatedto'] blind ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] fail ['relatedto'] misken ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] fast ['antonym', 'distinctfrom'] low ['relatedto'] acknowledge
+kindness ['isa'] action ['relatedto'] find ['hasprerequisite'] thank ['mannerof'] acknowledge

@@ -1,0 +1,100 @@
+relative ['capableof'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] flower ['relatedto'] visit
+relative ['antonym'] unlimited ['relatedto'] space ['relatedto'] visit
+relative ['relatedto', 'derivedfrom'] relativize ['mannerof'] see ['mannerof', 'synonym'] visit
+relative ['hasproperty'] freedom ['relatedto'] space ['relatedto'] visit
+relative ['isa', 'relatedto'] cousin ['relatedto'] visitation ['isa', 'relatedto', 'derivedfrom'] visit
+relative ['isa'] organism ['relatedto'] flower ['relatedto'] visit
+relative ['isa'] organism ['relatedto'] anthophile ['relatedto'] visit
+relative ['isa'] spouse ['atlocation'] home ['relatedto'] visit
+relative ['isa'] spouse ['relatedto'] conjugal_visit ['relatedto', 'derivedfrom'] visit
+relative ['relatedto'] anthotaxy ['relatedto'] flower ['relatedto'] visit
+relative ['relatedto'] away ['relatedto'] go ['relatedto'] visit
+relative ['relatedto'] away ['antonym', 'distinctfrom', 'relatedto'] home ['relatedto'] visit
+relative ['relatedto'] away ['relatedto'] visitor ['relatedto', 'derivedfrom'] visit
+relative ['relatedto'] brother ['atlocation'] home ['relatedto'] visit
+relative ['relatedto'] child ['capableof'] pain ['relatedto'] visit
+relative ['relatedto'] child ['relatedto'] punishment ['relatedto'] visit
+relative ['relatedto'] child ['relatedto'] visitation ['isa', 'relatedto', 'derivedfrom'] visit
+relative ['relatedto'] child ['usedfor'] comfort ['relatedto'] visit
+relative ['relatedto'] close ['mannerof'] join ['relatedto'] visit
+relative ['relatedto'] close ['relatedto'] home ['relatedto'] visit
+relative ['relatedto'] close ['capableof'] flower ['relatedto'] visit
+relative ['relatedto'] cold ['relatedto', 'hasproperty', 'atlocation'] space ['relatedto'] visit
+relative ['relatedto'] family ['usedfor', 'relatedto', 'synonym'] home ['relatedto'] visit
+relative ['relatedto'] father ['relatedto'] home ['relatedto'] visit
+relative ['relatedto'] father ['relatedto'] bless ['relatedto'] visit
+relative ['relatedto'] horse ['relatedto'] meet ['mannerof', 'relatedto'] visit
+relative ['relatedto'] increase ['relatedto'] go ['relatedto'] visit
+relative ['relatedto'] locality ['relatedto'] home ['relatedto'] visit
+relative ['relatedto'] locality ['relatedto'] space ['relatedto'] visit
+relative ['relatedto'] lose ['relatedto'] go ['relatedto'] visit
+relative ['relatedto'] lose ['mannerof', 'synonym'] drop ['relatedto'] visit
+relative ['relatedto'] mother ['relatedto'] home ['relatedto'] visit
+relative ['relatedto'] parent ['relatedto'] visitation ['isa', 'relatedto', 'derivedfrom'] visit
+relative ['relatedto'] related ['relatedto'] call ['isa', 'relatedto', 'synonym'] visit
+relative ['relatedto'] related ['relatedto'] drop ['relatedto'] visit
+relative ['relatedto'] related ['relatedto'] pain ['relatedto'] visit
+relative ['relatedto'] refer ['mannerof', 'relatedto'] apply ['relatedto'] visit
+relative ['relatedto'] key ['relatedto'] home ['relatedto'] visit
+relative ['relatedto'] key ['relatedto'] drop ['relatedto'] visit
+relative ['relatedto'] key ['isa', 'relatedto'] space ['relatedto'] visit
+relative ['relatedto'] major ['relatedto'] pain ['relatedto'] visit
+relative ['relatedto'] relevant ['relatedto'] apply ['relatedto'] visit
+relative ['relatedto'] sidereal ['isa'] space ['relatedto'] visit
+relative ['relatedto'] size ['relatedto'] drop ['relatedto'] visit
+relative ['relatedto'] size ['relatedto'] space ['relatedto'] visit
+relative ['relatedto'] time ['relatedto'] appointment ['relatedto'] visit
+relative ['relatedto'] time ['relatedto'] go ['relatedto'] visit
+relative ['relatedto'] time ['antonym', 'distinctfrom', 'relatedto', 'isa'] space ['relatedto'] visit
+relative ['relatedto'] time ['relatedto'] punishment ['relatedto'] visit
+relative ['relatedto'] time ['relatedto'] see ['mannerof', 'synonym'] visit
+relative ['antonym', 'relatedto'] absolute ['derivedfrom'] absolute_space ['isa'] space ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['hasproperty'] time ['relatedto'] appointment ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['hasproperty'] time ['relatedto'] go ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['hasproperty'] time ['antonym', 'distinctfrom', 'relatedto', 'isa'] space ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['hasproperty'] time ['relatedto'] punishment ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['hasproperty'] time ['relatedto'] see ['mannerof', 'synonym'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] article ['relatedto'] space ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] condition ['isa'] comfort ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] condition ['relatedto'] drop ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] condition ['relatedto'] inspect ['synonym'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] perfect ['relatedto'] flower ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto', 'synonym'] unlimited ['relatedto'] space ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] utter ['mannerof'] call ['isa', 'relatedto', 'synonym'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] dimensions ['relatedto'] space ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] flower ['relatedto'] anthophile ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] god ['relatedto'] bless ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] god ['usedfor', 'relatedto'] worship ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] god ['relatedto'] visitation ['isa', 'relatedto', 'derivedfrom'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] infinity ['relatedto'] space ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] perfume ['relatedto'] apply ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] perfume ['relatedto'] flower ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] abstract ['mannerof'] see ['mannerof', 'synonym'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] abstract ['relatedto'] comfort ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] black ['relatedto'] space ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] flat ['relatedto'] call ['isa', 'relatedto', 'synonym'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] must ['relatedto'] apply ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] rule ['relatedto'] see ['mannerof', 'synonym'] visit
+relative ['antonym', 'relatedto'] absolute ['relatedto'] rule ['relatedto'] call ['isa', 'relatedto', 'synonym'] visit
+relative ['antonym', 'relatedto'] absolute ['similarto'] direct ['relatedto'] go ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['similarto'] infinite ['relatedto', 'hasproperty', 'synonym'] space ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['similarto'] living ['usedfor', 'relatedto'] home ['relatedto'] visit
+relative ['antonym', 'relatedto'] absolute ['similarto'] living ['relatedto'] flower ['relatedto'] visit
+relative ['relatedto', 'synonym'] conditional ['antonym'] absolute ['relatedto'] flower ['relatedto'] visit
+relative ['relatedto', 'synonym'] conditional ['relatedto', 'derivedfrom'] condition ['isa'] comfort ['relatedto'] visit
+relative ['relatedto', 'synonym'] conditional ['relatedto', 'derivedfrom'] condition ['relatedto'] drop ['relatedto'] visit
+relative ['relatedto', 'synonym'] conditional ['relatedto', 'derivedfrom'] condition ['relatedto'] inspect ['synonym'] visit
+relative ['relatedto', 'synonym'] conditional ['relatedto'] case ['mannerof'] inspect ['synonym'] visit
+relative ['relatedto', 'synonym'] conditional ['relatedto'] sentence ['atlocation'] space ['relatedto'] visit
+relative ['relatedto', 'synonym'] conditional ['relatedto'] sentence ['isa', 'relatedto'] punishment ['relatedto'] visit
+relative ['relatedto', 'synonym'] conditional ['relatedto'] instruction ['isa'] call ['isa', 'relatedto', 'synonym'] visit
+relative ['relatedto', 'synonym'] conditional ['relatedto'] suspension ['relatedto'] punishment ['relatedto'] visit
+relative ['antonym'] unlimited ['relatedto', 'synonym'] absolute ['relatedto'] flower ['relatedto'] visit
+relative ['antonym'] unlimited ['relatedto'] universal ['relatedto'] space ['relatedto'] visit
+relative ['antonym'] unlimited ['relatedto'] space ['relatedto'] go ['relatedto'] visit
+relative ['antonym'] unlimited ['relatedto'] space ['relatedto'] home ['relatedto'] visit
+relative ['antonym'] unlimited ['hasproperty'] knowledge ['atlocation'] meeting ['isa', 'relatedto'] visit
+relative ['antonym'] unlimited ['relatedto', 'synonym'] infinite ['relatedto', 'hasproperty', 'synonym'] space ['relatedto'] visit
+relative ['antonym'] unlimited ['relatedto'] spaceless ['relatedto', 'derivedfrom'] space ['relatedto'] visit
+relative ['atlocation'] relatives_house ['isa'] house ['derivedfrom'] houseguest ['relatedto'] visit

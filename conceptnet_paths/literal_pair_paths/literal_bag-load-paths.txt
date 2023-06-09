@@ -1,0 +1,100 @@
+bag ['relatedto'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] load
+bag ['mannerof'] pack ['mannerof', 'relatedto'] load
+bag ['isa'] indefinite_quantity ['isa'] load
+bag ['mannerof'] sag ['relatedto'] load
+bag ['relatedto', 'synonym'] base ['derivedfrom'] baseload ['relatedto', 'derivedfrom'] load
+bag ['relatedto', 'synonym'] base ['isa'] first_base ['relatedto'] load
+bag ['relatedto', 'synonym'] base ['isa'] second_base ['relatedto'] load
+bag ['relatedto', 'synonym'] base ['isa'] third_base ['relatedto'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] unit ['relatedto'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] power ['relatedto'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] bread ['relatedto'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] carrus ['isa', 'relatedto', 'synonym'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] cartload ['isa', 'relatedto', 'synonym'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] fodder ['isa', 'relatedto', 'synonym'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] footplate ['relatedto'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] fother ['isa', 'relatedto', 'synonym'] load
+bag ['relatedto', 'synonym'] base ['relatedto'] picul ['relatedto'] load
+bag ['relatedto'] lunch ['relatedto'] bread ['relatedto'] load
+bag ['relatedto'] one ['isa', 'relatedto'] unit ['relatedto'] load
+bag ['relatedto'] set ['mannerof', 'relatedto', 'similarto', 'synonym'] put ['mannerof'] load
+bag ['relatedto'] set ['relatedto'] loadout ['derivedfrom'] load
+bag ['relatedto'] set ['relatedto'] thunder ['relatedto'] load
+bag ['relatedto'] set ['relatedto'] unit ['relatedto'] load
+bag ['relatedto'] set ['synonym'] lot ['synonym'] load
+bag ['atlocation'] bed ['relatedto', 'derivedfrom'] flatbed ['relatedto'] load
+bag ['atlocation'] bed ['mannerof'] put ['mannerof'] load
+bag ['atlocation'] bed ['relatedto'] ballast ['relatedto'] load
+bag ['atlocation'] bed ['relatedto'] unit ['relatedto'] load
+bag ['isa'] skin ['relatedto'] leer ['relatedto'] load
+bag ['capableof', 'relatedto'] carry ['mannerof', 'relatedto', 'synonym'] bear ['derivedfrom'] load
+bag ['capableof', 'relatedto'] carry ['antonym'] put ['mannerof'] load
+bag ['capableof', 'relatedto'] carry ['mannerof'] transfer ['mannerof'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] barrow ['relatedto'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] burthen ['isa'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] burden ['relatedto', 'synonym'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] heavy ['relatedto'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] unit ['relatedto'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] dumper ['relatedto'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] load_bearing ['relatedto', 'derivedfrom'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] loadout ['derivedfrom'] load
+bag ['capableof', 'relatedto'] carry ['relatedto'] military_load_classification ['relatedto'] load
+bag ['capableof', 'relatedto'] carry ['synonym'] pack ['mannerof', 'relatedto'] load
+bag ['usedfor', 'relatedto'] hold ['relatedto', 'synonym'] bear ['derivedfrom'] load
+bag ['usedfor', 'relatedto'] hold ['mannerof', 'relatedto', 'synonym'] carry ['relatedto'] load
+bag ['usedfor', 'relatedto'] hold ['antonym'] put ['mannerof'] load
+bag ['usedfor', 'relatedto'] hold ['mannerof'] truss ['isa'] load
+bag ['usedfor', 'relatedto'] hold ['relatedto'] ballast ['relatedto'] load
+bag ['usedfor', 'relatedto'] hold ['relatedto'] burthen ['isa'] load
+bag ['usedfor', 'relatedto'] hold ['relatedto'] power ['relatedto'] load
+bag ['usedfor', 'relatedto'] hold ['relatedto'] cargo ['synonym'] load
+bag ['relatedto'] super ['relatedto'] power ['relatedto'] load
+bag ['relatedto'] bring ['relatedto'] carry ['relatedto'] load
+bag ['relatedto'] bring ['relatedto'] put ['mannerof'] load
+bag ['relatedto'] bring ['relatedto'] import ['relatedto'] load
+bag ['relatedto'] money ['relatedto'] bread ['relatedto'] load
+bag ['relatedto'] money ['relatedto'] charge ['relatedto', 'synonym'] load
+bag ['relatedto'] money ['relatedto'] power ['relatedto'] load
+bag ['relatedto'] money ['relatedto'] unit ['relatedto'] load
+bag ['relatedto'] money ['relatedto'] shell ['relatedto'] load
+bag ['relatedto'] money ['relatedto'] stack ['mannerof'] load
+bag ['relatedto'] money ['relatedto'] transfer ['mannerof'] load
+bag ['relatedto'] case ['relatedto'] carry ['relatedto'] load
+bag ['relatedto'] case ['relatedto'] put ['mannerof'] load
+bag ['relatedto'] case ['relatedto', 'derivedfrom'] caseload ['derivedfrom'] load
+bag ['relatedto'] case ['relatedto'] barrow ['relatedto'] load
+bag ['relatedto'] case ['relatedto'] cigarette ['relatedto'] load
+bag ['relatedto'] case ['relatedto'] pack ['mannerof', 'relatedto'] load
+bag ['relatedto'] case ['relatedto', 'synonym'] shell ['relatedto'] load
+bag ['relatedto'] case ['relatedto'] unit ['relatedto'] load
+bag ['relatedto'] case ['relatedto'] shipment ['relatedto'] load
+bag ['relatedto'] hand ['relatedto'] carry ['relatedto'] load
+bag ['relatedto'] hand ['atlocation'] cigarette ['relatedto'] load
+bag ['relatedto'] hand ['capableof', 'relatedto'] write ['antonym'] load
+bag ['relatedto'] hand ['relatedto'] bearing ['relatedto'] load
+bag ['relatedto'] hand ['relatedto'] miss ['relatedto'] load
+bag ['relatedto'] paper ['relatedto'] cigarette ['relatedto'] load
+bag ['relatedto'] paper ['relatedto'] unit ['relatedto'] load
+bag ['relatedto'] paper ['relatedto'] write ['antonym'] load
+bag ['relatedto'] paper ['relatedto'] sheetfed ['relatedto'] load
+bag ['isa', 'derivedfrom'] baggage ['antonym'] carry ['relatedto'] load
+bag ['atlocation'] cat ['atlocation'] charge ['relatedto', 'synonym'] load
+bag ['synonym'] dog ['relatedto'] collar ['relatedto'] load
+bag ['relatedto'] catch ['antonym'] miss ['relatedto'] load
+bag ['relatedto'] catch ['isa'] indefinite_quantity ['isa'] load
+bag ['relatedto'] claim ['relatedto', 'similarto', 'synonym', 'isa', 'mannerof'] demand ['relatedto'] load
+bag ['relatedto'] claim ['mannerof'] charge ['relatedto', 'synonym'] load
+bag ['relatedto'] claim ['relatedto'] encumber ['relatedto'] load
+bag ['relatedto'] fluid ['relatedto'] ejaculation ['relatedto'] load
+bag ['relatedto'] empty ['relatedto'] lot ['synonym'] load
+bag ['relatedto'] empty ['antonym', 'distinctfrom', 'relatedto'] fill ['mannerof', 'relatedto'] load
+bag ['relatedto'] empty ['antonym'] filling ['relatedto'] load
+bag ['relatedto'] empty ['mannerof'] unload ['antonym'] load
+bag ['relatedto'] empty ['relatedto'] jinny_road ['relatedto'] load
+bag ['relatedto'] empty ['relatedto'] leer ['relatedto'] load
+bag ['relatedto'] laugh ['relatedto'] heavy ['relatedto'] load
+bag ['atlocation'] desk ['relatedto'] put ['mannerof'] load
+bag ['atlocation'] desk ['usedfor', 'relatedto'] write ['antonym'] load
+bag ['synonym'] grip ['relatedto'] carry ['relatedto'] load
+bag ['relatedto'] holding ['relatedto'] carry ['relatedto'] load

@@ -1,0 +1,100 @@
+bomb ['capableof'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bomb ['usedfor'] detonate ['relatedto', 'synonym'] explode
+bomb ['relatedto'] explosion ['relatedto'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto'] explode
+bomb ['isa', 'relatedto', 'derivedfrom', 'synonym'] bombshell ['relatedto'] explode
+bomb ['formof', 'relatedto'] bombs ['capableof'] explode
+bomb ['isa', 'relatedto'] fragmentation_bomb ['relatedto'] explode
+bomb ['isa'] letter_bomb ['relatedto'] explode
+bomb ['isa', 'relatedto'] mine ['capableof', 'usedfor'] explode
+bomb ['relatedto'] dynamite ['capableof'] explode
+bomb ['relatedto'] tnt ['capableof'] explode
+bomb ['relatedto'] bombsite ['relatedto'] explode
+bomb ['usedfor'] exploding ['formof', 'relatedto', 'derivedfrom'] explode
+bomb ['atlocation'] army ['atlocation'] explosive ['relatedto'] explode
+bomb ['atlocation'] army ['relatedto'] violent ['relatedto'] explode
+bomb ['relatedto'] atom ['atlocation'] string ['relatedto'] explode
+bomb ['relatedto'] atom ['relatedto'] bombs ['capableof'] explode
+bomb ['relatedto'] atom ['relatedto'] nuclear_fusion ['relatedto'] explode
+bomb ['relatedto'] attack ['isa'] explosive ['relatedto'] explode
+bomb ['relatedto'] attack ['mannerof'] gas ['capableof'] explode
+bomb ['relatedto'] attack ['mannerof'] torpedo ['capableof'] explode
+bomb ['relatedto'] attack ['relatedto'] violent ['relatedto'] explode
+bomb ['relatedto'] attack ['relatedto'] emotional ['relatedto'] explode
+bomb ['relatedto'] attack ['relatedto'] fulminate ['relatedto'] explode
+bomb ['relatedto'] stick ['relatedto'] increase ['mannerof'] explode
+bomb ['relatedto'] stick ['relatedto'] gas ['capableof'] explode
+bomb ['relatedto'] balloon ['usedfor', 'mannerof'] fly ['synonym'] explode
+bomb ['relatedto'] balloon ['relatedto'] blow ['relatedto', 'synonym'] explode
+bomb ['relatedto'] balloon ['relatedto'] increase ['mannerof'] explode
+bomb ['instanceof'] bat ['capableof'] fly ['synonym'] explode
+bomb ['instanceof'] bat ['relatedto'] blow ['relatedto', 'synonym'] explode
+bomb ['etymologicallyrelatedto', 'relatedto'] boom ['relatedto'] blow ['relatedto', 'synonym'] explode
+bomb ['etymologicallyrelatedto', 'relatedto'] boom ['relatedto', 'synonym'] explosion ['relatedto'] explode
+bomb ['capableof'] destroy ['relatedto'] violent ['relatedto'] explode
+bomb ['capableof'] destroy ['usedfor'] mine ['capableof', 'usedfor'] explode
+bomb ['etymologicallyrelatedto'] bump ['relatedto', 'synonym'] blow ['relatedto', 'synonym'] explode
+bomb ['usedfor'] destruction ['relatedto'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bomb ['usedfor'] destruction ['causes'] explosion ['relatedto'] explode
+bomb ['usedfor'] destruction ['usedfor'] explosive ['relatedto'] explode
+bomb ['usedfor'] destruction ['usedfor'] mine ['capableof', 'usedfor'] explode
+bomb ['relatedto', 'hasproperty'] dangerous ['hasproperty'] explosive ['relatedto'] explode
+bomb ['relatedto', 'hasproperty'] dangerous ['relatedto'] dynamite ['capableof'] explode
+bomb ['usedfor'] detonate ['etymologicallyrelatedto', 'relatedto'] detonize ['relatedto'] explode
+bomb ['usedfor'] detonate ['mannerof'] change_integrity ['mannerof'] explode
+bomb ['usedfor'] detonate ['mannerof'] dynamite ['capableof'] explode
+bomb ['usedfor'] detonate ['mannerof', 'synonym'] fulminate ['relatedto'] explode
+bomb ['usedfor'] detonate ['relatedto'] explosion ['relatedto'] explode
+bomb ['usedfor'] detonate ['synonym'] blast ['relatedto'] explode
+bomb ['usedfor'] detonate ['usedfor'] mine ['capableof', 'usedfor'] explode
+bomb ['relatedto'] fragmentation ['isa'] explosion ['relatedto'] explode
+bomb ['relatedto'] fragmentation ['relatedto'] exploding ['formof', 'relatedto', 'derivedfrom'] explode
+bomb ['relatedto'] wire ['mannerof', 'relatedto'] string ['relatedto'] explode
+bomb ['relatedto', 'derivedfrom'] dirty_bomb ['relatedto'] explosive ['relatedto'] explode
+bomb ['relatedto'] jump ['isa', 'relatedto'] increase ['mannerof'] explode
+bomb ['relatedto'] jump ['mannerof'] burst ['synonym'] explode
+bomb ['relatedto'] jump ['relatedto'] violently ['relatedto'] explode
+bomb ['relatedto'] explosion ['isa', 'relatedto'] increase ['mannerof'] explode
+bomb ['relatedto'] explosion ['relatedto'] detonate ['relatedto', 'synonym'] explode
+bomb ['relatedto'] explosion ['isa', 'relatedto', 'synonym'] blast ['relatedto'] explode
+bomb ['relatedto'] explosion ['relatedto'] crump ['mannerof'] explode
+bomb ['relatedto'] explosion ['relatedto'] detonize ['relatedto'] explode
+bomb ['relatedto'] explosion ['relatedto', 'synonym'] burst ['synonym'] explode
+bomb ['relatedto'] explosion ['relatedto'] explosive ['relatedto'] explode
+bomb ['relatedto'] explosion ['relatedto'] outburst ['relatedto'] explode
+bomb ['relatedto'] explosion ['relatedto'] violent ['relatedto'] explode
+bomb ['relatedto'] explosion ['relatedto'] splodey ['etymologicallyrelatedto'] explode
+bomb ['relatedto'] explosion ['usedfor'] mine ['capableof', 'usedfor'] explode
+bomb ['relatedto'] crater ['relatedto'] implode ['antonym', 'relatedto'] explode
+bomb ['relatedto'] crater ['relatedto'] mine ['capableof', 'usedfor'] explode
+bomb ['capableof', 'usedfor'] kill ['relatedto'] blow ['relatedto', 'synonym'] explode
+bomb ['capableof', 'usedfor'] kill ['mannerof', 'relatedto', 'synonym'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bomb ['capableof', 'usedfor'] kill ['relatedto'] gas ['capableof'] explode
+bomb ['capableof', 'usedfor'] kill ['relatedto'] violent ['relatedto'] explode
+bomb ['capableof', 'usedfor'] kill ['usedfor'] explosive ['relatedto'] explode
+bomb ['usedfor', 'atlocation'] war ['relatedto'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bomb ['usedfor', 'atlocation'] war ['relatedto', 'atlocation'] bombs ['capableof'] explode
+bomb ['usedfor', 'atlocation'] war ['usedfor', 'atlocation'] explosive ['relatedto'] explode
+bomb ['usedfor', 'atlocation'] war ['relatedto'] violent ['relatedto'] explode
+bomb ['relatedto'] pistol ['relatedto'] torpedo ['capableof'] explode
+bomb ['relatedto'] sound ['mannerof'] blow ['relatedto', 'synonym'] explode
+bomb ['relatedto'] sound ['relatedto'] explosion ['relatedto'] explode
+bomb ['relatedto'] sound ['relatedto'] pronounce ['mannerof'] explode
+bomb ['atlocation'] parcel ['derivedfrom'] parcel_bomb ['relatedto'] explode
+bomb ['atlocation'] aircraft ['usedfor'] fly ['synonym'] explode
+bomb ['capableof'] airplanes ['relatedto'] fly ['synonym'] explode
+bomb ['relatedto', 'derivedfrom', 'atlocation'] bomber ['usedfor'] detonate ['relatedto', 'synonym'] explode
+bomb ['relatedto', 'derivedfrom', 'atlocation'] bomber ['atlocation'] bombs ['capableof'] explode
+bomb ['relatedto', 'derivedfrom', 'atlocation'] bomber ['synonym'] torpedo ['capableof'] explode
+bomb ['atlocation'] jet ['mannerof'] fly ['synonym'] explode
+bomb ['atlocation'] jet ['relatedto'] gas ['capableof'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto'] explosion ['relatedto'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['usedfor'] bombs ['capableof'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto'] mine ['capableof', 'usedfor'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['isa', 'relatedto'] dynamite ['capableof'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto', 'derivedfrom'] explosiveness ['derivedfrom'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto'] explodey ['relatedto', 'derivedfrom'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto'] fulminate ['relatedto'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto'] letter_bomb ['relatedto'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto'] nonexplosive ['relatedto'] explode
+bomb ['isa', 'relatedto', 'atlocation'] explosive ['relatedto'] torpedo ['capableof'] explode

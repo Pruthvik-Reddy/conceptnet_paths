@@ -1,0 +1,100 @@
+face ['relatedto'] powder_puff ['relatedto', 'derivedfrom'] puff
+face ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+face ['relatedto'] child ['capableof'] breathe ['relatedto'] puff
+face ['relatedto'] human ['relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['relatedto'] human ['relatedto'] life ['relatedto'] puff
+face ['relatedto'] together ['relatedto'] compact ['relatedto'] puff
+face ['relatedto'] anger ['relatedto'] huff ['synonym'] puff
+face ['partof'] animal ['isa', 'relatedto'] sheep ['relatedto'] puff
+face ['partof'] animal ['relatedto'] life ['relatedto'] puff
+face ['relatedto'] social ['relatedto'] swell ['mannerof', 'relatedto'] puff
+face ['isa', 'relatedto'] appearance ['relatedto'] cloud ['relatedto'] puff
+face ['isa', 'relatedto'] appearance ['relatedto'] flamboyant ['relatedto'] puff
+face ['relatedto'] around ['relatedto'] life ['relatedto'] puff
+face ['antonym'] back ['relatedto'] wind ['synonym'] puff
+face ['antonym'] back ['relatedto'] ottoman ['synonym'] puff
+face ['antonym'] back ['relatedto'] pouf ['formof', 'etymologicallyrelatedto'] puff
+face ['mannerof'] cover ['relatedto'] cloud ['relatedto'] puff
+face ['mannerof'] cover ['relatedto'] quilt ['synonym'] puff
+face ['relatedto'] plate ['relatedto', 'atlocation'] cake ['relatedto'] puff
+face ['relatedto'] plate ['relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['relatedto'] bat ['relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['relatedto'] bat ['relatedto'] quilt ['synonym'] puff
+face ['relatedto'] bill ['isa', 'relatedto'] statement ['relatedto'] puff
+face ['relatedto'] bill ['mannerof', 'relatedto'] advertise ['relatedto'] puff
+face ['relatedto'] die ['antonym', 'capableof', 'relatedto'] life ['relatedto'] puff
+face ['relatedto'] die ['motivatedbygoal', 'haslastsubevent'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+face ['relatedto'] die ['isa'] tangible_thing ['isa'] puff
+face ['relatedto'] happy ['relatedto'] cake ['relatedto'] puff
+face ['relatedto'] see ['relatedto'] pipe ['relatedto'] puff
+face ['antonym', 'relatedto', 'partof'] body ['relatedto'] drug ['relatedto'] puff
+face ['relatedto', 'partof'] head ['relatedto'] drug ['relatedto'] puff
+face ['relatedto', 'partof'] head ['relatedto'] pompon ['relatedto'] puff
+face ['relatedto'] breast ['relatedto'] pant ['relatedto', 'synonym'] puff
+face ['relatedto'] hand ['atlocation'] cigarette ['relatedto'] puff
+face ['relatedto'] hand ['relatedto'] draw ['synonym'] puff
+face ['relatedto'] hand ['relatedto'] quilt ['synonym'] puff
+face ['mannerof'] line ['relatedto'] drug ['relatedto'] puff
+face ['mannerof'] line ['relatedto'] pipe ['relatedto'] puff
+face ['relatedto'] horse ['relatedto'] pull ['synonym'] puff
+face ['relatedto'] two ['relatedto'] cake ['relatedto'] puff
+face ['relatedto'] cry ['relatedto'] blub ['relatedto'] puff
+face ['relatedto'] cry ['relatedto'] advertise ['relatedto'] puff
+face ['relatedto'] round ['relatedto'] cake ['relatedto'] puff
+face ['relatedto'] round ['relatedto'] pipe ['relatedto'] puff
+face ['mannerof'] disclose ['mannerof'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['relatedto'] eat ['relatedto'] inhale ['mannerof', 'relatedto'] puff
+face ['relatedto'] eat ['usedfor', 'relatedto'] cake ['relatedto'] puff
+face ['relatedto'] eyes ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+face ['usedfor', 'relatedto', 'atlocation', 'hasa', 'partof'] nose ['relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['usedfor', 'relatedto', 'atlocation', 'hasa', 'partof'] nose ['usedfor', 'relatedto'] breathe ['relatedto'] puff
+face ['usedfor', 'relatedto', 'atlocation', 'hasa', 'partof'] nose ['relatedto'] breath ['relatedto'] puff
+face ['relatedto'] part ['isa'] tangible_thing ['isa'] puff
+face ['relatedto'] everybody ['relatedto'] life ['relatedto'] puff
+face ['antonym', 'relatedto', 'partof'] mouth ['relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['antonym', 'relatedto', 'partof'] mouth ['relatedto'] breath ['relatedto'] puff
+face ['antonym', 'relatedto', 'partof'] mouth ['relatedto'] cigarette ['relatedto'] puff
+face ['antonym', 'relatedto', 'partof'] mouth ['relatedto'] pipe ['relatedto'] puff
+face ['antonym'] foot ['relatedto'] cigar ['relatedto'] puff
+face ['antonym'] foot ['relatedto'] pipe ['relatedto'] puff
+face ['relatedto', 'atlocation'] lips ['relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['relatedto', 'derivedfrom'] facer ['relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['isa', 'relatedto'] surface ['relatedto'] drag ['synonym'] puff
+face ['mannerof', 'relatedto'] turn ['synonym'] gas ['relatedto'] puff
+face ['mannerof', 'relatedto'] turn ['relatedto', 'entails'] wind ['synonym'] puff
+face ['partof'] playing_card ['isa'] draw ['synonym'] puff
+face ['relatedto', 'partof'] feature ['relatedto'] cloud ['relatedto'] puff
+face ['relatedto', 'partof'] feature ['relatedto'] wind ['synonym'] puff
+face ['relatedto'] backhander ['isa', 'relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['relatedto'] backhander ['relatedto'] swell ['mannerof', 'relatedto'] puff
+face ['relatedto'] beak ['relatedto'] puffin ['etymologicallyrelatedto'] puff
+face ['relatedto'] butt ['synonym'] cigarette ['relatedto'] puff
+face ['relatedto'] butt ['relatedto'] pipe ['relatedto'] puff
+face ['relatedto'] chimney ['capableof', 'relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+face ['relatedto'] exposure ['relatedto'] wind ['synonym'] puff
+face ['relatedto'] hair ['relatedto'] sheep ['relatedto'] puff
+face ['relatedto'] neck ['relatedto'] swell ['mannerof', 'relatedto'] puff
+face ['relatedto'] portrait ['relatedto'] draw ['synonym'] puff
+face ['relatedto'] makeup ['relatedto'] compact ['relatedto'] puff
+face ['relatedto'] fireplace ['relatedto'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+face ['relatedto'] flag ['relatedto'] praise ['mannerof'] puff
+face ['relatedto'] flag ['relatedto'] wind ['synonym'] puff
+face ['relatedto'] gas_mask ['derivedfrom'] gas ['relatedto'] puff
+face ['relatedto'] loft ['atlocation'] smoke ['mannerof', 'relatedto', 'partof', 'entails'] puff
+face ['relatedto'] powder_puff ['relatedto'] compact ['relatedto'] puff
+face ['relatedto'] powder_puff ['etymologicallyrelatedto'] powderpuff ['synonym'] puff
+face ['relatedto'] powder_puff ['relatedto'] pluff ['relatedto'] puff
+face ['relatedto'] punch ['isa', 'relatedto'] blow ['mannerof', 'relatedto', 'synonym'] puff
+face ['relatedto'] regular ['relatedto'] gas ['relatedto'] puff
+face ['relatedto'] resuscitator ['relatedto'] gas ['relatedto'] puff
+face ['relatedto', 'synonym'] side ['synonym'] pull ['synonym'] puff
+face ['relatedto'] smiley ['relatedto'] sheep ['relatedto'] puff
+face ['relatedto'] smoke ['mannerof', 'relatedto', 'hasprerequisite', 'entails'] inhale ['mannerof', 'relatedto'] puff
+face ['relatedto'] smoke ['relatedto'] breath ['relatedto'] puff
+face ['relatedto'] smoke ['isa', 'relatedto'] cloud ['relatedto'] puff
+face ['relatedto'] smoke ['relatedto'] exhalation ['relatedto'] puff
+face ['relatedto'] smoke ['isa', 'relatedto'] gas ['relatedto'] puff
+face ['relatedto'] smoke ['derivedfrom'] smoke_signal ['relatedto'] puff
+face ['relatedto'] smoke ['isa', 'relatedto'] puffing ['formof', 'derivedfrom'] puff
+face ['relatedto'] smoke ['usedfor', 'motivatedbygoal', 'relatedto', 'synonym'] cigarette ['relatedto'] puff
+face ['relatedto'] smoke ['relatedto'] cigar ['relatedto'] puff

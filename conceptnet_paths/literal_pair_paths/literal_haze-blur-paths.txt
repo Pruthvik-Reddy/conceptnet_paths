@@ -1,0 +1,100 @@
+haze ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] hazy ['relatedto'] blur
+haze ['isa', 'relatedto', 'synonym'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] cloudy ['relatedto', 'synonym'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] dirty ['mannerof'] change ['mannerof'] blur
+haze ['relatedto'] dirty ['mannerof'] smear ['relatedto', 'synonym'] blur
+haze ['relatedto'] dirty ['relatedto'] stain ['relatedto'] blur
+haze ['relatedto'] dirty ['similarto'] maculate ['relatedto'] blur
+haze ['relatedto'] foggy ['relatedto', 'derivedfrom'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] foggy ['relatedto'] hazy ['relatedto'] blur
+haze ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] hazy ['relatedto'] dim ['relatedto', 'synonym'] blur
+haze ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] hazy ['relatedto'] confusion ['relatedto'] blur
+haze ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] hazy ['relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] hazy ['relatedto'] obscure ['relatedto'] blur
+haze ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] hazy ['relatedto'] indistinct ['relatedto'] blur
+haze ['relatedto'] cloud ['mannerof'] change ['mannerof'] blur
+haze ['relatedto'] cloud ['relatedto', 'similarto', 'synonym'] obscure ['relatedto'] blur
+haze ['relatedto'] cloud ['synonym'] opaque ['synonym'] blur
+haze ['relatedto'] cloud ['isa'] video_game ['isa'] blur
+haze ['relatedto'] cloud ['isa', 'relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['isa', 'relatedto', 'synonym'] fog ['relatedto'] dim ['relatedto', 'synonym'] blur
+haze ['isa', 'relatedto', 'synonym'] fog ['relatedto'] confusion ['relatedto'] blur
+haze ['isa', 'relatedto', 'synonym'] fog ['relatedto'] blurry ['relatedto'] blur
+haze ['isa', 'relatedto', 'synonym'] fog ['relatedto'] hazy ['relatedto'] blur
+haze ['isa', 'relatedto', 'synonym'] fog ['relatedto', 'synonym'] obscure ['relatedto'] blur
+haze ['isa', 'relatedto', 'synonym'] fog ['relatedto'] bokashi ['relatedto'] blur
+haze ['antonym', 'relatedto'] mist ['relatedto'] hazy ['relatedto'] blur
+haze ['antonym', 'relatedto'] mist ['synonym'] obscure ['relatedto'] blur
+haze ['antonym', 'relatedto'] mist ['isa', 'distinctfrom', 'relatedto', 'synonym'] fog ['relatedto', 'synonym'] blur
+haze ['capableof'] cloud_vision ['capableof'] fog ['relatedto', 'synonym'] blur
+haze ['formof', 'relatedto'] hazed ['relatedto'] hazy ['relatedto'] blur
+haze ['isa'] aerosol ['isa'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] gauzy ['relatedto'] hazy ['relatedto'] blur
+haze ['relatedto'] film ['isa', 'relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] misty ['relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] smog ['isa', 'relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] cloudiness ['relatedto'] obscure ['relatedto'] blur
+haze ['relatedto'] smoke ['relatedto'] hazy ['relatedto'] blur
+haze ['relatedto'] smoke ['relatedto'] obscure ['relatedto'] blur
+haze ['relatedto'] smoke ['relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] smoke ['relatedto'] smudge ['relatedto', 'synonym'] blur
+haze ['relatedto'] steam ['relatedto', 'synonym'] fog ['relatedto', 'synonym'] blur
+haze ['synonym'] daze ['isa'] confusion ['relatedto'] blur
+haze ['synonym'] daze ['relatedto'] confuse ['synonym'] blur
+haze ['synonym'] daze ['synonym'] fog ['relatedto', 'synonym'] blur
+haze ['synonym'] muddle ['relatedto'] confusion ['relatedto'] blur
+haze ['synonym'] muddle ['relatedto'] confuse ['synonym'] blur
+haze ['relatedto'] air ['antonym', 'distinctfrom'] fire ['isa'] smudge ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['antonym', 'distinctfrom'] fire ['relatedto'] video_game ['isa'] blur
+haze ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] focus ['relatedto'] blur
+haze ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto', 'atlocation'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['antonym', 'relatedto'] heat ['mannerof'] change ['mannerof'] blur
+haze ['relatedto'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] hazy ['relatedto'] blur
+haze ['relatedto'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] obscure ['relatedto'] blur
+haze ['relatedto'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] smudge ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['antonym', 'relatedto'] steam ['relatedto', 'synonym'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] wind ['relatedto'] fast ['relatedto'] blur
+haze ['relatedto'] air ['atlocation'] jar ['atlocation'] change ['mannerof'] blur
+haze ['relatedto'] air ['atlocation'] pocket ['relatedto', 'atlocation'] change ['mannerof'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] sky ['antonym'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] sky ['etymologicallyrelatedto'] obscure ['relatedto'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] sky ['hasproperty'] hazy ['relatedto'] blur
+haze ['relatedto'] air ['atlocation'] ash ['mannerof'] change ['mannerof'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] cloud ['mannerof'] change ['mannerof'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] cloud ['relatedto', 'similarto', 'synonym'] obscure ['relatedto'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] cloud ['synonym'] opaque ['synonym'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] cloud ['isa'] video_game ['isa'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] cloud ['isa', 'relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] clouds ['relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] dust ['mannerof'] smear ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] humidity ['relatedto'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['atlocation'] jet ['relatedto'] fast ['relatedto'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] sound ['relatedto'] fast ['relatedto'] blur
+haze ['relatedto'] air ['relatedto', 'atlocation'] sound ['relatedto'] input ['relatedto'] blur
+haze ['relatedto'] air ['relatedto', 'hasprerequisite'] living ['causes'] change ['mannerof'] blur
+haze ['relatedto'] air ['relatedto', 'hasproperty'] transparent ['relatedto'] hazy ['relatedto'] blur
+haze ['relatedto'] air ['relatedto', 'hasproperty'] transparent ['antonym'] obscure ['relatedto'] blur
+haze ['relatedto'] air ['relatedto', 'hasproperty'] transparent ['antonym', 'relatedto'] opaque ['synonym'] blur
+haze ['relatedto'] air ['relatedto', 'hasproperty'] transparent ['relatedto'] input ['relatedto'] blur
+haze ['relatedto'] air ['isa', 'relatedto', 'synonym'] atmosphere ['isa'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['isa', 'relatedto'] quality ['relatedto'] moral ['relatedto'] blur
+haze ['relatedto'] air ['mannerof', 'relatedto'] dry ['mannerof'] change ['mannerof'] blur
+haze ['relatedto'] air ['mannerof'] satellite ['relatedto'] change ['mannerof'] blur
+haze ['relatedto'] air ['relatedto'] aerosol ['isa'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['relatedto'] atmospheric ['relatedto'] hazy ['relatedto'] blur
+haze ['relatedto'] air ['relatedto'] clear ['relatedto'] doubt ['relatedto'] blur
+haze ['relatedto'] air ['relatedto'] clear ['mannerof'] change ['mannerof'] blur
+haze ['relatedto'] air ['relatedto'] clear ['antonym', 'distinctfrom', 'relatedto'] blurry ['relatedto'] blur
+haze ['relatedto'] air ['relatedto'] clear ['antonym', 'relatedto'] hazy ['relatedto'] blur
+haze ['relatedto'] air ['relatedto'] clear ['antonym', 'distinctfrom', 'relatedto'] obscure ['relatedto'] blur
+haze ['relatedto'] air ['relatedto'] clear ['antonym', 'distinctfrom', 'relatedto'] opaque ['synonym'] blur
+haze ['relatedto'] air ['relatedto'] clear ['antonym'] fog ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['relatedto'] clear ['distinctfrom'] blurred ['formof', 'relatedto'] blur
+haze ['relatedto'] air ['relatedto'] component ['isa'] input ['relatedto'] blur
+haze ['relatedto'] air ['relatedto'] content ['isa'] representation ['isa'] blur
+haze ['relatedto'] air ['relatedto'] humans ['capableof'] change ['mannerof'] blur
+haze ['relatedto'] air ['relatedto'] humans ['isa'] video_game ['isa'] blur
+haze ['relatedto'] air ['relatedto'] light ['relatedto'] dim ['relatedto', 'synonym'] blur
+haze ['relatedto'] air ['relatedto'] light ['relatedto'] opaque ['synonym'] blur

@@ -1,0 +1,100 @@
+submission ['isa'] agreement ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['isa', 'relatedto'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] stipulate ['relatedto'] acknowledge
+submission ['relatedto'] answer ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+submission ['relatedto'] surrender ['mannerof', 'relatedto'] concede ['relatedto'] acknowledge
+submission ['isa'] condition ['relatedto'] well ['relatedto'] acknowledge
+submission ['isa'] condition ['relatedto', 'synonym'] stipulate ['relatedto'] acknowledge
+submission ['relatedto'] let ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+submission ['relatedto'] let ['relatedto', 'synonym'] allow ['relatedto'] acknowledge
+submission ['relatedto'] let ['relatedto'] know ['synonym'] acknowledge
+submission ['relatedto'] discipline ['relatedto'] knowledge ['relatedto'] acknowledge
+submission ['synonym'] entry ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+submission ['isa'] message ['relatedto', 'synonym'] notice ['synonym'] acknowledge
+submission ['isa'] message ['isa', 'relatedto'] acknowledgment ['relatedto'] acknowledge
+submission ['isa'] message ['mannerof', 'relatedto'] communicate ['mannerof'] acknowledge
+submission ['isa'] message ['relatedto'] readback ['relatedto'] acknowledge
+submission ['relatedto', 'synonym'] acquiescence ['relatedto', 'synonym'] assent ['relatedto'] acknowledge
+submission ['relatedto'] bid ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+submission ['relatedto'] submit ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+submission ['relatedto'] tribute ['relatedto'] acknowledgment ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] consonant ['relatedto'] con ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] accept ['antonym'] disavow ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] accept ['relatedto', 'synonym'] admit ['relatedto', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] accept ['relatedto', 'synonym'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] accept ['relatedto'] allow ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] accept ['relatedto'] vouchsafe ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] accept ['synonym'] avow ['relatedto', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] reserve ['synonym'] allow ['relatedto'] acknowledge
+submission ['isa'] agreement ['derivedfrom'] agree ['mannerof', 'relatedto', 'synonym'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['derivedfrom'] agree ['mannerof', 'relatedto', 'synonym'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['derivedfrom'] agree ['mannerof'] concede ['relatedto'] acknowledge
+submission ['isa'] agreement ['derivedfrom'] agree ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+submission ['isa'] agreement ['antonym'] dispute ['antonym'] confirm ['synonym'] acknowledge
+submission ['isa'] agreement ['antonym'] dissent ['relatedto'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['antonym'] protest ['antonym'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['antonym'] protest ['relatedto'] con ['relatedto'] acknowledge
+submission ['isa'] agreement ['antonym'] protest ['antonym'] concede ['relatedto'] acknowledge
+submission ['isa'] agreement ['hasproperty'] good ['relatedto', 'synonym'] well ['relatedto'] acknowledge
+submission ['isa'] agreement ['isa', 'relatedto', 'synonym'] accord ['relatedto'] concede ['relatedto'] acknowledge
+submission ['isa'] agreement ['isa', 'relatedto', 'synonym'] accord ['relatedto'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['isa'] statement ['relatedto'] well ['relatedto'] acknowledge
+submission ['isa'] agreement ['isa', 'relatedto'] assent ['relatedto', 'synonym'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['isa', 'relatedto'] assent ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+submission ['isa'] agreement ['isa'] concession ['relatedto'] concede ['relatedto'] acknowledge
+submission ['isa'] agreement ['isa'] concession ['relatedto'] acknowledge_corn ['derivedfrom'] acknowledge
+submission ['isa'] agreement ['isa'] concession ['isa'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['isa', 'relatedto', 'synonym'] contract ['mannerof', 'relatedto'] stipulate ['relatedto'] acknowledge
+submission ['isa'] agreement ['isa', 'relatedto', 'synonym'] covenant ['mannerof'] confirm ['synonym'] acknowledge
+submission ['isa'] agreement ['isa', 'relatedto', 'synonym'] covenant ['mannerof'] communicate ['mannerof'] acknowledge
+submission ['isa'] agreement ['isa'] sale ['relatedto'] low ['relatedto'] acknowledge
+submission ['isa'] agreement ['motivatedbygoal'] reach_tentative_agreement ['hasprerequisite'] communicate ['mannerof'] acknowledge
+submission ['isa'] agreement ['relatedto', 'partof'] condition ['relatedto'] well ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto', 'partof'] condition ['relatedto', 'synonym'] stipulate ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] acceptance ['relatedto', 'derivedfrom'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] acceptance ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] acceptance ['isa'] acknowledgment ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] acceptance ['isa', 'relatedto', 'similarto', 'synonym'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] acceptance ['isa', 'relatedto'] recognition ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto', 'synonym'] consent ['relatedto', 'synonym'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto', 'synonym'] consent ['relatedto'] allow ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto', 'synonym'] consent ['relatedto', 'similarto', 'synonym'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] contradict ['antonym'] confirm ['synonym'] acknowledge
+submission ['isa'] agreement ['relatedto', 'synonym'] understanding ['isa', 'relatedto', 'partof'] knowledge ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto', 'synonym'] understanding ['relatedto'] know ['synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] answer ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] appointment ['isa'] recognition ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] approval ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] approval ['isa'] recognition ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] approval ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+submission ['isa'] agreement ['relatedto'] approval ['relatedto'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] assentment ['relatedto', 'derivedfrom'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] aye ['relatedto'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] cognovit_clause ['relatedto'] notice ['synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] cognovit_clause ['relatedto'] concede ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] consequence ['relatedto'] con ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto', 'synonym'] convention ['relatedto'] con ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] diplomacy ['isa'] recognition ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] handshake ['isa'] acknowledgment ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] issue ['mannerof'] communicate ['mannerof'] acknowledge
+submission ['isa'] agreement ['relatedto'] make_peace ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] nod ['mannerof'] communicate ['mannerof'] acknowledge
+submission ['isa'] agreement ['relatedto'] nod ['relatedto'] acknowledgment ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] noncompete_clause ['relatedto'] stipulate ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] pay ['relatedto'] notice ['synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] promise ['etymologicallyrelatedto'] admit ['relatedto', 'synonym'] acknowledge
+submission ['isa'] agreement ['relatedto'] promise ['relatedto'] stipulate ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] stipulated ['formof', 'relatedto', 'derivedfrom'] stipulate ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] stipulation ['relatedto', 'derivedfrom'] stipulate ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] unanimous ['relatedto'] assent ['relatedto'] acknowledge
+submission ['isa'] agreement ['relatedto'] unexpired ['similarto'] valid ['relatedto'] acknowledge
+submission ['relatedto'] answer ['relatedto'] accept ['antonym'] disavow ['relatedto'] acknowledge
+submission ['relatedto'] answer ['relatedto'] accept ['relatedto', 'synonym'] admit ['relatedto', 'synonym'] acknowledge
+submission ['relatedto'] answer ['relatedto'] accept ['relatedto', 'synonym'] assent ['relatedto'] acknowledge
+submission ['relatedto'] answer ['relatedto'] accept ['relatedto'] allow ['relatedto'] acknowledge
+submission ['relatedto'] answer ['relatedto'] accept ['relatedto'] vouchsafe ['relatedto'] acknowledge
+submission ['relatedto'] answer ['relatedto'] accept ['synonym'] avow ['relatedto', 'synonym'] acknowledge
+submission ['relatedto'] answer ['relatedto'] refuse ['antonym', 'distinctfrom'] accept ['mannerof', 'synonym'] acknowledge
+submission ['relatedto'] answer ['relatedto'] refuse ['distinctfrom'] allow ['relatedto'] acknowledge
+submission ['relatedto'] answer ['relatedto'] refuse ['relatedto'] disacknowledge ['relatedto', 'derivedfrom'] acknowledge
+submission ['relatedto'] answer ['relatedto'] refuse ['relatedto'] disavow ['relatedto'] acknowledge

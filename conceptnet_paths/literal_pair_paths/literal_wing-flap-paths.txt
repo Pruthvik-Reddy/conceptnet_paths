@@ -1,0 +1,100 @@
+wing ['partof'] flap
+wing ['isa', 'relatedto', 'synonym'] airfoil ['isa'] flap
+wing ['relatedto', 'partof'] airplane ['partof'] flap
+wing ['relatedto'] aeroplane ['relatedto'] flap
+wing ['relatedto'] bait ['relatedto'] flap
+wing ['relatedto'] bate ['relatedto'] flap
+wing ['relatedto'] flutter ['relatedto', 'synonym'] flap
+wing ['relatedto'] sail ['relatedto'] flap
+wing ['relatedto'] winnow ['relatedto'] flap
+wing ['synonym'] mudguard ['relatedto'] flap
+wing ['usedfor'] flapping ['formof', 'relatedto', 'synonym'] flap
+wing ['relatedto'] air ['atlocation'] airplane ['partof'] flap
+wing ['relatedto'] air ['relatedto', 'atlocation'] sound ['relatedto'] flap
+wing ['relatedto'] air ['derivedfrom'] airfoil ['isa'] flap
+wing ['relatedto'] air ['relatedto'] blow ['relatedto'] flap
+wing ['relatedto'] air ['relatedto'] roll ['synonym'] flap
+wing ['relatedto'] air ['relatedto'] tongue ['isa', 'relatedto'] flap
+wing ['relatedto'] air ['relatedto'] whoopie_cushion ['relatedto'] flap
+wing ['relatedto'] animal ['isa'] female ['relatedto'] flap
+wing ['relatedto'] animal ['relatedto'] beat ['mannerof', 'synonym'] flap
+wing ['relatedto'] animal ['relatedto'] body ['relatedto'] flap
+wing ['usedfor', 'relatedto', 'partof', 'atlocation'] bird ['relatedto'] airplane ['partof'] flap
+wing ['usedfor', 'relatedto', 'partof', 'atlocation'] bird ['relatedto'] flutter ['relatedto', 'synonym'] flap
+wing ['usedfor', 'relatedto', 'partof', 'atlocation'] bird ['relatedto'] sound ['relatedto'] flap
+wing ['usedfor', 'relatedto', 'partof', 'atlocation'] bird ['synonym'] broad ['relatedto'] flap
+wing ['relatedto'] arm ['relatedto', 'partof'] body ['relatedto'] flap
+wing ['relatedto'] arm ['usedfor', 'relatedto'] wave ['isa'] flap
+wing ['isa', 'relatedto'] position ['relatedto'] motion ['relatedto'] flap
+wing ['synonym'] forward ['relatedto'] motion ['relatedto'] flap
+wing ['synonym'] forward ['relatedto'] roll ['synonym'] flap
+wing ['relatedto'] covered ['relatedto'] body ['relatedto'] flap
+wing ['relatedto', 'partof'] bat ['antonym', 'relatedto'] tab ['relatedto'] flap
+wing ['relatedto', 'partof'] bat ['etymologicallyrelatedto', 'relatedto'] bate ['relatedto'] flap
+wing ['relatedto', 'partof'] bat ['mannerof'] beat ['mannerof', 'synonym'] flap
+wing ['relatedto', 'partof'] bat ['relatedto'] blow ['relatedto'] flap
+wing ['relatedto', 'partof'] bat ['relatedto', 'synonym'] flutter ['relatedto', 'synonym'] flap
+wing ['usedfor'] plane ['relatedto', 'derivedfrom', 'synonym'] aeroplane ['relatedto'] flap
+wing ['usedfor'] plane ['relatedto', 'synonym'] airplane ['partof'] flap
+wing ['relatedto'] moth ['relatedto'] tongue ['isa', 'relatedto'] flap
+wing ['relatedto'] chicken ['relatedto'] female ['relatedto'] flap
+wing ['relatedto'] chicken ['relatedto'] disease ['relatedto'] flap
+wing ['relatedto'] pen ['isa', 'synonym'] fold ['relatedto'] flap
+wing ['relatedto'] hot ['relatedto'] roll ['synonym'] flap
+wing ['partof'] division ['relatedto'] fold ['relatedto'] flap
+wing ['partof'] division ['relatedto'] jag ['isa'] flap
+wing ['relatedto'] group ['relatedto'] body ['relatedto'] flap
+wing ['relatedto'] group ['isa'] fold ['relatedto'] flap
+wing ['relatedto'] group ['relatedto'] foldback ['relatedto'] flap
+wing ['relatedto'] crown ['relatedto'] covering ['isa'] flap
+wing ['relatedto'] extension ['relatedto'] body ['relatedto'] flap
+wing ['relatedto'] extension ['relatedto'] leaf ['relatedto'] flap
+wing ['relatedto'] flower ['antonym', 'relatedto'] leaf ['relatedto'] flap
+wing ['relatedto'] flower ['relatedto'] genitals ['relatedto'] flap
+wing ['usedfor'] raise ['mannerof'] pronounce ['mannerof'] flap
+wing ['usedfor'] raise ['relatedto'] tongue ['isa', 'relatedto'] flap
+wing ['usedfor'] raise ['synonym'] stir ['relatedto'] flap
+wing ['relatedto'] throw ['relatedto'] lave ['relatedto'] flap
+wing ['relatedto'] throw ['relatedto'] roll ['synonym'] flap
+wing ['relatedto'] function ['mannerof'] roll ['synonym'] flap
+wing ['relatedto'] swallow ['relatedto'] body ['relatedto'] flap
+wing ['relatedto'] part ['relatedto'] consonant ['relatedto'] flap
+wing ['relatedto'] part ['relatedto'] body ['relatedto'] flap
+wing ['relatedto'] part ['relatedto'] leaf ['relatedto'] flap
+wing ['relatedto'] part ['relatedto'] lip ['relatedto'] flap
+wing ['relatedto'] part ['relatedto'] roll ['synonym'] flap
+wing ['relatedto'] part ['relatedto'] sail ['relatedto'] flap
+wing ['relatedto'] part ['relatedto'] tongue ['isa', 'relatedto'] flap
+wing ['relatedto'] part ['relatedto'] wave ['isa'] flap
+wing ['usedfor', 'relatedto', 'synonym'] fly ['relatedto'] bait ['relatedto'] flap
+wing ['usedfor', 'relatedto', 'synonym'] fly ['relatedto'] flutter ['relatedto', 'synonym'] flap
+wing ['usedfor', 'relatedto', 'synonym'] fly ['relatedto'] aeroplane ['relatedto'] flap
+wing ['usedfor', 'relatedto', 'synonym'] fly ['usedfor', 'relatedto'] airplane ['partof'] flap
+wing ['usedfor', 'relatedto', 'synonym'] fly ['relatedto'] flapping ['formof', 'relatedto', 'synonym'] flap
+wing ['usedfor', 'relatedto', 'synonym'] fly ['relatedto'] horses ['relatedto'] flap
+wing ['usedfor', 'relatedto', 'synonym'] fly ['relatedto'] motion ['relatedto'] flap
+wing ['usedfor', 'relatedto', 'synonym'] fly ['synonym'] tent_fly ['isa'] flap
+wing ['usedfor', 'relatedto'] flying ['relatedto'] flutter ['relatedto', 'synonym'] flap
+wing ['usedfor', 'relatedto'] flying ['usedfor'] airplane ['partof'] flap
+wing ['relatedto'] roof ['atlocation'] leaf ['relatedto'] flap
+wing ['relatedto'] roof ['atlocation'] airplane ['partof'] flap
+wing ['relatedto'] roof ['isa', 'usedfor', 'relatedto'] covering ['isa'] flap
+wing ['relatedto'] tent ['relatedto'] covering ['isa'] flap
+wing ['relatedto'] tent ['relatedto'] flaps ['formof', 'relatedto', 'synonym'] flap
+wing ['isa', 'relatedto'] limb ['antonym', 'relatedto'] body ['relatedto'] flap
+wing ['antonym'] plan ['relatedto'] motion ['relatedto'] flap
+wing ['atlocation'] hospital ['atlocation'] disease ['relatedto'] flap
+wing ['relatedto', 'derivedfrom'] wingbeat ['derivedfrom'] beat ['mannerof', 'synonym'] flap
+wing ['derivedfrom'] wingsail ['relatedto', 'derivedfrom'] sail ['relatedto'] flap
+wing ['derivedfrom'] wingwoman ['relatedto'] female ['relatedto'] flap
+wing ['formof', 'relatedto'] wings ['atlocation'] airplane ['partof'] flap
+wing ['formof', 'relatedto'] wings ['relatedto'] flutter ['relatedto', 'synonym'] flap
+wing ['formof', 'relatedto'] wings ['usedfor'] flapping ['formof', 'relatedto', 'synonym'] flap
+wing ['isa'] halter ['synonym'] haltere ['relatedto'] flap
+wing ['isa', 'relatedto'] organ ['relatedto', 'partof', 'atlocation'] body ['relatedto'] flap
+wing ['isa', 'relatedto'] organ ['relatedto'] leaf ['relatedto'] flap
+wing ['isa', 'relatedto'] organ ['relatedto'] lip ['relatedto'] flap
+wing ['isa', 'relatedto'] organ ['isa', 'relatedto'] tongue ['isa', 'relatedto'] flap
+wing ['isa', 'relatedto', 'synonym'] airfoil ['relatedto'] aeroplane ['relatedto'] flap
+wing ['isa', 'relatedto'] stage ['relatedto'] foldback ['relatedto'] flap
+wing ['isa'] social_group ['isa'] body ['relatedto'] flap

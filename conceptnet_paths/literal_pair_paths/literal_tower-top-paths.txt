@@ -1,0 +1,100 @@
+tower ['relatedto', 'synonym'] column ['relatedto'] top
+tower ['relatedto'] cake ['relatedto'] top
+tower ['relatedto'] crown ['isa', 'relatedto', 'synonym'] top
+tower ['relatedto'] high ['relatedto'] top
+tower ['relatedto'] part ['relatedto'] top
+tower ['relatedto'] king ['relatedto'] top
+tower ['relatedto'] mast ['relatedto'] top
+tower ['isa', 'relatedto'] steeple ['relatedto'] top
+tower ['relatedto'] trump ['synonym'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] base ['antonym', 'distinctfrom'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] bottom ['antonym', 'distinctfrom', 'relatedto'] top
+tower ['relatedto', 'synonym'] column ['antonym', 'distinctfrom', 'relatedto'] row ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto', 'partof', 'atlocation'] table ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto', 'partof'] capital ['isa', 'relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] astragal ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] excel ['relatedto', 'synonym'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] high ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] part ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] pole ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] roof ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] head ['isa', 'relatedto', 'synonym'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] header ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] mast ['relatedto'] top
+tower ['relatedto', 'synonym'] column ['relatedto'] stack ['relatedto'] top
+tower ['relatedto'] church ['atlocation'] gold ['relatedto'] top
+tower ['relatedto'] church ['relatedto', 'atlocation'] steeple ['relatedto'] top
+tower ['relatedto'] church ['usedfor', 'relatedto'] altar ['relatedto'] top
+tower ['relatedto'] church ['relatedto'] lectern ['relatedto'] top
+tower ['relatedto'] church ['relatedto'] title ['relatedto'] top
+tower ['relatedto'] bell ['relatedto'] column ['relatedto'] top
+tower ['relatedto'] bell ['relatedto'] collar ['relatedto'] top
+tower ['relatedto'] bell ['relatedto'] dome ['relatedto'] top
+tower ['relatedto'] bell ['relatedto'] music ['relatedto'] top
+tower ['relatedto'] bell ['relatedto'] shell ['relatedto'] top
+tower ['relatedto'] bell ['relatedto'] steeple ['relatedto'] top
+tower ['relatedto'] bell ['relatedto'] capital ['isa', 'relatedto'] top
+tower ['relatedto'] coin ['relatedto'] plate ['relatedto'] top
+tower ['relatedto'] coin ['isa', 'relatedto'] crown ['isa', 'relatedto', 'synonym'] top
+tower ['relatedto'] coin ['isa', 'relatedto'] quarter ['relatedto'] top
+tower ['relatedto'] coin ['partof'] head ['isa', 'relatedto', 'synonym'] top
+tower ['relatedto'] coin ['relatedto', 'partof'] tail ['mannerof'] top
+tower ['relatedto'] coin ['relatedto'] edge ['relatedto'] top
+tower ['relatedto'] coin ['relatedto'] general ['relatedto'] top
+tower ['relatedto'] coin ['relatedto'] middle ['antonym', 'distinctfrom', 'relatedto'] top
+tower ['relatedto'] coin ['relatedto'] eye ['relatedto'] top
+tower ['relatedto'] coin ['relatedto'] point ['relatedto'] top
+tower ['relatedto'] keep ['antonym'] stop ['relatedto', 'derivedfrom'] top
+tower ['relatedto'] keep ['relatedto'] chief ['relatedto'] top
+tower ['relatedto'] keep ['relatedto'] coat ['relatedto'] top
+tower ['relatedto'] keep ['relatedto'] onto ['relatedto'] top
+tower ['relatedto'] keep ['relatedto'] cap ['isa', 'relatedto', 'synonym'] top
+tower ['relatedto'] keep ['relatedto'] raise ['relatedto'] top
+tower ['relatedto'] long ['antonym'] low ['distinctfrom'] top
+tower ['relatedto'] long ['relatedto'] leg ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] column ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] position ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] board ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] branch ['relatedto'] top
+tower ['relatedto'] long ['antonym', 'relatedto'] dress ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] coat ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] desk ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] foot ['antonym'] top
+tower ['relatedto'] long ['relatedto'] groove ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] limousine ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] pole ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] quarter ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] reach ['mannerof'] top
+tower ['relatedto'] long ['relatedto'] side ['antonym', 'distinctfrom', 'relatedto', 'isa'] top
+tower ['relatedto'] long ['relatedto'] squirrel ['relatedto'] top
+tower ['relatedto'] long ['relatedto'] tail ['mannerof'] top
+tower ['relatedto'] long ['similarto'] longitudinal ['relatedto'] top
+tower ['relatedto'] thin ['relatedto'] remove ['relatedto'] top
+tower ['relatedto'] thin ['relatedto'] column ['relatedto'] top
+tower ['relatedto'] thin ['relatedto'] camikini ['relatedto'] top
+tower ['relatedto'] thin ['relatedto'] edge ['relatedto'] top
+tower ['relatedto'] thin ['relatedto'] lead ['synonym'] top
+tower ['relatedto'] thin ['relatedto'] surface ['relatedto'] top
+tower ['relatedto'] cake ['isa', 'distinctfrom', 'relatedto'] lie ['mannerof'] top
+tower ['relatedto'] cake ['relatedto', 'atlocation'] plate ['relatedto'] top
+tower ['relatedto'] cake ['relatedto'] box ['relatedto'] top
+tower ['relatedto'] cake ['antonym', 'distinctfrom', 'relatedto'] bread ['relatedto'] top
+tower ['relatedto'] cake ['antonym', 'relatedto'] cream ['relatedto'] top
+tower ['relatedto'] cake ['relatedto', 'receivesaction'] cut ['relatedto'] top
+tower ['relatedto'] cake ['relatedto'] atop ['relatedto', 'derivedfrom'] top
+tower ['relatedto'] cake ['relatedto'] flavour ['relatedto'] top
+tower ['relatedto'] cake ['relatedto'] platform ['isa'] top
+tower ['relatedto'] cake ['relatedto', 'synonym'] coat ['relatedto'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto'] position ['relatedto'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto', 'atlocation'] king ['relatedto'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto'] middle ['antonym', 'distinctfrom', 'relatedto'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto'] royal ['relatedto'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto'] seat ['relatedto'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto'] side ['antonym', 'distinctfrom', 'relatedto', 'isa'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto'] turn ['isa'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto'] crown ['isa', 'relatedto', 'synonym'] top
+tower ['relatedto', 'atlocation'] castle ['relatedto'] wick ['relatedto'] top
+tower ['relatedto'] cathedral ['relatedto'] dome ['relatedto'] top
+tower ['relatedto'] cathedral ['relatedto'] high ['relatedto'] top
+tower ['relatedto'] cathedral ['relatedto'] music ['relatedto'] top
+tower ['relatedto'] cathedral ['relatedto'] part ['relatedto'] top

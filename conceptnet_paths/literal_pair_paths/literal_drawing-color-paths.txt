@@ -1,0 +1,100 @@
+drawing ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] color
+drawing ['relatedto'] picture ['relatedto'] color
+drawing ['relatedto'] design ['relatedto'] color
+drawing ['formof', 'relatedto', 'derivedfrom'] draw ['relatedto'] color
+drawing ['relatedto'] paint ['relatedto'] color
+drawing ['relatedto'] shade ['isa', 'distinctfrom', 'relatedto'] color
+drawing ['relatedto'] crayon ['relatedto'] color
+drawing ['isa', 'relatedto'] pastel ['relatedto'] color
+drawing ['relatedto'] graph ['relatedto'] color
+drawing ['relatedto'] scale ['relatedto'] color
+drawing ['relatedto'] sepia ['relatedto'] color
+drawing ['usedfor'] ink ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['atlocation'] fair ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto', 'atlocation'] horse ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['isa', 'usedfor', 'relatedto'] painting ['causes', 'relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] artistic ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] beauty ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] category ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] colorful ['derivedfrom'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] colors ['formof', 'relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] design ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] draw ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] general ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] general_term ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] generic ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] oil ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] paint ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] painted ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] painter ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] paintings ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] photos ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] picture ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] pictures ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] stuff ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] term ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] type ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] visual ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] colour ['formof', 'relatedto', 'hasproperty', 'synonym'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] element ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] list ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] saturation ['relatedto'] color
+drawing ['isa', 'relatedto'] art ['relatedto'] shade ['isa', 'distinctfrom', 'relatedto'] color
+drawing ['relatedto'] lot ['relatedto'] adjective ['relatedto'] color
+drawing ['relatedto'] lot ['synonym'] set ['relatedto'] color
+drawing ['relatedto'] lot ['antonym', 'relatedto', 'synonym'] many ['relatedto'] color
+drawing ['relatedto'] lot ['relatedto'] property ['relatedto'] color
+drawing ['relatedto'] lot ['relatedto'] everything ['relatedto'] color
+drawing ['relatedto'] lot ['synonym'] draw ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] set ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] black ['antonym', 'distinctfrom', 'relatedto', 'isa'] color
+drawing ['relatedto'] board ['relatedto'] white ['antonym', 'distinctfrom', 'relatedto', 'isa'] color
+drawing ['relatedto'] board ['isa', 'relatedto'] palette ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] brown ['isa', 'relatedto'] color
+drawing ['relatedto'] board ['relatedto'] map ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] part ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] snow ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] type ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] used ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] light ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] exchange ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] iron ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] list ['relatedto'] color
+drawing ['relatedto'] board ['relatedto'] point ['relatedto'] color
+drawing ['relatedto'] circle ['relatedto'] apple ['relatedto'] color
+drawing ['relatedto'] circle ['relatedto', 'synonym'] set ['relatedto'] color
+drawing ['relatedto'] circle ['relatedto'] interest ['isa', 'relatedto'] color
+drawing ['relatedto'] circle ['relatedto'] change ['mannerof'] color
+drawing ['relatedto'] circle ['relatedto'] draw ['relatedto'] color
+drawing ['relatedto'] circle ['relatedto'] general ['relatedto'] color
+drawing ['relatedto'] circle ['relatedto'] eye ['relatedto'] color
+drawing ['relatedto'] circle ['relatedto'] point ['relatedto'] color
+drawing ['relatedto'] circle ['relatedto'] mole ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] apple ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] set ['relatedto'] color
+drawing ['relatedto'] hand ['antonym', 'relatedto'] part ['relatedto'] color
+drawing ['relatedto'] hand ['antonym', 'relatedto'] napkin ['relatedto'] color
+drawing ['relatedto'] hand ['mannerof'] lead ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] draw ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] flush ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] component ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] everything ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] eye ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] flower ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] horse ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] type ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] ivory ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] quality ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] leaf ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] point ['relatedto'] color
+drawing ['relatedto'] hand ['relatedto'] turn ['relatedto'] color
+drawing ['usedfor', 'relatedto'] paper ['relatedto'] white ['antonym', 'distinctfrom', 'relatedto', 'isa'] color
+drawing ['usedfor', 'relatedto'] paper ['relatedto'] text ['relatedto'] color
+drawing ['usedfor', 'relatedto'] paper ['antonym', 'relatedto'] change ['mannerof'] color
+drawing ['usedfor', 'relatedto'] paper ['antonym'] stone ['relatedto'] color
+drawing ['usedfor', 'relatedto'] paper ['isa'] solid ['relatedto'] color
+drawing ['usedfor', 'relatedto'] paper ['relatedto'] draw ['relatedto'] color
+drawing ['usedfor', 'relatedto'] paper ['relatedto'] graph ['relatedto'] color
+drawing ['usedfor', 'relatedto'] paper ['relatedto'] ink ['relatedto'] color
+drawing ['usedfor', 'relatedto'] paper ['relatedto'] map ['relatedto'] color

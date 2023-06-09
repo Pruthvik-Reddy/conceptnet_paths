@@ -1,0 +1,100 @@
+truck ['formof', 'relatedto'] trucks ['relatedto'] load
+truck ['relatedto'] heavy ['relatedto'] load
+truck ['relatedto'] wheelbarrow ['relatedto'] load
+truck ['relatedto'] abate ['synonym'] quiet ['distinctfrom'] load
+truck ['relatedto'] fail ['mannerof', 'relatedto'] miss ['relatedto'] load
+truck ['relatedto'] fail ['relatedto'] overload ['isa', 'mannerof', 'relatedto'] load
+truck ['relatedto'] bed ['atlocation'] bag ['relatedto'] load
+truck ['relatedto'] bed ['relatedto', 'derivedfrom'] flatbed ['relatedto'] load
+truck ['relatedto'] bed ['mannerof'] put ['mannerof'] load
+truck ['relatedto'] bed ['relatedto'] ballast ['relatedto'] load
+truck ['relatedto'] bed ['relatedto'] unit ['relatedto'] load
+truck ['atlocation'] food ['etymologicallyrelatedto', 'relatedto', 'synonym'] fodder ['isa', 'relatedto', 'synonym'] load
+truck ['atlocation'] food ['isa', 'relatedto', 'synonym'] bread ['relatedto'] load
+truck ['atlocation'] food ['relatedto'] carry ['relatedto'] load
+truck ['atlocation'] food ['relatedto'] fother ['isa', 'relatedto', 'synonym'] load
+truck ['relatedto'] thing ['isa'] unit ['relatedto'] load
+truck ['relatedto'] thing ['relatedto'] force ['relatedto'] load
+truck ['relatedto'] big ['relatedto'] bear ['derivedfrom'] load
+truck ['relatedto'] big ['relatedto'] cigar ['relatedto'] load
+truck ['relatedto'] big ['relatedto', 'similarto', 'synonym'] heavy ['relatedto'] load
+truck ['relatedto'] big ['relatedto'] lot ['synonym'] load
+truck ['relatedto'] big ['relatedto'] thunder ['relatedto'] load
+truck ['relatedto'] big ['relatedto'] weight ['isa', 'relatedto'] load
+truck ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] lot ['synonym'] load
+truck ['antonym', 'distinctfrom', 'relatedto'] car ['hasproperty'] heavy ['relatedto'] load
+truck ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] put ['mannerof'] load
+truck ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] unit ['relatedto'] load
+truck ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] fill ['mannerof', 'relatedto'] load
+truck ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] flatbed ['relatedto'] load
+truck ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] import ['relatedto'] load
+truck ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto'] jinny_road ['relatedto'] load
+truck ['atlocation'] freeway ['atlocation'] trucks ['relatedto'] load
+truck ['atlocation'] garage ['relatedto'] lot ['synonym'] load
+truck ['atlocation'] road ['relatedto'] ballast ['relatedto'] load
+truck ['atlocation'] road ['relatedto'] jinny_road ['relatedto'] load
+truck ['atlocation'] road ['relatedto'] lode ['synonym'] load
+truck ['derivedfrom'] forklift_truck ['synonym'] forklift ['relatedto'] load
+truck ['derivedfrom', 'synonym'] hand_truck ['relatedto'] wheelbarrow ['relatedto'] load
+truck ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] trucking ['relatedto', 'synonym'] freight ['relatedto'] load
+truck ['etymologicallyrelatedto'] thrutch ['etymologicallyrelatedto', 'relatedto'] thrack ['relatedto'] load
+truck ['isa', 'relatedto'] dump_truck ['relatedto'] unload ['antonym'] load
+truck ['isa', 'relatedto'] dump_truck ['synonym'] dumper ['relatedto'] load
+truck ['isa', 'relatedto', 'synonym'] lorry ['relatedto'] barrow ['relatedto'] load
+truck ['isa'] tractor ['relatedto'] loader ['relatedto', 'derivedfrom'] load
+truck ['isa'] tractor ['relatedto'] prime_mover ['relatedto'] load
+truck ['isa', 'relatedto'] transporter ['relatedto'] loading ['formof', 'relatedto', 'derivedfrom', 'synonym'] load
+truck ['isa', 'relatedto', 'similarto'] automobile ['relatedto'] trucks ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['capableof', 'relatedto'] carry ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] banksman ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] barrow ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] dumper ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] flatbed ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] forklift ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] loadout ['derivedfrom'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] loadspace ['relatedto', 'derivedfrom'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] low_bridge ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] prime_mover ['relatedto'] load
+truck ['isa', 'relatedto'] vehicle ['relatedto'] trucks ['relatedto'] load
+truck ['isa'] motor_vehicle ['relatedto'] cargo ['synonym'] load
+truck ['isa'] wheeled_vehicle ['isa'] wheelbarrow ['relatedto'] load
+truck ['isa', 'relatedto'] van ['relatedto'] trucks ['relatedto'] load
+truck ['isa', 'relatedto'] van ['relatedto', 'derivedfrom'] vanload ['relatedto', 'derivedfrom'] load
+truck ['mannerof', 'relatedto'] transport ['mannerof'] bear ['derivedfrom'] load
+truck ['mannerof', 'relatedto'] transport ['relatedto', 'synonym'] carry ['relatedto'] load
+truck ['mannerof', 'relatedto'] transport ['mannerof'] pack ['mannerof', 'relatedto'] load
+truck ['mannerof', 'relatedto'] transport ['relatedto'] write ['antonym'] load
+truck ['mannerof', 'relatedto'] transport ['usedfor'] bag ['relatedto'] load
+truck ['mannerof', 'relatedto'] transport ['usedfor', 'relatedto'] cargo ['synonym'] load
+truck ['mannerof', 'relatedto'] transport ['relatedto'] trucks ['relatedto'] load
+truck ['mannerof', 'relatedto'] transport ['mannerof', 'relatedto'] freight ['relatedto'] load
+truck ['mannerof', 'relatedto'] transport ['mannerof'] wheelbarrow ['relatedto'] load
+truck ['mannerof', 'relatedto'] transport ['relatedto'] carter ['relatedto'] load
+truck ['mannerof', 'relatedto'] transport ['relatedto'] jetload ['derivedfrom'] load
+truck ['mannerof', 'relatedto'] transport ['relatedto'] shipment ['relatedto'] load
+truck ['partof'] roof ['relatedto'] truss ['isa'] load
+truck ['partof'] tailgate ['relatedto'] loading ['formof', 'relatedto', 'derivedfrom', 'synonym'] load
+truck ['relatedto'] b_double ['relatedto'] prime_mover ['relatedto'] load
+truck ['relatedto'] cab ['relatedto'] unit ['relatedto'] load
+truck ['relatedto'] carryall ['isa', 'relatedto'] bag ['relatedto'] load
+truck ['relatedto'] construction ['relatedto'] fill ['mannerof', 'relatedto'] load
+truck ['relatedto'] construction ['relatedto'] lumber ['relatedto'] load
+truck ['relatedto'] construction ['relatedto'] prime_mover ['relatedto'] load
+truck ['relatedto'] fifth_wheel ['isa'] bearing ['relatedto'] load
+truck ['relatedto'] flatbed_truck ['synonym'] flatbed ['relatedto'] load
+truck ['relatedto'] hgv ['relatedto'] heavy ['relatedto'] load
+truck ['relatedto'] juggernaut ['relatedto'] force ['relatedto'] load
+truck ['relatedto'] juggernaut ['isa'] power ['relatedto'] load
+truck ['relatedto'] linehaul ['relatedto'] freight ['relatedto'] load
+truck ['relatedto'] move ['entails'] bear ['derivedfrom'] load
+truck ['relatedto'] move ['relatedto'] carry ['relatedto'] load
+truck ['relatedto'] move ['antonym', 'mannerof'] put ['mannerof'] load
+truck ['relatedto'] move ['synonym'] download ['derivedfrom'] load
+truck ['relatedto'] move ['mannerof', 'relatedto', 'synonym', 'entails'] transfer ['mannerof'] load
+truck ['relatedto'] move ['mannerof'] thunder ['relatedto'] load
+truck ['relatedto'] move ['relatedto'] forklift ['relatedto'] load
+truck ['relatedto'] move ['relatedto'] lumber ['relatedto'] load
+truck ['relatedto'] move ['relatedto'] pack ['mannerof', 'relatedto'] load
+truck ['relatedto'] pedestal ['relatedto'] truss ['isa'] load
+truck ['relatedto'] piggyback ['isa'] carry ['relatedto'] load
+truck ['relatedto'] piggyback ['relatedto'] flatbed ['relatedto'] load

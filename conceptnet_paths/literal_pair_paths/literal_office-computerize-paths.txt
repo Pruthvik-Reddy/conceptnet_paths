@@ -1,0 +1,100 @@
+office ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto', 'synonym'] function ['relatedto'] computerize
+office ['relatedto'] act ['entails'] enter ['relatedto'] computerize
+office ['relatedto'] act ['relatedto'] function ['relatedto'] computerize
+office ['atlocation'] number ['atlocation'] store ['mannerof'] computerize
+office ['atlocation'] number ['relatedto'] system ['relatedto'] computerize
+office ['relatedto'] water ['mannerof'] supply ['mannerof'] computerize
+office ['relatedto'] house ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto'] house ['synonym'] store ['mannerof'] computerize
+office ['relatedto'] bank ['relatedto'] store ['mannerof'] computerize
+office ['relatedto'] box ['relatedto', 'synonym', 'atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto'] box ['usedfor', 'relatedto'] store ['mannerof'] computerize
+office ['relatedto'] branch ['relatedto'] system ['relatedto'] computerize
+office ['usedfor', 'relatedto', 'atlocation'] work ['mannerof'] cybernate ['synonym'] computerize
+office ['usedfor', 'relatedto', 'atlocation'] work ['usedfor', 'relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['usedfor', 'relatedto', 'atlocation'] work ['relatedto', 'synonym'] function ['relatedto'] computerize
+office ['usedfor', 'relatedto'] working ['relatedto'] function ['relatedto'] computerize
+office ['usedfor', 'relatedto'] working ['usedfor'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto', 'atlocation'] business ['isa', 'relatedto'] store ['mannerof'] computerize
+office ['atlocation'] call ['atlocation'] voice_mail ['relatedto'] computerize
+office ['atlocation'] call ['relatedto'] function ['relatedto'] computerize
+office ['relatedto'] case ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto'] case ['relatedto'] store ['mannerof'] computerize
+office ['relatedto'] case ['relatedto'] function ['relatedto'] computerize
+office ['relatedto', 'atlocation'] paper ['atlocation'] store ['mannerof'] computerize
+office ['relatedto', 'atlocation'] paper ['relatedto'] supply ['mannerof'] computerize
+office ['relatedto'] charge ['mannerof'] supply ['mannerof'] computerize
+office ['relatedto'] fill ['relatedto'] enter ['relatedto'] computerize
+office ['relatedto'] fill ['relatedto'] supply ['mannerof'] computerize
+office ['atlocation'] city ['atlocation'] store ['mannerof'] computerize
+office ['isa'] state ['relatedto'] convert ['relatedto'] computerize
+office ['isa'] state ['relatedto'] system ['relatedto'] computerize
+office ['atlocation'] pen ['relatedto'] smartpen ['relatedto'] computerize
+office ['relatedto'] spreadsheet ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto'] spreadsheet ['relatedto'] data ['relatedto'] computerize
+office ['relatedto'] spreadsheet ['relatedto'] system ['relatedto'] computerize
+office ['relatedto'] company ['relatedto'] store ['mannerof'] computerize
+office ['relatedto'] copy ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto'] copy ['relatedto'] function ['relatedto'] computerize
+office ['relatedto'] group ['isa'] system ['relatedto'] computerize
+office ['relatedto'] group ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto'] tape ['relatedto'] supply ['mannerof'] computerize
+office ['relatedto'] deliver ['relatedto'] function ['relatedto'] computerize
+office ['relatedto'] deliver ['similarto'] supply ['mannerof'] computerize
+office ['relatedto', 'synonym'] department ['relatedto'] store ['mannerof'] computerize
+office ['relatedto'] desk ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto'] invest ['mannerof'] equip ['relatedto'] computerize
+office ['atlocation'] computer ['derivedfrom'] computerise ['formof', 'synonym'] computerize
+office ['atlocation'] computer ['usedfor', 'relatedto'] computing ['relatedto'] computerize
+office ['atlocation'] computer ['relatedto'] data ['relatedto'] computerize
+office ['atlocation'] computer ['relatedto'] store ['mannerof'] computerize
+office ['atlocation'] computer ['usedfor', 'relatedto'] cybernate ['synonym'] computerize
+office ['atlocation'] computer ['relatedto'] enter ['relatedto'] computerize
+office ['atlocation'] computer ['relatedto'] system ['relatedto'] computerize
+office ['atlocation'] door ['usedfor', 'relatedto'] enter ['relatedto'] computerize
+office ['atlocation'] door ['relatedto'] system ['relatedto'] computerize
+office ['atlocation'] window ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] window ['relatedto'] system ['relatedto'] computerize
+office ['relatedto'] duty ['isa'] function ['relatedto'] computerize
+office ['relatedto', 'synonym'] function ['relatedto'] convert ['relatedto'] computerize
+office ['relatedto'] space ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['relatedto'] space ['relatedto'] system ['relatedto'] computerize
+office ['relatedto'] appoint ['mannerof', 'relatedto'] equip ['relatedto'] computerize
+office ['atlocation'] sack ['relatedto'] store ['mannerof'] computerize
+office ['relatedto', 'synonym'] part ['synonym'] function ['relatedto'] computerize
+office ['atlocation'] record ['relatedto'] function ['relatedto'] computerize
+office ['atlocation'] record ['relatedto', 'synonym'] enter ['relatedto'] computerize
+office ['atlocation'] record ['relatedto'] data ['relatedto'] computerize
+office ['relatedto'] government ['isa', 'relatedto'] system ['relatedto'] computerize
+office ['relatedto'] software ['hasa', 'relatedto', 'atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] basket ['atlocation'] store ['mannerof'] computerize
+office ['isa', 'relatedto', 'atlocation'] building ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] calculator ['isa', 'synonym'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] carpet ['atlocation'] store ['mannerof'] computerize
+office ['atlocation'] clamp_binder ['atlocation'] store ['mannerof'] computerize
+office ['atlocation'] client ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] client ['relatedto'] system ['relatedto'] computerize
+office ['atlocation'] clock ['atlocation'] store ['mannerof'] computerize
+office ['relatedto', 'atlocation'] computers ['formof'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] directory ['relatedto'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] directory ['relatedto'] store ['mannerof'] computerize
+office ['atlocation'] electric_fan ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] file ['relatedto', 'atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] file ['relatedto'] enter ['relatedto'] computerize
+office ['atlocation'] file ['usedfor'] store ['mannerof'] computerize
+office ['atlocation'] file ['hasa', 'relatedto'] data ['relatedto'] computerize
+office ['atlocation'] keyboard ['relatedto'] manual ['relatedto'] computerize
+office ['atlocation'] keyboard ['hasa', 'relatedto', 'partof'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] keyboard ['relatedto'] enter ['relatedto'] computerize
+office ['atlocation'] label_maker ['atlocation'] store ['mannerof'] computerize
+office ['atlocation'] lamp ['atlocation'] store ['mannerof'] computerize
+office ['atlocation'] machine ['relatedto'] manual ['relatedto'] computerize
+office ['atlocation'] machine ['isa', 'relatedto', 'hasproperty'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] machine ['usedfor'] function ['relatedto'] computerize
+office ['atlocation'] machine ['relatedto'] voice_mail ['relatedto'] computerize
+office ['atlocation'] mouse ['hasa', 'partof', 'atlocation'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] mouse ['atlocation'] store ['mannerof'] computerize
+office ['atlocation'] notebook ['isa'] computer ['relatedto', 'derivedfrom'] computerize
+office ['atlocation'] notebook ['atlocation'] store ['mannerof'] computerize
+office ['relatedto', 'partof', 'atlocation'] office_building ['atlocation'] computer ['relatedto', 'derivedfrom'] computerize

@@ -1,0 +1,100 @@
+notice ['relatedto'] tack
+notice ['relatedto'] board ['relatedto'] tack
+notice ['derivedfrom'] notice_board ['relatedto'] tack
+notice ['relatedto'] bulletin ['relatedto'] tack
+notice ['relatedto'] bulletin_board ['atlocation'] tack
+notice ['relatedto'] sheet ['synonym'] tack
+notice ['relatedto'] tacked ['formof', 'relatedto'] tack
+notice ['relatedto'] pin ['relatedto'] tack
+notice ['relatedto'] advance ['relatedto'] maneuver ['relatedto'] tack
+notice ['isa', 'relatedto'] announcement ['relatedto'] boards ['relatedto'] tack
+notice ['isa', 'relatedto'] announcement ['relatedto'] notice_board ['relatedto'] tack
+notice ['isa', 'relatedto'] announcement ['synonym'] bulletin ['relatedto'] tack
+notice ['relatedto'] post ['isa'] non_agentive_artifact ['isa'] tack
+notice ['relatedto'] post ['relatedto'] holds ['relatedto'] tack
+notice ['relatedto'] post ['relatedto'] horse ['relatedto'] tack
+notice ['relatedto'] tell ['relatedto'] fasten ['mannerof'] tack
+notice ['relatedto'] bill ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto'] bill ['relatedto'] point ['relatedto'] tack
+notice ['relatedto'] bill ['relatedto'] billboard ['relatedto'] tack
+notice ['relatedto'] board ['atlocation'] nail ['isa', 'relatedto'] tack
+notice ['relatedto'] board ['isa', 'relatedto', 'derivedfrom'] bulletin_board ['atlocation'] tack
+notice ['relatedto'] board ['derivedfrom'] notice_board ['relatedto'] tack
+notice ['relatedto'] board ['formof', 'relatedto'] boards ['relatedto'] tack
+notice ['relatedto'] board ['isa', 'relatedto'] sheet ['synonym'] tack
+notice ['relatedto'] board ['relatedto'] bulletin ['relatedto'] tack
+notice ['relatedto'] board ['relatedto'] device ['isa'] tack
+notice ['relatedto'] board ['relatedto'] equipment ['relatedto'] tack
+notice ['relatedto'] board ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto'] board ['relatedto'] tool ['isa'] tack
+notice ['relatedto'] board ['relatedto'] wall ['atlocation'] tack
+notice ['relatedto'] board ['relatedto'] sailing ['isa'] tack
+notice ['relatedto'] board ['relatedto'] windward ['relatedto'] tack
+notice ['relatedto'] board ['relatedto'] message_board ['atlocation'] tack
+notice ['relatedto'] board ['relatedto'] point ['relatedto'] tack
+notice ['relatedto'] board ['relatedto'] trip ['relatedto'] tack
+notice ['synonym'] twig ['relatedto'] small ['relatedto'] tack
+notice ['synonym'] twig ['relatedto'] beat ['relatedto'] tack
+notice ['relatedto'] keep ['mannerof'] stay ['relatedto'] tack
+notice ['relatedto', 'synonym'] note ['relatedto'] small ['relatedto'] tack
+notice ['relatedto', 'synonym'] note ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto', 'synonym'] note ['relatedto'] point ['relatedto'] tack
+notice ['relatedto', 'synonym'] note ['relatedto'] sharp ['relatedto', 'hasproperty'] tack
+notice ['relatedto'] critical ['relatedto'] sharp ['relatedto', 'hasproperty'] tack
+notice ['relatedto'] news ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto'] news ['relatedto'] beat ['relatedto'] tack
+notice ['relatedto'] news ['relatedto'] bulletin ['relatedto'] tack
+notice ['relatedto'] light ['relatedto'] board ['relatedto'] tack
+notice ['relatedto'] information ['relatedto'] bit ['relatedto'] tack
+notice ['relatedto'] information ['hasprerequisite'] change ['synonym'] tack
+notice ['relatedto'] information ['relatedto'] supplement ['relatedto'] tack
+notice ['relatedto'] knowledge ['relatedto'] course ['relatedto'] tack
+notice ['relatedto'] formal ['relatedto'] contract ['relatedto'] tack
+notice ['relatedto'] giving ['relatedto'] point ['relatedto'] tack
+notice ['relatedto'] public ['relatedto'] bulletin_board ['atlocation'] tack
+notice ['relatedto'] public ['relatedto'] message_board ['atlocation'] tack
+notice ['derivedfrom'] notice_board ['derivedfrom'] board ['relatedto'] tack
+notice ['derivedfrom'] notice_board ['relatedto'] wall ['atlocation'] tack
+notice ['derivedfrom'] notice_board ['synonym'] bulletin_board ['atlocation'] tack
+notice ['formof', 'relatedto'] notices ['relatedto'] board ['relatedto'] tack
+notice ['relatedto'] advertise ['synonym'] push ['relatedto'] tack
+notice ['relatedto'] advertisement ['usedfor', 'relatedto'] billboard ['relatedto'] tack
+notice ['relatedto'] alarm ['isa'] non_agentive_artifact ['isa'] tack
+notice ['relatedto'] alarm ['isa', 'relatedto'] device ['isa'] tack
+notice ['relatedto'] announce ['relatedto'] bulletin ['relatedto'] tack
+notice ['relatedto'] circular ['relatedto'] point ['relatedto'] tack
+notice ['relatedto'] citation ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto'] cognizance ['relatedto'] device ['isa'] tack
+notice ['relatedto'] cognovit_clause ['relatedto'] contract ['relatedto'] tack
+notice ['relatedto'] crepe ['isa'] paper ['relatedto'] tack
+notice ['relatedto'] invitation ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto'] invoice ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto', 'synonym'] mark ['mannerof'] change ['synonym'] tack
+notice ['relatedto', 'synonym'] mark ['isa', 'relatedto', 'synonym'] point ['relatedto'] tack
+notice ['relatedto', 'synonym'] mark ['synonym'] tag ['etymologicallyrelatedto'] tack
+notice ['relatedto', 'synonym'] mark ['relatedto'] baste ['synonym'] tack
+notice ['relatedto', 'synonym'] mark ['relatedto', 'synonym'] stain ['relatedto'] tack
+notice ['relatedto'] account ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto'] account ['relatedto'] holds ['relatedto'] tack
+notice ['relatedto'] alert ['relatedto'] sharp ['relatedto', 'hasproperty'] tack
+notice ['relatedto'] become ['relatedto'] small ['relatedto'] tack
+notice ['relatedto'] become ['relatedto'] change ['synonym'] tack
+notice ['relatedto'] billboards ['formof', 'relatedto'] billboard ['relatedto'] tack
+notice ['relatedto'] bulletin ['relatedto'] board ['relatedto'] tack
+notice ['relatedto'] bulletin ['derivedfrom'] bulletin_board ['atlocation'] tack
+notice ['relatedto'] bulletin_board ['isa', 'relatedto', 'derivedfrom'] board ['relatedto'] tack
+notice ['relatedto'] bulletin_board ['relatedto'] billboard ['relatedto'] tack
+notice ['relatedto'] bulletin_board ['derivedfrom'] bulletin ['relatedto'] tack
+notice ['relatedto'] bulletin_board ['formof', 'relatedto'] bulletin_boards ['relatedto'] tack
+notice ['relatedto'] bulletin_board ['relatedto'] message_board ['atlocation'] tack
+notice ['relatedto'] bulletin_board ['synonym'] notice_board ['relatedto'] tack
+notice ['relatedto'] given ['relatedto'] stay ['relatedto'] tack
+notice ['relatedto'] info ['relatedto'] bit ['relatedto'] tack
+notice ['relatedto'] inform ['mannerof'] change ['synonym'] tack
+notice ['relatedto', 'synonym'] look ['relatedto'] point ['relatedto'] tack
+notice ['relatedto', 'synonym'] message ['relatedto'] paper ['relatedto'] tack
+notice ['relatedto', 'synonym'] message ['relatedto'] wall ['atlocation'] tack
+notice ['relatedto', 'synonym'] message ['isa'] direction ['relatedto'] tack
+notice ['relatedto', 'synonym'] message ['relatedto'] bulletin_board ['atlocation'] tack
+notice ['relatedto', 'synonym'] message ['relatedto'] message_board ['atlocation'] tack
+notice ['relatedto', 'synonym'] message ['relatedto'] notice_board ['relatedto'] tack

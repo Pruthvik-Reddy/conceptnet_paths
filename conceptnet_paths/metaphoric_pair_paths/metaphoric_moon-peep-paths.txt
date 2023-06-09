@@ -1,0 +1,100 @@
+moon ['atlocation'] air ['relatedto', 'atlocation'] bird ['relatedto'] peep
+moon ['atlocation'] air ['relatedto', 'atlocation'] sound ['relatedto'] peep
+moon ['atlocation'] air ['relatedto'] see ['relatedto'] peep
+moon ['relatedto'] man ['relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] ball ['relatedto'] chick ['relatedto'] peep
+moon ['hasproperty'] beautiful ['relatedto', 'hasproperty'] voice ['relatedto'] peep
+moon ['hasproperty'] beautiful ['relatedto'] chick ['relatedto'] peep
+moon ['relatedto'] little ['relatedto'] quiet ['relatedto'] peep
+moon ['relatedto'] little ['relatedto'] chick ['relatedto'] peep
+moon ['relatedto'] small ['relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] small ['relatedto'] chick ['relatedto'] peep
+moon ['relatedto'] small ['relatedto'] glimpse ['relatedto'] peep
+moon ['relatedto'] white ['relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] bright ['relatedto'] spot ['relatedto'] peep
+moon ['relatedto'] green ['relatedto'] jeep ['relatedto'] peep
+moon ['usedfor', 'relatedto'] sky ['relatedto', 'atlocation'] bird ['relatedto'] peep
+moon ['usedfor', 'relatedto'] sky ['relatedto'] look ['mannerof', 'relatedto'] peep
+moon ['relatedto'] body ['relatedto'] die ['relatedto'] peep
+moon ['isa'] single ['relatedto'] pip ['etymologicallyrelatedto', 'relatedto', 'synonym'] peep
+moon ['isa'] single ['relatedto'] sound ['relatedto'] peep
+moon ['antonym', 'distinctfrom', 'relatedto'] sun ['usedfor'] see ['relatedto'] peep
+moon ['mannerof'] expose ['mannerof'] show ['mannerof'] peep
+moon ['relatedto'] light ['antonym', 'distinctfrom', 'relatedto'] sound ['relatedto'] peep
+moon ['relatedto'] light ['relatedto'] notice ['relatedto'] peep
+moon ['relatedto'] round ['relatedto'] utter ['mannerof'] peep
+moon ['relatedto'] round ['relatedto'] spot ['relatedto'] peep
+moon ['atlocation'] dirt ['relatedto'] spot ['relatedto'] peep
+moon ['relatedto'] ear ['relatedto'] sound ['relatedto'] peep
+moon ['relatedto'] heaven ['relatedto'] appear ['mannerof'] peep
+moon ['relatedto'] heaven ['relatedto'] die ['relatedto'] peep
+moon ['relatedto'] face ['relatedto'] die ['relatedto'] peep
+moon ['relatedto'] face ['relatedto'] see ['relatedto'] peep
+moon ['relatedto'] face ['relatedto'] domino ['relatedto'] peep
+moon ['relatedto'] face ['synonym'] look ['mannerof', 'relatedto'] peep
+moon ['relatedto'] finger ['synonym'] bird ['relatedto'] peep
+moon ['relatedto'] finger ['relatedto'] quick ['relatedto'] peep
+moon ['relatedto'] silver ['relatedto'] quick ['relatedto'] peep
+moon ['relatedto'] natural ['relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] outer ['etymologicallyrelatedto', 'relatedto'] utter ['mannerof'] peep
+moon ['relatedto'] mercury ['relatedto'] quick ['relatedto'] peep
+moon ['atlocation'] sand ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] sandpiper ['relatedto'] peep
+moon ['distinctfrom', 'relatedto'] star ['relatedto'] appear ['mannerof'] peep
+moon ['isa'] place ['antonym'] show ['mannerof'] peep
+moon ['isa'] place ['relatedto'] spot ['relatedto'] peep
+moon ['isa', 'relatedto', 'synonym'] satellite ['relatedto'] bird ['relatedto'] peep
+moon ['isa', 'relatedto', 'synonym'] satellite ['usedfor'] spying ['relatedto'] peep
+moon ['relatedto'] macula ['relatedto'] spot ['relatedto'] peep
+moon ['relatedto'] made ['relatedto'] voice ['relatedto'] peep
+moon ['relatedto'] made ['relatedto'] sound ['relatedto'] peep
+moon ['relatedto'] stars ['relatedto'] pip ['etymologicallyrelatedto', 'relatedto', 'synonym'] peep
+moon ['relatedto'] fuss ['relatedto'] talk ['mannerof'] peep
+moon ['relatedto'] fuss ['relatedto'] complaint ['relatedto'] peep
+moon ['relatedto'] jest ['relatedto'] talk ['mannerof'] peep
+moon ['relatedto'] protest ['relatedto'] show ['mannerof'] peep
+moon ['relatedto'] protest ['relatedto'] talk ['mannerof'] peep
+moon ['relatedto'] protest ['relatedto'] complaint ['relatedto'] peep
+moon ['relatedto'] phoebe ['isa', 'relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] rhea ['isa', 'relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] ring ['relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] ring ['relatedto'] appear ['mannerof'] peep
+moon ['relatedto'] ring ['relatedto'] voice ['relatedto'] peep
+moon ['relatedto'] ring ['isa', 'causes', 'mannerof', 'relatedto'] sound ['relatedto'] peep
+moon ['relatedto'] wax ['relatedto'] appear ['mannerof'] peep
+moon ['relatedto'] wax ['relatedto'] look ['mannerof', 'relatedto'] peep
+moon ['usedfor'] night_vision ['relatedto'] see ['relatedto'] peep
+moon ['usedfor'] observation ['relatedto'] see ['relatedto'] peep
+moon ['usedfor'] observation ['relatedto', 'synonym'] notice ['relatedto'] peep
+moon ['usedfor'] observation ['isa'] look ['mannerof', 'relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] rest ['hasfirstsubevent', 'haslastsubevent', 'relatedto'] die ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] rest ['relatedto'] quiet ['relatedto'] peep
+moon ['relatedto'] evening ['antonym', 'relatedto'] dawn ['relatedto', 'synonym'] appear ['mannerof'] peep
+moon ['relatedto'] evening ['antonym', 'relatedto'] time ['synonym'] bird ['relatedto'] peep
+moon ['relatedto'] evening ['antonym', 'relatedto'] time ['relatedto'] pip ['etymologicallyrelatedto', 'relatedto', 'synonym'] peep
+moon ['relatedto'] evening ['antonym', 'relatedto'] time ['relatedto'] see ['relatedto'] peep
+moon ['relatedto'] evening ['formof', 'etymologicallyrelatedto', 'relatedto', 'synonym'] even ['relatedto'] sound ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] bar ['relatedto'] candy ['isa', 'relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] bar ['relatedto'] spot ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] concert ['isa', 'relatedto'] show ['mannerof'] peep
+moon ['relatedto'] evening ['relatedto'] date ['relatedto'] see ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] division ['instanceof'] jeep ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] duck ['relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] duck ['relatedto'] chick ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] fall ['mannerof', 'motivatedbygoal', 'relatedto', 'synonym'] die ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] five ['relatedto'] sound ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] follow ['synonym'] see ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] increment ['relatedto'] pip ['etymologicallyrelatedto', 'relatedto', 'synonym'] peep
+moon ['relatedto'] evening ['relatedto'] light ['antonym', 'distinctfrom', 'relatedto'] sound ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] light ['relatedto'] notice ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] little ['relatedto'] quiet ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] little ['relatedto'] chick ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] moment ['relatedto'] look ['mannerof', 'relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] moment ['relatedto'] glance ['isa'] peep
+moon ['relatedto'] evening ['relatedto'] moment ['relatedto'] quick ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] nine ['relatedto'] pip ['etymologicallyrelatedto', 'relatedto', 'synonym'] peep
+moon ['relatedto'] evening ['relatedto'] outside ['relatedto'] bird ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] outside ['relatedto'] utter ['mannerof'] peep
+moon ['relatedto'] evening ['relatedto'] part ['synonym'] voice ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] post ['relatedto'] chick ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] post ['relatedto'] notice ['relatedto'] peep
+moon ['relatedto'] evening ['relatedto'] shade ['antonym', 'relatedto'] spot ['relatedto'] peep

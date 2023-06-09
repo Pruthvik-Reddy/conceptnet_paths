@@ -1,0 +1,100 @@
+balloon ['mannerof'] reflate ['etymologicallyrelatedto'] deflate
+balloon ['relatedto'] ballonet ['relatedto'] deflate
+balloon ['relatedto', 'synonym'] inflate ['antonym', 'relatedto'] deflate
+balloon ['relatedto', 'atlocation'] air ['atlocation'] helium_balloon ['capableof'] deflate
+balloon ['etymologicallyrelatedto', 'relatedto'] ball ['relatedto'] turn ['mannerof'] deflate
+balloon ['usedfor', 'atlocation'] birthday_party ['atlocation'] helium_balloon ['capableof'] deflate
+balloon ['atlocation'] circus ['atlocation'] helium_balloon ['capableof'] deflate
+balloon ['atlocation'] sky ['atlocation'] helium_balloon ['capableof'] deflate
+balloon ['isa', 'relatedto', 'partof'] envelope ['relatedto'] flat ['synonym'] deflate
+balloon ['isa'] inflatable_object ['isa'] deflated ['formof', 'relatedto'] deflate
+balloon ['isa', 'synonym'] hot_air_balloon ['relatedto'] inflate ['antonym', 'relatedto'] deflate
+balloon ['mannerof', 'relatedto'] expand ['relatedto'] change ['mannerof'] deflate
+balloon ['mannerof', 'relatedto'] expand ['antonym'] compress ['relatedto'] deflate
+balloon ['mannerof', 'relatedto'] expand ['antonym'] reduce ['mannerof', 'relatedto'] deflate
+balloon ['mannerof', 'relatedto'] expand ['antonym'] shrink ['relatedto'] deflate
+balloon ['mannerof', 'relatedto'] expand ['mannerof', 'synonym'] inflate ['antonym', 'relatedto'] deflate
+balloon ['usedfor', 'mannerof'] fly ['mannerof'] change ['mannerof'] deflate
+balloon ['usedfor', 'mannerof'] fly ['usedfor'] helium_balloon ['capableof'] deflate
+balloon ['mannerof'] reflate ['mannerof'] change ['mannerof'] deflate
+balloon ['mannerof'] reflate ['etymologicallyrelatedto', 'mannerof', 'relatedto'] inflate ['antonym', 'relatedto'] deflate
+balloon ['relatedto'] ballonet ['relatedto'] inflate ['antonym', 'relatedto'] deflate
+balloon ['relatedto'] blow ['relatedto', 'synonym'] inflate ['antonym', 'relatedto'] deflate
+balloon ['relatedto'] bubble ['relatedto'] flat ['synonym'] deflate
+balloon ['relatedto'] bubble ['mannerof'] change ['mannerof'] deflate
+balloon ['usedfor', 'relatedto'] decoration ['usedfor'] helium_balloon ['capableof'] deflate
+balloon ['relatedto'] dirigible ['relatedto'] ballonet ['relatedto'] deflate
+balloon ['relatedto'] inflatable ['relatedto'] inflate ['antonym', 'relatedto'] deflate
+balloon ['relatedto'] inflated ['formof', 'derivedfrom'] inflate ['antonym', 'relatedto'] deflate
+balloon ['relatedto'] inflated ['antonym'] deflated ['formof', 'relatedto'] deflate
+balloon ['relatedto'] round ['antonym', 'distinctfrom'] flat ['synonym'] deflate
+balloon ['relatedto'] round ['relatedto'] change ['mannerof'] deflate
+balloon ['relatedto'] round ['relatedto', 'synonym'] turn ['mannerof'] deflate
+balloon ['relatedto'] body ['relatedto'] turn ['mannerof'] deflate
+balloon ['relatedto'] distill ['mannerof'] change ['mannerof'] deflate
+balloon ['relatedto'] figure ['relatedto'] turn ['mannerof'] deflate
+balloon ['relatedto'] increase ['antonym', 'distinctfrom'] decrease ['mannerof'] deflate
+balloon ['relatedto'] increase ['isa', 'mannerof', 'relatedto'] change ['mannerof'] deflate
+balloon ['relatedto'] increase ['antonym'] shrink ['relatedto'] deflate
+balloon ['relatedto'] increase ['antonym'] reduce ['mannerof', 'relatedto'] deflate
+balloon ['relatedto'] increase ['mannerof'] inflate ['antonym', 'relatedto'] deflate
+balloon ['relatedto'] increase ['relatedto'] price ['relatedto'] deflate
+balloon ['relatedto', 'synonym'] inflate ['mannerof'] change ['mannerof'] deflate
+balloon ['relatedto', 'synonym'] inflate ['etymologicallyrelatedto', 'mannerof', 'relatedto'] reflate ['etymologicallyrelatedto'] deflate
+balloon ['relatedto', 'synonym'] inflate ['mannerof'] reduce ['mannerof', 'relatedto'] deflate
+balloon ['relatedto', 'synonym'] inflate ['relatedto'] afflatus ['relatedto'] deflate
+balloon ['relatedto', 'synonym'] inflate ['relatedto'] ballonet ['relatedto'] deflate
+balloon ['relatedto', 'synonym'] inflate ['relatedto'] counterpulsation ['relatedto'] deflate
+balloon ['relatedto', 'synonym'] inflate ['relatedto'] deflation ['relatedto', 'derivedfrom'] deflate
+balloon ['relatedto', 'synonym'] inflate ['relatedto'] deflationary ['relatedto'] deflate
+balloon ['relatedto', 'synonym'] inflate ['relatedto'] inflationary ['relatedto'] deflate
+balloon ['relatedto'] car ['atlocation'] flat ['synonym'] deflate
+balloon ['relatedto'] car ['relatedto'] turn ['mannerof'] deflate
+balloon ['relatedto'] dope ['mannerof'] change ['mannerof'] deflate
+balloon ['relatedto'] drop ['relatedto', 'synonym'] lower ['relatedto'] deflate
+balloon ['relatedto'] drop ['isa', 'relatedto', 'synonym'] decrease ['mannerof'] deflate
+balloon ['relatedto'] drop ['mannerof'] change ['mannerof'] deflate
+balloon ['relatedto'] head ['relatedto'] flat ['synonym'] deflate
+balloon ['relatedto'] swell ['relatedto'] inflate ['antonym', 'relatedto'] deflate
+balloon ['synonym'] billow ['mannerof'] inflate ['antonym', 'relatedto'] deflate
+balloon ['usedfor'] entertaining_children ['usedfor'] helium_balloon ['capableof'] deflate
+balloon ['usedfor'] inflating ['formof', 'relatedto'] inflate ['antonym', 'relatedto'] deflate
+balloon ['desires'] child ['createdby'] birth ['isa'] change ['mannerof'] deflate
+balloon ['desires'] child ['relatedto', 'partof', 'atlocation'] family ['relatedto'] deflationary ['relatedto'] deflate
+balloon ['desires'] child ['desires'] love ['relatedto'] price ['relatedto'] deflate
+balloon ['desires'] child ['relatedto', 'hasprerequisite'] play ['synonym'] turn ['mannerof'] deflate
+balloon ['desires'] child ['isa'] changeling ['derivedfrom'] change ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] ball ['relatedto'] turn ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] age ['mannerof'] change ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] face ['mannerof', 'relatedto'] turn ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] little ['relatedto'] change ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] little ['relatedto'] reduce ['mannerof', 'relatedto'] deflate
+balloon ['desires'] child ['relatedto'] low ['formof', 'relatedto'] lower ['relatedto'] deflate
+balloon ['desires'] child ['relatedto'] low ['relatedto'] reduce ['mannerof', 'relatedto'] deflate
+balloon ['desires'] child ['relatedto'] name ['capableof'] change ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] nature ['relatedto'] turn ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] small ['relatedto'] change ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] small ['relatedto'] reduce ['mannerof', 'relatedto'] deflate
+balloon ['desires'] child ['relatedto'] item ['relatedto'] price ['relatedto'] deflate
+balloon ['desires'] child ['relatedto'] natural ['relatedto'] flat ['synonym'] deflate
+balloon ['desires'] child ['relatedto'] process ['isa'] decrease ['mannerof'] deflate
+balloon ['desires'] child ['relatedto', 'synonym'] product ['relatedto'] price ['relatedto'] deflate
+balloon ['desires'] child ['relatedto'] something ['relatedto'] price ['relatedto'] deflate
+balloon ['desires'] child ['relatedto'] container ['relatedto'] flat ['synonym'] deflate
+balloon ['desires'] child ['relatedto'] diaper ['relatedto'] change ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] game ['relatedto'] price ['relatedto'] deflate
+balloon ['desires'] child ['relatedto'] game ['relatedto'] turn ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] ground ['relatedto'] flat ['synonym'] deflate
+balloon ['desires'] child ['relatedto'] house ['isa'] flat ['synonym'] deflate
+balloon ['desires'] child ['relatedto'] house ['relatedto'] price ['relatedto'] deflate
+balloon ['desires'] child ['relatedto'] pig ['relatedto'] flat ['synonym'] deflate
+balloon ['desires'] child ['relatedto'] pocket_money ['relatedto'] change ['mannerof'] deflate
+balloon ['desires'] child ['relatedto'] wane ['mannerof', 'synonym'] decrease ['mannerof'] deflate
+balloon ['desires'] child ['usedfor'] fun ['usedfor'] helium_balloon ['capableof'] deflate
+balloon ['desires'] child ['usedfor'] playing_games ['relatedto'] turn ['mannerof'] deflate
+balloon ['relatedto'] aerostat ['relatedto'] buoyancy ['relatedto'] ballonet ['relatedto'] deflate
+balloon ['relatedto'] aerostat ['relatedto'] dirigible ['relatedto'] ballonet ['relatedto'] deflate
+balloon ['relatedto'] aerostat ['relatedto'] lift ['antonym'] lower ['relatedto'] deflate
+balloon ['relatedto'] aerostat ['relatedto'] lift ['mannerof'] change ['mannerof'] deflate
+balloon ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['distinctfrom', 'hasproperty'] flat ['synonym'] deflate
+balloon ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] flat ['synonym'] deflate

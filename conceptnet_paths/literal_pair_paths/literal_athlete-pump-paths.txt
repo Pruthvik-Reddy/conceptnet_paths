@@ -1,0 +1,100 @@
+athlete ['isa', 'relatedto'] professional ['relatedto'] palliator ['relatedto'] pump
+athlete ['relatedto'] good ['hasproperty'] inflation ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] swell ['relatedto'] pump
+athlete ['relatedto'] captain ['relatedto'] water ['relatedto'] pump
+athlete ['relatedto'] captain ['relatedto'] boat ['atlocation'] pump
+athlete ['relatedto'] fit ['relatedto'] muscle ['relatedto'] pump
+athlete ['relatedto'] fit ['relatedto'] supply ['mannerof'] pump
+athlete ['relatedto'] stale ['relatedto'] spear ['relatedto'] pump
+athlete ['capableof'] jog ['relatedto'] move ['mannerof'] pump
+athlete ['capableof'] run_marathon ['hasfirstsubevent'] move ['mannerof'] pump
+athlete ['capableof'] wash_car ['usedfor'] water ['relatedto'] pump
+athlete ['capableof'] wash_car ['usedfor'] machine ['isa'] pump
+athlete ['relatedto', 'derivedfrom'] athletic ['relatedto'] sneaker ['relatedto'] pump
+athlete ['isa', 'relatedto'] acrobat ['relatedto'] program ['relatedto'] pump
+athlete ['isa'] cyclist ['relatedto'] bicycle ['relatedto'] pump
+athlete ['isa'] diver ['atlocation'] water ['relatedto'] pump
+athlete ['isa'] diver ['relatedto', 'synonym'] plunger ['relatedto'] pump
+athlete ['isa'] hockey_player ['relatedto'] spear ['relatedto'] pump
+athlete ['isa'] runner ['relatedto'] shoe ['isa'] pump
+athlete ['isa'] runner ['relatedto'] sneaker ['relatedto'] pump
+athlete ['isa'] runner ['relatedto'] trainer ['relatedto'] pump
+athlete ['isa'] sport ['relatedto'] weightlifting ['relatedto'] pump
+athlete ['isa'] striker ['isa'] mechanical_device ['isa'] pump
+athlete ['isa'] substitute ['relatedto'] supply ['mannerof'] pump
+athlete ['isa'] swimmer ['atlocation'] water ['relatedto'] pump
+athlete ['isa'] weightlifter ['relatedto'] muscle ['relatedto'] pump
+athlete ['relatedto'] type ['relatedto'] question ['mannerof'] pump
+athlete ['relatedto'] type ['relatedto'] boat ['atlocation'] pump
+athlete ['relatedto'] type ['relatedto'] blood ['relatedto'] pump
+athlete ['relatedto'] type ['relatedto'] channel ['relatedto'] pump
+athlete ['relatedto'] type ['relatedto'] piston ['relatedto'] pump
+athlete ['relatedto'] bruiser ['relatedto'] machine ['isa'] pump
+athlete ['relatedto'] carbohydrate_loading ['relatedto'] muscle ['relatedto'] pump
+athlete ['relatedto'] conditioner ['relatedto'] machine ['isa'] pump
+athlete ['relatedto'] hang_time ['relatedto'] air ['relatedto'] pump
+athlete ['relatedto'] olympic_village ['relatedto'] trainer ['relatedto'] pump
+athlete ['relatedto'] roid ['relatedto'] pumper ['relatedto', 'derivedfrom'] pump
+athlete ['relatedto'] spearcaster ['relatedto'] spear ['relatedto'] pump
+athlete ['isa'] amateur ['antonym', 'distinctfrom', 'relatedto'] professional ['relatedto'] palliator ['relatedto'] pump
+athlete ['isa'] amateur ['relatedto'] talent ['relatedto'] draw ['mannerof'] pump
+athlete ['isa'] amateur ['relatedto'] ham ['relatedto'] instep ['relatedto'] pump
+athlete ['isa', 'relatedto'] professional ['isa'] clergyman ['relatedto'] supply ['mannerof'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] batista_bomb ['relatedto'] move ['mannerof'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] complimentary ['relatedto'] paper ['relatedto'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] function ['relatedto'] extractor ['relatedto'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] function ['usedfor'] machine ['isa'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] interview ['relatedto', 'synonym'] question ['mannerof'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] judge ['relatedto'] question ['mannerof'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto', 'synonym'] master ['relatedto'] heel ['relatedto'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] organization ['isa', 'synonym'] machine ['isa'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] money ['madeof', 'relatedto'] paper ['relatedto'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] money ['relatedto'] inflation ['relatedto'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] money ['relatedto'] raise ['mannerof'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] living ['relatedto', 'hasprerequisite'] air ['relatedto'] pump
+athlete ['isa', 'relatedto'] professional ['relatedto'] name ['relatedto'] sucker ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] gain ['relatedto'] spurt ['mannerof'] pump
+athlete ['relatedto'] good ['relatedto'] act ['mannerof'] swell ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] act ['relatedto', 'synonym'] move ['mannerof'] pump
+athlete ['relatedto'] good ['hasproperty'] human ['antonym'] machine ['isa'] pump
+athlete ['relatedto'] good ['hasproperty'] human ['atlocation'] heart ['isa', 'relatedto', 'synonym'] pump
+athlete ['relatedto'] good ['hasproperty'] human ['atlocation'] boat ['atlocation'] pump
+athlete ['relatedto'] good ['hasproperty'] human ['relatedto'] blood ['relatedto'] pump
+athlete ['relatedto'] good ['hasproperty'] human ['relatedto'] muscle ['relatedto'] pump
+athlete ['relatedto'] good ['hasproperty'] agreement ['relatedto'] heel ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] man ['distinctfrom'] machine ['isa'] pump
+athlete ['relatedto'] good ['relatedto'] man ['relatedto'] blood ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] man ['relatedto'] bicycle ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] man ['relatedto'] supply ['mannerof'] pump
+athlete ['relatedto'] good ['relatedto'] please ['relatedto'] question ['mannerof'] pump
+athlete ['relatedto'] good ['relatedto'] please ['synonym'] gas ['relatedto'] pump
+athlete ['relatedto'] good ['distinctfrom'] problem ['causesdesire'] program ['relatedto'] pump
+athlete ['relatedto'] good ['distinctfrom'] problem ['isa', 'relatedto'] question ['mannerof'] pump
+athlete ['relatedto'] good ['relatedto'] apple ['relatedto'] filling ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] art ['relatedto'] draw ['mannerof'] pump
+athlete ['relatedto'] good ['relatedto'] art ['relatedto'] fill ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] reply ['antonym', 'distinctfrom', 'relatedto'] question ['mannerof'] pump
+athlete ['relatedto'] good ['relatedto'] reply ['relatedto'] message ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] reply ['relatedto'] program ['relatedto'] pump
+athlete ['relatedto'] good ['relatedto'] home ['relatedto', 'atlocation'] heart ['isa', 'relatedto', 'synonym'] pump
+athlete ['relatedto'] good ['relatedto'] home ['relatedto'] raise ['mannerof'] pump
+athlete ['relatedto'] good ['relatedto'] home ['relatedto'] move ['mannerof'] pump
+athlete ['relatedto'] good ['relatedto'] home ['relatedto'] station ['relatedto'] pump
+athlete ['relatedto'] good ['antonym'] ill ['relatedto'] filling ['relatedto'] pump
+athlete ['relatedto'] good ['antonym'] mood ['relatedto'] heart ['isa', 'relatedto', 'synonym'] pump
+athlete ['relatedto'] good ['antonym'] pain ['atlocation'] muscle ['relatedto'] pump
+athlete ['relatedto'] good ['antonym'] pain ['relatedto'] palliator ['relatedto'] pump
+athlete ['relatedto'] good ['antonym'] service ['relatedto'] machine ['isa'] pump
+athlete ['relatedto'] good ['antonym'] service ['relatedto'] program ['relatedto'] pump
+athlete ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] trouble ['synonym'] move ['mannerof'] pump
+athlete ['relatedto'] good ['capableof'] helping ['causes'] heart ['isa', 'relatedto', 'synonym'] pump
+athlete ['relatedto'] good ['causes'] eating_vegetables ['causes'] gas ['relatedto'] pump
+athlete ['relatedto'] good ['formof', 'distinctfrom', 'relatedto', 'isa'] better ['mannerof'] raise ['mannerof'] pump
+athlete ['relatedto'] good ['distinctfrom'] poison ['relatedto'] water ['relatedto'] pump
+athlete ['relatedto'] good ['distinctfrom'] poison ['synonym'] gas ['relatedto'] pump
+athlete ['relatedto'] good ['isa', 'distinctfrom', 'relatedto'] quality ['isa', 'relatedto'] air ['relatedto'] pump
+athlete ['relatedto'] good ['distinctfrom'] slice ['relatedto'] draw ['mannerof'] pump
+athlete ['relatedto'] good ['distinctfrom'] slice ['relatedto'] filling ['relatedto'] pump
+athlete ['relatedto'] good ['hasproperty'] cannabis ['relatedto'] draw ['mannerof'] pump
+athlete ['relatedto'] good ['hasproperty'] chocolate ['relatedto'] blood ['relatedto'] pump
+athlete ['relatedto'] good ['hasproperty'] exercise ['relatedto'] muscle ['relatedto'] pump

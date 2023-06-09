@@ -1,0 +1,100 @@
+man ['relatedto', 'synonym'] human ['relatedto'] swim
+man ['relatedto'] bear ['capableof'] swim
+man ['relatedto'] body ['relatedto'] swim
+man ['relatedto'] dog ['relatedto'] swim
+man ['relatedto'] arms ['relatedto'] swim
+man ['relatedto'] fish ['capableof', 'relatedto'] swim
+man ['relatedto'] legs ['relatedto'] swim
+man ['relatedto'] witch ['relatedto'] swim
+man ['relatedto'] establishment ['relatedto'] school ['mannerof'] swim
+man ['relatedto'] presence ['relatedto'] activity ['relatedto'] swim
+man ['relatedto'] presence ['relatedto'] part ['relatedto'] swim
+man ['relatedto'] presence ['synonym'] front ['relatedto'] swim
+man ['relatedto'] child ['relatedto', 'atlocation'] school ['mannerof'] swim
+man ['relatedto'] child ['capableof', 'desires'] learn ['relatedto'] swim
+man ['relatedto'] child ['relatedto'] human ['relatedto'] swim
+man ['relatedto'] child ['relatedto'] natural ['relatedto'] swim
+man ['relatedto'] child ['relatedto'] lap ['relatedto'] swim
+man ['relatedto'] child ['usedfor'] fun ['motivatedbygoal', 'relatedto'] swim
+man ['antonym', 'isa', 'relatedto'] adult ['relatedto'] human ['relatedto'] swim
+man ['relatedto'] affair ['synonym'] action ['relatedto'] swim
+man ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] swim
+man ['relatedto'] affair ['synonym'] thing ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto', 'atlocation'] arm ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['atlocation'] motion ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['atlocation'] pool ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['atlocation'] school ['mannerof'] swim
+man ['relatedto', 'synonym'] human ['atlocation'] suit ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['atlocation'] swimming_pool ['usedfor', 'derivedfrom'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] body ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] crawl ['mannerof', 'relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] dog ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] legs ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] race ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] type ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] run ['relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] sound ['etymologicallyrelatedto', 'relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] walk ['antonym', 'relatedto'] swim
+man ['relatedto', 'synonym'] human ['relatedto'] walking ['relatedto'] swim
+man ['relatedto'] old ['relatedto'] dog ['relatedto'] swim
+man ['relatedto'] agent ['relatedto'] action ['relatedto'] swim
+man ['relatedto'] agent ['relatedto'] transport ['relatedto'] swim
+man ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] swim
+man ['relatedto'] fire ['antonym'] wet ['relatedto'] swim
+man ['relatedto'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['causesdesire'] swim
+man ['relatedto'] fire ['relatedto', 'hasproperty'] hot ['motivatedbygoal'] swim
+man ['relatedto'] fire ['relatedto'] natural ['relatedto'] swim
+man ['relatedto'] fire ['relatedto'] tread ['relatedto'] swim
+man ['relatedto'] alien ['antonym', 'distinctfrom'] human ['relatedto'] swim
+man ['relatedto'] alive ['relatedto'] action ['relatedto'] swim
+man ['relatedto'] alive ['relatedto'] activity ['relatedto'] swim
+man ['relatedto'] alive ['relatedto'] human ['relatedto'] swim
+man ['relatedto'] alive ['hasproperty'] dog ['relatedto'] swim
+man ['relatedto'] alive ['relatedto'] motion ['relatedto'] swim
+man ['relatedto'] alive ['relatedto'] body ['relatedto'] swim
+man ['relatedto'] alive ['relatedto'] kicking ['relatedto'] swim
+man ['relatedto'] andro ['relatedto'] human ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] bear ['capableof'] swim
+man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] fish ['capableof', 'relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] turtle ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] body ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] dog ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] legs ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] movement ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] related ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] thing ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] type ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] back ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] fly ['antonym'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] frog ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] hot ['motivatedbygoal'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] move ['relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['relatedto'] shark ['capableof', 'relatedto'] swim
+man ['antonym', 'distinctfrom'] animal ['usedfor'] race ['relatedto'] swim
+man ['relatedto'] bird ['antonym'] human ['relatedto'] swim
+man ['relatedto'] bird ['antonym'] fish ['capableof', 'relatedto'] swim
+man ['relatedto'] bird ['atlocation'] sea ['usedfor'] swim
+man ['relatedto'] bird ['capableof', 'relatedto', 'desires'] fly ['antonym'] swim
+man ['relatedto'] bird ['relatedto'] flying ['antonym'] swim
+man ['relatedto'] bird ['relatedto'] type ['relatedto'] swim
+man ['relatedto'] bird ['relatedto'] natural ['relatedto'] swim
+man ['relatedto'] bird ['relatedto'] sound ['etymologicallyrelatedto', 'relatedto'] swim
+man ['relatedto'] bird ['relatedto'] tread ['relatedto'] swim
+man ['antonym', 'relatedto'] baby ['relatedto'] human ['relatedto'] swim
+man ['antonym', 'relatedto'] baby ['relatedto'] arms ['relatedto'] swim
+man ['antonym', 'relatedto'] baby ['relatedto'] legs ['relatedto'] swim
+man ['antonym', 'relatedto'] baby ['relatedto'] dog ['relatedto'] swim
+man ['antonym', 'relatedto'] baby ['relatedto'] walking ['relatedto'] swim
+man ['antonym', 'relatedto'] baby ['relatedto'] bear ['capableof'] swim
+man ['antonym', 'relatedto'] baby ['relatedto'] crawl ['mannerof', 'relatedto'] swim
+man ['antonym', 'relatedto'] baby ['relatedto'] sound ['etymologicallyrelatedto', 'relatedto'] swim
+man ['antonym'] dress ['capableof'] action ['relatedto'] swim
+man ['antonym'] dress ['relatedto'] activity ['relatedto'] swim
+man ['antonym'] dress ['relatedto'] arm ['relatedto'] swim
+man ['antonym'] dress ['relatedto'] body ['relatedto'] swim
+man ['antonym'] dress ['relatedto'] first ['relatedto'] swim
+man ['antonym'] dress ['antonym'] nude ['derivedfrom'] swim
+man ['antonym'] dress ['antonym'] suit ['relatedto'] swim
+man ['antonym'] dress ['relatedto'] legs ['relatedto'] swim
+man ['antonym'] dress ['relatedto'] oneself ['relatedto'] swim

@@ -1,0 +1,100 @@
+wall ['relatedto'] drum ['relatedto'] brush
+wall ['relatedto', 'atlocation'] paint ['antonym', 'usedfor', 'relatedto'] brush
+wall ['relatedto'] water ['atlocation'] wisp ['relatedto'] brush
+wall ['relatedto'] water ['relatedto'] lead ['relatedto'] brush
+wall ['relatedto'] water ['relatedto'] paint ['antonym', 'usedfor', 'relatedto'] brush
+wall ['relatedto'] water ['relatedto'] paste ['relatedto'] brush
+wall ['relatedto'] water ['relatedto'] stroke ['relatedto'] brush
+wall ['relatedto'] one ['relatedto'] card ['relatedto'] brush
+wall ['relatedto'] one ['relatedto'] similar ['relatedto'] brush
+wall ['relatedto'] one ['relatedto'] tail ['isa', 'relatedto', 'synonym'] brush
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] garage ['atlocation'] brush
+wall ['relatedto', 'partof', 'atlocation'] house ['atlocation'] hairbrush ['isa', 'relatedto', 'derivedfrom'] brush
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] card ['relatedto'] brush
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] fox ['relatedto'] brush
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] casino ['relatedto'] brush
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] move ['mannerof'] brush
+wall ['relatedto', 'partof', 'atlocation'] house ['relatedto'] paint ['antonym', 'usedfor', 'relatedto'] brush
+wall ['relatedto'] art ['atlocation'] fox ['relatedto'] brush
+wall ['relatedto'] art ['isa', 'usedfor', 'relatedto'] painting ['usedfor', 'relatedto', 'hasprerequisite'] brush
+wall ['relatedto'] art ['relatedto'] brushes ['formof', 'relatedto'] brush
+wall ['relatedto'] art ['relatedto'] paint ['antonym', 'usedfor', 'relatedto'] brush
+wall ['relatedto'] art ['relatedto'] paintbrush ['isa', 'relatedto', 'derivedfrom'] brush
+wall ['relatedto'] art ['relatedto'] painter ['relatedto'] brush
+wall ['relatedto'] art ['relatedto'] impressionism ['relatedto'] brush
+wall ['relatedto'] defend ['synonym', 'entails'] fight ['isa'] brush
+wall ['relatedto'] defend ['relatedto'] cover ['mannerof'] brush
+wall ['relatedto'] spring ['relatedto'] action ['synonym'] brush
+wall ['relatedto'] spring ['relatedto'] vegetation ['isa', 'relatedto'] brush
+wall ['relatedto'] home ['atlocation'] garage ['atlocation'] brush
+wall ['relatedto'] home ['relatedto'] drum ['relatedto'] brush
+wall ['relatedto'] home ['relatedto'] similar ['relatedto'] brush
+wall ['relatedto'] home ['relatedto'] move ['mannerof'] brush
+wall ['relatedto'] home ['relatedto'] paint ['antonym', 'usedfor', 'relatedto'] brush
+wall ['etymologicallyrelatedto', 'relatedto'] well ['relatedto'] card ['relatedto'] brush
+wall ['relatedto'] hang ['relatedto'] action ['synonym'] brush
+wall ['relatedto'] hang ['relatedto'] apply ['relatedto'] brush
+wall ['relatedto'] hang ['relatedto'] painting ['usedfor', 'relatedto', 'hasprerequisite'] brush
+wall ['isa'] attic ['atlocation'] painting ['usedfor', 'relatedto', 'hasprerequisite'] brush
+wall ['relatedto'] drum ['relatedto'] tip ['relatedto'] brush
+wall ['relatedto'] bed ['relatedto'] cover ['mannerof'] brush
+wall ['relatedto'] bed ['atlocation'] hair ['relatedto', 'atlocation'] brush
+wall ['relatedto'] bed ['relatedto'] tool ['relatedto'] brush
+wall ['relatedto'] bed ['relatedto'] utensil ['relatedto'] brush
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto'] cover ['mannerof'] brush
+wall ['antonym', 'isa', 'relatedto'] floor ['derivedfrom'] floorperson ['relatedto'] brush
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto'] broom ['relatedto'] brush
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto'] brusher ['relatedto', 'derivedfrom'] brush
+wall ['antonym', 'isa', 'relatedto'] floor ['relatedto'] deckscrub ['relatedto'] brush
+wall ['relatedto', 'partof', 'atlocation'] room ['atlocation'] cover ['mannerof'] brush
+wall ['relatedto', 'partof', 'atlocation'] room ['atlocation'] hairbrush ['isa', 'relatedto', 'derivedfrom'] brush
+wall ['relatedto', 'partof', 'atlocation'] room ['isa'] garage ['atlocation'] brush
+wall ['relatedto', 'partof', 'atlocation'] room ['usedfor', 'relatedto'] paint ['antonym', 'usedfor', 'relatedto'] brush
+wall ['relatedto'] board ['relatedto'] cover ['mannerof'] brush
+wall ['relatedto'] board ['relatedto'] tool ['relatedto'] brush
+wall ['relatedto'] board ['relatedto'] move ['mannerof'] brush
+wall ['relatedto'] head ['mannerof', 'relatedto'] remove ['mannerof', 'relatedto'] brush
+wall ['relatedto'] head ['antonym', 'relatedto'] tail ['isa', 'relatedto', 'synonym'] brush
+wall ['relatedto'] head ['antonym'] rub ['mannerof'] brush
+wall ['relatedto'] head ['relatedto', 'partof', 'atlocation'] hair ['relatedto', 'atlocation'] brush
+wall ['relatedto'] head ['relatedto'] kabuki_brush ['relatedto'] brush
+wall ['relatedto'] head ['relatedto'] stroke ['relatedto'] brush
+wall ['relatedto'] head ['synonym'] lead ['relatedto'] brush
+wall ['relatedto'] boil ['relatedto'] action ['synonym'] brush
+wall ['relatedto'] respond ['relatedto'] action ['synonym'] brush
+wall ['relatedto'] town ['atlocation'] garage ['atlocation'] brush
+wall ['relatedto'] flat ['relatedto'] card ['relatedto'] brush
+wall ['relatedto'] ceiling ['usedfor'] cover ['mannerof'] brush
+wall ['relatedto'] ceiling ['usedfor'] painting ['usedfor', 'relatedto', 'hasprerequisite'] brush
+wall ['atlocation'] prison ['relatedto'] pen ['relatedto'] brush
+wall ['relatedto'] climb ['relatedto'] action ['synonym'] brush
+wall ['relatedto'] climb ['mannerof', 'relatedto'] move ['mannerof'] brush
+wall ['relatedto'] climb ['relatedto'] reach ['relatedto'] brush
+wall ['relatedto'] division ['relatedto'] action ['synonym'] brush
+wall ['relatedto'] division ['relatedto'] remove ['mannerof', 'relatedto'] brush
+wall ['relatedto'] divide ['relatedto'] action ['synonym'] brush
+wall ['antonym', 'relatedto', 'atlocation'] corner ['relatedto'] handle ['partof'] brush
+wall ['antonym'] dance ['relatedto'] action ['synonym'] brush
+wall ['antonym'] dance ['mannerof', 'relatedto'] move ['mannerof'] brush
+wall ['antonym'] dance ['relatedto'] fox ['relatedto'] brush
+wall ['antonym'] dance ['relatedto'] garage ['atlocation'] brush
+wall ['antonym', 'relatedto', 'atlocation'] door ['hasa', 'relatedto', 'partof', 'atlocation'] handle ['partof'] brush
+wall ['antonym', 'relatedto'] glass ['relatedto'] cover ['mannerof'] brush
+wall ['antonym', 'relatedto'] glass ['hasproperty'] clean ['mannerof', 'relatedto'] brush
+wall ['antonym', 'relatedto'] glass ['relatedto'] paste ['relatedto'] brush
+wall ['antonym', 'relatedto'] glass ['relatedto'] implement ['isa', 'relatedto'] brush
+wall ['antonym', 'relatedto'] glass ['relatedto'] utensil ['relatedto'] brush
+wall ['antonym', 'isa', 'relatedto', 'atlocation'] window ['atlocation'] garage ['atlocation'] brush
+wall ['relatedto', 'atlocation'] clock ['relatedto'] stroke ['relatedto'] brush
+wall ['atlocation'] connection ['isa'] contact ['isa'] brush
+wall ['atlocation'] connection ['isa', 'relatedto'] slip_ring ['relatedto'] brush
+wall ['atlocation'] hole ['relatedto'] brusher ['relatedto', 'derivedfrom'] brush
+wall ['atlocation'] lath ['relatedto'] cover ['mannerof'] brush
+wall ['atlocation'] mirror ['hasprerequisite'] grooming ['relatedto', 'hasprerequisite'] brush
+wall ['relatedto', 'atlocation'] mural ['isa', 'relatedto'] painting ['usedfor', 'relatedto', 'hasprerequisite'] brush
+wall ['relatedto', 'atlocation'] paint ['relatedto'] action ['synonym'] brush
+wall ['relatedto', 'atlocation'] paint ['relatedto'] apply ['relatedto'] brush
+wall ['relatedto', 'atlocation'] paint ['mannerof', 'relatedto'] cover ['mannerof'] brush
+wall ['relatedto', 'atlocation'] paint ['relatedto'] paste ['relatedto'] brush
+wall ['relatedto', 'atlocation'] paint ['atlocation'] garage ['atlocation'] brush
+wall ['relatedto', 'atlocation'] paint ['capableof', 'relatedto', 'derivedfrom'] painter ['relatedto'] brush

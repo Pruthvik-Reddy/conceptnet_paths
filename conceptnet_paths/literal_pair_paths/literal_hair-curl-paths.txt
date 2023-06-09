@@ -1,0 +1,100 @@
+hair ['relatedto'] curl
+hair ['atlocation'] arm ['relatedto'] curl
+hair ['relatedto'] leg ['relatedto'] curl
+hair ['relatedto'] kink ['relatedto', 'synonym'] curl
+hair ['isa'] lock ['relatedto', 'synonym'] curl
+hair ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+hair ['relatedto'] curler ['relatedto', 'derivedfrom'] curl
+hair ['relatedto'] curling_iron ['derivedfrom'] curl
+hair ['relatedto'] curlpaper ['relatedto', 'derivedfrom'] curl
+hair ['relatedto'] frisette ['relatedto'] curl
+hair ['relatedto'] frisure ['relatedto'] curl
+hair ['relatedto'] frizette ['relatedto'] curl
+hair ['relatedto'] frizz ['relatedto'] curl
+hair ['relatedto'] kiss_curl ['relatedto'] curl
+hair ['relatedto'] toupee ['relatedto'] curl
+hair ['relatedto'] tress ['relatedto'] curl
+hair ['usedfor'] coil ['relatedto', 'synonym'] curl
+hair ['relatedto'] age ['relatedto'] rock ['relatedto'] curl
+hair ['relatedto', 'partof'] human ['relatedto', 'atlocation'] arm ['relatedto'] curl
+hair ['relatedto', 'partof'] human ['relatedto'] leg ['relatedto'] curl
+hair ['atlocation'] arm ['relatedto', 'partof'] wrist ['relatedto'] curl
+hair ['atlocation'] arm ['antonym', 'distinctfrom', 'relatedto'] leg ['relatedto'] curl
+hair ['atlocation'] arm ['relatedto'] extension ['antonym'] curl
+hair ['atlocation'] arm ['relatedto'] deflex ['relatedto'] curl
+hair ['atlocation'] arm ['relatedto'] huddle ['relatedto'] curl
+hair ['atlocation'] arm ['usedfor', 'relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+hair ['relatedto'] leg ['antonym', 'distinctfrom', 'relatedto'] arm ['relatedto'] curl
+hair ['relatedto'] leg ['etymologicallyrelatedto'] leg_curl ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] curl
+hair ['relatedto'] leg ['relatedto'] huddle ['relatedto'] curl
+hair ['relatedto'] leg ['relatedto'] curve ['relatedto', 'synonym'] curl
+hair ['relatedto'] back ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+hair ['relatedto'] bald ['relatedto'] toupee ['relatedto'] curl
+hair ['atlocation'] bed ['relatedto'] tuck ['relatedto'] curl
+hair ['atlocation'] food ['relatedto'] tuck ['relatedto'] curl
+hair ['relatedto'] body ['relatedto', 'partof'] arm ['relatedto'] curl
+hair ['relatedto'] body ['relatedto', 'partof', 'atlocation'] leg ['relatedto'] curl
+hair ['relatedto'] body ['relatedto'] exercise ['relatedto'] curl
+hair ['relatedto'] body ['relatedto'] extension ['antonym'] curl
+hair ['relatedto'] body ['relatedto'] flex ['entails'] curl
+hair ['relatedto'] body ['relatedto'] staple ['relatedto'] curl
+hair ['relatedto'] body ['relatedto'] twist ['mannerof', 'relatedto'] curl
+hair ['relatedto', 'partof', 'atlocation'] head ['relatedto'] biceps ['relatedto'] curl
+hair ['relatedto', 'atlocation'] skin ['relatedto'] leg ['relatedto'] curl
+hair ['relatedto'] bottle ['relatedto'] twist ['mannerof', 'relatedto'] curl
+hair ['relatedto'] boy ['relatedto'] play ['mannerof'] curl
+hair ['relatedto'] girl ['relatedto'] twist ['mannerof', 'relatedto'] curl
+hair ['relatedto', 'partof'] root ['isa'] software ['isa'] curl
+hair ['relatedto'] hold ['usedfor', 'relatedto'] leg ['relatedto'] curl
+hair ['relatedto'] hold ['mannerof'] lock ['relatedto', 'synonym'] curl
+hair ['relatedto'] hold ['relatedto'] crimp ['mannerof'] curl
+hair ['relatedto'] hold ['relatedto'] spin ['relatedto'] curl
+hair ['hasproperty'] thin ['relatedto'] kink ['relatedto', 'synonym'] curl
+hair ['relatedto'] cast ['relatedto'] play ['mannerof'] curl
+hair ['relatedto'] cast ['relatedto'] twist ['mannerof', 'relatedto'] curl
+hair ['madeof', 'relatedto'] dog ['desires'] play ['mannerof'] curl
+hair ['relatedto'] permanent ['relatedto'] curled ['formof', 'relatedto', 'derivedfrom'] curl
+hair ['relatedto'] permanent ['relatedto'] curls ['formof', 'relatedto'] curl
+hair ['relatedto'] permanent ['relatedto'] curly ['relatedto', 'derivedfrom'] curl
+hair ['relatedto'] permanent ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+hair ['relatedto'] permanent ['relatedto'] curliness ['derivedfrom'] curl
+hair ['relatedto'] fair ['relatedto'] play ['mannerof'] curl
+hair ['relatedto'] fair ['relatedto'] roller ['relatedto'] curl
+hair ['relatedto'] condition ['capableof'] exercise ['relatedto'] curl
+hair ['relatedto'] condition ['isa'] frizz ['relatedto'] curl
+hair ['relatedto'] condition ['relatedto'] spin ['relatedto'] curl
+hair ['relatedto'] silk ['relatedto'] frizette ['relatedto'] curl
+hair ['relatedto'] wool ['isa', 'relatedto'] staple ['relatedto'] curl
+hair ['relatedto'] wool ['relatedto'] rock ['relatedto'] curl
+hair ['relatedto'] wool ['relatedto'] curls ['formof', 'relatedto'] curl
+hair ['relatedto'] wool ['relatedto'] curly ['relatedto', 'derivedfrom'] curl
+hair ['hasproperty'] smooth ['hasproperty'] curve ['relatedto', 'synonym'] curl
+hair ['hasproperty'] smooth ['mannerof'] change_surface ['mannerof'] curl
+hair ['relatedto'] horse ['relatedto'] leg ['relatedto'] curl
+hair ['relatedto'] cut ['isa'] leg ['relatedto'] curl
+hair ['relatedto'] cut ['relatedto'] spin ['relatedto'] curl
+hair ['relatedto'] doll ['usedfor', 'relatedto'] play ['mannerof'] curl
+hair ['relatedto', 'partof'] part ['relatedto'] arm ['relatedto'] curl
+hair ['relatedto', 'partof'] part ['relatedto'] leg ['relatedto'] curl
+hair ['relatedto', 'partof'] part ['relatedto'] flame ['relatedto'] curl
+hair ['relatedto', 'partof'] part ['relatedto'] wave ['relatedto', 'partof', 'synonym'] curl
+hair ['relatedto'] face ['relatedto'] spin ['relatedto'] curl
+hair ['atlocation'] finger ['relatedto'] extension ['antonym'] curl
+hair ['atlocation'] finger ['relatedto'] fist ['relatedto'] curl
+hair ['atlocation'] finger ['relatedto'] play ['mannerof'] curl
+hair ['relatedto', 'partof'] mammal ['capableof'] play ['mannerof'] curl
+hair ['relatedto'] woman ['isa'] wave ['relatedto', 'partof', 'synonym'] curl
+hair ['relatedto'] woman ['relatedto'] beaucatcher ['relatedto'] curl
+hair ['relatedto'] woman ['relatedto'] frisette ['relatedto'] curl
+hair ['relatedto'] woman ['relatedto'] frizette ['relatedto'] curl
+hair ['relatedto'] woman ['relatedto'] twist ['mannerof', 'relatedto'] curl
+hair ['relatedto'] forehead ['relatedto'] frisette ['relatedto'] curl
+hair ['relatedto'] forehead ['relatedto'] kiss_curl ['relatedto'] curl
+hair ['isa'] body_part ['relatedto'] arm ['relatedto'] curl
+hair ['isa'] body_part ['relatedto'] leg ['relatedto'] curl
+hair ['relatedto'] tail ['relatedto'] extension ['antonym'] curl
+hair ['isa'] protrusion ['relatedto'] leg ['relatedto'] curl
+hair ['hasproperty'] natural ['relatedto'] rock ['relatedto'] curl
+hair ['relatedto'] kink ['synonym'] crimp ['mannerof'] curl
+hair ['relatedto'] kink ['formof', 'relatedto', 'derivedfrom'] kinked ['relatedto'] curl
+hair ['relatedto'] kink ['relatedto', 'similarto', 'synonym'] twist ['mannerof', 'relatedto'] curl

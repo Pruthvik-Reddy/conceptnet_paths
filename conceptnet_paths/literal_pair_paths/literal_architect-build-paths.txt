@@ -1,0 +1,100 @@
+architect ['relatedto'] builder ['relatedto', 'derivedfrom'] build
+architect ['createdby', 'relatedto'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+architect ['relatedto'] plan ['relatedto'] build
+architect ['relatedto', 'derivedfrom'] architecture ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] base ['synonym'] build
+architect ['relatedto'] column ['relatedto', 'atlocation'] house ['relatedto'] build
+architect ['relatedto'] column ['isa', 'relatedto'] structure ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] architecture ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] blocks ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+architect ['relatedto'] column ['relatedto'] buildings ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] cement ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] part ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] thick ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] place ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] stack ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] statue ['relatedto'] build
+architect ['relatedto'] builder ['relatedto'] construct ['relatedto', 'synonym'] build
+architect ['relatedto'] builder ['antonym'] destroyer ['antonym'] build
+architect ['relatedto'] builder ['isa', 'derivedfrom'] boatbuilder ['relatedto'] build
+architect ['relatedto'] builder ['isa', 'derivedfrom'] homebuilder ['relatedto'] build
+architect ['relatedto'] builder ['isa'] material ['usedfor', 'relatedto'] build
+architect ['relatedto'] builder ['relatedto'] bob ['relatedto'] build
+architect ['relatedto'] builder ['relatedto'] buildings ['relatedto'] build
+architect ['relatedto'] builder ['relatedto'] construction ['relatedto'] build
+architect ['relatedto'] builder ['relatedto'] making ['relatedto'] build
+architect ['isa'] creator ['relatedto'] create ['mannerof', 'relatedto', 'synonym'] build
+architect ['isa'] creator ['isa'] builder ['relatedto', 'derivedfrom'] build
+architect ['isa'] creator ['antonym'] destroyer ['antonym'] build
+architect ['isa'] creator ['relatedto'] making ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] action ['relatedto'] build
+architect ['relatedto'] design ['mannerof', 'relatedto'] create ['mannerof', 'relatedto', 'synonym'] build
+architect ['relatedto'] design ['relatedto'] break ['antonym'] build
+architect ['relatedto'] design ['relatedto'] work ['relatedto'] build
+architect ['relatedto'] design ['antonym'] destroy ['antonym', 'distinctfrom'] build
+architect ['relatedto'] design ['relatedto'] architecture ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] creating ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] fashion ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] form ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] making ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] making_something ['relatedto'] build
+architect ['relatedto'] design ['relatedto', 'synonym'] plan ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] structure ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] mosaicist ['relatedto'] build
+architect ['relatedto'] design ['relatedto'] shipwright ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['isa', 'relatedto'] house ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['usedfor', 'relatedto', 'atlocation'] board ['usedfor', 'relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] bottle ['etymologicallyrelatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto', 'hasprerequisite'] work ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] brick ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] raze ['antonym'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] castle ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto', 'synonym'] construction ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] develop ['mannerof', 'relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] part ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['isa', 'relatedto'] ruin ['antonym'] build
+architect ['createdby', 'relatedto'] building ['usedfor'] hammer ['motivatedbygoal', 'relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] material ['usedfor', 'relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] manufacture ['relatedto', 'synonym'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] nest ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['usedfor', 'atlocation'] bricks ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto', 'atlocation'] cement ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['formof', 'relatedto'] buildings ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['isa', 'relatedto'] architecture ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['isa', 'relatedto'] structure ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] bold ['etymologicallyrelatedto', 'relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] constructing ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] castellate ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] plan ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] sand ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] statue ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] timber ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['usedfor', 'relatedto'] tool ['usedfor'] build
+architect ['createdby', 'relatedto'] building ['relatedto'] vault ['relatedto'] build
+architect ['createdby', 'relatedto'] building ['synonym'] erection ['relatedto'] build
+architect ['relatedto'] plan ['relatedto'] activity ['relatedto'] build
+architect ['relatedto'] plan ['relatedto'] house ['relatedto'] build
+architect ['relatedto'] plan ['relatedto'] work ['relatedto'] build
+architect ['relatedto'] plan ['relatedto'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+architect ['relatedto'] plan ['relatedto'] structure ['relatedto'] build
+architect ['isa'] profession ['relatedto'] activity ['relatedto'] build
+architect ['isa'] profession ['relatedto'] work ['relatedto'] build
+architect ['isa'] profession ['relatedto'] builder ['relatedto', 'derivedfrom'] build
+architect ['isa'] profession ['isa'] architecture ['relatedto'] build
+architect ['isa'] profession ['relatedto'] boards ['relatedto'] build
+architect ['relatedto', 'derivedfrom'] architecture ['relatedto'] ruin ['antonym'] build
+architect ['relatedto', 'derivedfrom'] architecture ['isa', 'relatedto'] building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build
+architect ['relatedto', 'derivedfrom'] architecture ['relatedto'] structure ['relatedto'] build
+architect ['capableof'] build_house ['capableof'] bricklayer ['relatedto'] build
+architect ['isa', 'synonym'] designer ['relatedto'] fashion ['relatedto'] build
+architect ['relatedto'] architectured ['relatedto'] architecture ['relatedto'] build
+architect ['relatedto'] brutalist ['relatedto'] architecture ['relatedto'] build
+architect ['relatedto'] quantity_surveyor ['relatedto'] construction ['relatedto'] build
+architect ['relatedto'] quantity_surveyor ['relatedto'] material ['usedfor', 'relatedto'] build
+architect ['relatedto'] quantity_surveyor ['relatedto'] plan ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] base ['synonym'] establish ['mannerof', 'relatedto', 'synonym'] build
+architect ['relatedto'] column ['relatedto'] base ['isa', 'relatedto'] location ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] base ['isa', 'relatedto'] part ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] base ['relatedto'] camp ['relatedto'] build
+architect ['relatedto'] column ['relatedto'] base ['relatedto'] place ['relatedto'] build

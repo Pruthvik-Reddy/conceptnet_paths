@@ -1,0 +1,100 @@
+water ['relatedto', 'atlocation'] drain
+water ['atlocation'] underground ['relatedto'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] drain
+water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] drain
+water ['relatedto', 'atlocation'] pipe ['isa'] drain
+water ['atlocation'] sewer ['isa', 'relatedto', 'partof'] drain
+water ['relatedto', 'atlocation'] shower ['partof'] drain
+water ['relatedto', 'atlocation'] sink ['relatedto'] drain
+water ['relatedto', 'atlocation'] toilet ['partof'] drain
+water ['capableof'] circle_drain ['derivedfrom'] drain
+water ['hasa', 'relatedto'] basin ['relatedto'] drain
+water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] drain
+water ['mannerof', 'relatedto'] fill ['antonym'] drain
+water ['relatedto'] catchdrain ['relatedto'] drain
+water ['relatedto'] conduit ['relatedto'] drain
+water ['relatedto'] drainage ['derivedfrom', 'synonym'] drain
+water ['relatedto'] draincock ['derivedfrom'] drain
+water ['relatedto'] dry ['etymologicallyrelatedto'] drain
+water ['relatedto'] gutter ['relatedto'] drain
+water ['relatedto'] issue ['relatedto'] drain
+water ['relatedto'] lade ['relatedto'] drain
+water ['relatedto'] pot ['relatedto'] drain
+water ['relatedto'] soak ['relatedto'] drain
+water ['relatedto'] soy_nut ['relatedto'] drain
+water ['relatedto'] stench_trap ['relatedto'] drain
+water ['relatedto'] surf ['relatedto'] drain
+water ['relatedto'] thorough ['relatedto'] drain
+water ['relatedto'] underdrain ['relatedto'] drain
+water ['relatedto'] unplug ['relatedto'] drain
+water ['relatedto'] vault ['relatedto'] drain
+water ['relatedto'] washbasin ['relatedto'] drain
+water ['relatedto'] washbowl ['relatedto'] drain
+water ['relatedto'] water_gang ['relatedto'] drain
+water ['atlocation'] underground ['relatedto'] mole ['relatedto'] drain
+water ['atlocation'] underground ['relatedto'] sewer ['isa', 'relatedto', 'partof'] drain
+water ['atlocation'] underground ['relatedto', 'synonym'] tube ['capableof', 'isa'] drain
+water ['atlocation'] underground ['relatedto'] underdrain ['relatedto'] drain
+water ['atlocation'] underground ['relatedto'] vault ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] air ['mannerof', 'relatedto'] dry ['etymologicallyrelatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] fill ['antonym'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] pneumoencephalography ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] stench_trap ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] stop ['relatedto'] drain
+water ['antonym', 'relatedto'] earth ['relatedto'] barrow ['relatedto'] drain
+water ['antonym', 'relatedto'] earth ['relatedto'] mole ['relatedto'] drain
+water ['antonym', 'relatedto'] earth ['relatedto'] pipe ['isa'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] wick ['capableof', 'relatedto'] drain
+water ['antonym', 'relatedto'] ground ['relatedto', 'derivedfrom'] underground ['relatedto'] drain
+water ['antonym', 'relatedto'] ground ['antonym'] sewer ['isa', 'relatedto', 'partof'] drain
+water ['antonym', 'relatedto'] ground ['relatedto'] grate ['relatedto'] drain
+water ['antonym', 'relatedto'] ground ['relatedto'] mole ['relatedto'] drain
+water ['antonym', 'relatedto'] ground ['relatedto'] pot ['relatedto'] drain
+water ['antonym', 'relatedto'] ground ['relatedto'] subdrain ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] drove ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] lake ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] dry ['etymologicallyrelatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] muckland ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] seepy ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] waste ['relatedto'] drain
+water ['antonym', 'synonym'] burn ['mannerof', 'relatedto'] waste ['relatedto'] drain
+water ['antonym', 'synonym'] burn ['mannerof'] gutter ['relatedto'] drain
+water ['antonym', 'synonym'] burn ['relatedto', 'synonym'] consume ['mannerof'] drain
+water ['antonym', 'synonym'] burn ['relatedto'] fry ['relatedto'] drain
+water ['antonym', 'synonym'] burn ['relatedto'] grate ['relatedto'] drain
+water ['antonym', 'synonym'] burn ['synonym'] dry ['etymologicallyrelatedto'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['antonym'] stop ['relatedto'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['capableof', 'relatedto'] liquid ['relatedto'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['causes', 'relatedto', 'synonym'] run ['mannerof'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['isa', 'relatedto', 'derivedfrom'] overflow ['atlocation'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] diode ['similarto'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] drill ['relatedto'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] issue ['relatedto'] drain
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] gutter ['relatedto'] drain
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] dry ['etymologicallyrelatedto'] drain
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['isa', 'relatedto'] liquid ['relatedto'] drain
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['etymologicallyrelatedto', 'relatedto'] emulge ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] dry ['etymologicallyrelatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] drill ['relatedto'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] pipe ['isa'] drain
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] resource ['relatedto'] drain
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] trap ['isa'] drain
+water ['antonym', 'relatedto'] sand ['relatedto'] dry ['etymologicallyrelatedto'] drain
+water ['antonym', 'relatedto'] sand ['capableof'] flow ['relatedto'] drain
+water ['antonym', 'relatedto'] sand ['antonym'] surf ['relatedto'] drain
+water ['antonym', 'relatedto'] sky ['relatedto'] fry ['relatedto'] drain
+water ['antonym', 'relatedto'] sky ['relatedto'] vault ['relatedto'] drain
+water ['antonym', 'relatedto'] soap ['relatedto'] shower ['partof'] drain
+water ['antonym', 'relatedto'] soap ['relatedto', 'atlocation'] sink ['relatedto'] drain
+water ['antonym', 'relatedto'] soap ['capableof', 'relatedto'] liquid ['relatedto'] drain
+water ['antonym', 'relatedto'] soap ['relatedto'] tub ['relatedto'] drain
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] shower ['partof'] drain
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] waste ['relatedto'] drain
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['antonym'] dry ['etymologicallyrelatedto'] drain
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['antonym', 'distinctfrom', 'relatedto'] liquid ['relatedto'] drain
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] pot ['relatedto'] drain
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] turpentine ['relatedto'] drain
+water ['antonym', 'isa'] food ['atlocation'] hair ['atlocation'] drain
+water ['antonym', 'isa'] food ['relatedto'] pot ['relatedto'] drain
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] basin ['relatedto'] drain

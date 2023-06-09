@@ -1,0 +1,100 @@
+hill ['usedfor', 'relatedto'] climb
+hill ['relatedto'] top ['relatedto'] climb
+hill ['antonym', 'distinctfrom', 'relatedto'] mountain ['antonym', 'usedfor', 'relatedto'] climb
+hill ['relatedto'] high ['relatedto'] climb
+hill ['relatedto'] mount ['relatedto', 'synonym'] climb
+hill ['relatedto'] uphill ['relatedto'] climb
+hill ['relatedto'] walking ['relatedto'] climb
+hill ['relatedto'] rise ['isa', 'mannerof', 'relatedto', 'synonym'] climb
+hill ['relatedto'] elevation ['relatedto'] climb
+hill ['relatedto'] way ['relatedto'] climb
+hill ['formof'] hills ['relatedto'] climb
+hill ['relatedto', 'hasproperty'] steep ['relatedto'] climb
+hill ['relatedto'] herringbone ['relatedto'] climb
+hill ['relatedto'] cliff ['causesdesire'] climb
+hill ['usedfor', 'relatedto'] climbing ['formof', 'relatedto', 'hasprerequisite', 'synonym'] climb
+hill ['relatedto'] elevated ['relatedto'] climb
+hill ['relatedto'] mountains ['relatedto'] climb
+hill ['relatedto'] slope ['mannerof'] climb
+hill ['relatedto'] trees ['relatedto'] climb
+hill ['relatedto'] upward ['relatedto'] climb
+hill ['usedfor'] getting_higher ['relatedto'] climb
+hill ['relatedto'] declivity ['relatedto'] slope ['mannerof'] climb
+hill ['relatedto'] smaller ['relatedto'] branch ['relatedto'] climb
+hill ['relatedto'] smaller ['relatedto'] rock ['causesdesire', 'relatedto'] climb
+hill ['relatedto'] age ['antonym', 'relatedto'] getting ['relatedto'] climb
+hill ['relatedto'] age ['antonym', 'relatedto'] human ['relatedto'] climb
+hill ['relatedto'] age ['relatedto'] related ['antonym'] climb
+hill ['relatedto'] age ['relatedto'] rock ['causesdesire', 'relatedto'] climb
+hill ['relatedto'] age ['relatedto'] upwards ['relatedto'] climb
+hill ['relatedto'] earth ['relatedto'] human ['relatedto'] climb
+hill ['relatedto'] earth ['antonym', 'relatedto'] water ['hasprerequisite'] climb
+hill ['relatedto'] earth ['atlocation'] tree ['usedfor', 'relatedto'] climb
+hill ['relatedto'] earth ['relatedto', 'synonym'] clay ['etymologicallyrelatedto'] climb
+hill ['relatedto'] earth ['relatedto'] rock ['causesdesire', 'relatedto'] climb
+hill ['relatedto'] earth ['relatedto'] trees ['relatedto'] climb
+hill ['relatedto'] earth ['relatedto'] mountain ['antonym', 'usedfor', 'relatedto'] climb
+hill ['relatedto'] earth ['relatedto'] slide ['antonym'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['antonym', 'relatedto'] water ['hasprerequisite'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['antonym'] mountain ['antonym', 'usedfor', 'relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['antonym', 'relatedto'] slope ['mannerof'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto', 'atlocation'] feet ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['atlocation'] tree ['usedfor', 'relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto', 'atlocation'] rock ['causesdesire', 'relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto', 'atlocation'] rocks ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto', 'hasprerequisite'] walking ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['isa'] clay ['etymologicallyrelatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['mannerof'] reach ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] crawl ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] elevated ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] falling ['antonym'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] house ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] outdoor ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] walk ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] slide ['antonym'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] step ['relatedto'] climb
+hill ['antonym', 'isa', 'relatedto'] ground ['relatedto'] uphill ['relatedto'] climb
+hill ['antonym', 'relatedto'] land ['relatedto'] action ['relatedto'] climb
+hill ['antonym', 'relatedto'] land ['antonym', 'distinctfrom', 'relatedto'] water ['hasprerequisite'] climb
+hill ['antonym', 'relatedto'] land ['antonym', 'madeof', 'relatedto'] mountain ['antonym', 'usedfor', 'relatedto'] climb
+hill ['antonym', 'relatedto'] land ['haslastsubevent'] fall ['antonym'] climb
+hill ['antonym', 'relatedto'] land ['relatedto'] flood ['causesdesire'] climb
+hill ['antonym', 'relatedto'] land ['relatedto'] feet ['relatedto'] climb
+hill ['antonym', 'relatedto'] land ['relatedto'] house ['relatedto'] climb
+hill ['antonym', 'relatedto'] land ['relatedto'] rocks ['relatedto'] climb
+hill ['antonym', 'relatedto'] land ['relatedto'] board ['relatedto'] climb
+hill ['antonym', 'relatedto'] land ['relatedto'] slope ['mannerof'] climb
+hill ['relatedto'] alive ['relatedto'] action ['relatedto'] climb
+hill ['relatedto'] alive ['relatedto'] activity ['relatedto'] climb
+hill ['relatedto'] alive ['relatedto'] human ['relatedto'] climb
+hill ['relatedto'] alive ['hasproperty'] hills ['relatedto'] climb
+hill ['relatedto'] alive ['hasproperty'] tree ['usedfor', 'relatedto'] climb
+hill ['relatedto'] alive ['hasproperty'] trees ['relatedto'] climb
+hill ['relatedto'] alive ['relatedto'] motion ['relatedto'] climb
+hill ['relatedto'] alive ['relatedto'] ascension ['relatedto'] climb
+hill ['relatedto'] short ['antonym'] high ['relatedto'] climb
+hill ['relatedto'] short ['relatedto'] vertical ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] action ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] water ['hasprerequisite'] climb
+hill ['relatedto'] plant ['antonym'] rock ['causesdesire', 'relatedto'] climb
+hill ['relatedto'] plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['usedfor', 'relatedto'] climb
+hill ['relatedto'] plant ['relatedto', 'atlocation'] house ['relatedto'] climb
+hill ['relatedto'] plant ['isa'] clematis ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] bine ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] board ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] branch ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] bush_lawyer ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] climber ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] climb
+hill ['relatedto'] plant ['relatedto'] creeper ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] derris ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] guaco ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] ivy ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] kangaroo_vine ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] love ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] melluco ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] menispermaceous ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] morning_glory ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] trees ['relatedto'] climb
+hill ['relatedto'] plant ['relatedto'] ramp ['mannerof'] climb
+hill ['relatedto'] plant ['relatedto'] sport ['relatedto'] climb
+hill ['relatedto'] low ['antonym', 'distinctfrom', 'relatedto'] high ['relatedto'] climb

@@ -1,0 +1,100 @@
+image ['relatedto'] reflect
+image ['relatedto'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['etymologicallyrelatedto', 'relatedto'] reflect
+image ['relatedto'] ophthalmometer ['relatedto'] reflect
+image ['relatedto'] superreflection ['relatedto'] reflect
+image ['relatedto'] real ['antonym', 'distinctfrom'] character ['relatedto'] reflect
+image ['relatedto'] real ['relatedto'] reality_testing ['relatedto'] reflect
+image ['relatedto'] lie ['hasfirstsubevent', 'hasprerequisite'] think ['relatedto'] reflect
+image ['relatedto'] lie ['mannerof'] back ['relatedto'] reflect
+image ['relatedto'] lie ['relatedto'] surface ['relatedto'] reflect
+image ['relatedto'] plate ['madeof', 'relatedto'] glass ['relatedto'] reflect
+image ['relatedto'] plate ['relatedto'] oroheliograph ['relatedto'] reflect
+image ['relatedto'] plate ['relatedto'] surface ['relatedto'] reflect
+image ['capableof'] see ['causes', 'relatedto'] show ['mannerof'] reflect
+image ['capableof'] see ['mannerof', 'synonym'] consider ['relatedto'] reflect
+image ['capableof'] see ['mannerof'] think ['relatedto'] reflect
+image ['capableof'] see ['relatedto'] glass ['relatedto'] reflect
+image ['capableof'] see ['synonym'] follow ['relatedto'] reflect
+image ['relatedto'] seeing ['usedfor', 'relatedto', 'hasprerequisite'] light ['relatedto'] reflect
+image ['relatedto'] seeing ['relatedto'] glass ['relatedto'] reflect
+image ['relatedto'] branch ['relatedto'] coxeter_dynkin_diagram ['relatedto'] reflect
+image ['relatedto'] slide ['relatedto'] surface ['relatedto'] reflect
+image ['relatedto'] monochrome ['relatedto'] black ['relatedto'] reflect
+image ['relatedto'] colour ['antonym', 'distinctfrom', 'relatedto', 'isa'] black ['relatedto'] reflect
+image ['relatedto'] colour ['relatedto'] light ['relatedto'] reflect
+image ['relatedto'] colour ['relatedto'] reflected ['formof', 'relatedto'] reflect
+image ['relatedto'] colour ['relatedto'] reflectin ['derivedfrom'] reflect
+image ['relatedto', 'synonym'] copy ['relatedto'] follow ['relatedto'] reflect
+image ['relatedto', 'synonym'] copy ['relatedto'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+image ['relatedto'] expose ['mannerof'] show ['mannerof'] reflect
+image ['relatedto', 'similarto', 'synonym'] picture ['synonym'] show ['mannerof'] reflect
+image ['relatedto', 'similarto', 'synonym'] picture ['relatedto'] matte ['relatedto'] reflect
+image ['relatedto'] print ['relatedto'] surface ['relatedto'] reflect
+image ['synonym'] likeness ['relatedto'] show ['mannerof'] reflect
+image ['relatedto'] doll ['relatedto'] character ['relatedto'] reflect
+image ['relatedto'] doll ['relatedto'] glass ['relatedto'] reflect
+image ['synonym'] double ['relatedto'] reflection ['etymologicallyrelatedto', 'relatedto'] reflect
+image ['isa'] painting ['usedfor'] surface ['relatedto'] reflect
+image ['relatedto'] dream ['relatedto'] think ['relatedto'] reflect
+image ['relatedto'] function ['relatedto'] think ['relatedto'] reflect
+image ['synonym'] face ['antonym'] back ['relatedto'] reflect
+image ['synonym'] face ['isa', 'relatedto'] surface ['relatedto'] reflect
+image ['synonym'] face ['relatedto'] heliotrope ['relatedto'] reflect
+image ['synonym'] face ['relatedto'] pore ['relatedto'] reflect
+image ['relatedto'] flatten ['relatedto'] surface ['relatedto'] reflect
+image ['relatedto', 'synonym'] idea ['relatedto'] light ['relatedto'] reflect
+image ['relatedto', 'synonym'] idea ['relatedto'] think ['relatedto'] reflect
+image ['relatedto', 'synonym'] idea ['relatedto'] consider ['relatedto'] reflect
+image ['relatedto'] memory ['relatedto'] back ['relatedto'] reflect
+image ['relatedto'] memory ['relatedto'] think ['relatedto'] reflect
+image ['relatedto'] power ['relatedto'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+image ['relatedto'] power ['relatedto'] revert ['relatedto'] reflect
+image ['relatedto'] scan ['mannerof'] glass ['relatedto'] reflect
+image ['relatedto'] scan ['relatedto'] radar ['relatedto'] reflect
+image ['relatedto'] represent ['relatedto'] show ['mannerof'] reflect
+image ['relatedto'] shade ['relatedto'] black ['relatedto'] reflect
+image ['relatedto'] shade ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] reflect
+image ['relatedto'] shade ['relatedto'] darkness ['relatedto'] reflect
+image ['relatedto'] shade ['relatedto'] think ['relatedto'] reflect
+image ['relatedto'] shade ['relatedto'] reflection ['etymologicallyrelatedto', 'relatedto'] reflect
+image ['relatedto'] shade ['relatedto'] sunscreen ['relatedto'] reflect
+image ['relatedto'] shadow ['relatedto'] black ['relatedto'] reflect
+image ['relatedto'] shadow ['mannerof', 'relatedto'] follow ['relatedto'] reflect
+image ['relatedto'] shadow ['distinctfrom', 'relatedto', 'atlocation'] light ['relatedto'] reflect
+image ['relatedto'] shadow ['relatedto', 'synonym'] darkness ['relatedto'] reflect
+image ['relatedto'] shadow ['relatedto'] reflection ['etymologicallyrelatedto', 'relatedto'] reflect
+image ['synonym'] value ['isa', 'relatedto'] darkness ['relatedto'] reflect
+image ['synonym'] value ['relatedto'] lifestyle ['relatedto'] reflect
+image ['relatedto'] backdrop ['derivedfrom'] back ['relatedto'] reflect
+image ['relatedto'] file ['relatedto'] surface ['relatedto'] reflect
+image ['relatedto'] mirror ['isa', 'relatedto', 'synonym'] glass ['relatedto'] reflect
+image ['relatedto'] mirror ['relatedto'] reflexive ['relatedto'] reflect
+image ['relatedto'] mirror ['usedfor', 'relatedto', 'atlocation'] reflection ['etymologicallyrelatedto', 'relatedto'] reflect
+image ['relatedto'] mirror ['isa', 'atlocation'] surface ['relatedto'] reflect
+image ['relatedto'] mirror ['relatedto', 'hasproperty'] reflective ['relatedto'] reflect
+image ['relatedto'] mirror ['isa', 'relatedto', 'synonym'] looking_glass ['usedfor'] reflect
+image ['relatedto'] mirror ['relatedto'] catopter ['relatedto'] reflect
+image ['relatedto'] mirror ['relatedto'] claude_lorraine_glass ['relatedto'] reflect
+image ['relatedto'] mirror ['relatedto'] coxeter_dynkin_diagram ['relatedto'] reflect
+image ['relatedto'] mirror ['relatedto'] heliotrope ['relatedto'] reflect
+image ['relatedto'] mirror ['relatedto'] reflecting ['formof', 'relatedto'] reflect
+image ['relatedto'] mirror ['relatedto'] mirrorable ['relatedto'] reflect
+image ['relatedto'] mirror ['relatedto'] oroheliograph ['relatedto'] reflect
+image ['relatedto'] projector ['relatedto'] light ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] show ['mannerof'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] light ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] shiny ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] glass ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] reflexive ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['isa'] echo ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['usedfor', 'relatedto', 'atlocation'] mirror ['usedfor', 'mannerof', 'relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto', 'derivedfrom'] transflection ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['isa'] interreflection ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] reflecting ['formof', 'relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] reflected ['formof', 'relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] reflective ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto', 'synonym'] reflectivity ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] surface ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] reflex ['relatedto'] reflect
+image ['relatedto', 'synonym'] reflection ['relatedto'] superreflection ['relatedto'] reflect

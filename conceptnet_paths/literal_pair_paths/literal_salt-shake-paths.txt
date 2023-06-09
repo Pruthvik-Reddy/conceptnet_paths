@@ -1,0 +1,100 @@
+salt ['relatedto'] shake
+salt ['relatedto'] earth ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] shake
+salt ['antonym', 'distinctfrom', 'relatedto'] sweet ['relatedto'] shake
+salt ['relatedto', 'atlocation'] shaker ['relatedto', 'derivedfrom'] shake
+salt ['mannerof'] sprinkle ['relatedto'] shake
+salt ['relatedto'] rock ['relatedto', 'synonym'] shake
+salt ['relatedto'] reaction ['relatedto'] shake
+salt ['relatedto'] base ['isa', 'relatedto'] part ['relatedto'] shake
+salt ['relatedto'] base ['relatedto'] first ['relatedto'] shake
+salt ['relatedto'] basic ['relatedto'] drink ['relatedto'] shake
+salt ['relatedto'] basic ['relatedto'] negative ['relatedto'] shake
+salt ['relatedto'] basic ['relatedto'] vanilla ['relatedto'] shake
+salt ['relatedto'] basic ['synonym'] working ['relatedto'] shake
+salt ['relatedto'] earth ['derivedfrom'] earthquake ['relatedto'] shake
+salt ['relatedto'] earth ['relatedto'] rock ['relatedto', 'synonym'] shake
+salt ['relatedto'] earth ['relatedto'] fissure ['relatedto'] shake
+salt ['relatedto'] earth ['relatedto'] float ['relatedto'] shake
+salt ['relatedto'] earth ['relatedto'] quake ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] earth ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto', 'synonym'] shake
+salt ['relatedto', 'atlocation'] water ['antonym', 'isa'] food ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['atlocation'] blizzard ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['atlocation'] juice ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['hasproperty'] cold ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['isa', 'relatedto'] beverage ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['receivesaction'] frozen ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['relatedto'] bever ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['relatedto'] float ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['relatedto'] milkshake ['relatedto', 'synonym'] shake
+salt ['relatedto', 'atlocation'] water ['relatedto'] protein_shake ['derivedfrom'] shake
+salt ['relatedto', 'atlocation'] water ['relatedto'] rapid ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['usedfor', 'relatedto'] drinking ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['relatedto'] making ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['relatedto'] melted ['relatedto'] shake
+salt ['relatedto', 'atlocation'] water ['relatedto'] two ['relatedto'] shake
+salt ['isa', 'relatedto'] mineral ['atlocation'] earth ['relatedto'] shake
+salt ['isa', 'relatedto'] mineral ['antonym', 'relatedto'] rock ['relatedto', 'synonym'] shake
+salt ['isa', 'relatedto'] mineral ['relatedto'] physical ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['antonym', 'isa', 'relatedto'] beverage ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['antonym', 'distinctfrom', 'relatedto'] drink ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['desires'] dog ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['isa', 'relatedto'] chocolate ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['isa'] dessert ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['isa'] ice_cream ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['isa'] milkshake ['relatedto', 'synonym'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] cream ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] dairy ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] desert ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] diner ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] fast ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] fast_food ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] hand ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] milk ['relatedto'] shake
+salt ['usedfor', 'relatedto', 'atlocation'] food ['relatedto'] roll ['relatedto'] shake
+salt ['relatedto'] fish ['isa', 'relatedto', 'desires'] food ['relatedto'] shake
+salt ['relatedto'] fish ['relatedto'] cold ['relatedto'] shake
+salt ['relatedto'] fish ['relatedto'] rock ['relatedto', 'synonym'] shake
+salt ['antonym', 'distinctfrom', 'relatedto'] sweet ['relatedto'] chocolate ['relatedto'] shake
+salt ['antonym', 'distinctfrom', 'relatedto'] sweet ['relatedto'] desert ['relatedto'] shake
+salt ['antonym', 'distinctfrom', 'relatedto'] sweet ['relatedto', 'synonym'] dessert ['relatedto'] shake
+salt ['antonym'] black ['hasproperty'] dog ['relatedto'] shake
+salt ['antonym'] black ['relatedto'] cream ['relatedto'] shake
+salt ['antonym'] black ['relatedto'] milk ['relatedto'] shake
+salt ['antonym'] black ['relatedto'] change ['mannerof'] shake
+salt ['antonym'] black ['relatedto'] chocolate ['relatedto'] shake
+salt ['antonym'] black ['relatedto'] milky ['relatedto'] shake
+salt ['relatedto'] white ['isa', 'relatedto', 'hasproperty'] milk ['relatedto'] shake
+salt ['relatedto'] white ['relatedto'] cream ['relatedto'] shake
+salt ['relatedto'] white ['relatedto'] ice ['relatedto'] shake
+salt ['relatedto'] white ['relatedto'] rapid ['relatedto'] shake
+salt ['relatedto'] tasty ['relatedto'] sweet ['relatedto'] shake
+salt ['relatedto'] tasty ['relatedto'] violent ['relatedto'] shake
+salt ['relatedto'] dinner ['relatedto'] food ['relatedto'] shake
+salt ['relatedto'] dinner ['relatedto'] desert ['relatedto'] shake
+salt ['relatedto'] dinner ['relatedto'] roll ['relatedto'] shake
+salt ['relatedto'] brine ['relatedto'] food ['relatedto'] shake
+salt ['relatedto'] desalinate ['mannerof'] change ['mannerof'] shake
+salt ['relatedto'] tear ['relatedto'] part ['relatedto'] shake
+salt ['relatedto'] tear ['relatedto'] move ['mannerof', 'relatedto'] shake
+salt ['relatedto'] hall ['relatedto'] meeting ['relatedto'] shake
+salt ['relatedto'] hall ['relatedto'] part ['relatedto'] shake
+salt ['relatedto'] hall ['relatedto'] two ['relatedto'] shake
+salt ['relatedto'] sour ['antonym', 'distinctfrom', 'relatedto'] sweet ['relatedto'] shake
+salt ['relatedto'] sour ['isa'] cocktail ['relatedto'] shake
+salt ['relatedto'] sour ['relatedto'] drink ['relatedto'] shake
+salt ['relatedto'] sour ['relatedto'] juice ['relatedto'] shake
+salt ['relatedto', 'atlocation'] table ['relatedto', 'atlocation'] food ['relatedto'] shake
+salt ['relatedto', 'atlocation'] table ['atlocation'] dog ['relatedto'] shake
+salt ['relatedto', 'atlocation'] table ['atlocation'] meeting ['relatedto'] shake
+salt ['relatedto', 'atlocation'] table ['madeof', 'relatedto'] wood ['relatedto'] shake
+salt ['relatedto', 'atlocation'] table ['partof'] heading ['relatedto'] shake
+salt ['relatedto', 'atlocation'] table ['relatedto'] shaker ['relatedto', 'derivedfrom'] shake
+salt ['relatedto', 'atlocation'] table ['relatedto'] wooden ['relatedto'] shake
+salt ['relatedto'] clear ['relatedto'] action ['relatedto'] shake
+salt ['relatedto'] clear ['relatedto'] ice ['relatedto'] shake
+salt ['relatedto'] clear ['mannerof'] change ['mannerof'] shake

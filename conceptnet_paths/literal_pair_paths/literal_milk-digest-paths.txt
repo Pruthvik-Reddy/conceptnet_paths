@@ -1,0 +1,100 @@
+milk ['relatedto'] drink ['relatedto'] digest
+milk ['mannerof'] add ['relatedto'] process ['mannerof'] digest
+milk ['relatedto'] human ['capableof'] stand ['synonym'] digest
+milk ['relatedto'] human ['relatedto'] dietary_fibre ['relatedto'] digest
+milk ['relatedto'] human ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['antonym', 'hasa', 'relatedto', 'atlocation'] water ['hasa', 'relatedto', 'atlocation'] brook ['synonym'] digest
+milk ['antonym', 'hasa', 'relatedto', 'atlocation'] water ['usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] digest
+milk ['relatedto'] animal ['atlocation'] stomach ['mannerof', 'synonym'] digest
+milk ['relatedto'] animal ['desires'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['relatedto'] animal ['isa', 'relatedto'] bear ['synonym'] digest
+milk ['relatedto'] animal ['relatedto'] carnivorous_plant ['relatedto'] digest
+milk ['relatedto'] come ['mannerof'] change ['mannerof'] digest
+milk ['relatedto'] come ['relatedto'] support ['synonym'] digest
+milk ['relatedto'] baby ['relatedto'] bear ['synonym'] digest
+milk ['isa', 'relatedto'] beverage ['relatedto', 'synonym'] drink ['relatedto'] digest
+milk ['isa', 'relatedto'] beverage ['relatedto'] consume ['entails'] digest
+milk ['relatedto'] food ['antonym', 'distinctfrom', 'relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] food ['relatedto', 'atlocation'] stomach ['mannerof', 'synonym'] digest
+milk ['relatedto'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['relatedto'] food ['isa', 'relatedto'] chyme ['relatedto'] digest
+milk ['relatedto'] food ['relatedto'] digester ['relatedto'] digest
+milk ['relatedto'] food ['relatedto'] digestion ['relatedto'] digest
+milk ['relatedto'] food ['relatedto'] prebiotic ['relatedto'] digest
+milk ['relatedto'] food ['relatedto'] process ['mannerof'] digest
+milk ['relatedto'] black ['relatedto'] bear ['synonym'] digest
+milk ['relatedto'] black ['relatedto'] change ['mannerof'] digest
+milk ['isa', 'relatedto', 'hasproperty'] white ['relatedto'] bear ['synonym'] digest
+milk ['relatedto'] suck ['mannerof'] drink ['relatedto'] digest
+milk ['atlocation'] bottle ['relatedto', 'atlocation'] drink ['relatedto'] digest
+milk ['atlocation'] bottle ['relatedto'] message ['relatedto'] digest
+milk ['relatedto'] breakfast ['mannerof', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['relatedto'] cake ['usedfor', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['desires'] cat ['desires'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['relatedto'] charge ['mannerof'] change ['mannerof'] digest
+milk ['relatedto'] charge ['antonym', 'mannerof', 'relatedto'] pay ['mannerof'] digest
+milk ['relatedto'] chocolate ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] fluid ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] coffee ['antonym', 'relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] tea ['isa', 'relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] cold ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] color ['mannerof'] change ['mannerof'] digest
+milk ['relatedto'] think ['mannerof'] change ['mannerof'] digest
+milk ['relatedto'] think ['mannerof', 'hasprerequisite'] concentrate ['synonym'] digest
+milk ['relatedto'] think ['isa'] ruminate ['relatedto'] digest
+milk ['relatedto'] think ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] think ['relatedto'] read ['relatedto'] digest
+milk ['relatedto'] think ['relatedto'] process ['mannerof'] digest
+milk ['mannerof'] draw ['mannerof'] change ['mannerof'] digest
+milk ['mannerof'] draw ['mannerof'] suppurate ['relatedto'] digest
+milk ['mannerof'] draw ['relatedto'] process ['mannerof'] digest
+milk ['relatedto'] drink ['relatedto'] bear ['synonym'] digest
+milk ['relatedto'] drink ['antonym', 'distinctfrom', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['relatedto'] drink ['mannerof', 'relatedto'] consume ['entails'] digest
+milk ['relatedto'] dry ['mannerof'] change ['mannerof'] digest
+milk ['relatedto'] dry ['antonym'] drink ['relatedto'] digest
+milk ['relatedto'] drinkable ['derivedfrom'] drink ['relatedto'] digest
+milk ['relatedto'] earn ['antonym', 'relatedto'] pay ['mannerof'] digest
+milk ['relatedto'] earn ['relatedto'] brook ['synonym'] digest
+milk ['usedfor', 'relatedto'] drinking ['relatedto', 'synonym', 'derivedfrom', 'formof', 'hasprerequisite'] drink ['relatedto'] digest
+milk ['usedfor', 'relatedto'] drinking ['antonym', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['hasa'] energy ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] feed ['causes', 'relatedto', 'synonym'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['relatedto'] feed ['mannerof', 'relatedto'] consume ['entails'] digest
+milk ['relatedto'] feed ['relatedto'] process ['mannerof'] digest
+milk ['relatedto'] mammal ['isa', 'relatedto'] bear ['synonym'] digest
+milk ['relatedto'] gas ['relatedto'] condense ['synonym'] digest
+milk ['isa', 'relatedto'] liquid ['relatedto'] condense ['synonym'] digest
+milk ['isa', 'relatedto'] liquid ['isa', 'relatedto'] drink ['relatedto'] digest
+milk ['isa', 'relatedto'] liquid ['isa'] pus ['relatedto'] digest
+milk ['relatedto'] glass ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] glass ['relatedto'] telescope ['mannerof'] digest
+milk ['atlocation'] store ['relatedto'] change ['mannerof'] digest
+milk ['atlocation'] store ['relatedto'] pay ['mannerof'] digest
+milk ['antonym', 'relatedto'] cookies ['usedfor'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['antonym'] soda ['isa', 'relatedto'] drink ['relatedto'] digest
+milk ['atlocation'] market ['relatedto'] bear ['synonym'] digest
+milk ['isa'] chocolate_milk ['relatedto'] drink ['relatedto'] digest
+milk ['isa'] evaporated_milk ['isa'] concentrate ['synonym'] digest
+milk ['isa'] bodily_secretion ['isa'] pus ['relatedto'] digest
+milk ['isa'] mixture ['isa'] concentrate ['synonym'] digest
+milk ['isa'] liquid_body_substance ['isa'] pus ['relatedto'] digest
+milk ['isa'] foodstuff ['isa'] concentrate ['synonym'] digest
+milk ['relatedto'] bavaroise ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] bishop ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] bishop ['relatedto'] permit ['mannerof'] digest
+milk ['relatedto'] café_au_lait ['instanceof'] drink ['relatedto'] digest
+milk ['relatedto'] catlap ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] egg_cream ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] freshen ['mannerof'] change ['mannerof'] digest
+milk ['relatedto'] horlicks ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] kefir ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] koumiss ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] mess ['mannerof', 'relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['relatedto'] drinks ['formof', 'relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] excretion ['relatedto'] egestion ['relatedto'] digest
+milk ['relatedto'] feeding ['relatedto'] eat ['haslastsubevent', 'relatedto'] digest
+milk ['relatedto'] flavor ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] infant ['relatedto'] bear ['synonym'] digest
+milk ['relatedto'] juice ['relatedto'] drink ['relatedto'] digest
+milk ['relatedto'] juice ['relatedto'] erepsin ['relatedto'] digest

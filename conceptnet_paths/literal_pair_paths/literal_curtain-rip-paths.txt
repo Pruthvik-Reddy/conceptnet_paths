@@ -1,0 +1,100 @@
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip
+curtain ['relatedto'] separate ['relatedto'] rend ['synonym'] rip
+curtain ['relatedto'] separate ['relatedto', 'synonym'] split ['synonym'] rip
+curtain ['atlocation'] house ['relatedto'] rest ['relatedto'] rip
+curtain ['atlocation'] house ['antonym', 'relatedto'] rent ['relatedto', 'synonym'] rip
+curtain ['relatedto'] cover ['antonym'] opening ['isa'] rip
+curtain ['relatedto'] cover ['synonym'] deal ['antonym'] rip
+curtain ['relatedto'] bed ['relatedto', 'hasprerequisite'] rest ['relatedto'] rip
+curtain ['relatedto'] bed ['relatedto'] device ['relatedto'] rip
+curtain ['relatedto'] bed ['relatedto'] grave ['relatedto'] rip
+curtain ['relatedto'] death ['isa', 'relatedto'] rest ['relatedto'] rip
+curtain ['relatedto'] death ['relatedto'] dead ['relatedto'] rip
+curtain ['relatedto'] death ['relatedto'] attack ['mannerof'] rip
+curtain ['relatedto'] death ['isa', 'relatedto'] grave ['relatedto'] rip
+curtain ['isa'] book ['relatedto', 'atlocation'] information ['relatedto'] rip
+curtain ['isa'] book ['isa'] device ['relatedto'] rip
+curtain ['isa'] book ['isa'] rat ['relatedto'] rip
+curtain ['isa'] book ['isa'] riptide ['relatedto', 'derivedfrom', 'synonym'] rip
+curtain ['usedfor'] dark ['relatedto'] grave ['relatedto'] rip
+curtain ['relatedto', 'synonym'] drop ['isa', 'relatedto'] tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip
+curtain ['relatedto', 'synonym'] drop ['relatedto'] hit ['relatedto'] rip
+curtain ['atlocation'] show ['relatedto'] deal ['antonym'] rip
+curtain ['atlocation'] show ['relatedto'] opening ['isa'] rip
+curtain ['atlocation'] show ['atlocation'] horse ['relatedto'] rip
+curtain ['atlocation'] show ['relatedto'] device ['relatedto'] rip
+curtain ['atlocation'] show ['relatedto'] rent ['relatedto', 'synonym'] rip
+curtain ['relatedto'] light ['relatedto'] rest ['relatedto'] rip
+curtain ['relatedto', 'atlocation'] window ['isa', 'relatedto'] opening ['isa'] rip
+curtain ['relatedto', 'atlocation'] window ['synonym'] gap ['synonym'] rip
+curtain ['relatedto'] cloth ['receivesaction'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] cloth ['relatedto'] stitch ['antonym', 'relatedto'] rip
+curtain ['relatedto', 'synonym'] shade ['relatedto'] basket ['relatedto'] rip
+curtain ['atlocation'] movies ['relatedto', 'atlocation'] horse ['relatedto'] rip
+curtain ['atlocation'] movies ['relatedto'] dvd ['relatedto'] rip
+curtain ['isa'] window_covering ['isa'] device ['relatedto'] rip
+curtain ['relatedto'] barrage ['mannerof'] attack ['mannerof'] rip
+curtain ['relatedto'] pipe ['relatedto'] internet ['relatedto'] rip
+curtain ['relatedto'] separate ['antonym'] join ['antonym'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['antonym'] join ['antonym'] split ['synonym'] rip
+curtain ['relatedto'] separate ['antonym'] join ['relatedto'] stitch ['antonym', 'relatedto'] rip
+curtain ['relatedto'] separate ['relatedto'] abstract ['relatedto', 'synonym'] steal ['synonym'] rip
+curtain ['relatedto'] separate ['relatedto'] abstract ['relatedto'] dead ['relatedto'] rip
+curtain ['relatedto'] separate ['relatedto'] abstract ['relatedto'] information ['relatedto'] rip
+curtain ['relatedto'] separate ['relatedto'] subtract ['relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['relatedto', 'similarto'] apart ['relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['relatedto', 'similarto'] apart ['relatedto'] reave ['relatedto'] rip
+curtain ['relatedto'] separate ['relatedto', 'similarto'] apart ['relatedto'] split ['synonym'] rip
+curtain ['relatedto'] separate ['relatedto'] together ['antonym', 'distinctfrom'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['relatedto'] together ['antonym'] split ['synonym'] rip
+curtain ['relatedto'] separate ['relatedto'] together ['relatedto'] attack ['mannerof'] rip
+curtain ['relatedto'] separate ['relatedto'] together ['relatedto'] stitch ['antonym', 'relatedto'] rip
+curtain ['relatedto'] separate ['antonym'] combine ['relatedto'] stitch ['antonym', 'relatedto'] rip
+curtain ['relatedto'] separate ['antonym'] connect ['mannerof', 'relatedto'] hit ['relatedto'] rip
+curtain ['relatedto'] separate ['antonym'] connect ['relatedto'] internet ['relatedto'] rip
+curtain ['relatedto'] separate ['antonym'] group ['relatedto'] split ['synonym'] rip
+curtain ['relatedto'] separate ['derivedfrom'] separation ['isa'] tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip
+curtain ['relatedto'] separate ['derivedfrom'] separation ['relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['derivedfrom'] separation ['relatedto'] split ['synonym'] rip
+curtain ['relatedto'] separate ['derivedfrom'] separation ['relatedto'] gap ['synonym'] rip
+curtain ['relatedto'] separate ['entails'] share ['relatedto', 'synonym'] deal ['antonym'] rip
+curtain ['relatedto'] separate ['entails'] share ['isa', 'relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['entails'] share ['isa', 'relatedto'] split ['synonym'] rip
+curtain ['relatedto'] separate ['entails'] unravel ['antonym'] stitch ['antonym', 'relatedto'] rip
+curtain ['relatedto'] separate ['formof', 'relatedto'] separating ['relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['formof', 'relatedto'] separating ['isa'] split ['synonym'] rip
+curtain ['relatedto'] separate ['formof', 'relatedto'] separating ['isa'] ripping ['formof', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] avulse ['relatedto'] tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto', 'synonym'] break ['relatedto', 'synonym'] rest ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto', 'synonym'] break ['relatedto', 'synonym'] gap ['synonym'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto', 'synonym'] break ['relatedto'] hit ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto', 'synonym'] break ['relatedto', 'synonym'] split ['synonym'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto', 'synonym'] break ['relatedto'] tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto', 'synonym'] break ['relatedto'] surf ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto', 'synonym'] break ['relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto', 'synonym'] break ['relatedto'] reave ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] chip ['mannerof'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['relatedto'] tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['isa', 'relatedto'] opening ['isa'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['relatedto'] raw ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['antonym', 'relatedto'] stitch ['antonym', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['mannerof', 'relatedto'] crosscut ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['mannerof'] hit ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['relatedto', 'similarto'] split ['synonym'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['relatedto'] cd ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] cut ['relatedto'] unseam ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] detach ['relatedto'] divellicate ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] dismember ['relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] filter ['isa', 'relatedto'] device ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] gin ['relatedto'] device ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] joint ['relatedto'] stitch ['antonym', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] joint ['relatedto'] marijuana ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] partition ['relatedto'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] rail ['mannerof'] fish ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] reduce ['relatedto', 'synonym'] cut ['mannerof', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof', 'relatedto'] reduce ['relatedto'] ripper ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] rip
+curtain ['relatedto'] separate ['mannerof'] segment ['relatedto'] stitch ['antonym', 'relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] change ['hasprerequisite'] information ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] move ['distinctfrom'] rest ['relatedto'] rip
+curtain ['relatedto'] separate ['mannerof'] move ['relatedto'] attack ['mannerof'] rip

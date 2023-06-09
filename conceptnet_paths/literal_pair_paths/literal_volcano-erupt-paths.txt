@@ -1,0 +1,100 @@
+volcano ['relatedto'] erupt
+volcano ['hasproperty'] extinct ['relatedto'] erupt
+volcano ['formof', 'etymologicallyrelatedto'] volcanoe ['capableof'] erupt
+volcano ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] rift_zone ['relatedto'] erupt
+volcano ['relatedto'] erupting ['formof', 'relatedto'] erupt
+volcano ['relatedto'] active ['antonym', 'relatedto'] extinct ['relatedto'] erupt
+volcano ['relatedto'] active ['similarto'] eruptive ['relatedto', 'derivedfrom'] erupt
+volcano ['relatedto'] fire ['isa'] flare ['synonym'] erupt
+volcano ['relatedto'] fire ['relatedto'] catch ['mannerof'] erupt
+volcano ['relatedto'] fire ['relatedto'] combust ['relatedto', 'synonym'] erupt
+volcano ['relatedto'] fire ['relatedto', 'synonym'] expel ['relatedto'] erupt
+volcano ['relatedto'] fire ['synonym'] ignite ['synonym'] erupt
+volcano ['relatedto'] red ['relatedto'] efflorescence ['relatedto'] erupt
+volcano ['hasproperty'] dormant ['antonym'] extinct ['relatedto'] erupt
+volcano ['hasproperty'] dormant ['relatedto'] recrudesce ['synonym'] erupt
+volcano ['relatedto'] gas ['capableof'] explode ['mannerof'] erupt
+volcano ['hasa', 'relatedto'] crater ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] fiery ['relatedto'] ignite ['synonym'] erupt
+volcano ['madeof', 'relatedto', 'atlocation'] lava ['relatedto'] eruption ['relatedto'] erupt
+volcano ['madeof', 'relatedto', 'atlocation'] lava ['relatedto'] rift_zone ['relatedto'] erupt
+volcano ['isa', 'derivedfrom'] dormant_volcano ['relatedto'] erupted ['formof', 'relatedto'] erupt
+volcano ['isa', 'derivedfrom'] mud_volcano ['relatedto'] eruption ['relatedto'] erupt
+volcano ['isa', 'derivedfrom'] shield_volcano ['relatedto'] eruption ['relatedto'] erupt
+volcano ['isa', 'derivedfrom'] shield_volcano ['relatedto'] rift_zone ['relatedto'] erupt
+volcano ['isa', 'relatedto', 'derivedfrom'] supervolcano ['relatedto'] eruption ['relatedto'] erupt
+volcano ['formof', 'relatedto'] volcanoes ['etymologicallyrelatedto'] volcanoe ['capableof'] erupt
+volcano ['relatedto'] airfall ['relatedto'] eject ['relatedto'] erupt
+volcano ['relatedto'] ejecta ['relatedto'] eject ['relatedto'] erupt
+volcano ['relatedto'] eruption ['relatedto'] eruptive ['relatedto', 'derivedfrom'] erupt
+volcano ['relatedto'] lava_flow ['relatedto'] erupting ['formof', 'relatedto'] erupt
+volcano ['relatedto'] metavolcanic ['relatedto'] pressure ['relatedto'] erupt
+volcano ['relatedto'] mons ['relatedto'] extinct ['relatedto'] erupt
+volcano ['relatedto'] nuée_ardente ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] olympus_mons ['relatedto'] extinct ['relatedto'] erupt
+volcano ['relatedto'] pele_type ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] pipe ['relatedto'] smoker ['relatedto'] erupt
+volcano ['relatedto'] postvolcanic ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] prometheus_type ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] pyroclastic_flow ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto', 'synonym'] vent ['relatedto'] smoker ['relatedto'] erupt
+volcano ['relatedto'] volcanic_bomb ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] eruptions ['formof', 'relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] exploding ['formof', 'relatedto', 'derivedfrom'] explode ['mannerof'] erupt
+volcano ['relatedto'] hawaii ['relatedto'] rift_zone ['relatedto'] erupt
+volcano ['relatedto'] violent ['relatedto'] explode ['mannerof'] erupt
+volcano ['relatedto'] active ['relatedto'] act ['mannerof'] begin ['mannerof'] erupt
+volcano ['relatedto'] active ['antonym'] dormant ['antonym'] extinct ['relatedto'] erupt
+volcano ['relatedto'] active ['antonym'] dormant ['relatedto'] recrudesce ['synonym'] erupt
+volcano ['relatedto'] active ['antonym', 'distinctfrom'] rest ['relatedto', 'synonym'] break ['synonym'] erupt
+volcano ['relatedto'] active ['hasprerequisite'] release_energy ['haslastsubevent'] explode ['mannerof'] erupt
+volcano ['relatedto'] active ['relatedto'] penetrate ['mannerof'] break ['synonym'] erupt
+volcano ['relatedto'] active ['relatedto'] activity ['isa'] burst ['synonym'] erupt
+volcano ['relatedto'] active ['relatedto'] dance ['relatedto'] break ['synonym'] erupt
+volcano ['relatedto'] active ['relatedto'] enthusiasm ['relatedto'] combust ['relatedto', 'synonym'] erupt
+volcano ['relatedto'] active ['relatedto'] fit ['synonym'] burst ['synonym'] erupt
+volcano ['relatedto'] active ['relatedto'] listen ['entails'] catch ['mannerof'] erupt
+volcano ['relatedto'] active ['relatedto'] look ['relatedto', 'synonym'] appear ['mannerof'] erupt
+volcano ['relatedto'] active ['relatedto'] marlboro_man ['relatedto'] smoker ['relatedto'] erupt
+volcano ['relatedto'] active ['relatedto'] reflexive ['relatedto'] spontaneous ['relatedto'] erupt
+volcano ['relatedto'] active ['similarto'] open ['synonym'] appear ['mannerof'] erupt
+volcano ['relatedto'] active ['similarto'] open ['relatedto'] begin ['mannerof'] erupt
+volcano ['relatedto'] active ['similarto'] open ['relatedto'] catch ['mannerof'] erupt
+volcano ['relatedto'] active ['similarto'] open ['mannerof'] break_open ['synonym'] erupt
+volcano ['relatedto'] active ['similarto'] open ['mannerof'] change_state ['mannerof'] erupt
+volcano ['relatedto'] active ['similarto'] open ['relatedto'] dehisce ['mannerof'] erupt
+volcano ['relatedto'] active ['similarto'] eruptive ['relatedto'] eruption ['relatedto'] erupt
+volcano ['relatedto'] fire ['mannerof'] remove ['relatedto'] break ['synonym'] erupt
+volcano ['relatedto'] fire ['mannerof'] remove ['relatedto', 'synonym'] eject ['relatedto'] erupt
+volcano ['relatedto'] fire ['mannerof'] remove ['relatedto', 'synonym'] expel ['relatedto'] erupt
+volcano ['relatedto'] fire ['antonym', 'distinctfrom'] air ['hasa', 'relatedto'] pressure ['relatedto'] erupt
+volcano ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['isa'] flare ['synonym'] erupt
+volcano ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['relatedto'] begin ['mannerof'] erupt
+volcano ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] smoke ['relatedto'] break ['synonym'] erupt
+volcano ['relatedto'] fire ['antonym', 'distinctfrom', 'relatedto', 'causes', 'createdby'] smoke ['capableof', 'relatedto', 'derivedfrom'] smoker ['relatedto'] erupt
+volcano ['relatedto'] fire ['antonym', 'relatedto'] wind ['relatedto'] pressure ['relatedto'] erupt
+volcano ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite ['synonym'] erupt
+volcano ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['mannerof'] change_state ['mannerof'] erupt
+volcano ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['mannerof', 'relatedto'] flare ['synonym'] erupt
+volcano ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['relatedto', 'synonym'] combust ['relatedto', 'synonym'] erupt
+volcano ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['synonym'] conflagrate ['synonym'] erupt
+volcano ['relatedto'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['mannerof'] change_state ['mannerof'] erupt
+volcano ['relatedto'] fire ['capableof'] hurt ['relatedto'] break ['synonym'] erupt
+volcano ['relatedto'] fire ['capableof'] hurt ['mannerof'] afflict ['mannerof'] erupt
+volcano ['relatedto'] fire ['capableof'] hurt ['mannerof'] catch ['mannerof'] erupt
+volcano ['relatedto'] fire ['capableof'] kill ['synonym'] break ['synonym'] erupt
+volcano ['relatedto'] fire ['causes'] cigarette ['relatedto'] break ['synonym'] erupt
+volcano ['relatedto'] fire ['causes'] pain ['relatedto', 'synonym'] afflict ['mannerof'] erupt
+volcano ['relatedto'] fire ['causes', 'relatedto', 'usedfor'] match ['synonym'] catch ['mannerof'] erupt
+volcano ['relatedto'] fire ['causes', 'relatedto', 'usedfor'] match ['usedfor'] ignite ['synonym'] erupt
+volcano ['relatedto'] fire ['causes', 'relatedto'] spark ['relatedto'] burst ['synonym'] erupt
+volcano ['relatedto'] fire ['causes', 'relatedto'] spark ['relatedto'] ignite ['synonym'] erupt
+volcano ['relatedto'] fire ['relatedto', 'derivedfrom'] firepot ['relatedto'] ignite ['synonym'] erupt
+volcano ['relatedto'] fire ['relatedto', 'entails'] trigger ['relatedto'] catch ['mannerof'] erupt
+volcano ['relatedto'] fire ['relatedto', 'entails'] trigger ['relatedto'] ignite ['synonym'] erupt
+volcano ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze ['synonym'] burst ['synonym'] erupt
+volcano ['relatedto'] fire ['isa', 'relatedto', 'synonym'] blaze ['relatedto'] flare ['synonym'] erupt
+volcano ['relatedto'] fire ['isa', 'relatedto', 'synonym'] conflagration ['relatedto'] conflagrate ['synonym'] erupt
+volcano ['relatedto'] fire ['isa', 'relatedto'] combustion ['derivedfrom'] combust ['relatedto', 'synonym'] erupt
+volcano ['relatedto'] fire ['isa', 'relatedto'] combustion ['relatedto'] flare ['synonym'] erupt

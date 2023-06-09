@@ -1,0 +1,100 @@
+gun ['partof'] action ['relatedto'] kick
+gun ['relatedto'] bang ['synonym'] kick
+gun ['relatedto'] device ['relatedto'] kick
+gun ['usedfor'] violence ['relatedto'] kick
+gun ['partof'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['relatedto'] kick
+gun ['partof'] action ['isa'] swing ['relatedto'] kick
+gun ['partof'] action ['relatedto'] device ['relatedto'] kick
+gun ['partof'] action ['relatedto'] motion ['isa', 'relatedto'] kick
+gun ['partof'] action ['relatedto'] attack ['relatedto'] kick
+gun ['partof'] action ['relatedto'] blow ['isa'] kick
+gun ['partof'] action ['relatedto'] crawl ['relatedto'] kick
+gun ['partof'] action ['relatedto'] dance ['mannerof'] kick
+gun ['partof'] action ['relatedto'] die ['relatedto'] kick
+gun ['partof'] action ['relatedto'] fight ['relatedto'] kick
+gun ['partof'] action ['relatedto'] habit ['relatedto'] kick
+gun ['partof'] action ['relatedto'] issue ['relatedto'] kick
+gun ['partof'] action ['relatedto'] move ['relatedto', 'entails'] kick
+gun ['partof'] action ['relatedto'] pass ['relatedto'] kick
+gun ['partof'] action ['relatedto'] punch ['antonym', 'distinctfrom', 'relatedto'] kick
+gun ['partof'] action ['relatedto'] stimulation ['isa', 'relatedto'] kick
+gun ['partof'] action ['relatedto'] stroke ['relatedto'] kick
+gun ['partof'] action ['relatedto'] swim ['relatedto'] kick
+gun ['partof'] action ['relatedto'] tickle ['relatedto'] kick
+gun ['relatedto'] agent ['relatedto'] action ['relatedto'] kick
+gun ['usedfor', 'relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['relatedto'] kick
+gun ['usedfor', 'relatedto'] fire ['relatedto'] button ['relatedto'] kick
+gun ['usedfor', 'relatedto'] fire ['relatedto'] device ['relatedto'] kick
+gun ['usedfor', 'relatedto'] fire ['relatedto'] joypad ['relatedto'] kick
+gun ['usedfor', 'relatedto'] fire ['relatedto'] joystick ['relatedto'] kick
+gun ['usedfor', 'relatedto'] fire ['relatedto'] video_game ['relatedto'] kick
+gun ['usedfor', 'relatedto'] fire ['relatedto'] score ['mannerof'] kick
+gun ['usedfor', 'relatedto'] fire ['relatedto'] seat ['usedfor'] kick
+gun ['relatedto'] arm ['antonym', 'distinctfrom', 'relatedto'] leg ['relatedto'] kick
+gun ['relatedto'] arm ['antonym'] feet ['relatedto'] kick
+gun ['relatedto'] arm ['antonym', 'relatedto'] foot ['relatedto'] kick
+gun ['relatedto'] arm ['relatedto'] moving ['relatedto'] kick
+gun ['relatedto'] arm ['relatedto'] heel ['relatedto'] kick
+gun ['relatedto'] arm ['relatedto'] swim ['relatedto'] kick
+gun ['relatedto', 'atlocation'] army ['relatedto'] fighting ['relatedto'] kick
+gun ['relatedto', 'atlocation'] army ['relatedto'] attack ['relatedto'] kick
+gun ['isa'] automatic ['relatedto'] autojoin ['relatedto'] kick
+gun ['isa'] automatic ['relatedto'] habit ['relatedto'] kick
+gun ['relatedto'] stick ['relatedto'] action ['relatedto'] kick
+gun ['relatedto'] stick ['antonym'] hit ['antonym', 'mannerof', 'relatedto'] kick
+gun ['relatedto'] stick ['relatedto'] ball ['relatedto'] kick
+gun ['relatedto'] stick ['relatedto'] device ['relatedto'] kick
+gun ['relatedto'] stick ['relatedto', 'synonym'] joystick ['relatedto'] kick
+gun ['relatedto'] stick ['relatedto'] whip ['relatedto'] kick
+gun ['relatedto'] prime ['relatedto'] feet ['relatedto'] kick
+gun ['relatedto'] ballistic ['relatedto'] flight ['relatedto'] kick
+gun ['relatedto'] bang ['relatedto', 'synonym'] strike ['relatedto'] kick
+gun ['relatedto'] bang ['relatedto', 'synonym'] hit ['antonym', 'mannerof', 'relatedto'] kick
+gun ['relatedto'] bang ['synonym'] boot ['mannerof', 'relatedto', 'synonym'] kick
+gun ['relatedto'] bang ['synonym'] thrill ['relatedto'] kick
+gun ['relatedto'] big ['relatedto'] leg ['relatedto'] kick
+gun ['relatedto'] big ['relatedto'] bang ['synonym'] kick
+gun ['relatedto'] big ['relatedto'] blow ['isa'] kick
+gun ['relatedto'] big ['relatedto'] sky ['relatedto'] kick
+gun ['relatedto'] big ['relatedto'] thrill ['relatedto'] kick
+gun ['relatedto'] small ['relatedto'] rest ['relatedto'] kick
+gun ['relatedto'] small ['relatedto'] button ['relatedto'] kick
+gun ['relatedto'] small ['relatedto'] dribble ['relatedto'] kick
+gun ['relatedto'] small ['relatedto'] foot ['relatedto'] kick
+gun ['relatedto'] piece ['relatedto'] hit ['antonym', 'mannerof', 'relatedto'] kick
+gun ['relatedto'] piece ['relatedto'] move ['relatedto', 'entails'] kick
+gun ['antonym', 'relatedto'] bullet ['relatedto'] ball ['relatedto'] kick
+gun ['antonym', 'relatedto'] bullet ['relatedto'] balls ['relatedto'] kick
+gun ['antonym', 'relatedto'] bullet ['relatedto'] tip ['relatedto'] kick
+gun ['antonym'] knife ['antonym', 'distinctfrom', 'relatedto'] fork ['relatedto'] kick
+gun ['antonym'] knife ['atlocation'] pocket ['relatedto'] kick
+gun ['antonym'] knife ['usedfor'] fighting ['relatedto'] kick
+gun ['relatedto', 'atlocation'] ammunition ['relatedto'] ball ['relatedto'] kick
+gun ['atlocation'] desk ['atlocation'] feet ['relatedto'] kick
+gun ['atlocation'] desk ['atlocation'] foot ['relatedto'] kick
+gun ['atlocation'] desk ['relatedto'] seat ['usedfor'] kick
+gun ['atlocation'] drawer ['atlocation'] fork ['relatedto'] kick
+gun ['atlocation'] sporting_goods_store ['atlocation'] ball ['relatedto'] kick
+gun ['atlocation'] sporting_goods_store ['atlocation'] football ['relatedto'] kick
+gun ['atlocation'] war ['relatedto'] action ['relatedto'] kick
+gun ['atlocation'] war ['relatedto'] attack ['relatedto'] kick
+gun ['atlocation'] war ['relatedto'] die ['relatedto'] kick
+gun ['atlocation'] war ['isa', 'mannerof', 'relatedto'] fight ['relatedto'] kick
+gun ['atlocation'] war ['isa', 'madeof', 'relatedto', 'atlocation'] violence ['relatedto'] kick
+gun ['atlocation'] war ['relatedto'] fighting ['relatedto'] kick
+gun ['relatedto', 'atlocation'] projectile ['relatedto'] ball ['relatedto'] kick
+gun ['relatedto', 'atlocation'] projectile ['usedfor'] hit ['antonym', 'mannerof', 'relatedto'] kick
+gun ['relatedto', 'atlocation'] projectile ['usedfor'] strike ['relatedto'] kick
+gun ['relatedto', 'atlocation'] projectile ['relatedto'] flight ['relatedto'] kick
+gun ['relatedto', 'atlocation'] projectile ['isa'] football ['relatedto'] kick
+gun ['relatedto', 'atlocation'] projectile ['relatedto'] recoil ['relatedto', 'synonym'] kick
+gun ['capableof'] kill_people ['motivatedbygoal'] die ['relatedto'] kick
+gun ['derivedfrom'] blowgun ['derivedfrom'] blow ['isa'] kick
+gun ['derivedfrom'] coilgun ['relatedto'] accelerate ['relatedto'] kick
+gun ['derivedfrom'] footgun ['derivedfrom'] foot ['relatedto'] kick
+gun ['derivedfrom'] gunfight ['isa', 'derivedfrom'] fight ['relatedto'] kick
+gun ['formof'] gin ['relatedto'] moving ['relatedto'] kick
+gun ['formof'] gin ['relatedto'] device ['relatedto'] kick
+gun ['relatedto', 'hasproperty'] dangerous ['hasproperty'] fighting ['relatedto'] kick
+gun ['relatedto', 'hasproperty'] dangerous ['hasproperty'] violence ['relatedto'] kick
+gun ['relatedto', 'hasproperty'] dangerous ['relatedto'] fight ['relatedto'] kick

@@ -1,0 +1,100 @@
+car ['relatedto'] acceleration ['isa'] rate ['relatedto'] compare
+car ['relatedto'] acceleration ['relatedto'] go ['mannerof'] compare
+car ['atlocation'] children ['relatedto'] means ['relatedto'] compare
+car ['relatedto'] payment ['relatedto'] check ['relatedto'] compare
+car ['hasproperty'] red ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] around ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] bar ['relatedto'] judge ['relatedto'] compare
+car ['relatedto'] cover ['mannerof'] see ['relatedto'] compare
+car ['relatedto'] cover ['relatedto'] judge ['relatedto'] compare
+car ['relatedto'] cover ['relatedto'] finger ['relatedto'] compare
+car ['relatedto'] stop ['antonym', 'distinctfrom', 'relatedto'] go ['mannerof'] compare
+car ['relatedto'] stop ['mannerof', 'relatedto', 'synonym'] check ['relatedto'] compare
+car ['relatedto'] handle ['relatedto'] similar ['relatedto'] compare
+car ['relatedto'] handle ['synonym'] finger ['relatedto'] compare
+car ['hasproperty'] green ['relatedto'] go ['mannerof'] compare
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] go ['mannerof'] compare
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] similar ['relatedto'] compare
+car ['relatedto', 'atlocation'] city ['relatedto'] see ['relatedto'] compare
+car ['relatedto', 'atlocation'] road ['relatedto'] go ['mannerof'] compare
+car ['relatedto', 'atlocation'] road ['relatedto'] two ['relatedto'] compare
+car ['relatedto', 'atlocation'] road ['relatedto'] similar ['relatedto'] compare
+car ['relatedto', 'atlocation'] road ['isa'] means ['relatedto'] compare
+car ['atlocation'] show ['causes', 'relatedto'] see ['relatedto'] compare
+car ['atlocation'] clock ['relatedto'] two ['relatedto'] compare
+car ['atlocation'] door ['relatedto'] go ['mannerof'] compare
+car ['atlocation'] door ['relatedto'] two ['relatedto'] compare
+car ['atlocation'] flat ['relatedto'] finger ['relatedto'] compare
+car ['atlocation'] mirror ['synonym'] resemble ['relatedto'] compare
+car ['atlocation'] small_dog ['atlocation'] par ['etymologicallyrelatedto'] compare
+car ['atlocation'] traveller ['relatedto'] two ['relatedto'] compare
+car ['capableof'] stall ['relatedto'] finger ['relatedto'] compare
+car ['usedfor', 'causesdesire', 'relatedto'] drive ['relatedto'] go ['mannerof'] compare
+car ['derivedfrom'] gyrocar ['relatedto'] balance ['synonym'] compare
+car ['etymologicallyrelatedto'] cair ['relatedto'] go ['mannerof'] compare
+car ['hasa', 'relatedto'] seat ['isa', 'relatedto'] see ['relatedto'] compare
+car ['isa'] item ['relatedto'] go ['mannerof'] compare
+car ['isa', 'relatedto', 'synonym'] machine ['relatedto'] rate ['relatedto'] compare
+car ['isa'] tool ['relatedto'] means ['relatedto'] compare
+car ['isa'] tender ['relatedto'] check ['relatedto'] compare
+car ['isa'] tender ['relatedto'] means ['relatedto'] compare
+car ['partof'] window ['relatedto'] see ['relatedto'] compare
+car ['relatedto'] break ['relatedto'] two ['relatedto'] compare
+car ['relatedto'] bucket ['relatedto'] resemble ['relatedto'] compare
+car ['relatedto'] bucket ['relatedto'] categorize ['entails'] compare
+car ['relatedto'] american ['relatedto'] judge ['relatedto'] compare
+car ['relatedto'] box ['atlocation'] check ['relatedto'] compare
+car ['relatedto'] device ['relatedto'] rate ['relatedto'] compare
+car ['relatedto'] four ['relatedto'] two ['relatedto'] compare
+car ['relatedto'] four ['relatedto'] finger ['relatedto'] compare
+car ['relatedto'] motor ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] moving ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] personal ['relatedto'] heaven ['relatedto'] compare
+car ['relatedto'] put ['relatedto'] finger ['relatedto'] compare
+car ['relatedto'] street ['relatedto'] two ['relatedto'] compare
+car ['usedfor', 'relatedto'] transport ['relatedto'] heaven ['relatedto'] compare
+car ['relatedto'] transportation ['relatedto'] means ['relatedto'] compare
+car ['relatedto'] travel ['isa', 'relatedto', 'synonym'] go ['mannerof'] compare
+car ['relatedto'] unit ['relatedto'] finger ['relatedto'] compare
+car ['relatedto'] usual ['distinctfrom'] different ['relatedto'] compare
+car ['relatedto'] horse ['relatedto'] study ['mannerof'] compare
+car ['relatedto'] railroad ['relatedto'] means ['relatedto'] compare
+car ['relatedto'] turn ['antonym', 'relatedto', 'synonym'] go ['mannerof'] compare
+car ['relatedto'] coach ['etymologicallyrelatedto'] judge ['relatedto'] compare
+car ['relatedto'] control ['antonym'] go ['mannerof'] compare
+car ['relatedto'] control ['relatedto', 'synonym'] check ['relatedto'] compare
+car ['relatedto'] control ['mannerof', 'synonym'] see ['relatedto'] compare
+car ['relatedto'] detail ['relatedto'] see ['relatedto'] compare
+car ['relatedto'] escape ['isa'] means ['relatedto'] compare
+car ['relatedto'] guard ['relatedto'] evaluate ['relatedto'] compare
+car ['relatedto'] hybrid ['relatedto'] two ['relatedto'] compare
+car ['relatedto'] hybrid ['relatedto'] different ['relatedto'] compare
+car ['relatedto'] hybrid ['relatedto'] two_things ['relatedto'] compare
+car ['relatedto'] mile ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] mile ['relatedto'] similar ['relatedto'] compare
+car ['relatedto'] mile ['relatedto'] rate ['relatedto'] compare
+car ['relatedto'] mileage ['relatedto'] rate ['relatedto'] compare
+car ['relatedto'] paint ['relatedto'] finger ['relatedto'] compare
+car ['relatedto'] part ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] part ['relatedto'] finger ['relatedto'] compare
+car ['relatedto'] polish ['relatedto'] finger ['relatedto'] compare
+car ['relatedto'] property ['relatedto'] rate ['relatedto'] compare
+car ['relatedto'] race ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] race ['relatedto'] distinguish ['relatedto', 'entails'] compare
+car ['relatedto'] ride ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] ride ['relatedto'] two ['relatedto'] compare
+car ['relatedto'] sign ['relatedto'] check ['relatedto'] compare
+car ['relatedto'] sign ['relatedto'] two ['relatedto'] compare
+car ['relatedto'] steel ['relatedto'] similar ['relatedto'] compare
+car ['relatedto'] steel ['relatedto'] resemble ['relatedto'] compare
+car ['relatedto'] trailer ['relatedto'] check ['relatedto'] compare
+car ['relatedto'] acceleration ['antonym', 'distinctfrom', 'relatedto'] deceleration ['isa'] rate ['relatedto'] compare
+car ['relatedto'] acceleration ['isa'] rate ['mannerof'] judge ['relatedto'] compare
+car ['relatedto'] acceleration ['isa'] rate ['relatedto'] comparing ['formof'] compare
+car ['relatedto'] acceleration ['isa'] rate ['relatedto'] evaluate ['relatedto'] compare
+car ['relatedto'] acceleration ['isa', 'relatedto'] speed ['isa', 'relatedto'] rate ['relatedto'] compare
+car ['relatedto'] acceleration ['isa'] change ['mannerof'] parallel ['relatedto'] compare
+car ['relatedto'] acceleration ['isa'] change ['relatedto'] go ['mannerof'] compare
+car ['relatedto'] acceleration ['isa'] change ['mannerof'] check ['relatedto'] compare
+car ['relatedto'] acceleration ['isa'] change ['mannerof'] assimilate ['relatedto'] compare
+car ['relatedto'] acceleration ['isa'] change ['relatedto'] rate ['relatedto'] compare

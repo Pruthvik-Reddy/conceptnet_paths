@@ -1,0 +1,100 @@
+colleague ['synonym'] butty ['synonym'] con ['relatedto'] acknowledge
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] blind ['relatedto'] acknowledge
+colleague ['relatedto'] unite ['mannerof', 'relatedto'] weld ['etymologicallyrelatedto'] well ['relatedto'] acknowledge
+colleague ['relatedto'] unite ['relatedto', 'synonym'] joint ['relatedto'] con ['relatedto'] acknowledge
+colleague ['relatedto'] unite ['relatedto'] one ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+colleague ['relatedto'] unite ['relatedto'] together ['relatedto'] con ['relatedto'] acknowledge
+colleague ['relatedto'] unite ['relatedto'] together ['relatedto'] well ['relatedto'] acknowledge
+colleague ['isa', 'relatedto'] associate ['mannerof'] think ['hasprerequisite'] communicate ['mannerof'] acknowledge
+colleague ['isa', 'relatedto'] associate ['mannerof', 'relatedto'] identify ['mannerof', 'relatedto'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+colleague ['isa', 'relatedto'] associate ['mannerof', 'relatedto'] identify ['relatedto'] misken ['relatedto'] acknowledge
+colleague ['isa', 'relatedto'] associate ['mannerof'] remember ['mannerof', 'hasprerequisite'] know ['synonym'] acknowledge
+colleague ['isa', 'relatedto'] associate ['mannerof'] remember ['mannerof', 'relatedto'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+colleague ['isa', 'relatedto'] associate ['relatedto'] status ['relatedto'] recognition ['relatedto'] acknowledge
+colleague ['isa', 'relatedto'] associate ['relatedto'] mind ['isa', 'relatedto'] notice ['synonym'] acknowledge
+colleague ['isa', 'relatedto'] associate ['relatedto'] blue ['synonym'] low ['relatedto'] acknowledge
+colleague ['isa', 'relatedto'] associate ['relatedto'] relation ['relatedto'] know ['synonym'] acknowledge
+colleague ['isa'] employee ['antonym', 'relatedto'] servant ['relatedto'] low ['relatedto'] acknowledge
+colleague ['isa'] employee ['atlocation'] office ['relatedto'] receipt ['synonym'] acknowledge
+colleague ['isa'] employee ['capableof'] attend_meeting ['motivatedbygoal'] knowledge ['relatedto'] acknowledge
+colleague ['isa'] employee ['relatedto'] boy ['relatedto'] low ['relatedto'] acknowledge
+colleague ['isa'] employee ['relatedto'] brain_dump ['relatedto'] knowledge ['relatedto'] acknowledge
+colleague ['isa'] employee ['relatedto'] employment ['relatedto'] notice ['synonym'] acknowledge
+colleague ['isa'] employee ['relatedto'] foreign_correspondent ['relatedto'] communicate ['mannerof'] acknowledge
+colleague ['isa'] employee ['relatedto'] pay ['relatedto'] notice ['synonym'] acknowledge
+colleague ['isa'] employee ['relatedto'] prospective ['relatedto'] knowledge ['relatedto'] acknowledge
+colleague ['isa'] employee ['relatedto'] receptionist ['relatedto'] receipt ['synonym'] acknowledge
+colleague ['isa'] employee ['relatedto'] termination ['relatedto'] notice ['synonym'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] together ['relatedto'] con ['relatedto'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] together ['relatedto'] well ['relatedto'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] check ['mannerof'] receipt ['synonym'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] ship ['relatedto'] con ['relatedto'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] ship ['relatedto'] well ['relatedto'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] saying ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] significant ['relatedto'] well ['relatedto'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] significant ['relatedto'] knowledge ['relatedto'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate ['mannerof'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] talk ['relatedto'] confess ['synonym'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] master ['mannerof'] know ['synonym'] acknowledge
+colleague ['relatedto'] mate ['relatedto'] fit ['relatedto'] well ['relatedto'] acknowledge
+colleague ['relatedto'] mate ['synonym'] love ['hasproperty'] blind ['relatedto'] acknowledge
+colleague ['relatedto'] mate ['synonym'] couple ['capableof'] communicate ['mannerof'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] good ['relatedto', 'synonym'] well ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] nice ['relatedto'] allow ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] mean ['relatedto'] low ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] common ['relatedto'] communicate ['mannerof'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] condition ['relatedto'] well ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] condition ['relatedto', 'synonym'] stipulate ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] male ['relatedto'] con ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['partof'] couple ['capableof'] communicate ['mannerof'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] compotator ['etymologicallyrelatedto'] con ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] name ['antonym', 'relatedto'] anonymous ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] name ['relatedto'] recognition ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] university ['atlocation'] knowledge ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] ignoble ['synonym'] low ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] jackslave ['relatedto'] low ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] lantzman ['relatedto'] knowledge ['relatedto'] acknowledge
+colleague ['relatedto', 'synonym'] fellow ['relatedto'] trump ['relatedto'] low ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['mannerof'] lower ['formof', 'relatedto'] low ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['relatedto'] position ['relatedto'] low ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['antonym'] superior ['relatedto'] acephalist ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['synonym'] belittle ['relatedto'] sell_oneself_short ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['antonym'] head ['atlocation'] knowledge ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['antonym'] head ['relatedto'] acephalist ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['relatedto'] class ['antonym'] low ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['relatedto'] class ['atlocation'] knowledge ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['relatedto', 'synonym'] inferior ['relatedto'] low ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['isa'] cog ['relatedto'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+colleague ['isa'] subordinate ['relatedto'] servant ['relatedto'] low ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['relatedto'] sidetrack ['relatedto'] well ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['relatedto'] rank ['relatedto'] low ['relatedto'] acknowledge
+colleague ['isa'] subordinate ['relatedto'] value ['synonym'] accept ['mannerof', 'synonym'] acknowledge
+colleague ['isa'] subordinate ['relatedto'] value ['relatedto', 'synonym'] appreciate ['mannerof'] acknowledge
+colleague ['isa'] subordinate ['synonym'] low_level ['similarto'] low ['relatedto'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] post ['relatedto'] notice ['synonym'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] post ['relatedto'] blind ['relatedto'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] bar ['relatedto'] allow ['relatedto'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] bill ['relatedto'] notice ['synonym'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] bill ['relatedto'] receipt ['synonym'] acknowledge
+colleague ['relatedto'] staff ['isa'] body ['relatedto'] knowledge ['relatedto'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] bread ['relatedto'] communicate ['mannerof'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] note ['relatedto'] thank ['mannerof'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] note ['relatedto', 'synonym'] notice ['synonym'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] note ['relatedto'] recognition ['relatedto'] acknowledge
+colleague ['relatedto'] staff ['mannerof'] serve ['mannerof'] admit ['relatedto', 'synonym'] acknowledge
+colleague ['relatedto'] staff ['isa', 'relatedto'] office ['relatedto'] receipt ['synonym'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] servant ['relatedto'] low ['relatedto'] acknowledge
+colleague ['relatedto'] staff ['mannerof'] provide ['mannerof', 'relatedto'] stipulate ['relatedto'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] hospital ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] mark ['relatedto', 'synonym'] notice ['synonym'] acknowledge
+colleague ['relatedto'] staff ['relatedto'] mark ['relatedto'] receipt ['synonym'] acknowledge
+colleague ['relatedto'] member ['relatedto'] child ['relatedto'] low ['relatedto'] acknowledge
+colleague ['relatedto'] member ['relatedto'] one ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+colleague ['relatedto'] member ['relatedto'] article ['relatedto'] receipt ['synonym'] acknowledge
+colleague ['relatedto'] member ['relatedto'] body ['relatedto'] knowledge ['relatedto'] acknowledge
+colleague ['relatedto'] member ['relatedto'] boy ['relatedto'] low ['relatedto'] acknowledge
+colleague ['relatedto'] member ['relatedto'] private ['relatedto'] low ['relatedto'] acknowledge
+colleague ['relatedto'] member ['relatedto'] class ['antonym'] low ['relatedto'] acknowledge
+colleague ['relatedto'] member ['relatedto'] class ['atlocation'] knowledge ['relatedto'] acknowledge
+colleague ['relatedto'] member ['relatedto'] eye ['antonym'] blind ['relatedto'] acknowledge
+colleague ['relatedto'] member ['relatedto'] initiate ['mannerof'] admit ['relatedto', 'synonym'] acknowledge

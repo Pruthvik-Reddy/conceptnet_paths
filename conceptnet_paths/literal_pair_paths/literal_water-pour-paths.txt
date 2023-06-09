@@ -1,0 +1,100 @@
+water ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] pour
+water ['atlocation'] downpour ['relatedto'] pour
+water ['usedfor', 'relatedto', 'atlocation'] drink ['hasfirstsubevent'] pour
+water ['relatedto', 'atlocation'] glass ['relatedto'] pour
+water ['atlocation'] jug ['relatedto'] pour
+water ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] rain ['mannerof', 'relatedto'] pour
+water ['relatedto', 'atlocation'] spurt ['mannerof'] pour
+water ['relatedto', 'atlocation'] stream ['synonym'] pour
+water ['capableof'] dribble ['mannerof'] pour
+water ['capableof'] fill_glass ['relatedto'] pour
+water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] pour
+water ['mannerof', 'relatedto'] fill ['relatedto'] pour
+water ['mannerof'] supply ['mannerof'] pour
+water ['receivesaction'] poured ['formof'] pour
+water ['relatedto'] affusion ['relatedto'] pour
+water ['relatedto'] carafe ['usedfor'] pour
+water ['relatedto'] cast ['relatedto'] pour
+water ['relatedto'] drop ['antonym'] pour
+water ['relatedto'] issue ['relatedto'] pour
+water ['relatedto'] pump ['entails'] pour
+water ['relatedto'] sluice ['mannerof', 'relatedto'] pour
+water ['relatedto'] spout ['relatedto'] pour
+water ['relatedto'] tide ['relatedto'] pour
+water ['relatedto'] basic ['relatedto'] drink ['hasfirstsubevent'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'atlocation'] rain ['mannerof', 'relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] fill ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] pump ['entails'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] spout ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] supply ['mannerof'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] air ['synonym'] send ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] spill ['mannerof', 'relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['synonym'] discharge ['relatedto'] pour
+water ['antonym', 'relatedto'] ground ['mannerof'] put ['relatedto'] pour
+water ['antonym', 'relatedto'] ground ['relatedto'] drop ['antonym'] pour
+water ['antonym', 'relatedto'] ground ['relatedto'] glass ['relatedto'] pour
+water ['antonym', 'relatedto'] ground ['relatedto'] cause ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] action ['relatedto'] pour
+water ['antonym', 'relatedto'] bread ['distinctfrom'] filling ['relatedto'] pour
+water ['antonym', 'synonym'] burn ['relatedto'] action ['relatedto'] pour
+water ['antonym', 'synonym'] burn ['relatedto'] put ['relatedto'] pour
+water ['antonym', 'synonym'] burn ['relatedto'] stream ['synonym'] pour
+water ['antonym', 'synonym'] burn ['relatedto'] machicolation ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] action ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['capableof', 'relatedto'] liquid ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['causes', 'relatedto', 'synonym'] run ['causes', 'mannerof'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['isa', 'relatedto'] discharge ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['isa'] filling ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['isa', 'relatedto'] movement ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['isa'] spill ['mannerof', 'relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['mannerof'] lave ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] decant ['mannerof', 'relatedto', 'synonym'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] movement_liquid ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] pouring ['formof', 'relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto', 'synonym'] stream ['synonym'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] tide ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] issue ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] shed ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] sile ['relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] sluice ['mannerof', 'relatedto'] pour
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] trickle ['relatedto'] pour
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] drink ['hasfirstsubevent'] pour
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['isa', 'relatedto'] liquid ['relatedto'] pour
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] glass ['relatedto'] pour
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['capableof'] fill_glass ['relatedto'] pour
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['receivesaction'] poured ['formof'] pour
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] serving ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] cause ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] drizzle ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['usedfor'] spout ['relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] spill ['mannerof', 'relatedto'] pour
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] pore ['formof'] pour
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] crowd ['mannerof'] pour
+water ['antonym', 'relatedto', 'atlocation'] rock ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] pour
+water ['antonym', 'relatedto'] sand ['capableof'] flow ['relatedto'] pour
+water ['antonym', 'relatedto'] sand ['madeof', 'relatedto'] glass ['relatedto'] pour
+water ['antonym', 'relatedto'] sky ['relatedto'] drop ['antonym'] pour
+water ['antonym', 'relatedto'] sky ['usedfor', 'relatedto'] rain ['mannerof', 'relatedto'] pour
+water ['antonym', 'relatedto'] soap ['relatedto'] supply ['mannerof'] pour
+water ['antonym', 'relatedto'] soap ['capableof', 'relatedto'] liquid ['relatedto'] pour
+water ['antonym', 'relatedto'] soap ['relatedto'] tide ['relatedto'] pour
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['mannerof'] emit ['relatedto'] pour
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] move ['mannerof', 'relatedto'] pour
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['antonym', 'distinctfrom', 'relatedto'] liquid ['relatedto'] pour
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] spout ['relatedto'] pour
+water ['antonym', 'isa'] food ['antonym', 'distinctfrom', 'relatedto'] drink ['hasfirstsubevent'] pour
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink ['hasfirstsubevent'] pour
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto', 'atlocation'] glass ['relatedto'] pour
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] liquid ['relatedto'] pour
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] sheet ['mannerof', 'relatedto'] pour
+water ['antonym', 'relatedto'] wave ['relatedto'] action ['relatedto'] pour
+water ['antonym', 'relatedto'] wave ['relatedto'] crowd ['mannerof'] pour
+water ['antonym', 'relatedto'] wave ['relatedto'] hell ['relatedto'] pour
+water ['antonym', 'relatedto'] wave ['relatedto'] cause ['relatedto'] pour
+water ['antonym', 'relatedto'] wave ['relatedto'] flow ['relatedto'] pour
+water ['antonym', 'relatedto'] wave ['relatedto'] move ['mannerof', 'relatedto'] pour
+water ['antonym', 'relatedto'] wave ['isa', 'relatedto'] movement ['relatedto'] pour
+water ['antonym', 'relatedto'] wave ['relatedto'] tide ['relatedto'] pour

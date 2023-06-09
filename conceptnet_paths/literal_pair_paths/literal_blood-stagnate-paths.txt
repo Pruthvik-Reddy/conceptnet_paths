@@ -1,0 +1,100 @@
+blood ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] birth ['isa'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] human ['atlocation'] motion ['relatedto'] stagnate
+blood ['relatedto'] human ['capableof'] stand ['relatedto'] stagnate
+blood ['distinctfrom', 'relatedto', 'hasa'] water ['antonym', 'capableof', 'relatedto'] flow ['antonym'] stagnate
+blood ['distinctfrom', 'relatedto', 'hasa'] water ['relatedto'] stagnosol ['relatedto'] stagnate
+blood ['distinctfrom', 'relatedto', 'hasa'] water ['relatedto'] stank ['etymologicallyrelatedto'] stagnate
+blood ['relatedto'] battle ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] battle ['relatedto'] advance ['relatedto'] stagnate
+blood ['distinctfrom', 'relatedto'] bone ['relatedto'] idle ['relatedto', 'synonym'] stagnate
+blood ['relatedto'] force ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] force ['relatedto'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] fluid ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] color ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] show ['relatedto'] motion ['relatedto'] stagnate
+blood ['relatedto'] cut ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] cut ['relatedto'] cease ['relatedto'] stagnate
+blood ['relatedto'] cut ['relatedto'] motion ['relatedto'] stagnate
+blood ['relatedto'] flow ['antonym', 'relatedto'] stagnant ['relatedto', 'derivedfrom'] stagnate
+blood ['relatedto'] flow ['isa', 'relatedto'] motion ['relatedto'] stagnate
+blood ['relatedto'] flow ['relatedto'] restagnate ['relatedto'] stagnate
+blood ['relatedto'] fight ['relatedto'] activity ['relatedto'] stagnate
+blood ['isa', 'relatedto', 'hasproperty'] liquid ['capableof', 'relatedto'] flow ['antonym'] stagnate
+blood ['receivesaction'] read ['relatedto'] activity ['relatedto'] stagnate
+blood ['atlocation'] war ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] humans ['capableof'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] positive ['relatedto'] progress ['relatedto'] stagnate
+blood ['relatedto'] relation ['isa'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] vain ['relatedto'] idle ['relatedto', 'synonym'] stagnate
+blood ['relatedto', 'atlocation'] vein ['relatedto'] flow ['antonym'] stagnate
+blood ['isa'] video_game ['isa'] flow ['antonym'] stagnate
+blood ['isa', 'relatedto', 'derivedfrom'] bloodstream ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] arterialize ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] autoregulation ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] bleeding ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] circulation ['relatedto'] stagnation ['derivedfrom'] stagnate
+blood ['relatedto'] type ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] type ['relatedto'] motion ['relatedto'] stagnate
+blood ['relatedto'] flows ['formof', 'relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] bloodstroke ['relatedto'] motion ['relatedto'] stagnate
+blood ['relatedto'] carboxytherapy ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] clot ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] discharge ['isa', 'relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] extravasate ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] functional_magnetic_resonance_imaging ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] functional_magnetic_resonance_imaging ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] glomus ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] gros_bon_ange ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] hemorheology ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] hypomenorrhea ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] hypoprofusion ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] legg_calvé_perthes_disease ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] menstruation ['relatedto', 'synonym'] flow ['antonym'] stagnate
+blood ['relatedto'] microcirculation ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] microhemodynamics ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] moyamoya_disease ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] pumper ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] redout ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] reperfusion ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] rheoencephalography ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] rheography ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] sanguifluous ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] stroke ['isa'] motion ['relatedto'] stagnate
+blood ['relatedto'] subclavian_steal_syndrome ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] tamponade ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] tourniquet ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] urodilatin ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] vasocongestion ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] vasomodulation ['relatedto'] flow ['antonym'] stagnate
+blood ['relatedto'] hypercapnia ['relatedto'] smoke ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] base ['relatedto', 'synonym'] stand ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] act ['isa'] activity ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] act ['relatedto'] motion ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] act ['relatedto'] stand ['relatedto'] stagnate
+blood ['relatedto'] birth ['antonym'] death ['isa'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] birth ['antonym'] burial ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] birth ['antonym'] die ['relatedto'] cease ['relatedto'] stagnate
+blood ['relatedto'] birth ['antonym'] die ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] birth ['antonym'] kill ['relatedto'] cease ['relatedto'] stagnate
+blood ['relatedto'] birth ['etymologicallyrelatedto', 'relatedto'] bear ['synonym'] stand ['relatedto'] stagnate
+blood ['relatedto'] birth ['isa'] change ['antonym'] stagnation ['derivedfrom'] stagnate
+blood ['relatedto'] birth ['isa'] change ['distinctfrom', 'relatedto'] stagnant ['relatedto', 'derivedfrom'] stagnate
+blood ['relatedto'] birth ['isa'] change ['isa', 'relatedto'] motion ['relatedto'] stagnate
+blood ['relatedto'] birth ['isa'] change ['mannerof', 'relatedto'] develop ['relatedto'] stagnate
+blood ['relatedto'] birth ['isa'] change ['mannerof'] foul ['relatedto'] stagnate
+blood ['relatedto'] birth ['isa'] change ['relatedto'] progress ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] age ['mannerof'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] age ['mannerof'] develop ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] born ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] labor ['relatedto'] idle ['relatedto', 'synonym'] stagnate
+blood ['relatedto'] birth ['relatedto'] new ['relatedto'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] new ['relatedto'] develop ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] new ['relatedto'] progress ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] deliver ['relatedto'] stand ['relatedto'] stagnate
+blood ['relatedto'] birth ['relatedto'] name ['capableof'] change ['mannerof', 'relatedto'] stagnate
+blood ['relatedto'] marriage ['relatedto'] join ['relatedto'] activity ['relatedto'] stagnate
+blood ['relatedto'] marriage ['relatedto'] act ['isa'] activity ['relatedto'] stagnate
+blood ['relatedto'] marriage ['relatedto'] act ['relatedto'] motion ['relatedto'] stagnate
+blood ['relatedto'] marriage ['relatedto'] act ['relatedto'] stand ['relatedto'] stagnate
+blood ['relatedto'] marriage ['antonym', 'relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] stagnate

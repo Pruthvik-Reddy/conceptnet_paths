@@ -1,0 +1,100 @@
+meteor ['relatedto'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['isa'] light ['relatedto'] shower
+meteor ['relatedto'] hail ['synonym'] shower
+meteor ['relatedto'] radiant ['relatedto'] shower
+meteor ['atlocation'] sky ['antonym', 'relatedto'] water ['relatedto', 'atlocation'] shower
+meteor ['atlocation'] sky ['etymologicallyrelatedto'] house ['partof', 'atlocation'] shower
+meteor ['atlocation'] sky ['relatedto', 'hasproperty'] overhead ['relatedto'] shower
+meteor ['atlocation'] sky ['relatedto'] radiant ['relatedto'] shower
+meteor ['atlocation'] sky ['usedfor', 'relatedto'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['atlocation'] sky ['usedfor', 'relatedto'] falling ['relatedto'] shower
+meteor ['atlocation'] sky ['relatedto'] place ['relatedto'] shower
+meteor ['isa'] ship ['relatedto'] water ['relatedto', 'atlocation'] shower
+meteor ['isa'] ship ['relatedto'] battle ['relatedto'] shower
+meteor ['isa'] ship ['relatedto'] pilot ['atlocation'] shower
+meteor ['isa'] ship ['relatedto'] powder_room ['relatedto'] shower
+meteor ['relatedto'] cable ['relatedto'] provide ['mannerof'] shower
+meteor ['relatedto'] cable ['relatedto'] snake ['atlocation'] shower
+meteor ['relatedto'] cloud ['relatedto'] water ['relatedto', 'atlocation'] shower
+meteor ['relatedto'] cloud ['relatedto'] wet ['relatedto'] shower
+meteor ['relatedto'] cloud ['antonym', 'usedfor', 'relatedto'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['relatedto'] cloud ['relatedto'] apparatus ['relatedto'] shower
+meteor ['relatedto'] cloud ['relatedto'] condition ['relatedto'] shower
+meteor ['relatedto'] cloud ['relatedto'] precipitation ['relatedto'] shower
+meteor ['relatedto'] cloud ['relatedto'] steam ['relatedto'] shower
+meteor ['relatedto'] cloud ['usedfor'] hail ['synonym'] shower
+meteor ['relatedto'] rain ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] water ['relatedto', 'atlocation'] shower
+meteor ['relatedto'] rain ['relatedto', 'hasproperty'] wet ['relatedto'] shower
+meteor ['relatedto'] rain ['relatedto', 'hasproperty'] falling ['relatedto'] shower
+meteor ['relatedto'] rain ['antonym', 'relatedto'] hail ['synonym'] shower
+meteor ['relatedto'] rain ['isa', 'relatedto'] precipitation ['relatedto'] shower
+meteor ['relatedto'] rain ['mannerof'] sprinkle ['relatedto'] shower
+meteor ['relatedto'] rain ['relatedto'] condition ['relatedto'] shower
+meteor ['relatedto'] rain ['relatedto'] falling_water ['relatedto'] shower
+meteor ['relatedto'] rain ['relatedto'] showers ['formof', 'relatedto'] shower
+meteor ['relatedto'] rain ['relatedto'] scat ['relatedto'] shower
+meteor ['relatedto'] rain ['relatedto'] shra ['relatedto'] shower
+meteor ['relatedto'] rain ['relatedto'] sprinkling ['relatedto'] shower
+meteor ['relatedto'] rain ['relatedto'] sun_shower ['relatedto'] shower
+meteor ['relatedto'] rain ['relatedto'] thundershower ['derivedfrom'] shower
+meteor ['isa'] company ['relatedto'] body ['relatedto'] shower
+meteor ['isa'] company ['relatedto'] show ['relatedto', 'derivedfrom'] shower
+meteor ['isa'] company ['isa'] soap ['relatedto'] shower
+meteor ['isa'] company ['relatedto'] place ['relatedto'] shower
+meteor ['isa'] company ['synonym'] party ['isa'] shower
+meteor ['isa'] light ['isa'] condition ['relatedto'] shower
+meteor ['isa'] light ['relatedto'] projector ['relatedto'] shower
+meteor ['isa'] light ['relatedto'] radiant ['relatedto'] shower
+meteor ['atlocation'] space ['relatedto'] house ['partof', 'atlocation'] shower
+meteor ['atlocation'] space ['relatedto', 'synonym'] place ['relatedto'] shower
+meteor ['relatedto'] matter ['relatedto'] wet ['relatedto'] shower
+meteor ['relatedto'] matter ['relatedto'] little ['relatedto'] shower
+meteor ['relatedto'] matter ['relatedto'] body ['relatedto'] shower
+meteor ['relatedto'] matter ['relatedto'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['relatedto'] matter ['relatedto'] condition ['relatedto'] shower
+meteor ['relatedto'] matter ['relatedto'] steam ['relatedto'] shower
+meteor ['relatedto'] exhalation ['relatedto'] steam ['relatedto'] shower
+meteor ['relatedto'] frost ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] shower
+meteor ['relatedto'] frost ['relatedto'] condition ['relatedto'] shower
+meteor ['relatedto'] frost ['relatedto'] precipitation ['relatedto'] shower
+meteor ['relatedto'] dew ['relatedto'] water ['relatedto', 'atlocation'] shower
+meteor ['relatedto'] dew ['relatedto', 'hasproperty'] wet ['relatedto'] shower
+meteor ['relatedto'] dew ['etymologicallyrelatedto', 'relatedto'] dag ['relatedto'] shower
+meteor ['relatedto'] dew ['relatedto'] precipitation ['relatedto'] shower
+meteor ['relatedto'] hail ['antonym', 'relatedto'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['relatedto'] hail ['isa', 'relatedto', 'synonym'] precipitation ['relatedto'] shower
+meteor ['relatedto'] lightning ['relatedto'] light ['relatedto'] shower
+meteor ['relatedto'] snow ['isa', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] shower
+meteor ['relatedto'] snow ['relatedto'] wet ['relatedto'] shower
+meteor ['relatedto'] snow ['relatedto'] falling ['relatedto'] shower
+meteor ['relatedto'] snow ['antonym', 'distinctfrom', 'relatedto'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['relatedto'] snow ['relatedto'] condition ['relatedto'] shower
+meteor ['relatedto'] snow ['relatedto'] hail ['synonym'] shower
+meteor ['relatedto'] snow ['derivedfrom'] snow_shower ['derivedfrom'] shower
+meteor ['relatedto'] snow ['isa'] flurry ['relatedto'] shower
+meteor ['relatedto'] snow ['isa', 'relatedto'] precipitation ['relatedto'] shower
+meteor ['relatedto'] snow ['relatedto'] falling_water ['relatedto'] shower
+meteor ['relatedto'] snow ['relatedto'] stall ['relatedto'] shower
+meteor ['relatedto'] rainbow ['atlocation'] water ['relatedto', 'atlocation'] shower
+meteor ['relatedto'] rainbow ['relatedto', 'derivedfrom'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['relatedto'] rainbow ['relatedto'] light ['relatedto'] shower
+meteor ['relatedto'] wind ['distinctfrom'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['relatedto'] wind ['relatedto'] condition ['relatedto'] shower
+meteor ['relatedto'] wind ['relatedto'] light ['relatedto'] shower
+meteor ['relatedto'] wind ['relatedto'] steam ['relatedto'] shower
+meteor ['relatedto'] wind ['mannerof', 'relatedto'] snake ['atlocation'] shower
+meteor ['relatedto'] wind ['relatedto'] flurry ['relatedto'] shower
+meteor ['relatedto'] airy ['relatedto', 'similarto'] light ['relatedto'] shower
+meteor ['atlocation'] universe ['atlocation'] light ['relatedto'] shower
+meteor ['relatedto'] atmosphere ['isa'] condition ['relatedto'] shower
+meteor ['relatedto'] atmosphere ['relatedto'] precipitation ['relatedto'] shower
+meteor ['relatedto'] train ['relatedto'] battle ['relatedto'] shower
+meteor ['relatedto'] train ['mannerof', 'relatedto'] exercise ['haslastsubevent'] shower
+meteor ['relatedto'] train ['relatedto'] steam ['relatedto'] shower
+meteor ['relatedto'] train ['hasprerequisite'] play_sport ['haslastsubevent'] shower
+meteor ['relatedto'] train ['relatedto'] overhead ['relatedto'] shower
+meteor ['relatedto'] chain ['relatedto'] house ['partof', 'atlocation'] shower
+meteor ['relatedto', 'derivedfrom'] hydrometeor ['relatedto'] rain ['isa', 'mannerof', 'relatedto'] shower
+meteor ['relatedto', 'derivedfrom'] hydrometeor ['relatedto'] precipitation ['relatedto'] shower
+meteor ['derivedfrom'] meteorometer ['relatedto'] apparatus ['relatedto'] shower
+meteor ['etymologicallyrelatedto'] meta ['relatedto'] water ['relatedto', 'atlocation'] shower

@@ -1,0 +1,100 @@
+car ['relatedto'] smash
+car ['relatedto'] accident ['relatedto'] smash
+car ['relatedto'] big ['relatedto'] smash
+car ['atlocation'] flat ['relatedto'] smash
+car ['capableof'] crash ['relatedto', 'synonym'] smash
+car ['hasa'] windows ['relatedto'] smash
+car ['relatedto'] break ['mannerof', 'relatedto'] smash
+car ['relatedto'] put ['antonym'] smash
+car ['relatedto'] car_crash ['relatedto'] smash
+car ['relatedto'] wreck ['relatedto'] smash
+car ['relatedto'] accident ['isa', 'relatedto'] break ['mannerof', 'relatedto'] smash
+car ['relatedto'] accident ['isa'] collision ['isa', 'relatedto'] smash
+car ['relatedto'] accident ['isa', 'relatedto'] crash ['relatedto', 'synonym'] smash
+car ['relatedto'] accident ['relatedto'] car_crash ['relatedto'] smash
+car ['relatedto'] accident ['relatedto'] painful ['relatedto'] smash
+car ['relatedto'] accident ['relatedto'] smashed ['formof', 'relatedto'] smash
+car ['relatedto'] accident ['relatedto'] violent ['relatedto'] smash
+car ['relatedto'] accident ['relatedto'] wreck ['relatedto'] smash
+car ['relatedto'] accident ['relatedto'] event ['relatedto'] smash
+car ['relatedto'] accident ['synonym'] stroke ['relatedto'] smash
+car ['relatedto'] smaller ['formof'] little ['relatedto'] smash
+car ['atlocation'] children ['relatedto'] little ['relatedto'] smash
+car ['relatedto'] payment ['relatedto'] action ['relatedto'] smash
+car ['relatedto'] payment ['relatedto'] put ['antonym'] smash
+car ['relatedto'] payment ['relatedto'] put_together ['antonym'] smash
+car ['relatedto'] payment ['relatedto'] together ['antonym', 'relatedto'] smash
+car ['atlocation'] land ['relatedto'] action ['relatedto'] smash
+car ['atlocation'] land ['relatedto'] big ['relatedto'] smash
+car ['atlocation'] land ['relatedto'] flat ['relatedto'] smash
+car ['atlocation'] land ['relatedto'] term ['relatedto'] smash
+car ['relatedto'] short ['relatedto'] break ['mannerof', 'relatedto'] smash
+car ['relatedto'] short ['relatedto'] dash ['synonym'] smash
+car ['relatedto'] short ['relatedto'] shot ['relatedto'] smash
+car ['relatedto'] short ['synonym'] little ['relatedto'] smash
+car ['relatedto'] short ['synonym'] flat ['relatedto'] smash
+car ['hasproperty'] red ['atlocation'] potato ['relatedto'] smash
+car ['hasproperty'] red ['relatedto'] run ['relatedto'] smash
+car ['relatedto'] balloon ['relatedto'] blow ['relatedto'] smash
+car ['relatedto'] balloon ['relatedto'] glass ['relatedto'] smash
+car ['relatedto'] bar ['relatedto', 'atlocation'] club ['relatedto'] smash
+car ['relatedto'] bar ['relatedto'] big ['relatedto'] smash
+car ['relatedto'] bar ['relatedto'] flat ['relatedto'] smash
+car ['relatedto'] bar ['relatedto'] loud ['relatedto'] smash
+car ['relatedto'] bar ['relatedto'] hit ['mannerof', 'relatedto', 'synonym'] smash
+car ['relatedto'] bar ['relatedto'] break ['mannerof', 'relatedto'] smash
+car ['relatedto'] cover ['relatedto'] action ['relatedto'] smash
+car ['relatedto'] cover ['relatedto'] hard ['relatedto'] smash
+car ['relatedto'] cover ['relatedto'] overhead ['relatedto', 'synonym'] smash
+car ['relatedto'] cover ['relatedto'] put ['antonym'] smash
+car ['relatedto'] cover ['relatedto'] term ['relatedto'] smash
+car ['relatedto'] cover ['relatedto'] glass ['relatedto'] smash
+car ['relatedto'] stop ['relatedto'] action ['relatedto'] smash
+car ['relatedto'] stop ['antonym', 'haslastsubevent', 'relatedto'] run ['relatedto'] smash
+car ['relatedto'] stop ['etymologicallyrelatedto'] stuff ['relatedto'] smash
+car ['relatedto'] stop ['relatedto', 'synonym'] break ['mannerof', 'relatedto'] smash
+car ['relatedto'] stop ['relatedto'] movement ['relatedto'] smash
+car ['relatedto'] stop ['relatedto'] song ['relatedto'] smash
+car ['relatedto'] stop ['relatedto'] shot ['relatedto'] smash
+car ['relatedto'] big ['antonym', 'distinctfrom', 'relatedto'] little ['relatedto'] smash
+car ['relatedto'] big ['distinctfrom'] tiny ['relatedto'] smash
+car ['relatedto'] big ['relatedto', 'similarto'] loud ['relatedto'] smash
+car ['relatedto'] big ['relatedto'] blow ['relatedto'] smash
+car ['relatedto'] big ['relatedto'] club ['relatedto'] smash
+car ['relatedto'] big ['relatedto'] event ['relatedto'] smash
+car ['relatedto'] small ['relatedto'] band ['relatedto'] smash
+car ['relatedto'] small ['antonym', 'distinctfrom', 'relatedto'] big ['relatedto'] smash
+car ['relatedto'] small ['relatedto', 'similarto', 'synonym'] little ['relatedto'] smash
+car ['relatedto'] small ['relatedto'] club ['relatedto'] smash
+car ['relatedto'] small ['relatedto'] shot ['relatedto'] smash
+car ['relatedto'] small ['relatedto'] tiny ['relatedto'] smash
+car ['relatedto'] lot ['relatedto'] big ['relatedto'] smash
+car ['relatedto'] lot ['antonym', 'distinctfrom'] little ['relatedto'] smash
+car ['relatedto'] lot ['relatedto'] pound ['relatedto', 'synonym'] smash
+car ['relatedto'] handle ['relatedto', 'partof'] hammer ['relatedto'] smash
+car ['relatedto'] handle ['relatedto'] grab ['relatedto'] smash
+car ['relatedto'] handle ['relatedto', 'synonym'] hand ['relatedto'] smash
+car ['relatedto'] handle ['relatedto'] put ['antonym'] smash
+car ['relatedto'] handle ['relatedto'] sledgehammer ['relatedto'] smash
+car ['relatedto'] handle ['synonym'] feel ['antonym'] smash
+car ['hasproperty'] green ['hasproperty'] glass ['relatedto'] smash
+car ['hasproperty'] green ['relatedto'] put ['antonym'] smash
+car ['hasproperty'] green ['relatedto'] tennis ['relatedto'] smash
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] activity ['relatedto'] smash
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] big ['relatedto'] smash
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] little ['relatedto'] smash
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] movement ['relatedto'] smash
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] boom ['synonym'] smash
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] stroke ['relatedto'] smash
+car ['antonym', 'distinctfrom'] bike ['capableof'] crash ['relatedto', 'synonym'] smash
+car ['antonym', 'distinctfrom', 'relatedto', 'isa'] bus ['hasa'] windows ['relatedto'] smash
+car ['antonym', 'distinctfrom', 'relatedto', 'isa'] bus ['relatedto'] overhead ['relatedto', 'synonym'] smash
+car ['antonym', 'distinctfrom', 'relatedto'] truck ['relatedto'] big ['relatedto'] smash
+car ['antonym', 'distinctfrom', 'relatedto'] truck ['relatedto'] flat ['relatedto'] smash
+car ['antonym'] dog ['relatedto'] big ['relatedto'] smash
+car ['antonym'] dog ['relatedto'] little ['relatedto'] smash
+car ['antonym'] dog ['atlocation'] pound ['relatedto', 'synonym'] smash
+car ['antonym'] dog ['capableof'] run ['relatedto'] smash
+car ['antonym'] dog ['relatedto'] mushing ['relatedto'] smash
+car ['antonym'] dog ['relatedto'] stroke ['relatedto'] smash
+car ['atlocation'] air_conditioner ['atlocation'] hard ['relatedto'] smash

@@ -1,0 +1,100 @@
+log ['relatedto'] drive ['relatedto'] float
+log ['relatedto'] move ['relatedto'] float
+log ['relatedto'] shake ['relatedto'] float
+log ['isa'] document ['relatedto'] float
+log ['relatedto'] unit ['relatedto'] float
+log ['relatedto'] travel ['mannerof'] float
+log ['derivedfrom'] analog ['relatedto'] value ['mannerof'] float
+log ['derivedfrom'] analog ['relatedto'] element ['relatedto'] float
+log ['relatedto'] post ['isa'] company ['relatedto'] float
+log ['relatedto'] post ['relatedto'] test ['mannerof'] float
+log ['relatedto'] post ['relatedto'] travel ['mannerof'] float
+log ['relatedto'] post ['relatedto'] style ['relatedto'] float
+log ['antonym', 'relatedto'] stick ['antonym'] slip ['relatedto'] float
+log ['antonym', 'relatedto'] stick ['derivedfrom'] floatstick ['derivedfrom'] float
+log ['antonym', 'relatedto'] stick ['relatedto'] pool ['relatedto'] float
+log ['antonym', 'relatedto'] stick ['relatedto'] drive ['relatedto'] float
+log ['antonym', 'relatedto'] stick ['relatedto'] stock ['isa'] float
+log ['partof'] bath ['relatedto', 'atlocation'] water ['relatedto'] float
+log ['partof'] bath ['isa'] vessel ['usedfor'] float
+log ['partof'] bath ['relatedto'] pool ['relatedto'] float
+log ['partof'] bath ['relatedto'] unit ['relatedto'] float
+log ['relatedto'] block ['isa'] anvil ['relatedto'] float
+log ['relatedto'] block ['isa'] artifact ['isa'] float
+log ['relatedto'] block ['relatedto'] unit ['relatedto'] float
+log ['partof'] ship ['relatedto'] water ['relatedto'] float
+log ['partof'] ship ['isa'] artifact ['isa'] float
+log ['partof'] ship ['isa', 'relatedto'] vessel ['usedfor'] float
+log ['partof'] ship ['mannerof'] travel ['mannerof'] float
+log ['partof'] ship ['relatedto'] car_carrier ['relatedto', 'synonym'] float
+log ['partof'] ship ['relatedto'] company ['relatedto'] float
+log ['partof'] ship ['relatedto'] displacement ['relatedto'] float
+log ['partof'] ship ['relatedto'] fleet ['relatedto', 'synonym'] float
+log ['partof'] ship ['relatedto'] launch ['mannerof'] float
+log ['partof'] ship ['relatedto'] sail ['relatedto'] float
+log ['partof'] ship ['relatedto', 'synonym'] transport ['mannerof'] float
+log ['etymologicallyrelatedto'] book ['isa'] flounder ['etymologicallyrelatedto'] float
+log ['etymologicallyrelatedto'] book ['relatedto'] document ['relatedto'] float
+log ['etymologicallyrelatedto'] book ['relatedto'] element ['relatedto'] float
+log ['etymologicallyrelatedto'] book ['relatedto'] unit ['relatedto'] float
+log ['etymologicallyrelatedto'] book ['relatedto'] turn ['relatedto'] float
+log ['relatedto'] trunk ['relatedto'] root ['relatedto'] float
+log ['relatedto'] trunk ['relatedto'] stock ['isa'] float
+log ['relatedto'] bread ['antonym', 'relatedto'] water ['relatedto'] float
+log ['relatedto'] bread ['relatedto'] beer ['relatedto'] float
+log ['relatedto'] bread ['relatedto'] soft ['relatedto'] float
+log ['relatedto'] bread ['relatedto'] element ['relatedto'] float
+log ['relatedto'] cake ['relatedto'] blow ['synonym'] float
+log ['relatedto'] cake ['antonym', 'relatedto'] ice_cream ['relatedto'] float
+log ['relatedto'] cake ['relatedto'] element ['relatedto'] float
+log ['relatedto'] cake ['relatedto'] soft ['relatedto'] float
+log ['relatedto'] camp ['relatedto'] staying ['relatedto'] float
+log ['relatedto'] camp ['mannerof'] change ['relatedto'] float
+log ['relatedto'] camp ['relatedto'] travel ['mannerof'] float
+log ['relatedto'] dog ['isa'] bob ['isa'] float
+log ['relatedto'] dog ['relatedto'] shake ['relatedto'] float
+log ['relatedto'] dog ['relatedto'] swim ['relatedto', 'synonym'] float
+log ['relatedto'] dog ['usedfor'] company ['relatedto'] float
+log ['relatedto'] cut ['relatedto'] die ['relatedto'] float
+log ['relatedto'] cut ['mannerof'] chip ['isa'] float
+log ['relatedto'] cut ['isa', 'relatedto'] share ['relatedto'] float
+log ['relatedto'] cut ['mannerof', 'relatedto'] move ['relatedto'] float
+log ['relatedto'] cut ['relatedto'] yarn ['relatedto'] float
+log ['relatedto'] cut ['relatedto'] pack ['relatedto'] float
+log ['atlocation'] doctor ['relatedto'] unit ['relatedto'] float
+log ['relatedto'] drive ['relatedto'] change ['relatedto'] float
+log ['relatedto'] drive ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'entails'] ride ['mannerof'] float
+log ['relatedto'] drive ['etymologicallyrelatedto'] drift ['mannerof', 'synonym'] float
+log ['relatedto'] drive ['mannerof', 'relatedto'] transport ['mannerof'] float
+log ['relatedto'] drive ['mannerof', 'relatedto'] travel ['mannerof'] float
+log ['relatedto'] drive ['mannerof', 'relatedto', 'synonym'] move ['relatedto'] float
+log ['relatedto'] drive ['relatedto'] test ['mannerof'] float
+log ['relatedto'] drive ['relatedto'] turn ['relatedto'] float
+log ['relatedto'] drive ['relatedto'] tide ['mannerof', 'relatedto'] float
+log ['relatedto'] entry ['relatedto'] listing ['relatedto'] float
+log ['relatedto'] entry ['synonym'] element ['relatedto'] float
+log ['mannerof', 'relatedto', 'synonym'] record ['isa', 'mannerof', 'relatedto'] document ['relatedto'] float
+log ['mannerof', 'relatedto', 'synonym'] record ['relatedto'] style ['relatedto'] float
+log ['mannerof', 'relatedto', 'synonym'] record ['relatedto'] turn ['relatedto'] float
+log ['mannerof'] fell ['relatedto'] clear ['relatedto'] float
+log ['mannerof'] fell ['synonym'] fly ['causes'] float
+log ['relatedto'] move ['antonym'] lay ['relatedto'] float
+log ['relatedto'] move ['antonym', 'distinctfrom', 'relatedto'] staying ['relatedto'] float
+log ['relatedto'] move ['mannerof', 'relatedto'] blow ['synonym'] float
+log ['relatedto'] move ['isa', 'mannerof', 'relatedto'] change ['relatedto'] float
+log ['relatedto'] move ['mannerof', 'relatedto', 'synonym'] drive ['relatedto'] float
+log ['relatedto'] move ['relatedto'] ride ['mannerof'] float
+log ['relatedto'] move ['mannerof'] fly ['causes'] float
+log ['relatedto'] move ['isa', 'mannerof', 'relatedto', 'synonym'] turn ['relatedto'] float
+log ['relatedto'] move ['mannerof'] bob ['isa'] float
+log ['relatedto'] move ['mannerof'] launch ['mannerof'] float
+log ['relatedto'] move ['mannerof', 'relatedto'] shake ['relatedto'] float
+log ['relatedto'] move ['mannerof'] sink ['antonym', 'distinctfrom'] float
+log ['relatedto'] move ['mannerof'] slip ['relatedto'] float
+log ['relatedto'] move ['mannerof', 'relatedto'] transport ['mannerof'] float
+log ['relatedto'] move ['relatedto'] floater ['relatedto', 'derivedfrom'] float
+log ['relatedto'] move ['relatedto'] displacement ['relatedto'] float
+log ['relatedto'] move ['relatedto'] pack ['relatedto'] float
+log ['relatedto'] move ['relatedto', 'synonym'] travel ['mannerof'] float
+log ['relatedto'] move ['relatedto'] swim ['relatedto', 'synonym'] float
+log ['relatedto'] move ['relatedto'] turtle ['relatedto'] float

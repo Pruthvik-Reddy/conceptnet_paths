@@ -1,0 +1,100 @@
+gas ['relatedto'] fire ['synonym'] ignite
+gas ['usedfor'] light ['relatedto', 'synonym'] ignite
+gas ['isa'] substance ['relatedto'] ignite
+gas ['relatedto'] lighter ['usedfor'] ignite
+gas ['relatedto'] rockoon ['relatedto'] ignite
+gas ['relatedto'] shell ['relatedto'] ignite
+gas ['relatedto'] emit ['mannerof'] spark ['relatedto'] ignite
+gas ['isa', 'relatedto', 'synonym'] air ['antonym', 'distinctfrom'] fire ['synonym'] ignite
+gas ['isa', 'relatedto', 'synonym'] air ['relatedto'] light ['relatedto', 'synonym'] ignite
+gas ['isa', 'relatedto', 'synonym'] air ['relatedto'] substance ['relatedto'] ignite
+gas ['isa', 'relatedto', 'synonym'] air ['relatedto'] pyrophoric ['relatedto'] ignite
+gas ['isa', 'relatedto', 'synonym'] air ['relatedto'] pyrophoric_iron ['relatedto'] ignite
+gas ['relatedto'] fire ['capableof', 'relatedto', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+gas ['relatedto'] fire ['causes', 'relatedto', 'usedfor'] match ['usedfor'] ignite
+gas ['relatedto'] fire ['causes', 'relatedto'] spark ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto', 'derivedfrom'] firepot ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto', 'entails'] trigger ['relatedto'] ignite
+gas ['relatedto'] fire ['isa', 'relatedto'] ignition ['relatedto', 'derivedfrom'] ignite
+gas ['relatedto'] fire ['isa'] smudge ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto'] extinguish ['distinctfrom'] ignite
+gas ['relatedto'] fire ['relatedto'] fiery ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto'] light ['relatedto', 'synonym'] ignite
+gas ['relatedto'] fire ['relatedto'] substance ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto'] incombustible ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto', 'synonym'] inflame ['synonym'] ignite
+gas ['relatedto'] fire ['relatedto'] kindle ['mannerof'] ignite
+gas ['relatedto'] fire ['relatedto'] lighter ['usedfor'] ignite
+gas ['relatedto'] fire ['relatedto'] primer ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto'] pyrophoric ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto'] slow_match ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto'] snaplock ['relatedto'] ignite
+gas ['relatedto'] fire ['relatedto'] tend ['relatedto'] ignite
+gas ['relatedto'] fire ['synonym'] set_alight ['synonym'] ignite
+gas ['mannerof'] attack ['antonym', 'isa', 'synonym'] fire ['synonym'] ignite
+gas ['mannerof'] attack ['isa', 'mannerof', 'relatedto'] strike ['relatedto'] ignite
+gas ['atlocation'] boat ['relatedto'] lighter ['usedfor'] ignite
+gas ['relatedto'] car ['atlocation'] lighter ['usedfor'] ignite
+gas ['relatedto'] car ['relatedto'] ignition ['relatedto', 'derivedfrom'] ignite
+gas ['relatedto'] car ['relatedto'] spark ['relatedto'] ignite
+gas ['relatedto'] state ['relatedto'] phoenix ['relatedto'] ignite
+gas ['antonym', 'distinctfrom', 'relatedto'] solid ['isa'] substance ['relatedto'] ignite
+gas ['relatedto'] sun ['relatedto'] fire ['synonym'] ignite
+gas ['relatedto'] sun ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+gas ['relatedto'] sun ['causes', 'relatedto', 'usedfor'] light ['relatedto', 'synonym'] ignite
+gas ['relatedto'] sun ['relatedto'] fiery ['relatedto'] ignite
+gas ['isa', 'relatedto'] fluid ['isa', 'relatedto'] substance ['relatedto'] ignite
+gas ['isa', 'relatedto'] fluid ['relatedto'] tend ['relatedto'] ignite
+gas ['usedfor', 'relatedto'] heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['synonym'] ignite
+gas ['usedfor', 'relatedto'] heat ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+gas ['usedfor', 'relatedto'] heat ['distinctfrom'] light ['relatedto', 'synonym'] ignite
+gas ['usedfor', 'relatedto'] heat ['entails'] fuse ['relatedto'] ignite
+gas ['usedfor', 'relatedto'] heat ['relatedto'] fiery ['relatedto'] ignite
+gas ['usedfor', 'relatedto'] heat ['synonym'] inflame ['synonym'] ignite
+gas ['relatedto'] combustible ['antonym'] incombustible ['relatedto'] ignite
+gas ['relatedto'] combustible ['relatedto', 'derivedfrom'] noncombustible ['relatedto'] ignite
+gas ['relatedto'] combustible ['relatedto'] firepot ['relatedto'] ignite
+gas ['relatedto'] combustible ['relatedto'] smudge ['relatedto'] ignite
+gas ['relatedto'] combustible ['similarto'] ignitable ['relatedto', 'derivedfrom'] ignite
+gas ['relatedto'] combustion ['isa', 'relatedto'] fire ['synonym'] ignite
+gas ['relatedto'] combustion ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+gas ['relatedto'] combustion ['antonym'] extinguish ['distinctfrom'] ignite
+gas ['relatedto'] combustion ['relatedto'] ignition ['relatedto', 'derivedfrom'] ignite
+gas ['relatedto'] combustion ['relatedto'] fire_retardant ['relatedto'] ignite
+gas ['usedfor'] light ['relatedto'] fire ['synonym'] ignite
+gas ['usedfor'] light ['relatedto', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+gas ['usedfor'] light ['antonym'] extinguish ['distinctfrom'] ignite
+gas ['usedfor'] light ['formof', 'relatedto', 'derivedfrom', 'synonym'] lighter ['usedfor'] ignite
+gas ['usedfor'] light ['relatedto'] kindle ['mannerof'] ignite
+gas ['usedfor'] light ['relatedto'] rockoon ['relatedto'] ignite
+gas ['usedfor'] light ['relatedto'] spark ['relatedto'] ignite
+gas ['usedfor'] light ['relatedto'] tend ['relatedto'] ignite
+gas ['usedfor'] light ['synonym'] set_alight ['synonym'] ignite
+gas ['relatedto'] high ['relatedto'] fire ['synonym'] ignite
+gas ['relatedto'] range ['relatedto'] fire ['synonym'] ignite
+gas ['causes'] eating ['relatedto'] substance ['relatedto'] ignite
+gas ['relatedto'] generator ['relatedto'] fire ['synonym'] ignite
+gas ['relatedto'] energy ['relatedto'] fire ['synonym'] ignite
+gas ['relatedto'] energy ['relatedto'] burn ['causes', 'mannerof', 'synonym'] ignite
+gas ['relatedto'] energy ['isa', 'madeof', 'relatedto'] light ['relatedto', 'synonym'] ignite
+gas ['relatedto'] matter ['relatedto', 'synonym'] substance ['relatedto'] ignite
+gas ['capableof'] explode ['mannerof'] erupt ['synonym'] ignite
+gas ['usedfor', 'relatedto'] burning ['isa', 'relatedto'] fire ['synonym'] ignite
+gas ['usedfor', 'relatedto'] burning ['formof', 'relatedto', 'derivedfrom', 'synonym'] burn ['causes', 'mannerof', 'synonym'] ignite
+gas ['usedfor', 'relatedto'] burning ['relatedto'] incombustible ['relatedto'] ignite
+gas ['usedfor', 'relatedto'] burning ['relatedto'] extinguish ['distinctfrom'] ignite
+gas ['usedfor', 'relatedto'] burning ['isa'] ignition ['relatedto', 'derivedfrom'] ignite
+gas ['usedfor', 'relatedto'] burning ['relatedto'] fiery ['relatedto'] ignite
+gas ['usedfor', 'relatedto'] burning ['usedfor'] lighter ['usedfor'] ignite
+gas ['relatedto'] flammable ['relatedto'] incombustible ['relatedto'] ignite
+gas ['relatedto'] flammable ['relatedto'] ignition ['relatedto', 'derivedfrom'] ignite
+gas ['hasa'] weight ['relatedto'] light ['relatedto', 'synonym'] ignite
+gas ['antonym', 'distinctfrom', 'relatedto', 'similarto'] liquid ['isa', 'relatedto'] substance ['relatedto'] ignite
+gas ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] light ['relatedto', 'synonym'] ignite
+gas ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] substance ['relatedto'] ignite
+gas ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] shell ['relatedto'] ignite
+gas ['derivedfrom', 'atlocation'] gas_station ['relatedto'] shell ['relatedto'] ignite
+gas ['relatedto', 'derivedfrom'] gaslighter ['relatedto'] light ['relatedto', 'synonym'] ignite
+gas ['relatedto', 'derivedfrom'] gaslighter ['derivedfrom'] lighter ['usedfor'] ignite
+gas ['relatedto', 'derivedfrom', 'synonym'] gasoline ['relatedto'] primer ['relatedto'] ignite
+gas ['relatedto', 'derivedfrom', 'synonym'] gasoline ['relatedto'] shell ['relatedto'] ignite

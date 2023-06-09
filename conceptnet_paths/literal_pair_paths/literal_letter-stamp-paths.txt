@@ -1,0 +1,100 @@
+letter ['relatedto'] stamp
+letter ['usedfor', 'relatedto'] post ['relatedto'] stamp
+letter ['relatedto'] piece ['relatedto'] stamp
+letter ['madeof', 'relatedto'] paper ['relatedto'] stamp
+letter ['relatedto', 'partof', 'atlocation'] mail ['relatedto', 'atlocation'] stamp
+letter ['relatedto', 'atlocation'] post_office ['relatedto'] stamp
+letter ['isa', 'relatedto'] symbol ['isa'] stamp
+letter ['relatedto'] first_day_cover ['relatedto'] stamp
+letter ['relatedto'] stamps ['formof', 'relatedto'] stamp
+letter ['relatedto'] postmark ['mannerof'] stamp
+letter ['relatedto'] railway_stamp ['relatedto'] stamp
+letter ['relatedto'] type ['relatedto'] stamp
+letter ['relatedto'] smaller ['relatedto'] piece ['relatedto'] stamp
+letter ['antonym', 'distinctfrom', 'relatedto'] number ['relatedto'] control_number ['relatedto'] stamp
+letter ['antonym', 'distinctfrom', 'relatedto'] number ['relatedto'] date ['mannerof'] stamp
+letter ['antonym', 'distinctfrom', 'relatedto'] number ['relatedto'] die ['isa', 'relatedto'] stamp
+letter ['antonym', 'distinctfrom', 'relatedto'] number ['relatedto'] symbol ['isa'] stamp
+letter ['antonym', 'distinctfrom', 'relatedto'] number ['relatedto'] travel_bug ['relatedto'] stamp
+letter ['relatedto'] someone ['relatedto'] punch ['relatedto'] stamp
+letter ['usedfor', 'relatedto', 'partof', 'atlocation'] alphabet ['relatedto'] symbol ['isa'] stamp
+letter ['relatedto'] one ['relatedto'] foot ['relatedto'] stamp
+letter ['relatedto'] one ['relatedto'] step ['etymologicallyrelatedto'] stamp
+letter ['usedfor', 'relatedto'] post ['mannerof'] affix ['mannerof'] stamp
+letter ['usedfor', 'relatedto'] post ['relatedto', 'derivedfrom'] post_office ['relatedto'] stamp
+letter ['usedfor', 'relatedto'] post ['distinctfrom', 'relatedto', 'synonym'] mail ['relatedto', 'atlocation'] stamp
+letter ['usedfor', 'relatedto'] post ['relatedto'] mark ['relatedto'] stamp
+letter ['usedfor', 'relatedto'] post ['relatedto'] sending_mail ['usedfor'] stamp
+letter ['usedfor', 'relatedto'] post ['relatedto'] stamps ['formof', 'relatedto'] stamp
+letter ['usedfor', 'relatedto'] post ['relatedto'] battery ['partof'] stamp
+letter ['usedfor', 'relatedto'] post ['relatedto'] quickly ['relatedto'] stamp
+letter ['relatedto'] lower ['relatedto'] class ['isa'] stamp
+letter ['relatedto'] lower ['relatedto'] foot ['relatedto'] stamp
+letter ['relatedto'] home ['relatedto'] design ['relatedto'] stamp
+letter ['relatedto'] friend ['relatedto'] date ['mannerof'] stamp
+letter ['relatedto'] friend ['relatedto'] class ['isa'] stamp
+letter ['relatedto'] small ['relatedto'] foot ['relatedto'] stamp
+letter ['relatedto'] small ['relatedto'] piece ['relatedto'] stamp
+letter ['relatedto'] small ['relatedto'] step ['etymologicallyrelatedto'] stamp
+letter ['relatedto'] spirit ['relatedto'] mark ['relatedto'] stamp
+letter ['relatedto'] box ['relatedto'] post ['relatedto'] stamp
+letter ['relatedto'] box ['relatedto', 'atlocation'] mail ['relatedto', 'atlocation'] stamp
+letter ['relatedto'] box ['relatedto', 'atlocation'] post_office ['relatedto'] stamp
+letter ['relatedto'] box ['relatedto'] paper ['relatedto'] stamp
+letter ['relatedto'] box ['relatedto'] shape ['mannerof'] stamp
+letter ['relatedto'] box ['relatedto'] bearing ['relatedto'] stamp
+letter ['relatedto'] box ['relatedto', 'synonym'] punch ['relatedto'] stamp
+letter ['relatedto'] box ['relatedto'] stompbox ['relatedto'] stamp
+letter ['relatedto'] piece ['relatedto'] cover ['relatedto'] stamp
+letter ['relatedto'] piece ['partof'] collection ['relatedto'] stamp
+letter ['relatedto'] piece ['relatedto'] paper ['relatedto'] stamp
+letter ['relatedto'] put ['relatedto'] cover ['relatedto'] stamp
+letter ['relatedto'] put ['mannerof'] pigeonhole ['synonym'] stamp
+letter ['relatedto'] put ['mannerof'] step ['etymologicallyrelatedto'] stamp
+letter ['relatedto'] brief ['relatedto'] collection ['relatedto'] stamp
+letter ['relatedto'] long ['relatedto'] foot ['relatedto'] stamp
+letter ['relatedto'] orthography ['relatedto'] symbol ['isa'] stamp
+letter ['antonym', 'distinctfrom', 'relatedto'] email ['relatedto'] post ['relatedto'] stamp
+letter ['isa'] text ['relatedto'] paper ['relatedto'] stamp
+letter ['isa'] text ['relatedto'] rubber_stamp ['derivedfrom', 'synonym'] stamp
+letter ['isa'] text ['relatedto'] symbol ['isa'] stamp
+letter ['relatedto'] cap ['relatedto'] cover ['relatedto'] stamp
+letter ['relatedto'] cap ['relatedto'] paper ['relatedto'] stamp
+letter ['relatedto'] cap ['relatedto'] seal ['isa', 'relatedto', 'synonym'] stamp
+letter ['relatedto'] case ['relatedto'] cover ['relatedto'] stamp
+letter ['relatedto'] case ['relatedto'] block ['relatedto'] stamp
+letter ['relatedto'] case ['isa'] piece ['relatedto'] stamp
+letter ['relatedto'] case ['relatedto'] bob ['relatedto'] stamp
+letter ['relatedto'] case ['relatedto'] paper ['relatedto'] stamp
+letter ['relatedto'] case ['relatedto'] type ['relatedto'] stamp
+letter ['relatedto'] case ['relatedto'] adhesive ['relatedto'] stamp
+letter ['relatedto'] hand ['antonym', 'distinctfrom', 'relatedto'] foot ['relatedto'] stamp
+letter ['relatedto'] hand ['relatedto', 'derivedfrom'] handstamp ['relatedto', 'derivedfrom'] stamp
+letter ['relatedto'] hand ['isa'] collection ['relatedto'] stamp
+letter ['relatedto'] hand ['relatedto'] bearing ['relatedto'] stamp
+letter ['relatedto'] hand ['relatedto'] type ['relatedto'] stamp
+letter ['relatedto'] hand ['relatedto'] impression ['synonym'] stamp
+letter ['relatedto'] hand ['relatedto'] paper ['relatedto'] stamp
+letter ['relatedto'] hand ['relatedto', 'synonym'] paw ['relatedto'] stamp
+letter ['relatedto'] hand ['relatedto'] punch ['relatedto'] stamp
+letter ['relatedto'] card ['relatedto'] piece ['relatedto'] stamp
+letter ['relatedto'] card ['antonym', 'distinctfrom', 'relatedto', 'isa'] paper ['relatedto'] stamp
+letter ['relatedto'] card ['relatedto'] mail ['relatedto', 'atlocation'] stamp
+letter ['relatedto'] card ['relatedto'] mark ['relatedto'] stamp
+letter ['relatedto'] card ['relatedto'] type ['relatedto'] stamp
+letter ['relatedto'] card ['relatedto'] machine ['isa'] stamp
+letter ['madeof', 'relatedto'] paper ['mannerof', 'relatedto'] cover ['relatedto'] stamp
+letter ['madeof', 'relatedto'] paper ['relatedto'] piece ['relatedto'] stamp
+letter ['madeof', 'relatedto'] paper ['hasprerequisite'] rubber_stamp ['derivedfrom', 'synonym'] stamp
+letter ['relatedto', 'partof'] line ['relatedto'] approval ['relatedto'] stamp
+letter ['relatedto', 'partof'] line ['mannerof', 'relatedto'] cover ['relatedto'] stamp
+letter ['relatedto', 'partof'] line ['relatedto'] cast ['synonym'] stamp
+letter ['relatedto', 'partof'] line ['atlocation'] post_office ['relatedto'] stamp
+letter ['relatedto', 'partof'] line ['isa', 'relatedto'] mark ['relatedto'] stamp
+letter ['relatedto', 'partof'] line ['isa', 'relatedto'] shape ['mannerof'] stamp
+letter ['relatedto', 'partof'] line ['relatedto'] symbol ['isa'] stamp
+letter ['relatedto', 'partof'] line ['relatedto'] official ['relatedto'] stamp
+letter ['relatedto', 'partof'] line ['relatedto'] token ['relatedto'] stamp
+letter ['relatedto'] notes ['usedfor'] paper ['relatedto'] stamp
+letter ['isa', 'relatedto'] character ['relatedto'] cast ['synonym'] stamp
+letter ['isa', 'relatedto'] character ['isa', 'relatedto', 'synonym'] type ['relatedto'] stamp

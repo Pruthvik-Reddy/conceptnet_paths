@@ -1,0 +1,100 @@
+bug ['distinctfrom'] animal ['relatedto'] heartbeat ['relatedto'] ping
+bug ['relatedto'] annoy ['usedfor'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] car ['relatedto'] beep ['relatedto'] ping
+bug ['synonym'] head ['relatedto'] poll ['relatedto'] ping
+bug ['relatedto'] stable ['similarto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] fly ['isa', 'mannerof'] hit ['mannerof'] ping
+bug ['relatedto'] software ['relatedto'] host ['relatedto'] ping
+bug ['relatedto'] software ['relatedto'] heartbeat ['relatedto'] ping
+bug ['relatedto'] listening ['usedfor', 'relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] river ['isa'] ping_river ['synonym'] ping
+bug ['relatedto'] device ['relatedto'] ip_address ['relatedto'] ping
+bug ['relatedto'] enthusiasm ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] network ['relatedto'] email ['relatedto'] ping
+bug ['relatedto'] network ['relatedto'] host ['relatedto'] ping
+bug ['relatedto'] network ['relatedto'] ip_address ['relatedto'] ping
+bug ['relatedto'] network ['relatedto'] pinger ['relatedto'] ping
+bug ['relatedto'] heartbleed ['etymologicallyrelatedto'] heartbeat ['relatedto'] ping
+bug ['relatedto'] intercept ['relatedto'] pong ['etymologicallyrelatedto', 'relatedto'] ping
+bug ['relatedto'] patch ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] sweep ['relatedto'] flick ['relatedto'] ping
+bug ['relatedto'] alien ['antonym', 'distinctfrom'] human ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] alien ['isa'] software ['relatedto'] host ['relatedto'] ping
+bug ['relatedto'] alien ['isa'] software ['relatedto'] heartbeat ['relatedto'] ping
+bug ['relatedto'] alien ['relatedto'] another ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] alien ['relatedto'] form ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] alien ['relatedto'] animal ['relatedto'] heartbeat ['relatedto'] ping
+bug ['relatedto'] alien ['relatedto'] country ['isa'] thailand ['partof'] ping
+bug ['relatedto'] alien ['relatedto'] organization ['isa'] host ['relatedto'] ping
+bug ['relatedto'] order ['isa'] harmony ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['isa'] indent ['entails'] hit ['mannerof'] ping
+bug ['relatedto'] order ['isa', 'relatedto'] organization ['isa'] host ['relatedto'] ping
+bug ['relatedto'] order ['isa', 'relatedto'] word ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['mannerof'] call ['antonym'] email ['relatedto'] ping
+bug ['relatedto'] order ['mannerof'] call ['mannerof'] beep ['relatedto'] ping
+bug ['relatedto'] order ['mannerof', 'relatedto'] place ['relatedto'] poll ['relatedto'] ping
+bug ['relatedto'] order ['mannerof', 'relatedto'] place ['synonym'] reach ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] bar ['relatedto'] hit ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] bar ['relatedto'] host ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] climax ['relatedto'] reach ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] come ['relatedto'] bing ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] companion ['relatedto'] host ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] count ['isa'] poll ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] cuttlefish ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] decoration ['relatedto'] host ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] destiny ['relatedto'] reach ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] fill ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] gag ['relatedto'] reach ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] heel ['mannerof'] hit ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] legion ['synonym'] host ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] line ['relatedto'] hit ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] show ['mannerof'] peep ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] bat ['mannerof', 'relatedto'] hit ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] high ['relatedto'] reach ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] organism ['isa', 'relatedto'] host ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] power ['relatedto'] hit ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] product ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] secure ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] perch ['relatedto'] reach ['mannerof'] ping
+bug ['relatedto'] order ['relatedto'] phenomenon ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] sampling ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] sequencer ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] siren ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] stop ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['relatedto'] turn ['relatedto'] bounce ['relatedto'] ping
+bug ['relatedto'] order ['relatedto'] virtue ['relatedto'] reach ['mannerof'] ping
+bug ['relatedto'] order ['synonym'] quiet ['antonym', 'distinctfrom', 'relatedto'] sound ['isa', 'mannerof'] ping
+bug ['relatedto'] order ['synonym'] quiet ['relatedto'] peep ['relatedto'] ping
+bug ['relatedto'] order ['synonym'] society ['relatedto'] pink ['synonym'] ping
+bug ['relatedto'] order ['synonym'] club ['mannerof', 'relatedto'] hit ['mannerof'] ping
+bug ['relatedto'] order ['usedfor'] country ['isa'] thailand ['partof'] ping
+bug ['capableof'] anger ['relatedto'] red ['relatedto'] pink ['synonym'] ping
+bug ['capableof'] anger ['causes'] singing ['relatedto', 'hasprerequisite'] sound ['isa', 'mannerof'] ping
+bug ['capableof'] anger ['causesdesire', 'relatedto'] fight ['relatedto'] hit ['mannerof'] ping
+bug ['capableof'] anger ['causesdesire'] hurt_else ['hasprerequisite'] hit ['mannerof'] ping
+bug ['capableof'] anger ['causesdesire'] kill ['mannerof'] hit ['mannerof'] ping
+bug ['capableof'] anger ['causesdesire'] punch ['mannerof', 'relatedto', 'hasprerequisite'] hit ['mannerof'] ping
+bug ['capableof'] anger ['etymologicallyrelatedto', 'relatedto'] anguish ['relatedto', 'synonym'] pang ['etymologicallyrelatedto'] ping
+bug ['capableof'] anger ['isa', 'relatedto'] emotion ['relatedto'] heartbeat ['relatedto'] ping
+bug ['capableof'] anger ['isa', 'relatedto'] fury ['antonym'] sound ['isa', 'mannerof'] ping
+bug ['capableof'] anger ['relatedto'] feeling ['isa', 'relatedto'] pang ['etymologicallyrelatedto'] ping
+bug ['capableof'] anger ['relatedto'] pain ['isa', 'relatedto', 'synonym'] pang ['etymologicallyrelatedto'] ping
+bug ['capableof'] anger ['relatedto'] sting ['synonym'] pang ['etymologicallyrelatedto'] ping
+bug ['capableof'] anger ['relatedto'] misophonia ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['distinctfrom'] animal ['isa'] child ['relatedto'] reach ['mannerof'] ping
+bug ['distinctfrom'] animal ['isa', 'relatedto'] adult ['isa'] host ['relatedto'] ping
+bug ['distinctfrom'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['distinctfrom'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] peep ['relatedto'] ping
+bug ['distinctfrom'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['distinctfrom'] animal ['atlocation'] chest ['relatedto'] hit ['mannerof'] ping
+bug ['distinctfrom'] animal ['atlocation'] heart ['relatedto'] heartbeat ['relatedto'] ping
+bug ['distinctfrom'] animal ['relatedto', 'atlocation'] muscle ['relatedto'] pink ['synonym'] ping
+bug ['distinctfrom'] animal ['isa'] film ['synonym'] flick ['relatedto'] ping
+bug ['distinctfrom'] animal ['isa', 'relatedto'] organism ['isa', 'relatedto'] host ['relatedto'] ping
+bug ['distinctfrom'] animal ['isa'] single ['mannerof', 'relatedto'] hit ['mannerof'] ping
+bug ['distinctfrom'] animal ['isa'] single ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['distinctfrom'] animal ['isa', 'relatedto'] bat ['mannerof', 'relatedto'] hit ['mannerof'] ping
+bug ['distinctfrom'] animal ['isa'] coral ['isa', 'relatedto'] pink ['synonym'] ping
+bug ['distinctfrom'] animal ['isa', 'relatedto'] crow ['relatedto'] sound ['isa', 'mannerof'] ping
+bug ['distinctfrom'] animal ['isa'] echinacea ['relatedto'] pink ['synonym'] ping
+bug ['distinctfrom'] animal ['isa', 'relatedto'] fish ['relatedto'] poll ['relatedto'] ping

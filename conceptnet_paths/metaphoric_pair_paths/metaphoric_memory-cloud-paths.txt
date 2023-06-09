@@ -1,0 +1,100 @@
+memory ['relatedto'] related ['relatedto'] cloud
+memory ['relatedto'] group ['relatedto'] cloud
+memory ['relatedto'] stuff ['relatedto'] cloud
+memory ['relatedto'] shape ['relatedto'] cloud
+memory ['relatedto'] ability ['relatedto'] condition ['relatedto'] cloud
+memory ['relatedto'] ability ['relatedto'] sight ['relatedto'] cloud
+memory ['relatedto'] nothing ['antonym', 'distinctfrom', 'relatedto'] everything ['relatedto'] cloud
+memory ['relatedto'] nothing ['antonym', 'relatedto'] anything ['relatedto'] cloud
+memory ['relatedto'] nothing ['relatedto'] air ['relatedto', 'atlocation'] cloud
+memory ['relatedto'] nothing ['relatedto'] clear ['antonym'] cloud
+memory ['relatedto'] nothing ['relatedto'] sky ['antonym', 'relatedto', 'partof', 'atlocation'] cloud
+memory ['relatedto'] nothing ['relatedto'] thunder ['usedfor', 'relatedto'] cloud
+memory ['relatedto'] activity ['relatedto'] smoke ['isa', 'relatedto'] cloud
+memory ['relatedto'] activity ['relatedto'] thunder ['usedfor', 'relatedto'] cloud
+memory ['relatedto'] activity ['relatedto'] weather ['usedfor', 'relatedto'] cloud
+memory ['relatedto'] take_away ['relatedto'] abstract ['relatedto'] cloud
+memory ['relatedto'] human ['atlocation'] bank ['relatedto'] cloud
+memory ['relatedto'] human ['atlocation'] coma ['isa', 'relatedto'] cloud
+memory ['relatedto'] human ['relatedto', 'atlocation'] group ['relatedto'] cloud
+memory ['relatedto'] human ['relatedto', 'atlocation'] home ['relatedto'] cloud
+memory ['relatedto'] human ['relatedto'] mamma ['relatedto'] cloud
+memory ['relatedto'] old ['madeof'] internet ['relatedto'] cloud
+memory ['relatedto'] old ['relatedto'] gray ['relatedto'] cloud
+memory ['relatedto'] old ['relatedto'] hill ['relatedto'] cloud
+memory ['relatedto'] old ['relatedto'] sheep ['relatedto'] cloud
+memory ['relatedto'] old ['relatedto'] steam ['relatedto'] cloud
+memory ['relatedto'] short ['antonym'] high ['relatedto'] cloud
+memory ['relatedto'] short ['relatedto'] blue ['antonym', 'relatedto'] cloud
+memory ['relatedto'] short ['relatedto'] cotton ['relatedto'] cloud
+memory ['relatedto'] short ['relatedto'] hill ['relatedto'] cloud
+memory ['relatedto'] short ['relatedto'] sneeze ['relatedto'] cloud
+memory ['relatedto'] sense ['relatedto'] air ['relatedto', 'atlocation'] cloud
+memory ['relatedto'] sense ['isa', 'relatedto', 'synonym'] sight ['relatedto'] cloud
+memory ['relatedto'] sense ['relatedto'] clear ['antonym'] cloud
+memory ['relatedto'] sense ['relatedto'] color ['relatedto'] cloud
+memory ['relatedto'] sense ['relatedto'] heaven ['relatedto'] cloud
+memory ['relatedto'] sense ['relatedto'] shade ['usedfor', 'relatedto'] cloud
+memory ['relatedto'] social ['relatedto'] club ['etymologicallyrelatedto'] cloud
+memory ['relatedto'] social ['relatedto'] gathering ['relatedto'] cloud
+memory ['relatedto'] social ['relatedto'] smac ['relatedto'] cloud
+memory ['isa'] association ['isa', 'relatedto'] group ['relatedto'] cloud
+memory ['isa'] association ['isa', 'relatedto'] club ['etymologicallyrelatedto'] cloud
+memory ['isa'] association ['relatedto'] home ['relatedto'] cloud
+memory ['relatedto'] stick ['isa', 'relatedto'] club ['etymologicallyrelatedto'] cloud
+memory ['relatedto'] stick ['relatedto'] candy_floss ['relatedto'] cloud
+memory ['relatedto'] stick ['relatedto'] ball ['relatedto'] cloud
+memory ['relatedto'] stick ['relatedto'] holder ['relatedto'] cloud
+memory ['relatedto'] stick ['relatedto'] marshmallow ['relatedto'] cloud
+memory ['relatedto'] stick ['relatedto'] related ['relatedto'] cloud
+memory ['relatedto'] stick ['relatedto'] shape ['relatedto'] cloud
+memory ['relatedto'] stick ['relatedto'] snow ['usedfor', 'relatedto'] cloud
+memory ['relatedto'] back ['antonym', 'relatedto'] cover ['relatedto'] cloud
+memory ['relatedto'] back ['relatedto'] internet ['relatedto'] cloud
+memory ['relatedto'] back ['relatedto'] change ['mannerof'] cloud
+memory ['relatedto'] bad ['hasproperty'] coma ['isa', 'relatedto'] cloud
+memory ['relatedto'] bad ['relatedto'] fog ['isa', 'relatedto'] cloud
+memory ['relatedto'] bad ['relatedto'] rain ['antonym', 'usedfor', 'relatedto'] cloud
+memory ['relatedto'] bad ['relatedto'] smoke ['isa', 'relatedto'] cloud
+memory ['relatedto'] bad ['relatedto'] thunder ['usedfor', 'relatedto'] cloud
+memory ['relatedto'] bad ['relatedto'] weather ['usedfor', 'relatedto'] cloud
+memory ['relatedto'] good ['relatedto'] home ['relatedto'] cloud
+memory ['relatedto'] good ['relatedto'] ball ['relatedto'] cloud
+memory ['relatedto'] good ['relatedto'] clear ['antonym'] cloud
+memory ['relatedto'] good ['relatedto', 'similarto'] nice ['relatedto'] cloud
+memory ['relatedto'] good ['relatedto', 'similarto'] white ['relatedto'] cloud
+memory ['relatedto'] good ['relatedto'] heaven ['relatedto'] cloud
+memory ['relatedto'] happy ['antonym'] blue ['antonym', 'relatedto'] cloud
+memory ['relatedto'] happy ['relatedto'] days ['relatedto'] cloud
+memory ['relatedto'] happy ['relatedto'] group ['relatedto'] cloud
+memory ['relatedto'] happy ['relatedto'] sunshine ['antonym'] cloud
+memory ['relatedto'] bit ['relatedto'] inside ['relatedto'] cloud
+memory ['relatedto', 'synonym'] mind ['relatedto'] abstract ['relatedto'] cloud
+memory ['relatedto', 'synonym'] mind ['hasprerequisite'] dreaming ['usedfor'] cloud
+memory ['relatedto', 'synonym'] mind ['relatedto'] fog ['isa', 'relatedto'] cloud
+memory ['relatedto', 'synonym'] mind ['relatedto'] klesha ['relatedto'] cloud
+memory ['relatedto', 'synonym'] mind ['relatedto'] inside ['relatedto'] cloud
+memory ['relatedto', 'synonym'] mind ['relatedto'] makes ['relatedto'] cloud
+memory ['relatedto', 'synonym'] mind ['relatedto'] obnubilation ['relatedto'] cloud
+memory ['relatedto', 'synonym'] mind ['relatedto'] phenomenon ['relatedto'] cloud
+memory ['relatedto'] long ['relatedto'] silver ['relatedto'] cloud
+memory ['relatedto'] camp ['distinctfrom', 'relatedto'] home ['relatedto'] cloud
+memory ['relatedto'] camp ['isa', 'relatedto'] gathering ['relatedto'] cloud
+memory ['relatedto'] camp ['mannerof'] change ['mannerof'] cloud
+memory ['relatedto'] camp ['relatedto'] group ['relatedto'] cloud
+memory ['relatedto'] camp ['relatedto'] marshmallow ['relatedto'] cloud
+memory ['relatedto'] camp ['relatedto'] affect ['mannerof'] cloud
+memory ['relatedto'] camp ['relatedto'] video_game ['isa'] cloud
+memory ['relatedto'] card ['relatedto'] sometimes ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] white ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] club ['etymologicallyrelatedto'] cloud
+memory ['relatedto'] card ['relatedto'] component ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] element ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] inside ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] item ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] related ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] single ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] wool ['relatedto'] cloud
+memory ['relatedto'] card ['relatedto'] clear ['antonym'] cloud
+memory ['relatedto'] card ['relatedto'] high ['relatedto'] cloud
+memory ['relatedto'] term ['relatedto'] number ['relatedto'] cloud

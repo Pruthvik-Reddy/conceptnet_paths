@@ -1,0 +1,100 @@
+soldier ['relatedto'] present ['synonym'] salute
+soldier ['relatedto', 'partof'] army ['relatedto'] salute
+soldier ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] toast ['relatedto', 'synonym'] salute
+soldier ['relatedto'] present ['relatedto', 'derivedfrom'] present_arms ['relatedto'] salute
+soldier ['relatedto'] enemy ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] enemy ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] man ['relatedto'] hand ['relatedto'] salute
+soldier ['relatedto', 'partof'] army ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] defend ['relatedto'] safety ['relatedto'] salute
+soldier ['atlocation'] battle ['relatedto'] army ['relatedto'] salute
+soldier ['atlocation'] battle ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] bread ['isa', 'madeof', 'relatedto', 'instanceof'] toast ['relatedto', 'synonym'] salute
+soldier ['relatedto'] butter ['relatedto'] toast ['relatedto', 'synonym'] salute
+soldier ['relatedto'] work ['relatedto'] safety ['relatedto'] salute
+soldier ['relatedto'] work ['relatedto'] smell ['mannerof'] salute
+soldier ['relatedto'] gun ['relatedto', 'atlocation'] army ['relatedto'] salute
+soldier ['relatedto'] gun ['relatedto'] bang ['relatedto'] salute
+soldier ['relatedto'] gun ['relatedto'] device ['relatedto'] salute
+soldier ['relatedto'] gun ['relatedto'] hand ['relatedto'] salute
+soldier ['relatedto'] gun ['relatedto'] present_arms ['relatedto'] salute
+soldier ['relatedto'] gun ['relatedto'] salute_state ['relatedto'] salute
+soldier ['relatedto'] captain ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] captain ['antonym'] hand ['relatedto'] salute
+soldier ['relatedto'] captain ['relatedto', 'atlocation'] military ['relatedto'] salute
+soldier ['relatedto'] private ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] private ['relatedto'] military ['relatedto'] salute
+soldier ['synonym'] dog ['relatedto'] smell ['mannerof'] salute
+soldier ['relatedto'] irregular ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] horse ['relatedto'] hand ['relatedto'] salute
+soldier ['atlocation'] battlefield ['atlocation'] army ['relatedto'] salute
+soldier ['atlocation'] war_zone ['relatedto'] military ['relatedto'] salute
+soldier ['capableof', 'hasprerequisite'] fight_enemy ['capableof'] army ['relatedto'] salute
+soldier ['capableof', 'hasprerequisite'] fight_enemy ['hasprerequisite'] join_army ['haslastsubevent'] salute
+soldier ['capableof'] fighting_war ['hasprerequisite'] army ['relatedto'] salute
+soldier ['capableof'] fighting_war ['hasprerequisite'] military ['relatedto'] salute
+soldier ['relatedto', 'derivedfrom'] soldierlike ['similarto'] military ['relatedto'] salute
+soldier ['relatedto', 'derivedfrom'] toy_soldier ['relatedto'] military ['relatedto'] salute
+soldier ['usedfor', 'relatedto', 'desires'] fight ['motivatedbygoal'] join_army ['haslastsubevent'] salute
+soldier ['usedfor', 'relatedto', 'desires'] fight ['relatedto'] military ['relatedto'] salute
+soldier ['isa', 'distinctfrom', 'relatedto'] warrior ['hasa'] honor ['relatedto'] salute
+soldier ['etymologicallyrelatedto'] sold ['relatedto'] military ['relatedto'] salute
+soldier ['formof', 'relatedto'] soldiering ['relatedto'] military ['relatedto'] salute
+soldier ['formof', 'relatedto'] soldiers ['hasa', 'relatedto'] army ['relatedto'] salute
+soldier ['formof', 'relatedto'] soldiers ['relatedto'] military ['relatedto'] salute
+soldier ['hasprerequisite'] fight_war ['usedfor'] army ['relatedto'] salute
+soldier ['hasprerequisite'] fight_war ['hasprerequisite'] join_army ['haslastsubevent'] salute
+soldier ['isa'] askari ['relatedto'] military ['relatedto'] salute
+soldier ['isa'] cannon_fodder ['relatedto'] military ['relatedto'] salute
+soldier ['isa'] gurkha ['relatedto'] army ['relatedto'] salute
+soldier ['isa', 'relatedto'] marine ['relatedto'] army ['relatedto'] salute
+soldier ['isa', 'relatedto'] orderly ['relatedto'] military ['relatedto'] salute
+soldier ['isa'] peacekeeper ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] barrack ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] bravo ['relatedto'] acclaim ['relatedto'] salute
+soldier ['relatedto'] canteen ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] comrade ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] congiary ['relatedto'] present ['synonym'] salute
+soldier ['relatedto'] duty ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] duty ['relatedto'] honor ['relatedto'] salute
+soldier ['relatedto'] duty ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] enomoty ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] feldgrau ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] fighter ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] filibuster ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] fort ['relatedto', 'atlocation'] army ['relatedto'] salute
+soldier ['relatedto'] fort ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] general ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] general ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] ground_forces ['relatedto', 'synonym'] army ['relatedto'] salute
+soldier ['relatedto'] ground_pounder ['relatedto'] military ['relatedto'] salute
+soldier ['usedfor', 'relatedto'] guard ['synonym'] safety ['relatedto'] salute
+soldier ['usedfor', 'relatedto'] guard ['isa'] device ['relatedto'] salute
+soldier ['relatedto'] guardroom ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] infantry ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] infantry ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] jack ['relatedto'] honor ['relatedto'] salute
+soldier ['relatedto'] jack ['relatedto'] device ['relatedto'] salute
+soldier ['relatedto'] jackboot ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] khaki ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] khaki ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] lieutenant ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] lieutenant ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] major ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] major ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] manual_exercise ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] march ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] march ['relatedto'] hand ['relatedto'] salute
+soldier ['relatedto'] march ['relatedto'] eyes_right ['relatedto'] salute
+soldier ['relatedto'] march ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] marker ['relatedto'] device ['relatedto'] salute
+soldier ['relatedto'] memorial_day ['relatedto'] honor ['relatedto'] salute
+soldier ['relatedto'] mercenary ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] miles_gloriosus ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] militant ['relatedto'] military ['relatedto'] salute
+soldier ['relatedto'] nizam ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] pentecosty ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] pioneer ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] rank ['relatedto'] army ['relatedto'] salute
+soldier ['relatedto'] rank ['relatedto'] promote ['relatedto'] salute

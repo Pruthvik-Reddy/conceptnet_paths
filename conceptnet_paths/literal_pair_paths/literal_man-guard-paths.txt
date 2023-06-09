@@ -1,0 +1,100 @@
+man ['relatedto'] guard
+man ['relatedto'] agent ['relatedto'] guard
+man ['antonym', 'relatedto'] prisoner ['antonym'] guard
+man ['distinctfrom'] machine ['relatedto'] guard
+man ['isa'] bouncer ['isa'] guard
+man ['isa', 'relatedto'] guy ['relatedto'] guard
+man ['isa', 'relatedto'] policeman ['relatedto'] guard
+man ['relatedto'] art ['relatedto'] guard
+man ['relatedto'] dog ['relatedto'] guard
+man ['relatedto'] king ['relatedto'] guard
+man ['relatedto'] area ['relatedto'] guard
+man ['relatedto'] employee ['relatedto'] guard
+man ['relatedto'] position ['isa', 'relatedto'] guard
+man ['relatedto'] soldier ['usedfor', 'relatedto'] guard
+man ['relatedto'] establishment ['relatedto'] bank ['relatedto'] guard
+man ['relatedto'] presence ['relatedto'] part ['relatedto'] guard
+man ['relatedto'] presence ['synonym'] front ['relatedto'] guard
+man ['relatedto'] child ['relatedto'] access ['relatedto'] guard
+man ['relatedto'] child ['relatedto'] ward ['etymologicallyrelatedto', 'relatedto', 'synonym'] guard
+man ['relatedto', 'synonym'] human ['antonym'] machine ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['atlocation'] bank ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['relatedto', 'atlocation'] home ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['atlocation'] jail ['relatedto', 'atlocation'] guard
+man ['relatedto', 'synonym'] human ['atlocation'] prison ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['atlocation'] train ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['desires'] money ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['isa'] police ['distinctfrom', 'relatedto'] guard
+man ['relatedto', 'synonym'] human ['relatedto'] art ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['relatedto'] block ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['relatedto'] building ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['relatedto'] dog ['relatedto'] guard
+man ['relatedto', 'synonym'] human ['relatedto'] honour ['relatedto'] guard
+man ['relatedto'] old ['etymologicallyrelatedto', 'derivedfrom'] old_guard ['etymologicallyrelatedto'] guard
+man ['relatedto'] old ['relatedto'] century ['relatedto'] guard
+man ['relatedto'] old ['relatedto'] dog ['relatedto'] guard
+man ['relatedto'] old ['relatedto'] lantern ['relatedto'] guard
+man ['relatedto'] old ['relatedto'] expression ['relatedto'] guard
+man ['relatedto'] agent ['relatedto'] act ['mannerof'] guard
+man ['relatedto'] agent ['isa'] expression ['relatedto'] guard
+man ['relatedto'] agent ['isa'] money ['relatedto'] guard
+man ['relatedto'] agent ['relatedto'] gun ['relatedto'] guard
+man ['relatedto'] agent ['relatedto'] guy ['relatedto'] guard
+man ['relatedto'] agent ['relatedto'] job ['relatedto'] guard
+man ['relatedto'] agent ['relatedto'] officer ['relatedto'] guard
+man ['relatedto'] agent ['relatedto'] worker ['relatedto'] guard
+man ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['antonym'] guard
+man ['relatedto'] fire ['derivedfrom'] fireguard ['derivedfrom'] guard
+man ['relatedto'] fire ['relatedto'] branch ['relatedto'] guard
+man ['relatedto'] fire ['relatedto'] danger ['relatedto'] guard
+man ['relatedto'] fire ['relatedto'] dangerous ['relatedto'] guard
+man ['relatedto'] fire ['relatedto'] stuff ['relatedto'] guard
+man ['relatedto'] fire ['relatedto'] device ['isa'] guard
+man ['relatedto'] fire ['usedfor', 'relatedto'] gun ['relatedto'] guard
+man ['relatedto'] fire ['relatedto'] weapon ['relatedto'] guard
+man ['relatedto'] fire ['relatedto'] shooting ['relatedto'] guard
+man ['relatedto'] alien ['relatedto'] home ['relatedto'] guard
+man ['relatedto'] alive ['hasproperty'] dog ['relatedto'] guard
+man ['antonym', 'distinctfrom'] animal ['isa', 'relatedto'] shepherd ['mannerof', 'relatedto'] guard
+man ['antonym', 'distinctfrom'] animal ['relatedto'] dog ['relatedto'] guard
+man ['antonym', 'distinctfrom'] animal ['relatedto'] beef ['relatedto'] guard
+man ['antonym', 'distinctfrom'] animal ['relatedto'] train ['relatedto'] guard
+man ['relatedto'] bird ['relatedto'] branch ['relatedto'] guard
+man ['relatedto'] bird ['relatedto'] train ['relatedto'] guard
+man ['relatedto'] bird ['synonym'] guy ['relatedto'] guard
+man ['antonym', 'relatedto'] baby ['derivedfrom'] babysit ['mannerof'] guard
+man ['antonym', 'relatedto'] baby ['relatedto'] dog ['relatedto'] guard
+man ['antonym', 'relatedto'] baby ['relatedto'] bouncer ['isa'] guard
+man ['antonym', 'relatedto'] beggar ['relatedto'] money ['relatedto'] guard
+man ['antonym'] dress ['relatedto'] short ['relatedto'] guard
+man ['antonym'] dress ['mannerof'] position ['isa', 'relatedto'] guard
+man ['antonym'] dress ['relatedto'] night ['relatedto'] guard
+man ['antonym'] dress ['relatedto'] guy ['relatedto'] guard
+man ['antonym'] dress ['mannerof', 'relatedto', 'entails'] wear ['relatedto'] guard
+man ['antonym'] dress ['relatedto'] part ['relatedto'] guard
+man ['antonym'] dress ['relatedto'] train ['relatedto'] guard
+man ['antonym'] dress ['relatedto'] uniform ['relatedto'] guard
+man ['antonym', 'relatedto'] farmer ['relatedto'] guy ['relatedto'] guard
+man ['antonym', 'relatedto'] farmer ['relatedto'] job ['relatedto'] guard
+man ['antonym', 'relatedto'] farmer ['relatedto'] occupation ['relatedto'] guard
+man ['antonym', 'relatedto'] farmer ['relatedto'] worker ['relatedto'] guard
+man ['antonym', 'relatedto'] farmer ['relatedto'] shepherd ['mannerof', 'relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto'] lady ['antonym'] guy ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto'] lady ['relatedto'] authority ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto'] lady ['relatedto'] queen ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] short ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] employee ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] guy ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] armed ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] dog ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto', 'isa'] boy ['relatedto'] mark ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['hasproperty'] queens ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['isa', 'relatedto'] queen ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['relatedto'] guardess ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['relatedto'] wardswoman ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['relatedto'] worker ['relatedto'] guard
+man ['antonym'] female_person ['isa'] queen ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['antonym', 'distinctfrom'] guy ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['relatedto'] dog ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['relatedto'] part ['relatedto'] guard
+man ['antonym', 'distinctfrom', 'relatedto'] girl ['relatedto'] queen ['relatedto'] guard

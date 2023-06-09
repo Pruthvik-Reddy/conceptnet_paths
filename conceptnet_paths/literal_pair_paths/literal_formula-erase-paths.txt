@@ -1,0 +1,100 @@
+formula ['relatedto', 'synonym'] rule ['mannerof'] draw ['antonym'] erase
+formula ['relatedto'] express ['relatedto'] paint ['antonym'] erase
+formula ['relatedto'] form ['relatedto'] remove ['relatedto'] erase
+formula ['relatedto'] form ['relatedto'] information ['relatedto'] erase
+formula ['relatedto'] form ['mannerof', 'relatedto'] draw ['antonym'] erase
+formula ['relatedto'] form ['relatedto'] paint ['antonym'] erase
+formula ['relatedto'] form ['relatedto'] blank ['relatedto'] erase
+formula ['relatedto'] form ['relatedto'] format ['relatedto'] erase
+formula ['relatedto'] form ['relatedto'] storage ['relatedto'] erase
+formula ['isa'] statement ['relatedto'] record ['antonym'] erase
+formula ['isa'] milk ['mannerof'] draw ['antonym'] erase
+formula ['isa'] primitive ['relatedto'] society ['relatedto'] erase
+formula ['relatedto'] recursive ['relatedto'] draw ['antonym'] erase
+formula ['relatedto', 'synonym'] expression ['isa'] record ['antonym'] erase
+formula ['relatedto', 'synonym'] expression ['relatedto'] blank ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['antonym', 'relatedto', 'atlocation'] column ['distinctfrom'] record ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] paper ['relatedto', 'atlocation'] print ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] paper ['isa', 'relatedto'] medium ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] paper ['relatedto'] copy ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] paper ['relatedto'] draw ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] paper ['relatedto'] palimpsest ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] data_table ['relatedto'] information ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] office ['relatedto'] copy ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] office ['atlocation'] record ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] office ['relatedto'] storage ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] layout ['relatedto'] format ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] computer ['relatedto'] copy ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] computer ['relatedto'] print ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] computer ['relatedto'] storage ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] data ['isa', 'relatedto', 'synonym'] information ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] data ['relatedto'] record ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] data ['relatedto'] format ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] data ['relatedto'] overwrite ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] data ['relatedto'] storage ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] financial ['relatedto'] society ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] grid ['relatedto'] mark ['antonym', 'relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] recorded ['formof', 'relatedto'] record ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] sheet ['relatedto'] record ['antonym'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] sheet ['isa'] blank ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] sylk ['relatedto'] format ['relatedto'] erase
+formula ['relatedto'] spreadsheet ['relatedto'] workbook ['relatedto'] record ['antonym'] erase
+formula ['relatedto'] compound ['isa'] base ['relatedto'] generate ['antonym'] erase
+formula ['relatedto'] compound ['isa'] base ['relatedto'] medium ['relatedto'] erase
+formula ['relatedto'] compound ['mannerof'] add ['antonym'] take_away ['mannerof'] erase
+formula ['relatedto'] compound ['mannerof'] add ['antonym', 'distinctfrom'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['mannerof'] add ['relatedto'] record ['antonym'] erase
+formula ['relatedto'] compound ['relatedto'] analog ['hasproperty'] eraser ['relatedto', 'derivedfrom'] erase
+formula ['relatedto'] compound ['relatedto'] synthesis ['relatedto'] information ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] depart ['relatedto'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] top ['relatedto'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] top ['synonym'] clear ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] head ['mannerof', 'relatedto'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] head ['antonym'] rub ['relatedto', 'entails'] erase
+formula ['relatedto'] compound ['relatedto'] stem ['mannerof', 'relatedto'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] fillet ['relatedto'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['isa'] chemical ['relatedto'] paint ['antonym'] erase
+formula ['relatedto'] compound ['isa'] depilatory ['relatedto'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['isa'] enamel ['isa', 'relatedto'] paint ['antonym'] erase
+formula ['relatedto'] compound ['isa'] gas ['relatedto'] kill ['mannerof'] erase
+formula ['relatedto'] compound ['isa'] gas ['relatedto'] medium ['relatedto'] erase
+formula ['relatedto'] compound ['isa', 'relatedto'] hydrate ['relatedto'] record ['antonym'] erase
+formula ['relatedto'] compound ['isa', 'relatedto'] salt ['relatedto'] clear ['relatedto'] erase
+formula ['relatedto'] compound ['isa'] stripper ['relatedto'] paint ['antonym'] erase
+formula ['relatedto'] compound ['mannerof'] mix ['relatedto'] paint ['antonym'] erase
+formula ['relatedto'] compound ['mannerof'] account ['relatedto'] information ['relatedto'] erase
+formula ['relatedto'] compound ['mannerof'] account ['relatedto', 'synonym'] record ['antonym'] erase
+formula ['relatedto'] compound ['mannerof'] account ['relatedto'] storage ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] biosensor ['relatedto'] record ['antonym'] erase
+formula ['relatedto'] compound ['relatedto'] colour_retention_agent ['relatedto'] storage ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] octave ['relatedto'] mark ['antonym', 'relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] smooth ['entails'] rub ['relatedto', 'entails'] erase
+formula ['relatedto'] compound ['relatedto'] element ['relatedto'] clear ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] ether ['isa'] medium ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] lead ['relatedto'] paint ['antonym'] erase
+formula ['relatedto'] compound ['relatedto'] miler ['isa'] runner ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] phosphagen ['relatedto'] storage ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] prepare ['relatedto'] format ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] redeem ['relatedto'] clear ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] reverse_osmosis ['relatedto'] generate ['antonym'] erase
+formula ['relatedto'] compound ['relatedto'] tin ['relatedto'] paint ['antonym'] erase
+formula ['relatedto'] compound ['relatedto'] tin ['usedfor', 'relatedto'] storage ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] transannular_strain ['relatedto'] medium ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] type ['relatedto'] print ['antonym'] erase
+formula ['relatedto'] compound ['relatedto'] type ['relatedto'] rub ['relatedto', 'entails'] erase
+formula ['relatedto'] compound ['relatedto'] vinyl ['relatedto'] record ['antonym'] erase
+formula ['relatedto'] compound ['relatedto'] wax ['relatedto'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] wax ['relatedto'] clear ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] wax ['relatedto'] record ['antonym'] erase
+formula ['relatedto'] compound ['relatedto'] wax ['relatedto'] kill ['mannerof'] erase
+formula ['relatedto'] compound ['relatedto'] wax ['relatedto'] medium ['relatedto'] erase
+formula ['relatedto'] compound ['relatedto'] wax ['relatedto'] rub ['relatedto', 'entails'] erase
+formula ['relatedto'] compound ['synonym'] settle ['antonym'] remove ['relatedto'] erase
+formula ['relatedto'] compound ['synonym'] settle ['mannerof'] clear ['relatedto'] erase
+formula ['relatedto'] compound ['synonym'] settle ['relatedto'] kill ['mannerof'] erase
+formula ['relatedto'] equal ['relatedto'] fake ['synonym'] copy ['antonym'] erase
+formula ['relatedto'] equal ['relatedto'] adjective ['relatedto'] clear ['relatedto'] erase
+formula ['relatedto'] equal ['relatedto'] exact ['relatedto'] copy ['antonym'] erase
+formula ['relatedto'] equal ['relatedto'] vanish ['mannerof'] clear ['relatedto'] erase
+formula ['relatedto'] equal ['relatedto'] balance ['synonym'] clear ['relatedto'] erase
+formula ['relatedto'] equal ['relatedto'] square ['relatedto'] sponge ['mannerof'] erase

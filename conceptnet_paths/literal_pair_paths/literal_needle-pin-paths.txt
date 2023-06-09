@@ -1,0 +1,100 @@
+needle ['relatedto'] pin
+needle ['relatedto'] stick ['relatedto', 'synonym'] pin
+needle ['hasproperty'] small ['relatedto'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] pin
+needle ['relatedto', 'partof'] eye ['relatedto'] pin
+needle ['relatedto', 'partof'] point ['relatedto', 'partof'] pin
+needle ['relatedto'] pinnacle ['etymologicallyrelatedto'] pin
+needle ['relatedto'] tack ['relatedto'] pin
+needle ['usedfor', 'relatedto', 'hasprerequisite'] sewing ['relatedto'] pin
+needle ['isa'] rigid_portable_object ['isa'] pin
+needle ['isa'] shaft ['isa', 'relatedto'] pin
+needle ['isa'] spiky_thing ['isa'] pin
+needle ['relatedto'] belonephobia ['relatedto'] pin
+needle ['relatedto'] prick_test ['relatedto'] pin
+needle ['relatedto'] fix ['antonym'] move ['relatedto'] pin
+needle ['relatedto'] fix ['relatedto'] point ['relatedto', 'partof'] pin
+needle ['relatedto'] fix ['relatedto'] transfix ['mannerof'] pin
+needle ['relatedto'] fix ['relatedto'] nail ['relatedto', 'synonym'] pin
+needle ['relatedto'] fix ['relatedto'] peg ['isa', 'relatedto', 'synonym'] pin
+needle ['relatedto'] fix ['synonym'] fasten ['mannerof', 'relatedto'] pin
+needle ['relatedto'] fix ['synonym'] hole ['relatedto'] pin
+needle ['relatedto'] fix ['usedfor'] piece ['relatedto'] pin
+needle ['relatedto'] stick ['antonym'] fall ['relatedto', 'synonym'] pin
+needle ['relatedto'] stick ['isa'] rigid_portable_object ['isa'] pin
+needle ['relatedto'] stick ['mannerof'] fasten ['mannerof', 'relatedto'] pin
+needle ['relatedto'] stick ['relatedto'] peg ['isa', 'relatedto', 'synonym'] pin
+needle ['relatedto'] stick ['relatedto'] point ['relatedto', 'partof'] pin
+needle ['relatedto'] stick ['relatedto'] pole ['relatedto'] pin
+needle ['relatedto'] stick ['relatedto'] cylinder ['relatedto'] pin
+needle ['relatedto'] stick ['relatedto', 'synonym'] piece ['relatedto'] pin
+needle ['relatedto'] stick ['relatedto'] prick ['relatedto'] pin
+needle ['relatedto'] stick ['relatedto'] shaft ['isa', 'relatedto'] pin
+needle ['relatedto'] stick ['relatedto'] sharp ['relatedto'] pin
+needle ['relatedto'] stick ['relatedto'] small ['relatedto'] pin
+needle ['relatedto'] stick ['relatedto'] straight ['hasproperty'] pin
+needle ['relatedto'] stick ['relatedto'] woolder ['relatedto'] pin
+needle ['capableof'] friend ['relatedto'] personal ['relatedto'] pin
+needle ['relatedto'] couch ['atlocation'] house ['relatedto'] pin
+needle ['relatedto'] couch ['relatedto'] attack ['mannerof', 'relatedto'] pin
+needle ['relatedto'] couch ['relatedto'] eye ['relatedto'] pin
+needle ['hasproperty'] small ['formof', 'relatedto'] smaller ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto', 'hasproperty'] short ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] house ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] stick ['relatedto', 'synonym'] pin
+needle ['hasproperty'] small ['relatedto'] bullet ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] button ['usedfor', 'relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] eye ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] flea ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] lice ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] minikin ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] nip ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] piece ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] point ['relatedto', 'partof'] pin
+needle ['hasproperty'] small ['relatedto'] sharp ['relatedto'] pin
+needle ['hasproperty'] small ['relatedto'] tack ['relatedto'] pin
+needle ['relatedto'] body ['relatedto'] short ['relatedto'] pin
+needle ['relatedto'] body ['relatedto', 'partof', 'atlocation'] leg ['isa'] pin
+needle ['relatedto'] body ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'partof'] head ['relatedto', 'partof'] pin
+needle ['relatedto'] body ['relatedto'] shank ['partof'] pin
+needle ['relatedto'] body ['relatedto'] type ['relatedto'] pin
+needle ['relatedto'] body ['relatedto'] eye ['relatedto'] pin
+needle ['relatedto'] body ['relatedto'] flea ['relatedto'] pin
+needle ['relatedto'] body ['relatedto'] lice ['relatedto'] pin
+needle ['relatedto'] body ['usedfor', 'relatedto'] move ['relatedto'] pin
+needle ['relatedto'] body ['relatedto'] shaft ['isa', 'relatedto'] pin
+needle ['usedfor'] repair ['mannerof'] piece ['relatedto'] pin
+needle ['usedfor'] repair ['isa', 'relatedto'] condition ['relatedto'] pin
+needle ['usedfor'] repair ['mannerof'] point ['relatedto', 'partof'] pin
+needle ['relatedto'] long ['antonym', 'distinctfrom', 'relatedto'] short ['relatedto'] pin
+needle ['relatedto'] long ['relatedto'] leg ['isa'] pin
+needle ['relatedto'] long ['relatedto'] stick ['relatedto', 'synonym'] pin
+needle ['relatedto'] long ['relatedto'] pole ['relatedto'] pin
+needle ['relatedto'] long ['relatedto'] shaft ['isa', 'relatedto'] pin
+needle ['relatedto'] thin ['relatedto'] stick ['relatedto', 'synonym'] pin
+needle ['relatedto'] thin ['relatedto'] page ['relatedto'] pin
+needle ['relatedto'] thin ['relatedto'] shank ['partof'] pin
+needle ['relatedto'] shot ['relatedto'] short ['relatedto'] pin
+needle ['relatedto'] shot ['relatedto'] stop ['relatedto'] pin
+needle ['relatedto'] shot ['relatedto'] small ['relatedto'] pin
+needle ['relatedto'] shot ['antonym', 'relatedto'] bullet ['relatedto'] pin
+needle ['relatedto'] shot ['relatedto'] jumper ['relatedto'] pin
+needle ['relatedto'] shot ['synonym'] peg ['isa', 'relatedto', 'synonym'] pin
+needle ['relatedto'] shot ['synonym'] shaft ['isa', 'relatedto'] pin
+needle ['relatedto'] shot ['synonym'] nip ['relatedto'] pin
+needle ['relatedto'] text ['hasa', 'relatedto'] page ['relatedto'] pin
+needle ['usedfor', 'relatedto'] sew ['entails'] button ['usedfor', 'relatedto'] pin
+needle ['usedfor', 'relatedto'] sew ['formof', 'relatedto', 'derivedfrom'] sewing ['relatedto'] pin
+needle ['usedfor', 'relatedto'] sew ['mannerof'] fasten ['mannerof', 'relatedto'] pin
+needle ['atlocation'] doctor ['relatedto'] house ['relatedto'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] stick ['relatedto', 'synonym'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] small ['relatedto'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] bullet ['relatedto'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto', 'hasproperty'] tack ['relatedto'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] bayonet ['relatedto'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] point ['relatedto', 'partof'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] prick ['relatedto'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] safety_pin ['isa', 'derivedfrom'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] sewing ['relatedto'] pin
+needle ['relatedto', 'hasproperty'] sharp ['relatedto'] transfix ['mannerof'] pin
+needle ['relatedto'] record ['relatedto'] button ['usedfor', 'relatedto'] pin

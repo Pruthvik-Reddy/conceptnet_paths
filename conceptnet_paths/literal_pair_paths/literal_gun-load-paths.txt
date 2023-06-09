@@ -1,0 +1,100 @@
+gun ['isa'] breechloader ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] firearm ['relatedto'] load
+gun ['relatedto'] recharge ['mannerof'] load
+gun ['relatedto'] reload ['mannerof', 'relatedto'] load
+gun ['partof'] action ['isa'] miss ['relatedto'] load
+gun ['partof'] action ['relatedto'] charge ['relatedto', 'synonym'] load
+gun ['partof'] action ['relatedto'] carry ['relatedto'] load
+gun ['partof'] action ['relatedto'] demand ['relatedto'] load
+gun ['partof'] action ['relatedto'] drug ['relatedto'] load
+gun ['partof'] action ['relatedto'] fill ['mannerof', 'relatedto'] load
+gun ['partof'] action ['relatedto'] filling ['relatedto'] load
+gun ['partof'] action ['relatedto', 'synonym'] force ['relatedto'] load
+gun ['partof'] action ['relatedto'] put ['mannerof'] load
+gun ['partof'] action ['relatedto'] write ['antonym'] load
+gun ['relatedto'] agent ['isa'] drug ['relatedto'] load
+gun ['relatedto'] agent ['relatedto'] prime_mover ['relatedto'] load
+gun ['usedfor', 'relatedto'] fire ['causes'] cigarette ['relatedto'] load
+gun ['usedfor', 'relatedto'] fire ['relatedto'] force ['relatedto'] load
+gun ['relatedto'] pattern ['relatedto'] thunder ['relatedto'] load
+gun ['relatedto'] arm ['mannerof'] munition ['relatedto'] load
+gun ['relatedto'] arm ['relatedto'] bearing ['relatedto'] load
+gun ['relatedto'] arm ['relatedto'] unit ['relatedto'] load
+gun ['relatedto'] arm ['similarto'] firearm ['relatedto'] load
+gun ['relatedto', 'atlocation'] army ['relatedto'] force ['relatedto'] load
+gun ['relatedto', 'atlocation'] army ['relatedto'] munition ['relatedto'] load
+gun ['relatedto', 'atlocation'] army ['relatedto'] unit ['relatedto'] load
+gun ['isa'] automatic ['similarto', 'relatedto', 'derivedfrom', 'synonym'] semi_automatic ['relatedto'] load
+gun ['isa'] automatic ['relatedto'] autoload ['relatedto'] load
+gun ['isa'] automatic ['relatedto'] stack ['mannerof'] load
+gun ['isa'] automatic ['relatedto'] program ['relatedto'] load
+gun ['relatedto'] stick ['mannerof'] force ['relatedto'] load
+gun ['relatedto'] stick ['relatedto', 'synonym'] cigarette ['relatedto'] load
+gun ['relatedto'] prime ['mannerof'] fill ['mannerof', 'relatedto'] load
+gun ['relatedto'] prime ['relatedto'] charge ['relatedto', 'synonym'] load
+gun ['relatedto'] bang ['relatedto'] thunder ['relatedto'] load
+gun ['relatedto'] bang ['synonym'] charge ['relatedto', 'synonym'] load
+gun ['relatedto'] big ['relatedto'] bear ['derivedfrom'] load
+gun ['relatedto'] big ['relatedto'] cigar ['relatedto'] load
+gun ['relatedto'] big ['relatedto', 'similarto', 'synonym'] heavy ['relatedto'] load
+gun ['relatedto'] big ['relatedto'] lot ['synonym'] load
+gun ['relatedto'] big ['relatedto'] thunder ['relatedto'] load
+gun ['relatedto'] big ['relatedto'] weight ['isa', 'relatedto'] load
+gun ['relatedto'] small ['distinctfrom'] lot ['synonym'] load
+gun ['relatedto'] small ['relatedto'] cigarette ['relatedto'] load
+gun ['relatedto'] small ['relatedto'] unit ['relatedto'] load
+gun ['relatedto'] piece ['relatedto'] bread ['relatedto'] load
+gun ['relatedto'] piece ['relatedto'] unit ['relatedto'] load
+gun ['relatedto'] piece ['synonym'] firearm ['relatedto'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] charge ['relatedto', 'synonym'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] firearm ['relatedto'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] fodder ['isa', 'relatedto', 'synonym'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] loading ['formof', 'relatedto', 'derivedfrom', 'synonym'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] munition ['relatedto'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] powder ['relatedto'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] power ['relatedto'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] shell ['relatedto'] load
+gun ['antonym', 'relatedto'] bullet ['relatedto'] unit ['relatedto'] load
+gun ['antonym'] peaceful ['relatedto'] quiet ['distinctfrom'] load
+gun ['relatedto', 'atlocation'] ammunition ['etymologicallyrelatedto', 'relatedto'] munition ['relatedto'] load
+gun ['relatedto', 'atlocation'] ammunition ['isa', 'relatedto'] shell ['relatedto'] load
+gun ['relatedto', 'atlocation'] ammunition ['relatedto'] powder ['relatedto'] load
+gun ['relatedto', 'atlocation'] ammunition ['relatedto'] loaded ['formof', 'relatedto', 'derivedfrom'] load
+gun ['relatedto', 'atlocation'] ammunition ['relatedto'] recharge ['mannerof'] load
+gun ['relatedto', 'atlocation'] ammunition ['relatedto'] speedloader ['relatedto'] load
+gun ['atlocation'] desk ['relatedto'] put ['mannerof'] load
+gun ['atlocation'] desk ['atlocation'] bag ['relatedto'] load
+gun ['atlocation'] desk ['usedfor', 'relatedto'] write ['antonym'] load
+gun ['atlocation'] drawer ['atlocation'] bear ['derivedfrom'] load
+gun ['atlocation'] drawer ['atlocation'] bag ['relatedto'] load
+gun ['atlocation'] war ['relatedto'] charge ['relatedto', 'synonym'] load
+gun ['atlocation'] war ['derivedfrom'] warhead ['synonym'] load
+gun ['atlocation'] war ['relatedto'] cog ['relatedto'] load
+gun ['relatedto', 'atlocation'] projectile ['relatedto'] firearm ['relatedto'] load
+gun ['relatedto', 'atlocation'] projectile ['relatedto'] breechloader ['relatedto'] load
+gun ['relatedto', 'atlocation'] projectile ['relatedto'] muzzleloader ['relatedto'] load
+gun ['relatedto', 'atlocation'] projectile ['relatedto'] shell ['relatedto'] load
+gun ['relatedto', 'atlocation'] projectile ['relatedto'] warhead ['synonym'] load
+gun ['createdby', 'derivedfrom'] gunsmith ['relatedto'] firearm ['relatedto'] load
+gun ['derivedfrom'] flashgun ['relatedto'] unit ['relatedto'] load
+gun ['derivedfrom'] gunshot ['relatedto'] firearm ['relatedto'] load
+gun ['relatedto', 'derivedfrom'] railgun ['relatedto'] electrical_current ['relatedto'] load
+gun ['derivedfrom'] gunpoint ['relatedto'] firearm ['relatedto'] load
+gun ['derivedfrom'] gunpowder ['isa', 'relatedto', 'synonym'] powder ['relatedto'] load
+gun ['formof'] gin ['relatedto'] heavy ['relatedto'] load
+gun ['formof'] gin ['etymologicallyrelatedto'] jinny_road ['relatedto'] load
+gun ['relatedto', 'hasproperty'] dangerous ['relatedto'] bear ['derivedfrom'] load
+gun ['isa'] breechloader ['relatedto'] firearm ['relatedto'] load
+gun ['isa'] breechloader ['derivedfrom'] loader ['relatedto', 'derivedfrom'] load
+gun ['isa'] breechloader ['relatedto'] muzzleloader ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] cannon ['hasproperty'] heavy ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] cannon ['relatedto'] shell ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] firearm ['relatedto'] charge ['relatedto', 'synonym'] load
+gun ['isa', 'relatedto', 'synonym'] firearm ['relatedto'] breechloader ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] firearm ['relatedto'] charger ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] firearm ['relatedto'] muzzleloader ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] firearm ['relatedto'] semi_automatic ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] firearm ['relatedto'] shell ['relatedto'] load
+gun ['isa', 'relatedto', 'synonym'] firearm ['relatedto'] speedloader ['relatedto'] load
+gun ['isa', 'relatedto'] weapon ['relatedto'] breechloader ['relatedto'] load
+gun ['isa', 'relatedto'] weapon ['relatedto'] munition ['relatedto'] load

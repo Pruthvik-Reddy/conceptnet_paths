@@ -1,0 +1,100 @@
+lava ['relatedto'] flow ['relatedto'] gutter
+lava ['etymologicallyrelatedto'] lave ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] burn ['mannerof'] gutter
+lava ['relatedto'] flow ['antonym', 'capableof', 'relatedto'] water ['relatedto'] gutter
+lava ['relatedto'] flow ['relatedto'] drain ['relatedto'] gutter
+lava ['relatedto'] flow ['causes', 'relatedto', 'synonym'] run ['mannerof'] gutter
+lava ['relatedto'] flow ['mannerof'] lave ['relatedto'] gutter
+lava ['relatedto'] flow ['relatedto', 'synonym'] stream ['relatedto'] gutter
+lava ['relatedto'] egressive ['relatedto'] channel ['isa', 'relatedto'] gutter
+lava ['relatedto'] rock ['antonym', 'relatedto', 'atlocation'] water ['relatedto'] gutter
+lava ['relatedto'] rock ['isa'] sima ['relatedto'] gutter
+lava ['madeof', 'relatedto', 'atlocation'] volcano ['relatedto'] lave ['relatedto'] gutter
+lava ['relatedto', 'derivedfrom'] lava_flow ['relatedto'] flow ['relatedto'] gutter
+lava ['etymologicallyrelatedto'] lave ['mannerof'] flow ['relatedto'] gutter
+lava ['etymologicallyrelatedto'] lave ['relatedto'] run ['mannerof'] gutter
+lava ['etymologicallyrelatedto'] lave ['relatedto'] launder ['relatedto'] gutter
+lava ['hasproperty'] molten ['relatedto'] run ['mannerof'] gutter
+lava ['isa'] find_underground ['hasproperty'] water ['relatedto'] gutter
+lava ['isa'] find_underground ['definedas'] sewer ['synonym'] gutter
+lava ['relatedto'] hesperian_epoch ['relatedto'] flow ['relatedto'] gutter
+lava ['relatedto'] fissure ['isa'] groove ['relatedto'] gutter
+lava ['relatedto'] lava_tube ['relatedto'] flow ['relatedto'] gutter
+lava ['relatedto'] lava_tube ['relatedto'] conduit ['isa'] gutter
+lava ['relatedto'] lavascape ['relatedto'] flow ['relatedto'] gutter
+lava ['relatedto'] thunderegg ['relatedto'] flow ['relatedto'] gutter
+lava ['relatedto'] volcanic_neck ['relatedto'] conduit ['isa'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] green ['relatedto'] leaf ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] long ['relatedto'] trough ['relatedto', 'synonym'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] long ['relatedto'] chute ['isa'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] long ['relatedto'] ditch ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] long ['relatedto'] groove ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] long ['relatedto'] road ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] long ['relatedto'] side ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] long ['relatedto'] street ['atlocation'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] moth ['relatedto'] sewer ['synonym'] gutter
+lava ['relatedto'] caterpillar ['isa', 'relatedto'] cankerworm ['relatedto'] leaf ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['isa', 'relatedto'] larva ['relatedto'] sewer ['synonym'] gutter
+lava ['relatedto'] caterpillar ['isa', 'relatedto'] larva ['relatedto'] gout ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['isa', 'relatedto'] silkworm ['relatedto'] gut ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] grass ['distinctfrom'] water ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] grass ['capableof'] burn ['mannerof'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] grass ['relatedto'] leaf ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] grass ['relatedto'] side ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] insect ['atlocation'] leaf ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] insect ['isa'] worker ['isa'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] leaves ['atlocation'] roof ['relatedto', 'atlocation'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] leaves ['atlocation'] street ['atlocation'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] leaves ['formof', 'relatedto'] leaf ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] leaves ['relatedto'] garland ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] legs ['usedfor', 'relatedto', 'hasprerequisite'] run ['mannerof'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] lettuce ['madeof'] water ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] lettuce ['relatedto'] leaf ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] worm ['relatedto'] run ['mannerof'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] leaf_roller ['derivedfrom'] leaf ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] mine ['relatedto'] road ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] mine ['relatedto'] leaf ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] mine ['relatedto'] run ['mannerof'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] silk ['relatedto'] water ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] silk ['relatedto'] gut ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] silk ['relatedto'] sewer ['synonym'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] silk ['relatedto'] road ['relatedto'] gutter
+lava ['relatedto'] caterpillar ['relatedto'] silk ['relatedto'] toilet ['synonym'] gutter
+lava ['hasproperty'] hot ['relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] air ['relatedto', 'atlocation'] rain ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto', 'hasproperty'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto', 'hasproperty'] fire ['capableof', 'relatedto', 'synonym'] burn ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto', 'hasproperty'] fire ['receivesaction'] extinguished ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto', 'hasproperty'] fire ['relatedto'] flicker ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] red ['relatedto'] burn ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] red ['relatedto'] run ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] sexual ['relatedto'] catcher ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] demand ['relatedto'] run ['mannerof'] gutter
+lava ['hasproperty'] hot ['antonym', 'distinctfrom'] cool ['antonym'] burn ['mannerof'] gutter
+lava ['hasproperty'] hot ['synonym'] beautiful ['hasproperty'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] food ['antonym', 'isa'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] food ['relatedto'] provide ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] food ['relatedto'] side ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] boil ['relatedto'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] boil ['synonym'] burn ['mannerof'] gutter
+lava ['hasproperty'] hot ['motivatedbygoal'] entertain ['relatedto'] provide ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] really ['relatedto'] run ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] burn ['antonym', 'synonym'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] burn ['relatedto'] stream ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] burn ['relatedto'] flicker ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto', 'similarto'] warm ['etymologicallyrelatedto'] burn ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] summer ['relatedto'] rain ['relatedto'] gutter
+lava ['hasproperty'] hot ['similarto'] illegal ['relatedto'] run ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] sun ['relatedto'] burn ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] sun ['antonym', 'distinctfrom'] rain ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto', 'hasproperty'] coffee ['atlocation'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] tea ['relatedto'] leaf ['relatedto'] gutter
+lava ['hasproperty'] hot ['antonym', 'distinctfrom', 'relatedto'] cold ['hasproperty'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['antonym', 'distinctfrom', 'relatedto'] cold ['relatedto'] burn ['mannerof'] gutter
+lava ['hasproperty'] hot ['antonym', 'distinctfrom', 'relatedto'] cold ['relatedto'] rain ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] heat ['relatedto'] water ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] heat ['relatedto'] burn ['mannerof'] gutter
+lava ['hasproperty'] hot ['relatedto'] heat ['atlocation'] building ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] heat ['relatedto'] homes ['relatedto'] gutter
+lava ['hasproperty'] hot ['relatedto'] heat ['relatedto'] street ['atlocation'] gutter
+lava ['hasproperty'] hot ['antonym'] neutral ['relatedto', 'hasproperty'] water ['relatedto'] gutter

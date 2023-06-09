@@ -1,0 +1,100 @@
+property ['relatedto'] cestuy_que_trust ['relatedto'] vest
+property ['relatedto'] change_hands ['mannerof'] vest
+property ['relatedto'] contingent_remainder ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] garment ['isa', 'relatedto'] vest
+property ['relatedto'] sometimes ['antonym'] permanent ['relatedto'] vest
+property ['relatedto'] sometimes ['relatedto'] coat ['relatedto'] vest
+property ['relatedto'] house ['atlocation'] chest ['relatedto'] vest
+property ['relatedto'] house ['atlocation'] clothes ['relatedto'] vest
+property ['relatedto'] house ['atlocation'] clothing ['relatedto'] vest
+property ['relatedto'] house ['relatedto'] button ['relatedto'] vest
+property ['relatedto'] appropriate ['relatedto'] suit ['relatedto'] vest
+property ['relatedto'] right ['relatedto'] divest ['relatedto'] vest
+property ['relatedto', 'synonym'] thing ['relatedto', 'synonym'] clothes ['relatedto'] vest
+property ['relatedto'] time ['relatedto'] invest ['relatedto', 'synonym'] vest
+property ['relatedto'] lot ['relatedto'] coat ['relatedto'] vest
+property ['relatedto'] money ['relatedto'] invest ['relatedto', 'synonym'] vest
+property ['relatedto'] card ['relatedto'] suit ['relatedto'] vest
+property ['relatedto'] term ['relatedto'] permanent ['relatedto'] vest
+property ['relatedto'] claim ['antonym'] give ['mannerof'] vest
+property ['relatedto'] heat ['relatedto'] clothing ['relatedto'] vest
+property ['relatedto'] heat ['relatedto'] armour ['relatedto'] vest
+property ['relatedto'] distress ['synonym'] attach ['relatedto'] vest
+property ['relatedto'] let ['relatedto'] give ['mannerof'] vest
+property ['relatedto'] round ['relatedto', 'hasproperty'] button ['relatedto'] vest
+property ['isa'] strength ['relatedto'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+property ['relatedto'] closure ['relatedto'] button ['relatedto'] vest
+property ['relatedto'] investment ['relatedto', 'derivedfrom'] invest ['relatedto', 'synonym'] vest
+property ['relatedto'] investment ['relatedto'] vestment ['relatedto'] vest
+property ['relatedto'] dowry ['relatedto'] chest ['relatedto'] vest
+property ['relatedto'] office ['relatedto'] invest ['relatedto', 'synonym'] vest
+property ['relatedto'] office ['relatedto'] vestment ['relatedto'] vest
+property ['relatedto'] legal ['relatedto'] cestuy_que_trust ['relatedto'] vest
+property ['relatedto'] material ['relatedto'] clothing ['relatedto'] vest
+property ['relatedto'] material ['relatedto'] clothes ['relatedto'] vest
+property ['relatedto'] material ['relatedto'] dress ['mannerof'] vest
+property ['relatedto'] material ['relatedto'] coat ['relatedto'] vest
+property ['relatedto'] material ['relatedto'] garment ['isa', 'relatedto'] vest
+property ['relatedto'] proper ['relatedto'] suit ['relatedto'] vest
+property ['relatedto'] possess ['antonym'] give ['mannerof'] vest
+property ['isa'] manner ['relatedto'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+property ['relatedto'] building ['relatedto'] vestibule ['etymologicallyrelatedto', 'relatedto'] vest
+property ['relatedto', 'synonym'] place ['synonym'] invest ['relatedto', 'synonym'] vest
+property ['isa', 'relatedto'] possession ['relatedto'] give ['mannerof'] vest
+property ['isa', 'relatedto'] possession ['relatedto'] invest ['relatedto', 'synonym'] vest
+property ['relatedto'] math ['relatedto'] array ['relatedto'] vest
+property ['relatedto', 'atlocation'] yard ['relatedto'] top ['isa', 'relatedto'] vest
+property ['isa'] heredity ['relatedto'] coat ['relatedto'] vest
+property ['isa', 'relatedto'] lease ['mannerof'] give ['mannerof'] vest
+property ['isa', 'relatedto', 'synonym'] attribute ['atlocation'] array ['relatedto'] vest
+property ['isa', 'relatedto'] quality ['relatedto'] top ['isa', 'relatedto'] vest
+property ['isa', 'relatedto'] size ['relatedto'] clothing ['relatedto'] vest
+property ['isa', 'relatedto'] size ['relatedto'] clothes ['relatedto'] vest
+property ['isa', 'relatedto'] size ['relatedto'] dress ['mannerof'] vest
+property ['isa', 'relatedto'] size ['relatedto'] shirt ['relatedto'] vest
+property ['isa', 'relatedto'] size ['mannerof'] coat ['relatedto'] vest
+property ['isa', 'relatedto'] size ['relatedto'] garment ['isa', 'relatedto'] vest
+property ['relatedto'] adjunct ['relatedto'] attach ['relatedto'] vest
+property ['relatedto'] attachment ['relatedto', 'derivedfrom'] attach ['relatedto'] vest
+property ['relatedto', 'synonym'] dimension ['relatedto'] array ['relatedto'] vest
+property ['relatedto'] fiar ['relatedto'] vested ['formof', 'relatedto'] vest
+property ['relatedto'] fixture ['relatedto'] button ['relatedto'] vest
+property ['relatedto'] fixture ['relatedto'] permanent ['relatedto'] vest
+property ['relatedto'] future_interest ['relatedto'] contingent_remainder ['relatedto'] vest
+property ['relatedto'] future_interest ['relatedto'] vested_remainder ['relatedto'] vest
+property ['relatedto'] indexer ['relatedto'] array ['relatedto'] vest
+property ['relatedto', 'synonym'] belongings ['usedfor'] chest ['relatedto'] vest
+property ['relatedto'] bought ['relatedto'] change_hands ['mannerof'] vest
+property ['relatedto'] item ['relatedto'] dress ['mannerof'] vest
+property ['relatedto'] item ['relatedto'] coat ['relatedto'] vest
+property ['relatedto'] location ['relatedto'] top ['isa', 'relatedto'] vest
+property ['relatedto'] location ['relatedto'] sleeve ['distinctfrom'] vest
+property ['relatedto'] stuff ['relatedto'] clothing ['relatedto'] vest
+property ['relatedto'] stuff ['relatedto'] clothes ['relatedto'] vest
+property ['relatedto'] type ['relatedto'] permanent ['relatedto'] vest
+property ['relatedto'] type ['relatedto'] dress ['mannerof'] vest
+property ['relatedto'] type ['relatedto'] coat ['relatedto'] vest
+property ['relatedto'] type ['relatedto'] athlete ['relatedto'] vest
+property ['relatedto'] value ['relatedto'] dress ['mannerof'] vest
+property ['relatedto'] value ['relatedto'] wear ['etymologicallyrelatedto', 'relatedto'] vest
+property ['relatedto'] real_right ['relatedto'] attach ['relatedto'] vest
+property ['relatedto'] rent ['relatedto'] give ['mannerof'] vest
+property ['relatedto'] wardrobe ['relatedto'] armor ['relatedto'] vest
+property ['relatedto'] wardrobe ['relatedto', 'partof'] clothing ['relatedto'] vest
+property ['relatedto'] wardrobe ['relatedto'] clothes ['relatedto'] vest
+property ['relatedto'] wardrobe ['relatedto'] dress ['mannerof'] vest
+property ['relatedto'] wardrobe ['partof'] shirt ['relatedto'] vest
+property ['relatedto'] wardrobe ['atlocation'] coat ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] absolute ['relatedto'] vested ['formof', 'relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] practice ['relatedto'] suit ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto', 'synonym'] remove ['relatedto'] top ['isa', 'relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] separate ['isa'] garment ['isa', 'relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] withdraw ['mannerof'] divest ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] comfort ['relatedto'] clothes ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] design ['relatedto'] clothing ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] design ['relatedto'] clothes ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] design ['relatedto'] dress ['mannerof'] vest
+property ['relatedto'] abstract ['relatedto'] fashion ['relatedto'] clothing ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] fashion ['relatedto'] clothes ['relatedto'] vest
+property ['relatedto'] abstract ['relatedto'] fashion ['relatedto'] dress ['mannerof'] vest
+property ['relatedto'] abstract ['relatedto'] fashion ['relatedto'] garb ['relatedto'] vest

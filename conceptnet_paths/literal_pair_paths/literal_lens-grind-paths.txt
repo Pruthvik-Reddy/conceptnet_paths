@@ -1,0 +1,100 @@
+lens ['relatedto'] bean ['relatedto'] grind
+lens ['relatedto'] shell ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] smaller ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] coffee ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] shell ['relatedto'] grind
+lens ['relatedto'] couch ['relatedto'] pulp ['mannerof'] grind
+lens ['relatedto'] stop ['haslastsubevent'] dance ['mannerof', 'relatedto'] grind
+lens ['relatedto'] stop ['relatedto'] mechanical ['relatedto'] grind
+lens ['relatedto'] convex ['relatedto'] shell ['relatedto'] grind
+lens ['isa', 'relatedto'] contact ['isa', 'relatedto'] rub ['relatedto'] grind
+lens ['isa', 'relatedto'] contact ['relatedto'] friction ['relatedto'] grind
+lens ['relatedto'] eyes ['relatedto'] rub ['relatedto'] grind
+lens ['relatedto'] part ['synonym'] work ['relatedto'] grind
+lens ['relatedto'] part ['relatedto'] degree ['isa', 'relatedto'] grind
+lens ['relatedto'] part ['isa'] shell ['relatedto'] grind
+lens ['relatedto'] part ['isa'] wheel ['relatedto'] grind
+lens ['relatedto'] part ['relatedto'] machine ['usedfor'] grind
+lens ['relatedto'] part ['relatedto'] rub ['relatedto'] grind
+lens ['relatedto'] part ['relatedto'] task ['relatedto'] grind
+lens ['relatedto', 'partof', 'atlocation'] eye ['relatedto'] machine ['usedfor'] grind
+lens ['relatedto', 'partof', 'atlocation'] eye ['relatedto'] shape ['mannerof', 'relatedto'] grind
+lens ['relatedto', 'partof', 'atlocation'] eye ['relatedto'] crank ['relatedto'] grind
+lens ['relatedto', 'partof', 'atlocation'] eye ['relatedto'] millstone ['relatedto'] grind
+lens ['madeof', 'relatedto'] glass ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['madeof', 'relatedto'] glass ['relatedto'] abradant ['relatedto'] grind
+lens ['madeof', 'relatedto'] glass ['relatedto'] lens_blank ['relatedto'] grind
+lens ['isa', 'relatedto'] objective ['relatedto', 'synonym'] task ['relatedto'] grind
+lens ['relatedto'] power ['relatedto'] work ['relatedto'] grind
+lens ['relatedto'] power ['relatedto'] wheel ['relatedto'] grind
+lens ['relatedto'] reading ['relatedto'] degree ['isa', 'relatedto'] grind
+lens ['relatedto'] reading ['relatedto'] task ['relatedto'] grind
+lens ['relatedto'] bean ['relatedto', 'atlocation'] coffee ['relatedto'] grind
+lens ['relatedto', 'partof', 'atlocation'] camera ['relatedto'] machine ['usedfor'] grind
+lens ['usedfor', 'partof'] eyeglasses ['relatedto'] lens_blank ['relatedto'] grind
+lens ['usedfor', 'relatedto', 'partof', 'atlocation'] microscope ['relatedto'] slide ['relatedto'] grind
+lens ['isa'] organ ['etymologicallyrelatedto'] work ['relatedto'] grind
+lens ['isa'] organ ['relatedto'] mechanical ['relatedto'] grind
+lens ['isa'] anatomical_structure ['isa'] molar ['relatedto'] grind
+lens ['isa'] anatomical_structure ['isa'] pulp ['mannerof'] grind
+lens ['isa', 'relatedto'] zoom_lens ['relatedto'] mechanical ['relatedto'] grind
+lens ['relatedto'] f_stop ['relatedto'] rotate ['relatedto'] grind
+lens ['relatedto'] focus ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['relatedto'] device ['isa', 'distinctfrom', 'relatedto'] machine ['usedfor'] grind
+lens ['relatedto'] device ['isa', 'relatedto'] bomb ['relatedto'] grind
+lens ['relatedto'] device ['relatedto'] file ['relatedto'] grind
+lens ['relatedto'] device ['isa'] sandpaper ['relatedto'] grind
+lens ['relatedto'] device ['relatedto'] arrastra ['relatedto'] grind
+lens ['relatedto'] legume ['isa', 'relatedto'] bean ['relatedto'] grind
+lens ['relatedto'] shell ['mannerof'] remove ['relatedto'] grind
+lens ['relatedto'] shell ['relatedto'] work ['relatedto'] grind
+lens ['relatedto'] shell ['relatedto'] bomb ['relatedto'] grind
+lens ['relatedto'] shell ['relatedto'] mortar ['relatedto'] grind
+lens ['relatedto'] vertex ['relatedto'] degree ['isa', 'relatedto'] grind
+lens ['isa'] plant ['synonym'] establish ['synonym'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] underground ['relatedto', 'derivedfrom'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] action ['isa', 'relatedto'] work ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] action ['isa'] bruxism ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] action ['relatedto'] chew ['relatedto', 'synonym'] grind
+lens ['isa'] plant ['relatedto'] action ['relatedto'] crush ['isa', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] action ['relatedto'] dance ['mannerof', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] action ['relatedto'] eat ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] action ['relatedto'] rub ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] smaller ['relatedto'] degree ['isa', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] cohesion ['relatedto'] degree ['isa', 'relatedto'] grind
+lens ['isa'] plant ['capableof', 'relatedto', 'synonym'] grow ['antonym', 'relatedto'] smaller ['relatedto'] grind
+lens ['isa'] plant ['capableof', 'relatedto', 'synonym'] grow ['mannerof'] rotate ['relatedto'] grind
+lens ['isa'] plant ['capableof', 'relatedto', 'synonym'] grow ['usedfor'] bean ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] earth ['mannerof', 'relatedto', 'synonym', 'atlocation'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] earth ['capableof'] rotate ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] earth ['relatedto'] degree ['isa', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] earth ['relatedto'] slide ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['derivedfrom'] groundstone ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['derivedfrom'] ground_beef ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grounds ['etymologicallyrelatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['relatedto'] chopped ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['relatedto'] coffee ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['relatedto'] grate ['relatedto', 'synonym'] grind
+lens ['isa'] plant ['relatedto'] ground ['relatedto'] powder ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['relatedto'] grinding ['formof', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['relatedto'] nonground ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] ground ['relatedto'] slide ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] water ['antonym', 'relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['isa'] plant ['relatedto'] water ['atlocation'] coffee ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] water ['relatedto'] ground_beef ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] water ['relatedto'] mortar ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] water ['relatedto'] pulp ['mannerof'] grind
+lens ['isa'] plant ['relatedto'] water ['relatedto'] shell ['relatedto'] grind
+lens ['isa'] plant ['relatedto'] sometimes ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['desires'] eat ['relatedto'] grind
+lens ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] work ['relatedto'] grind
+lens ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] hypercarnivore ['relatedto'] grind
+lens ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] kibble ['relatedto'] grind
+lens ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] mechanical ['relatedto'] grind
+lens ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] rub ['relatedto'] grind
+lens ['isa'] plant ['antonym', 'distinctfrom', 'relatedto'] animal ['relatedto'] shell ['relatedto'] grind
+lens ['isa'] plant ['antonym'] harvest ['mannerof'] remove ['relatedto'] grind
+lens ['isa'] plant ['antonym'] harvest ['usedfor'] machine ['usedfor'] grind
+lens ['isa'] plant ['antonym'] meat ['relatedto'] ground ['formof', 'etymologicallyrelatedto', 'relatedto'] grind
+lens ['isa'] plant ['antonym'] meat ['relatedto'] hypercarnivore ['relatedto'] grind

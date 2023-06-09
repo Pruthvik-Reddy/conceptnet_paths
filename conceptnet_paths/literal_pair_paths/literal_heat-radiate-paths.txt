@@ -1,0 +1,100 @@
+heat ['relatedto'] radiant ['relatedto'] radiate
+heat ['relatedto'] radiant_energy ['relatedto'] radiate
+heat ['relatedto'] radiation ['relatedto'] radiate
+heat ['relatedto'] radiator ['relatedto', 'derivedfrom'] radiate
+heat ['relatedto'] wave ['relatedto'] radiate
+heat ['relatedto'] irradiate ['relatedto', 'synonym'] radiate
+heat ['relatedto'] resistance_frame ['relatedto'] radiate
+heat ['synonym'] glow ['mannerof', 'synonym'] radiate
+heat ['relatedto'] purpose ['relatedto'] issue ['mannerof'] radiate
+heat ['relatedto'] action ['relatedto'] flash ['mannerof'] radiate
+heat ['relatedto'] action ['relatedto'] issue ['mannerof'] radiate
+heat ['relatedto'] action ['relatedto'] run ['mannerof'] radiate
+heat ['relatedto'] action ['relatedto'] spoke ['relatedto'] radiate
+heat ['relatedto'] action ['relatedto'] wave ['relatedto'] radiate
+heat ['antonym', 'relatedto'] air ['relatedto'] radio ['relatedto'] radiate
+heat ['antonym', 'relatedto'] air ['synonym'] beam ['relatedto'] radiate
+heat ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] fire ['relatedto'] radiation ['relatedto'] radiate
+heat ['relatedto'] water ['antonym', 'relatedto'] wave ['relatedto'] radiate
+heat ['relatedto'] water ['relatedto', 'derivedfrom'] waterhole ['relatedto'] radiate
+heat ['relatedto'] water ['relatedto'] issue ['mannerof'] radiate
+heat ['relatedto'] red ['relatedto'] run ['mannerof'] radiate
+heat ['relatedto'] clothing ['relatedto'] radiation ['relatedto'] radiate
+heat ['relatedto'] diathermanous ['relatedto'] radiant ['relatedto'] radiate
+heat ['relatedto'] time ['relatedto'] flash ['mannerof'] radiate
+heat ['relatedto'] time ['relatedto'] issue ['mannerof'] radiate
+heat ['relatedto'] time ['relatedto'] run ['mannerof'] radiate
+heat ['relatedto'] body ['derivedfrom'] graybody ['relatedto'] radiate
+heat ['relatedto'] body ['partof'] spine ['relatedto'] radiate
+heat ['relatedto'] body ['relatedto'] flash ['mannerof'] radiate
+heat ['relatedto'] body ['relatedto'] issue ['mannerof'] radiate
+heat ['relatedto'] body ['relatedto'] panthodic ['relatedto'] radiate
+heat ['relatedto'] boil ['relatedto', 'synonym'] carbuncle ['relatedto'] radiate
+heat ['relatedto'] really ['relatedto'] run ['mannerof'] radiate
+heat ['relatedto'] burn ['relatedto'] radiation ['relatedto'] radiate
+heat ['relatedto'] burn ['synonym'] glow ['mannerof', 'synonym'] radiate
+heat ['relatedto'] nice ['relatedto'] run ['mannerof'] radiate
+heat ['relatedto'] term ['relatedto'] run ['mannerof'] radiate
+heat ['mannerof'] change ['mannerof'] diversify ['synonym'] radiate
+heat ['relatedto', 'hasproperty'] warm ['relatedto', 'similarto'] cordial ['relatedto'] radiate
+heat ['relatedto'] summer ['relatedto'] beam ['relatedto'] radiate
+heat ['relatedto'] state ['relatedto'] issue ['mannerof'] radiate
+heat ['causes', 'relatedto', 'usedfor'] sun ['relatedto'] beam ['relatedto'] radiate
+heat ['causes', 'relatedto', 'usedfor'] sun ['relatedto'] ray ['relatedto', 'synonym'] radiate
+heat ['causes', 'relatedto', 'usedfor'] sun ['relatedto'] solar_radiation ['relatedto'] radiate
+heat ['antonym', 'relatedto'] condition ['relatedto'] issue ['mannerof'] radiate
+heat ['atlocation'] building ['relatedto', 'atlocation'] beam ['relatedto'] radiate
+heat ['atlocation'] building ['relatedto'] issue ['mannerof'] radiate
+heat ['atlocation'] building ['relatedto'] shed ['relatedto'] radiate
+heat ['causesdesire'] swim ['relatedto'] run ['mannerof'] radiate
+heat ['distinctfrom'] light ['capableof', 'relatedto', 'synonym'] illuminate ['relatedto'] radiate
+heat ['distinctfrom'] light ['isa', 'relatedto'] beam ['relatedto'] radiate
+heat ['distinctfrom'] light ['isa', 'usedfor', 'relatedto'] flash ['mannerof'] radiate
+heat ['distinctfrom'] light ['isa', 'relatedto'] glow ['mannerof', 'synonym'] radiate
+heat ['distinctfrom'] light ['isa', 'relatedto'] wave ['relatedto'] radiate
+heat ['distinctfrom'] light ['relatedto'] gleam ['mannerof'] radiate
+heat ['distinctfrom'] light ['relatedto'] irradiant ['relatedto'] radiate
+heat ['distinctfrom'] light ['relatedto'] irradiate ['relatedto', 'synonym'] radiate
+heat ['distinctfrom'] light ['relatedto', 'synonym'] luminosity ['relatedto'] radiate
+heat ['distinctfrom'] light ['relatedto'] radiation ['relatedto'] radiate
+heat ['distinctfrom'] light ['relatedto'] ray ['relatedto', 'synonym'] radiate
+heat ['distinctfrom'] light ['relatedto'] overglow ['relatedto'] radiate
+heat ['distinctfrom'] light ['relatedto'] radiant ['relatedto'] radiate
+heat ['distinctfrom'] light ['relatedto'] reradiate ['relatedto', 'derivedfrom'] radiate
+heat ['relatedto', 'entails'] iron ['relatedto'] beam ['relatedto'] radiate
+heat ['relatedto', 'entails'] iron ['relatedto'] run ['mannerof'] radiate
+heat ['entails'] smelt ['relatedto'] compound ['similarto'] radiate
+heat ['isa', 'relatedto'] energy ['isa'] radiant_energy ['relatedto'] radiate
+heat ['isa', 'relatedto'] energy ['isa', 'relatedto'] radiation ['relatedto'] radiate
+heat ['isa', 'relatedto'] energy ['relatedto'] solar_radiation ['relatedto'] radiate
+heat ['isa', 'relatedto'] energy ['relatedto'] graybody ['relatedto'] radiate
+heat ['isa', 'relatedto'] energy ['relatedto'] luminosity ['relatedto'] radiate
+heat ['isa', 'relatedto'] energy ['relatedto'] reradiate ['relatedto', 'derivedfrom'] radiate
+heat ['isa', 'relatedto'] energy ['relatedto'] wave ['relatedto'] radiate
+heat ['isa'] race ['relatedto', 'synonym'] run ['mannerof'] radiate
+heat ['isa'] race ['relatedto'] issue ['mannerof'] radiate
+heat ['mannerof'] broil ['relatedto'] radiant ['relatedto'] radiate
+heat ['mannerof'] supply ['synonym'] issue ['mannerof'] radiate
+heat ['relatedto'] calorific_ray ['relatedto'] ray ['relatedto', 'synonym'] radiate
+heat ['relatedto'] candescent ['relatedto'] glowing ['relatedto'] radiate
+heat ['relatedto'] cleading ['relatedto'] radiation ['relatedto'] radiate
+heat ['relatedto'] conduction ['relatedto'] radiation ['relatedto'] radiate
+heat ['relatedto'] convection ['relatedto'] radiation ['relatedto'] radiate
+heat ['relatedto'] convector ['relatedto'] radiator ['relatedto', 'derivedfrom'] radiate
+heat ['relatedto'] diathermal ['relatedto'] radiant ['relatedto'] radiate
+heat ['relatedto'] diathermanism ['relatedto'] radiant ['relatedto'] radiate
+heat ['relatedto'] diathermous ['relatedto'] radiant ['relatedto'] radiate
+heat ['relatedto'] dissociate ['relatedto'] compound ['similarto'] radiate
+heat ['relatedto'] dissociation ['relatedto'] compound ['similarto'] radiate
+heat ['relatedto'] electrical_resistance ['relatedto'] radiation ['relatedto'] radiate
+heat ['relatedto'] excandescence ['relatedto'] glowing ['relatedto'] radiate
+heat ['relatedto'] excandescent ['relatedto'] glowing ['relatedto'] radiate
+heat ['relatedto'] forge ['relatedto'] proceed ['relatedto'] radiate
+heat ['relatedto'] grill ['relatedto'] radiator ['relatedto', 'derivedfrom'] radiate
+heat ['usedfor', 'relatedto'] candle ['usedfor'] luminosity ['relatedto'] radiate
+heat ['relatedto'] feel ['mannerof'] glow ['mannerof', 'synonym'] radiate
+heat ['relatedto'] feel ['relatedto'] issue ['mannerof'] radiate
+heat ['relatedto'] feeling ['isa'] glow ['mannerof', 'synonym'] radiate
+heat ['relatedto'] fiery ['relatedto'] glowing ['relatedto'] radiate
+heat ['relatedto'] form ['relatedto'] wave ['relatedto'] radiate
+heat ['relatedto'] function ['mannerof', 'synonym'] run ['mannerof'] radiate

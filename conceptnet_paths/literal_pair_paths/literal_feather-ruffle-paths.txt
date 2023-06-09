@@ -1,0 +1,100 @@
+feather ['relatedto'] fluff ['synonym'] ruffle
+feather ['usedfor'] decoration ['relatedto'] ruffle
+feather ['relatedto', 'partof', 'atlocation'] bird ['isa', 'relatedto'] ruff ['relatedto'] ruffle
+feather ['relatedto', 'partof', 'atlocation'] bird ['relatedto'] egg ['relatedto'] ruffle
+feather ['relatedto', 'partof', 'atlocation'] bird ['relatedto'] flutter ['relatedto'] ruffle
+feather ['relatedto'] dog ['relatedto'] roll ['relatedto'] ruffle
+feather ['relatedto'] dog ['relatedto'] ruff ['relatedto'] ruffle
+feather ['relatedto'] chicken ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'createdby'] egg ['relatedto'] ruffle
+feather ['relatedto'] chicken ['relatedto'] species ['relatedto'] ruffle
+feather ['relatedto'] cock ['synonym'] swagger ['synonym'] ruffle
+feather ['relatedto'] chief ['relatedto'] american ['relatedto'] ruffle
+feather ['etymologicallyrelatedto', 'relatedto'] pen ['isa', 'synonym'] fold ['mannerof'] ruffle
+feather ['hasproperty'] light ['relatedto'] fluff ['synonym'] ruffle
+feather ['relatedto'] enrich ['relatedto'] decoration ['relatedto'] ruffle
+feather ['atlocation'] birds ['relatedto'] egg ['relatedto'] ruffle
+feather ['atlocation'] birds ['relatedto'] flutter ['relatedto'] ruffle
+feather ['atlocation'] birds_nest ['relatedto'] egg ['relatedto'] ruffle
+feather ['atlocation'] cage ['relatedto'] drum ['relatedto'] ruffle
+feather ['atlocation'] hat ['usedfor', 'relatedto'] decoration ['relatedto'] ruffle
+feather ['isa'] rotation ['relatedto'] roll ['relatedto'] ruffle
+feather ['isa', 'relatedto', 'partof'] quill ['relatedto'] fold ['mannerof'] ruffle
+feather ['isa', 'relatedto', 'partof'] quill ['relatedto'] ruff ['relatedto'] ruffle
+feather ['relatedto'] barrel ['relatedto', 'synonym'] drum ['relatedto'] ruffle
+feather ['relatedto'] boa ['relatedto'] american ['relatedto'] ruffle
+feather ['relatedto'] emu_wren ['relatedto'] genus ['relatedto'] ruffle
+feather ['relatedto'] fin ['relatedto'] marine ['relatedto'] ruffle
+feather ['relatedto'] wing ['relatedto'] altoruffled ['relatedto'] ruffle
+feather ['relatedto'] wing ['relatedto'] flutter ['relatedto'] ruffle
+feather ['relatedto'] blend ['relatedto'] ripple ['synonym'] ruffle
+feather ['relatedto'] reduce ['relatedto', 'synonym'] trim ['relatedto'] ruffle
+feather ['relatedto'] shave ['synonym'] trim ['relatedto'] ruffle
+feather ['relatedto'] tip ['relatedto'] drum ['relatedto'] ruffle
+feather ['relatedto'] tread ['entails'] beat ['relatedto'] ruffle
+feather ['relatedto'] wind ['synonym'] roll ['relatedto'] ruffle
+feather ['relatedto'] wind ['relatedto'] beat ['relatedto'] ruffle
+feather ['relatedto'] pennatula ['relatedto'] species ['relatedto'] ruffle
+feather ['relatedto'] pennatula ['relatedto'] genus ['relatedto'] ruffle
+feather ['relatedto'] pinion ['relatedto'] genus ['relatedto'] ruffle
+feather ['relatedto', 'synonym'] plumage ['relatedto'] fluff ['synonym'] ruffle
+feather ['relatedto'] preen ['relatedto'] trim ['relatedto'] ruffle
+feather ['relatedto'] puffleg ['relatedto'] species ['relatedto'] ruffle
+feather ['relatedto'] puffleg ['relatedto'] genus ['relatedto'] ruffle
+feather ['relatedto'] racket_tail ['relatedto'] species ['relatedto'] ruffle
+feather ['relatedto'] racket_tail ['relatedto'] genus ['relatedto'] ruffle
+feather ['relatedto'] spinetail ['relatedto'] species ['relatedto'] ruffle
+feather ['relatedto'] spinetail ['relatedto'] genus ['relatedto'] ruffle
+feather ['relatedto'] topknot ['relatedto'] genus ['relatedto'] ruffle
+feather ['relatedto'] tuft ['relatedto'] ruff ['relatedto'] ruffle
+feather ['relatedto'] turbit ['relatedto'] frill ['relatedto', 'synonym'] ruffle
+feather ['usedfor'] decoration ['usedfor'] choker ['synonym'] ruffle
+feather ['usedfor'] decoration ['relatedto'] frill ['relatedto', 'synonym'] ruffle
+feather ['usedfor'] decoration ['relatedto'] trim ['relatedto'] ruffle
+feather ['mannerof'] join ['antonym', 'relatedto'] break ['relatedto'] ripple ['synonym'] ruffle
+feather ['mannerof'] join ['antonym'] cut ['isa', 'relatedto'] trim ['relatedto'] ruffle
+feather ['mannerof'] join ['antonym'] cut ['mannerof'] shuffle ['synonym'] ruffle
+feather ['mannerof'] join ['antonym'] cut ['relatedto'] flick ['synonym'] ruffle
+feather ['mannerof'] join ['antonym'] leave ['relatedto'] roll ['relatedto'] ruffle
+feather ['mannerof'] join ['antonym', 'relatedto'] part ['relatedto'] roll ['relatedto'] ruffle
+feather ['mannerof'] join ['antonym'] quit ['relatedto'] fold ['mannerof'] ruffle
+feather ['mannerof'] join ['entails'] sew ['relatedto'] balayeuse ['relatedto'] ruffle
+feather ['mannerof'] join ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] yoke ['relatedto'] egg ['relatedto'] ruffle
+feather ['mannerof'] join ['isa'] attachment ['relatedto'] ruffler ['relatedto', 'derivedfrom'] ruffle
+feather ['mannerof'] join ['mannerof'] bridge ['partof'] ruff ['relatedto'] ruffle
+feather ['mannerof'] join ['mannerof'] close ['synonym'] fold ['mannerof'] ruffle
+feather ['mannerof'] join ['mannerof'] ply ['relatedto'] beat ['relatedto'] ruffle
+feather ['mannerof'] join ['mannerof'] quilt ['relatedto'] roll ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] bend ['relatedto', 'synonym'] fold ['mannerof'] ruffle
+feather ['mannerof'] join ['relatedto'] bolt ['isa'] roll ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] club ['usedfor'] beat ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] crimp ['mannerof', 'synonym'] fold ['mannerof'] ruffle
+feather ['mannerof'] join ['relatedto'] crimp ['mannerof'] flute ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] action ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+feather ['mannerof'] join ['relatedto'] action ['relatedto'] flutter ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] action ['relatedto'] roll ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] enroll ['relatedto'] roll ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] group ['isa'] fold ['mannerof'] ruffle
+feather ['mannerof'] join ['relatedto'] group ['relatedto'] genus ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] line ['relatedto'] fluff ['synonym'] ruffle
+feather ['mannerof'] join ['relatedto'] term ['relatedto'] beat ['relatedto'] ruffle
+feather ['mannerof'] join ['relatedto'] twist ['relatedto'] roll ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] roll ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto'] earth ['relatedto'] fold ['mannerof'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto'] ground ['relatedto'] roll ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] fold ['mannerof'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto'] bread ['isa', 'relatedto'] roll ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['mannerof'] ripple ['synonym'] ruffle
+feather ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+feather ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] beat ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] drum ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['antonym', 'mannerof', 'relatedto'] roll ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['usedfor'] decoration ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'isa'] food ['isa', 'usedfor', 'relatedto'] egg ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'isa'] food ['relatedto'] beat ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'isa'] food ['relatedto'] roll ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto'] wave ['relatedto'] disturbance ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto'] wave ['relatedto', 'synonym'] roll ['relatedto'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto'] wave ['isa', 'relatedto'] ripple ['synonym'] ruffle
+feather ['relatedto'] water ['antonym', 'relatedto'] wave ['relatedto', 'similarto'] flutter ['relatedto'] ruffle
+feather ['relatedto'] water ['relatedto', 'atlocation'] algae ['relatedto'] marine ['relatedto'] ruffle

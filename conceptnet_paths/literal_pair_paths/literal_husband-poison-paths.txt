@@ -1,0 +1,100 @@
+husband ['relatedto'] affair ['relatedto'] bad ['relatedto'] poison
+husband ['relatedto'] affair ['relatedto', 'synonym'] matter ['relatedto'] poison
+husband ['relatedto'] ground ['antonym', 'relatedto'] water ['relatedto'] poison
+husband ['relatedto'] ground ['atlocation'] leaf ['relatedto'] poison
+husband ['relatedto'] ground ['atlocation'] mushrooms ['relatedto', 'hasproperty'] poison
+husband ['relatedto'] ground ['atlocation'] snow ['relatedto'] poison
+husband ['relatedto'] ground ['relatedto'] powder ['relatedto'] poison
+husband ['relatedto'] ground ['relatedto'] type ['relatedto'] poison
+husband ['relatedto'] ground ['relatedto'] kill ['usedfor', 'mannerof', 'relatedto'] poison
+husband ['relatedto'] animal ['desires'] eat ['relatedto'] poison
+husband ['relatedto'] animal ['isa', 'relatedto'] fish ['relatedto'] poison
+husband ['relatedto'] animal ['isa', 'relatedto'] rat ['relatedto'] poison
+husband ['relatedto'] animal ['relatedto'] related ['relatedto'] poison
+husband ['relatedto'] animal ['relatedto'] matter ['relatedto'] poison
+husband ['relatedto'] animal ['relatedto'] type ['relatedto'] poison
+husband ['relatedto'] animal ['relatedto'] leucomaine ['relatedto'] poison
+husband ['relatedto'] animal ['relatedto'] prebait ['relatedto'] poison
+husband ['relatedto'] animal ['relatedto'] rattlesnake ['relatedto'] poison
+husband ['relatedto'] animal ['relatedto'] snake ['relatedto'] poison
+husband ['relatedto'] animal ['relatedto'] venom ['isa', 'relatedto'] poison
+husband ['relatedto'] animal ['usedfor'] food ['distinctfrom', 'relatedto'] poison
+husband ['antonym', 'relatedto'] man ['relatedto'] agent ['relatedto'] poison
+husband ['antonym', 'relatedto'] man ['isa'] white ['relatedto'] poison
+husband ['antonym', 'relatedto'] man ['relatedto'] good ['distinctfrom'] poison
+husband ['antonym', 'relatedto'] man ['relatedto'] fish ['relatedto'] poison
+husband ['antonym', 'relatedto'] man ['relatedto'] matter ['relatedto'] poison
+husband ['antonym', 'relatedto'] man ['relatedto'] mister ['relatedto'] poison
+husband ['relatedto'] separation ['isa'] change ['mannerof'] poison
+husband ['relatedto'] house ['atlocation'] food ['distinctfrom', 'relatedto'] poison
+husband ['relatedto'] house ['atlocation'] material ['relatedto'] poison
+husband ['relatedto'] house ['atlocation'] stuff ['relatedto'] poison
+husband ['relatedto'] house ['relatedto'] bottle ['relatedto'] poison
+husband ['relatedto'] house ['relatedto'] type ['relatedto'] poison
+husband ['relatedto'] bill ['relatedto'] present ['relatedto'] poison
+husband ['relatedto'] bill ['relatedto'] mister ['relatedto'] poison
+husband ['relatedto'] bill ['relatedto'] weapon ['relatedto'] poison
+husband ['relatedto'] head ['hasa'] teeth ['relatedto'] poison
+husband ['relatedto'] head ['relatedto', 'partof'] skull ['relatedto'] poison
+husband ['relatedto'] head ['relatedto'] mister ['relatedto'] poison
+husband ['relatedto'] head ['relatedto'] drug ['mannerof', 'relatedto'] poison
+husband ['relatedto'] head ['relatedto'] fluid ['relatedto'] poison
+husband ['relatedto'] head ['synonym'] lead ['relatedto'] poison
+husband ['relatedto', 'synonym'] farm ['relatedto'] food ['distinctfrom', 'relatedto'] poison
+husband ['relatedto', 'synonym'] farm ['antonym', 'relatedto'] factory ['relatedto'] poison
+husband ['relatedto', 'synonym'] farm ['relatedto'] environment ['relatedto'] poison
+husband ['relatedto', 'synonym'] farm ['relatedto'] stuff ['relatedto'] poison
+husband ['relatedto', 'synonym'] farm ['relatedto'] type ['relatedto'] poison
+husband ['isa'] partner ['relatedto'] type ['relatedto'] poison
+husband ['relatedto'] male ['relatedto'] mister ['relatedto'] poison
+husband ['relatedto'] family ['relatedto'] die ['relatedto'] poison
+husband ['relatedto'] family ['relatedto'] related ['relatedto'] poison
+husband ['isa'] cuckold ['relatedto'] fish ['relatedto'] poison
+husband ['isa'] uxoricide ['isa', 'relatedto'] murder ['relatedto'] poison
+husband ['relatedto'] anumarana ['relatedto'] death ['causes', 'relatedto'] poison
+husband ['relatedto'] asclepius ['relatedto'] medicine ['antonym', 'relatedto'] poison
+husband ['relatedto'] asclepius ['relatedto'] healing ['antonym'] poison
+husband ['relatedto'] baron ['synonym'] power ['relatedto'] poison
+husband ['relatedto'] boyfriend ['relatedto'] romeo ['relatedto'] poison
+husband ['relatedto'] deuterogamy ['relatedto'] death ['causes', 'relatedto'] poison
+husband ['relatedto'] digamous ['relatedto'] death ['causes', 'relatedto'] poison
+husband ['relatedto'] relation ['isa'] change ['mannerof'] poison
+husband ['relatedto'] relation ['relatedto'] related ['relatedto'] poison
+husband ['relatedto'] master ['etymologicallyrelatedto', 'relatedto'] mister ['relatedto'] poison
+husband ['relatedto'] master ['relatedto'] power ['relatedto'] poison
+husband ['relatedto'] poll ['relatedto'] fish ['relatedto'] poison
+husband ['relatedto'] poll ['relatedto'] opinion ['relatedto'] poison
+husband ['relatedto'] pollard ['relatedto'] fish ['relatedto'] poison
+husband ['relatedto'] property ['relatedto'] material ['relatedto'] poison
+husband ['relatedto'] property ['relatedto'] example ['relatedto'] poison
+husband ['relatedto'] property ['formof', 'relatedto'] properties ['relatedto'] poison
+husband ['relatedto'] property ['relatedto'] stuff ['relatedto'] poison
+husband ['relatedto'] property ['relatedto'] type ['relatedto'] poison
+husband ['relatedto'] prudent ['relatedto'] rash ['relatedto'] poison
+husband ['relatedto', 'synonym'] steward ['relatedto'] agent ['relatedto'] poison
+husband ['relatedto'] tree ['relatedto'] present ['relatedto'] poison
+husband ['relatedto'] tree ['desires'] water ['relatedto'] poison
+husband ['relatedto'] tree ['locatednear', 'relatedto', 'partof', 'atlocation'] leaf ['relatedto'] poison
+husband ['relatedto'] tree ['atlocation'] snake ['relatedto'] poison
+husband ['relatedto'] tree ['relatedto'] hemlock ['relatedto'] poison
+husband ['relatedto'] tree ['relatedto'] ivy ['relatedto'] poison
+husband ['relatedto'] tree ['relatedto'] sassy_bark ['relatedto'] poison
+husband ['relatedto'] tree ['relatedto'] suicide_tree ['relatedto'] poison
+husband ['relatedto'] administer ['mannerof', 'entails'] give ['relatedto'] poison
+husband ['relatedto', 'synonym'] nurture ['relatedto'] food ['distinctfrom', 'relatedto'] poison
+husband ['relatedto', 'synonym'] nurture ['relatedto'] nutrient ['antonym'] poison
+husband ['relatedto'] provide ['mannerof', 'relatedto'] give ['relatedto'] poison
+husband ['relatedto'] provide ['relatedto'] food ['distinctfrom', 'relatedto'] poison
+husband ['relatedto'] provide ['relatedto'] lead ['relatedto'] poison
+husband ['relatedto'] provide ['mannerof'] power ['relatedto'] poison
+husband ['relatedto'] responsibility ['relatedto'] power ['relatedto'] poison
+husband ['relatedto'] responsibility ['relatedto'] taste ['relatedto'] poison
+husband ['relatedto'] king ['relatedto'] power ['relatedto'] poison
+husband ['relatedto'] king ['relatedto'] type ['relatedto'] poison
+husband ['relatedto'] lord ['relatedto'] power ['relatedto'] poison
+husband ['relatedto'] queen ['relatedto'] ant ['relatedto'] poison
+husband ['relatedto'] queen ['relatedto'] snow_white ['relatedto'] poison
+husband ['relatedto'] sequester ['mannerof'] change ['mannerof'] poison
+husband ['relatedto'] sororate_marriage ['relatedto'] death ['causes', 'relatedto'] poison
+husband ['relatedto'] widow ['relatedto'] type ['relatedto'] poison
+husband ['relatedto'] abandonment ['isa'] disposal ['isa'] power ['relatedto'] poison

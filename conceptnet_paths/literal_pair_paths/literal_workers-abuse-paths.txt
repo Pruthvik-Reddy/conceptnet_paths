@@ -1,0 +1,100 @@
+workers ['atlocation'] work ['isa'] care ['antonym'] abuse
+workers ['atlocation'] work ['mannerof', 'relatedto', 'synonym'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['relatedto'] trick ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] usage ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] hurt ['relatedto'] abuse
+workers ['relatedto'] business ['derivedfrom'] give_someone_business ['relatedto'] abuse
+workers ['relatedto'] company ['relatedto'] purpose ['relatedto'] abuse
+workers ['relatedto'] office ['relatedto'] use ['mannerof', 'derivedfrom'] abuse
+workers ['relatedto'] office ['relatedto'] rubygate ['relatedto'] abuse
+workers ['relatedto'] office ['relatedto'] tyrant ['relatedto'] abuse
+workers ['relatedto'] management ['isa'] treatment ['relatedto'] abuse
+workers ['relatedto'] manufacture ['relatedto'] purpose ['relatedto'] abuse
+workers ['relatedto'] manufacture ['relatedto'] physical ['relatedto'] abuse
+workers ['capableof'] hurry ['relatedto'] rape ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto', 'synonym'] act ['relatedto'] purpose ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto', 'synonym'] act ['isa'] injury ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto', 'synonym'] act ['mannerof'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['relatedto', 'synonym'] act ['mannerof', 'relatedto'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['relatedto', 'synonym'] act ['relatedto'] deceive ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto', 'synonym'] act ['relatedto'] trick ['relatedto'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] action ['relatedto'] purpose ['relatedto'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] action ['relatedto'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] action ['relatedto'] care ['antonym'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] action ['relatedto'] shout ['synonym'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] action ['relatedto'] trick ['relatedto'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] activity ['isa'] education ['relatedto'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] activity ['isa'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] activity ['relatedto'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] rest ['relatedto'] slang ['mannerof', 'relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] advantage ['synonym'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['relatedto'] human ['relatedto'] care ['antonym'] abuse
+workers ['atlocation'] work ['mannerof', 'relatedto'] go ['relatedto'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['relatedto'] set ['relatedto'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['relatedto'] art ['usedfor'] education ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] science ['relatedto'] education ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] science ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] position ['antonym'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['relatedto'] position ['relatedto'] tyrant ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] voluntary ['synonym'] discretionary ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'distinctfrom', 'relatedto'] home ['relatedto'] care ['antonym'] abuse
+workers ['atlocation'] work ['isa'] check ['mannerof'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['antonym', 'relatedto'] day ['relatedto'] care ['antonym'] abuse
+workers ['atlocation'] work ['relatedto'] time ['relatedto'] purpose ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] time ['relatedto'] bastardization ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] time ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto'] time ['relatedto'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['relatedto'] handle ['mannerof', 'relatedto'] manhandle ['synonym'] abuse
+workers ['atlocation'] work ['relatedto'] handle ['relatedto'] care ['antonym'] abuse
+workers ['atlocation'] work ['relatedto'] handle ['relatedto'] mishandle ['synonym'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] book ['relatedto'] trick ['relatedto'] abuse
+workers ['atlocation'] work ['isa', 'relatedto'] book ['usedfor'] education ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'relatedto'] break ['relatedto'] purpose ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'relatedto'] break ['relatedto'] hurt ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'relatedto'] break ['relatedto'] injure ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'relatedto'] break ['relatedto'] injury ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'relatedto'] break ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'relatedto'] break ['relatedto', 'synonym'] violate ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'relatedto'] employ ['relatedto', 'synonym'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['antonym'] game ['relatedto'] trick ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'distinctfrom'] party ['relatedto'] alcoholic ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'distinctfrom'] party ['relatedto'] trick ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'distinctfrom', 'relatedto'] play ['isa', 'mannerof', 'relatedto'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['antonym', 'distinctfrom', 'relatedto'] play ['antonym'] trick ['relatedto'] abuse
+workers ['atlocation'] work ['antonym', 'distinctfrom', 'relatedto'] play ['relatedto'] deceive ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto', 'atlocation'] challenge ['relatedto'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['atlocation'] noise ['relatedto'] shout ['synonym'] abuse
+workers ['atlocation'] work ['usedfor', 'relatedto', 'atlocation'] office ['relatedto'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['usedfor', 'relatedto', 'atlocation'] office ['relatedto'] rubygate ['relatedto'] abuse
+workers ['atlocation'] work ['usedfor', 'relatedto', 'atlocation'] office ['relatedto'] tyrant ['relatedto'] abuse
+workers ['atlocation'] work ['atlocation'] paint ['antonym', 'relatedto'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['atlocation'] paint ['relatedto'] treatment ['relatedto'] abuse
+workers ['atlocation'] work ['atlocation'] paper ['relatedto'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['atlocation'] paper ['usedfor'] education ['relatedto'] abuse
+workers ['atlocation'] work ['atlocation'] satisfaction ['relatedto'] injury ['relatedto'] abuse
+workers ['atlocation'] work ['capableof'] pain ['relatedto'] attack ['mannerof'] abuse
+workers ['atlocation'] work ['capableof'] pain ['usedfor', 'relatedto', 'synonym'] hurt ['relatedto'] abuse
+workers ['atlocation'] work ['capableof'] pain ['capableof', 'causes', 'relatedto'] injury ['relatedto'] abuse
+workers ['atlocation'] work ['capableof'] pain ['relatedto'] give_someone_grief ['relatedto'] abuse
+workers ['atlocation'] work ['capableof'] pain ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] energy ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['causesdesire', 'motivatedbygoal', 'relatedto'] money ['usedfor'] corrupt ['relatedto'] abuse
+workers ['atlocation'] work ['derivedfrom'] forwork ['relatedto'] injure ['relatedto'] abuse
+workers ['atlocation'] work ['derivedfrom'] carework ['derivedfrom'] care ['antonym'] abuse
+workers ['atlocation'] work ['relatedto', 'derivedfrom'] classwork ['partof'] education ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto', 'derivedfrom'] endwork ['relatedto'] purpose ['relatedto'] abuse
+workers ['atlocation'] work ['derivedfrom'] speedwork ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['derivedfrom'] workout ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['formof', 'relatedto', 'derivedfrom', 'synonym'] working ['isa'] treatment ['relatedto'] abuse
+workers ['atlocation'] work ['distinctfrom', 'mannerof', 'relatedto', 'synonym'] exercise ['causes'] injury ['relatedto'] abuse
+workers ['atlocation'] work ['distinctfrom', 'mannerof', 'relatedto', 'synonym'] exercise ['relatedto'] physical ['relatedto'] abuse
+workers ['atlocation'] work ['distinctfrom', 'mannerof', 'relatedto', 'synonym'] exercise ['relatedto'] prevarication ['relatedto'] abuse
+workers ['atlocation'] work ['distinctfrom', 'mannerof', 'relatedto', 'synonym'] exercise ['synonym'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['relatedto', 'entails'] practice ['isa', 'synonym'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['relatedto', 'entails'] practice ['isa'] mistreatment ['relatedto'] abuse
+workers ['atlocation'] work ['relatedto', 'entails'] practice ['relatedto'] usage ['relatedto'] abuse
+workers ['atlocation'] work ['etymologicallyrelatedto'] metallurgy ['relatedto'] treatment ['relatedto'] abuse
+workers ['atlocation'] work ['etymologicallyrelatedto'] organ ['isa'] stinger ['isa'] abuse
+workers ['atlocation'] work ['etymologicallyrelatedto'] workaday ['relatedto'] use ['mannerof', 'derivedfrom'] abuse
+workers ['atlocation'] work ['hasprerequisite'] earn_living ['hasprerequisite'] education ['relatedto'] abuse

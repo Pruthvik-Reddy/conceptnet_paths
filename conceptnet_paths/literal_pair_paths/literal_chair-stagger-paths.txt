@@ -1,0 +1,100 @@
+chair ['antonym'] stand ['relatedto'] stagger
+chair ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] motion ['relatedto'] stagger
+chair ['relatedto'] rest ['mannerof'] stand ['relatedto'] stagger
+chair ['relatedto'] rest ['relatedto'] cease ['relatedto'] stagger
+chair ['atlocation'] human ['atlocation'] motion ['relatedto'] stagger
+chair ['atlocation'] human ['capableof'] stand ['relatedto'] stagger
+chair ['atlocation'] human ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+chair ['relatedto'] bottom ['relatedto'] fall ['relatedto'] stagger
+chair ['causesdesire', 'relatedto'] sit ['antonym', 'distinctfrom', 'relatedto'] stand ['relatedto'] stagger
+chair ['causesdesire', 'relatedto'] sit ['antonym'] walk ['mannerof', 'relatedto'] stagger
+chair ['causesdesire', 'relatedto'] sit ['relatedto'] motion ['relatedto'] stagger
+chair ['causesdesire', 'relatedto'] sit ['relatedto'] cause ['relatedto'] stagger
+chair ['usedfor', 'relatedto'] sitting ['antonym'] walk ['mannerof', 'relatedto'] stagger
+chair ['usedfor', 'relatedto'] sitting ['isa'] motion ['relatedto'] stagger
+chair ['relatedto', 'partof', 'atlocation'] leg ['relatedto'] movement ['relatedto'] stagger
+chair ['relatedto', 'partof', 'atlocation'] leg ['usedfor', 'relatedto'] stand ['relatedto'] stagger
+chair ['relatedto', 'partof', 'atlocation'] leg ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+chair ['relatedto'] around ['relatedto'] circumference ['relatedto'] stagger
+chair ['relatedto'] around ['relatedto'] tire ['relatedto'] stagger
+chair ['relatedto'] around ['relatedto'] track ['relatedto'] stagger
+chair ['relatedto'] around ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+chair ['relatedto'] position ['isa', 'relatedto'] stand ['relatedto'] stagger
+chair ['relatedto'] position ['relatedto'] motion ['relatedto'] stagger
+chair ['relatedto'] position ['relatedto'] similar ['relatedto'] stagger
+chair ['relatedto', 'partof'] back ['relatedto'] movement ['relatedto'] stagger
+chair ['relatedto', 'partof'] back ['relatedto'] keel ['synonym'] stagger
+chair ['antonym'] bed ['relatedto'] stand ['relatedto'] stagger
+chair ['antonym', 'distinctfrom', 'relatedto'] couch ['relatedto'] arrange ['mannerof', 'relatedto'] stagger
+chair ['antonym'] stand ['antonym'] fall ['relatedto'] stagger
+chair ['antonym'] stand ['antonym', 'relatedto', 'hasprerequisite'] walk ['mannerof', 'relatedto'] stagger
+chair ['antonym'] stand ['derivedfrom'] stand_firm ['relatedto'] stagger
+chair ['antonym'] stand ['relatedto'] perplexity ['relatedto'] stagger
+chair ['antonym'] stand ['relatedto'] totter ['relatedto', 'synonym'] stagger
+chair ['antonym', 'distinctfrom', 'locatednear', 'relatedto', 'similarto'] table ['isa', 'relatedto'] stand ['relatedto'] stagger
+chair ['antonym', 'distinctfrom', 'locatednear', 'relatedto', 'similarto'] table ['relatedto'] distribute ['synonym'] stagger
+chair ['antonym', 'distinctfrom', 'locatednear', 'relatedto', 'similarto', 'atlocation'] desk ['relatedto'] stand ['relatedto'] stagger
+chair ['atlocation'] corner ['relatedto'] stand ['relatedto'] stagger
+chair ['relatedto', 'atlocation'] floor ['relatedto'] stand ['relatedto'] stagger
+chair ['relatedto', 'atlocation'] floor ['usedfor', 'relatedto'] walk ['mannerof', 'relatedto'] stagger
+chair ['relatedto', 'atlocation'] floor ['synonym'] flabbergast ['synonym'] stagger
+chair ['relatedto', 'atlocation'] floor ['synonym'] shock ['relatedto'] stagger
+chair ['atlocation'] show ['relatedto'] motion ['relatedto'] stagger
+chair ['atlocation'] rock ['isa'] lurch ['synonym'] stagger
+chair ['atlocation'] rock ['mannerof'] swag ['synonym'] stagger
+chair ['atlocation'] rock ['mannerof'] totter ['relatedto', 'synonym'] stagger
+chair ['atlocation'] rock ['relatedto', 'synonym'] sway ['relatedto'] stagger
+chair ['atlocation'] rock ['relatedto'] titubate ['relatedto'] stagger
+chair ['atlocation'] rock ['relatedto'] wintle ['relatedto'] stagger
+chair ['atlocation'] rock ['synonym'] careen ['synonym'] stagger
+chair ['derivedfrom'] first_chair ['relatedto'] movement ['relatedto'] stagger
+chair ['isa', 'distinctfrom', 'relatedto', 'usedfor'] seat ['antonym'] stand ['relatedto'] stagger
+chair ['etymologicallyrelatedto'] settle ['synonym'] fall ['relatedto'] stagger
+chair ['etymologicallyrelatedto'] settle ['mannerof', 'synonym'] arrange ['mannerof', 'relatedto'] stagger
+chair ['hasa', 'relatedto'] four_legs ['hasa'] horses ['relatedto'] stagger
+chair ['hasa', 'relatedto'] legs ['relatedto'] walk ['mannerof', 'relatedto'] stagger
+chair ['isa', 'relatedto'] place ['relatedto'] purpose ['relatedto'] stagger
+chair ['isa', 'relatedto'] place ['relatedto'] stand ['relatedto'] stagger
+chair ['isa', 'relatedto'] furniture ['isa'] stand ['relatedto'] stagger
+chair ['isa'] non_powered_device ['isa'] tire ['relatedto'] stagger
+chair ['madeof', 'relatedto'] wood ['relatedto'] waver ['relatedto'] stagger
+chair ['partof'] foot ['relatedto'] stand ['relatedto'] stagger
+chair ['partof'] foot ['isa', 'usedfor', 'mannerof', 'relatedto'] walk ['mannerof', 'relatedto'] stagger
+chair ['partof'] foot ['usedfor'] movement ['relatedto'] stagger
+chair ['relatedto'] boat ['relatedto'] keel ['synonym'] stagger
+chair ['relatedto'] boat ['relatedto'] movement ['relatedto'] stagger
+chair ['relatedto'] boat ['relatedto'] similar ['relatedto'] stagger
+chair ['relatedto'] booth ['relatedto'] stand ['relatedto'] stagger
+chair ['relatedto'] camelback ['relatedto'] tire ['relatedto'] stagger
+chair ['relatedto'] arms ['relatedto'] stand ['relatedto'] stagger
+chair ['relatedto'] brown ['relatedto'] fall ['relatedto'] stagger
+chair ['relatedto'] brown ['hasproperty'] horses ['relatedto'] stagger
+chair ['relatedto'] cushion ['relatedto'] shock ['relatedto'] stagger
+chair ['relatedto'] device ['usedfor'] purpose ['relatedto'] stagger
+chair ['relatedto'] feet ['relatedto'] stand ['relatedto'] stagger
+chair ['relatedto'] feet ['capableof', 'usedfor', 'relatedto'] walk ['mannerof', 'relatedto'] stagger
+chair ['relatedto'] instrument ['synonym'] arrange ['mannerof', 'relatedto'] stagger
+chair ['relatedto'] rocking ['relatedto'] sway ['relatedto'] stagger
+chair ['relatedto'] single ['relatedto'] track ['relatedto'] stagger
+chair ['relatedto'] single ['relatedto'] gait ['relatedto'] stagger
+chair ['relatedto'] surface ['relatedto'] track ['relatedto'] stagger
+chair ['relatedto'] surface ['relatedto'] multiplane ['relatedto'] stagger
+chair ['relatedto'] tables ['hasproperty'] oval ['relatedto'] stagger
+chair ['relatedto'] tables ['relatedto'] lurch ['synonym'] stagger
+chair ['relatedto'] tool ['usedfor'] purpose ['relatedto'] stagger
+chair ['relatedto'] tool ['relatedto'] flounder ['synonym'] stagger
+chair ['relatedto'] rail ['relatedto', 'synonym'] track ['relatedto'] stagger
+chair ['relatedto'] railway ['relatedto'] track ['relatedto'] stagger
+chair ['relatedto'] sleeper ['relatedto'] interval ['relatedto'] stagger
+chair ['relatedto'] carry ['relatedto'] movement ['relatedto'] stagger
+chair ['relatedto'] carry ['synonym'] sway ['relatedto'] stagger
+chair ['relatedto'] victory ['isa'] fall ['relatedto'] stagger
+chair ['relatedto'] chairwork ['relatedto'] stand ['relatedto'] stagger
+chair ['relatedto'] reading ['relatedto'] purpose ['relatedto'] stagger
+chair ['relatedto'] reading ['relatedto'] movement ['relatedto'] stagger
+chair ['relatedto'] rocker ['relatedto'] motion ['relatedto'] stagger
+chair ['relatedto'] rush ['motivatedbygoal'] fall ['relatedto'] stagger
+chair ['relatedto'] rush ['relatedto'] movement ['relatedto'] stagger
+chair ['relatedto'] rush ['relatedto'] sudden ['relatedto'] stagger
+chair ['relatedto'] rush ['relatedto'] motion ['relatedto'] stagger
+chair ['relatedto'] umpire ['relatedto'] stand ['relatedto'] stagger

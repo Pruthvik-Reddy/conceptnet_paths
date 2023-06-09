@@ -1,0 +1,100 @@
+nose ['atlocation'] air ['relatedto'] stuff
+nose ['relatedto'] doll ['relatedto'] stuff
+nose ['relatedto'] middle ['relatedto'] stuff
+nose ['relatedto'] ability ['isa'] quality ['isa', 'relatedto'] stuff
+nose ['relatedto'] ability ['relatedto'] memory ['relatedto'] stuff
+nose ['relatedto'] ability ['relatedto'] wax ['relatedto'] stuff
+nose ['mannerof'] advance ['mannerof'] wax ['relatedto'] stuff
+nose ['mannerof'] advance ['relatedto'] guard ['relatedto'] stuff
+nose ['mannerof'] advance ['relatedto'] money ['relatedto'] stuff
+nose ['mannerof'] advance ['relatedto'] price ['relatedto'] stuff
+nose ['mannerof'] advance ['relatedto'] thrust ['synonym'] stuff
+nose ['relatedto'] human ['antonym'] machine ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto', 'atlocation'] arm ['relatedto'] stuff
+nose ['relatedto'] human ['atlocation'] china ['relatedto'] stuff
+nose ['relatedto'] human ['atlocation'] factory ['relatedto'] stuff
+nose ['relatedto'] human ['atlocation'] farm ['relatedto'] stuff
+nose ['relatedto'] human ['atlocation'] shop ['relatedto'] stuff
+nose ['relatedto'] human ['desires'] money ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] art ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] block ['synonym'] stuff
+nose ['relatedto'] human ['relatedto'] blood ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] care ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] doll ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] earth ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] eat ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] memory ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] milk ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] poet ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] waste ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] wax ['relatedto'] stuff
+nose ['relatedto'] human ['relatedto'] work ['relatedto'] stuff
+nose ['atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] earth ['relatedto'] stuff
+nose ['atlocation'] air ['antonym', 'distinctfrom'] fire ['relatedto'] stuff
+nose ['atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] stuff
+nose ['atlocation'] air ['atlocation'] cupboard ['atlocation'] stuff
+nose ['atlocation'] air ['atlocation'] house ['atlocation'] stuff
+nose ['atlocation'] air ['atlocation'] arm ['relatedto'] stuff
+nose ['atlocation'] air ['relatedto', 'atlocation'] cloud ['relatedto'] stuff
+nose ['atlocation'] air ['isa'] mixture ['relatedto'] stuff
+nose ['atlocation'] air ['isa', 'relatedto'] quality ['isa', 'relatedto'] stuff
+nose ['atlocation'] air ['relatedto'] content ['relatedto'] stuff
+nose ['atlocation'] air ['relatedto'] material ['relatedto', 'synonym'] stuff
+nose ['atlocation'] air ['relatedto'] matter ['relatedto', 'synonym'] stuff
+nose ['atlocation'] air ['relatedto'] substance ['relatedto'] stuff
+nose ['atlocation'] air ['relatedto'] fill ['mannerof', 'relatedto'] stuff
+nose ['atlocation'] air ['relatedto'] chicken ['relatedto'] stuff
+nose ['atlocation'] air ['relatedto'] market ['relatedto'] stuff
+nose ['atlocation'] air ['relatedto'] stop ['etymologicallyrelatedto'] stuff
+nose ['relatedto'] sense ['relatedto'] air ['relatedto'] stuff
+nose ['relatedto'] sense ['relatedto'] color ['relatedto'] stuff
+nose ['relatedto'] sense ['relatedto'] humour ['relatedto'] stuff
+nose ['relatedto'] sense ['relatedto'] lug ['synonym'] stuff
+nose ['relatedto'] sense ['relatedto'] memory ['relatedto'] stuff
+nose ['relatedto'] sense ['relatedto'] noise ['relatedto'] stuff
+nose ['relatedto'] sense ['relatedto'] salt ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['relatedto'] act ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['relatedto'] arm ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['antonym', 'distinctfrom', 'relatedto'] middle ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['relatedto'] color ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['relatedto'] content ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['relatedto'] money ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['relatedto'] garden ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['relatedto'] grass ['relatedto'] stuff
+nose ['isa', 'relatedto'] front ['relatedto'] guard ['relatedto'] stuff
+nose ['relatedto'] toe ['relatedto'] polish ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] house ['atlocation'] stuff
+nose ['relatedto'] small ['antonym'] middle ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto', 'hasproperty'] doll ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] algae ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] box ['relatedto', 'atlocation'] stuff
+nose ['relatedto'] small ['relatedto'] cabinet ['relatedto', 'atlocation'] stuff
+nose ['relatedto'] small ['relatedto'] case ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] chicken ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] desk ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] detail ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] dollar ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] factory ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] farm ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] garden ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] glitter ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] grass ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] macaroni ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] market ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] owner ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] rice ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] sand ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] scale ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] soap ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] toy ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] wave ['relatedto'] stuff
+nose ['relatedto'] small ['relatedto'] wood ['relatedto'] stuff
+nose ['relatedto'] bill ['synonym'] act ['relatedto'] stuff
+nose ['relatedto'] bill ['relatedto'] arm ['relatedto'] stuff
+nose ['relatedto'] bill ['atlocation'] trash ['relatedto'] stuff
+nose ['relatedto'] bill ['isa', 'relatedto'] money ['relatedto'] stuff
+nose ['relatedto'] bill ['isa', 'relatedto'] dollar ['relatedto'] stuff
+nose ['relatedto'] bill ['relatedto'] collection ['relatedto'] stuff
+nose ['relatedto'] bill ['relatedto'] paper ['relatedto'] stuff
+nose ['relatedto'] bill ['relatedto'] price ['relatedto'] stuff
+nose ['relatedto'] bill ['relatedto'] interest ['relatedto'] stuff

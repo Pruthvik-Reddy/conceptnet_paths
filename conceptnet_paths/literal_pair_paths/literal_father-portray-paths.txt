@@ -1,0 +1,100 @@
+father ['relatedto'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] act ['mannerof', 'synonym'] impersonate ['synonym'] portray
+father ['relatedto'] act ['usedfor', 'relatedto'] role ['relatedto'] portray
+father ['relatedto'] act ['relatedto'] show ['relatedto'] portray
+father ['relatedto'] act ['relatedto'] someone ['relatedto'] portray
+father ['relatedto'] act ['relatedto'] character ['relatedto'] portray
+father ['relatedto'] act ['relatedto'] hillbilly ['relatedto'] portray
+father ['relatedto'] act ['relatedto', 'synonym'] represent ['mannerof', 'relatedto'] portray
+father ['antonym', 'relatedto'] child ['relatedto'] role ['relatedto'] portray
+father ['relatedto'] adult ['isa'] character ['relatedto'] portray
+father ['relatedto'] relationship ['relatedto'] present ['synonym'] portray
+father ['relatedto'] human ['atlocation'] show ['relatedto'] portray
+father ['relatedto'] human ['relatedto'] voice ['relatedto'] portray
+father ['relatedto'] home ['relatedto'] someone ['relatedto'] portray
+father ['relatedto'] home ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] home ['relatedto'] paint ['relatedto'] portray
+father ['relatedto'] home ['relatedto'] port ['relatedto'] portray
+father ['relatedto'] bar ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] bless ['relatedto'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] bless ['relatedto'] someone ['relatedto'] portray
+father ['relatedto'] boy ['relatedto'] paint ['relatedto'] portray
+father ['isa', 'relatedto'] parent ['relatedto'] act ['relatedto', 'synonym'] portray
+father ['etymologicallyrelatedto', 'relatedto'] fatha ['relatedto'] line ['relatedto'] portray
+father ['isa'] leader ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] family ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] family ['relatedto'] picture ['relatedto'] portray
+father ['relatedto'] family ['relatedto'] portrait ['relatedto'] portray
+father ['relatedto'] figure ['isa', 'relatedto'] line ['relatedto'] portray
+father ['relatedto'] figure ['relatedto'] draw ['relatedto'] portray
+father ['relatedto'] figure ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] figure ['synonym'] image ['relatedto'] portray
+father ['relatedto'] member ['relatedto'] character ['relatedto'] portray
+father ['relatedto'] partner ['mannerof'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] unit ['relatedto'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] unit ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] support ['mannerof'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] father_figure ['relatedto'] represent ['mannerof', 'relatedto'] portray
+father ['relatedto'] happy_families ['relatedto'] picture ['relatedto'] portray
+father ['relatedto'] horse ['atlocation'] show ['relatedto'] portray
+father ['relatedto'] junior ['relatedto'] role ['relatedto'] portray
+father ['relatedto'] king ['relatedto'] paint ['relatedto'] portray
+father ['relatedto'] lord ['relatedto'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] minister ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] minister ['relatedto'] role ['relatedto'] portray
+father ['relatedto'] pope ['relatedto'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] push_present ['relatedto'] present ['synonym'] portray
+father ['relatedto'] relative ['isa'] ancestor ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] relative ['isa'] descendant ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] ago ['antonym'] present ['synonym'] portray
+father ['relatedto'] relative ['relatedto'] ago ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] away ['antonym', 'distinctfrom'] present ['synonym'] portray
+father ['relatedto'] relative ['relatedto'] child ['relatedto'] role ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] close ['mannerof', 'relatedto'] draw ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] close ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] cold ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] relative ['relatedto', 'synonym'] comparative ['relatedto'] method ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] distribution ['isa'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] relative ['relatedto'] family ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] family ['relatedto'] picture ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] family ['relatedto'] portrait ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] far ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] geography ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] heir ['relatedto'] role ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] horse ['atlocation'] show ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] lose ['relatedto'] draw ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] many ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] middle ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] parent ['relatedto'] act ['relatedto', 'synonym'] portray
+father ['relatedto'] relative ['relatedto'] prominence ['relatedto'] emphasis ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] relate ['synonym'] describe ['relatedto', 'synonym'] portray
+father ['relatedto'] relative ['relatedto'] relationship ['relatedto'] present ['synonym'] portray
+father ['relatedto'] relative ['relatedto'] key ['relatedto'] character ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] key ['synonym'] paint ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] size ['relatedto'] describe ['relatedto', 'synonym'] portray
+father ['relatedto'] relative ['relatedto'] size ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] relative ['relatedto'] time ['isa', 'relatedto'] present ['synonym'] portray
+father ['relatedto'] relative ['synonym'] congener ['relatedto'] character ['relatedto'] portray
+father ['relatedto'] relative ['synonym'] proportional ['relatedto'] character ['relatedto'] portray
+father ['relatedto'] act ['relatedto'] purpose ['usedfor'] role ['relatedto'] portray
+father ['relatedto'] act ['antonym'] nothing ['relatedto'] description ['relatedto'] portray
+father ['relatedto'] act ['antonym'] real ['antonym', 'distinctfrom'] character ['relatedto'] portray
+father ['relatedto'] act ['antonym'] real ['antonym'] wig ['relatedto'] portray
+father ['relatedto'] act ['antonym'] real ['relatedto'] ethopoeia ['relatedto'] portray
+father ['relatedto'] act ['antonym'] real ['relatedto'] image ['relatedto'] portray
+father ['relatedto'] act ['antonym'] band ['atlocation'] show ['relatedto'] portray
+father ['relatedto'] act ['antonym'] band ['relatedto'] line ['relatedto'] portray
+father ['relatedto'] act ['capableof'] humans ['capableof'] draw ['relatedto'] portray
+father ['relatedto'] act ['capableof'] humans ['relatedto'] voice ['relatedto'] portray
+father ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] character ['relatedto'] portray
+father ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] describe ['relatedto', 'synonym'] portray
+father ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] draw ['relatedto'] portray
+father ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] paint ['relatedto'] portray
+father ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] voice ['relatedto'] portray
+father ['relatedto'] act ['relatedto', 'derivedfrom'] actor ['relatedto'] character ['relatedto'] portray
+father ['relatedto'] act ['relatedto', 'derivedfrom'] actor ['atlocation'] show ['relatedto'] portray
+father ['relatedto'] act ['relatedto', 'derivedfrom'] actor ['relatedto'] wig ['relatedto'] portray
+father ['relatedto'] act ['relatedto', 'derivedfrom'] actor ['relatedto', 'synonym'] role ['relatedto'] portray
+father ['relatedto'] act ['derivedfrom'] actress ['relatedto'] character ['relatedto'] portray
+father ['relatedto'] act ['distinctfrom', 'relatedto', 'partof'] scene ['isa', 'relatedto', 'synonym'] picture ['relatedto'] portray
+father ['relatedto'] act ['distinctfrom', 'relatedto', 'partof'] scene ['usedfor', 'relatedto'] paint ['relatedto'] portray

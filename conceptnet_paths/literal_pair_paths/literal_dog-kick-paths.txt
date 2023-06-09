@@ -1,0 +1,100 @@
+dog ['relatedto'] attack ['relatedto'] kick
+dog ['relatedto', 'hasproperty'] fun ['relatedto'] kick
+dog ['receivesaction'] kicked ['formof', 'relatedto'] kick
+dog ['relatedto'] foot ['relatedto'] kick
+dog ['relatedto'] stroke ['relatedto'] kick
+dog ['relatedto'] swim ['relatedto'] kick
+dog ['relatedto'] human ['atlocation'] motion ['isa', 'relatedto'] kick
+dog ['relatedto'] human ['capableof'] die ['relatedto'] kick
+dog ['relatedto'] human ['relatedto'] blow ['isa'] kick
+dog ['relatedto'] human ['relatedto'] crawl ['relatedto'] kick
+dog ['relatedto'] human ['relatedto'] dance ['mannerof'] kick
+dog ['relatedto'] human ['relatedto'] feet ['relatedto'] kick
+dog ['relatedto'] human ['relatedto'] foot ['relatedto'] kick
+dog ['relatedto'] human ['relatedto'] hoof ['relatedto'] kick
+dog ['relatedto'] human ['relatedto'] knee ['relatedto'] kick
+dog ['relatedto'] human ['relatedto'] leg ['relatedto'] kick
+dog ['relatedto'] human ['relatedto'] swim ['relatedto'] kick
+dog ['relatedto'] old ['motivatedbygoal', 'relatedto'] die ['relatedto'] kick
+dog ['atlocation'] ground ['antonym', 'distinctfrom', 'relatedto'] sky ['relatedto'] kick
+dog ['atlocation'] ground ['relatedto', 'atlocation'] feet ['relatedto'] kick
+dog ['atlocation'] ground ['mannerof', 'relatedto'] hit ['antonym', 'mannerof', 'relatedto'] kick
+dog ['atlocation'] ground ['relatedto'] crawl ['relatedto'] kick
+dog ['atlocation'] ground ['relatedto'] drop_kick ['mannerof', 'relatedto', 'derivedfrom'] kick
+dog ['atlocation'] ground ['relatedto'] foot ['relatedto'] kick
+dog ['atlocation'] ground ['relatedto'] football ['relatedto'] kick
+dog ['atlocation'] ground ['relatedto'] soccer ['relatedto'] kick
+dog ['atlocation'] ground ['relatedto'] place_kick ['isa', 'mannerof'] kick
+dog ['hasproperty'] alive ['relatedto'] action ['relatedto'] kick
+dog ['hasproperty'] alive ['distinctfrom', 'hasprerequisite'] die ['relatedto'] kick
+dog ['hasproperty'] alive ['relatedto'] motion ['isa', 'relatedto'] kick
+dog ['hasproperty'] alive ['relatedto'] kicking ['formof', 'relatedto', 'synonym'] kick
+dog ['relatedto'] enemy ['relatedto'] fighting ['relatedto'] kick
+dog ['relatedto'] enemy ['relatedto'] issue ['relatedto'] kick
+dog ['relatedto'] animal ['relatedto'] feet ['relatedto'] kick
+dog ['relatedto'] animal ['relatedto'] foot ['relatedto'] kick
+dog ['relatedto'] animal ['relatedto'] heel ['relatedto'] kick
+dog ['relatedto'] animal ['relatedto'] hoof ['relatedto'] kick
+dog ['relatedto'] animal ['relatedto'] issue ['relatedto'] kick
+dog ['relatedto'] animal ['relatedto'] move ['relatedto', 'entails'] kick
+dog ['relatedto'] animal ['relatedto'] pocket ['relatedto'] kick
+dog ['relatedto', 'atlocation'] house ['relatedto'] rest ['relatedto'] kick
+dog ['relatedto', 'atlocation'] house ['derivedfrom'] roundhouse ['isa', 'relatedto'] kick
+dog ['relatedto', 'atlocation'] house ['etymologicallyrelatedto'] sky ['relatedto'] kick
+dog ['relatedto', 'atlocation'] house ['relatedto'] button ['relatedto'] kick
+dog ['relatedto', 'atlocation'] house ['relatedto'] move ['relatedto', 'entails'] kick
+dog ['relatedto'] bow ['haslastsubevent'] dance ['mannerof'] kick
+dog ['relatedto'] bow ['isa'] stroke ['relatedto'] kick
+dog ['relatedto'] bow ['relatedto'] drill ['relatedto'] kick
+dog ['relatedto'] bow ['relatedto'] roundhouse ['isa', 'relatedto'] kick
+dog ['relatedto'] bow ['relatedto'] tip ['relatedto'] kick
+dog ['relatedto'] reply ['relatedto'] action ['relatedto'] kick
+dog ['relatedto'] reply ['relatedto'] button ['relatedto'] kick
+dog ['relatedto'] attack ['relatedto'] accelerate ['relatedto'] kick
+dog ['relatedto'] attack ['relatedto'] action ['relatedto'] kick
+dog ['relatedto'] attack ['isa', 'relatedto'] violence ['relatedto'] kick
+dog ['relatedto'] attack ['isa', 'mannerof', 'relatedto'] strike ['relatedto'] kick
+dog ['relatedto'] attack ['isa', 'relatedto'] stroke ['relatedto'] kick
+dog ['relatedto'] attack ['mannerof', 'relatedto'] fight ['relatedto'] kick
+dog ['relatedto'] attack ['mannerof', 'relatedto'] fork ['relatedto'] kick
+dog ['relatedto'] attack ['relatedto'] fighting ['relatedto'] kick
+dog ['relatedto'] attack ['relatedto'] hit ['antonym', 'mannerof', 'relatedto'] kick
+dog ['relatedto'] attack ['relatedto'] move ['relatedto', 'entails'] kick
+dog ['relatedto'] attack ['relatedto'] score ['mannerof'] kick
+dog ['relatedto'] attack ['relatedto'] corner_kick ['relatedto'] kick
+dog ['relatedto'] attack ['relatedto'] punch ['antonym', 'distinctfrom', 'relatedto'] kick
+dog ['relatedto'] stick ['relatedto'] action ['relatedto'] kick
+dog ['relatedto'] stick ['antonym'] hit ['antonym', 'mannerof', 'relatedto'] kick
+dog ['relatedto'] stick ['relatedto'] ball ['relatedto'] kick
+dog ['relatedto'] stick ['relatedto'] device ['relatedto'] kick
+dog ['relatedto'] stick ['relatedto', 'synonym'] joystick ['relatedto'] kick
+dog ['relatedto'] stick ['relatedto'] whip ['relatedto'] kick
+dog ['relatedto'] come ['relatedto'] action ['relatedto'] kick
+dog ['relatedto'] come ['relatedto'] move ['relatedto', 'entails'] kick
+dog ['relatedto'] come ['relatedto'] moving ['relatedto'] kick
+dog ['relatedto'] come ['relatedto'] issue ['relatedto'] kick
+dog ['relatedto'] home ['relatedto'] rest ['relatedto'] kick
+dog ['relatedto'] home ['relatedto'] seat ['usedfor'] kick
+dog ['relatedto'] home ['relatedto'] move ['relatedto', 'entails'] kick
+dog ['relatedto'] home ['relatedto'] sky ['relatedto'] kick
+dog ['relatedto'] stay ['relatedto'] action ['relatedto'] kick
+dog ['relatedto'] stay ['relatedto', 'synonym'] rest ['relatedto'] kick
+dog ['relatedto'] stay ['antonym', 'distinctfrom'] move ['relatedto', 'entails'] kick
+dog ['relatedto'] stay ['antonym'] propel ['mannerof'] kick
+dog ['relatedto'] stay ['distinctfrom'] moving ['relatedto'] kick
+dog ['relatedto'] stay ['relatedto'] difficult ['relatedto'] kick
+dog ['relatedto'] stay ['relatedto'] obstacle ['relatedto'] kick
+dog ['relatedto'] baby ['relatedto'] feet ['relatedto'] kick
+dog ['relatedto'] baby ['relatedto'] foot ['relatedto'] kick
+dog ['relatedto'] baby ['relatedto'] crawl ['relatedto'] kick
+dog ['relatedto'] baby ['relatedto'] seat ['usedfor'] kick
+dog ['relatedto'] backwards ['relatedto'] bicycle_kick ['relatedto', 'derivedfrom'] kick
+dog ['relatedto'] good ['distinctfrom'] die ['relatedto'] kick
+dog ['relatedto'] good ['hasproperty'] fun ['relatedto'] kick
+dog ['relatedto'] good ['relatedto'] ball ['relatedto'] kick
+dog ['relatedto'] dull ['distinctfrom'] fancy ['relatedto'] kick
+dog ['relatedto'] wet ['isa'] video_game ['relatedto'] kick
+dog ['relatedto'] wet ['relatedto'] swim ['relatedto'] kick
+dog ['atlocation'] bed ['relatedto', 'hasprerequisite'] rest ['relatedto'] kick
+dog ['atlocation'] bed ['antonym'] seat ['usedfor'] kick
+dog ['atlocation'] bed ['relatedto'] device ['relatedto'] kick

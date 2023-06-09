@@ -1,0 +1,100 @@
+sun ['relatedto'] beam ['relatedto'] radiate
+sun ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['relatedto'] solar_radiation ['relatedto'] radiate
+sun ['relatedto'] give ['synonym'] beam ['relatedto'] radiate
+sun ['relatedto'] earth ['relatedto'] solar_radiation ['relatedto'] radiate
+sun ['relatedto'] fire ['relatedto'] radiation ['relatedto'] radiate
+sun ['relatedto'] arise ['synonym'] issue ['mannerof'] radiate
+sun ['relatedto'] arise ['synonym'] proceed ['relatedto'] radiate
+sun ['relatedto'] big ['relatedto'] wave ['relatedto'] radiate
+sun ['relatedto', 'hasproperty'] bright ['relatedto', 'synonym'] glowing ['relatedto'] radiate
+sun ['relatedto', 'hasproperty'] bright ['relatedto'] radiant ['relatedto'] radiate
+sun ['relatedto', 'hasproperty'] bright ['relatedto'] flash ['mannerof'] radiate
+sun ['usedfor'] see ['relatedto'] wave ['relatedto'] radiate
+sun ['usedfor', 'relatedto'] sky ['relatedto'] radiant ['relatedto'] radiate
+sun ['relatedto'] body ['derivedfrom'] graybody ['relatedto'] radiate
+sun ['relatedto'] body ['partof'] spine ['relatedto'] radiate
+sun ['relatedto'] body ['relatedto'] flash ['mannerof'] radiate
+sun ['relatedto'] body ['relatedto'] issue ['mannerof'] radiate
+sun ['relatedto'] body ['relatedto'] panthodic ['relatedto'] radiate
+sun ['relatedto'] circle ['relatedto'] radius ['relatedto'] radiate
+sun ['relatedto'] length ['isa'] radius ['relatedto'] radiate
+sun ['relatedto'] dark ['antonym', 'relatedto'] flash ['mannerof'] radiate
+sun ['relatedto'] really ['relatedto'] run ['mannerof'] radiate
+sun ['relatedto'] burn ['relatedto'] radiation ['relatedto'] radiate
+sun ['relatedto'] burn ['synonym'] glow ['mannerof', 'synonym'] radiate
+sun ['hasproperty'] warm ['relatedto', 'similarto'] cordial ['relatedto'] radiate
+sun ['relatedto'] summer ['relatedto'] beam ['relatedto'] radiate
+sun ['antonym', 'distinctfrom'] rain ['relatedto'] issue ['mannerof'] radiate
+sun ['antonym', 'distinctfrom', 'relatedto'] moon ['hasproperty'] radiant ['relatedto'] radiate
+sun ['antonym', 'distinctfrom', 'relatedto'] moon ['relatedto'] luminosity ['relatedto'] radiate
+sun ['antonym', 'relatedto'] rise ['antonym', 'relatedto'] run ['mannerof'] radiate
+sun ['antonym', 'relatedto'] rise ['isa', 'relatedto'] wave ['relatedto'] radiate
+sun ['atlocation'] snake ['atlocation'] habitat ['relatedto'] radiate
+sun ['atlocation'] snake ['atlocation'] shed ['relatedto'] radiate
+sun ['atlocation'] beach ['relatedto'] wave ['relatedto'] radiate
+sun ['relatedto', 'atlocation'] outer_space ['similarto'] cosmos ['relatedto'] radiate
+sun ['relatedto', 'atlocation'] space ['relatedto'] cosmos ['relatedto'] radiate
+sun ['relatedto', 'atlocation'] space ['atlocation'] ionizing_radiation ['relatedto'] radiate
+sun ['relatedto', 'atlocation'] space ['atlocation'] radiation ['relatedto'] radiate
+sun ['relatedto', 'atlocation'] space ['relatedto'] run ['mannerof'] radiate
+sun ['relatedto', 'atlocation'] universe ['relatedto', 'similarto', 'synonym'] cosmos ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] heat ['relatedto'] radiant ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] heat ['relatedto'] radiant_energy ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] heat ['relatedto'] radiation ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] heat ['relatedto'] radiator ['relatedto', 'derivedfrom'] radiate
+sun ['causes', 'relatedto', 'usedfor'] heat ['relatedto'] wave ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] heat ['relatedto'] irradiate ['relatedto', 'synonym'] radiate
+sun ['causes', 'relatedto', 'usedfor'] heat ['relatedto'] resistance_frame ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] heat ['synonym'] glow ['mannerof', 'synonym'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['capableof', 'relatedto', 'synonym'] illuminate ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['isa', 'relatedto'] beam ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['isa', 'usedfor', 'relatedto'] flash ['mannerof'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['isa', 'relatedto'] glow ['mannerof', 'synonym'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['isa', 'relatedto'] wave ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto'] gleam ['mannerof'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto'] irradiant ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto'] irradiate ['relatedto', 'synonym'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto', 'synonym'] luminosity ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto'] radiation ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto'] overglow ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto'] radiant ['relatedto'] radiate
+sun ['causes', 'relatedto', 'usedfor'] light ['relatedto'] reradiate ['relatedto', 'derivedfrom'] radiate
+sun ['causesdesire'] go_outside ['hasprerequisite'] run ['mannerof'] radiate
+sun ['relatedto', 'derivedfrom'] sunburn ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['derivedfrom'] sunburnt ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['derivedfrom'] sunburst ['relatedto'] radiating ['formof', 'relatedto'] radiate
+sun ['derivedfrom'] sunburst ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['relatedto', 'derivedfrom', 'synonym'] sunlight ['isa'] solar_radiation ['relatedto'] radiate
+sun ['relatedto', 'derivedfrom', 'synonym'] sunlight ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['relatedto', 'derivedfrom', 'synonym'] sunlight ['relatedto'] radiation ['relatedto'] radiate
+sun ['derivedfrom'] sunray ['relatedto'] beam ['relatedto'] radiate
+sun ['derivedfrom'] sunray ['derivedfrom'] ray ['relatedto', 'synonym'] radiate
+sun ['derivedfrom'] sunscreen ['relatedto'] radiation ['relatedto'] radiate
+sun ['relatedto', 'derivedfrom'] sunscreening ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['derivedfrom'] sunflower ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['derivedfrom'] sunny ['relatedto'] radiant ['relatedto'] radiate
+sun ['relatedto', 'derivedfrom'] sunshine ['relatedto'] ray ['relatedto', 'synonym'] radiate
+sun ['desires'] shine ['relatedto'] emit ['mannerof', 'relatedto'] radiate
+sun ['desires'] shine ['relatedto'] flash ['mannerof'] radiate
+sun ['desires'] shine ['usedfor', 'relatedto', 'similarto', 'synonym'] beam ['relatedto'] radiate
+sun ['desires'] shine ['relatedto'] effulge ['relatedto'] radiate
+sun ['desires'] shine ['relatedto', 'synonym'] gleam ['mannerof'] radiate
+sun ['desires'] shine ['relatedto'] illuminate ['relatedto'] radiate
+sun ['desires'] shine ['relatedto'] irradiate ['relatedto', 'synonym'] radiate
+sun ['desires'] shine ['synonym'] coruscate ['synonym'] radiate
+sun ['desires'] shine ['synonym'] glow ['mannerof', 'synonym'] radiate
+sun ['etymologicallyrelatedto', 'relatedto'] solar ['derivedfrom'] solar_radiation ['relatedto'] radiate
+sun ['hasa', 'relatedto'] hydrogen ['relatedto'] waterhole ['relatedto'] radiate
+sun ['hasa'] iron ['relatedto'] beam ['relatedto'] radiate
+sun ['hasa'] iron ['relatedto'] run ['mannerof'] radiate
+sun ['relatedto', 'hasproperty'] shining ['relatedto'] flash ['mannerof'] radiate
+sun ['relatedto', 'hasproperty'] shining ['relatedto'] gleam ['mannerof'] radiate
+sun ['isa', 'relatedto'] star ['relatedto'] luminosity ['relatedto'] radiate
+sun ['isa', 'relatedto'] star ['relatedto'] star_vault ['relatedto'] radiate
+sun ['isa', 'relatedto'] star ['relatedto'] stellate ['synonym'] radiate
+sun ['isa'] setting ['relatedto'] flash ['mannerof'] radiate
+sun ['isa', 'relatedto'] newspaper ['relatedto'] issue ['mannerof'] radiate
+sun ['locatednear', 'relatedto'] solar_flare ['isa'] solar_radiation ['relatedto'] radiate
+sun ['relatedto'] annulus ['relatedto'] radius ['relatedto'] radiate

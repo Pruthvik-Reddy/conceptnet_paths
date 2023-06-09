@@ -1,0 +1,100 @@
+love ['relatedto'] good ['relatedto'] buy
+love ['relatedto'] birthday ['causesdesire'] buy
+love ['causesdesire'] give_gift ['hasfirstsubevent', 'hasprerequisite'] buy
+love ['causesdesire', 'motivatedbygoal', 'hasprerequisite'] please_parents ['motivatedbygoal'] buy
+love ['relatedto'] desire ['causesdesire'] buy
+love ['relatedto'] price ['relatedto'] buy
+love ['relatedto'] value ['relatedto'] buy
+love ['usedfor'] giving ['relatedto'] buy
+love ['relatedto'] peace ['isa', 'synonym'] order ['hasprerequisite'] buy
+love ['relatedto'] peace ['relatedto'] getting ['relatedto'] buy
+love ['relatedto'] peace ['relatedto'] white ['relatedto'] buy
+love ['relatedto'] admire ['usedfor'] sky ['relatedto'] buy
+love ['desires'] child ['relatedto'] item ['relatedto'] buy
+love ['desires'] child ['relatedto'] human_trafficking ['relatedto'] buy
+love ['desires'] child ['relatedto'] operation ['relatedto'] buy
+love ['desires'] child ['usedfor'] fun ['relatedto'] buy
+love ['relatedto'] affair ['synonym'] action ['relatedto'] buy
+love ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] buy
+love ['relatedto'] affair ['relatedto'] involved ['relatedto'] buy
+love ['relatedto'] affair ['synonym'] thing ['motivatedbygoal'] buy
+love ['relatedto', 'atlocation'] human ['atlocation'] charge ['relatedto'] buy
+love ['relatedto', 'atlocation'] human ['atlocation'] shop ['motivatedbygoal', 'relatedto', 'entails'] buy
+love ['relatedto', 'atlocation'] human ['capableof'] count_money ['hasprerequisite'] buy
+love ['relatedto', 'atlocation'] human ['desires'] money ['antonym', 'relatedto'] buy
+love ['relatedto', 'atlocation'] human ['hasproperty'] good ['relatedto'] buy
+love ['relatedto', 'atlocation'] human ['relatedto'] birthday ['causesdesire'] buy
+love ['relatedto', 'atlocation'] human ['relatedto'] need ['causesdesire', 'motivatedbygoal'] buy
+love ['relatedto'] someone ['relatedto'] charge ['relatedto'] buy
+love ['relatedto'] someone ['relatedto'] merchant ['relatedto'] buy
+love ['relatedto'] red ['hasproperty'] cars ['isa'] buy
+love ['relatedto'] red ['relatedto'] cry ['relatedto'] buy
+love ['relatedto'] red ['relatedto'] sale ['antonym', 'distinctfrom', 'relatedto'] buy
+love ['relatedto'] plant ['relatedto'] action ['relatedto'] buy
+love ['relatedto'] plant ['relatedto'] free ['antonym'] buy
+love ['relatedto'] plant ['relatedto'] nursery ['relatedto'] buy
+love ['relatedto'] plant ['relatedto'] thing ['motivatedbygoal'] buy
+love ['isa'] aphrodisiac ['relatedto'] desire ['causesdesire'] buy
+love ['causesdesire'] lie ['relatedto'] action ['relatedto'] buy
+love ['causesdesire'] lie ['haslastsubevent'] cry ['relatedto'] buy
+love ['causesdesire'] lie ['relatedto'] charge ['relatedto'] buy
+love ['causesdesire'] lie ['relatedto'] white ['relatedto'] buy
+love ['relatedto'] around ['relatedto'] local ['relatedto'] buy
+love ['relatedto'] around ['relatedto'] deal ['relatedto'] buy
+love ['etymologicallyrelatedto'] leave ['relatedto'] action ['relatedto'] buy
+love ['etymologicallyrelatedto'] leave ['relatedto'] give ['relatedto'] buy
+love ['etymologicallyrelatedto'] leave ['antonym'] bring ['relatedto'] buy
+love ['etymologicallyrelatedto'] leave ['synonym'] farewell ['relatedto'] buy
+love ['relatedto'] attraction ['relatedto'] desire ['causesdesire'] buy
+love ['relatedto'] attraction ['relatedto'] pay ['relatedto', 'haslastsubevent', 'hasprerequisite', 'entails'] buy
+love ['relatedto'] extreme ['relatedto'] desire ['causesdesire'] buy
+love ['relatedto'] special ['relatedto'] birthday ['causesdesire'] buy
+love ['relatedto'] special ['relatedto'] sale ['antonym', 'distinctfrom', 'relatedto'] buy
+love ['relatedto'] special ['relatedto'] treat ['relatedto'] buy
+love ['relatedto'] home ['antonym'] business ['relatedto'] buy
+love ['relatedto'] home ['relatedto'] furnish ['relatedto'] buy
+love ['relatedto'] home ['relatedto'] good ['relatedto'] buy
+love ['relatedto'] home ['relatedto'] value ['relatedto'] buy
+love ['relatedto'] home ['relatedto'] local ['relatedto'] buy
+love ['relatedto'] home ['relatedto'] nursery ['relatedto'] buy
+love ['relatedto'] home ['relatedto'] rent ['antonym', 'distinctfrom', 'relatedto'] buy
+love ['relatedto'] home ['relatedto'] sky ['relatedto'] buy
+love ['synonym'] baby ['capableof', 'relatedto'] cry ['relatedto'] buy
+love ['synonym'] baby ['relatedto'] nursery ['relatedto'] buy
+love ['synonym'] baby ['relatedto'] sheep ['relatedto'] buy
+love ['relatedto'] good ['formof', 'distinctfrom', 'relatedto', 'isa'] better ['motivatedbygoal'] buy
+love ['relatedto'] good ['formof', 'distinctfrom', 'relatedto'] best ['relatedto'] buy
+love ['relatedto'] good ['formof', 'relatedto'] goods ['relatedto'] buy
+love ['relatedto'] good ['hasprerequisite'] please_parents ['motivatedbygoal'] buy
+love ['relatedto'] good ['hasproperty'] fun ['relatedto'] buy
+love ['relatedto'] good ['hasproperty'] giving ['relatedto'] buy
+love ['relatedto'] good ['relatedto'] bargain ['relatedto', 'synonym'] buy
+love ['relatedto'] good ['relatedto'] business ['relatedto'] buy
+love ['relatedto'] good ['relatedto'] cost ['relatedto'] buy
+love ['relatedto'] good ['relatedto'] deal ['relatedto'] buy
+love ['relatedto'] good ['relatedto'] farewell ['relatedto'] buy
+love ['relatedto'] good ['relatedto', 'similarto'] white ['relatedto'] buy
+love ['relatedto'] good ['relatedto'] furnish ['relatedto'] buy
+love ['relatedto'] good ['relatedto'] price ['relatedto'] buy
+love ['relatedto'] good ['relatedto'] sale ['antonym', 'distinctfrom', 'relatedto'] buy
+love ['relatedto'] good ['relatedto'] sell ['antonym', 'distinctfrom', 'relatedto'] buy
+love ['relatedto'] good ['relatedto'] supermarket ['relatedto'] buy
+love ['relatedto'] good ['relatedto'] trade ['relatedto', 'entails'] buy
+love ['relatedto'] good ['relatedto'] value ['relatedto'] buy
+love ['relatedto'] benevolent ['relatedto'] good ['relatedto'] buy
+love ['relatedto'] bed ['relatedto'] good ['relatedto'] buy
+love ['relatedto'] bed ['relatedto'] furnish ['relatedto'] buy
+love ['relatedto'] bed ['relatedto'] item ['relatedto'] buy
+love ['relatedto'] bed ['relatedto'] thing ['motivatedbygoal'] buy
+love ['causes', 'partof'] living ['relatedto'] fish ['hasprerequisite'] buy
+love ['causes', 'partof'] living ['relatedto'] lifestyle ['relatedto'] buy
+love ['causes', 'partof'] living ['relatedto'] rent ['antonym', 'distinctfrom', 'relatedto'] buy
+love ['causes', 'partof'] living ['relatedto'] thing ['motivatedbygoal'] buy
+love ['relatedto'] trust ['mannerof', 'relatedto', 'synonym'] believe ['mannerof', 'relatedto', 'synonym'] buy
+love ['relatedto'] big ['relatedto'] sale ['antonym', 'distinctfrom', 'relatedto'] buy
+love ['relatedto'] big ['relatedto'] sheep ['relatedto'] buy
+love ['relatedto'] big ['relatedto'] sky ['relatedto'] buy
+love ['relatedto'] birthday ['relatedto'] getting ['relatedto'] buy
+love ['relatedto'] birthday ['relatedto'] thing ['motivatedbygoal'] buy
+love ['relatedto'] birthday ['causesdesire', 'motivatedbygoal'] give_gift ['hasfirstsubevent', 'hasprerequisite'] buy
+love ['relatedto'] birthday ['relatedto'] fun ['relatedto'] buy

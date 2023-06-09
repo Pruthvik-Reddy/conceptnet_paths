@@ -1,0 +1,100 @@
+hydrogen ['relatedto'] acid ['isa'] drug ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] pump ['relatedto'] inject
+hydrogen ['relatedto', 'partof'] water ['relatedto'] injection ['relatedto'] inject
+hydrogen ['relatedto', 'partof'] water ['relatedto'] preslug ['relatedto'] inject
+hydrogen ['relatedto', 'partof'] water ['relatedto'] pump ['relatedto'] inject
+hydrogen ['atlocation'] space ['isa'] cavity ['relatedto'] inject
+hydrogen ['isa', 'relatedto'] gas ['relatedto'] pump ['relatedto'] inject
+hydrogen ['isa'] fuel ['relatedto'] afterburner ['relatedto'] inject
+hydrogen ['isa', 'relatedto'] element ['relatedto'] infuse ['mannerof'] inject
+hydrogen ['relatedto'] chemical ['isa', 'relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] accept ['relatedto'] fang ['relatedto'] inject
+hydrogen ['relatedto'] acid ['derivedfrom'] acid_test ['relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['derivedfrom'] acidhead ['relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['isa'] chemical ['isa', 'relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['isa'] drug ['relatedto'] injecter ['relatedto', 'derivedfrom'] inject
+hydrogen ['relatedto'] acid ['isa'] drug ['relatedto'] mainline ['mannerof', 'relatedto'] inject
+hydrogen ['relatedto'] acid ['isa'] drug ['relatedto'] mainliner ['relatedto'] inject
+hydrogen ['relatedto'] acid ['isa'] drug ['relatedto'] shoot ['relatedto', 'synonym'] inject
+hydrogen ['relatedto'] acid ['isa', 'relatedto'] lysergic_acid_diethylamide ['isa'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['isa', 'relatedto'] compound ['mannerof'] add ['mannerof'] inject
+hydrogen ['relatedto'] acid ['isa', 'relatedto'] compound ['relatedto'] botox ['relatedto'] inject
+hydrogen ['relatedto'] acid ['isa'] lysergic_acid ['relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] biting ['relatedto'] fang ['relatedto'] inject
+hydrogen ['relatedto'] acid ['relatedto'] sharp ['relatedto'] fang ['relatedto'] inject
+hydrogen ['relatedto'] acid ['relatedto'] cimetidine ['isa'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] coal ['relatedto'] shoot ['relatedto', 'synonym'] inject
+hydrogen ['relatedto'] acid ['relatedto'] colesevelam ['isa'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] famotidine ['isa'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] lansoprazole ['isa'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] nizatidine ['relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] pentobarbital ['isa'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] trip ['causes', 'relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['relatedto'] venom ['relatedto'] fang ['relatedto'] inject
+hydrogen ['relatedto'] acid ['relatedto'] venom ['relatedto'] envenomate ['relatedto'] inject
+hydrogen ['relatedto'] acid ['synonym'] dose ['synonym'] drug ['mannerof'] inject
+hydrogen ['relatedto'] acid ['synonym'] dose ['relatedto'] administer ['mannerof'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] deduce ['relatedto'] introduce ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['antonym', 'relatedto'] addition ['relatedto', 'derivedfrom', 'synonym'] add ['mannerof'] inject
+hydrogen ['relatedto'] reduction ['antonym'] increase ['mannerof', 'relatedto'] add ['mannerof'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] contraction ['relatedto'] push ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] minus ['distinctfrom'] add ['mannerof'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] price ['relatedto'] code ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] expression ['relatedto'] insert ['mannerof'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] medical ['relatedto'] code ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] medical ['relatedto'] vertebroplasty ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] procedure ['relatedto'] code ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] procedure ['relatedto'] vertebroplasty ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] reaction ['isa'] passage ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] sauce ['relatedto'] add ['mannerof'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] tax ['relatedto'] program ['relatedto'] inject
+hydrogen ['relatedto'] reduction ['relatedto'] venturi_effect ['relatedto', 'derivedfrom'] venturi_injector ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] agent ['isa'] drug ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] agent ['relatedto'] ioxilan ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom'] fire ['mannerof'] pop ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom'] fire ['mannerof', 'relatedto', 'synonym'] shoot ['relatedto', 'synonym'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom'] fire ['relatedto'] semidiesel ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] vacuum ['relatedto'] injection ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] injection ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] preslug ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] pump ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'relatedto'] heat ['relatedto'] semidiesel ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['antonym', 'relatedto'] space ['isa'] cavity ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['atlocation'] bridge ['partof'] slam ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['atlocation'] bridge ['relatedto'] passage ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['atlocation'] cupboard ['atlocation'] drug ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['atlocation'] house ['atlocation'] passage ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['atlocation'] pocket ['relatedto'] cavity ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] aircraft ['relatedto'] afterburner ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['atlocation'] carbon_dioxide ['relatedto'] carboxytherapy ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['atlocation'] nose ['mannerof', 'relatedto'] push ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] plane ['relatedto'] shoot ['relatedto', 'synonym'] inject
+hydrogen ['relatedto', 'atlocation'] air ['atlocation'] projectile ['usedfor', 'relatedto'] shoot ['relatedto', 'synonym'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] sound ['isa', 'mannerof'] pop ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['derivedfrom'] airdate ['relatedto'] program ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto', 'derivedfrom'] airshoot ['derivedfrom'] shoot ['relatedto', 'synonym'] inject
+hydrogen ['relatedto', 'atlocation'] air ['derivedfrom'] airtime ['relatedto'] program ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['hasa', 'relatedto'] pressure ['relatedto'] pop ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['isa', 'relatedto'] element ['relatedto'] infuse ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['isa'] fluid ['relatedto'] mesopuncture ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['isa'] fluid ['relatedto'] retrojection ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['isa'] fluid ['relatedto'] syringe ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['isa'] fluid ['relatedto'] venturi_injector ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['isa', 'relatedto', 'synonym'] gas ['relatedto'] pump ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['mannerof', 'relatedto'] dry ['etymologicallyrelatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['mannerof'] interrogate ['synonym'] pump ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['mannerof'] rerun ['relatedto'] program ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['mannerof', 'synonym'] telecast ['relatedto'] program ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] cant ['relatedto'] push ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] component ['relatedto'] venturi_injector ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] content ['relatedto'] feed ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] gaseous ['relatedto'] carboxytherapy ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] generic ['relatedto'] feed ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] generic ['relatedto'] botox ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] material ['relatedto'] injection_molding ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] mix ['mannerof', 'relatedto'] add ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] solution ['isa'] injection ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] solution ['relatedto'] venturi_injector ['relatedto'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] stuff ['relatedto'] drug ['mannerof'] inject
+hydrogen ['relatedto', 'atlocation'] air ['relatedto'] substance ['relatedto'] drug ['mannerof'] inject

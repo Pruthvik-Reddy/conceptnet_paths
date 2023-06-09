@@ -1,0 +1,100 @@
+girl ['isa', 'relatedto'] child ['relatedto'] eyes ['relatedto'] glare
+girl ['relatedto'] young ['relatedto'] look ['relatedto'] glare
+girl ['distinctfrom'] friend ['isa'] light ['relatedto'] glare
+girl ['relatedto'] beauty ['relatedto'] look ['relatedto'] glare
+girl ['relatedto'] little ['synonym'] mean ['relatedto'] glare
+girl ['relatedto'] small ['relatedto'] mean ['relatedto'] glare
+girl ['antonym', 'distinctfrom', 'relatedto'] boy ['relatedto'] blue ['relatedto'] glare
+girl ['antonym', 'distinctfrom', 'relatedto'] boy ['relatedto'] mean ['relatedto'] glare
+girl ['antonym', 'distinctfrom', 'relatedto', 'isa'] woman ['relatedto'] blue ['relatedto'] glare
+girl ['formof', 'relatedto'] grill ['relatedto'] angry ['relatedto'] glare
+girl ['isa', 'relatedto'] lass ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['relatedto'] biddy ['relatedto'] mean ['relatedto'] glare
+girl ['relatedto'] dog ['relatedto', 'hasproperty'] mean ['relatedto'] glare
+girl ['relatedto'] doll ['relatedto'] eyes ['relatedto'] glare
+girl ['relatedto'] doll ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['relatedto'] doll ['relatedto'] look ['relatedto'] glare
+girl ['relatedto'] dress ['hasproperty'] blue ['relatedto'] glare
+girl ['relatedto'] gender_reveal_cake ['relatedto'] blue ['relatedto'] glare
+girl ['relatedto'] boys ['relatedto'] blue ['relatedto'] glare
+girl ['relatedto'] duh ['relatedto'] sun ['relatedto'] glare
+girl ['relatedto'] hair ['hasproperty'] smooth ['relatedto'] glare
+girl ['relatedto'] long ['relatedto'] stare ['isa', 'relatedto'] glare
+girl ['relatedto'] pretty ['relatedto'] look ['relatedto'] glare
+girl ['relatedto'] part ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['relatedto'] material ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['relatedto'] ribbon ['relatedto'] bright ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['antonym', 'distinctfrom', 'relatedto'] adult ['synonym'] blue ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['desires'] balloon ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['isa', 'relatedto'] child ['desires'] love ['relatedto'] intense ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto'] blue ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto', 'hasprerequisite'] play ['mannerof', 'relatedto'] beat ['mannerof'] glare
+girl ['isa', 'relatedto'] child ['hasproperty'] naughty ['synonym'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['isa', 'relatedto'] boy ['relatedto'] blue ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['isa', 'relatedto'] boy ['relatedto'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['isa'] animal ['relatedto'] beat ['mannerof'] glare
+girl ['isa', 'relatedto'] child ['isa'] animal ['relatedto'] eyes ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['isa'] animal ['relatedto'] smooth ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] ball ['relatedto'] bright ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] ball ['relatedto'] sun ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto', 'synonym'] brat ['relatedto'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] big ['relatedto'] sun ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] eyes ['relatedto'] bright ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] eyes ['capableof', 'hasproperty'] blue ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] eyes ['relatedto'] look ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] face ['relatedto'] eyes ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] face ['synonym'] look ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] general ['relatedto'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] little ['synonym'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] low ['relatedto'] light ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] low ['relatedto'] blaze ['synonym'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] low ['relatedto'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] low ['synonym'] blue ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] nice ['antonym', 'distinctfrom', 'relatedto'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] single ['isa'] blue ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] single ['isa'] reflections ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] small ['relatedto'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] term ['relatedto'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] term ['relatedto'] beat ['mannerof'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] young ['relatedto'] look ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] culture ['relatedto'] sun ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] derivative ['relatedto'] smooth ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] natural ['relatedto'] smooth ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto', 'synonym'] product ['relatedto'] light ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto', 'synonym'] product ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] role ['relatedto'] limelight ['synonym'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] container ['isa', 'relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] doll ['relatedto'] eyes ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] doll ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] doll ['relatedto'] look ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] egg ['relatedto'] blue ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] feely ['relatedto'] smooth ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] game ['relatedto'] beat ['mannerof'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] given_name ['isa'] beat ['mannerof'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] ground ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] lap ['relatedto'] smooth ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] paederotic ['relatedto'] light ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] paste ['mannerof', 'relatedto'] beat ['mannerof'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] paste ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] punishment ['relatedto'] mean ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] spank ['mannerof'] beat ['mannerof'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] toy ['relatedto'] bright ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['relatedto'] wane ['relatedto'] light ['relatedto'] glare
+girl ['isa', 'relatedto'] child ['synonym'] lass ['relatedto'] glass ['etymologicallyrelatedto'] glare
+girl ['relatedto'] children ['formof', 'relatedto'] child ['relatedto'] eyes ['relatedto'] glare
+girl ['relatedto'] children ['antonym', 'distinctfrom', 'relatedto'] adult ['synonym'] blue ['relatedto'] glare
+girl ['relatedto'] children ['capableof'] walk ['relatedto'] light ['relatedto'] glare
+girl ['relatedto'] children ['capableof'] walk ['relatedto'] beat ['mannerof'] glare
+girl ['relatedto'] children ['causesdesire'] see_exhibits ['hasfirstsubevent', 'hasprerequisite'] look ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] baby ['relatedto'] blue ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] ball ['relatedto'] bright ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] ball ['relatedto'] sun ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] beaker ['relatedto', 'synonym'] glass ['etymologicallyrelatedto'] glare
+girl ['relatedto'] children ['relatedto'] boy ['relatedto'] blue ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] boy ['relatedto'] mean ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] brat ['relatedto'] mean ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] childmind ['relatedto'] look ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] boys ['relatedto'] blue ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] group ['relatedto'] glaring ['formof', 'relatedto'] glare
+girl ['relatedto'] children ['relatedto'] humans ['hasproperty'] mean ['relatedto'] glare
+girl ['relatedto'] children ['relatedto'] humans ['hasa'] eyes ['relatedto'] glare

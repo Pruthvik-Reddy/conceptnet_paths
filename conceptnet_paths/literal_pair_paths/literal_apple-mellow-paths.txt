@@ -1,0 +1,100 @@
+apple ['relatedto'] new ['relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] vegetable ['relatedto'] ripe ['relatedto'] mellow
+apple ['relatedto', 'hasproperty'] green ['antonym'] ripe ['relatedto'] mellow
+apple ['isa', 'relatedto'] fruit ['relatedto'] ripe ['relatedto'] mellow
+apple ['isa', 'relatedto'] fruit ['relatedto', 'atlocation'] pulp ['relatedto'] mellow
+apple ['relatedto'] antonovka ['relatedto'] harsh ['relatedto'] mellow
+apple ['relatedto'] also ['relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] baked ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] baked ['synonym'] stoned ['relatedto'] mellow
+apple ['relatedto'] better ['mannerof'] change ['mannerof'] mellow
+apple ['relatedto'] circle ['relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] color ['mannerof'] change ['mannerof'] mellow
+apple ['relatedto'] common ['synonym'] coarse ['relatedto'] mellow
+apple ['relatedto'] delicious ['relatedto'] delicate ['relatedto'] mellow
+apple ['relatedto'] delicious ['relatedto'] lush ['relatedto'] mellow
+apple ['relatedto'] edible ['relatedto'] tender ['relatedto'] mellow
+apple ['relatedto'] fall ['mannerof', 'relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] fall ['relatedto', 'synonym'] become ['relatedto'] mellow
+apple ['relatedto'] famous ['relatedto'] rich ['relatedto'] mellow
+apple ['relatedto'] food ['isa'] suprême_sauce ['relatedto'] mellow
+apple ['relatedto'] garden ['usedfor'] relax ['relatedto'] mellow
+apple ['relatedto'] hard ['relatedto'] rough ['relatedto'] mellow
+apple ['relatedto'] hard ['antonym', 'distinctfrom', 'relatedto'] soft ['relatedto'] mellow
+apple ['relatedto'] hard ['relatedto', 'synonym'] harsh ['relatedto'] mellow
+apple ['relatedto'] hard ['relatedto', 'synonym'] tight ['synonym'] mellow
+apple ['relatedto'] hard ['relatedto'] liquor ['relatedto'] mellow
+apple ['relatedto'] health ['relatedto'] delicate ['relatedto'] mellow
+apple ['relatedto'] juice ['relatedto'] liquor ['relatedto'] mellow
+apple ['relatedto'] juice ['relatedto'] pulp ['relatedto'] mellow
+apple ['relatedto'] juicy ['relatedto'] weaky ['relatedto'] mellow
+apple ['relatedto'] juicy ['similarto'] lush ['relatedto'] mellow
+apple ['relatedto'] round ['relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] sauce ['mannerof'] change ['mannerof'] mellow
+apple ['relatedto'] sauce ['instanceof'] suprême_sauce ['relatedto'] mellow
+apple ['relatedto'] shape ['relatedto'] melt ['synonym'] mellow
+apple ['relatedto'] snow ['relatedto'] soft ['relatedto'] mellow
+apple ['relatedto'] snow ['relatedto'] melt ['synonym'] mellow
+apple ['relatedto'] sweet ['relatedto'] tender ['relatedto'] mellow
+apple ['relatedto'] trouble ['antonym', 'distinctfrom'] calm ['relatedto'] mellow
+apple ['relatedto'] usually ['relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] yellow ['isa'] change ['mannerof'] mellow
+apple ['relatedto'] yellow ['relatedto'] ripe ['relatedto'] mellow
+apple ['relatedto'] multimedia ['relatedto'] rich ['relatedto'] mellow
+apple ['relatedto'] record ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] wood ['relatedto'] soft ['relatedto'] mellow
+apple ['relatedto'] wood ['relatedto'] pulp ['relatedto'] mellow
+apple ['relatedto'] apple_cider_vinegar ['relatedto'] mature ['relatedto'] mellow
+apple ['relatedto'] city ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] design ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] important ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] lambswool ['relatedto'] pulp ['relatedto'] mellow
+apple ['relatedto'] russet ['relatedto'] coarse ['relatedto'] mellow
+apple ['relatedto'] russeting ['relatedto'] coarse ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] base ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] basic ['relatedto'] base ['relatedto'] tender ['relatedto'] mellow
+apple ['relatedto'] basic ['isa'] software ['etymologicallyrelatedto', 'derivedfrom'] soft ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] simple ['relatedto'] rough ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] bitter ['relatedto'] harsh ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] bread ['relatedto'] soft ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] camp ['mannerof'] change ['mannerof'] mellow
+apple ['relatedto'] basic ['relatedto'] circle ['relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] basic ['relatedto'] drink ['antonym', 'relatedto'] liquor ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] drink ['motivatedbygoal'] relaxed ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] drink ['relatedto'] soft ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] general ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] basic ['relatedto'] general ['relatedto'] liquor ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] histone ['relatedto'] rich ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] matter ['relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] basic ['relatedto'] matter ['relatedto'] pulp ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] plain ['antonym'] rich ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] regular ['synonym'] amicable ['synonym'] mellow
+apple ['relatedto'] basic ['relatedto'] rude ['relatedto'] rough ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] shoe ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] basic ['relatedto'] sound ['relatedto'] soft ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] sound ['relatedto'] resounding ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] water ['relatedto'] calm ['relatedto'] mellow
+apple ['relatedto'] basic ['relatedto'] water ['relatedto'] melt ['synonym'] mellow
+apple ['relatedto'] basic ['relatedto'] water ['relatedto'] pulp ['relatedto'] mellow
+apple ['relatedto'] lunch ['antonym'] afternoon ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] lunch ['atlocation'] school ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] lunch ['atlocation'] school ['relatedto'] harsh ['relatedto'] mellow
+apple ['relatedto'] lunch ['mannerof', 'relatedto'] eat ['relatedto'] ripe ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] bread ['relatedto'] soft ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] break ['isa', 'mannerof', 'relatedto'] change ['mannerof'] mellow
+apple ['relatedto'] lunch ['relatedto'] break ['mannerof'] become ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] break ['relatedto'] relax ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] flask ['relatedto'] liquor ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] food ['isa'] suprême_sauce ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] noon ['relatedto'] relax ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] work ['antonym'] relax ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] work ['mannerof'] become ['relatedto'] mellow
+apple ['relatedto'] lunch ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax ['relatedto'] mellow
+apple ['relatedto'] prohibited ['receivesaction'] drugs ['relatedto'] high ['relatedto', 'synonym'] mellow
+apple ['relatedto'] prohibited ['receivesaction'] drugs ['relatedto'] stoned ['relatedto'] mellow
+apple ['relatedto'] sometimes ['antonym'] permanent ['antonym'] change ['mannerof'] mellow
+apple ['relatedto'] sometimes ['relatedto'] bar ['relatedto', 'atlocation'] liquor ['relatedto'] mellow
+apple ['relatedto'] sometimes ['relatedto'] bar ['relatedto'] tender ['relatedto'] mellow
+apple ['relatedto'] sometimes ['relatedto'] bar ['relatedto'] rigid ['relatedto'] mellow
+apple ['relatedto'] sometimes ['relatedto'] bed ['relatedto'] soft ['relatedto'] mellow
+apple ['relatedto'] sometimes ['relatedto'] bone ['relatedto'] rigid ['relatedto'] mellow

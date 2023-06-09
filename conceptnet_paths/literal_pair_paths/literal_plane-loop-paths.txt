@@ -1,0 +1,100 @@
+plane ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] loop
+plane ['capableof', 'usedfor', 'relatedto'] fly ['relatedto'] loop
+plane ['isa'] shape ['relatedto'] loop
+plane ['relatedto'] circle ['mannerof', 'relatedto'] loop
+plane ['relatedto'] form ['relatedto'] loop
+plane ['relatedto'] jordan_curve ['relatedto'] loop
+plane ['relatedto'] aircraft ['relatedto'] loop
+plane ['relatedto'] tiling ['relatedto'] loop
+plane ['relatedto'] normal ['relatedto'] vertical ['relatedto'] loop
+plane ['atlocation'] human ['atlocation'] aircraft ['relatedto'] loop
+plane ['atlocation'] human ['atlocation'] band ['isa'] loop
+plane ['atlocation'] human ['atlocation'] chicago ['relatedto'] loop
+plane ['atlocation'] human ['atlocation'] pool ['relatedto'] loop
+plane ['atlocation'] human ['atlocation'] train ['relatedto'] loop
+plane ['atlocation'] human ['relatedto'] block ['relatedto'] loop
+plane ['atlocation'] human ['relatedto'] eye ['relatedto'] loop
+plane ['atlocation'] human ['relatedto'] noose ['isa', 'mannerof', 'relatedto'] loop
+plane ['relatedto', 'atlocation'] air ['atlocation'] pocket ['relatedto'] loop
+plane ['relatedto', 'atlocation'] air ['relatedto', 'atlocation'] aircraft ['relatedto'] loop
+plane ['relatedto', 'atlocation'] air ['isa'] band ['isa'] loop
+plane ['relatedto', 'atlocation'] air ['relatedto'] component ['relatedto'] loop
+plane ['relatedto', 'atlocation'] air ['relatedto'] bubble_wand ['relatedto'] loop
+plane ['relatedto', 'atlocation'] air ['relatedto'] condition ['relatedto'] loop
+plane ['relatedto', 'atlocation'] air ['relatedto'] convection_cell ['relatedto'] loop
+plane ['relatedto', 'atlocation'] air ['relatedto'] current ['relatedto'] loop
+plane ['relatedto', 'atlocation'] air ['relatedto'] fly ['relatedto'] loop
+plane ['relatedto'] water ['relatedto', 'atlocation'] current ['relatedto'] loop
+plane ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] pool ['relatedto'] loop
+plane ['relatedto'] water ['capableof'] short_circuit ['relatedto'] loop
+plane ['relatedto'] water ['relatedto'] coaster ['relatedto'] loop
+plane ['relatedto'] water ['relatedto'] convection_cell ['relatedto'] loop
+plane ['relatedto'] water ['relatedto'] frog ['relatedto'] loop
+plane ['relatedto'] water ['relatedto'] form ['relatedto'] loop
+plane ['relatedto'] dihedral ['relatedto'] aircraft ['relatedto'] loop
+plane ['antonym', 'relatedto'] bird ['capableof', 'relatedto', 'desires'] fly ['relatedto'] loop
+plane ['antonym', 'relatedto'] bird ['relatedto'] flies ['relatedto'] loop
+plane ['antonym', 'relatedto'] bird ['relatedto'] knot ['relatedto'] loop
+plane ['antonym', 'relatedto'] bird ['relatedto'] ring ['relatedto'] loop
+plane ['antonym', 'relatedto'] bird ['relatedto'] train ['relatedto'] loop
+plane ['capableof'] fall ['antonym'] fly ['relatedto'] loop
+plane ['capableof'] fall ['relatedto'] edge ['relatedto'] loop
+plane ['relatedto'] arrive ['relatedto'] train ['relatedto'] loop
+plane ['relatedto'] bow ['isa', 'hasa', 'relatedto'] knot ['relatedto'] loop
+plane ['relatedto'] bow ['isa'] curve ['relatedto'] loop
+plane ['relatedto'] bow ['relatedto'] bend ['relatedto'] loop
+plane ['relatedto'] bow ['relatedto'] string ['relatedto'] loop
+plane ['relatedto'] bow ['relatedto'] bowline ['relatedto'] loop
+plane ['relatedto'] bow ['relatedto'] coque ['relatedto'] loop
+plane ['relatedto'] bow ['relatedto'] frog ['relatedto'] loop
+plane ['relatedto'] bow ['relatedto'] stringer ['relatedto'] loop
+plane ['relatedto'] bow ['usedfor', 'relatedto'] tie ['mannerof'] loop
+plane ['relatedto'] bow ['synonym'] bowknot ['relatedto'] loop
+plane ['relatedto'] attack ['antonym', 'relatedto'] block ['relatedto'] loop
+plane ['relatedto'] attack ['isa'] turn ['synonym'] loop
+plane ['relatedto'] attack ['relatedto'] maneuver ['relatedto'] loop
+plane ['relatedto'] attack ['relatedto'] move ['relatedto'] loop
+plane ['relatedto'] attack ['relatedto'] condition ['relatedto'] loop
+plane ['relatedto'] attack ['synonym'] round ['relatedto'] loop
+plane ['relatedto'] plain ['relatedto'] aircraft ['relatedto'] loop
+plane ['relatedto'] plain ['synonym'] knit ['mannerof'] loop
+plane ['relatedto'] floor ['relatedto', 'atlocation'] tile ['relatedto'] loop
+plane ['relatedto'] floor ['relatedto'] tiling ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] circle ['mannerof', 'relatedto'] loop
+plane ['antonym'] point ['antonym', 'distinctfrom', 'relatedto'] line ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] edge ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] condition ['relatedto'] loop
+plane ['antonym'] point ['derivedfrom'] footpoint ['relatedto'] loop
+plane ['antonym'] point ['isa'] component ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] basepoint ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] goal ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] oval ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] pocket ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] circular ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] rose_curve ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] shank ['relatedto'] loop
+plane ['antonym'] point ['relatedto'] vertex ['relatedto'] loop
+plane ['antonym', 'relatedto'] slope ['relatedto'] line ['relatedto'] loop
+plane ['antonym', 'relatedto'] slope ['relatedto'] condition ['relatedto'] loop
+plane ['antonym', 'relatedto'] slope ['relatedto'] course ['relatedto'] loop
+plane ['antonym', 'relatedto'] slope ['relatedto'] form ['relatedto'] loop
+plane ['antonym', 'relatedto'] slope ['relatedto'] vertical ['relatedto'] loop
+plane ['antonym', 'relatedto'] slope ['relatedto'] path ['relatedto'] loop
+plane ['atlocation'] cabin ['partof'] aircraft ['relatedto'] loop
+plane ['atlocation'] cabin ['relatedto'] paternoster ['relatedto'] loop
+plane ['atlocation'] cargo ['relatedto'] aircraft ['relatedto'] loop
+plane ['atlocation'] cargo ['atlocation'] train ['relatedto'] loop
+plane ['atlocation'] engine ['relatedto', 'partof'] train ['relatedto'] loop
+plane ['atlocation'] engine ['atlocation'] coil ['synonym'] loop
+plane ['atlocation'] fork ['mannerof'] form ['relatedto'] loop
+plane ['atlocation'] fork ['relatedto'] path ['relatedto'] loop
+plane ['atlocation'] fork ['relatedto'] program ['isa'] loop
+plane ['atlocation'] fuel ['relatedto'] block ['relatedto'] loop
+plane ['atlocation'] hangar ['relatedto'] aircraft ['relatedto'] loop
+plane ['atlocation'] lights ['relatedto'] lamp ['relatedto'] loop
+plane ['atlocation'] movie ['relatedto'] fly ['relatedto'] loop
+plane ['atlocation'] movie ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] film ['relatedto'] loop
+plane ['atlocation'] movie ['partof'] sequence ['relatedto'] loop
+plane ['atlocation'] movie ['relatedto'] ring ['relatedto'] loop
+plane ['atlocation'] movie ['relatedto'] stitch ['relatedto'] loop

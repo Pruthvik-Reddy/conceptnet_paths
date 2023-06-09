@@ -1,0 +1,100 @@
+surface ['relatedto'] land ['atlocation'] map
+surface ['isa', 'relatedto'] board ['relatedto'] map
+surface ['relatedto'] paper ['relatedto'] map
+surface ['relatedto'] table ['atlocation'] map
+surface ['relatedto'] information ['usedfor'] map
+surface ['isa', 'relatedto'] face ['relatedto'] map
+surface ['relatedto'] point ['relatedto'] map
+surface ['relatedto'] street ['relatedto', 'atlocation'] map
+surface ['isa'] boundary ['atlocation'] map
+surface ['relatedto'] region ['relatedto'] map
+surface ['relatedto'] area ['relatedto'] map
+surface ['relatedto'] antisymmetry ['relatedto'] map
+surface ['relatedto'] atomic_force_microscope ['relatedto'] map
+surface ['relatedto'] isograd ['relatedto'] map
+surface ['relatedto'] resection ['relatedto'] map
+surface ['hasa'] earth ['relatedto', 'partof', 'synonym', 'atlocation'] land ['atlocation'] map
+surface ['hasa'] earth ['isa', 'relatedto', 'synonym'] globe ['isa', 'relatedto'] map
+surface ['hasa'] earth ['relatedto'] continent ['relatedto'] map
+surface ['hasa'] earth ['relatedto'] place ['atlocation'] map
+surface ['hasa'] earth ['relatedto'] geography ['relatedto'] map
+surface ['hasa'] earth ['relatedto'] isograd ['relatedto'] map
+surface ['hasa'] earth ['relatedto'] nation ['relatedto'] map
+surface ['isa', 'relatedto'] ground ['relatedto'] border ['atlocation'] map
+surface ['isa', 'relatedto'] ground ['relatedto'] continent ['relatedto'] map
+surface ['isa', 'relatedto'] ground ['relatedto', 'synonym'] land ['atlocation'] map
+surface ['isa', 'relatedto'] ground ['relatedto'] place ['atlocation'] map
+surface ['isa', 'relatedto'] ground ['relatedto'] area ['relatedto'] map
+surface ['isa', 'relatedto'] ground ['relatedto'] property ['relatedto'] map
+surface ['relatedto'] land ['antonym', 'relatedto'] coast ['relatedto', 'atlocation'] map
+surface ['relatedto'] land ['relatedto', 'atlocation'] continent ['relatedto'] map
+surface ['relatedto'] land ['relatedto', 'synonym', 'atlocation'] country ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] area ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] course ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] geography ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] place ['atlocation'] map
+surface ['relatedto'] land ['relatedto', 'synonym'] property ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] territory ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] board ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] region ['relatedto'] map
+surface ['relatedto'] land ['relatedto', 'synonym'] nation ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] shoreline ['relatedto'] map
+surface ['relatedto'] land ['relatedto'] terra_incognita ['relatedto'] map
+surface ['hasa'] water ['antonym', 'distinctfrom', 'relatedto'] land ['atlocation'] map
+surface ['hasa'] water ['atlocation'] backpack ['atlocation'] map
+surface ['hasa'] water ['atlocation'] street ['relatedto', 'atlocation'] map
+surface ['hasa'] water ['relatedto'] board ['relatedto'] map
+surface ['hasa'] water ['relatedto'] coast ['relatedto', 'atlocation'] map
+surface ['hasa'] water ['relatedto'] continent ['relatedto'] map
+surface ['hasa'] water ['relatedto'] navigate ['usedfor'] map
+surface ['hasa'] water ['relatedto'] shoreline ['relatedto'] map
+surface ['relatedto'] plant ['atlocation'] table ['atlocation'] map
+surface ['relatedto'] plant ['relatedto'] board ['relatedto'] map
+surface ['relatedto'] plant ['relatedto'] border ['atlocation'] map
+surface ['relatedto'] apex ['relatedto'] point ['relatedto'] map
+surface ['distinctfrom'] bottom ['distinctfrom'] table ['atlocation'] map
+surface ['distinctfrom'] bottom ['isa'] region ['relatedto'] map
+surface ['relatedto'] appear ['relatedto'] visual ['relatedto'] map
+surface ['relatedto'] lie ['relatedto'] border ['atlocation'] map
+surface ['relatedto'] lie ['relatedto'] situate ['mannerof'] map
+surface ['relatedto'] lie ['relatedto'] image ['relatedto'] map
+surface ['relatedto'] lie ['relatedto'] information ['usedfor'] map
+surface ['mannerof'] ascend ['mannerof'] travel ['hasprerequisite'] map
+surface ['mannerof'] ascend ['relatedto'] scale ['relatedto'] map
+surface ['mannerof'] well ['atlocation'] country ['relatedto'] map
+surface ['mannerof'] well ['isa'] place ['atlocation'] map
+surface ['mannerof'] well ['isa'] route ['atlocation'] map
+surface ['mannerof'] well ['relatedto'] card ['relatedto'] map
+surface ['relatedto'] bar ['atlocation'] street ['relatedto', 'atlocation'] map
+surface ['relatedto'] bar ['isa', 'relatedto'] place ['atlocation'] map
+surface ['relatedto'] bar ['relatedto'] area ['relatedto'] map
+surface ['relatedto'] bar ['relatedto'] isobar ['relatedto'] map
+surface ['relatedto'] bar ['relatedto'] store ['atlocation'] map
+surface ['relatedto'] bar ['relatedto'] table ['atlocation'] map
+surface ['relatedto'] bar ['relatedto'] board ['relatedto'] map
+surface ['relatedto'] bar ['relatedto'] scale ['relatedto'] map
+surface ['relatedto'] plate ['relatedto'] land ['atlocation'] map
+surface ['relatedto'] plate ['relatedto', 'atlocation'] table ['atlocation'] map
+surface ['relatedto'] plate ['relatedto'] continent ['relatedto'] map
+surface ['relatedto'] plate ['relatedto'] face ['relatedto'] map
+surface ['relatedto'] plate ['relatedto'] phototheodolite ['relatedto'] map
+surface ['relatedto'] plate ['relatedto'] paper ['relatedto'] map
+surface ['relatedto'] plate ['relatedto'] place ['atlocation'] map
+surface ['relatedto'] plate ['relatedto'] course ['relatedto'] map
+surface ['relatedto'] plate ['relatedto'] image ['relatedto'] map
+surface ['relatedto'] plate ['synonym'] scale ['relatedto'] map
+surface ['relatedto'] top ['isa', 'relatedto'] capital ['relatedto'] map
+surface ['relatedto'] top ['isa'] region ['relatedto'] map
+surface ['relatedto'] top ['relatedto'] board ['relatedto'] map
+surface ['relatedto'] top ['relatedto'] point ['relatedto'] map
+surface ['relatedto'] top ['relatedto'] table ['atlocation'] map
+surface ['relatedto'] top ['relatedto'] chart ['isa', 'mannerof', 'relatedto', 'synonym'] map
+surface ['relatedto'] depth ['relatedto'] color ['relatedto'] map
+surface ['relatedto'] plain ['isa', 'relatedto'] land ['atlocation'] map
+surface ['relatedto'] plain ['relatedto'] board ['relatedto'] map
+surface ['relatedto'] plain ['relatedto'] paper ['relatedto'] map
+surface ['relatedto'] plain ['relatedto'] geography ['relatedto'] map
+surface ['isa', 'relatedto'] bed ['atlocation'] rest_area ['atlocation'] map
+surface ['isa', 'relatedto'] bed ['isa', 'relatedto'] place ['atlocation'] map
+surface ['isa', 'relatedto'] bed ['relatedto'] area ['relatedto'] map
+surface ['isa', 'relatedto'] bed ['relatedto'] table ['atlocation'] map

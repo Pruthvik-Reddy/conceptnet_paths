@@ -1,0 +1,100 @@
+haircut ['isa', 'relatedto', 'derivedfrom'] cut ['relatedto', 'atlocation'] finger ['relatedto'] compare
+haircut ['relatedto'] debt ['relatedto'] balance ['synonym'] compare
+haircut ['relatedto'] collateral ['relatedto', 'similarto'] parallel ['relatedto'] compare
+haircut ['relatedto'] loan ['distinctfrom'] confer ['relatedto'] compare
+haircut ['relatedto'] loan ['relatedto'] rate ['relatedto'] compare
+haircut ['relatedto', 'derivedfrom'] hair ['atlocation'] finger ['relatedto'] compare
+haircut ['relatedto'] trim ['mannerof', 'relatedto', 'synonym'] balance ['synonym'] compare
+haircut ['relatedto'] asset ['relatedto'] rest ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] asset ['relatedto'] rest ['relatedto'] balance ['synonym'] compare
+haircut ['relatedto'] asset ['antonym'] debt ['relatedto'] balance ['synonym'] compare
+haircut ['relatedto'] asset ['hasproperty'] home ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] asset ['hasproperty'] home ['relatedto'] heaven ['relatedto'] compare
+haircut ['relatedto'] asset ['hasproperty'] home ['relatedto'] similar ['relatedto'] compare
+haircut ['relatedto'] asset ['isa'] possession ['relatedto'] obtain ['relatedto'] compare
+haircut ['relatedto'] asset ['isa', 'relatedto'] property ['relatedto'] rate ['relatedto'] compare
+haircut ['relatedto'] asset ['isa'] quality ['relatedto'] comparative ['relatedto'] compare
+haircut ['relatedto'] asset ['isa'] quality ['relatedto'] hold_candle ['relatedto'] compare
+haircut ['relatedto'] asset ['isa'] aircraft ['relatedto'] check ['relatedto'] compare
+haircut ['relatedto'] asset ['isa'] resource ['relatedto'] means ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] component ['relatedto'] parallel ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] model ['relatedto'] heaven ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] model ['relatedto'] paragon ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] process ['relatedto', 'synonym'] assimilate ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] value ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] value ['relatedto'] equate ['synonym'] compare
+haircut ['relatedto'] asset ['relatedto'] value ['relatedto'] evaluate ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] value ['relatedto', 'synonym'] rate ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] balance_sheet ['derivedfrom'] balance ['synonym'] compare
+haircut ['relatedto'] asset ['relatedto'] capital ['isa'] means ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] collateral ['relatedto', 'similarto'] parallel ['relatedto'] compare
+haircut ['relatedto'] asset ['relatedto'] freeze ['antonym'] go ['mannerof'] compare
+haircut ['relatedto'] asset ['relatedto'] option ['relatedto'] choose ['entails'] compare
+haircut ['relatedto'] asset ['relatedto'] safekeeping ['relatedto'] check ['relatedto'] compare
+haircut ['relatedto'] crew ['synonym'] crowd ['antonym', 'relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crew ['mannerof', 'relatedto'] man ['relatedto'] judge ['relatedto'] compare
+haircut ['relatedto'] crew ['mannerof', 'relatedto'] man ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] boat ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] crew ['relatedto'] boat ['relatedto'] similar ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] ship ['relatedto'] rate ['relatedto'] compare
+haircut ['relatedto'] crew ['isa'] unit ['relatedto'] finger ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] company ['relatedto'] similar ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] company ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] cut ['relatedto', 'atlocation'] finger ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] officer ['relatedto'] judge ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] doublehand ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] doublehanded ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] jet_bridge ['synonym'] finger ['relatedto'] compare
+haircut ['relatedto'] crew ['relatedto'] odd_bod ['relatedto'] different ['relatedto'] compare
+haircut ['relatedto'] crew ['synonym'] gang ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] crew ['synonym'] gang ['relatedto'] similar ['relatedto'] compare
+haircut ['relatedto'] creditor ['relatedto'] composition ['relatedto'] different ['relatedto'] compare
+haircut ['relatedto'] creditor ['relatedto'] debt ['relatedto'] balance ['synonym'] compare
+haircut ['relatedto'] creditor ['relatedto'] grace ['relatedto'] balance ['synonym'] compare
+haircut ['relatedto'] debtor ['relatedto', 'derivedfrom'] debt ['relatedto'] balance ['synonym'] compare
+haircut ['relatedto'] debtor ['relatedto'] composition ['relatedto'] different ['relatedto'] compare
+haircut ['relatedto'] debtor ['relatedto'] discuss ['relatedto'] confer ['relatedto'] compare
+haircut ['relatedto'] debtor ['relatedto'] grace ['relatedto'] balance ['synonym'] compare
+haircut ['relatedto'] crop ['relatedto'] action ['relatedto'] choose ['entails'] compare
+haircut ['relatedto'] crop ['relatedto'] action ['relatedto'] distinguish ['relatedto', 'entails'] compare
+haircut ['relatedto'] crop ['relatedto'] action ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] crop ['relatedto'] bird ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] bird ['synonym'] finger ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] good ['relatedto'] heaven ['relatedto'] compare
+haircut ['relatedto'] crop ['isa'] handle ['relatedto'] similar ['relatedto'] compare
+haircut ['relatedto'] crop ['isa'] handle ['synonym'] finger ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] green ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] crop ['relatedto'] term ['relatedto'] rate ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] cash ['relatedto'] check ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] concern ['relatedto'] study ['mannerof'] compare
+haircut ['relatedto'] crop ['relatedto'] seed ['formof'] see ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] seed ['mannerof'] rate ['relatedto'] compare
+haircut ['relatedto'] crop ['antonym', 'relatedto'] picture ['relatedto'] see ['relatedto'] compare
+haircut ['relatedto'] crop ['antonym', 'relatedto'] picture ['isa', 'relatedto'] illustration ['relatedto'] compare
+haircut ['relatedto'] crop ['antonym', 'relatedto'] picture ['relatedto'] paragon ['relatedto'] compare
+haircut ['relatedto'] crop ['etymologicallyrelatedto'] group ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] crop ['etymologicallyrelatedto'] group ['mannerof'] classify ['entails'] compare
+haircut ['relatedto'] crop ['etymologicallyrelatedto'] group ['relatedto'] liken ['relatedto', 'synonym'] compare
+haircut ['relatedto'] crop ['etymologicallyrelatedto'] group ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crop ['isa'] body_part ['isa', 'relatedto'] finger ['relatedto'] compare
+haircut ['relatedto'] crop ['isa', 'relatedto'] collection ['isa', 'relatedto'] collation ['relatedto'] compare
+haircut ['relatedto'] crop ['mannerof', 'relatedto'] cut ['relatedto', 'atlocation'] finger ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] arable ['relatedto'] contrast ['antonym', 'distinctfrom', 'relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] field ['mannerof'] choose ['entails'] compare
+haircut ['relatedto'] crop ['relatedto'] image ['capableof'] see ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] item ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] crop ['relatedto'] making ['relatedto'] choose ['entails'] compare
+haircut ['relatedto'] crop ['relatedto'] making ['relatedto'] judge ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] name ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] result ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] crop ['relatedto'] rotation ['relatedto'] similar ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] use ['relatedto'] see ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] use ['relatedto'] finger ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] value ['relatedto'] two ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] value ['relatedto'] equate ['synonym'] compare
+haircut ['relatedto'] crop ['relatedto'] value ['relatedto'] evaluate ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] value ['relatedto', 'synonym'] rate ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] variable ['isa'] correlate ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto', 'synonym'] yield ['relatedto'] go ['mannerof'] compare
+haircut ['relatedto'] crop ['relatedto'] digestion ['relatedto'] assimilate ['relatedto'] compare
+haircut ['relatedto'] crop ['relatedto'] ear ['relatedto'] two ['relatedto'] compare

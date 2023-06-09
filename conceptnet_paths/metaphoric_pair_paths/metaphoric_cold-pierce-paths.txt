@@ -1,0 +1,100 @@
+cold ['hasproperty'] water ['relatedto'] launch ['relatedto'] pierce
+cold ['hasproperty'] water ['usedfor', 'relatedto'] tap ['mannerof'] pierce
+cold ['hasproperty'] water ['relatedto'] zeon ['relatedto'] pierce
+cold ['hasproperty'] water ['usedfor'] hole ['relatedto'] pierce
+cold ['similarto'] dead ['relatedto'] hole ['relatedto'] pierce
+cold ['similarto'] dead ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] little ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] little ['relatedto'] cut ['entails'] pierce
+cold ['relatedto'] fish ['relatedto'] flosser ['relatedto'] pierce
+cold ['relatedto'] fish ['relatedto'] flossing ['relatedto'] pierce
+cold ['relatedto'] fish ['relatedto'] sound ['mannerof'] pierce
+cold ['relatedto', 'similarto'] freeze ['mannerof'] interrupt ['relatedto'] pierce
+cold ['relatedto'] burn ['synonym'] bite ['mannerof'] pierce
+cold ['relatedto'] burn ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] burn ['relatedto'] flesh_wound ['relatedto'] pierce
+cold ['relatedto'] burn ['relatedto'] sting ['mannerof'] pierce
+cold ['relatedto'] burn ['synonym'] cut ['entails'] pierce
+cold ['usedfor', 'relatedto', 'hasproperty'] ice ['relatedto'] pick ['mannerof'] pierce
+cold ['antonym'] summer ['relatedto'] break ['relatedto'] pierce
+cold ['antonym', 'distinctfrom', 'relatedto'] heat ['synonym'] stoke ['relatedto'] pierce
+cold ['relatedto', 'hasproperty', 'atlocation'] space ['relatedto'] break ['relatedto'] pierce
+cold ['relatedto', 'hasproperty', 'atlocation'] space ['isa'] hole ['relatedto'] pierce
+cold ['causesdesire'] spit ['relatedto'] impale ['relatedto', 'entails'] pierce
+cold ['derivedfrom'] cold_cream ['relatedto'] skin ['relatedto'] pierce
+cold ['etymologicallyrelatedto', 'relatedto'] chill ['relatedto'] penetrating ['relatedto'] pierce
+cold ['hasproperty'] noses ['relatedto'] pick ['mannerof'] pierce
+cold ['hasproperty'] river ['relatedto'] rive ['relatedto'] pierce
+cold ['relatedto'] blood ['relatedto'] cut ['entails'] pierce
+cold ['relatedto'] blood ['isa', 'relatedto'] gore ['mannerof', 'relatedto'] pierce
+cold ['relatedto'] blood ['relatedto'] sap ['relatedto'] pierce
+cold ['relatedto'] brass ['relatedto'] sound ['mannerof'] pierce
+cold ['relatedto'] brass ['relatedto'] horn ['mannerof'] pierce
+cold ['relatedto'] coat ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] description ['relatedto'] sound ['mannerof'] pierce
+cold ['relatedto'] feel ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] feel ['causes'] affect ['mannerof'] pierce
+cold ['relatedto'] feeling ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] feeling ['isa', 'relatedto'] affect ['mannerof'] pierce
+cold ['relatedto'] illness ['relatedto'] lebenswecker ['relatedto'] pierce
+cold ['relatedto'] pole ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] pole ['relatedto'] poke ['mannerof'] pierce
+cold ['relatedto'] snow ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] weather ['relatedto'] break ['relatedto'] pierce
+cold ['relatedto'] acrid ['relatedto'] sting ['mannerof'] pierce
+cold ['relatedto'] pungent ['relatedto'] bite ['mannerof'] pierce
+cold ['relatedto'] pungent ['relatedto'] sting ['mannerof'] pierce
+cold ['relatedto'] pungent ['relatedto'] prick ['relatedto'] pierce
+cold ['relatedto'] frozen ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] nasal ['relatedto'] sound ['mannerof'] pierce
+cold ['relatedto'] cold_sensitive ['relatedto'] affect ['mannerof'] pierce
+cold ['relatedto'] complexion ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] crisp ['relatedto'] break ['relatedto'] pierce
+cold ['relatedto'] cryoburn ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] degree ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] drink ['relatedto'] punch ['mannerof'] pierce
+cold ['relatedto'] erythrocyanosis_crurum ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] goose_bump ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] goose_flesh ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] goose_skin ['isa', 'relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] hare ['relatedto'] prick ['relatedto'] pierce
+cold ['relatedto'] icicle ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] injection ['relatedto'] needle ['relatedto'] pierce
+cold ['relatedto'] iron ['relatedto'] lance ['mannerof', 'relatedto'] pierce
+cold ['relatedto'] keraunoparalysis ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] livedo_reticularis ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] lizard ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] lizard ['atlocation'] hole ['relatedto'] pierce
+cold ['relatedto'] metal ['madeof'] pick ['mannerof'] pierce
+cold ['relatedto'] metal ['receivesaction'] cut ['entails'] pierce
+cold ['relatedto'] metal ['relatedto'] beak ['relatedto'] pierce
+cold ['relatedto'] metal ['relatedto'] javelin ['relatedto'] pierce
+cold ['relatedto'] metal ['relatedto'] jewelry ['relatedto'] pierce
+cold ['relatedto'] metal ['relatedto'] tap ['mannerof'] pierce
+cold ['relatedto'] mixer_tap ['relatedto'] tap ['mannerof'] pierce
+cold ['relatedto'] nip ['isa', 'mannerof', 'relatedto'] bite ['mannerof'] pierce
+cold ['relatedto'] nip ['mannerof', 'relatedto'] cut ['entails'] pierce
+cold ['relatedto'] perniosis ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] pilomotor_reflex ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] shiver ['relatedto'] skin ['relatedto'] pierce
+cold ['relatedto'] sick ['hasproperty'] peter ['relatedto'] pierce
+cold ['relatedto'] skinning ['formof'] skin ['relatedto'] pierce
+cold ['relatedto'] sniffle ['relatedto'] sound ['mannerof'] pierce
+cold ['relatedto'] snithe ['relatedto', 'synonym'] cut ['entails'] pierce
+cold ['relatedto'] snub ['relatedto', 'synonym'] cut ['entails'] pierce
+cold ['relatedto'] steel ['relatedto'] lance ['mannerof', 'relatedto'] pierce
+cold ['relatedto'] steel ['relatedto'] javelin ['relatedto'] pierce
+cold ['relatedto'] steel ['relatedto'] needle ['relatedto'] pierce
+cold ['relatedto'] trouble ['mannerof'] affect ['mannerof'] pierce
+cold ['relatedto'] whale ['relatedto'] sound ['mannerof'] pierce
+cold ['relatedto'] whale ['relatedto'] hole ['relatedto'] pierce
+cold ['relatedto'] wind ['relatedto'] sound ['mannerof'] pierce
+cold ['relatedto'] wind ['relatedto'] horn ['mannerof'] pierce
+cold ['relatedto'] wool ['relatedto'] skin ['relatedto'] pierce
+cold ['similarto'] stale ['relatedto'] arrow ['usedfor'] pierce
+cold ['relatedto'] relative ['relatedto'] attitude ['relatedto'] break ['relatedto'] pierce
+cold ['relatedto'] relative ['relatedto', 'synonym'] comparative ['relatedto'] affect ['mannerof'] pierce
+cold ['relatedto'] relative ['relatedto'] geography ['relatedto'] affect ['mannerof'] pierce
+cold ['relatedto'] relative ['relatedto'] horse ['relatedto'] prick ['relatedto'] pierce
+cold ['relatedto'] relative ['relatedto'] increase ['relatedto'] stick ['mannerof'] pierce
+cold ['relatedto'] relative ['relatedto'] increase ['antonym'] cut ['entails'] pierce

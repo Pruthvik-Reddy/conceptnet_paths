@@ -1,0 +1,100 @@
+criticism ['isa'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] level
+criticism ['isa'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['relatedto'] level
+criticism ['isa'] fire ['derivedfrom'] underfire ['relatedto'] level
+criticism ['isa'] fire ['isa'] flare ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] aim ['mannerof'] level
+criticism ['isa'] fire ['relatedto'] dry_riser ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] high ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] tool ['isa', 'relatedto'] level
+criticism ['isa'] fire ['relatedto'] video_game ['relatedto', 'atlocation'] level
+criticism ['isa'] fire ['relatedto'] score ['relatedto'] level
+criticism ['isa'] static ['relatedto'] charge ['synonym'] level
+criticism ['relatedto'] reply ['relatedto'] field ['relatedto'] level
+criticism ['relatedto'] reply ['relatedto'] talk ['mannerof'] level
+criticism ['isa'] attack ['antonym'] position ['relatedto'] level
+criticism ['isa'] attack ['isa', 'relatedto'] charge ['synonym'] level
+criticism ['isa'] attack ['isa'] flare ['relatedto'] level
+criticism ['isa'] attack ['isa', 'mannerof', 'relatedto'] strike ['relatedto'] level
+criticism ['isa'] attack ['isa'] touch ['relatedto'] level
+criticism ['isa'] attack ['relatedto'] amount ['relatedto'] level
+criticism ['isa'] attack ['relatedto'] plane ['relatedto', 'synonym'] level
+criticism ['isa'] attack ['relatedto'] volume ['relatedto'] level
+criticism ['isa'] attack ['relatedto'] aim ['mannerof'] level
+criticism ['isa'] attack ['relatedto'] field ['relatedto'] level
+criticism ['isa'] attack ['relatedto'] quick ['relatedto'] level
+criticism ['isa'] attack ['relatedto'] score ['relatedto'] level
+criticism ['isa'] attack ['relatedto'] tool ['isa', 'relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] ground ['relatedto'] level
+criticism ['relatedto'] stick ['distinctfrom', 'relatedto'] board ['relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] bar ['relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] bone ['relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] degree ['relatedto', 'synonym'] level
+criticism ['relatedto'] stick ['relatedto'] dipstick ['relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] flare ['relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] ruler ['relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] straight ['relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] tool ['isa', 'relatedto'] level
+criticism ['relatedto'] stick ['relatedto'] difficulty ['relatedto'] level
+criticism ['relatedto'] silence ['relatedto'] floor ['relatedto', 'hasproperty', 'synonym'] level
+criticism ['relatedto'] silence ['antonym', 'distinctfrom'] talk ['mannerof'] level
+criticism ['isa'] writing ['relatedto'] number ['relatedto'] level
+criticism ['isa'] writing ['relatedto'] board ['relatedto'] level
+criticism ['isa'] writing ['relatedto'] character ['relatedto'] level
+criticism ['isa'] writing ['relatedto'] pictures ['relatedto'] level
+criticism ['isa'] writing ['usedfor'] computer ['relatedto'] level
+criticism ['isa'] writing ['relatedto'] mark ['relatedto'] level
+criticism ['isa'] writing ['relatedto'] tone ['relatedto'] level
+criticism ['isa'] writing ['causes', 'relatedto', 'usedfor'] story ['relatedto'] level
+criticism ['isa'] writing ['relatedto'] lines ['relatedto'] level
+criticism ['isa'] writing ['relatedto'] tool ['isa', 'relatedto'] level
+criticism ['isa'] examen ['relatedto', 'synonym'] examination ['relatedto'] level
+criticism ['isa', 'relatedto'] knock ['mannerof'] strike ['relatedto'] level
+criticism ['isa', 'relatedto'] review ['etymologicallyrelatedto'] video ['relatedto'] level
+criticism ['isa'] textual_criticism ['relatedto'] field ['relatedto'] level
+criticism ['isa'] thrust ['relatedto'] parallel ['relatedto'] level
+criticism ['isa'] thrust ['relatedto'] advance ['relatedto'] level
+criticism ['isa'] thrust ['isa'] video_game ['relatedto', 'atlocation'] level
+criticism ['relatedto'] deconstruction ['relatedto'] destroy ['mannerof', 'relatedto'] level
+criticism ['relatedto'] defensive ['relatedto'] position ['relatedto'] level
+criticism ['relatedto'] fair_game ['derivedfrom'] game ['relatedto'] level
+criticism ['relatedto'] firehosing ['relatedto'] water ['relatedto'] level
+criticism ['relatedto'] forewit ['relatedto'] leader ['relatedto'] level
+criticism ['relatedto'] indictment ['relatedto', 'partof'] charge ['synonym'] level
+criticism ['relatedto'] lightning_rod ['relatedto'] ground ['relatedto'] level
+criticism ['relatedto'] lightning_rod ['relatedto'] building ['usedfor', 'relatedto'] level
+criticism ['relatedto'] pan ['relatedto'] plane ['relatedto', 'synonym'] level
+criticism ['relatedto'] pan ['relatedto'] flat ['isa', 'relatedto', 'synonym'] level
+criticism ['relatedto'] pan ['relatedto'] metal ['relatedto'] level
+criticism ['relatedto'] pan ['relatedto'] horizontal ['relatedto', 'similarto'] level
+criticism ['relatedto'] peanut_gallery ['relatedto'] upper ['relatedto'] level
+criticism ['relatedto'] plus ['relatedto'] water ['relatedto'] level
+criticism ['relatedto'] plus ['relatedto', 'synonym'] en ['derivedfrom', 'atlocation'] level
+criticism ['relatedto'] plus ['relatedto'] grade ['isa', 'relatedto', 'synonym'] level
+criticism ['relatedto'] plus ['relatedto'] frame ['relatedto'] level
+criticism ['relatedto'] rant ['mannerof'] talk ['mannerof'] level
+criticism ['relatedto'] reflection ['relatedto'] water ['relatedto'] level
+criticism ['relatedto'] reflection ['relatedto'] wave ['relatedto'] level
+criticism ['relatedto'] reflection ['isa'] flare ['relatedto'] level
+criticism ['relatedto'] reflection ['relatedto'] surface ['relatedto'] level
+criticism ['relatedto'] stab ['relatedto'] tool ['isa', 'relatedto'] level
+criticism ['relatedto'] take_aim ['relatedto'] position ['relatedto'] level
+criticism ['relatedto'] take_aim ['relatedto'] mark ['relatedto'] level
+criticism ['relatedto'] take_aim ['derivedfrom', 'synonym'] aim ['mannerof'] level
+criticism ['relatedto'] vituperation ['relatedto'] sustained ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['derivedfrom'] basement ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['etymologicallyrelatedto'] bar ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['isa', 'relatedto'] number ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] field ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] game ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] ground ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] place ['isa', 'relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] square ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] rank ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] board ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto', 'synonym'] floor ['relatedto', 'hasproperty', 'synonym'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] high ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] orientation ['relatedto'] level
+criticism ['isa'] fire ['relatedto'] base ['relatedto'] wave ['relatedto'] level
+criticism ['isa'] fire ['mannerof'] remove ['synonym'] abate ['relatedto'] level
+criticism ['isa'] fire ['mannerof'] remove ['mannerof', 'relatedto'] bone ['relatedto'] level
+criticism ['isa'] fire ['mannerof'] remove ['relatedto'] destroy ['mannerof', 'relatedto'] level

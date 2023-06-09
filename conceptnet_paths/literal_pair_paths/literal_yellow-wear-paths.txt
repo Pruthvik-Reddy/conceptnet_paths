@@ -1,0 +1,100 @@
+yellow ['relatedto'] accuracy ['relatedto'] value ['relatedto'] wear
+yellow ['synonym'] old ['relatedto'] worn ['formof', 'relatedto'] wear
+yellow ['synonym'] old ['relatedto'] shoe ['relatedto'] wear
+yellow ['relatedto'] fire ['antonym', 'relatedto'] wind ['relatedto'] wear
+yellow ['relatedto'] fire ['relatedto'] process ['relatedto'] wear
+yellow ['relatedto'] fire ['relatedto'] ready ['relatedto'] wear
+yellow ['isa', 'relatedto', 'synonym'] amber ['relatedto'] england ['relatedto'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] red ['hasproperty'] clothing ['relatedto', 'synonym'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] red ['relatedto'] dress ['mannerof', 'relatedto', 'entails'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] red ['relatedto'] irritation ['relatedto'] wear
+yellow ['relatedto'] egg ['atlocation'] plate ['relatedto'] wear
+yellow ['relatedto'] egg ['mannerof'] coat ['relatedto'] wear
+yellow ['relatedto'] egg ['relatedto'] eye ['relatedto'] wear
+yellow ['relatedto'] white ['relatedto'] plate ['relatedto'] wear
+yellow ['relatedto'] white ['relatedto'] bear ['relatedto', 'synonym'] wear
+yellow ['relatedto'] white ['relatedto'] cotton ['relatedto'] wear
+yellow ['relatedto'] white ['relatedto'] eye ['relatedto'] wear
+yellow ['relatedto'] white ['relatedto'] gown ['relatedto'] wear
+yellow ['relatedto'] white ['relatedto'] habit ['relatedto'] wear
+yellow ['relatedto'] white ['relatedto'] sock ['relatedto'] wear
+yellow ['relatedto'] white ['relatedto'] toque ['relatedto'] wear
+yellow ['relatedto'] white ['synonym'] flannel ['usedfor'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] blue ['isa', 'relatedto'] clothing ['relatedto', 'synonym'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] blue ['hasproperty'] dress ['mannerof', 'relatedto', 'entails'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] blue ['hasproperty'] ring ['relatedto'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] blue ['relatedto'] eye ['relatedto'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] blue ['relatedto'] shoe ['relatedto'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] blue ['relatedto'] coat ['relatedto'] wear
+yellow ['antonym', 'distinctfrom', 'relatedto'] blue ['relatedto'] spend ['relatedto'] wear
+yellow ['distinctfrom', 'relatedto', 'hasproperty'] green ['relatedto'] put ['relatedto'] wear
+yellow ['antonym', 'relatedto'] corn ['atlocation'] plate ['relatedto'] wear
+yellow ['antonym', 'relatedto'] corn ['isa', 'relatedto'] callus ['relatedto'] wear
+yellow ['antonym', 'relatedto'] corn ['relatedto'] en ['relatedto'] wear
+yellow ['antonym', 'relatedto'] corn ['relatedto'] ring ['relatedto'] wear
+yellow ['derivedfrom'] english_carrier ['relatedto'] england ['relatedto'] wear
+yellow ['derivedfrom'] yelloweye ['derivedfrom'] eye ['relatedto'] wear
+yellow ['formof', 'relatedto'] yellows ['relatedto'] eye ['relatedto'] wear
+yellow ['isa', 'relatedto', 'hasproperty'] butter ['relatedto'] putting ['relatedto'] wear
+yellow ['hasproperty'] flower ['relatedto'] cotton ['relatedto'] wear
+yellow ['hasproperty'] flower ['relatedto'] decoration ['relatedto'] wear
+yellow ['isa', 'relatedto', 'hasproperty'] yolk ['relatedto'] strain ['relatedto'] wear
+yellow ['isa', 'relatedto'] color ['isa', 'relatedto'] appearance ['relatedto'] wear
+yellow ['isa', 'relatedto'] color ['relatedto'] use ['relatedto', 'synonym'] wear
+yellow ['isa', 'relatedto'] color ['relatedto'] cotton ['relatedto'] wear
+yellow ['isa', 'relatedto'] color ['relatedto'] eye ['relatedto'] wear
+yellow ['isa', 'relatedto'] color ['relatedto'] handkerchief_code ['relatedto'] wear
+yellow ['isa', 'relatedto'] colour ['relatedto'] eye ['relatedto'] wear
+yellow ['isa'] ore ['relatedto'] rock ['relatedto'] wear
+yellow ['isa'] coloring ['relatedto'] process ['relatedto'] wear
+yellow ['isa'] change ['isa', 'relatedto'] action ['relatedto'] wear
+yellow ['isa'] change ['isa', 'relatedto'] clothing ['relatedto', 'synonym'] wear
+yellow ['isa'] change ['isa', 'mannerof', 'relatedto'] break ['synonym'] wear
+yellow ['isa'] change ['mannerof'] put ['relatedto'] wear
+yellow ['isa'] change ['isa', 'mannerof'] damage ['relatedto'] wear
+yellow ['isa'] change ['mannerof'] assume ['synonym'] wear
+yellow ['isa'] change ['mannerof'] dress ['mannerof', 'relatedto', 'entails'] wear
+yellow ['isa'] change ['synonym'] tack ['antonym', 'relatedto'] wear
+yellow ['relatedto'] address ['relatedto'] dress ['mannerof', 'relatedto', 'entails'] wear
+yellow ['relatedto'] address ['relatedto'] suit ['relatedto'] wear
+yellow ['relatedto'] address ['mannerof'] use ['relatedto', 'synonym'] wear
+yellow ['relatedto'] address ['relatedto'] ready ['relatedto'] wear
+yellow ['relatedto'] apron ['relatedto'] clothing ['relatedto', 'synonym'] wear
+yellow ['relatedto'] apron ['relatedto'] bow ['relatedto'] wear
+yellow ['relatedto'] apron ['relatedto'] tire ['synonym'] wear
+yellow ['relatedto'] apron ['relatedto'] slipper ['relatedto'] wear
+yellow ['relatedto'] bee ['etymologicallyrelatedto'] bow ['relatedto'] wear
+yellow ['relatedto'] bee ['atlocation'] hat ['mannerof', 'relatedto'] wear
+yellow ['relatedto'] bee ['relatedto'] en ['relatedto'] wear
+yellow ['relatedto'] brass ['isa', 'synonym'] plate ['relatedto'] wear
+yellow ['relatedto'] brass ['relatedto'] wind ['relatedto'] wear
+yellow ['relatedto'] brass ['relatedto'] coat ['relatedto'] wear
+yellow ['relatedto'] brass ['isa'] decoration ['relatedto'] wear
+yellow ['relatedto'] cake ['relatedto', 'atlocation'] plate ['relatedto'] wear
+yellow ['relatedto'] cake ['relatedto'] put ['relatedto'] wear
+yellow ['relatedto'] cake ['relatedto'] hat ['mannerof', 'relatedto'] wear
+yellow ['relatedto'] cake ['relatedto'] tire ['synonym'] wear
+yellow ['relatedto'] cake ['relatedto', 'synonym'] coat ['relatedto'] wear
+yellow ['relatedto'] cake ['relatedto'] decoration ['relatedto'] wear
+yellow ['relatedto'] canary ['relatedto'] value ['relatedto'] wear
+yellow ['relatedto'] cheddar_cheese ['relatedto'] england ['relatedto'] wear
+yellow ['relatedto'] cheese ['atlocation'] plate ['relatedto'] wear
+yellow ['relatedto'] cheese ['relatedto'] eye ['relatedto'] wear
+yellow ['relatedto'] chick ['antonym'] dude ['relatedto'] wear
+yellow ['relatedto'] chick ['relatedto'] decoration ['relatedto'] wear
+yellow ['relatedto'] chicken ['atlocation'] plate ['relatedto'] wear
+yellow ['relatedto'] china ['relatedto'] plate ['relatedto'] wear
+yellow ['relatedto'] copper ['mannerof'] coat ['relatedto'] wear
+yellow ['relatedto'] crane ['relatedto'] equipment ['relatedto'] wear
+yellow ['relatedto'] dory ['relatedto'] foot ['relatedto'] wear
+yellow ['relatedto'] dory ['relatedto'] coat ['relatedto'] wear
+yellow ['relatedto'] duck ['relatedto'] bow ['relatedto'] wear
+yellow ['relatedto'] duck ['relatedto'] feet ['relatedto'] wear
+yellow ['relatedto'] gold ['relatedto'] put ['relatedto'] wear
+yellow ['relatedto'] gold ['relatedto'] crown ['relatedto'] wear
+yellow ['relatedto'] gold ['relatedto', 'atlocation'] ring ['relatedto'] wear
+yellow ['relatedto'] gold ['hasa', 'relatedto'] value ['relatedto'] wear
+yellow ['relatedto'] gold ['relatedto'] rock ['relatedto'] wear
+yellow ['relatedto'] gold ['usedfor'] decoration ['relatedto'] wear
+yellow ['relatedto'] khaki ['relatedto'] cotton ['relatedto'] wear
+yellow ['relatedto'] khaki ['relatedto'] uniform ['relatedto'] wear

@@ -1,0 +1,100 @@
+toy ['relatedto'] action ['relatedto'] crush
+toy ['relatedto'] love ['relatedto'] crush
+toy ['relatedto'] fancy ['relatedto'] crush
+toy ['relatedto'] present ['relatedto'] break ['mannerof', 'relatedto'] crush
+toy ['relatedto'] action ['relatedto'] break ['mannerof', 'relatedto'] crush
+toy ['relatedto'] action ['relatedto'] chew ['relatedto'] crush
+toy ['relatedto'] action ['relatedto'] crushing ['formof', 'derivedfrom'] crush
+toy ['relatedto'] action ['relatedto'] press ['relatedto', 'synonym'] crush
+toy ['relatedto'] action ['relatedto'] smash ['relatedto', 'synonym'] crush
+toy ['relatedto'] child ['desires'] love ['relatedto'] crush
+toy ['relatedto'] child ['relatedto'] jam ['synonym'] crush
+toy ['relatedto'] childish ['relatedto'] puppy_love ['similarto', 'synonym'] crush
+toy ['relatedto'] happiness ['causes'] love ['relatedto'] crush
+toy ['relatedto'] one ['antonym'] crowd ['isa', 'relatedto'] crush
+toy ['relatedto'] one ['derivedfrom'] one_way ['relatedto'] crush
+toy ['relatedto'] baby ['synonym'] love ['relatedto'] crush
+toy ['capableof', 'isa', 'relatedto'] ball ['relatedto'] orange ['relatedto'] crush
+toy ['capableof', 'isa', 'relatedto'] ball ['isa'] party ['relatedto'] crush
+toy ['capableof', 'isa', 'relatedto'] ball ['relatedto'] fancy ['relatedto'] crush
+toy ['capableof', 'isa', 'relatedto'] ball ['relatedto'] wad ['relatedto'] crush
+toy ['relatedto'] balloon ['usedfor'] party ['relatedto'] crush
+toy ['relatedto'] top ['relatedto', 'synonym'] beat ['synonym'] crush
+toy ['relatedto'] bat ['mannerof'] beat ['synonym'] crush
+toy ['relatedto'] bat ['synonym'] drub ['relatedto'] crush
+toy ['relatedto'] bear ['relatedto'] burden ['relatedto'] crush
+toy ['relatedto'] bear ['relatedto'] press ['relatedto', 'synonym'] crush
+toy ['relatedto'] room ['relatedto'] crowd ['isa', 'relatedto'] crush
+toy ['relatedto'] room ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] room ['synonym'] way ['relatedto'] crush
+toy ['relatedto'] thing ['isa'] action ['relatedto'] crush
+toy ['relatedto'] thing ['antonym'] beverage ['isa'] crush
+toy ['relatedto'] little ['relatedto'] crowd ['isa', 'relatedto'] crush
+toy ['relatedto'] little ['relatedto'] smash ['relatedto', 'synonym'] crush
+toy ['relatedto'] small ['antonym', 'relatedto'] crowd ['isa', 'relatedto'] crush
+toy ['relatedto'] small ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] small ['relatedto'] way ['relatedto'] crush
+toy ['relatedto'] car ['relatedto', 'partof', 'atlocation'] brake ['relatedto'] crush
+toy ['relatedto'] car ['capableof'] crash ['relatedto'] crush
+toy ['relatedto'] car ['relatedto'] break ['mannerof', 'relatedto'] crush
+toy ['relatedto'] car ['relatedto'] smash ['relatedto', 'synonym'] crush
+toy ['relatedto'] bone ['relatedto'] chew ['relatedto'] crush
+toy ['relatedto'] bone ['relatedto'] break ['mannerof', 'relatedto'] crush
+toy ['relatedto'] bone ['relatedto'] pestle ['relatedto'] crush
+toy ['usedfor', 'relatedto', 'receivesaction'] fun ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] box ['etymologicallyrelatedto'] pash ['relatedto'] crush
+toy ['relatedto'] box ['relatedto'] bruise ['mannerof'] crush
+toy ['relatedto'] box ['relatedto'] mill ['usedfor'] crush
+toy ['relatedto'] boy ['relatedto'] longing ['relatedto'] crush
+toy ['relatedto'] piece ['antonym', 'relatedto'] break ['mannerof', 'relatedto'] crush
+toy ['relatedto'] piece ['relatedto'] mill ['usedfor'] crush
+toy ['relatedto'] nice ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] card ['relatedto'] fold ['relatedto'] crush
+toy ['relatedto'] gift ['relatedto'] beverage ['isa'] crush
+toy ['relatedto'] gift ['atlocation'] party ['relatedto'] crush
+toy ['relatedto'] paper ['relatedto'] wad ['relatedto'] crush
+toy ['relatedto'] term ['relatedto'] crowd ['isa', 'relatedto'] crush
+toy ['relatedto'] term ['relatedto'] beat ['synonym'] crush
+toy ['relatedto'] term ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] term ['relatedto'] smash ['relatedto', 'synonym'] crush
+toy ['relatedto'] term ['relatedto'] soda ['relatedto'] crush
+toy ['relatedto'] term ['relatedto'] way ['relatedto'] crush
+toy ['relatedto'] christmas ['relatedto'] crowd ['isa', 'relatedto'] crush
+toy ['relatedto'] christmas ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] slide ['relatedto'] grind ['isa', 'relatedto'] crush
+toy ['relatedto'] love ['relatedto'] someone ['relatedto'] crush
+toy ['relatedto'] love ['isa', 'derivedfrom'] puppy_love ['similarto', 'synonym'] crush
+toy ['relatedto'] love ['isa', 'relatedto'] affection ['relatedto'] crush
+toy ['relatedto'] love ['relatedto'] fancy ['relatedto'] crush
+toy ['relatedto'] love ['relatedto'] infatuation ['relatedto'] crush
+toy ['relatedto'] love ['relatedto'] liking ['relatedto'] crush
+toy ['relatedto'] love ['relatedto'] liking_someone ['relatedto'] crush
+toy ['relatedto'] love ['relatedto'] romantic ['relatedto'] crush
+toy ['relatedto'] tee ['relatedto'] party ['relatedto'] crush
+toy ['isa', 'relatedto'] doll ['antonym', 'relatedto'] action ['relatedto'] crush
+toy ['isa', 'relatedto'] doll ['relatedto'] love ['relatedto'] crush
+toy ['relatedto'] figure ['relatedto'] action ['relatedto'] crush
+toy ['relatedto'] shiny ['relatedto'] fancy ['relatedto'] crush
+toy ['relatedto'] part ['relatedto'] action ['relatedto'] crush
+toy ['relatedto'] part ['etymologicallyrelatedto', 'relatedto'] party ['relatedto'] crush
+toy ['relatedto'] part ['relatedto'] brake ['relatedto'] crush
+toy ['relatedto'] fancy ['relatedto'] wine ['relatedto'] crush
+toy ['relatedto'] fancy ['relatedto'] love ['relatedto'] crush
+toy ['relatedto'] fancy ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] fancy ['relatedto'] mash ['relatedto'] crush
+toy ['relatedto'] mobile ['derivedfrom'] mash ['relatedto'] crush
+toy ['relatedto'] lead ['relatedto'] action ['relatedto'] crush
+toy ['relatedto'] lead ['relatedto'] schlich ['relatedto'] crush
+toy ['relatedto'] game ['relatedto'] action ['relatedto'] crush
+toy ['relatedto'] game ['relatedto'] crowd ['isa', 'relatedto'] crush
+toy ['relatedto'] game ['relatedto'] break ['mannerof', 'relatedto'] crush
+toy ['relatedto'] game ['relatedto'] beat ['synonym'] crush
+toy ['relatedto'] game ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] general ['relatedto'] crowd ['isa', 'relatedto'] crush
+toy ['relatedto'] general ['relatedto'] beverage ['isa'] crush
+toy ['relatedto'] general ['relatedto'] party ['relatedto'] crush
+toy ['relatedto'] general ['relatedto'] soda ['relatedto'] crush
+toy ['relatedto'] general ['relatedto'] way ['relatedto'] crush
+toy ['relatedto'] generic ['relatedto'] wine ['relatedto'] crush
+toy ['relatedto'] generic ['relatedto'] destruction ['relatedto'] crush
+toy ['relatedto'] idea ['isa', 'relatedto'] burden ['relatedto'] crush

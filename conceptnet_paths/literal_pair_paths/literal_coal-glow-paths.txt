@@ -1,0 +1,100 @@
+coal ['relatedto'] burn ['synonym'] glow
+coal ['relatedto'] heat ['synonym'] glow
+coal ['relatedto', 'synonym'] ember ['relatedto'] glow
+coal ['relatedto'] gleed ['etymologicallyrelatedto', 'relatedto'] glow
+coal ['relatedto', 'atlocation'] underground ['relatedto'] flush ['mannerof'] glow
+coal ['relatedto'] old ['relatedto'] glory ['relatedto'] glow
+coal ['relatedto', 'atlocation'] fire ['capableof', 'relatedto', 'synonym'] burn ['synonym'] glow
+coal ['relatedto', 'atlocation'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['synonym'] glow
+coal ['relatedto', 'atlocation'] fire ['causes', 'relatedto'] spark ['relatedto'] glow
+coal ['relatedto', 'atlocation'] fire ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['relatedto', 'atlocation'] fire ['relatedto'] red_hot ['relatedto'] glow
+coal ['relatedto', 'atlocation'] fire ['relatedto'] fireshine ['relatedto'] glow
+coal ['relatedto', 'atlocation'] fire ['relatedto', 'synonym'] inflame ['relatedto'] glow
+coal ['relatedto'] ground ['relatedto'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] ground ['relatedto'] flush ['mannerof'] glow
+coal ['relatedto'] dead ['relatedto'] burn ['synonym'] glow
+coal ['relatedto'] dead ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] mineral ['isa'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] plants ['relatedto'] spark ['relatedto'] glow
+coal ['relatedto'] black ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] black ['relatedto'] burn ['synonym'] glow
+coal ['relatedto'] put ['relatedto'] burn ['synonym'] glow
+coal ['relatedto'] put ['relatedto'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] dark ['relatedto'] blush ['relatedto'] glow
+coal ['relatedto'] dark ['antonym', 'distinctfrom', 'relatedto', 'hasproperty'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] burn ['mannerof'] feel ['mannerof'] glow
+coal ['relatedto'] burn ['mannerof'] shine ['synonym'] glow
+coal ['relatedto'] burn ['relatedto'] feeling ['isa'] glow
+coal ['relatedto'] burn ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] burn ['relatedto', 'synonym'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] burn ['relatedto'] inflame ['relatedto'] glow
+coal ['relatedto'] dirty ['hasproperty'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] solid ['antonym', 'isa', 'relatedto', 'hasproperty'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] solid ['relatedto'] draper_point ['relatedto'] glow
+coal ['relatedto'] rain ['antonym'] shine ['synonym'] glow
+coal ['antonym', 'relatedto'] diamond ['relatedto'] glimmer ['relatedto'] glow
+coal ['antonym'] fluid ['relatedto'] flush ['mannerof'] glow
+coal ['relatedto', 'atlocation'] coal_mine ['relatedto'] flush ['mannerof'] glow
+coal ['relatedto', 'atlocation'] mine ['relatedto'] train ['relatedto'] glow
+coal ['derivedfrom'] coalpot ['relatedto'] burn ['synonym'] glow
+coal ['distinctfrom', 'relatedto'] oil ['relatedto'] heat ['synonym'] glow
+coal ['distinctfrom', 'relatedto'] oil ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['distinctfrom', 'relatedto'] oil ['relatedto'] feel ['mannerof'] glow
+coal ['distinctfrom', 'relatedto'] oil ['relatedto'] feeling ['isa'] glow
+coal ['isa', 'relatedto'] fuel ['relatedto'] heat ['synonym'] glow
+coal ['mannerof'] supply ['mannerof'] heat ['synonym'] glow
+coal ['mannerof'] supply ['mannerof'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] anthracomancy ['relatedto'] burn ['synonym'] glow
+coal ['relatedto'] caking_coal ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] cannel_coal ['relatedto'] burn ['synonym'] glow
+coal ['relatedto', 'synonym'] charcoal ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] cinder ['relatedto', 'synonym'] ember ['relatedto'] glow
+coal ['relatedto'] cinder ['relatedto'] glowing ['formof', 'isa', 'relatedto'] glow
+coal ['relatedto'] burnable ['relatedto', 'derivedfrom'] burn ['synonym'] glow
+coal ['relatedto'] burning ['formof', 'relatedto', 'derivedfrom', 'synonym'] burn ['synonym'] glow
+coal ['relatedto', 'synonym'] char ['mannerof', 'relatedto'] burn ['synonym'] glow
+coal ['relatedto'] color ['relatedto'] blush ['relatedto'] glow
+coal ['relatedto'] color ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] color ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] color ['relatedto'] flush ['mannerof'] glow
+coal ['relatedto'] color ['relatedto'] red_hot ['relatedto'] glow
+coal ['relatedto'] dust ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['usedfor', 'relatedto'] energy ['relatedto'] burn ['synonym'] glow
+coal ['usedfor', 'relatedto'] energy ['isa', 'relatedto'] heat ['synonym'] glow
+coal ['usedfor', 'relatedto'] energy ['isa', 'madeof', 'relatedto'] light ['isa', 'relatedto'] glow
+coal ['usedfor', 'relatedto'] energy ['relatedto'] feeling ['isa'] glow
+coal ['relatedto'] eye ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] eye ['mannerof', 'relatedto'] look ['mannerof'] glow
+coal ['relatedto'] eye ['relatedto'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] eye ['relatedto'] eyeshine ['relatedto'] glow
+coal ['relatedto'] furnace ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] hard ['relatedto'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] hard ['relatedto'] feeling ['isa'] glow
+coal ['relatedto'] heat ['relatedto'] burn ['synonym'] glow
+coal ['relatedto'] heat ['distinctfrom'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] heat ['relatedto'] feel ['mannerof'] glow
+coal ['relatedto'] heat ['relatedto'] feeling ['isa'] glow
+coal ['relatedto'] heat ['relatedto'] radiance ['synonym'] glow
+coal ['relatedto'] heat ['relatedto'] lambent ['relatedto'] glow
+coal ['relatedto'] heat ['relatedto'] outflush ['relatedto'] glow
+coal ['relatedto'] heat ['synonym'] ardour ['synonym'] glow
+coal ['relatedto'] heat ['synonym'] inflame ['relatedto'] glow
+coal ['relatedto'] heating ['formof', 'relatedto'] heat ['synonym'] glow
+coal ['relatedto'] lighting ['relatedto'] burn ['synonym'] glow
+coal ['relatedto'] lighting ['formof', 'relatedto', 'derivedfrom', 'synonym'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] lighting ['isa'] backlighting ['relatedto'] glow
+coal ['relatedto'] material ['relatedto'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] material ['relatedto'] draper_point ['relatedto'] glow
+coal ['relatedto'] output ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] power ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] power ['relatedto'] glory ['relatedto'] glow
+coal ['relatedto'] power ['relatedto'] spark ['relatedto'] glow
+coal ['relatedto'] product ['relatedto'] heat ['synonym'] glow
+coal ['relatedto'] product ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] product ['relatedto'] glass ['etymologicallyrelatedto'] glow
+coal ['relatedto'] smoke ['relatedto'] burn ['synonym'] glow
+coal ['relatedto'] smoke ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] source ['relatedto'] light ['isa', 'relatedto'] glow
+coal ['relatedto'] source ['relatedto'] shine ['synonym'] glow
+coal ['relatedto'] starter ['relatedto'] spark ['relatedto'] glow

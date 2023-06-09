@@ -1,0 +1,100 @@
+eyesight ['relatedto'] amblyopia ['relatedto'] transmission ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto'] ability ['relatedto'] functionality ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto'] abstract ['relatedto'] class ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto'] abstract ['relatedto'] subclass ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto'] abstract ['relatedto'] property ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto', 'derivedfrom', 'synonym'] see ['mannerof'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto', 'hasprerequisite'] reading ['relatedto'] class ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['isa'] position ['relatedto'] title ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['mannerof'] perceive ['etymologicallyrelatedto'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto'] apparent ['derivedfrom'] heir_apparent ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto'] function ['relatedto'] functionality ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto'] job ['relatedto'] class ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['relatedto', 'synonym'] spy ['relatedto'] legal ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['synonym'] batch ['relatedto'] class ['relatedto'] inherit
+eyesight ['isa', 'relatedto'] sight ['usedfor'] light ['relatedto'] characteristic ['relatedto'] inherit
+eyesight ['relatedto', 'synonym'] seeing ['formof'] see ['mannerof'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['relatedto', 'synonym'] seeing ['usedfor', 'relatedto', 'hasprerequisite'] light ['relatedto'] characteristic ['relatedto'] inherit
+eyesight ['relatedto', 'synonym'] seeing ['relatedto'] owly ['relatedto'] characteristic ['relatedto'] inherit
+eyesight ['relatedto', 'synonym'] seeing ['relatedto'] reading ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto', 'synonym'] seeing ['relatedto'] window ['distinctfrom', 'relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] contact ['relatedto'] friend ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] contact ['isa'] book ['usedfor', 'relatedto', 'atlocation'] title ['relatedto'] inherit
+eyesight ['relatedto'] contact ['isa'] book ['isa'] inheritance ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] inherit
+eyesight ['relatedto'] contact ['usedfor', 'relatedto'] call ['antonym'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['relatedto'] contact ['usedfor', 'relatedto'] call ['relatedto'] transmission ['relatedto'] inherit
+eyesight ['relatedto'] contact ['isa', 'relatedto'] communication ['isa', 'relatedto'] transmission ['relatedto'] inherit
+eyesight ['relatedto'] contact ['causes'] mine ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] contact ['isa'] representative ['synonym'] characteristic ['relatedto'] inherit
+eyesight ['relatedto'] contact ['isa'] representative ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] contact ['isa', 'relatedto'] terminal ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['relatedto'] contact ['relatedto'] address ['relatedto'] title ['relatedto'] inherit
+eyesight ['relatedto'] contact ['relatedto'] contagion ['relatedto'] transmission ['relatedto'] inherit
+eyesight ['relatedto'] contact ['relatedto'] hit ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['relatedto'] contact ['relatedto'] hit ['mannerof'] succeed ['relatedto'] inherit
+eyesight ['relatedto'] contact ['relatedto'] page ['atlocation'] title ['relatedto'] inherit
+eyesight ['relatedto'] contact ['relatedto'] receptacle ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['relatedto'] contact ['relatedto'] telepathize ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] ground ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] land ['relatedto', 'synonym'] property ['relatedto'] inherit
+eyesight ['relatedto'] range ['isa', 'relatedto'] set ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] position ['relatedto'] title ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] home ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] top ['relatedto'] title ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] line ['relatedto'] succession ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] farm ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] classify ['relatedto', 'synonym'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['antonym', 'distinctfrom', 'relatedto'] domain ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] son ['relatedto'] cadet ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] son ['relatedto'] heir ['relatedto'] inherit
+eyesight ['relatedto'] range ['synonym'] crop ['relatedto'] heirloom ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] group ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['derivedfrom'] crossrange ['relatedto'] transmission ['relatedto'] inherit
+eyesight ['relatedto'] range ['isa', 'relatedto'] limit ['relatedto'] legal ['relatedto'] inherit
+eyesight ['relatedto'] range ['partof'] pass ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['partof'] pass ['mannerof'] succeed ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] area ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] cruiser ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] freebanding ['relatedto'] transmission ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] cattle ['relatedto'] erf ['etymologicallyrelatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] collection ['isa', 'relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] field ['relatedto'] characteristic ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] part ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] place ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] place ['relatedto', 'synonym'] property ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] practice ['isa'] heritage ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] several ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] song ['hasa'] title ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] series ['isa'] succession ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] species ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] power ['relatedto'] legal ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] power ['relatedto'] transmission ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] power ['relatedto'] succession ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] power ['relatedto'] wald ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto'] register ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['relatedto', 'synonym'] run ['mannerof'] succeed ['relatedto'] inherit
+eyesight ['relatedto'] range ['synonym'] rate ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] range ['synonym'] rate ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] birth ['relatedto'] inborn ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] ground ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] home ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] bad ['derivedfrom'] bad_blood ['relatedto'] inherit
+eyesight ['relatedto'] mole ['antonym', 'relatedto'] beauty ['relatedto'] characteristic ['relatedto'] inherit
+eyesight ['relatedto'] mole ['antonym', 'relatedto'] beauty ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] mole ['antonym', 'relatedto'] beauty ['relatedto'] title ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] see ['mannerof'] receive ['mannerof', 'relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] body ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] skin ['relatedto'] dermatosparaxis ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] skin ['relatedto'] genodermatosis ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] color ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] four ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] mammal ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] security ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] security ['relatedto'] property ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] cant ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] chemistry ['relatedto'] class ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] defect ['relatedto'] analbuminaemia ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] facial ['relatedto'] aarskog_scott_syndrome ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] feature ['relatedto', 'synonym'] characteristic ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] feature ['isa'] property ['relatedto'] inherit
+eyesight ['relatedto'] mole ['relatedto'] spy ['relatedto'] legal ['relatedto'] inherit

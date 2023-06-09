@@ -1,0 +1,100 @@
+horse ['relatedto'] gallop
+horse ['relatedto'] career ['relatedto'] gallop
+horse ['partof'] poll ['relatedto'] gallop
+horse ['relatedto'] calade ['relatedto'] gallop
+horse ['relatedto'] canter ['relatedto'] gallop
+horse ['relatedto'] canterbury_gallop ['relatedto'] gallop
+horse ['relatedto'] galloping ['formof', 'relatedto'] gallop
+horse ['relatedto'] gallops ['formof', 'relatedto'] gallop
+horse ['usedfor', 'relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] pace ['mannerof'] gallop
+horse ['relatedto'] base ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] almost ['relatedto'] run ['relatedto'] gallop
+horse ['isa', 'relatedto'] animal ['atlocation'] heart ['relatedto'] gallop
+horse ['relatedto'] post ['mannerof'] ride_horseback ['mannerof'] gallop
+horse ['relatedto'] post ['relatedto'] poll ['relatedto'] gallop
+horse ['relatedto'] leg ['relatedto'] extend ['synonym'] gallop
+horse ['relatedto'] leg ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto', 'atlocation'] art ['relatedto'] career ['relatedto'] gallop
+horse ['relatedto'] bar ['relatedto'] pace ['mannerof'] gallop
+horse ['relatedto'] car ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] work ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] work ['relatedto'] career ['relatedto'] gallop
+horse ['relatedto'] long ['relatedto'] career ['relatedto'] gallop
+horse ['relatedto'] long ['relatedto'] extend ['synonym'] gallop
+horse ['relatedto'] long ['relatedto'] stride ['relatedto'] gallop
+horse ['antonym', 'distinctfrom', 'relatedto'] cow ['partof'] poll ['relatedto'] gallop
+horse ['relatedto'] nice ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] cast ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] dog ['capableof'] run ['relatedto'] gallop
+horse ['relatedto'] course ['relatedto', 'synonym'] run ['relatedto'] gallop
+horse ['antonym', 'isa', 'relatedto'] donkey ['relatedto'] pace ['mannerof'] gallop
+horse ['atlocation'] florida ['relatedto'] pace ['mannerof'] gallop
+horse ['atlocation'] gate ['etymologicallyrelatedto', 'relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['atlocation'] pocket ['relatedto'] abnormal ['relatedto'] gallop
+horse ['relatedto', 'atlocation'] racecourse ['relatedto'] career ['relatedto'] gallop
+horse ['relatedto', 'atlocation'] racecourse ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto', 'atlocation'] racetrack ['relatedto'] run ['relatedto'] gallop
+horse ['capableof', 'usedfor'] win_race ['motivatedbygoal'] run ['relatedto'] gallop
+horse ['partof', 'derivedfrom'] horseback ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto', 'derivedfrom'] horseriding ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['isa', 'relatedto', 'derivedfrom'] racehorse ['relatedto'] galloper ['relatedto'] gallop
+horse ['etymologicallyrelatedto'] hurry ['relatedto', 'synonym'] run ['relatedto'] gallop
+horse ['formof', 'relatedto'] horses ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['formof', 'relatedto'] horses ['capableof'] canter ['relatedto'] gallop
+horse ['isa'] ore ['relatedto'] run ['relatedto'] gallop
+horse ['isa', 'relatedto'] pacer ['derivedfrom'] pace ['mannerof'] gallop
+horse ['isa', 'relatedto'] saddle_horse ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto', 'receivesaction'] ridden ['formof', 'relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] amble ['relatedto'] canterbury_gallop ['relatedto'] gallop
+horse ['relatedto'] amble ['relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] anticor ['relatedto'] heart ['relatedto'] gallop
+horse ['relatedto'] bucephalus ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] bucket ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] cadence ['relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] canter ['mannerof', 'relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] canter ['isa'] horse_gait ['isa'] gallop
+horse ['relatedto'] canter ['isa', 'relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] canter ['mannerof'] pace ['mannerof'] gallop
+horse ['relatedto'] canter ['mannerof'] ride_horseback ['mannerof'] gallop
+horse ['relatedto'] canter ['relatedto'] trollop ['relatedto'] gallop
+horse ['relatedto'] canterbury_gallop ['relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] chariot ['mannerof', 'relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] coronary ['relatedto'] heart ['relatedto'] gallop
+horse ['relatedto'] crock ['mannerof'] run ['relatedto'] gallop
+horse ['relatedto'] dressage ['relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] equinism ['relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] finnhorse ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] goer ['relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] hackney ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] bigger ['relatedto'] extend ['synonym'] gallop
+horse ['relatedto'] carriage ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] carriage ['relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] carriage ['relatedto'] galloper ['relatedto'] gallop
+horse ['relatedto'] fast ['relatedto'] pace ['mannerof'] gallop
+horse ['relatedto'] fast ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] fast ['relatedto'] outgallop ['derivedfrom'] gallop
+horse ['relatedto'] feet ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] four ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] hair ['relatedto'] poll ['relatedto'] gallop
+horse ['relatedto'] iron ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] iron ['relatedto'] electrical ['relatedto'] gallop
+horse ['relatedto'] jockey ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] legs ['usedfor', 'relatedto', 'hasprerequisite'] run ['relatedto'] gallop
+horse ['relatedto'] mount ['relatedto', 'synonym'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] nose ['capableof'] run ['relatedto'] gallop
+horse ['relatedto'] race ['relatedto', 'synonym'] run ['relatedto'] gallop
+horse ['relatedto'] races ['relatedto'] run ['relatedto'] gallop
+horse ['relatedto'] racing ['relatedto'] run ['relatedto'] gallop
+horse ['usedfor', 'relatedto'] ride ['mannerof', 'relatedto'] canter ['relatedto'] gallop
+horse ['usedfor', 'relatedto'] ride ['mannerof'] ride_horseback ['mannerof'] gallop
+horse ['relatedto'] rider ['relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] rides ['formof', 'relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['usedfor', 'relatedto'] riding ['formof', 'relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] rode ['formof', 'relatedto'] ride ['mannerof', 'relatedto'] gallop
+horse ['relatedto'] run ['relatedto', 'synonym'] extend ['synonym'] gallop
+horse ['relatedto'] run ['relatedto'] outgallop ['derivedfrom'] gallop
+horse ['relatedto'] run ['relatedto'] gait ['isa', 'relatedto'] gallop
+horse ['relatedto'] run ['relatedto'] pace ['mannerof'] gallop
+horse ['relatedto'] runner ['relatedto'] run ['relatedto'] gallop

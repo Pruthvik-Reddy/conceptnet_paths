@@ -1,0 +1,100 @@
+woman ['relatedto'] human ['relatedto'] talk
+woman ['relatedto'] wench ['relatedto'] talk
+woman ['relatedto'] children ['relatedto'] baby_talk ['derivedfrom'] talk
+woman ['relatedto'] children ['relatedto'] human ['relatedto'] talk
+woman ['relatedto'] children ['relatedto'] humans ['capableof'] talk
+woman ['isa', 'relatedto'] adult ['relatedto'] human ['relatedto'] talk
+woman ['isa', 'relatedto'] adult ['relatedto'] baby_talk ['derivedfrom'] talk
+woman ['relatedto'] affair ['synonym'] action ['relatedto'] talk
+woman ['relatedto'] affair ['causes'] scandal ['relatedto'] talk
+woman ['relatedto'] affair ['relatedto', 'synonym'] matter ['relatedto'] talk
+woman ['relatedto'] human ['atlocation'] movie ['relatedto'] talk
+woman ['relatedto'] human ['atlocation'] mouth ['antonym', 'relatedto', 'synonym'] talk
+woman ['relatedto'] human ['formof', 'relatedto'] humans ['capableof'] talk
+woman ['relatedto'] human ['hasproperty'] good ['relatedto'] talk
+woman ['relatedto'] human ['isa'] police ['relatedto'] talk
+woman ['relatedto'] human ['relatedto'] cheek ['mannerof'] talk
+woman ['relatedto'] human ['relatedto'] eat ['haslastsubevent'] talk
+woman ['relatedto'] human ['relatedto'] hear ['antonym'] talk
+woman ['relatedto'] human ['relatedto'] language ['relatedto'] talk
+woman ['relatedto'] human ['relatedto'] life ['relatedto'] talk
+woman ['relatedto'] human ['relatedto'] reason ['relatedto'] talk
+woman ['relatedto'] human ['relatedto'] voice ['relatedto'] talk
+woman ['relatedto'] old ['relatedto'] life ['relatedto'] talk
+woman ['relatedto'] old ['relatedto'] wine ['causesdesire'] talk
+woman ['relatedto'] earth ['relatedto'] human ['relatedto'] talk
+woman ['relatedto'] earth ['relatedto', 'atlocation'] life ['relatedto'] talk
+woman ['relatedto'] earth ['isa'] word ['antonym'] talk
+woman ['relatedto'] earth ['relatedto'] humans ['capableof'] talk
+woman ['relatedto'] earth ['relatedto'] projection ['relatedto'] talk
+woman ['relatedto'] earth ['relatedto'] rapture ['relatedto'] talk
+woman ['relatedto'] earth ['relatedto'] wind ['isa'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto', 'synonym'] human ['relatedto'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['isa'] black ['relatedto'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto'] good ['relatedto'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto'] matter ['relatedto'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto'] student ['capableof'] talk
+woman ['relatedto'] pear ['relatedto'] conference ['synonym'] talk
+woman ['relatedto'] eve ['relatedto'] level ['mannerof'] talk
+woman ['relatedto'] balloon ['relatedto'] hot_air ['relatedto'] talk
+woman ['relatedto'] soprano ['atlocation'] movie ['relatedto'] talk
+woman ['relatedto'] soprano ['isa', 'relatedto'] voice ['relatedto'] talk
+woman ['relatedto'] soprano ['usedfor'] song ['antonym'] talk
+woman ['relatedto'] beautiful ['relatedto', 'hasproperty'] voice ['relatedto'] talk
+woman ['relatedto'] beauty ['relatedto'] good ['relatedto'] talk
+woman ['relatedto'] beauty ['relatedto'] black ['relatedto'] talk
+woman ['relatedto'] beauty ['relatedto'] describe ['relatedto'] talk
+woman ['relatedto'] beauty ['relatedto'] movie ['relatedto'] talk
+woman ['relatedto'] beauty ['relatedto'] tee ['relatedto'] talk
+woman ['relatedto'] big ['derivedfrom'] big_talk ['derivedfrom'] talk
+woman ['relatedto'] big ['relatedto'] movie ['relatedto'] talk
+woman ['relatedto'] big ['relatedto'] mouth ['antonym', 'relatedto', 'synonym'] talk
+woman ['relatedto'] big ['relatedto'] protest ['relatedto'] talk
+woman ['relatedto'] big ['relatedto'] speech ['relatedto'] talk
+woman ['relatedto'] big ['relatedto'] whiff ['mannerof'] talk
+woman ['relatedto'] big ['relatedto'] wind ['isa'] talk
+woman ['relatedto'] big ['synonym'] gas ['relatedto'] talk
+woman ['relatedto'] fish ['relatedto'] eat ['haslastsubevent'] talk
+woman ['relatedto'] fish ['relatedto'] life ['relatedto'] talk
+woman ['relatedto'] fish ['relatedto'] tongue ['relatedto'] talk
+woman ['relatedto'] fish ['relatedto'] troll ['mannerof'] talk
+woman ['relatedto'] date ['relatedto'] friend ['capableof'] talk
+woman ['relatedto'] date ['relatedto'] movie ['relatedto'] talk
+woman ['relatedto'] date ['relatedto'] particular ['relatedto'] talk
+woman ['relatedto'] date ['relatedto'] steven ['relatedto'] talk
+woman ['relatedto'] blue ['relatedto'] common ['relatedto'] talk
+woman ['relatedto'] body ['relatedto'] human ['relatedto'] talk
+woman ['relatedto'] body ['atlocation'] lips ['relatedto'] talk
+woman ['relatedto'] body ['relatedto', 'partof'] tongue ['relatedto'] talk
+woman ['relatedto'] body ['relatedto'] bay ['mannerof'] talk
+woman ['relatedto'] body ['relatedto'] humans ['capableof'] talk
+woman ['relatedto'] body ['relatedto'] matter ['relatedto'] talk
+woman ['relatedto'] body ['relatedto'] movement ['relatedto'] talk
+woman ['relatedto'] body ['relatedto'] moving ['relatedto'] talk
+woman ['relatedto'] body ['relatedto'] cheek ['mannerof'] talk
+woman ['relatedto'] body ['relatedto'] chin ['relatedto'] talk
+woman ['relatedto'] body ['relatedto'] jaw ['relatedto'] talk
+woman ['relatedto'] body ['relatedto'] language ['relatedto'] talk
+woman ['relatedto'] body ['relatedto'] mouth ['antonym', 'relatedto', 'synonym'] talk
+woman ['relatedto'] body ['relatedto'] swallow ['mannerof', 'hasprerequisite'] talk
+woman ['relatedto'] flesh ['madeof', 'relatedto'] human ['relatedto'] talk
+woman ['relatedto'] boy ['relatedto'] human ['relatedto'] talk
+woman ['relatedto'] boy ['relatedto'] deliver ['mannerof'] talk
+woman ['relatedto'] boy ['relatedto'] jaw ['relatedto'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['relatedto'] human ['relatedto'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['distinctfrom'] friend ['capableof'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['derivedfrom'] girl_talk ['derivedfrom'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['relatedto'] teenaged ['relatedto'] talk
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['relatedto'] wench ['relatedto'] talk
+woman ['relatedto'] long ['relatedto'] shout ['mannerof', 'relatedto'] talk
+woman ['relatedto'] long ['relatedto'] speech ['relatedto'] talk
+woman ['relatedto'] long ['relatedto'] swallow ['mannerof', 'hasprerequisite'] talk
+woman ['relatedto'] long ['relatedto'] tongue ['relatedto'] talk
+woman ['isa', 'relatedto'] broad ['relatedto'] describe ['relatedto'] talk
+woman ['isa', 'relatedto'] broad ['relatedto'] slang ['relatedto'] talk
+woman ['relatedto'] cow ['relatedto'] black ['relatedto'] talk
+woman ['relatedto'] cow ['atlocation'] movie ['relatedto'] talk
+woman ['relatedto'] cow ['relatedto'] making ['relatedto'] talk
+woman ['relatedto'] cow ['relatedto'] say ['motivatedbygoal', 'relatedto'] talk
+woman ['relatedto'] cow ['relatedto'] saying ['relatedto'] talk
+woman ['relatedto'] cow ['relatedto'] utter ['synonym'] talk

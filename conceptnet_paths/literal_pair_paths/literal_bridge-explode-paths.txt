@@ -1,0 +1,100 @@
+bridge ['relatedto'] string ['relatedto'] explode
+bridge ['isa'] rest ['mannerof'] blow ['relatedto', 'synonym'] explode
+bridge ['isa'] rest ['motivatedbygoal'] release_energy ['haslastsubevent'] explode
+bridge ['relatedto'] remove ['mannerof'] string ['relatedto'] explode
+bridge ['relatedto'] remove ['mannerof'] unstring ['synonym'] explode
+bridge ['relatedto'] remove ['relatedto'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bridge ['relatedto'] remove ['relatedto'] mine ['capableof', 'usedfor'] explode
+bridge ['atlocation'] air ['isa', 'relatedto', 'synonym'] gas ['capableof'] explode
+bridge ['atlocation'] air ['relatedto'] blow ['relatedto', 'synonym'] explode
+bridge ['atlocation'] air ['relatedto'] fly ['synonym'] explode
+bridge ['relatedto'] land ['antonym', 'haslastsubevent'] fly ['synonym'] explode
+bridge ['relatedto'] land ['relatedto'] land_mine ['relatedto'] explode
+bridge ['relatedto', 'atlocation'] water ['relatedto'] candlebomb ['relatedto'] explode
+bridge ['relatedto'] atom ['atlocation'] string ['relatedto'] explode
+bridge ['relatedto'] atom ['relatedto'] bombs ['capableof'] explode
+bridge ['relatedto'] atom ['relatedto'] nuclear_fusion ['relatedto'] explode
+bridge ['partof'] guitar ['usedfor', 'relatedto', 'atlocation'] string ['relatedto'] explode
+bridge ['atlocation'] bat ['capableof'] fly ['synonym'] explode
+bridge ['atlocation'] bat ['relatedto'] blow ['relatedto', 'synonym'] explode
+bridge ['atlocation'] fish ['isa', 'relatedto'] torpedo ['capableof'] explode
+bridge ['atlocation'] fish ['relatedto'] fizgig ['relatedto'] explode
+bridge ['relatedto'] sky ['usedfor', 'relatedto', 'atlocation'] fly ['synonym'] explode
+bridge ['relatedto'] sky ['relatedto', 'atlocation'] star ['capableof'] explode
+bridge ['relatedto'] sky ['isa'] gas ['capableof'] explode
+bridge ['hasa', 'relatedto'] ship ['relatedto'] mine ['capableof', 'usedfor'] explode
+bridge ['hasa', 'relatedto'] ship ['relatedto'] torpedo ['capableof'] explode
+bridge ['relatedto'] break ['mannerof'] change_integrity ['mannerof'] explode
+bridge ['relatedto'] break ['mannerof'] change_state ['mannerof'] explode
+bridge ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bridge ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] burst ['synonym'] explode
+bridge ['relatedto'] break ['relatedto'] violently ['relatedto'] explode
+bridge ['relatedto'] break ['synonym'] erupt ['mannerof'] explode
+bridge ['relatedto'] construct ['antonym'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bridge ['atlocation'] mouth ['relatedto'] blow ['relatedto', 'synonym'] explode
+bridge ['relatedto', 'atlocation'] cars ['relatedto'] gas ['capableof'] explode
+bridge ['relatedto', 'atlocation'] road ['relatedto'] mine ['capableof', 'usedfor'] explode
+bridge ['atlocation'] rock ['atlocation'] mine ['capableof', 'usedfor'] explode
+bridge ['atlocation'] rock ['relatedto'] emotional ['relatedto'] explode
+bridge ['derivedfrom'] flybridge ['derivedfrom'] fly ['synonym'] explode
+bridge ['isa', 'relatedto'] structure ['etymologicallyrelatedto'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bridge ['isa'] support ['relatedto'] emotional ['relatedto'] explode
+bridge ['isa', 'partof'] contract ['antonym'] increase ['mannerof'] explode
+bridge ['isa', 'relatedto'] overpass ['relatedto'] fly ['synonym'] explode
+bridge ['partof'] cello ['usedfor', 'partof'] string ['relatedto'] explode
+bridge ['partof'] stringed_instrument ['relatedto', 'synonym'] string ['relatedto'] explode
+bridge ['partof'] nose ['relatedto'] blow ['relatedto', 'synonym'] explode
+bridge ['partof'] slam ['relatedto'] blow ['relatedto', 'synonym'] explode
+bridge ['relatedto'] burn ['mannerof'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bridge ['relatedto'] burn ['mannerof'] change_integrity ['mannerof'] explode
+bridge ['relatedto'] burn ['mannerof'] change_state ['mannerof'] explode
+bridge ['relatedto'] burn ['relatedto'] detonize ['relatedto'] explode
+bridge ['relatedto'] driving ['relatedto'] violent ['relatedto'] explode
+bridge ['relatedto'] high ['distinctfrom'] blow ['relatedto', 'synonym'] explode
+bridge ['relatedto'] high ['relatedto'] fly ['synonym'] explode
+bridge ['relatedto'] high ['relatedto'] gas ['capableof'] explode
+bridge ['relatedto'] high ['synonym'] violent ['relatedto'] explode
+bridge ['relatedto'] metal ['relatedto', 'atlocation'] mine ['capableof', 'usedfor'] explode
+bridge ['relatedto'] metal ['relatedto'] percussion_cap ['relatedto'] explode
+bridge ['relatedto'] pass ['relatedto'] pronounce ['mannerof'] explode
+bridge ['relatedto'] passage ['relatedto'] mine ['capableof', 'usedfor'] explode
+bridge ['relatedto'] point ['relatedto'] star ['capableof'] explode
+bridge ['relatedto'] walk ['antonym'] fly ['synonym'] explode
+bridge ['relatedto'] walking ['relatedto'] fly ['synonym'] explode
+bridge ['relatedto'] england ['relatedto'] star ['capableof'] explode
+bridge ['relatedto'] village ['isa', 'instanceof'] burst ['synonym'] explode
+bridge ['relatedto'] chain ['synonym'] string ['relatedto'] explode
+bridge ['relatedto'] device ['relatedto'] mine ['capableof', 'usedfor'] explode
+bridge ['relatedto'] device ['relatedto'] letter_bomb ['relatedto'] explode
+bridge ['relatedto'] divide ['mannerof'] change_integrity ['mannerof'] explode
+bridge ['relatedto'] edge ['relatedto'] fly ['synonym'] explode
+bridge ['relatedto'] feature ['relatedto'] star ['capableof'] explode
+bridge ['relatedto'] line ['relatedto'] fly ['synonym'] explode
+bridge ['relatedto'] line ['relatedto'] string ['relatedto'] explode
+bridge ['relatedto'] natural ['relatedto'] gas ['capableof'] explode
+bridge ['relatedto'] string ['relatedto'] unstring ['synonym'] explode
+bridge ['relatedto'] bunny ['relatedto'] blow ['relatedto', 'synonym'] explode
+bridge ['relatedto'] diborane ['isa', 'relatedto'] gas ['capableof'] explode
+bridge ['relatedto'] diborane ['relatedto'] explosive ['relatedto'] explode
+bridge ['relatedto'] electric_sitar ['relatedto'] string ['relatedto'] explode
+bridge ['relatedto'] monochord ['relatedto'] string ['relatedto'] explode
+bridge ['relatedto'] whammy_bar ['relatedto'] string ['relatedto'] explode
+bridge ['relatedto'] wing ['usedfor', 'relatedto', 'synonym'] fly ['synonym'] explode
+bridge ['mannerof'] join ['antonym', 'relatedto'] break ['mannerof'] change_integrity ['mannerof'] explode
+bridge ['mannerof'] join ['antonym', 'relatedto'] break ['mannerof'] change_state ['mannerof'] explode
+bridge ['mannerof'] join ['antonym', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bridge ['mannerof'] join ['antonym', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] burst ['synonym'] explode
+bridge ['mannerof'] join ['antonym', 'relatedto'] break ['relatedto'] violently ['relatedto'] explode
+bridge ['mannerof'] join ['antonym', 'relatedto'] break ['synonym'] erupt ['mannerof'] explode
+bridge ['mannerof'] join ['antonym'] cut ['antonym'] increase ['mannerof'] explode
+bridge ['mannerof'] join ['antonym'] cut ['mannerof'] blast ['relatedto'] explode
+bridge ['mannerof'] join ['antonym', 'distinctfrom', 'relatedto'] apart ['relatedto'] destroy ['mannerof', 'relatedto', 'hasprerequisite'] explode
+bridge ['mannerof'] join ['antonym'] leave ['relatedto'] blow ['relatedto', 'synonym'] explode
+bridge ['mannerof'] join ['antonym', 'relatedto'] part ['relatedto'] exploded_view ['relatedto'] explode
+bridge ['mannerof'] join ['antonym'] separate ['derivedfrom'] separator ['relatedto'] explode
+bridge ['mannerof'] join ['antonym'] separate ['mannerof'] change_integrity ['mannerof'] explode
+bridge ['mannerof'] join ['antonym'] split ['isa'] increase ['mannerof'] explode
+bridge ['mannerof'] join ['antonym'] split ['relatedto'] unstring ['synonym'] explode
+bridge ['mannerof'] join ['antonym'] split ['similarto', 'synonym'] burst ['synonym'] explode
+bridge ['mannerof'] join ['mannerof'] close ['mannerof'] change_state ['mannerof'] explode
+bridge ['mannerof'] join ['relatedto', 'synonym'] add ['mannerof', 'relatedto'] increase ['mannerof'] explode

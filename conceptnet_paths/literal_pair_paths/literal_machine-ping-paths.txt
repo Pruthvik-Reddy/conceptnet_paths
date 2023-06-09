@@ -1,0 +1,100 @@
+machine ['relatedto'] speaker ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['antonym'] human ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] bell ['isa'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] bell ['relatedto'] beep ['relatedto'] ping
+machine ['relatedto'] bell ['relatedto'] bing ['relatedto'] ping
+machine ['isa', 'relatedto', 'synonym'] car ['relatedto'] beep ['relatedto'] ping
+machine ['usedfor'] entertain ['mannerof'] host ['relatedto'] ping
+machine ['relatedto'] cow ['partof'] poll ['relatedto'] ping
+machine ['relatedto'] term ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] bolster ['relatedto'] reach ['mannerof'] ping
+machine ['relatedto'] moving ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['isa', 'relatedto', 'hasproperty'] computer ['relatedto'] email ['relatedto'] ping
+machine ['usedfor'] vote ['mannerof', 'relatedto'] poll ['relatedto'] ping
+machine ['relatedto'] generator ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] energy ['isa', 'relatedto'] sound ['isa', 'mannerof'] ping
+machine ['usedfor'] fly ['isa', 'mannerof'] hit ['mannerof'] ping
+machine ['relatedto'] making ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] movement ['relatedto'] flick ['relatedto'] ping
+machine ['relatedto'] movement ['relatedto'] reach ['mannerof'] ping
+machine ['relatedto'] movement ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] header ['isa'] hit ['mannerof'] ping
+machine ['relatedto'] general ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] generic ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['usedfor'] kill ['mannerof'] hit ['mannerof'] ping
+machine ['usedfor'] broadcast ['relatedto'] email ['relatedto'] ping
+machine ['isa', 'distinctfrom', 'relatedto'] device ['relatedto'] ip_address ['relatedto'] ping
+machine ['isa', 'relatedto'] clock ['relatedto'] hit ['mannerof'] ping
+machine ['isa', 'synonym'] organization ['isa'] host ['relatedto'] ping
+machine ['isa', 'usedfor'] phone ['relatedto', 'synonym'] sound ['isa', 'mannerof'] ping
+machine ['isa', 'relatedto'] scale ['mannerof'] reach ['mannerof'] ping
+machine ['relatedto'] belt ['mannerof', 'relatedto'] hit ['mannerof'] ping
+machine ['relatedto'] brain ['mannerof'] hit ['mannerof'] ping
+machine ['relatedto'] death_throe ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] flipper ['relatedto'] bounce ['relatedto'] ping
+machine ['relatedto'] kinetophone ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] general_term ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] makes ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] microphonograph ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] moderator ['relatedto'] host ['relatedto'] ping
+machine ['relatedto'] musical_instrument ['usedfor', 'relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] plan ['hasprerequisite'] host ['relatedto'] ping
+machine ['relatedto'] run ['relatedto'] host ['relatedto'] ping
+machine ['relatedto'] run ['relatedto'] reach ['mannerof'] ping
+machine ['relatedto'] run ['relatedto'] bing ['relatedto'] ping
+machine ['relatedto'] sequencer ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] trumpet ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['usedfor'] measure ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['usedfor'] stretch ['relatedto', 'synonym'] reach ['mannerof'] ping
+machine ['usedfor'] survey ['mannerof', 'relatedto', 'similarto'] poll ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto', 'atlocation'] tweeter ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto', 'derivedfrom'] speak ['mannerof', 'relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['formof', 'relatedto'] speakers ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['isa'] product ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['isa', 'relatedto'] subwoofer ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto', 'partof'] stereo ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] beeper ['relatedto'] beep ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] broadcast ['relatedto'] email ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] feedback ['relatedto'] bounce ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] fire_alarm ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] flip ['relatedto', 'synonym'] flick ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] mouth ['relatedto', 'atlocation'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] phone ['relatedto', 'synonym'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] quadraphony ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] sound ['isa', 'relatedto'] beep ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] sound ['mannerof'] pink ['synonym'] ping
+machine ['relatedto'] speaker ['relatedto'] sound ['relatedto'] peep ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] audio ['relatedto', 'synonym'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] box ['mannerof'] hit ['mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] device ['relatedto'] ip_address ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] hearing ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] hearing_music ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] loud ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] music ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] music ['relatedto'] bounce ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] nice ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] noise ['isa', 'relatedto', 'hasproperty', 'synonym'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] noise ['relatedto'] pink ['synonym'] ping
+machine ['relatedto'] speaker ['relatedto'] noisy ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] player ['relatedto'] pong ['etymologicallyrelatedto', 'relatedto'] ping
+machine ['relatedto'] speaker ['relatedto'] radio ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] stereos ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] talking ['causes', 'relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] book ['isa'] host ['relatedto'] ping
+machine ['relatedto'] speaker ['relatedto', 'synonym'] loudspeaker ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] utterance ['hasa'] sound ['isa', 'mannerof'] ping
+machine ['relatedto'] speaker ['relatedto'] utterance ['relatedto'] peep ['relatedto'] ping
+machine ['antonym'] human ['relatedto'] child ['relatedto'] reach ['mannerof'] ping
+machine ['antonym'] human ['relatedto'] adult ['isa'] host ['relatedto'] ping
+machine ['antonym'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] heartbeat ['relatedto'] ping
+machine ['antonym'] human ['antonym'] bird ['relatedto'] peep ['relatedto'] ping
+machine ['antonym'] human ['antonym'] bird ['relatedto'] sound ['isa', 'mannerof'] ping
+machine ['antonym'] human ['relatedto', 'atlocation'] arm ['relatedto'] reach ['mannerof'] ping
+machine ['antonym'] human ['atlocation'] heart ['relatedto'] heartbeat ['relatedto'] ping
+machine ['antonym'] human ['atlocation'] agony ['relatedto', 'synonym'] pang ['etymologicallyrelatedto'] ping
+machine ['antonym'] human ['atlocation'] bar ['relatedto'] hit ['mannerof'] ping
+machine ['antonym'] human ['atlocation'] bar ['relatedto'] host ['relatedto'] ping
+machine ['antonym'] human ['atlocation'] country ['isa'] thailand ['partof'] ping
+machine ['antonym'] human ['atlocation'] distress ['synonym'] pang ['etymologicallyrelatedto'] ping
+machine ['antonym'] human ['atlocation'] jeep ['relatedto'] peep ['relatedto'] ping
+machine ['antonym'] human ['atlocation'] motion ['isa', 'relatedto'] reach ['mannerof'] ping

@@ -1,0 +1,100 @@
+crowd ['relatedto', 'synonym'] push
+crowd ['relatedto', 'derivedfrom'] crowder ['relatedto'] push
+crowd ['mannerof', 'relatedto'] throng ['relatedto'] push
+crowd ['relatedto', 'similarto', 'synonym'] audience ['relatedto'] push
+crowd ['relatedto'] jam ['mannerof'] push
+crowd ['relatedto'] pushed ['formof', 'relatedto'] push
+crowd ['relatedto'] drive ['mannerof', 'relatedto'] push
+crowd ['relatedto'] forward ['relatedto'] push
+crowd ['relatedto'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+crowd ['relatedto'] shove ['isa', 'mannerof', 'relatedto'] push
+crowd ['relatedto'] urge ['mannerof'] push
+crowd ['relatedto'] dring ['relatedto'] push
+crowd ['relatedto'] jostle ['mannerof', 'relatedto'] push
+crowd ['relatedto'] thring ['relatedto'] push
+crowd ['relatedto'] thrutch ['relatedto'] push
+crowd ['relatedto'] accident ['relatedto'] force ['isa', 'relatedto', 'synonym'] push
+crowd ['relatedto'] smaller ['relatedto'] compression ['relatedto'] push
+crowd ['relatedto'] smaller ['relatedto'] roll ['relatedto'] push
+crowd ['relatedto'] advance ['relatedto', 'synonym', 'entails'] approach ['mannerof', 'relatedto', 'synonym'] push
+crowd ['relatedto'] advance ['mannerof', 'relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+crowd ['relatedto'] advance ['mannerof'] travel ['mannerof'] push
+crowd ['relatedto'] advance ['mannerof'] nose ['mannerof', 'relatedto'] push
+crowd ['relatedto'] advance ['relatedto'] forward ['relatedto'] push
+crowd ['relatedto'] advance ['relatedto'] maneuver ['relatedto'] push
+crowd ['relatedto'] advance ['relatedto'] movement ['relatedto'] push
+crowd ['relatedto'] advance ['relatedto'] moving ['relatedto'] push
+crowd ['relatedto'] advance ['relatedto', 'synonym'] progress ['isa'] push
+crowd ['relatedto'] advance ['relatedto', 'synonym'] promote ['relatedto'] push
+crowd ['relatedto'] advance ['relatedto', 'synonym'] raise ['antonym'] push
+crowd ['relatedto'] advance ['relatedto'] drive ['mannerof', 'relatedto'] push
+crowd ['relatedto'] advance ['relatedto'] preferment ['relatedto'] push
+crowd ['relatedto'] advance ['relatedto'] thrust ['mannerof', 'relatedto', 'synonym'] push
+crowd ['relatedto'] advance ['synonym'] boost ['isa', 'relatedto'] push
+crowd ['relatedto'] human ['atlocation'] motion ['relatedto'] push
+crowd ['relatedto'] human ['relatedto'] audience ['relatedto'] push
+crowd ['relatedto'] human ['relatedto'] blow ['relatedto'] push
+crowd ['relatedto'] human ['relatedto'] energy ['synonym'] push
+crowd ['relatedto'] human ['relatedto'] nose ['mannerof', 'relatedto'] push
+crowd ['relatedto'] human ['relatedto'] touch ['relatedto'] push
+crowd ['relatedto'] number ['relatedto'] dial ['relatedto'] push
+crowd ['antonym'] alone ['antonym'] someone ['relatedto'] push
+crowd ['antonym', 'relatedto'] company ['relatedto'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+crowd ['antonym', 'relatedto'] company ['relatedto'] sticker ['relatedto'] push
+crowd ['antonym'] empty ['relatedto'] cant ['relatedto'] push
+crowd ['antonym', 'relatedto'] group ['relatedto'] audience ['relatedto'] push
+crowd ['antonym', 'relatedto'] group ['relatedto'] bundle ['relatedto'] push
+crowd ['antonym', 'relatedto'] group ['relatedto'] ring ['relatedto'] push
+crowd ['antonym', 'relatedto'] group ['relatedto'] throng ['relatedto'] push
+crowd ['antonym'] nobody ['distinctfrom'] someone ['relatedto'] push
+crowd ['antonym', 'relatedto'] small ['relatedto'] away ['relatedto'] push
+crowd ['antonym', 'relatedto'] small ['antonym'] great ['relatedto'] push
+crowd ['antonym', 'relatedto'] small ['relatedto'] button ['relatedto'] push
+crowd ['antonym', 'relatedto'] small ['relatedto'] nose ['mannerof', 'relatedto'] push
+crowd ['antonym', 'relatedto'] small ['relatedto'] ring ['relatedto'] push
+crowd ['antonym', 'relatedto'] small ['relatedto'] roll ['relatedto'] push
+crowd ['antonym', 'relatedto'] small ['relatedto'] tack ['relatedto'] push
+crowd ['antonym', 'relatedto'] small ['relatedto'] thimble ['relatedto'] push
+crowd ['antonym', 'relatedto'] two ['relatedto'] fight ['relatedto'] push
+crowd ['antonym', 'relatedto'] two ['relatedto'] nose ['mannerof', 'relatedto'] push
+crowd ['atlocation'] auditorium ['relatedto', 'atlocation'] audience ['relatedto'] push
+crowd ['atlocation'] sporting_event ['atlocation'] audience ['relatedto'] push
+crowd ['relatedto', 'atlocation'] noise ['relatedto'] ring ['relatedto'] push
+crowd ['formof'] crwth ['relatedto', 'derivedfrom'] crowder ['relatedto'] push
+crowd ['formof', 'relatedto'] crowds ['relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+crowd ['isa'] army ['relatedto'] force ['isa', 'relatedto', 'synonym'] push
+crowd ['isa', 'relatedto'] gathering ['isa'] audience ['relatedto'] push
+crowd ['isa', 'relatedto'] crush ['relatedto'] action ['relatedto'] push
+crowd ['isa', 'relatedto'] crush ['relatedto'] someone ['relatedto'] push
+crowd ['isa', 'relatedto'] crush ['isa', 'relatedto'] compression ['relatedto'] push
+crowd ['isa', 'relatedto'] crush ['relatedto', 'synonym'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+crowd ['isa', 'relatedto'] crush ['synonym'] jam ['mannerof'] push
+crowd ['isa', 'relatedto'] crush ['relatedto'] smush ['relatedto'] push
+crowd ['isa'] drove ['relatedto'] action ['relatedto'] push
+crowd ['isa'] drove ['formof', 'etymologicallyrelatedto', 'relatedto'] drive ['mannerof', 'relatedto'] push
+crowd ['isa', 'relatedto'] mob ['synonym'] throng ['relatedto'] push
+crowd ['isa'] troop ['relatedto'] formation ['relatedto'] push
+crowd ['mannerof'] meet ['relatedto'] gore ['relatedto'] push
+crowd ['mannerof'] meet ['relatedto', 'synonym'] touch ['relatedto'] push
+crowd ['mannerof', 'relatedto', 'synonym'] herd ['synonym'] drive ['mannerof', 'relatedto'] push
+crowd ['mannerof', 'relatedto', 'synonym'] herd ['mannerof'] move ['mannerof', 'relatedto', 'entails'] push
+crowd ['mannerof', 'relatedto', 'synonym'] herd ['relatedto'] herd_together ['relatedto'] push
+crowd ['mannerof', 'relatedto'] mass ['isa', 'relatedto'] force ['isa', 'relatedto', 'synonym'] push
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] pull ['antonym', 'relatedto'] push
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] drive ['mannerof', 'relatedto'] push
+crowd ['mannerof', 'relatedto'] mass ['antonym', 'distinctfrom', 'relatedto'] energy ['synonym'] push
+crowd ['mannerof', 'relatedto'] mass ['hasa'] objects ['relatedto'] push
+crowd ['mannerof', 'relatedto'] mass ['mannerof'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] heavy ['relatedto'] push
+crowd ['mannerof', 'relatedto'] mass ['relatedto'] smush ['relatedto'] push
+crowd ['mannerof'] pour ['relatedto'] action ['relatedto'] push
+crowd ['mannerof'] pour ['mannerof', 'relatedto'] move ['mannerof', 'relatedto', 'entails'] push
+crowd ['mannerof'] pour ['relatedto'] movement ['relatedto'] push
+crowd ['mannerof'] pour ['relatedto'] throng ['relatedto'] push
+crowd ['mannerof', 'relatedto'] throng ['relatedto'] press ['relatedto', 'synonym', 'entails', 'isa', 'mannerof'] push
+crowd ['mannerof', 'relatedto'] throng ['synonym'] jam ['mannerof'] push
+crowd ['mannerof', 'relatedto'] throng ['relatedto'] dring ['relatedto'] push
+crowd ['mannerof', 'relatedto'] throng ['relatedto'] thring ['relatedto'] push
+crowd ['mannerof', 'relatedto'] throng ['relatedto'] thrutch ['relatedto'] push
+crowd ['relatedto'] bar ['relatedto'] formation ['relatedto'] push
+crowd ['relatedto'] bar ['relatedto'] stave ['relatedto'] push

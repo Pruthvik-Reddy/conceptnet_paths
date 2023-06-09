@@ -1,0 +1,100 @@
+plant ['mannerof', 'relatedto', 'partof'] root
+plant ['relatedto'] underground ['relatedto'] root
+plant ['capableof', 'relatedto', 'synonym'] grow ['mannerof', 'relatedto'] root
+plant ['relatedto'] water ['relatedto'] root
+plant ['antonym', 'isa', 'mannerof', 'relatedto'] tree ['relatedto', 'atlocation'] root
+plant ['isa'] asafoetida ['relatedto'] root
+plant ['isa'] calamus ['isa'] root
+plant ['isa', 'relatedto'] cassava ['isa', 'relatedto'] root
+plant ['isa'] elecampane ['relatedto'] root
+plant ['isa'] flowering_plant ['partof'] root
+plant ['isa'] ginseng ['isa', 'relatedto'] root
+plant ['isa'] horseradish ['isa'] root
+plant ['isa', 'relatedto'] inula ['relatedto'] root
+plant ['isa'] parsnip ['isa'] root
+plant ['isa', 'partof'] potato ['isa'] root
+plant ['isa'] rhubarb ['relatedto'] root
+plant ['relatedto', 'partof'] stem ['relatedto', 'synonym'] root
+plant ['relatedto'] alkanet ['relatedto'] root
+plant ['relatedto'] arbuscle ['relatedto'] root
+plant ['relatedto'] asarabacca ['relatedto'] root
+plant ['relatedto'] bareroot ['derivedfrom'] root
+plant ['relatedto'] beechdrops ['relatedto'] root
+plant ['relatedto'] branch ['antonym', 'relatedto'] root
+plant ['relatedto'] breadroot ['relatedto'] root
+plant ['relatedto'] broom_rape ['relatedto'] root
+plant ['relatedto'] broomrape ['relatedto'] root
+plant ['relatedto'] calumba ['relatedto'] root
+plant ['relatedto'] cammock ['relatedto'] root
+plant ['relatedto'] cancer_root ['relatedto'] root
+plant ['relatedto'] caudex ['relatedto'] root
+plant ['relatedto'] chicory ['isa'] root
+plant ['relatedto'] chresard ['relatedto'] root
+plant ['relatedto'] contrayerva ['relatedto'] root
+plant ['relatedto'] convolvulin ['relatedto'] root
+plant ['relatedto'] cowish ['relatedto'] root
+plant ['relatedto'] crinkleroot ['derivedfrom'] root
+plant ['relatedto'] derris ['relatedto'] root
+plant ['relatedto'] diageotropism ['relatedto'] root
+plant ['relatedto'] echinacea ['relatedto'] root
+plant ['relatedto'] edaphophyte ['relatedto'] root
+plant ['relatedto'] emergent ['relatedto'] root
+plant ['relatedto'] feverroot ['derivedfrom'] root
+plant ['relatedto'] floralturbation ['relatedto'] root
+plant ['relatedto'] ginger ['isa', 'relatedto'] root
+plant ['relatedto'] haustorium ['relatedto'] root
+plant ['relatedto'] herb ['relatedto'] root
+plant ['relatedto'] hypocotyl ['relatedto'] root
+plant ['relatedto'] intraradical ['relatedto'] root
+plant ['relatedto'] inulin ['relatedto'] root
+plant ['relatedto'] karree ['relatedto'] root
+plant ['relatedto'] leghemoglobin ['relatedto'] root
+plant ['relatedto'] melluco ['relatedto'] root
+plant ['relatedto'] muskroot ['relatedto'] root
+plant ['relatedto'] mycorrhiza ['relatedto'] root
+plant ['relatedto'] panama_disease ['relatedto'] root
+plant ['relatedto'] pericycle ['relatedto'] root
+plant ['relatedto'] peucedanin ['relatedto'] root
+plant ['relatedto'] phytodepuration ['relatedto'] root
+plant ['relatedto'] dig ['relatedto'] root
+plant ['relatedto'] form ['isa'] root
+plant ['relatedto'] roots ['formof', 'relatedto'] root
+plant ['relatedto'] soil ['relatedto'] root
+plant ['relatedto'] vegetative ['relatedto'] root
+plant ['relatedto'] power ['relatedto'] root
+plant ['relatedto'] prehaustorium ['relatedto'] root
+plant ['relatedto'] radicate ['relatedto', 'synonym'] root
+plant ['relatedto'] radication ['relatedto'] root
+plant ['relatedto'] radicivorous ['relatedto'] root
+plant ['relatedto'] radish ['isa', 'etymologicallyrelatedto', 'relatedto'] root
+plant ['relatedto'] redroot ['relatedto'] root
+plant ['relatedto'] relbun ['relatedto'] root
+plant ['relatedto'] rhatany ['relatedto'] root
+plant ['relatedto'] rhizodeposition ['relatedto'] root
+plant ['relatedto'] rhizoid ['relatedto'] root
+plant ['relatedto'] rhizoidal ['relatedto'] root
+plant ['relatedto'] rhizome ['relatedto'] root
+plant ['relatedto'] rhizosphere ['relatedto'] root
+plant ['relatedto'] rhizotaxis ['relatedto'] root
+plant ['relatedto'] rhizotron ['relatedto'] root
+plant ['relatedto'] root_hair ['relatedto', 'partof'] root
+plant ['relatedto'] root_vegetable ['relatedto'] root
+plant ['relatedto'] rootball ['relatedto', 'derivedfrom'] root
+plant ['relatedto'] rootbark ['relatedto'] root
+plant ['relatedto'] rootery ['relatedto'] root
+plant ['relatedto'] roothole ['relatedto'] root
+plant ['relatedto'] rooting ['formof', 'relatedto'] root
+plant ['relatedto'] rootrot ['relatedto'] root
+plant ['relatedto'] rootward ['relatedto', 'derivedfrom'] root
+plant ['relatedto'] rootworm ['relatedto'] root
+plant ['relatedto'] rootzone ['relatedto'] root
+plant ['relatedto'] rotenone ['relatedto'] root
+plant ['relatedto'] sarsaparilla ['relatedto'] root
+plant ['relatedto'] scopoletin ['relatedto'] root
+plant ['relatedto'] skin ['relatedto'] root
+plant ['relatedto'] skirret ['relatedto'] root
+plant ['relatedto'] statolith ['relatedto'] root
+plant ['relatedto'] stele ['relatedto'] root
+plant ['relatedto'] stigmaria ['relatedto'] root
+plant ['relatedto'] tallophyte ['relatedto'] root
+plant ['relatedto'] thallophyte ['relatedto'] root

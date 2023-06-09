@@ -1,0 +1,100 @@
+man ['relatedto'] child ['usedfor'] comfort ['synonym'] revive
+man ['relatedto', 'synonym'] human ['relatedto'] life ['relatedto'] revive
+man ['relatedto', 'synonym'] human ['relatedto'] reborn ['relatedto'] revive
+man ['relatedto'] old ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] alien ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] alive ['relatedto', 'synonym'] life ['relatedto'] revive
+man ['relatedto'] alive ['relatedto'] bring_back ['relatedto'] revive
+man ['relatedto'] alive ['relatedto'] survive ['etymologicallyrelatedto'] revive
+man ['relatedto'] alive ['synonym'] animate ['synonym'] revive
+man ['antonym', 'distinctfrom'] animal ['relatedto'] life ['relatedto'] revive
+man ['antonym', 'distinctfrom'] animal ['relatedto'] animate ['synonym'] revive
+man ['relatedto'] bird ['relatedto'] boom ['mannerof'] revive
+man ['antonym', 'relatedto'] baby ['desires'] comfort ['synonym'] revive
+man ['antonym', 'relatedto'] baby ['relatedto'] reborn ['relatedto'] revive
+man ['antonym', 'relatedto'] farmer ['relatedto'] life ['relatedto'] revive
+man ['antonym'] nature ['hasa', 'relatedto'] life ['relatedto'] revive
+man ['isa'] fireman ['capableof'] resuscitate ['synonym'] revive
+man ['mannerof'] work ['derivedfrom'] dreamwork ['relatedto'] revive
+man ['relatedto'] art ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] bitch ['isa'] life ['relatedto'] revive
+man ['relatedto'] blood ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] blood ['relatedto'] vital ['relatedto'] revive
+man ['relatedto'] board ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] body ['relatedto'] heal ['relatedto'] revive
+man ['relatedto'] break ['antonym'] heal ['relatedto'] revive
+man ['relatedto'] bum ['etymologicallyrelatedto'] boom ['mannerof'] revive
+man ['relatedto'] demand ['relatedto'] rear ['relatedto'] revive
+man ['relatedto'] doctor ['usedfor', 'relatedto'] heal ['relatedto'] revive
+man ['relatedto'] doctor ['capableof'] resuscitate ['synonym'] revive
+man ['relatedto'] doll ['relatedto'] rear ['relatedto'] revive
+man ['relatedto'] doll ['relatedto'] reborn ['relatedto'] revive
+man ['relatedto'] eye ['relatedto'] vital ['relatedto'] revive
+man ['relatedto'] gender ['relatedto'] animate ['synonym'] revive
+man ['relatedto'] ginger ['relatedto'] enliven ['relatedto'] revive
+man ['relatedto'] ginger ['relatedto'] vitality ['relatedto'] revive
+man ['relatedto'] god ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] good ['relatedto'] comfort ['synonym'] revive
+man ['relatedto'] good ['hasproperty'] life ['relatedto'] revive
+man ['relatedto'] health ['relatedto', 'derivedfrom'] heal ['relatedto'] revive
+man ['relatedto'] health ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] health ['relatedto'] vitality ['relatedto'] revive
+man ['relatedto'] jurat ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] fish ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] form ['mannerof'] regenerate ['mannerof'] revive
+man ['relatedto'] form ['relatedto'] return ['relatedto'] revive
+man ['relatedto'] house ['usedfor'] comfort ['synonym'] revive
+man ['relatedto'] living ['causes', 'relatedto', 'synonym', 'usedfor'] life ['relatedto'] revive
+man ['relatedto'] living ['relatedto'] vitality ['relatedto'] revive
+man ['relatedto'] sentient ['synonym'] animate ['synonym'] revive
+man ['relatedto'] marry ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] press ['relatedto'] boom ['mannerof'] revive
+man ['relatedto'] purusha ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] road ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] statue ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] wallet ['relatedto'] rear ['relatedto'] revive
+man ['synonym'] world ['hasa', 'synonym'] life ['relatedto'] revive
+man ['relatedto'] establishment ['relatedto'] establish ['synonym'] rear ['relatedto'] revive
+man ['relatedto'] establishment ['relatedto'] fixed ['antonym'] animate ['synonym'] revive
+man ['relatedto'] establishment ['relatedto'] fixed ['relatedto'] heal ['relatedto'] revive
+man ['relatedto'] establishment ['relatedto'] force ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] establishment ['relatedto'] state ['relatedto'] comfort ['synonym'] revive
+man ['relatedto'] establishment ['relatedto'] state ['relatedto', 'synonym'] life ['relatedto'] revive
+man ['relatedto'] establishment ['relatedto'] state ['relatedto'] restore ['relatedto'] revive
+man ['relatedto'] establishment ['relatedto'] rest ['motivatedbygoal'] regenerate ['mannerof'] revive
+man ['relatedto'] establishment ['relatedto'] rest ['relatedto'] recover ['relatedto'] revive
+man ['relatedto'] establishment ['relatedto'] school ['isa'] life ['relatedto'] revive
+man ['relatedto'] presence ['isa', 'relatedto'] spirit ['relatedto'] animate ['synonym'] revive
+man ['relatedto'] presence ['isa', 'relatedto'] spirit ['mannerof', 'relatedto'] enliven ['relatedto'] revive
+man ['relatedto'] presence ['isa', 'relatedto'] spirit ['relatedto'] cordial ['relatedto'] revive
+man ['relatedto'] presence ['relatedto'] appearance ['relatedto'] animate ['synonym'] revive
+man ['relatedto'] presence ['relatedto'] desert ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] presence ['relatedto'] desert ['relatedto'] survive ['etymologicallyrelatedto'] revive
+man ['relatedto'] presence ['relatedto'] exist ['relatedto', 'synonym'] survive ['etymologicallyrelatedto'] revive
+man ['relatedto'] presence ['relatedto'] heaven ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] presence ['relatedto'] meeting ['relatedto'] revival ['relatedto'] revive
+man ['relatedto'] presence ['relatedto'] state ['relatedto'] comfort ['synonym'] revive
+man ['relatedto'] presence ['relatedto'] state ['relatedto', 'synonym'] life ['relatedto'] revive
+man ['relatedto'] presence ['relatedto'] state ['relatedto'] restore ['relatedto'] revive
+man ['relatedto'] presence ['relatedto'] condition ['isa'] comfort ['synonym'] revive
+man ['relatedto'] presence ['relatedto'] condition ['relatedto'] restore ['relatedto'] revive
+man ['relatedto'] presence ['relatedto'] part ['relatedto'] heal ['relatedto'] revive
+man ['relatedto'] presence ['relatedto'] quality ['relatedto'] animate ['synonym'] revive
+man ['relatedto'] presence ['relatedto'] quality ['relatedto'] comfort ['synonym'] revive
+man ['relatedto'] presence ['synonym'] front ['antonym', 'distinctfrom', 'relatedto'] rear ['relatedto'] revive
+man ['relatedto'] child ['createdby'] birth ['relatedto', 'partof'] life ['relatedto'] revive
+man ['relatedto'] child ['antonym', 'distinctfrom', 'relatedto', 'hasa', 'isa'] parent ['relatedto', 'synonym'] rear ['relatedto'] revive
+man ['relatedto'] child ['relatedto', 'atlocation'] school ['isa'] life ['relatedto'] revive
+man ['relatedto'] child ['capableof'] pain ['antonym', 'distinctfrom'] comfort ['synonym'] revive
+man ['relatedto'] child ['capableof'] pain ['partof'] life ['relatedto'] revive
+man ['relatedto'] child ['causes'] reproducing ['hasprerequisite'] life ['relatedto'] revive
+man ['relatedto'] child ['desires'] candy ['relatedto'] cordial ['relatedto'] revive
+man ['relatedto'] child ['desires'] love ['partof', 'derivedfrom'] life ['relatedto'] revive
+man ['relatedto'] child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['desires'] comfort ['synonym'] revive
+man ['relatedto'] child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto'] reborn ['relatedto'] revive
+man ['relatedto'] child ['isa'] animal ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] child ['isa'] animal ['relatedto'] animate ['synonym'] revive
+man ['relatedto'] child ['relatedto'] access ['mannerof'] recover ['relatedto'] revive
+man ['relatedto'] child ['relatedto'] ball ['relatedto'] return ['relatedto'] revive
+man ['relatedto'] child ['relatedto'] born ['relatedto'] life ['relatedto'] revive
+man ['relatedto'] child ['relatedto'] age ['relatedto', 'partof'] life ['relatedto'] revive

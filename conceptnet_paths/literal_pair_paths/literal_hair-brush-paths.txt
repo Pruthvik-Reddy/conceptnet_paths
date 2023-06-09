@@ -1,0 +1,100 @@
+hair ['relatedto', 'atlocation'] brush
+hair ['relatedto', 'derivedfrom'] hairy ['relatedto'] brush
+hair ['relatedto'] tail ['isa', 'relatedto', 'synonym'] brush
+hair ['usedfor', 'atlocation'] comb ['relatedto'] brush
+hair ['relatedto', 'atlocation'] hair_brush ['relatedto'] brush
+hair ['relatedto', 'derivedfrom', 'atlocation'] hairbrush ['isa', 'relatedto', 'derivedfrom'] brush
+hair ['hasprerequisite'] grooming ['relatedto', 'hasprerequisite'] brush
+hair ['isa', 'relatedto'] bristle ['relatedto', 'partof'] brush
+hair ['isa', 'relatedto'] filament ['relatedto'] brush
+hair ['usedfor', 'relatedto'] combing ['relatedto'] brush
+hair ['relatedto'] detangler ['relatedto'] brush
+hair ['relatedto'] dustbrush ['relatedto'] brush
+hair ['relatedto'] grainer ['relatedto'] brush
+hair ['relatedto'] groomer ['relatedto'] brush
+hair ['relatedto'] scopate ['relatedto'] brush
+hair ['relatedto'] scopiferous ['relatedto'] brush
+hair ['relatedto'] tip ['relatedto'] brush
+hair ['relatedto'] tuft ['relatedto'] brush
+hair ['relatedto'] whisk ['relatedto'] brush
+hair ['usedfor'] brushing ['formof', 'relatedto', 'synonym'] brush
+hair ['relatedto', 'partof'] human ['etymologicallyrelatedto'] groom ['hasfirstsubevent'] brush
+hair ['relatedto', 'partof'] human ['relatedto'] toilet_brush ['isa'] brush
+hair ['relatedto', 'partof'] human ['relatedto'] touch ['isa', 'mannerof', 'relatedto'] brush
+hair ['atlocation'] arm ['relatedto'] reach ['relatedto'] brush
+hair ['relatedto'] back ['antonym', 'relatedto'] cover ['mannerof'] brush
+hair ['relatedto'] back ['antonym'] reach ['relatedto'] brush
+hair ['relatedto'] back ['relatedto', 'atlocation'] tail ['isa', 'relatedto', 'synonym'] brush
+hair ['relatedto'] back ['relatedto'] hairy ['relatedto'] brush
+hair ['relatedto'] back ['relatedto'] back_scrubber ['relatedto'] brush
+hair ['relatedto'] back ['relatedto'] rub ['mannerof'] brush
+hair ['relatedto'] main ['relatedto'] lead ['relatedto'] brush
+hair ['relatedto'] bald ['antonym'] hairy ['relatedto'] brush
+hair ['relatedto'] faxed ['relatedto'] hairy ['relatedto'] brush
+hair ['relatedto'] bear ['entails'] move ['mannerof'] brush
+hair ['relatedto'] bear ['relatedto'] furry ['relatedto'] brush
+hair ['relatedto'] bear ['relatedto'] hairy ['relatedto'] brush
+hair ['relatedto'] beauty ['causes'] grooming ['relatedto', 'hasprerequisite'] brush
+hair ['relatedto'] beauty ['causes'] painting ['usedfor', 'relatedto', 'hasprerequisite'] brush
+hair ['atlocation'] bed ['relatedto'] cover ['mannerof'] brush
+hair ['atlocation'] bed ['relatedto'] tool ['relatedto'] brush
+hair ['atlocation'] bed ['relatedto'] utensil ['relatedto'] brush
+hair ['atlocation'] food ['distinctfrom'] paste ['relatedto'] brush
+hair ['atlocation'] food ['isa'] shrimp_toast ['relatedto'] brush
+hair ['relatedto'] body ['relatedto'] cover ['mannerof'] brush
+hair ['relatedto'] body ['relatedto'] convex ['relatedto'] brush
+hair ['relatedto'] body ['usedfor', 'relatedto'] move ['mannerof'] brush
+hair ['relatedto'] body ['relatedto'] tail ['isa', 'relatedto', 'synonym'] brush
+hair ['relatedto'] body ['relatedto'] touch ['isa', 'mannerof', 'relatedto'] brush
+hair ['relatedto', 'partof', 'atlocation'] head ['mannerof', 'relatedto'] remove ['mannerof', 'relatedto'] brush
+hair ['relatedto', 'partof', 'atlocation'] head ['antonym', 'relatedto'] tail ['isa', 'relatedto', 'synonym'] brush
+hair ['relatedto', 'partof', 'atlocation'] head ['antonym'] rub ['mannerof'] brush
+hair ['relatedto', 'partof', 'atlocation'] head ['relatedto'] kabuki_brush ['relatedto'] brush
+hair ['relatedto', 'partof', 'atlocation'] head ['relatedto'] stroke ['relatedto'] brush
+hair ['relatedto', 'partof', 'atlocation'] head ['synonym'] lead ['relatedto'] brush
+hair ['relatedto', 'atlocation'] skin ['relatedto'] cover ['mannerof'] brush
+hair ['relatedto', 'atlocation'] skin ['relatedto'] grainer ['relatedto'] brush
+hair ['relatedto', 'atlocation'] skin ['relatedto'] rub ['mannerof'] brush
+hair ['relatedto', 'atlocation'] skin ['relatedto'] video_game ['relatedto'] brush
+hair ['relatedto', 'atlocation'] skin ['relatedto'] touch ['isa', 'mannerof', 'relatedto'] brush
+hair ['relatedto'] bottle ['relatedto'] bottlebrush ['isa', 'relatedto'] brush
+hair ['relatedto'] boy ['relatedto'] paint ['antonym', 'usedfor', 'relatedto'] brush
+hair ['relatedto'] hold ['relatedto'] action ['synonym'] brush
+hair ['relatedto'] hold ['synonym'] apply ['relatedto'] brush
+hair ['relatedto'] hold ['mannerof'] cover ['mannerof'] brush
+hair ['relatedto'] hold ['relatedto', 'synonym'] handle ['partof'] brush
+hair ['relatedto'] hold ['relatedto'] move ['mannerof'] brush
+hair ['relatedto'] hold ['relatedto'] touch ['isa', 'mannerof', 'relatedto'] brush
+hair ['relatedto'] hold ['relatedto'] reach ['relatedto'] brush
+hair ['hasproperty'] thin ['relatedto'] remove ['mannerof', 'relatedto'] brush
+hair ['hasproperty'] thin ['relatedto'] drum ['relatedto'] brush
+hair ['hasproperty'] thin ['relatedto'] bottlebrush ['isa', 'relatedto'] brush
+hair ['hasproperty'] thin ['relatedto'] card ['relatedto'] brush
+hair ['hasproperty'] thin ['relatedto'] lead ['relatedto'] brush
+hair ['relatedto'] cast ['relatedto'] remove ['mannerof', 'relatedto'] brush
+hair ['relatedto'] cast ['relatedto'] lead ['relatedto'] brush
+hair ['hasa'] cat ['relatedto'] apply ['relatedto'] brush
+hair ['hasa'] cat ['atlocation'] fight ['isa'] brush
+hair ['hasa'] cat ['relatedto', 'partof'] tail ['isa', 'relatedto', 'synonym'] brush
+hair ['hasa'] cat ['relatedto'] furry ['relatedto'] brush
+hair ['madeof', 'relatedto'] dog ['relatedto'] fox ['relatedto'] brush
+hair ['madeof', 'relatedto'] dog ['relatedto'] furry ['relatedto'] brush
+hair ['madeof', 'relatedto'] dog ['relatedto'] hairy ['relatedto'] brush
+hair ['madeof', 'relatedto'] dog ['relatedto'] tail ['isa', 'relatedto', 'synonym'] brush
+hair ['madeof', 'relatedto'] dog ['relatedto'] stroke ['relatedto'] brush
+hair ['relatedto'] permanent ['relatedto'] pen ['relatedto'] brush
+hair ['relatedto'] fair ['synonym'] clean ['mannerof', 'relatedto'] brush
+hair ['hasproperty'] dirty ['antonym', 'distinctfrom', 'motivatedbygoal', 'relatedto'] clean ['mannerof', 'relatedto'] brush
+hair ['hasproperty'] dirty ['relatedto'] scrub ['relatedto'] brush
+hair ['usedfor'] warmth ['relatedto'] cover ['mannerof'] brush
+hair ['relatedto'] condition ['relatedto'] clean ['mannerof', 'relatedto'] brush
+hair ['relatedto'] condition ['relatedto'] stroke ['relatedto'] brush
+hair ['usedfor', 'relatedto', 'atlocation'] shampoo ['isa'] hair_care ['isa'] brush
+hair ['relatedto'] silk ['relatedto'] nihonga ['relatedto'] brush
+hair ['relatedto'] silk ['relatedto'] touch ['isa', 'mannerof', 'relatedto'] brush
+hair ['relatedto'] wool ['relatedto'] cover ['mannerof'] brush
+hair ['relatedto'] wool ['relatedto'] card ['relatedto'] brush
+hair ['relatedto'] wool ['relatedto'] hand_card ['relatedto'] brush
+hair ['relatedto'] wool ['relatedto'] furry ['relatedto'] brush
+hair ['relatedto'] wool ['relatedto'] hairy ['relatedto'] brush
+hair ['relatedto'] wool ['relatedto'] tool ['relatedto'] brush

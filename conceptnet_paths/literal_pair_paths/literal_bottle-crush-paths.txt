@@ -1,0 +1,100 @@
+bottle ['atlocation'] beverage ['isa'] crush
+bottle ['relatedto', 'atlocation'] wine ['relatedto'] crush
+bottle ['relatedto'] soda ['relatedto'] crush
+bottle ['atlocation'] water ['relatedto', 'atlocation'] soda ['relatedto'] crush
+bottle ['atlocation'] water ['isa', 'relatedto'] beverage ['isa'] crush
+bottle ['atlocation'] water ['relatedto'] mortar ['relatedto'] crush
+bottle ['atlocation'] water ['relatedto'] schlich ['relatedto'] crush
+bottle ['atlocation'] water ['relatedto'] wine ['relatedto'] crush
+bottle ['relatedto'] house ['relatedto'] party ['relatedto'] crush
+bottle ['relatedto'] top ['relatedto', 'synonym'] beat ['synonym'] crush
+bottle ['atlocation'] beverage ['isa'] fanta ['relatedto'] crush
+bottle ['atlocation'] beverage ['isa', 'relatedto'] soda ['relatedto'] crush
+bottle ['atlocation'] beverage ['isa', 'relatedto'] wine ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] beer ['isa', 'relatedto'] beverage ['isa'] crush
+bottle ['relatedto', 'atlocation'] beer ['antonym', 'distinctfrom', 'relatedto'] wine ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] beer ['relatedto'] party ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] drink ['relatedto'] action ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] drink ['relatedto', 'synonym'] beverage ['isa'] crush
+bottle ['relatedto', 'atlocation'] drink ['usedfor', 'mannerof', 'relatedto'] wine ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] drink ['isa', 'relatedto'] soda ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] drink ['relatedto'] party ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] drink ['relatedto'] squeeze ['relatedto'] crush
+bottle ['atlocation'] liquor_store ['relatedto'] beverage ['isa'] crush
+bottle ['atlocation'] liquor_store ['atlocation'] wine ['relatedto'] crush
+bottle ['atlocation'] drug ['relatedto'] action ['relatedto'] crush
+bottle ['atlocation'] drug ['relatedto'] party ['relatedto'] crush
+bottle ['atlocation'] drug ['isa'] crack ['relatedto'] crush
+bottle ['atlocation'] glue ['antonym'] break ['mannerof', 'relatedto'] crush
+bottle ['atlocation'] glue ['relatedto'] mortar ['relatedto'] crush
+bottle ['atlocation'] hair_conditioner ['relatedto', 'derivedfrom'] conditioner ['relatedto'] crush
+bottle ['atlocation'] milk ['isa', 'relatedto'] beverage ['isa'] crush
+bottle ['atlocation'] milk ['antonym'] soda ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] pill ['isa'] burden ['relatedto'] crush
+bottle ['atlocation'] shampoo ['relatedto'] conditioner ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] wine ['isa', 'relatedto'] beverage ['isa'] crush
+bottle ['relatedto', 'atlocation'] wine ['relatedto'] crushed ['formof', 'relatedto'] crush
+bottle ['relatedto', 'atlocation'] wine ['relatedto'] fancy ['relatedto'] crush
+bottle ['relatedto', 'atlocation'] wine ['relatedto'] party ['relatedto'] crush
+bottle ['relatedto', 'derivedfrom'] bottle_deposit ['relatedto'] beverage ['isa'] crush
+bottle ['etymologicallyrelatedto'] build ['relatedto'] action ['relatedto'] crush
+bottle ['etymologicallyrelatedto'] build ['antonym'] break ['mannerof', 'relatedto'] crush
+bottle ['etymologicallyrelatedto'] build ['antonym'] ruin ['relatedto'] crush
+bottle ['etymologicallyrelatedto'] build ['relatedto'] mortar ['relatedto'] crush
+bottle ['formof', 'relatedto'] bottles ['relatedto'] wine ['relatedto'] crush
+bottle ['hasa', 'relatedto'] liquid ['isa', 'relatedto'] beverage ['isa'] crush
+bottle ['hasa', 'relatedto'] liquid ['relatedto'] wine ['relatedto'] crush
+bottle ['hasa', 'relatedto'] liquid ['isa'] mash ['relatedto'] crush
+bottle ['hasa', 'relatedto'] liquid ['relatedto'] puree ['relatedto'] crush
+bottle ['relatedto', 'hasprerequisite'] drinking ['usedfor', 'relatedto'] beverage ['isa'] crush
+bottle ['relatedto', 'hasprerequisite'] drinking ['usedfor', 'relatedto'] wine ['relatedto'] crush
+bottle ['relatedto', 'hasprerequisite'] drinking ['relatedto'] party ['relatedto'] crush
+bottle ['isa', 'relatedto'] vessel ['isa', 'relatedto'] mortar ['relatedto'] crush
+bottle ['isa', 'relatedto'] carafe ['relatedto'] beverage ['isa'] crush
+bottle ['isa', 'relatedto'] carafe ['relatedto'] wine ['relatedto'] crush
+bottle ['isa', 'relatedto'] cruet ['relatedto'] wine ['relatedto'] crush
+bottle ['isa', 'relatedto', 'synonym'] flask ['relatedto'] beverage ['isa'] crush
+bottle ['isa', 'relatedto', 'synonym'] flask ['usedfor'] wine ['relatedto'] crush
+bottle ['isa'] gourd ['relatedto'] squash ['relatedto', 'synonym'] crush
+bottle ['isa'] split ['relatedto', 'synonym'] break ['mannerof', 'relatedto'] crush
+bottle ['isa'] split ['isa', 'relatedto'] crack ['relatedto'] crush
+bottle ['isa'] split ['relatedto'] kittee ['relatedto'] crush
+bottle ['isa'] wine_bottle ['relatedto', 'derivedfrom'] wine ['relatedto'] crush
+bottle ['mannerof'] put ['relatedto'] action ['relatedto'] crush
+bottle ['mannerof'] put ['antonym'] break ['mannerof', 'relatedto'] crush
+bottle ['mannerof'] put ['antonym'] smash ['relatedto', 'synonym'] crush
+bottle ['mannerof'] put ['relatedto'] press ['relatedto', 'synonym'] crush
+bottle ['mannerof'] put ['relatedto'] squeeze ['relatedto'] crush
+bottle ['partof'] mouth ['relatedto'] chew ['relatedto'] crush
+bottle ['partof'] mouth ['relatedto'] party ['relatedto'] crush
+bottle ['partof'] mouth ['usedfor'] mastication ['relatedto'] crush
+bottle ['relatedto'] amphora ['relatedto'] wine ['relatedto'] crush
+bottle ['relatedto'] aphrometer ['relatedto'] pressure ['relatedto'] crush
+bottle ['relatedto'] backhander ['relatedto'] wine ['relatedto'] crush
+bottle ['relatedto'] balthazar ['relatedto'] wine ['relatedto'] crush
+bottle ['relatedto'] bologna_bottle ['relatedto'] shatter ['relatedto'] crush
+bottle ['relatedto'] borachio ['relatedto'] wine ['relatedto'] crush
+bottle ['relatedto'] bars ['relatedto'] cage ['relatedto'] crush
+bottle ['relatedto'] bars ['relatedto'] pressure ['relatedto'] crush
+bottle ['relatedto'] coke ['isa', 'relatedto'] beverage ['isa'] crush
+bottle ['relatedto'] coke ['isa', 'relatedto', 'synonym'] soda ['relatedto'] crush
+bottle ['relatedto'] cup ['relatedto'] wine ['relatedto'] crush
+bottle ['relatedto'] drinks ['relatedto'] break ['mannerof', 'relatedto'] crush
+bottle ['relatedto'] drinks ['relatedto'] party ['relatedto'] crush
+bottle ['relatedto'] glass ['relatedto'] beverage ['isa'] crush
+bottle ['relatedto'] glass ['relatedto'] wine ['relatedto'] crush
+bottle ['relatedto'] glass ['relatedto'] break ['mannerof', 'relatedto'] crush
+bottle ['relatedto'] glass ['relatedto'] shatter ['relatedto'] crush
+bottle ['relatedto'] glass ['relatedto'] soda ['relatedto'] crush
+bottle ['relatedto'] glass ['relatedto'] smash ['relatedto', 'synonym'] crush
+bottle ['relatedto'] holder ['relatedto'] cage ['relatedto'] crush
+bottle ['relatedto'] holds ['relatedto'] cage ['relatedto'] crush
+bottle ['relatedto'] ketchup ['relatedto'] fancy ['relatedto'] crush
+bottle ['relatedto'] soda ['isa', 'relatedto'] beverage ['isa'] crush
+bottle ['relatedto'] soda ['relatedto'] pressure ['relatedto'] crush
+bottle ['relatedto'] alcohol ['isa', 'relatedto'] beverage ['isa'] crush
+bottle ['relatedto'] alcohol ['isa', 'hasa', 'relatedto', 'atlocation'] wine ['relatedto'] crush
+bottle ['relatedto'] alcohol ['relatedto'] party ['relatedto'] crush
+bottle ['relatedto'] alcohol ['relatedto'] mash ['relatedto'] crush
+bottle ['relatedto'] flagon ['relatedto'] wine ['relatedto'] crush
+bottle ['relatedto'] jar ['relatedto', 'atlocation'] jam ['synonym'] crush

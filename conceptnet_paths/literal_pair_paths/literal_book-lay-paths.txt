@@ -1,0 +1,100 @@
+book ['causesdesire'] sleep ['relatedto'] lay
+book ['isa', 'relatedto'] reader ['relatedto'] lay
+book ['atlocation'] bed ['relatedto'] lay
+book ['atlocation'] poem ['relatedto'] lay
+book ['hasa'] past ['relatedto'] lay
+book ['isa'] job ['relatedto'] lay
+book ['isa'] stand ['antonym'] lay
+book ['relatedto'] type ['relatedto'] lay
+book ['relatedto'] charge ['relatedto'] lay
+book ['relatedto'] bet ['relatedto'] lay
+book ['relatedto'] case ['relatedto'] lay
+book ['synonym'] engage ['mannerof'] move ['antonym'] lay
+book ['synonym'] engage ['relatedto'] employ ['antonym'] lay
+book ['isa'] underground ['atlocation'] potato ['relatedto'] lay
+book ['isa'] underground ['relatedto'] spawn ['mannerof'] lay
+book ['relatedto'] speaker ['relatedto'] type ['relatedto'] lay
+book ['relatedto'] adventure ['relatedto'] action ['relatedto'] lay
+book ['relatedto'] adventure ['antonym'] lazy ['etymologicallyrelatedto'] lay
+book ['relatedto'] adventure ['relatedto'] go ['relatedto'] lay
+book ['relatedto'] adventure ['relatedto'] risk ['relatedto'] lay
+book ['relatedto'] adventure ['relatedto'] type ['relatedto'] lay
+book ['relatedto'] adventure ['relatedto'] stake ['relatedto'] lay
+book ['relatedto'] agony ['relatedto'] egg ['relatedto'] lay
+book ['isa'] fire ['antonym'] employ ['antonym'] lay
+book ['relatedto'] sometimes ['relatedto'] bed ['relatedto'] lay
+book ['relatedto'] sometimes ['relatedto'] case ['relatedto'] lay
+book ['relatedto'] sometimes ['relatedto'] lie ['formof', 'causes', 'relatedto'] lay
+book ['isa'] plant ['synonym'] establish ['relatedto'] lay
+book ['isa'] plant ['relatedto'] action ['relatedto'] lay
+book ['isa'] plant ['isa', 'partof'] potato ['relatedto'] lay
+book ['isa'] plant ['mannerof', 'relatedto'] bed ['relatedto'] lay
+book ['isa'] plant ['mannerof', 'relatedto'] put ['mannerof', 'relatedto', 'synonym'] lay
+book ['isa'] plant ['relatedto'] bury ['mannerof'] lay
+book ['isa'] plant ['relatedto'] form ['relatedto'] lay
+book ['isa'] plant ['relatedto'] substrate ['relatedto'] lay
+book ['isa'] plant ['relatedto'] sleep ['relatedto'] lay
+book ['isa'] plant ['relatedto'] spawn ['mannerof'] lay
+book ['relatedto'] social ['relatedto'] law ['etymologicallyrelatedto', 'relatedto'] lay
+book ['relatedto'] social ['relatedto'] obligation ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] rest ['relatedto', 'synonym'] lay
+book ['atlocation'] house ['relatedto', 'atlocation'] bed ['relatedto'] lay
+book ['atlocation'] house ['atlocation'] carpet ['relatedto'] lay
+book ['atlocation'] house ['atlocation'] tables ['relatedto'] lay
+book ['atlocation'] house ['isa'] play ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] brick ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] chick ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] chicken ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] coffin ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] egg ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] type ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] repose ['relatedto', 'synonym'] lay
+book ['atlocation'] house ['relatedto'] move ['antonym'] lay
+book ['atlocation'] house ['relatedto'] nest ['relatedto'] lay
+book ['atlocation'] house ['relatedto'] plan ['relatedto'] lay
+book ['isa'] fall ['relatedto'] action ['relatedto'] lay
+book ['isa'] fall ['antonym'] arise ['antonym'] lay
+book ['isa'] fall ['antonym', 'distinctfrom', 'relatedto'] rise ['antonym'] lay
+book ['isa'] fall ['antonym'] stand ['antonym'] lay
+book ['isa'] fall ['antonym'] standing ['distinctfrom'] lay
+book ['isa'] fall ['antonym', 'synonym'] hang ['antonym'] lay
+book ['isa'] fall ['relatedto'] blow ['mannerof'] lay
+book ['isa'] fall ['relatedto'] go ['relatedto'] lay
+book ['isa'] fall ['relatedto'] motion ['relatedto'] lay
+book ['isa'] fall ['relatedto'] lay_low ['derivedfrom'] lay
+book ['isa'] fall ['relatedto'] subside ['relatedto'] lay
+book ['isa'] fall ['synonym'] rap ['relatedto'] lay
+book ['causesdesire'] sleep ['relatedto'] action ['relatedto'] lay
+book ['causesdesire'] sleep ['distinctfrom', 'relatedto', 'synonym', 'hasprerequisite', 'mannerof', 'motivatedbygoal'] rest ['relatedto', 'synonym'] lay
+book ['causesdesire'] sleep ['antonym'] arise ['antonym'] lay
+book ['causesdesire'] sleep ['relatedto'] go ['relatedto'] lay
+book ['causesdesire'] sleep ['relatedto'] lie ['formof', 'causes', 'relatedto'] lay
+book ['causesdesire'] sleep ['relatedto'] repose ['relatedto', 'synonym'] lay
+book ['causesdesire'] sleep ['antonym', 'usedfor', 'relatedto'] bed ['relatedto'] lay
+book ['causesdesire'] sleep ['causes', 'relatedto', 'hasprerequisite'] resting ['relatedto'] lay
+book ['causesdesire'] sleep ['formof', 'isa', 'relatedto'] sleeping ['relatedto'] lay
+book ['causesdesire'] sleep ['relatedto'] nest ['relatedto'] lay
+book ['causesdesire'] sleep ['relatedto'] lying ['relatedto'] lay
+book ['causesdesire'] sleep ['relatedto'] relaxation ['relatedto'] lay
+book ['relatedto'] arm ['relatedto'] hang ['antonym'] lay
+book ['relatedto'] article ['relatedto'] case ['relatedto'] lay
+book ['relatedto'] audience ['relatedto'] play ['relatedto'] lay
+book ['createdby', 'relatedto'] author ['antonym'] reader ['relatedto'] lay
+book ['createdby', 'relatedto'] author ['relatedto'] job ['relatedto'] lay
+book ['createdby', 'relatedto'] author ['relatedto'] made ['relatedto'] lay
+book ['isa', 'relatedto'] reader ['relatedto', 'synonym'] lector ['relatedto'] lay
+book ['relatedto'] back ['relatedto'] rest ['relatedto', 'synonym'] lay
+book ['relatedto'] back ['mannerof'] lie ['formof', 'causes', 'relatedto'] lay
+book ['relatedto'] back ['isa'] position ['relatedto'] lay
+book ['relatedto'] back ['derivedfrom'] layback ['etymologicallyrelatedto', 'derivedfrom'] lay
+book ['relatedto'] back ['relatedto'] recline ['relatedto'] lay
+book ['relatedto'] plot ['isa'] action ['relatedto'] lay
+book ['relatedto'] plot ['isa'] bed ['relatedto'] lay
+book ['relatedto'] plot ['isa', 'mannerof', 'relatedto'] plan ['relatedto'] lay
+book ['relatedto'] plot ['isa', 'mannerof', 'relatedto', 'synonym'] scheme ['relatedto'] lay
+book ['relatedto'] plot ['relatedto'] design ['relatedto'] lay
+book ['relatedto'] plot ['relatedto'] play ['relatedto'] lay
+book ['relatedto'] plot ['relatedto'] twist ['relatedto'] lay
+book ['relatedto'] square ['relatedto'] go ['relatedto'] lay
+book ['relatedto'] square ['mannerof'] position ['relatedto'] lay
+book ['relatedto'] square ['hasproperty'] tables ['relatedto'] lay

@@ -1,0 +1,100 @@
+grape ['relatedto'] horse ['relatedto'] tread
+grape ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] tread
+grape ['atlocation'] water ['hasa'] surface ['isa'] tread
+grape ['atlocation'] water ['relatedto'] feather ['relatedto'] tread
+grape ['atlocation'] water ['relatedto'] paddle ['relatedto'] tread
+grape ['atlocation'] water ['relatedto'] swim ['relatedto'] tread
+grape ['relatedto'] red ['relatedto'] fire ['relatedto'] tread
+grape ['relatedto'] red ['relatedto'] go ['similarto'] tread
+grape ['relatedto'] red ['relatedto'] run ['relatedto', 'similarto', 'synonym'] tread
+grape ['relatedto'] one ['relatedto'] foot ['relatedto'] tread
+grape ['relatedto'] one ['relatedto'] run ['relatedto', 'similarto', 'synonym'] tread
+grape ['relatedto'] one ['relatedto'] step ['similarto', 'relatedto', 'partof', 'synonym'] tread
+grape ['relatedto'] leg ['hasa', 'relatedto', 'partof'] foot ['relatedto'] tread
+grape ['relatedto'] leg ['relatedto'] horse ['relatedto'] tread
+grape ['relatedto'] leg ['relatedto'] walk ['mannerof', 'relatedto', 'similarto'] tread
+grape ['relatedto'] leg ['relatedto'] run ['relatedto', 'similarto', 'synonym'] tread
+grape ['relatedto'] leg ['relatedto'] shoe ['relatedto'] tread
+grape ['atlocation'] art ['relatedto', 'atlocation'] horse ['relatedto'] tread
+grape ['atlocation'] art ['relatedto'] path ['relatedto', 'synonym'] tread
+grape ['atlocation'] plate ['derivedfrom'] treadplate ['derivedfrom'] tread
+grape ['atlocation'] plate ['isa'] structural_member ['isa'] tread
+grape ['atlocation'] plate ['relatedto'] surface ['isa'] tread
+grape ['atlocation'] plate ['relatedto'] foot ['relatedto'] tread
+grape ['atlocation'] plate ['relatedto'] run ['relatedto', 'similarto', 'synonym'] tread
+grape ['atlocation'] food ['relatedto'] fire ['relatedto'] tread
+grape ['atlocation'] food ['atlocation'] truck ['relatedto'] tread
+grape ['atlocation'] food ['relatedto'] beat ['entails'] tread
+grape ['relatedto'] small ['relatedto'] bird ['relatedto'] tread
+grape ['relatedto'] small ['relatedto'] foot ['relatedto'] tread
+grape ['relatedto'] small ['relatedto'] shoe ['relatedto'] tread
+grape ['relatedto'] small ['relatedto'] step ['similarto', 'relatedto', 'partof', 'synonym'] tread
+grape ['relatedto'] small ['relatedto'] way ['relatedto', 'synonym'] tread
+grape ['relatedto'] black ['relatedto'] horse ['relatedto'] tread
+grape ['relatedto'] black ['relatedto'] tire ['relatedto'] tread
+grape ['relatedto', 'hasproperty'] green ['relatedto'] go ['similarto'] tread
+grape ['relatedto'] blush ['relatedto'] go ['similarto'] tread
+grape ['relatedto'] skin ['isa', 'relatedto'] surface ['isa'] tread
+grape ['relatedto'] skin ['relatedto'] bruise ['relatedto'] tread
+grape ['relatedto'] skin ['relatedto'] foot ['relatedto'] tread
+grape ['isa'] cardinal ['isa', 'relatedto'] bird ['relatedto'] tread
+grape ['atlocation'] farm ['relatedto'] horse ['relatedto'] tread
+grape ['relatedto'] contain ['antonym'] go ['similarto'] tread
+grape ['relatedto'] horse ['relatedto'] feather ['relatedto'] tread
+grape ['relatedto'] horse ['relatedto'] run ['relatedto', 'similarto', 'synonym'] tread
+grape ['relatedto'] horse ['relatedto'] track ['etymologicallyrelatedto', 'relatedto', 'synonym'] tread
+grape ['relatedto'] horse ['relatedto'] copulate ['mannerof', 'relatedto'] tread
+grape ['relatedto'] horse ['relatedto'] pace ['similarto', 'synonym'] tread
+grape ['relatedto'] horse ['relatedto'] shoe ['relatedto'] tread
+grape ['relatedto'] horse ['similarto'] foot ['relatedto'] tread
+grape ['relatedto'] pick ['antonym'] give ['mannerof'] tread
+grape ['relatedto'] pick ['synonym'] foot ['relatedto'] tread
+grape ['relatedto'] round ['relatedto'] go ['similarto'] tread
+grape ['relatedto'] round ['isa'] path ['relatedto', 'synonym'] tread
+grape ['relatedto'] round ['relatedto'] tire ['relatedto'] tread
+grape ['relatedto'] round ['synonym'] beat ['entails'] tread
+grape ['atlocation'] painting ['atlocation'] horse ['relatedto'] tread
+grape ['atlocation'] painting ['usedfor'] surface ['isa'] tread
+grape ['relatedto'] eye ['relatedto'] contact ['isa'] tread
+grape ['atlocation'] season ['relatedto'] copulate ['mannerof', 'relatedto'] tread
+grape ['atlocation'] field ['relatedto'] horse ['relatedto'] tread
+grape ['atlocation'] field ['relatedto'] surface ['isa'] tread
+grape ['atlocation'] field ['relatedto'] track ['etymologicallyrelatedto', 'relatedto', 'synonym'] tread
+grape ['relatedto'] fruit ['relatedto'] bruise ['relatedto'] tread
+grape ['relatedto'] fruit ['isa'] squash ['mannerof'] tread
+grape ['atlocation'] garden ['atlocation'] bird ['relatedto'] tread
+grape ['atlocation'] garden ['relatedto'] truck ['relatedto'] tread
+grape ['atlocation'] garden ['relatedto'] path ['relatedto', 'synonym'] tread
+grape ['atlocation'] garden ['relatedto'] squash ['mannerof'] tread
+grape ['relatedto'] generic ['relatedto'] bird ['relatedto'] tread
+grape ['relatedto'] generic ['relatedto'] male ['relatedto'] tread
+grape ['atlocation'] fridge ['relatedto'] male ['relatedto'] tread
+grape ['atlocation'] bowl ['relatedto'] pace ['similarto', 'synonym'] tread
+grape ['atlocation'] press ['relatedto', 'synonym', 'entails'] compress ['similarto'] tread
+grape ['atlocation'] press ['isa'] clamp ['relatedto'] tread
+grape ['atlocation'] press ['mannerof', 'relatedto'] squash ['mannerof'] tread
+grape ['atlocation'] restaurant ['relatedto'] go ['similarto'] tread
+grape ['atlocation'] canada ['atlocation'] horse ['relatedto'] tread
+grape ['atlocation'] michigan ['atlocation'] horse ['relatedto'] tread
+grape ['atlocation'] minnesota ['atlocation'] horse ['relatedto'] tread
+grape ['isa'] phoenix ['relatedto'] bird ['relatedto'] tread
+grape ['atlocation'] belly ['relatedto'] surface ['isa'] tread
+grape ['relatedto'] dime ['relatedto'] contact ['isa'] tread
+grape ['isa'] living_thing ['relatedto'] bird ['relatedto'] tread
+grape ['isa'] living_thing ['isa'] male ['relatedto'] tread
+grape ['etymologicallyrelatedto'] cramp ['isa', 'relatedto'] clamp ['relatedto'] tread
+grape ['isa'] berry ['relatedto'] beat ['entails'] tread
+grape ['isa'] tangible_thing ['isa'] structural_member ['isa'] tread
+grape ['isa', 'relatedto'] vine ['isa'] squash ['mannerof'] tread
+grape ['relatedto'] chapeau ['relatedto'] surface ['isa'] tread
+grape ['relatedto'] purplish ['relatedto'] bruise ['relatedto'] tread
+grape ['relatedto'] substance ['relatedto'] fire ['relatedto'] tread
+grape ['relatedto'] texture ['relatedto'] surface ['isa'] tread
+grape ['atlocation'] lunch ['atlocation'] desk ['atlocation'] foot ['relatedto'] tread
+grape ['atlocation'] lunch ['atlocation'] desk ['relatedto'] surface ['isa'] tread
+grape ['atlocation'] lunch ['atlocation'] school ['relatedto'] go ['similarto'] tread
+grape ['atlocation'] lunch ['atlocation'] school ['atlocation'] staircase ['partof'] tread
+grape ['atlocation'] lunch ['atlocation'] school ['atlocation'] track ['etymologicallyrelatedto', 'relatedto', 'synonym'] tread
+grape ['atlocation'] lunch ['atlocation'] school ['mannerof'] swim ['relatedto'] tread
+grape ['atlocation'] lunch ['relatedto', 'derivedfrom'] lunchbox ['relatedto'] go ['similarto'] tread
+grape ['atlocation'] lunch ['mannerof', 'relatedto'] feed ['relatedto', 'synonym'] give ['mannerof'] tread

@@ -1,0 +1,100 @@
+melody ['relatedto'] sing ['synonym'] whistle
+melody ['relatedto', 'synonym'] music ['relatedto'] whistle
+melody ['synonym'] air ['relatedto', 'atlocation'] sound ['isa', 'mannerof'] whistle
+melody ['synonym'] air ['isa', 'instanceof'] manga ['isa', 'instanceof'] whistle
+melody ['synonym'] air ['relatedto'] blow ['relatedto'] whistle
+melody ['relatedto'] post ['mannerof'] call ['relatedto'] whistle
+melody ['relatedto'] post ['relatedto'] travel ['mannerof'] whistle
+melody ['relatedto'] post ['relatedto'] sign ['mannerof'] whistle
+melody ['relatedto'] retrograde ['mannerof'] travel ['mannerof'] whistle
+melody ['relatedto'] head ['relatedto', 'partof', 'atlocation'] mouth ['relatedto'] whistle
+melody ['relatedto'] head ['relatedto'] music ['relatedto'] whistle
+melody ['isa'] magazine ['isa'] manga ['isa', 'instanceof'] whistle
+melody ['relatedto'] harmony ['isa', 'relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] harmony ['relatedto'] sing ['synonym'] whistle
+melody ['relatedto'] harmony ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] fill ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] chord ['relatedto'] instrument ['relatedto'] whistle
+melody ['relatedto'] chord ['relatedto'] music ['relatedto'] whistle
+melody ['usedfor'] note ['relatedto'] small ['relatedto'] whistle
+melody ['usedfor'] note ['relatedto', 'partof'] music ['relatedto'] whistle
+melody ['usedfor'] note ['relatedto'] sign ['mannerof'] whistle
+melody ['relatedto'] sing ['relatedto'] blow ['relatedto'] whistle
+melody ['relatedto'] sing ['causesdesire', 'relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] sing ['relatedto'] sign ['mannerof'] whistle
+melody ['relatedto'] sing ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] harmonize ['mannerof', 'relatedto'] sing ['synonym'] whistle
+melody ['relatedto', 'synonym'] music ['causesdesire', 'relatedto'] sing ['synonym'] whistle
+melody ['relatedto', 'synonym'] music ['antonym', 'distinctfrom', 'relatedto'] noise ['relatedto'] whistle
+melody ['relatedto', 'synonym'] music ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto', 'synonym'] music ['isa'] whistling ['formof', 'relatedto', 'derivedfrom', 'synonym'] whistle
+melody ['relatedto', 'synonym'] music ['usedfor', 'relatedto'] instrument ['relatedto'] whistle
+melody ['relatedto', 'synonym'] music ['relatedto'] noises ['relatedto'] whistle
+melody ['relatedto'] tone ['relatedto'] call ['relatedto'] whistle
+melody ['relatedto'] tone ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] tone ['antonym'] noise ['relatedto'] whistle
+melody ['relatedto'] tone ['isa', 'relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] tone ['relatedto'] instrument ['relatedto'] whistle
+melody ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing ['synonym'] whistle
+melody ['relatedto'] song ['isa', 'madeof', 'relatedto', 'partof'] music ['relatedto'] whistle
+melody ['relatedto'] song ['antonym', 'relatedto'] noise ['relatedto'] whistle
+melody ['relatedto'] song ['isa', 'atlocation'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] theme ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto', 'synonym'] tune ['relatedto'] sing ['synonym'] whistle
+melody ['relatedto', 'synonym'] tune ['isa', 'relatedto'] music ['relatedto'] whistle
+melody ['relatedto', 'derivedfrom'] melodic ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] bagpipes ['usedfor'] music ['relatedto'] whistle
+melody ['relatedto'] bagpipes ['usedfor'] noise ['relatedto'] whistle
+melody ['relatedto'] bagpipes ['relatedto'] wind_instrument ['isa'] whistle
+melody ['isa'] grape ['relatedto'] small ['relatedto'] whistle
+melody ['isa'] grape ['atlocation'] mouth ['relatedto'] whistle
+melody ['usedfor'] harp ['usedfor', 'relatedto'] music ['relatedto'] whistle
+melody ['usedfor'] harp ['isa', 'relatedto'] instrument ['relatedto'] whistle
+melody ['relatedto'] hymn ['mannerof', 'relatedto'] sing ['synonym'] whistle
+melody ['relatedto'] hymn ['relatedto'] music ['relatedto'] whistle
+melody ['atlocation'] jukebox ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto', 'derivedfrom'] melodious ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto', 'derivedfrom'] melodious ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['formof', 'relatedto'] melodies ['relatedto'] music ['relatedto'] whistle
+melody ['isa'] musical_artist ['isa'] tweet ['relatedto'] whistle
+melody ['relatedto'] anaphone ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] anaphone ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] anaphone ['relatedto'] sign ['mannerof'] whistle
+melody ['relatedto'] barcarolle ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] beatmaker ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] canon ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] chanter ['relatedto'] sing ['synonym'] whistle
+melody ['relatedto'] counterpoint ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] countersubject ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] descant ['mannerof'] sing ['synonym'] whistle
+melody ['relatedto'] fugue ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] grupetto ['relatedto'] small ['relatedto'] whistle
+melody ['relatedto'] lead_sheet ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] measure ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] measure ['relatedto'] travel ['mannerof'] whistle
+melody ['relatedto'] measure ['synonym'] instrument ['relatedto'] whistle
+melody ['relatedto'] melodics ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] scale ['relatedto'] small ['relatedto'] whistle
+melody ['relatedto'] scale ['isa', 'relatedto'] instrument ['relatedto'] whistle
+melody ['relatedto'] scale ['relatedto'] device ['isa'] whistle
+melody ['relatedto'] monophony ['isa'] music ['relatedto'] whistle
+melody ['relatedto'] rhythm ['relatedto'] music ['relatedto'] whistle
+melody ['relatedto'] rhythm ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] sonic_logo ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['relatedto'] trope ['relatedto'] music ['relatedto'] whistle
+melody ['synonym'] air ['relatedto'] base ['relatedto'] instrument ['relatedto'] whistle
+melody ['synonym'] air ['relatedto'] nothing ['relatedto'] music ['relatedto'] whistle
+melody ['synonym'] air ['relatedto'] nothing ['relatedto'] noise ['relatedto'] whistle
+melody ['synonym'] air ['relatedto'] nothing ['relatedto'] sound ['isa', 'mannerof'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom'] fire ['relatedto'] device ['isa'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom'] fire ['relatedto'] lanyard ['relatedto'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['atlocation'] dog ['relatedto'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] small ['relatedto'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom'] land ['relatedto'] boatswain_bird ['relatedto'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom', 'relatedto'] vacuum ['antonym'] blow ['relatedto'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom', 'relatedto'] vacuum ['relatedto'] device ['isa'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom', 'relatedto'] water ['atlocation'] mouth ['relatedto'] whistle
+melody ['synonym'] air ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] device ['isa'] whistle
+melody ['synonym'] air ['antonym', 'relatedto', 'atlocation'] smoke ['relatedto'] signal ['isa'] whistle
+melody ['synonym'] air ['antonym', 'relatedto'] space ['relatedto'] move ['mannerof'] whistle
+melody ['synonym'] air ['antonym', 'relatedto'] steam ['relatedto'] small ['relatedto'] whistle

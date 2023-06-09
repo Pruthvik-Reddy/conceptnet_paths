@@ -1,0 +1,100 @@
+pen ['relatedto', 'synonym'] write ['relatedto'] engrave
+pen ['relatedto'] almost ['relatedto'] print ['mannerof'] engrave
+pen ['relatedto'] slash ['relatedto'] character ['mannerof'] engrave
+pen ['definedas'] book ['relatedto'] character ['mannerof'] engrave
+pen ['definedas'] book ['relatedto'] print ['mannerof'] engrave
+pen ['definedas'] book ['relatedto'] write ['relatedto'] engrave
+pen ['atlocation'] box ['relatedto'] mill ['relatedto'] engrave
+pen ['relatedto'] bullet ['relatedto'] shell ['relatedto'] engrave
+pen ['antonym', 'distinctfrom', 'relatedto'] paper ['relatedto', 'atlocation'] print ['mannerof'] engrave
+pen ['antonym', 'distinctfrom', 'relatedto'] paper ['relatedto'] gouge ['synonym'] engrave
+pen ['antonym', 'distinctfrom', 'relatedto'] paper ['relatedto'] palimpsest ['relatedto'] engrave
+pen ['antonym', 'distinctfrom', 'relatedto'] paper ['relatedto'] write ['relatedto'] engrave
+pen ['antonym', 'distinctfrom', 'relatedto'] paper ['relatedto'] plate_paper ['relatedto'] engrave
+pen ['relatedto'] line ['relatedto'] mill ['relatedto'] engrave
+pen ['relatedto'] chicken ['relatedto'] scratch ['synonym'] engrave
+pen ['atlocation'] hotel ['atlocation'] en ['derivedfrom'] engrave
+pen ['derivedfrom'] goose_pen ['relatedto'] write ['relatedto'] engrave
+pen ['derivedfrom'] penlite ['relatedto'] en ['derivedfrom'] engrave
+pen ['hasa', 'relatedto', 'partof'] ink ['relatedto'] print ['mannerof'] engrave
+pen ['usedfor', 'relatedto', 'hasprerequisite'] writing ['relatedto'] character ['mannerof'] engrave
+pen ['usedfor', 'relatedto', 'hasprerequisite'] writing ['antonym', 'distinctfrom', 'relatedto'] print ['mannerof'] engrave
+pen ['usedfor', 'relatedto', 'hasprerequisite'] writing ['relatedto'] scratch ['synonym'] engrave
+pen ['usedfor', 'relatedto', 'hasprerequisite'] writing ['formof', 'relatedto', 'derivedfrom'] write ['relatedto'] engrave
+pen ['isa', 'relatedto'] marker ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+pen ['isa', 'relatedto'] marker ['usedfor'] write ['relatedto'] engrave
+pen ['isa', 'relatedto'] writing_instrument ['usedfor'] write ['relatedto'] engrave
+pen ['isa'] outdoor_location ['isa'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+pen ['isa'] container_product ['isa'] shell ['relatedto'] engrave
+pen ['isa', 'relatedto'] quill ['usedfor', 'relatedto'] write ['relatedto'] engrave
+pen ['relatedto'] cuttlefish_bone ['relatedto'] shell ['relatedto'] engrave
+pen ['relatedto'] draw ['mannerof', 'relatedto'] write ['relatedto'] engrave
+pen ['relatedto'] eraser ['relatedto'] write ['relatedto'] engrave
+pen ['relatedto'] handwritten ['antonym', 'distinctfrom'] print ['mannerof'] engrave
+pen ['relatedto'] ink_eraser ['relatedto'] write ['relatedto'] engrave
+pen ['relatedto'] mark ['synonym'] print ['mannerof'] engrave
+pen ['relatedto'] mark ['relatedto'] etch ['relatedto', 'synonym'] engrave
+pen ['relatedto'] mark ['relatedto', 'synonym'] scratch ['synonym'] engrave
+pen ['relatedto'] mark ['relatedto'] write ['relatedto'] engrave
+pen ['relatedto'] mark ['relatedto'] sundial ['relatedto'] engrave
+pen ['relatedto'] device ['relatedto'] print ['mannerof'] engrave
+pen ['relatedto'] device ['relatedto'] sundial ['relatedto'] engrave
+pen ['relatedto'] instrument ['relatedto'] shell ['relatedto'] engrave
+pen ['relatedto'] pencil ['relatedto'] write ['relatedto'] engrave
+pen ['relatedto'] tool ['relatedto'] engraver ['relatedto'] engrave
+pen ['relatedto'] tool ['relatedto'] gouge ['synonym'] engrave
+pen ['relatedto'] tool ['relatedto'] guilloche ['relatedto'] engrave
+pen ['relatedto'] tool ['relatedto'] guilloché ['relatedto'] engrave
+pen ['relatedto'] tool ['relatedto'] pointrel ['relatedto'] engrave
+pen ['relatedto', 'synonym'] write ['relatedto'] character ['mannerof'] engrave
+pen ['relatedto', 'synonym'] write ['antonym', 'distinctfrom', 'mannerof', 'relatedto'] print ['mannerof'] engrave
+pen ['relatedto', 'synonym'] write ['relatedto'] exarate ['relatedto'] engrave
+pen ['relatedto', 'synonym'] write ['relatedto', 'synonym'] inscribe ['relatedto', 'synonym'] engrave
+pen ['relatedto'] enclose ['derivedfrom'] en ['derivedfrom'] engrave
+pen ['relatedto'] place ['relatedto'] bury ['relatedto'] engrave
+pen ['relatedto'] place ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+pen ['relatedto'] wing ['relatedto'] shell ['relatedto'] engrave
+pen ['relatedto'] plume ['relatedto'] write ['relatedto'] engrave
+pen ['relatedto'] poet ['relatedto'] write ['relatedto'] engrave
+pen ['relatedto'] stylus ['relatedto'] engraving ['formof', 'relatedto'] engrave
+pen ['usedfor'] drawing ['relatedto'] pantograph ['relatedto'] engrave
+pen ['atlocation'] child ['antonym', 'relatedto'] adopt ['synonym'] affect ['mannerof'] engrave
+pen ['atlocation'] child ['antonym', 'distinctfrom', 'relatedto'] adult ['isa'] character ['mannerof'] engrave
+pen ['atlocation'] child ['capableof'] mail_letter ['hasfirstsubevent', 'hasprerequisite'] write ['relatedto'] engrave
+pen ['atlocation'] child ['causes'] reproducing ['relatedto'] print ['mannerof'] engrave
+pen ['atlocation'] child ['desires'] balloon ['relatedto'] shell ['relatedto'] engrave
+pen ['atlocation'] child ['desires'] love ['relatedto'] luckenbooth_brooch ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto', 'hasprerequisite'] play ['relatedto'] character ['mannerof'] engrave
+pen ['atlocation'] child ['isa'] animal ['relatedto'] shell ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] barn ['atlocation'] mill ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] chicken ['relatedto'] scratch ['synonym'] engrave
+pen ['atlocation'] child ['relatedto'] big ['relatedto'] print ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] human ['atlocation'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+pen ['atlocation'] child ['relatedto'] human ['capableof'] write ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] low ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+pen ['atlocation'] child ['relatedto'] member ['relatedto'] character ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] name ['relatedto'] print ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] nice ['relatedto'] print ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] term ['relatedto'] character ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] young_adult ['relatedto'] character ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] caused ['relatedto'] en ['derivedfrom'] engrave
+pen ['atlocation'] child ['relatedto'] data ['derivedfrom'] en ['derivedfrom'] engrave
+pen ['atlocation'] child ['relatedto'] item ['relatedto'] shell ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] one ['relatedto'] en ['derivedfrom'] engrave
+pen ['atlocation'] child ['relatedto'] place ['relatedto'] bury ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] place ['relatedto'] grave ['etymologicallyrelatedto', 'relatedto', 'synonym'] engrave
+pen ['atlocation'] child ['relatedto'] process ['relatedto'] print ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] process ['mannerof'] affect ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] process ['relatedto'] cerotype ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] process ['relatedto'] chemigraphy ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] process ['relatedto'] chemitype ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] process ['relatedto'] gypsography ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] process ['relatedto'] photoetch ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] role ['relatedto', 'synonym'] character ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] chiseler ['relatedto'] carve ['mannerof', 'relatedto', 'synonym'] engrave
+pen ['atlocation'] child ['relatedto'] chocolate ['relatedto'] shell ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] container ['capableof'] en ['derivedfrom'] engrave
+pen ['atlocation'] child ['relatedto'] doll ['relatedto'] character ['mannerof'] engrave
+pen ['atlocation'] child ['relatedto'] egg ['relatedto', 'partof'] shell ['relatedto'] engrave
+pen ['atlocation'] child ['relatedto'] game ['derivedfrom'] en ['derivedfrom'] engrave
+pen ['atlocation'] child ['relatedto'] given_name ['relatedto'] shell ['relatedto'] engrave

@@ -1,0 +1,100 @@
+mechanism ['relatedto'] band ['isa'] jam
+mechanism ['relatedto'] cause ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] fix ['synonym'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] cause ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] crush ['synonym'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] filling ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] interrupt ['mannerof'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] obligation ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] preserve ['distinctfrom', 'relatedto', 'similarto', 'synonym'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] push ['mannerof'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] stick ['relatedto'] jam
+mechanism ['relatedto'] prime ['mannerof'] fix ['synonym'] jam
+mechanism ['relatedto'] prime ['relatedto'] block ['relatedto', 'synonym'] jam
+mechanism ['relatedto'] band ['relatedto', 'derivedfrom'] jam_band ['derivedfrom'] jam
+mechanism ['relatedto'] band ['isa'] pearl_jam ['derivedfrom'] jam
+mechanism ['relatedto'] handle ['relatedto'] stick ['relatedto'] jam
+mechanism ['relatedto'] handle ['relatedto'] pitcher ['relatedto'] jam
+mechanism ['relatedto'] board ['distinctfrom', 'relatedto'] stick ['relatedto'] jam
+mechanism ['usedfor', 'relatedto'] work ['mannerof', 'relatedto'] collaborate ['relatedto'] jam
+mechanism ['usedfor', 'relatedto'] work ['relatedto'] stuck ['relatedto'] jam
+mechanism ['usedfor', 'relatedto'] work ['relatedto'] wad ['synonym'] jam
+mechanism ['usedfor', 'relatedto'] work ['relatedto'] stuff ['mannerof'] jam
+mechanism ['usedfor', 'relatedto'] work ['relatedto'] cause ['relatedto'] jam
+mechanism ['relatedto'] catch ['relatedto'] stick ['relatedto'] jam
+mechanism ['relatedto'] catch ['mannerof', 'relatedto'] spread ['isa'] jam
+mechanism ['relatedto'] slide ['relatedto'] bread ['relatedto'] jam
+mechanism ['relatedto'] slide ['relatedto'] push ['mannerof'] jam
+mechanism ['relatedto'] slide ['relatedto'] project ['relatedto'] jam
+mechanism ['isa', 'relatedto'] drive ['relatedto'] crowd ['relatedto'] jam
+mechanism ['isa', 'relatedto'] drive ['relatedto'] stick ['relatedto'] jam
+mechanism ['isa', 'relatedto'] drive ['relatedto'] cause ['relatedto'] jam
+mechanism ['isa', 'relatedto'] drive ['mannerof', 'relatedto'] push ['mannerof'] jam
+mechanism ['isa', 'relatedto'] drive ['mannerof'] mush ['relatedto'] jam
+mechanism ['usedfor'] function ['relatedto'] block ['relatedto', 'synonym'] jam
+mechanism ['usedfor'] function ['etymologicallyrelatedto', 'relatedto'] malfunction ['mannerof'] jam
+mechanism ['usedfor'] function ['relatedto'] stuck ['relatedto'] jam
+mechanism ['isa'] performance ['relatedto'] song ['relatedto'] jam
+mechanism ['relatedto'] eye ['relatedto'] bowline ['relatedto'] jam
+mechanism ['relatedto'] voice ['relatedto', 'atlocation'] song ['relatedto'] jam
+mechanism ['relatedto'] voice ['relatedto'] pitch ['relatedto'] jam
+mechanism ['relatedto'] filter ['relatedto'] substance ['relatedto'] jam
+mechanism ['relatedto'] movement ['isa'] squeeze ['relatedto'] jam
+mechanism ['relatedto'] movement ['relatedto'] pitch ['relatedto'] jam
+mechanism ['relatedto'] movement ['relatedto'] push ['mannerof'] jam
+mechanism ['usedfor'] help ['relatedto'] song ['relatedto'] jam
+mechanism ['usedfor'] help ['relatedto'] conserve ['isa', 'relatedto', 'synonym'] jam
+mechanism ['relatedto'] natural ['relatedto'] child ['relatedto'] jam
+mechanism ['relatedto'] limb ['isa', 'relatedto'] stick ['relatedto'] jam
+mechanism ['isa'] war ['relatedto', 'atlocation'] guns ['capableof'] jam
+mechanism ['relatedto'] machine ['relatedto'] band ['isa'] jam
+mechanism ['relatedto'] machine ['isa'] refrigerator ['atlocation'] jam
+mechanism ['relatedto'] machine ['isa'] toaster ['relatedto'] jam
+mechanism ['relatedto'] machine ['relatedto'] stuff ['mannerof'] jam
+mechanism ['relatedto'] motion ['relatedto'] push ['mannerof'] jam
+mechanism ['relatedto'] phenomenon ['relatedto'] cause ['relatedto'] jam
+mechanism ['relatedto'] phenomenon ['isa'] luck ['relatedto'] jam
+mechanism ['relatedto'] power ['relatedto'] push ['mannerof'] jam
+mechanism ['isa'] vehicle ['isa', 'relatedto'] substance ['relatedto'] jam
+mechanism ['isa'] barrier ['relatedto'] crush ['synonym'] jam
+mechanism ['isa'] gear ['relatedto'] stuff ['mannerof'] jam
+mechanism ['isa'] gear ['synonym'] pitch ['relatedto'] jam
+mechanism ['relatedto'] mechanic ['relatedto'] fix ['synonym'] jam
+mechanism ['relatedto'] muffin ['relatedto'] cake ['relatedto'] jam
+mechanism ['relatedto'] transmission ['relatedto'] stick ['relatedto'] jam
+mechanism ['relatedto'] controller ['relatedto'] block ['relatedto', 'synonym'] jam
+mechanism ['relatedto'] controller ['relatedto'] financial ['relatedto'] jam
+mechanism ['relatedto'] process ['relatedto'] child ['relatedto'] jam
+mechanism ['relatedto'] process ['relatedto'] interrupt ['mannerof'] jam
+mechanism ['relatedto'] process ['relatedto'] stub ['relatedto'] jam
+mechanism ['relatedto'] dissociation ['relatedto'] substance ['relatedto'] jam
+mechanism ['relatedto'] assembly ['relatedto'] crowd ['relatedto'] jam
+mechanism ['isa'] device ['relatedto'] stick ['relatedto'] jam
+mechanism ['isa'] device ['relatedto'] toaster ['relatedto'] jam
+mechanism ['isa'] device ['relatedto'] project ['relatedto'] jam
+mechanism ['isa'] device ['relatedto'] jammer ['relatedto', 'derivedfrom'] jam
+mechanism ['relatedto'] mechanistic ['relatedto'] cause ['relatedto'] jam
+mechanism ['relatedto'] obturator ['relatedto'] obstruct ['synonym'] jam
+mechanism ['relatedto'] pathogenesis ['relatedto'] cause ['relatedto'] jam
+mechanism ['relatedto'] stereotype ['relatedto'] fix ['synonym'] jam
+mechanism ['relatedto'] stereotype ['relatedto'] block ['relatedto', 'synonym'] jam
+mechanism ['relatedto'] transmit ['relatedto'] spread ['isa'] jam
+mechanism ['relatedto'] transmit ['mannerof'] project ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] join ['relatedto'] fix ['synonym'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] fix ['mannerof'] cram ['relatedto', 'synonym'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] fix ['relatedto'] pitch ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] purpose ['relatedto'] cause ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['relatedto'] purpose ['synonym'] project ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['isa', 'relatedto', 'derivedfrom'] act ['antonym'] band ['isa'] jam
+mechanism ['isa', 'relatedto'] action ['isa', 'relatedto', 'derivedfrom'] act ['mannerof'] interrupt ['mannerof'] jam
+mechanism ['isa', 'relatedto'] action ['isa', 'relatedto', 'derivedfrom'] act ['relatedto'] stuff ['mannerof'] jam
+mechanism ['isa', 'relatedto'] action ['antonym', 'relatedto'] doll ['relatedto'] child ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['antonym', 'relatedto'] doll ['relatedto'] stuff ['mannerof'] jam
+mechanism ['isa', 'relatedto'] action ['capableof'] dress ['mannerof', 'relatedto', 'synonym'] frock ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['causes'] faith ['relatedto'] obligation ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['isa', 'causes', 'synonym'] performing ['isa'] project ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['etymologicallyrelatedto', 'relatedto'] reaction ['relatedto'] substance ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['isa'] event ['relatedto'] crowd ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['isa'] event ['relatedto'] cause ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['isa'] event ['relatedto'] track ['relatedto'] jam
+mechanism ['isa', 'relatedto'] action ['isa'] expression ['relatedto'] song ['relatedto'] jam

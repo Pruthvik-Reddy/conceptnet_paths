@@ -1,0 +1,100 @@
+shoe ['atlocation'] house ['usedfor'] sell
+shoe ['usedfor'] sale ['isa', 'relatedto'] sell
+shoe ['partof'] saddle ['relatedto'] sell
+shoe ['relatedto'] stores ['relatedto'] sell
+shoe ['relatedto'] remove ['mannerof'] clear ['mannerof'] sell
+shoe ['relatedto'] remove ['mannerof'] scalp ['mannerof'] sell
+shoe ['relatedto'] remove ['relatedto', 'synonym'] move ['mannerof'] sell
+shoe ['relatedto'] old ['relatedto'] market ['relatedto'] sell
+shoe ['atlocation'] house ['antonym', 'relatedto'] rent ['relatedto'] sell
+shoe ['atlocation'] house ['derivedfrom'] seedhouse ['relatedto'] sell
+shoe ['atlocation'] house ['relatedto'] lumber_yard ['relatedto'] sell
+shoe ['atlocation'] house ['relatedto'] move ['mannerof'] sell
+shoe ['atlocation'] house ['synonym'] shop ['relatedto'] sell
+shoe ['relatedto'] leg ['derivedfrom'] bootleg ['mannerof', 'relatedto'] sell
+shoe ['relatedto', 'partof'] clothing ['atlocation'] house ['usedfor'] sell
+shoe ['relatedto', 'partof'] clothing ['atlocation'] shop ['relatedto'] sell
+shoe ['relatedto', 'partof'] clothing ['relatedto'] seat ['relatedto'] sell
+shoe ['relatedto', 'partof'] clothing ['relatedto'] supermarket ['relatedto'] sell
+shoe ['relatedto', 'partof'] heel ['antonym'] move ['mannerof'] sell
+shoe ['relatedto', 'partof'] heel ['relatedto'] stock ['relatedto'] sell
+shoe ['relatedto', 'partof'] heel ['relatedto'] cant ['relatedto'] sell
+shoe ['relatedto'] cover ['relatedto'] action ['relatedto'] sell
+shoe ['relatedto'] cover ['relatedto'] album ['usedfor'] sell
+shoe ['relatedto'] cover ['relatedto'] purchase ['relatedto'] sell
+shoe ['relatedto'] cover ['relatedto'] money ['motivatedbygoal', 'relatedto'] sell
+shoe ['relatedto'] cover ['synonym'] deal ['relatedto', 'synonym'] sell
+shoe ['relatedto'] little ['relatedto'] cheap ['relatedto'] sell
+shoe ['relatedto'] little ['relatedto'] shop ['relatedto'] sell
+shoe ['relatedto'] small ['relatedto'] house ['usedfor'] sell
+shoe ['relatedto'] small ['relatedto'] company ['relatedto'] sell
+shoe ['relatedto'] small ['relatedto'] market ['relatedto'] sell
+shoe ['relatedto'] small ['relatedto'] stool ['relatedto'] sell
+shoe ['relatedto'] small ['relatedto'] task ['relatedto'] sell
+shoe ['relatedto'] blue ['relatedto'] clear ['mannerof'] sell
+shoe ['etymologicallyrelatedto'] sky ['etymologicallyrelatedto'] house ['usedfor'] sell
+shoe ['etymologicallyrelatedto'] sky ['relatedto'] clear ['mannerof'] sell
+shoe ['etymologicallyrelatedto'] sky ['relatedto'] hawk ['relatedto'] sell
+shoe ['etymologicallyrelatedto'] sky ['relatedto'] buy ['antonym', 'distinctfrom', 'relatedto'] sell
+shoe ['relatedto'] box ['relatedto'] house ['usedfor'] sell
+shoe ['relatedto'] box ['isa', 'usedfor'] seat ['relatedto'] sell
+shoe ['relatedto'] box ['relatedto'] advertisement ['usedfor'] sell
+shoe ['usedfor'] sale ['relatedto'] action ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] good ['relatedto'] sell
+shoe ['usedfor'] sale ['antonym', 'distinctfrom', 'relatedto'] buy ['antonym', 'distinctfrom', 'relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] money ['motivatedbygoal', 'relatedto'] sell
+shoe ['usedfor'] sale ['isa', 'relatedto'] selling ['formof', 'relatedto'] sell
+shoe ['usedfor'] sale ['antonym', 'relatedto'] purchase ['relatedto'] sell
+shoe ['usedfor'] sale ['derivedfrom'] saleyard ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto', 'derivedfrom'] wholesale ['mannerof'] sell
+shoe ['usedfor'] sale ['derivedfrom'] salesman ['relatedto'] sell
+shoe ['usedfor'] sale ['distinctfrom', 'relatedto'] sold ['formof', 'relatedto'] sell
+shoe ['usedfor'] sale ['isa', 'mannerof'] auction ['mannerof'] sell
+shoe ['usedfor'] sale ['isa'] car_boot_sale ['relatedto'] sell
+shoe ['usedfor'] sale ['isa', 'relatedto'] exchange ['mannerof', 'relatedto'] sell
+shoe ['usedfor'] sale ['isa'] selloff ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] deal ['relatedto', 'synonym'] sell
+shoe ['usedfor'] sale ['relatedto'] market ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] nonsale ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] product ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] profit ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] retail ['mannerof', 'relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] sacrifice ['mannerof', 'synonym'] sell
+shoe ['usedfor'] sale ['relatedto'] advertisement ['usedfor'] sell
+shoe ['usedfor'] sale ['relatedto'] cheap ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] shop ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] stores ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] trading ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] vend ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] vending ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] stock ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] vendition ['relatedto'] sell
+shoe ['usedfor'] sale ['relatedto'] vent ['relatedto'] sell
+shoe ['isa'] case ['relatedto', 'synonym'] action ['relatedto'] sell
+shoe ['isa'] case ['relatedto'] money ['motivatedbygoal', 'relatedto'] sell
+shoe ['isa'] case ['relatedto'] deal ['relatedto', 'synonym'] sell
+shoe ['relatedto'] drag ['mannerof'] persuade ['mannerof'] sell
+shoe ['relatedto'] drag ['mannerof'] move ['mannerof'] sell
+shoe ['isa'] casual ['relatedto'] easy ['relatedto'] sell
+shoe ['relatedto'] thick ['antonym'] clear ['mannerof'] sell
+shoe ['relatedto'] thick ['relatedto'] rope ['relatedto'] sell
+shoe ['relatedto'] slide ['mannerof', 'relatedto'] move ['mannerof'] sell
+shoe ['relatedto', 'atlocation'] closet ['relatedto', 'atlocation'] house ['usedfor'] sell
+shoe ['relatedto', 'atlocation'] closet ['atlocation'] album ['usedfor'] sell
+shoe ['isa', 'relatedto'] clothes ['atlocation'] house ['usedfor'] sell
+shoe ['isa', 'relatedto'] clothes ['relatedto', 'atlocation'] shop ['relatedto'] sell
+shoe ['isa', 'relatedto'] clothes ['relatedto', 'derivedfrom'] clotheswoman ['relatedto'] sell
+shoe ['mannerof'] dress ['capableof'] action ['relatedto'] sell
+shoe ['mannerof'] dress ['atlocation'] shop ['relatedto'] sell
+shoe ['mannerof'] dress ['relatedto'] bundle ['relatedto'] sell
+shoe ['mannerof'] dress ['relatedto'] stores ['relatedto'] sell
+shoe ['mannerof'] dress ['relatedto'] trick ['relatedto'] sell
+shoe ['relatedto'] horse ['derivedfrom'] horsetrader ['relatedto'] sell
+shoe ['relatedto'] horse ['usedfor', 'relatedto'] saddle ['relatedto'] sell
+shoe ['relatedto'] horse ['relatedto'] rope ['relatedto'] sell
+shoe ['relatedto'] horse ['relatedto'] flog ['relatedto'] sell
+shoe ['relatedto'] walk ['relatedto'] action ['relatedto'] sell
+shoe ['relatedto'] walk ['relatedto'] go ['relatedto'] sell
+shoe ['relatedto'] walk ['relatedto'] move ['mannerof'] sell
+shoe ['relatedto'] walk ['relatedto'] easy ['relatedto'] sell
+shoe ['relatedto'] two ['relatedto'] company ['relatedto'] sell

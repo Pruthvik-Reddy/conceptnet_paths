@@ -1,0 +1,100 @@
+cat ['atlocation'] fight ['relatedto'] scrape
+cat ['capableof', 'relatedto'] scratch ['relatedto', 'synonym'] scrape
+cat ['atlocation'] ground ['relatedto'] grate ['synonym'] scrape
+cat ['atlocation'] ground ['relatedto'] play ['relatedto'] scrape
+cat ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] scrape
+cat ['isa', 'relatedto'] animal ['relatedto'] play ['relatedto'] scrape
+cat ['isa', 'relatedto'] animal ['relatedto'] nest ['relatedto'] scrape
+cat ['isa', 'relatedto'] animal ['relatedto'] paw ['mannerof'] scrape
+cat ['isa', 'relatedto'] animal ['relatedto'] rub ['mannerof'] scrape
+cat ['relatedto', 'atlocation'] house ['isa'] play ['relatedto'] scrape
+cat ['relatedto', 'atlocation'] house ['relatedto'] nest ['relatedto'] scrape
+cat ['relatedto'] apply ['relatedto'] pressure ['relatedto'] scrape
+cat ['capableof', 'desires'] sleep ['relatedto'] nest ['relatedto'] scrape
+cat ['atlocation'] art ['relatedto'] play ['relatedto'] scrape
+cat ['relatedto'] reply ['relatedto'] play ['relatedto'] scrape
+cat ['relatedto', 'atlocation'] home ['relatedto'] nest ['relatedto'] scrape
+cat ['relatedto'] baby ['relatedto'] bird ['relatedto'] scrape
+cat ['relatedto'] baby ['relatedto'] nest ['relatedto'] scrape
+cat ['relatedto'] plate ['relatedto'] nest ['relatedto'] scrape
+cat ['relatedto'] plate ['relatedto'] shallow ['relatedto'] scrape
+cat ['atlocation'] bed ['relatedto'] nest ['relatedto'] scrape
+cat ['desires'] food ['isa'] hoe ['relatedto'] scrape
+cat ['desires'] food ['relatedto'] cut ['relatedto'] scrape
+cat ['relatedto'] small ['relatedto'] bird ['relatedto'] scrape
+cat ['relatedto'] small ['relatedto'] cut ['relatedto'] scrape
+cat ['relatedto'] small ['relatedto'] nest ['relatedto'] scrape
+cat ['relatedto'] small ['relatedto'] wound ['relatedto'] scrape
+cat ['atlocation'] car ['relatedto'] wound ['relatedto'] scrape
+cat ['isa'] book ['relatedto'] bind ['synonym'] scrape
+cat ['relatedto', 'atlocation'] box ['mannerof', 'relatedto'] fight ['relatedto'] scrape
+cat ['relatedto', 'atlocation'] box ['relatedto'] nest ['relatedto'] scrape
+cat ['hasprerequisite'] meat ['isa'] bird ['relatedto'] scrape
+cat ['hasprerequisite'] meat ['isa'] cut ['relatedto'] scrape
+cat ['hasprerequisite'] meat ['relatedto'] rub ['mannerof'] scrape
+cat ['atlocation'] cream ['relatedto', 'synonym'] skim ['relatedto'] scrape
+cat ['atlocation'] cream ['relatedto'] wound ['relatedto'] scrape
+cat ['atlocation'] flat ['relatedto'] shallow ['relatedto'] scrape
+cat ['antonym', 'distinctfrom', 'relatedto'] dog ['relatedto'] bow ['isa', 'mannerof'] scrape
+cat ['antonym', 'distinctfrom', 'relatedto'] dog ['desires'] play ['relatedto'] scrape
+cat ['antonym', 'distinctfrom', 'relatedto'] dog ['distinctfrom'] cut ['relatedto'] scrape
+cat ['antonym', 'isa', 'relatedto', 'hasproperty'] feline ['partof'] paw ['mannerof'] scrape
+cat ['atlocation'] arms ['relatedto'] weapon ['relatedto'] scrape
+cat ['atlocation'] cage ['relatedto', 'atlocation'] bird ['relatedto'] scrape
+cat ['atlocation'] cage ['antonym', 'distinctfrom'] nest ['relatedto'] scrape
+cat ['atlocation'] closet ['relatedto'] broad ['relatedto'] scrape
+cat ['atlocation'] field ['mannerof', 'relatedto'] play ['relatedto'] scrape
+cat ['atlocation'] fight ['relatedto'] cut ['relatedto'] scrape
+cat ['atlocation'] fight ['distinctfrom'] play ['relatedto'] scrape
+cat ['atlocation'] fight ['isa', 'mannerof', 'relatedto', 'synonym'] fistfight ['relatedto'] scrape
+cat ['atlocation'] fight ['relatedto'] altercation ['synonym'] scrape
+cat ['atlocation'] fight ['relatedto'] wound ['relatedto'] scrape
+cat ['atlocation'] game ['isa', 'relatedto'] play ['relatedto'] scrape
+cat ['atlocation'] game ['isa', 'relatedto'] scrabble ['etymologicallyrelatedto', 'relatedto'] scrape
+cat ['atlocation'] grass ['hasa'] cut ['relatedto'] scrape
+cat ['atlocation'] grass ['relatedto'] noise ['isa'] scrape
+cat ['atlocation'] grass ['relatedto'] nest ['relatedto'] scrape
+cat ['atlocation'] grass ['relatedto'] rake ['entails'] scrape
+cat ['atlocation'] heat ['relatedto'] altercation ['synonym'] scrape
+cat ['atlocation'] nature ['relatedto'] nest ['relatedto'] scrape
+cat ['atlocation'] outside ['relatedto'] bird ['relatedto'] scrape
+cat ['atlocation'] outside ['relatedto'] nest ['relatedto'] scrape
+cat ['atlocation'] outside ['relatedto'] play ['relatedto'] scrape
+cat ['atlocation'] park ['relatedto'] play ['relatedto'] scrape
+cat ['atlocation'] residence ['relatedto'] nest ['relatedto'] scrape
+cat ['atlocation'] roof ['atlocation'] bird ['relatedto'] scrape
+cat ['atlocation'] show ['isa', 'relatedto'] play ['relatedto'] scrape
+cat ['atlocation'] table ['atlocation'] rub ['mannerof'] scrape
+cat ['atlocation'] table ['relatedto'] stub ['synonym'] scrape
+cat ['atlocation'] trouble ['isa'] noise ['isa'] scrape
+cat ['atlocation'] trouble ['relatedto'] play ['relatedto'] scrape
+cat ['atlocation'] wild ['relatedto', 'atlocation'] bird ['relatedto'] scrape
+cat ['atlocation'] wild ['relatedto'] nest ['relatedto'] scrape
+cat ['atlocation'] windowsill ['atlocation'] bird ['relatedto'] scrape
+cat ['capableof', 'usedfor', 'relatedto'] pet ['capableof', 'relatedto'] bird ['relatedto'] scrape
+cat ['capableof', 'relatedto'] scratch ['relatedto'] cut ['relatedto'] scrape
+cat ['capableof', 'relatedto'] scratch ['relatedto'] wound ['relatedto'] scrape
+cat ['capableof', 'relatedto'] scratch ['antonym', 'distinctfrom', 'relatedto', 'synonym'] rub ['mannerof'] scrape
+cat ['capableof', 'relatedto'] scratch ['formof', 'relatedto'] scratching ['synonym'] scrape
+cat ['capableof', 'relatedto'] scratch ['mannerof'] scuff ['relatedto'] scrape
+cat ['capableof', 'relatedto'] scratch ['relatedto'] scrab ['relatedto'] scrape
+cat ['capableof', 'relatedto'] scratch ['relatedto'] scrabble ['etymologicallyrelatedto', 'relatedto'] scrape
+cat ['capableof', 'relatedto'] scratch ['synonym'] abrasion ['synonym'] scrape
+cat ['derivedfrom'] caterwaul ['relatedto'] noise ['isa'] scrape
+cat ['relatedto', 'derivedfrom'] catfight ['relatedto', 'derivedfrom'] fight ['relatedto'] scrape
+cat ['relatedto', 'derivedfrom'] catfight ['relatedto'] scratch ['relatedto', 'synonym'] scrape
+cat ['relatedto', 'derivedfrom'] catfight ['relatedto'] fistfight ['relatedto'] scrape
+cat ['relatedto', 'derivedfrom'] cathead ['relatedto'] bow ['isa', 'mannerof'] scrape
+cat ['desires'] control ['relatedto'] weapon ['relatedto'] scrape
+cat ['desires'] milk ['relatedto'] skim ['relatedto'] scrape
+cat ['etymologicallyrelatedto', 'relatedto'] catapult ['relatedto'] weapon ['relatedto'] scrape
+cat ['etymologicallyrelatedto'] cater_corner ['etymologicallyrelatedto'] awkward ['relatedto'] scrape
+cat ['formof', 'relatedto'] cats ['desires'] play ['relatedto'] scrape
+cat ['formof', 'relatedto'] cats ['relatedto'] scratch ['relatedto', 'synonym'] scrape
+cat ['hasa', 'relatedto'] claws ['capableof'] scratch ['relatedto', 'synonym'] scrape
+cat ['hasa'] eyes ['relatedto'] rub ['mannerof'] scrape
+cat ['hasa'] hair ['relatedto'] cut ['relatedto'] scrape
+cat ['isa', 'relatedto', 'hasproperty'] mammal ['antonym', 'relatedto'] bird ['relatedto'] scrape
+cat ['isa', 'relatedto', 'hasproperty'] mammal ['capableof'] play ['relatedto'] scrape
+cat ['isa', 'relatedto', 'hasproperty'] mammal ['relatedto'] nest ['relatedto'] scrape
+cat ['isa', 'relatedto', 'hasproperty'] mammal ['relatedto'] paw ['mannerof'] scrape

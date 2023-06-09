@@ -1,0 +1,100 @@
+head ['relatedto'] heel ['relatedto'] incline
+head ['relatedto'] direction ['relatedto'] incline
+head ['relatedto'] nod ['relatedto'] incline
+head ['antonym'] base ['isa'] non_powered_device ['isa'] incline
+head ['antonym'] base ['relatedto'] heel ['relatedto'] incline
+head ['synonym'] acme ['synonym'] height ['relatedto'] incline
+head ['mannerof', 'relatedto'] remove ['relatedto', 'synonym'] move ['synonym'] incline
+head ['mannerof', 'relatedto'] remove ['relatedto'] step ['relatedto'] incline
+head ['relatedto'] human ['atlocation'] bank ['relatedto'] incline
+head ['relatedto'] human ['atlocation'] climate ['relatedto'] incline
+head ['relatedto'] human ['partof'] attitude ['relatedto'] incline
+head ['relatedto'] human ['relatedto'] feel ['mannerof'] incline
+head ['relatedto', 'partof'] animal ['relatedto'] heel ['relatedto'] incline
+head ['relatedto', 'partof'] animal ['relatedto'] move ['synonym'] incline
+head ['relatedto'] sense ['relatedto', 'synonym'] feel ['mannerof'] incline
+head ['relatedto'] sense ['relatedto'] listen ['mannerof'] incline
+head ['relatedto'] house ['relatedto'] bank ['relatedto'] incline
+head ['relatedto'] house ['relatedto'] move ['synonym'] incline
+head ['relatedto'] house ['relatedto'] step ['relatedto'] incline
+head ['antonym'] bottom ['isa', 'relatedto'] heel ['relatedto'] incline
+head ['antonym'] bottom ['relatedto'] direction ['relatedto'] incline
+head ['antonym'] bottom ['relatedto'] lower ['mannerof'] incline
+head ['antonym'] bottom ['relatedto'] slant ['relatedto'] incline
+head ['mannerof'] lie ['etymologicallyrelatedto'] lean ['etymologicallyrelatedto'] incline
+head ['mannerof'] lie ['mannerof'] slant ['relatedto'] incline
+head ['mannerof'] lie ['relatedto'] horizontal ['relatedto'] incline
+head ['relatedto'] leave ['antonym', 'distinctfrom', 'relatedto'] stay ['relatedto'] incline
+head ['relatedto'] leave ['relatedto'] direction ['relatedto'] incline
+head ['relatedto'] leave ['relatedto'] move ['synonym'] incline
+head ['relatedto'] arrow ['relatedto'] direction ['relatedto'] incline
+head ['relatedto'] column ['hasproperty'] straight ['relatedto'] incline
+head ['relatedto'] column ['relatedto'] height ['relatedto'] incline
+head ['relatedto'] column ['relatedto'] horizontal ['relatedto'] incline
+head ['relatedto'] column ['relatedto'] vertical ['relatedto'] incline
+head ['relatedto'] spring ['relatedto'] bend ['relatedto'] incline
+head ['relatedto'] heel ['antonym'] move ['synonym'] incline
+head ['relatedto'] heel ['etymologicallyrelatedto', 'relatedto'] hield ['relatedto'] incline
+head ['relatedto'] heel ['relatedto'] tilt ['relatedto', 'synonym'] incline
+head ['relatedto'] front ['relatedto'] diagonal ['relatedto'] incline
+head ['relatedto'] front ['relatedto'] direction ['relatedto'] incline
+head ['relatedto'] front ['relatedto'] move ['synonym'] incline
+head ['antonym'] toe ['antonym', 'distinctfrom', 'relatedto'] heel ['relatedto'] incline
+head ['relatedto'] upright ['relatedto'] stay ['relatedto'] incline
+head ['relatedto'] upright ['antonym'] horizontal ['relatedto'] incline
+head ['relatedto'] upright ['relatedto'] straight ['relatedto'] incline
+head ['relatedto'] upright ['relatedto', 'synonym'] vertical ['relatedto'] incline
+head ['relatedto'] upright ['relatedto'] height ['relatedto'] incline
+head ['isa', 'relatedto', 'synonym'] top ['distinctfrom'] slope ['relatedto', 'synonym'] incline
+head ['isa', 'relatedto', 'synonym'] top ['relatedto'] hill ['isa', 'relatedto'] incline
+head ['isa', 'relatedto', 'synonym'] top ['relatedto'] direction ['relatedto'] incline
+head ['relatedto'] bear ['relatedto'] decline ['antonym', 'relatedto', 'synonym'] incline
+head ['relatedto'] bear ['entails'] move ['synonym'] incline
+head ['relatedto'] bear ['relatedto'] direction ['relatedto'] incline
+head ['relatedto'] bear ['relatedto'] slant ['relatedto'] incline
+head ['mannerof'] chair ['isa'] non_powered_device ['isa'] incline
+head ['relatedto'] big ['relatedto'] bank ['relatedto'] incline
+head ['relatedto'] big ['relatedto'] hill ['isa', 'relatedto'] incline
+head ['relatedto'] bill ['relatedto'] bank ['relatedto'] incline
+head ['relatedto'] bill ['antonym'] straight ['relatedto'] incline
+head ['partof'] coin ['atlocation'] bank ['relatedto'] incline
+head ['relatedto'] block ['isa'] step ['relatedto'] incline
+head ['relatedto'] sky ['relatedto'] straight ['relatedto'] incline
+head ['relatedto'] sky ['relatedto'] upward ['relatedto'] incline
+head ['relatedto'] board ['isa', 'derivedfrom'] drainboard ['relatedto'] incline
+head ['relatedto'] board ['relatedto'] step ['relatedto'] incline
+head ['relatedto'] board ['relatedto'] move ['synonym'] incline
+head ['relatedto', 'atlocation'] ship ['relatedto'] steep ['relatedto'] incline
+head ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'partof'] body ['relatedto'] attitude ['relatedto'] incline
+head ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'partof'] body ['relatedto'] bend ['relatedto'] incline
+head ['antonym', 'distinctfrom', 'relatedto', 'atlocation', 'partof'] body ['usedfor', 'relatedto'] move ['synonym'] incline
+head ['antonym', 'distinctfrom'] feet ['relatedto'] lower ['mannerof'] incline
+head ['antonym', 'distinctfrom'] feet ['relatedto'] heel ['relatedto'] incline
+head ['antonym', 'distinctfrom'] feet ['relatedto'] step ['relatedto'] incline
+head ['antonym', 'distinctfrom', 'relatedto', 'similarto'] foot ['relatedto'] lower ['mannerof'] incline
+head ['antonym', 'distinctfrom', 'relatedto', 'similarto'] foot ['relatedto', 'partof'] heel ['relatedto'] incline
+head ['antonym', 'distinctfrom', 'relatedto', 'similarto'] foot ['relatedto'] step ['relatedto'] incline
+head ['antonym', 'isa', 'relatedto', 'synonym'] point ['relatedto'] straight ['relatedto'] incline
+head ['antonym', 'isa', 'relatedto', 'synonym'] point ['relatedto'] direction ['relatedto'] incline
+head ['antonym', 'isa', 'relatedto', 'synonym'] point ['relatedto'] tilt ['relatedto', 'synonym'] incline
+head ['antonym'] subordinate ['mannerof'] lower ['mannerof'] incline
+head ['antonym'] rub ['relatedto'] feel ['mannerof'] incline
+head ['relatedto', 'partof', 'synonym', 'atlocation'] ear ['relatedto'] listen ['mannerof'] incline
+head ['atlocation'] netherlands ['relatedto'] heel ['relatedto'] incline
+head ['derivedfrom'] chickenhead ['relatedto'] climbing ['hasprerequisite'] incline
+head ['relatedto', 'derivedfrom'] headboard ['relatedto'] vertical ['relatedto'] incline
+head ['relatedto', 'derivedfrom'] headroom ['relatedto'] vertical ['relatedto'] incline
+head ['relatedto', 'derivedfrom', 'synonym'] headway ['relatedto'] direction ['relatedto'] incline
+head ['derivedfrom'] masthead ['relatedto'] stay ['relatedto'] incline
+head ['derivedfrom'] slopehead ['derivedfrom'] slope ['relatedto', 'synonym'] incline
+head ['formof', 'relatedto', 'derivedfrom', 'synonym'] heading ['relatedto'] direction ['relatedto'] incline
+head ['formof', 'relatedto', 'derivedfrom', 'synonym'] heading ['relatedto'] slant ['relatedto'] incline
+head ['derivedfrom', 'synonym'] headline ['relatedto'] heel ['relatedto'] incline
+head ['etymologicallyrelatedto'] hade ['relatedto'] vertical ['relatedto'] incline
+head ['etymologicallyrelatedto'] hade ['relatedto'] slope ['relatedto', 'synonym'] incline
+head ['etymologicallyrelatedto'] hade ['relatedto'] hield ['relatedto'] incline
+head ['isa'] general ['relatedto'] move ['synonym'] incline
+head ['isa'] golf_club_head ['partof'] heel ['relatedto'] incline
+head ['isa', 'relatedto'] body_part ['isa'] heel ['relatedto'] incline
+head ['isa'] external_anatomical_part ['isa'] heel ['relatedto'] incline
+head ['isa'] solid_object ['isa'] heel ['relatedto'] incline

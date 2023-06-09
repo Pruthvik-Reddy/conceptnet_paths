@@ -1,0 +1,100 @@
+tank ['relatedto'] fill ['antonym'] drain
+tank ['relatedto'] waste ['relatedto'] drain
+tank ['relatedto'] draincock ['derivedfrom'] drain
+tank ['relatedto'] decline ['relatedto'] circle_drain ['derivedfrom'] drain
+tank ['relatedto'] fall ['mannerof'] issue ['relatedto'] drain
+tank ['relatedto'] fall ['relatedto'] pot ['relatedto'] drain
+tank ['relatedto'] attack ['relatedto'] run ['mannerof'] drain
+tank ['relatedto'] attack ['relatedto'] shower ['partof'] drain
+tank ['relatedto'] top ['relatedto', 'derivedfrom'] stop ['relatedto'] drain
+tank ['relatedto'] top ['derivedfrom'] top_drain ['relatedto', 'derivedfrom'] drain
+tank ['relatedto'] top ['relatedto'] fill ['antonym'] drain
+tank ['relatedto'] top ['relatedto'] pot ['relatedto'] drain
+tank ['relatedto'] top ['relatedto'] terminal ['relatedto'] drain
+tank ['relatedto'] top ['relatedto'] wick ['capableof', 'relatedto'] drain
+tank ['relatedto'] big ['relatedto'] lake ['relatedto'] drain
+tank ['relatedto'] big ['relatedto'] mole ['relatedto'] drain
+tank ['relatedto', 'atlocation'] fish ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] drain
+tank ['relatedto', 'atlocation'] fish ['usedfor', 'relatedto', 'atlocation'] lake ['relatedto'] drain
+tank ['relatedto', 'atlocation'] fish ['relatedto'] fry ['relatedto'] drain
+tank ['relatedto', 'atlocation'] fish ['relatedto'] waterhorse ['relatedto'] drain
+tank ['relatedto'] dip ['atlocation'] water ['relatedto', 'atlocation'] drain
+tank ['relatedto'] dip ['relatedto'] turpentine ['relatedto'] drain
+tank ['relatedto'] dip ['relatedto'] liquid ['relatedto'] drain
+tank ['relatedto'] dip ['synonym'] sink ['relatedto'] drain
+tank ['relatedto'] capacity ['relatedto'] tub ['relatedto'] drain
+tank ['relatedto'] capacity ['relatedto'] wick ['capableof', 'relatedto'] drain
+tank ['relatedto'] fill ['mannerof', 'relatedto'] water ['relatedto', 'atlocation'] drain
+tank ['relatedto'] fill ['antonym', 'distinctfrom', 'relatedto'] empty ['mannerof', 'relatedto'] drain
+tank ['relatedto'] fill ['antonym', 'distinctfrom'] emptying ['isa'] drain
+tank ['relatedto'] fill ['relatedto'] overflow ['atlocation'] drain
+tank ['relatedto'] fill ['relatedto'] lade ['relatedto'] drain
+tank ['relatedto'] waste ['isa', 'relatedto'] sewage ['relatedto'] drain
+tank ['relatedto'] waste ['mannerof'] enfeeble ['synonym'] drain
+tank ['relatedto'] waste ['mannerof'] run ['mannerof'] drain
+tank ['relatedto'] waste ['relatedto'] sewer ['isa', 'relatedto', 'partof'] drain
+tank ['relatedto'] waste ['relatedto'] soil_pipe ['isa'] drain
+tank ['relatedto'] waste ['usedfor', 'relatedto'] toilet ['partof'] drain
+tank ['relatedto'] waste ['relatedto'] urination ['relatedto'] drain
+tank ['relatedto'] waste ['relatedto'] vault ['relatedto'] drain
+tank ['relatedto'] waste ['synonym'] consume ['mannerof'] drain
+tank ['relatedto'] damage ['isa'] run ['mannerof'] drain
+tank ['relatedto'] lose ['relatedto'] waste ['relatedto'] drain
+tank ['relatedto'] lose ['relatedto'] fatigue ['similarto'] drain
+tank ['relatedto'] lose ['relatedto'] run ['mannerof'] drain
+tank ['relatedto'] supply ['mannerof'] water ['relatedto', 'atlocation'] drain
+tank ['relatedto'] supply ['relatedto'] fill ['antonym'] drain
+tank ['relatedto'] supply ['isa'] resource ['relatedto'] drain
+tank ['relatedto'] supply ['mannerof'] grate ['relatedto'] drain
+tank ['relatedto'] supply ['mannerof'] tube ['capableof', 'isa'] drain
+tank ['relatedto'] supply ['relatedto'] exhaustment ['relatedto'] drain
+tank ['relatedto'] supply ['relatedto'] unplug ['relatedto'] drain
+tank ['relatedto'] supply ['relatedto'] washbasin ['relatedto'] drain
+tank ['relatedto'] supply ['relatedto'] washbowl ['relatedto'] drain
+tank ['relatedto'] supply ['synonym'] issue ['relatedto'] drain
+tank ['mannerof'] drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] drain
+tank ['mannerof'] drink ['antonym'] dry ['etymologicallyrelatedto'] drain
+tank ['mannerof'] drink ['isa', 'relatedto'] liquid ['relatedto'] drain
+tank ['mannerof'] drink ['mannerof', 'relatedto'] consume ['mannerof'] drain
+tank ['mannerof'] drink ['mannerof', 'relatedto'] guzzle ['relatedto'] drain
+tank ['mannerof'] drink ['relatedto'] pot ['relatedto'] drain
+tank ['mannerof'] drink ['relatedto'] soak ['relatedto'] drain
+tank ['relatedto'] strong ['relatedto'] dry ['etymologicallyrelatedto'] drain
+tank ['relatedto'] header ['relatedto'] water ['relatedto', 'atlocation'] drain
+tank ['relatedto'] header ['relatedto'] pipe ['isa'] drain
+tank ['relatedto'] weight ['hasa'] water ['relatedto', 'atlocation'] drain
+tank ['relatedto'] weight ['relatedto'] waste ['relatedto'] drain
+tank ['relatedto'] gas ['relatedto'] fill ['antonym'] drain
+tank ['relatedto'] gas ['antonym', 'distinctfrom', 'relatedto', 'similarto'] liquid ['relatedto'] drain
+tank ['relatedto'] gas ['relatedto'] hydrostatic_lock ['relatedto'] drain
+tank ['relatedto'] gas ['relatedto'] kickback ['relatedto'] drain
+tank ['mannerof'] store ['relatedto'] lake ['relatedto'] drain
+tank ['mannerof'] store ['isa'] issue ['relatedto'] drain
+tank ['mannerof'] store ['relatedto'] vault ['relatedto'] drain
+tank ['relatedto', 'atlocation'] war ['relatedto'] waste ['relatedto'] drain
+tank ['isa'] machine ['usedfor'] filter ['relatedto'] drain
+tank ['isa'] machine ['relatedto'] run ['mannerof'] drain
+tank ['isa'] machine ['usedfor'] fry ['relatedto'] drain
+tank ['isa'] vessel ['relatedto'] water ['relatedto', 'atlocation'] drain
+tank ['isa'] vessel ['relatedto'] sink ['relatedto'] drain
+tank ['isa'] vessel ['relatedto'] liquid ['relatedto'] drain
+tank ['isa'] vessel ['isa', 'relatedto'] pot ['relatedto'] drain
+tank ['isa'] vessel ['isa'] basin ['relatedto'] drain
+tank ['isa'] vessel ['isa', 'relatedto'] tub ['relatedto'] drain
+tank ['isa'] vessel ['isa', 'relatedto'] tube ['capableof', 'isa'] drain
+tank ['isa'] vessel ['relatedto'] pipe ['isa'] drain
+tank ['relatedto'] vehicle ['relatedto'] liquid ['relatedto'] drain
+tank ['relatedto'] vehicle ['relatedto'] barrow ['relatedto'] drain
+tank ['relatedto'] vehicle ['relatedto'] conduit ['relatedto'] drain
+tank ['isa', 'relatedto'] aquarium ['hasa', 'relatedto'] water ['relatedto', 'atlocation'] drain
+tank ['isa', 'relatedto'] aquarium ['hasa'] filter ['relatedto'] drain
+tank ['isa'] container ['atlocation'] water ['relatedto', 'atlocation'] drain
+tank ['isa'] container ['relatedto'] fill ['antonym'] drain
+tank ['isa'] container ['isa'] empty ['mannerof', 'relatedto'] drain
+tank ['isa'] container ['atlocation'] liquid ['relatedto'] drain
+tank ['isa'] container ['relatedto'] overflow ['atlocation'] drain
+tank ['isa'] container ['isa', 'relatedto'] pot ['relatedto'] drain
+tank ['isa'] container ['isa', 'relatedto'] pipe ['isa'] drain
+tank ['isa'] container ['isa', 'relatedto'] receptacle ['relatedto'] drain
+tank ['isa'] container ['isa'] tub ['relatedto'] drain
+tank ['isa'] container ['relatedto'] drawing ['isa'] drain

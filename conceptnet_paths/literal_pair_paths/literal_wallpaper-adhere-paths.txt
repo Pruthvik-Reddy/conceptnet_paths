@@ -1,0 +1,100 @@
+wallpaper ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] bind ['mannerof', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] paste ['relatedto'] adhere
+wallpaper ['isa', 'relatedto', 'derivedfrom', 'synonym'] paper ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['relatedto'] paste ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['relatedto'] paste ['relatedto'] adherent ['relatedto', 'derivedfrom'] adhere
+wallpaper ['relatedto'] paste ['relatedto'] adhesive ['etymologicallyrelatedto', 'relatedto'] adhere
+wallpaper ['relatedto'] design ['relatedto'] break ['relatedto'] adhere
+wallpaper ['antonym', 'distinctfrom', 'relatedto'] paint ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['antonym', 'distinctfrom', 'relatedto'] paint ['relatedto'] adhesive ['etymologicallyrelatedto', 'relatedto'] adhere
+wallpaper ['formof', 'relatedto'] wallpapering ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['relatedto'] background ['relatedto', 'derivedfrom', 'synonym'] ground ['relatedto'] match ['mannerof'] adhere
+wallpaper ['relatedto'] background ['relatedto', 'derivedfrom', 'synonym'] ground ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['relatedto'] background ['mannerof'] stress ['relatedto'] tenacity ['relatedto'] adhere
+wallpaper ['relatedto'] background ['relatedto'] picture ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['relatedto'] background ['relatedto', 'synonym'] context ['relatedto'] bind ['mannerof', 'synonym'] adhere
+wallpaper ['relatedto'] background ['relatedto'] beat ['mannerof', 'relatedto'] paste ['relatedto'] adhere
+wallpaper ['relatedto'] background ['relatedto'] bork ['relatedto'] break ['relatedto'] adhere
+wallpaper ['relatedto'] background ['relatedto'] gang ['relatedto'] attach ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] action ['relatedto'] adopt ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] action ['relatedto'] agree ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] action ['relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] action ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] action ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['isa'] fire ['causes', 'relatedto', 'usedfor'] match ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['isa'] fire ['relatedto'] bond ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] hide ['relatedto'] hidebound ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] front ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] square ['mannerof'] match ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['antonym', 'hasa', 'relatedto', 'atlocation'] book ['relatedto'] bind ['mannerof', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['antonym', 'relatedto'] page ['relatedto'] bind ['mannerof', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] bark ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] bark ['relatedto'] hidebound ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] bind ['mannerof', 'synonym'] attach ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] bind ['etymologicallyrelatedto', 'relatedto', 'synonym'] bond ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] brush ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] butter ['isa'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] play ['relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] broach ['relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] guarantee ['relatedto'] bond ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] touch ['mannerof'] attach ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] touch ['mannerof'] cling ['synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] touch ['relatedto'] osculant ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] substitute ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] substitute ['relatedto'] enlist ['similarto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] felt ['usedfor'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] grass ['atlocation'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] hold ['synonym'] agree ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] hold ['antonym'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] hold ['relatedto'] attach ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] hold ['relatedto'] cling ['synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] laminate ['mannerof'] cleave ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] line ['relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] overlap ['relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] paint ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] paint ['relatedto'] adhesive ['etymologicallyrelatedto', 'relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] paper ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] paste ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] paste ['relatedto'] adherent ['relatedto', 'derivedfrom'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] paste ['relatedto'] adhesive ['etymologicallyrelatedto', 'relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] plaster ['mannerof'] affix ['causes'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] plaster ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] plaster ['relatedto'] adhesive ['etymologicallyrelatedto', 'relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] spread ['synonym'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof'] wax ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['mannerof', 'relatedto'] wrap ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] band_aid ['relatedto'] adhesive ['etymologicallyrelatedto', 'relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] bestick ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] board ['distinctfrom', 'relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] bog ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] bracer ['relatedto'] bind ['mannerof', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] case ['relatedto'] adhesive ['etymologicallyrelatedto', 'relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] comprehensive ['relatedto'] creed ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] binder ['relatedto'] bind ['mannerof', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] car ['relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] containers ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] duck ['relatedto'] agree ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] first ['relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] general ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] hard ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] jar ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] music ['relatedto'] genrelization ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] piece ['relatedto', 'synonym'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] piece ['antonym', 'relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] place ['relatedto'] match ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] place ['relatedto'] confluence ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] put ['antonym'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] skin ['relatedto'] skinbound ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] breach ['etymologicallyrelatedto', 'relatedto', 'synonym'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] contract ['relatedto'] bond ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] family ['relatedto'] adopt ['mannerof'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] family ['relatedto'] osculant ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] family ['relatedto'] sucker ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] point ['relatedto'] stick ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] point ['relatedto'] break ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] solid ['relatedto'] paste ['relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] stamp ['mannerof'] affix ['causes'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] stamp ['relatedto'] adhesive ['etymologicallyrelatedto', 'relatedto'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] money ['relatedto'] bond ['relatedto', 'synonym'] adhere
+wallpaper ['mannerof'] cover ['relatedto'] drive ['relatedto'] stick ['relatedto', 'synonym'] adhere

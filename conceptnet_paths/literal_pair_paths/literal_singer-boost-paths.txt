@@ -1,0 +1,100 @@
+singer ['relatedto'] action ['isa'] software ['isa'] boost
+singer ['relatedto'] action ['isa'] jump_start ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] increase ['mannerof'] boost
+singer ['relatedto'] action ['relatedto'] lift ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] rise ['synonym'] boost
+singer ['relatedto'] band ['isa', 'relatedto'] bellyband ['relatedto'] boost
+singer ['relatedto'] band ['relatedto'] aid ['isa'] boost
+singer ['relatedto'] band ['relatedto'] haramaki ['relatedto'] boost
+singer ['relatedto'] pitch ['relatedto'] promote ['synonym'] boost
+singer ['relatedto'] stage ['relatedto'] booster ['relatedto', 'derivedfrom'] boost
+singer ['relatedto'] action ['etymologicallyrelatedto', 'relatedto'] reaction ['relatedto'] rise ['synonym'] boost
+singer ['relatedto'] action ['hasprerequisite'] getting ['relatedto'] increase ['mannerof'] boost
+singer ['relatedto'] action ['hasprerequisite'] getting ['relatedto'] rise ['synonym'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] work ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] drive ['relatedto'] advance ['synonym'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] drive ['isa'] lift ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] drive ['mannerof', 'relatedto'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] drive ['synonym'] thrust ['mannerof'] boost
+singer ['relatedto'] action ['isa', 'relatedto', 'synonym'] activity ['isa'] aid ['isa'] boost
+singer ['relatedto'] action ['isa'] application ['relatedto', 'synonym'] software ['isa'] boost
+singer ['relatedto'] action ['isa'] ban ['relatedto'] lift ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] change ['isa', 'mannerof', 'relatedto'] increase ['mannerof'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] lift ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] promote ['synonym'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] rise ['synonym'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] supercharge ['synonym'] boost
+singer ['relatedto'] action ['isa'] cooking ['relatedto'] ginger ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'relatedto', 'synonym'] exercise ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'relatedto', 'synonym'] exercise ['motivatedbygoal'] hike ['synonym'] boost
+singer ['relatedto'] action ['isa'] intelligent_agent_activity ['isa'] booster_shot ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] advance ['synonym'] boost
+singer ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] increase ['mannerof'] boost
+singer ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] lift ['relatedto'] boost
+singer ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] rise ['synonym'] boost
+singer ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['isa'] operation ['relatedto'] increase ['mannerof'] boost
+singer ['relatedto'] action ['isa', 'relatedto'] play ['mannerof'] promote ['synonym'] boost
+singer ['relatedto'] action ['isa'] recourse ['isa'] aid ['isa'] boost
+singer ['relatedto'] action ['isa'] transgression ['relatedto'] rise ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] assembly ['relatedto'] software ['isa'] boost
+singer ['relatedto'] action ['relatedto'] charge ['relatedto'] advance ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] charge ['relatedto'] supercharge ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] device ['isa', 'relatedto'] lift ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] motion ['relatedto'] lift ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] motion ['isa', 'relatedto'] rise ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] motion ['isa'] software ['isa'] boost
+singer ['relatedto'] action ['relatedto'] motion ['relatedto'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['relatedto'] stock ['relatedto'] thrust ['mannerof'] boost
+singer ['relatedto'] action ['relatedto'] string ['mannerof'] advance ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] add ['mannerof', 'relatedto'] increase ['mannerof'] boost
+singer ['relatedto'] action ['relatedto'] adopt ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] apply ['relatedto'] pressure ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] arise ['relatedto'] lift ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] arise ['relatedto', 'synonym'] rise ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] attack ['relatedto', 'synonym'] thrust ['mannerof'] boost
+singer ['relatedto'] action ['relatedto'] attempt ['relatedto'] promote ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] away ['relatedto'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['relatedto'] bad ['hasprerequisite'] steal ['relatedto'] boost
+singer ['relatedto'] action ['relatedto', 'synonym'] battle ['relatedto'] advance ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] beg ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] begin ['relatedto'] rise ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] bid ['mannerof'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] bid ['relatedto'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['relatedto'] bless ['mannerof'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] blow ['relatedto'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['relatedto'] blowback ['relatedto'] pressure ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] brain ['isa'] software ['isa'] boost
+singer ['relatedto'] action ['relatedto'] break ['synonym'] thrust ['mannerof'] boost
+singer ['relatedto'] action ['relatedto'] bring ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] bring ['relatedto'] lift ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] build ['relatedto'] increase ['mannerof'] boost
+singer ['relatedto'] action ['relatedto'] build ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] buy ['antonym', 'distinctfrom'] steal ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] call ['mannerof'] lift ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] call ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] care ['synonym'] aid ['isa'] boost
+singer ['relatedto'] action ['relatedto'] carry ['mannerof'] promote ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] carry ['relatedto'] lift ['relatedto'] boost
+singer ['relatedto'] action ['relatedto', 'synonym'] case ['relatedto'] software ['isa'] boost
+singer ['relatedto'] action ['relatedto'] climb ['isa', 'mannerof', 'relatedto', 'synonym'] rise ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] climb ['relatedto'] hike ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] climb ['relatedto'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] come ['relatedto'] encouragement ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] come ['relatedto'] rise ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] cross ['relatedto'] aid ['isa'] boost
+singer ['relatedto'] action ['relatedto'] crush ['relatedto'] pressure ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] cut ['antonym'] increase ['mannerof'] boost
+singer ['relatedto'] action ['relatedto'] cut ['antonym'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] cut ['relatedto'] aid ['isa'] boost
+singer ['relatedto'] action ['relatedto'] deal ['synonym'] steal ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] deal ['mannerof'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['relatedto'] destroy ['antonym'] raise ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] dial ['relatedto'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['relatedto'] draw ['antonym'] push ['isa', 'relatedto'] boost
+singer ['relatedto'] action ['relatedto'] drop ['antonym'] lift ['relatedto'] boost
+singer ['relatedto'] action ['relatedto'] drop ['antonym'] rise ['synonym'] boost
+singer ['relatedto'] action ['relatedto'] drop ['distinctfrom', 'relatedto'] raise ['relatedto'] boost

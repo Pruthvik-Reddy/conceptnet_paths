@@ -1,0 +1,100 @@
+bee ['relatedto'] buzz
+bee ['antonym', 'capableof', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['isa', 'relatedto'] drone ['relatedto'] buzz
+bee ['relatedto'] buzzing ['formof', 'relatedto'] buzz
+bee ['relatedto'] bzz ['etymologicallyrelatedto', 'relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] consonant ['relatedto'] buzz
+bee ['relatedto'] animal ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['atlocation'] house ['relatedto'] bell ['similarto'] buzz
+bee ['atlocation'] house ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['etymologicallyrelatedto'] bow ['relatedto'] altitude ['relatedto'] buzz
+bee ['atlocation'] art ['relatedto'] activity ['isa'] buzz
+bee ['atlocation'] art ['relatedto'] sound ['isa', 'mannerof'] buzz
+bee ['atlocation'] church ['relatedto', 'atlocation'] bell ['similarto'] buzz
+bee ['atlocation'] sky ['usedfor', 'relatedto', 'atlocation'] fly ['mannerof', 'relatedto'] buzz
+bee ['atlocation'] sky ['relatedto'] altitude ['relatedto'] buzz
+bee ['atlocation'] car ['relatedto'] spark ['relatedto'] buzz
+bee ['relatedto'] nail ['relatedto'] friction ['relatedto'] buzz
+bee ['relatedto'] busy ['relatedto'] rush ['relatedto'] buzz
+bee ['atlocation'] sunshine ['relatedto'] energy ['relatedto'] buzz
+bee ['etymologicallyrelatedto'] ban ['relatedto'] information ['relatedto'] buzz
+bee ['etymologicallyrelatedto'] ban ['relatedto'] summon ['mannerof'] buzz
+bee ['antonym', 'capableof', 'relatedto'] fly ['relatedto'] activity ['isa'] buzz
+bee ['antonym', 'capableof', 'relatedto'] fly ['capableof'] insects ['capableof'] buzz
+bee ['antonym', 'capableof', 'relatedto'] fly ['isa', 'relatedto'] gadfly ['relatedto'] buzz
+bee ['antonym', 'capableof', 'relatedto'] fly ['relatedto'] bumble ['relatedto', 'synonym'] buzz
+bee ['antonym', 'capableof', 'relatedto'] fly ['relatedto'] buzzing ['formof', 'relatedto'] buzz
+bee ['relatedto'] flying ['formof', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['relatedto'] flying ['relatedto'] spark ['relatedto'] buzz
+bee ['relatedto'] flea ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['relatedto'] flea ['relatedto'] insects ['capableof'] buzz
+bee ['atlocation'] flight ['mannerof', 'relatedto', 'derivedfrom'] fly ['mannerof', 'relatedto'] buzz
+bee ['atlocation'] flight ['relatedto'] speed ['relatedto'] buzz
+bee ['atlocation'] jar ['relatedto'] shock ['relatedto'] buzz
+bee ['atlocation'] movie ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['atlocation'] movie ['atlocation'] sound ['isa', 'mannerof'] buzz
+bee ['atlocation'] nature ['relatedto'] energy ['relatedto'] buzz
+bee ['atlocation'] shade ['relatedto'] slight ['relatedto'] buzz
+bee ['atlocation'] shade ['isa'] undertone ['relatedto'] buzz
+bee ['capableof', 'relatedto'] sting ['relatedto'] shock ['relatedto'] buzz
+bee ['capableof', 'relatedto'] sting ['relatedto'] insects ['capableof'] buzz
+bee ['relatedto', 'derivedfrom'] beehive ['relatedto'] hum ['relatedto', 'synonym'] buzz
+bee ['isa', 'relatedto', 'derivedfrom'] bumblebee ['derivedfrom'] bumble ['relatedto', 'synonym'] buzz
+bee ['isa', 'relatedto', 'derivedfrom'] bumblebee ['relatedto'] bombylious ['relatedto'] buzz
+bee ['derivedfrom'] queen_bee ['relatedto'] drone ['relatedto'] buzz
+bee ['formof', 'relatedto'] bees ['isa'] insects ['capableof'] buzz
+bee ['isa', 'relatedto'] insect ['isa', 'relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['isa', 'relatedto'] insect ['formof', 'relatedto'] insects ['capableof'] buzz
+bee ['isa', 'relatedto'] insect ['relatedto'] buzzer ['relatedto'] buzz
+bee ['isa', 'relatedto'] insect ['relatedto'] gadfly ['relatedto'] buzz
+bee ['isa', 'relatedto'] drone ['mannerof'] sound ['isa', 'mannerof'] buzz
+bee ['isa', 'relatedto'] drone ['relatedto'] hum ['relatedto', 'synonym'] buzz
+bee ['relatedto'] beat ['isa'] sound ['isa', 'mannerof'] buzz
+bee ['relatedto'] bug ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['relatedto'] buzzing ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['relatedto'] buzzing ['relatedto', 'synonym'] abuzz ['relatedto', 'derivedfrom'] buzz
+bee ['relatedto'] buzzing ['relatedto'] whirr ['relatedto', 'synonym'] buzz
+bee ['relatedto'] buzzing_insect ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['relatedto'] stinging ['relatedto'] shock ['relatedto'] buzz
+bee ['relatedto'] wasp ['relatedto'] bzz ['etymologicallyrelatedto', 'relatedto'] buzz
+bee ['relatedto'] wasp ['relatedto'] drone ['relatedto'] buzz
+bee ['relatedto'] wings ['relatedto'] bell ['similarto'] buzz
+bee ['relatedto'] wings ['hasa', 'relatedto', 'usedfor'] fly ['mannerof', 'relatedto'] buzz
+bee ['relatedto'] fan ['relatedto'] breeze ['relatedto'] buzz
+bee ['relatedto'] player ['relatedto'] rush ['relatedto'] buzz
+bee ['relatedto'] black_queen_cell_virus ['relatedto'] viral ['relatedto'] buzz
+bee ['relatedto'] honey_bee ['relatedto'] drone ['relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] consonant ['relatedto'] sound ['isa', 'mannerof'] buzz
+bee ['atlocation'] alphabet ['antonym', 'distinctfrom'] number ['isa'] information ['relatedto'] buzz
+bee ['atlocation'] alphabet ['antonym', 'distinctfrom'] number ['relatedto'] fizz_buzz ['synonym'] buzz
+bee ['atlocation'] alphabet ['usedfor', 'relatedto', 'partof', 'atlocation'] letter ['isa', 'relatedto'] consonant ['relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] abugida ['relatedto'] consonant ['relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] order ['relatedto'] rush ['relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] order ['relatedto'] summon ['mannerof'] buzz
+bee ['atlocation'] alphabet ['relatedto'] six ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] abjad ['relatedto'] consonant ['relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] phoneme ['isa'] consonant ['relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] phoneme ['relatedto'] sound ['isa', 'mannerof'] buzz
+bee ['atlocation'] alphabet ['relatedto'] vowel ['antonym', 'distinctfrom', 'relatedto'] consonant ['relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] capital ['relatedto'] bell ['similarto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] syllabism ['relatedto'] sound ['isa', 'mannerof'] buzz
+bee ['atlocation'] alphabet ['relatedto'] writing ['isa', 'relatedto'] activity ['isa'] buzz
+bee ['atlocation'] alphabet ['relatedto'] writing ['usedfor', 'relatedto'] information ['relatedto'] buzz
+bee ['atlocation'] alphabet ['relatedto'] writing ['relatedto'] report ['synonym'] buzz
+bee ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] energy ['relatedto'] buzz
+bee ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] sound ['isa', 'mannerof'] buzz
+bee ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] activity ['isa'] buzz
+bee ['relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] feeling ['relatedto'] buzz
+bee ['relatedto'] animal ['relatedto'] sometimes ['relatedto'] shock ['relatedto'] buzz
+bee ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['capableof', 'relatedto', 'desires'] fly ['mannerof', 'relatedto'] buzz
+bee ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] sound ['isa', 'mannerof'] buzz
+bee ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] thrill ['relatedto'] buzz
+bee ['relatedto'] animal ['antonym', 'distinctfrom'] man ['mannerof', 'relatedto'] crew ['relatedto'] buzz
+bee ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] energy ['relatedto'] buzz
+bee ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plants ['relatedto'] spark ['relatedto'] buzz
+bee ['relatedto'] animal ['atlocation'] chest ['relatedto'] fly ['mannerof', 'relatedto'] buzz
+bee ['relatedto'] animal ['atlocation'] heart ['relatedto'] feeling ['relatedto'] buzz
+bee ['relatedto'] animal ['atlocation'] heart ['relatedto'] murmur ['relatedto'] buzz
+bee ['relatedto'] animal ['atlocation'] heart ['relatedto'] thrill ['relatedto'] buzz
+bee ['relatedto'] animal ['atlocation'] nerve ['relatedto'] feeling ['relatedto'] buzz
+bee ['relatedto'] animal ['desires'] eat ['relatedto'] activity ['isa'] buzz

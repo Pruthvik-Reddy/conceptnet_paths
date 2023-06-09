@@ -1,0 +1,100 @@
+pig ['relatedto'] origin ['relatedto'] root
+pig ['relatedto'] source ['relatedto'] root
+pig ['relatedto'] child ['antonym', 'distinctfrom', 'relatedto', 'hasa', 'isa'] parent ['relatedto'] root
+pig ['relatedto'] child ['relatedto'] access ['relatedto'] root
+pig ['relatedto'] child ['relatedto'] binary_tree ['relatedto'] root
+pig ['relatedto'] child ['relatedto'] derive ['relatedto'] root
+pig ['relatedto'] child ['relatedto'] support ['mannerof', 'relatedto'] root
+pig ['relatedto'] child ['synonym'] minor ['relatedto'] root
+pig ['relatedto'] together ['relatedto'] base ['relatedto', 'synonym'] root
+pig ['relatedto'] together ['relatedto'] chord ['relatedto'] root
+pig ['relatedto'] together ['relatedto'] business ['relatedto'] root
+pig ['relatedto'] together ['relatedto'] word ['relatedto'] root
+pig ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root
+pig ['isa', 'relatedto'] animal ['atlocation'] bone ['relatedto'] root
+pig ['isa', 'relatedto'] animal ['isa'] echinacea ['relatedto'] root
+pig ['isa', 'relatedto'] animal ['isa'] parent ['relatedto'] root
+pig ['isa', 'relatedto'] animal ['relatedto'] form ['isa'] root
+pig ['isa', 'relatedto'] animal ['relatedto'] major ['relatedto'] root
+pig ['isa', 'relatedto'] animal ['relatedto'] fawn ['relatedto'] root
+pig ['isa', 'relatedto'] animal ['relatedto'] skin ['relatedto'] root
+pig ['isa', 'relatedto'] animal ['relatedto'] spur ['relatedto'] root
+pig ['isa', 'relatedto'] animal ['usedfor'] race ['relatedto'] root
+pig ['relatedto'] problem ['antonym', 'distinctfrom', 'relatedto'] solution ['synonym'] root
+pig ['relatedto'] problem ['relatedto'] cyclotomy ['relatedto'] root
+pig ['relatedto'] bank ['relatedto', 'atlocation'] money ['relatedto'] root
+pig ['relatedto'] bank ['relatedto'] account ['relatedto'] root
+pig ['relatedto'] bank ['relatedto'] business ['relatedto'] root
+pig ['relatedto'] bank ['relatedto'] store ['relatedto'] root
+pig ['relatedto'] bank ['relatedto'] structure ['isa', 'relatedto'] root
+pig ['relatedto'] bank ['relatedto'] branch ['antonym', 'relatedto'] root
+pig ['relatedto'] bank ['relatedto'] switzerland ['relatedto'] root
+pig ['relatedto'] bed ['mannerof', 'relatedto'] plant ['mannerof', 'relatedto', 'partof'] root
+pig ['relatedto'] bed ['synonym'] bottom ['relatedto'] root
+pig ['relatedto'] bed ['atlocation'] hair ['relatedto', 'partof'] root
+pig ['relatedto'] bed ['relatedto'] part ['relatedto'] root
+pig ['relatedto'] bed ['relatedto'] structure ['isa', 'relatedto'] root
+pig ['relatedto'] bed ['relatedto'] support ['mannerof', 'relatedto'] root
+pig ['relatedto'] bed ['relatedto'] cement ['relatedto'] root
+pig ['relatedto'] bed ['relatedto'] settle ['synonym'] root
+pig ['relatedto'] bed ['relatedto'] sexual_intercourse ['relatedto'] root
+pig ['relatedto'] bed ['relatedto'] dig ['relatedto'] root
+pig ['relatedto'] living ['relatedto'] grow ['mannerof', 'relatedto'] root
+pig ['relatedto'] living ['relatedto'] plant ['mannerof', 'relatedto', 'partof'] root
+pig ['relatedto'] living ['relatedto'] branch ['antonym', 'relatedto'] root
+pig ['relatedto'] living ['relatedto'] tree ['relatedto', 'atlocation'] root
+pig ['relatedto'] living ['synonym'] support ['mannerof', 'relatedto'] root
+pig ['relatedto'] food ['antonym', 'isa'] water ['relatedto'] root
+pig ['relatedto'] food ['relatedto'] plant ['mannerof', 'relatedto', 'partof'] root
+pig ['relatedto'] food ['relatedto', 'atlocation'] bone ['relatedto'] root
+pig ['relatedto'] food ['atlocation'] store ['relatedto'] root
+pig ['relatedto'] food ['atlocation'] hair ['relatedto', 'partof'] root
+pig ['relatedto'] food ['isa', 'atlocation'] potato ['isa'] root
+pig ['relatedto'] food ['relatedto'] branch ['antonym', 'relatedto'] root
+pig ['relatedto'] food ['relatedto'] carrot ['isa', 'relatedto'] root
+pig ['relatedto'] food ['relatedto'] herb ['relatedto'] root
+pig ['relatedto'] food ['relatedto'] ginger ['isa', 'relatedto'] root
+pig ['relatedto'] food ['relatedto', 'synonym'] nutrient ['relatedto'] root
+pig ['relatedto'] food ['relatedto'] radish ['isa', 'etymologicallyrelatedto', 'relatedto'] root
+pig ['relatedto'] food ['relatedto'] rhubarb ['relatedto'] root
+pig ['relatedto'] food ['relatedto'] treat ['relatedto'] root
+pig ['relatedto'] food ['synonym'] cheer ['relatedto'] root
+pig ['relatedto'] small ['relatedto'] grow ['mannerof', 'relatedto'] root
+pig ['relatedto'] small ['relatedto'] plant ['mannerof', 'relatedto', 'partof'] root
+pig ['relatedto'] small ['relatedto'] branch ['antonym', 'relatedto'] root
+pig ['relatedto'] small ['relatedto'] canal ['relatedto'] root
+pig ['relatedto'] small ['relatedto'] part ['relatedto'] root
+pig ['relatedto'] small ['relatedto'] become ['mannerof'] root
+pig ['relatedto'] small ['relatedto'] stem ['relatedto', 'synonym'] root
+pig ['relatedto'] small ['relatedto'] word ['relatedto'] root
+pig ['relatedto'] coins ['isa', 'relatedto'] money ['relatedto'] root
+pig ['relatedto'] block ['mannerof'] form ['isa'] root
+pig ['relatedto'] girl ['relatedto'] hair ['relatedto', 'partof'] root
+pig ['relatedto'] girl ['relatedto'] penis ['relatedto'] root
+pig ['relatedto'] girl ['relatedto'] reproduction ['relatedto'] root
+pig ['relatedto'] girl ['relatedto'] part ['relatedto'] root
+pig ['relatedto'] meat ['antonym'] plant ['mannerof', 'relatedto', 'partof'] root
+pig ['relatedto'] meat ['relatedto'] bone ['relatedto'] root
+pig ['relatedto'] meat ['relatedto'] bark ['partof'] root
+pig ['relatedto'] meat ['relatedto'] sancocho ['relatedto'] root
+pig ['relatedto'] meat ['synonym'] kernel ['partof'] root
+pig ['relatedto'] flat ['relatedto'] c_major ['relatedto'] root
+pig ['relatedto'] flat ['relatedto'] solution ['synonym'] root
+pig ['relatedto'] flat ['relatedto'] flat_major ['relatedto'] root
+pig ['relatedto'] flat ['relatedto'] tone ['relatedto'] root
+pig ['relatedto'] cast ['relatedto'] water ['relatedto'] root
+pig ['relatedto'] cast ['relatedto'] bone ['relatedto'] root
+pig ['relatedto'] cast ['relatedto'] skin ['relatedto'] root
+pig ['relatedto'] cast ['relatedto', 'synonym'] form ['isa'] root
+pig ['relatedto'] cast ['relatedto'] anchor ['relatedto'] root
+pig ['relatedto'] cast ['relatedto'] hair ['relatedto', 'partof'] root
+pig ['relatedto'] dog ['relatedto', 'desires'] bone ['relatedto'] root
+pig ['relatedto'] dog ['desires'] dig ['relatedto'] root
+pig ['relatedto'] dog ['capableof', 'relatedto'] bark ['partof'] root
+pig ['relatedto'] dog ['hasa'] penis ['relatedto'] root
+pig ['relatedto'] dog ['madeof', 'relatedto'] hair ['relatedto', 'partof'] root
+pig ['relatedto'] dog ['relatedto'] parent ['relatedto'] root
+pig ['relatedto'] dog ['relatedto'] treat ['relatedto'] root
+pig ['relatedto'] charge ['relatedto'] money ['relatedto'] root
+pig ['relatedto'] charge ['mannerof', 'relatedto'] account ['relatedto'] root
+pig ['relatedto'] charge ['relatedto'] anchor ['relatedto'] root

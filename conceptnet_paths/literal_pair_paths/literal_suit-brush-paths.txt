@@ -1,0 +1,100 @@
+suit ['synonym'] action ['synonym'] brush
+suit ['relatedto'] card ['relatedto'] brush
+suit ['synonym'] action ['relatedto'] apply ['relatedto'] brush
+suit ['synonym'] action ['relatedto'] clean ['mannerof', 'relatedto'] brush
+suit ['synonym'] action ['relatedto'] cover ['mannerof'] brush
+suit ['synonym'] action ['relatedto'] fight ['isa'] brush
+suit ['synonym'] action ['relatedto'] graze ['mannerof'] brush
+suit ['synonym'] action ['relatedto'] lead ['relatedto'] brush
+suit ['synonym'] action ['relatedto'] lure ['relatedto'] brush
+suit ['synonym'] action ['relatedto'] move ['mannerof'] brush
+suit ['synonym'] action ['relatedto'] paint ['antonym', 'usedfor', 'relatedto'] brush
+suit ['synonym'] action ['relatedto'] paste ['relatedto'] brush
+suit ['synonym'] action ['relatedto'] reach ['relatedto'] brush
+suit ['synonym'] action ['relatedto'] rub ['mannerof'] brush
+suit ['synonym'] action ['relatedto'] stroke ['relatedto'] brush
+suit ['synonym'] action ['relatedto'] sweep ['relatedto', 'synonym'] brush
+suit ['synonym'] action ['relatedto'] touch ['isa', 'mannerof', 'relatedto'] brush
+suit ['synonym'] action ['synonym'] encounter ['synonym'] brush
+suit ['synonym'] action ['synonym'] skirmish ['synonym'] brush
+suit ['relatedto'] marriage ['relatedto'] groom ['hasfirstsubevent'] brush
+suit ['atlocation'] human ['etymologicallyrelatedto'] groom ['hasfirstsubevent'] brush
+suit ['atlocation'] human ['relatedto', 'partof'] hair ['relatedto', 'atlocation'] brush
+suit ['atlocation'] human ['relatedto'] toilet_brush ['isa'] brush
+suit ['atlocation'] human ['relatedto'] touch ['isa', 'mannerof', 'relatedto'] brush
+suit ['mannerof', 'synonym'] agree ['relatedto'] action ['synonym'] brush
+suit ['mannerof', 'synonym'] agree ['relatedto'] similar ['relatedto'] brush
+suit ['relatedto'] clothing ['relatedto'] hair ['relatedto', 'atlocation'] brush
+suit ['relatedto'] coin ['relatedto'] casino ['relatedto'] brush
+suit ['relatedto'] coin ['relatedto', 'partof'] tail ['isa', 'relatedto', 'synonym'] brush
+suit ['relatedto'] coin ['relatedto'] card ['relatedto'] brush
+suit ['relatedto'] birthday ['usedfor', 'relatedto'] card ['relatedto'] brush
+suit ['relatedto'] business ['usedfor', 'relatedto'] card ['relatedto'] brush
+suit ['relatedto'] business ['relatedto'] lead ['relatedto'] brush
+suit ['relatedto'] respond ['relatedto'] action ['synonym'] brush
+suit ['distinctfrom', 'relatedto'] case ['relatedto', 'synonym'] action ['synonym'] brush
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] cover ['mannerof'] brush
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] handle ['partof'] brush
+suit ['relatedto'] card ['relatedto'] casino ['relatedto'] brush
+suit ['relatedto'] card ['relatedto'] tool ['relatedto'] brush
+suit ['relatedto'] card ['relatedto'] bristles ['relatedto'] brush
+suit ['relatedto'] card ['relatedto'] comb ['relatedto'] brush
+suit ['relatedto'] card ['relatedto'] clean ['mannerof', 'relatedto'] brush
+suit ['relatedto'] card ['synonym'] tease ['entails'] brush
+suit ['relatedto'] cause ['relatedto'] action ['synonym'] brush
+suit ['relatedto'] cause ['relatedto'] generator ['partof'] brush
+suit ['atlocation'] closet ['atlocation'] broom ['relatedto'] brush
+suit ['atlocation'] closet ['relatedto'] similar ['relatedto'] brush
+suit ['relatedto'] clothes ['relatedto'] clothes_brush ['relatedto'] brush
+suit ['relatedto'] clothes ['relatedto'] clothesbrush ['isa', 'relatedto', 'derivedfrom'] brush
+suit ['relatedto'] club ['relatedto'] card ['relatedto'] brush
+suit ['relatedto'] club ['isa'] manual_tool ['isa'] brush
+suit ['relatedto'] club ['relatedto'] implement ['isa', 'relatedto'] brush
+suit ['relatedto'] club ['relatedto'] tool ['relatedto'] brush
+suit ['relatedto'] club ['relatedto'] fight ['isa'] brush
+suit ['relatedto'] club ['relatedto'] stroke ['relatedto'] brush
+suit ['isa', 'relatedto'] spade ['relatedto'] handle ['partof'] brush
+suit ['isa', 'relatedto'] spade ['relatedto'] card ['relatedto'] brush
+suit ['isa', 'relatedto'] spade ['isa', 'relatedto'] tool ['relatedto'] brush
+suit ['isa', 'relatedto'] spade ['relatedto'] fire_iron ['relatedto'] brush
+suit ['antonym'] dress ['capableof'] action ['synonym'] brush
+suit ['antonym'] dress ['mannerof'] cover ['mannerof'] brush
+suit ['antonym'] dress ['mannerof', 'synonym'] groom ['hasfirstsubevent'] brush
+suit ['antonym'] dress ['atlocation'] fox ['relatedto'] brush
+suit ['antonym'] dress ['relatedto'] wisp ['relatedto'] brush
+suit ['relatedto'] wool ['relatedto'] cover ['mannerof'] brush
+suit ['relatedto'] wool ['relatedto'] card ['relatedto'] brush
+suit ['relatedto'] wool ['relatedto'] hand_card ['relatedto'] brush
+suit ['relatedto'] wool ['relatedto'] furry ['relatedto'] brush
+suit ['relatedto'] wool ['relatedto'] hair ['relatedto', 'atlocation'] brush
+suit ['relatedto'] wool ['relatedto'] hairy ['relatedto'] brush
+suit ['relatedto'] wool ['relatedto'] tool ['relatedto'] brush
+suit ['relatedto'] two ['relatedto'] card ['relatedto'] brush
+suit ['relatedto'] two ['relatedto'] fight ['isa'] brush
+suit ['relatedto'] two ['relatedto'] fox ['relatedto'] brush
+suit ['relatedto'] foundation ['relatedto'] card ['relatedto'] brush
+suit ['relatedto', 'atlocation'] suitcase ['relatedto'] handle ['partof'] brush
+suit ['relatedto', 'atlocation'] suitcase ['atlocation'] comb ['relatedto'] brush
+suit ['relatedto', 'atlocation'] suitcase ['atlocation'] hair_brush ['relatedto'] brush
+suit ['relatedto', 'atlocation'] suitcase ['atlocation'] toothbrush ['isa', 'relatedto', 'derivedfrom'] brush
+suit ['relatedto', 'derivedfrom', 'synonym'] lawsuit ['relatedto', 'synonym'] action ['synonym'] brush
+suit ['formof', 'relatedto'] suits ['relatedto'] card ['relatedto'] brush
+suit ['isa', 'relatedto'] playing_card ['isa', 'relatedto', 'derivedfrom', 'synonym'] card ['relatedto'] brush
+suit ['isa', 'relatedto'] trump ['etymologicallyrelatedto'] drum ['relatedto'] brush
+suit ['isa', 'relatedto'] trump ['relatedto'] card ['relatedto'] brush
+suit ['isa', 'relatedto'] trump ['mannerof'] move ['mannerof'] brush
+suit ['mannerof'] meet ['relatedto', 'synonym'] encounter ['synonym'] brush
+suit ['mannerof'] meet ['relatedto', 'synonym'] touch ['isa', 'mannerof', 'relatedto'] brush
+suit ['relatedto'] address ['relatedto'] apply ['relatedto'] brush
+suit ['relatedto'] address ['synonym'] cover ['mannerof'] brush
+suit ['relatedto'] address ['relatedto'] contact ['isa'] brush
+suit ['relatedto'] address ['relatedto'] move ['mannerof'] brush
+suit ['relatedto'] coat ['mannerof', 'relatedto'] cover ['mannerof'] brush
+suit ['relatedto'] coat ['mannerof', 'relatedto'] paint ['antonym', 'usedfor', 'relatedto'] brush
+suit ['relatedto'] coat ['isa'] hair ['relatedto', 'atlocation'] brush
+suit ['relatedto'] coat ['relatedto'] sable ['isa', 'relatedto'] brush
+suit ['relatedto'] coat ['relatedto'] shrimp_toast ['relatedto'] brush
+suit ['relatedto'] couleur ['relatedto'] card ['relatedto'] brush
+suit ['relatedto'] cup ['relatedto'] handle ['partof'] brush
+suit ['relatedto'] flush ['relatedto'] action ['synonym'] brush
+suit ['relatedto'] flush ['relatedto'] card ['relatedto'] brush

@@ -1,0 +1,100 @@
+baby ['relatedto'] human ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['antonym'] talk
+baby ['derivedfrom'] baby_talk ['derivedfrom'] talk
+baby ['relatedto'] humans ['capableof'] talk
+baby ['relatedto'] deliver ['mannerof'] talk
+baby ['relatedto'] adopt ['relatedto'] action ['relatedto'] talk
+baby ['relatedto'] adopt ['relatedto'] theme ['relatedto'] talk
+baby ['relatedto'] birth ['relatedto'] act ['relatedto'] talk
+baby ['relatedto'] birth ['relatedto', 'partof'] life ['relatedto'] talk
+baby ['relatedto'] birth ['relatedto'] deliver ['mannerof'] talk
+baby ['isa', 'distinctfrom', 'relatedto', 'synonym'] child ['capableof'] pick_nose ['haslastsubevent'] talk
+baby ['isa', 'distinctfrom', 'relatedto', 'synonym'] child ['relatedto'] human ['relatedto'] talk
+baby ['isa', 'distinctfrom', 'relatedto', 'synonym'] child ['relatedto'] student ['capableof'] talk
+baby ['isa', 'distinctfrom', 'relatedto', 'synonym'] child ['relatedto'] yap ['relatedto'] talk
+baby ['relatedto'] children ['relatedto'] baby_talk ['derivedfrom'] talk
+baby ['relatedto'] children ['relatedto'] human ['relatedto'] talk
+baby ['relatedto'] children ['relatedto'] humans ['capableof'] talk
+baby ['antonym', 'distinctfrom'] adult ['relatedto'] human ['relatedto'] talk
+baby ['antonym', 'distinctfrom'] adult ['relatedto'] baby_talk ['derivedfrom'] talk
+baby ['relatedto'] human ['atlocation'] movie ['relatedto'] talk
+baby ['relatedto'] human ['atlocation'] mouth ['antonym', 'relatedto', 'synonym'] talk
+baby ['relatedto'] human ['formof', 'relatedto'] humans ['capableof'] talk
+baby ['relatedto'] human ['hasproperty'] good ['relatedto'] talk
+baby ['relatedto'] human ['isa'] police ['relatedto'] talk
+baby ['relatedto'] human ['relatedto'] cheek ['mannerof'] talk
+baby ['relatedto'] human ['relatedto'] eat ['haslastsubevent'] talk
+baby ['relatedto'] human ['relatedto'] hear ['antonym'] talk
+baby ['relatedto'] human ['relatedto'] language ['relatedto'] talk
+baby ['relatedto'] human ['relatedto'] life ['relatedto'] talk
+baby ['relatedto'] human ['relatedto'] reason ['relatedto'] talk
+baby ['relatedto'] human ['relatedto'] voice ['relatedto'] talk
+baby ['antonym', 'relatedto'] old ['relatedto'] life ['relatedto'] talk
+baby ['antonym', 'relatedto'] old ['relatedto'] wine ['causesdesire'] talk
+baby ['relatedto'] young ['relatedto'] baby_talk ['derivedfrom'] talk
+baby ['relatedto'] young ['relatedto'] life ['relatedto'] talk
+baby ['relatedto'] young ['similarto'] teenaged ['relatedto'] talk
+baby ['relatedto'] new ['relatedto'] interview ['relatedto'] talk
+baby ['relatedto'] new ['relatedto'] begin ['mannerof'] talk
+baby ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] talk
+baby ['relatedto'] animal ['desires'] eat ['haslastsubevent'] talk
+baby ['relatedto'] animal ['isa', 'relatedto'] mate ['relatedto'] talk
+baby ['relatedto'] animal ['isa'] yak ['isa', 'relatedto'] talk
+baby ['relatedto'] animal ['relatedto'] life ['relatedto'] talk
+baby ['relatedto'] animal ['relatedto'] movement ['relatedto'] talk
+baby ['relatedto'] animal ['relatedto'] matter ['relatedto'] talk
+baby ['relatedto'] animal ['relatedto'] furby ['relatedto'] talk
+baby ['relatedto'] animal ['relatedto'] song ['antonym'] talk
+baby ['relatedto'] bird ['antonym'] human ['relatedto'] talk
+baby ['relatedto'] bird ['capableof'] sing ['antonym', 'mannerof'] talk
+baby ['relatedto'] bird ['hasproperty'] mute ['antonym'] talk
+baby ['relatedto'] bird ['isa', 'relatedto'] swallow ['mannerof', 'hasprerequisite'] talk
+baby ['relatedto'] bird ['relatedto'] friend ['capableof'] talk
+baby ['relatedto'] bird ['relatedto'] making ['relatedto'] talk
+baby ['relatedto'] bird ['relatedto'] chat ['relatedto'] talk
+baby ['relatedto'] bird ['relatedto'] peep ['mannerof'] talk
+baby ['relatedto'] bird ['relatedto'] song ['antonym'] talk
+baby ['relatedto'] bird ['relatedto'] twitter ['relatedto'] talk
+baby ['relatedto'] bird ['relatedto'] word ['antonym'] talk
+baby ['antonym', 'relatedto'] man ['relatedto', 'synonym'] human ['relatedto'] talk
+baby ['antonym', 'relatedto'] man ['isa'] black ['relatedto'] talk
+baby ['antonym', 'relatedto'] man ['relatedto'] good ['relatedto'] talk
+baby ['antonym', 'relatedto'] man ['relatedto'] matter ['relatedto'] talk
+baby ['antonym', 'relatedto'] man ['relatedto'] student ['capableof'] talk
+baby ['relatedto'] generation ['relatedto'] cry ['antonym'] talk
+baby ['atlocation'] house ['atlocation'] phone ['relatedto'] talk
+baby ['atlocation'] house ['relatedto'] keep ['antonym'] talk
+baby ['relatedto'] bottom ['relatedto'] wind ['isa'] talk
+baby ['relatedto'] bottom ['relatedto'] chin ['relatedto'] talk
+baby ['relatedto'] bottom ['relatedto'] jaw ['relatedto'] talk
+baby ['relatedto'] attentive ['relatedto'] listening ['antonym'] talk
+baby ['relatedto'] attentive ['relatedto'] listen ['antonym', 'distinctfrom', 'relatedto', 'similarto', 'haslastsubevent', 'hasprerequisite', 'motivatedbygoal'] talk
+baby ['relatedto'] attractive ['relatedto'] sense ['relatedto'] talk
+baby ['relatedto'] attractive ['relatedto'] wench ['relatedto'] talk
+baby ['desires'] comfort ['capableof'] friends ['causesdesire'] talk
+baby ['desires'] comfort ['relatedto'] good ['relatedto'] talk
+baby ['relatedto', 'atlocation'] cradle ['relatedto'] wine ['causesdesire'] talk
+baby ['relatedto', 'atlocation'] cradle ['relatedto'] telephone ['relatedto'] talk
+baby ['relatedto', 'atlocation'] crib ['relatedto'] slang ['relatedto'] talk
+baby ['relatedto', 'atlocation'] womb ['relatedto'] human ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto'] act ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto'] action ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto', 'synonym'] call ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['antonym'] whisper ['mannerof', 'relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto'] communication ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['capableof'] humans ['capableof'] talk
+baby ['capableof', 'relatedto'] cry ['isa'] bark ['mannerof'] talk
+baby ['capableof', 'relatedto'] cry ['isa'] bay ['mannerof'] talk
+baby ['capableof', 'relatedto'] cry ['isa'] cackle ['mannerof'] talk
+baby ['capableof', 'relatedto'] cry ['isa', 'relatedto'] noise ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['mannerof'] utter ['synonym'] talk
+baby ['capableof', 'relatedto'] cry ['mannerof'] snivel ['mannerof'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto'] making ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto', 'synonym'] shout ['mannerof', 'relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto', 'synonym'] yell ['antonym', 'relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto'] oral ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto'] fuss ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto'] gale ['relatedto'] talk
+baby ['capableof', 'relatedto'] cry ['relatedto'] yawp ['relatedto'] talk
+baby ['createdby'] sex ['relatedto'] human ['relatedto'] talk
+baby ['createdby'] sex ['hasproperty'] good ['relatedto'] talk

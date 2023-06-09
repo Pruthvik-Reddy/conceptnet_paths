@@ -1,0 +1,100 @@
+turkey ['antonym', 'distinctfrom', 'relatedto'] chicken ['relatedto'] stuff
+turkey ['relatedto'] turducken ['relatedto'] stuff
+turkey ['isa', 'relatedto'] bird ['relatedto', 'atlocation'] air ['relatedto'] stuff
+turkey ['isa', 'relatedto'] bird ['atlocation'] garden ['relatedto'] stuff
+turkey ['isa', 'relatedto'] bird ['isa', 'relatedto'] chicken ['relatedto'] stuff
+turkey ['isa', 'relatedto'] bird ['relatedto'] owner ['relatedto'] stuff
+turkey ['isa', 'relatedto'] bird ['relatedto'] crop ['relatedto'] stuff
+turkey ['isa', 'relatedto'] bird ['relatedto'] wood ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] fire ['relatedto'] stuff
+turkey ['isa'] food ['antonym', 'isa'] water ['relatedto'] stuff
+turkey ['isa'] food ['atlocation'] house ['atlocation'] stuff
+turkey ['isa'] food ['relatedto', 'atlocation'] cabinet ['relatedto', 'atlocation'] stuff
+turkey ['isa'] food ['relatedto', 'atlocation'] cupboard ['atlocation'] stuff
+turkey ['isa'] food ['atlocation'] gallery_opening ['atlocation'] stuff
+turkey ['isa'] food ['relatedto', 'atlocation'] market ['relatedto'] stuff
+turkey ['isa'] food ['atlocation'] shop ['relatedto'] stuff
+turkey ['isa'] food ['atlocation'] store ['atlocation'] stuff
+turkey ['isa'] food ['relatedto', 'atlocation'] table ['atlocation'] stuff
+turkey ['isa'] food ['atlocation'] trash ['relatedto'] stuff
+turkey ['isa'] food ['usedfor', 'relatedto', 'atlocation'] salt ['relatedto'] stuff
+turkey ['isa'] food ['capableof', 'isa', 'relatedto'] chicken ['relatedto'] stuff
+turkey ['isa'] food ['usedfor', 'causesdesire', 'motivatedbygoal', 'relatedto'] eat ['relatedto'] stuff
+turkey ['isa'] food ['distinctfrom'] paste ['relatedto'] stuff
+turkey ['isa'] food ['distinctfrom', 'relatedto'] poison ['relatedto'] stuff
+turkey ['isa'] food ['isa', 'relatedto', 'synonym'] bread ['relatedto'] stuff
+turkey ['isa'] food ['isa', 'relatedto'] substance ['relatedto'] stuff
+turkey ['isa'] food ['isa'] content ['relatedto'] stuff
+turkey ['isa'] food ['isa', 'relatedto'] macaroni ['relatedto'] stuff
+turkey ['isa'] food ['isa'] pierogi ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] blood ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] carry ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] crop ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] farm ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] garden ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] gather ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] gorged ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] grass ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] lard ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] milk ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] oil ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] polish ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] preserve ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] rice ['relatedto'] stuff
+turkey ['isa'] food ['relatedto'] sugar ['relatedto'] stuff
+turkey ['relatedto', 'partof'] breast ['relatedto', 'partof'] chicken ['relatedto'] stuff
+turkey ['relatedto'] hand ['hasa', 'relatedto', 'partof'] arm ['relatedto'] stuff
+turkey ['relatedto'] hand ['relatedto'] carry ['relatedto'] stuff
+turkey ['relatedto'] hand ['relatedto', 'atlocation'] glass ['relatedto'] stuff
+turkey ['relatedto'] hand ['isa'] collection ['relatedto'] stuff
+turkey ['relatedto'] hand ['relatedto'] bag ['relatedto'] stuff
+turkey ['relatedto'] hand ['relatedto'] wave ['relatedto'] stuff
+turkey ['relatedto'] hand ['relatedto'] quality ['isa', 'relatedto'] stuff
+turkey ['relatedto'] hand ['relatedto'] paper ['relatedto'] stuff
+turkey ['relatedto'] hand ['relatedto'] smash ['relatedto'] stuff
+turkey ['relatedto'] hand ['relatedto'] soap ['relatedto'] stuff
+turkey ['relatedto'] chick ['relatedto'] house ['atlocation'] stuff
+turkey ['relatedto'] chick ['isa', 'etymologicallyrelatedto', 'relatedto', 'partof'] chicken ['relatedto'] stuff
+turkey ['relatedto'] chick ['relatedto'] farm ['relatedto'] stuff
+turkey ['antonym', 'distinctfrom', 'relatedto'] chicken ['relatedto'] air ['relatedto'] stuff
+turkey ['antonym', 'distinctfrom', 'relatedto'] chicken ['relatedto'] house ['atlocation'] stuff
+turkey ['antonym', 'distinctfrom', 'relatedto'] chicken ['relatedto'] eat ['relatedto'] stuff
+turkey ['antonym', 'distinctfrom', 'relatedto'] chicken ['relatedto'] farm ['relatedto'] stuff
+turkey ['antonym', 'distinctfrom', 'relatedto'] chicken ['relatedto'] rice ['relatedto'] stuff
+turkey ['antonym', 'distinctfrom', 'relatedto'] chicken ['relatedto'] turducken ['relatedto'] stuff
+turkey ['atlocation'] heart ['relatedto', 'hasprerequisite'] blood ['relatedto'] stuff
+turkey ['atlocation'] heart ['relatedto'] wood ['relatedto'] stuff
+turkey ['atlocation'] heart ['synonym'] kernel ['isa'] stuff
+turkey ['atlocation'] mammoth ['atlocation'] history ['relatedto'] stuff
+turkey ['atlocation'] fridge ['atlocation'] milk ['relatedto'] stuff
+turkey ['atlocation'] oven ['isa', 'relatedto'] box ['relatedto', 'atlocation'] stuff
+turkey ['atlocation'] oven ['atlocation'] bread ['relatedto'] stuff
+turkey ['atlocation'] oven ['atlocation'] chicken ['relatedto'] stuff
+turkey ['atlocation'] refrigerator ['atlocation'] house ['atlocation'] stuff
+turkey ['atlocation'] refrigerator ['relatedto'] thing ['relatedto', 'synonym'] stuff
+turkey ['atlocation'] refrigerator ['relatedto'] box ['relatedto', 'atlocation'] stuff
+turkey ['atlocation'] refrigerator ['atlocation'] bread ['relatedto'] stuff
+turkey ['atlocation'] refrigerator ['isa'] machine ['relatedto'] stuff
+turkey ['atlocation'] refrigerator ['atlocation'] milk ['relatedto'] stuff
+turkey ['atlocation'] refrigerator ['atlocation'] rice ['relatedto'] stuff
+turkey ['atlocation'] refrigerator ['atlocation'] jam ['mannerof'] stuff
+turkey ['derivedfrom'] cold_turkey ['relatedto'] drug ['relatedto'] stuff
+turkey ['derivedfrom'] cold_turkey ['relatedto'] substance ['relatedto'] stuff
+turkey ['isa', 'relatedto'] country ['relatedto'] box ['relatedto', 'atlocation'] stuff
+turkey ['isa', 'relatedto'] country ['relatedto'] chicken ['relatedto'] stuff
+turkey ['isa', 'relatedto'] country ['isa', 'relatedto'] china ['relatedto'] stuff
+turkey ['isa', 'relatedto'] country ['antonym'] metal ['relatedto'] stuff
+turkey ['isa', 'relatedto'] country ['antonym'] rap ['relatedto'] stuff
+turkey ['isa', 'relatedto'] country ['atlocation'] grass ['relatedto'] stuff
+turkey ['isa', 'relatedto'] country ['relatedto'] collection ['relatedto'] stuff
+turkey ['isa', 'relatedto'] country ['relatedto'] farm ['relatedto'] stuff
+turkey ['isa', 'relatedto'] country ['relatedto'] polish ['relatedto'] stuff
+turkey ['isa'] domestic_fowl ['isa', 'relatedto'] chicken ['relatedto'] stuff
+turkey ['isa', 'relatedto'] poultry ['isa', 'relatedto'] chicken ['relatedto'] stuff
+turkey ['isa', 'relatedto'] poultry ['relatedto'] farm ['relatedto'] stuff
+turkey ['partof'] drumstick ['relatedto'] chicken ['relatedto'] stuff
+turkey ['partof'] middle_east ['derivedfrom'] middle ['relatedto'] stuff
+turkey ['partof'] middle_east ['relatedto'] oil ['relatedto'] stuff
+turkey ['relatedto'] aksu ['relatedto'] china ['relatedto'] stuff
+turkey ['relatedto'] algology ['relatedto'] algae ['relatedto'] stuff
+turkey ['relatedto'] asia ['relatedto', 'partof'] china ['relatedto'] stuff

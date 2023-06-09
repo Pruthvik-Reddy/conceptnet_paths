@@ -1,0 +1,100 @@
+hand ['relatedto', 'synonym'] handle ['relatedto'] grab
+hand ['relatedto'] hold ['relatedto'] grab
+hand ['atlocation'] grasper ['usedfor'] grab
+hand ['relatedto'] grip ['relatedto'] grab
+hand ['relatedto'] device ['relatedto'] grab
+hand ['relatedto'] grabber ['relatedto', 'derivedfrom'] grab
+hand ['relatedto'] grabbing ['formof', 'relatedto'] grab
+hand ['relatedto'] reach ['relatedto'] grab
+hand ['relatedto'] touch ['relatedto'] grab
+hand ['relatedto'] mechanical ['relatedto'] grab
+hand ['relatedto'] smash ['relatedto'] grab
+hand ['relatedto'] swipe ['relatedto'] grab
+hand ['isa'] ability ['relatedto'] grasp ['relatedto', 'synonym'] grab
+hand ['isa'] ability ['relatedto'] hold ['relatedto'] grab
+hand ['isa'] ability ['synonym'] use ['usedfor'] grab
+hand ['relatedto'] give ['antonym', 'synonym'] hold ['relatedto'] grab
+hand ['relatedto'] give ['mannerof'] use ['usedfor'] grab
+hand ['relatedto'] give ['relatedto'] move ['mannerof'] grab
+hand ['relatedto'] give ['relatedto'] reach ['relatedto'] grab
+hand ['relatedto'] advantage ['isa'] pull ['relatedto'] grab
+hand ['relatedto'] advantage ['relatedto'] reach ['relatedto'] grab
+hand ['relatedto'] advantage ['synonym'] use ['usedfor'] grab
+hand ['relatedto'] fore ['relatedto'] gripe ['relatedto'] grab
+hand ['relatedto', 'partof'] human ['relatedto'] touch ['relatedto'] grab
+hand ['relatedto'] together ['antonym', 'relatedto'] smash ['relatedto'] grab
+hand ['relatedto'] wrist ['relatedto'] clasp ['relatedto'] grab
+hand ['relatedto'] wrist ['relatedto'] kimedashi ['relatedto'] grab
+hand ['hasa', 'relatedto', 'partof'] arm ['relatedto'] reach ['relatedto'] grab
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['relatedto'] device ['relatedto'] grab
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['usedfor', 'relatedto'] hold ['relatedto'] grab
+hand ['antonym', 'distinctfrom', 'relatedto'] leg ['relatedto'] use ['usedfor'] grab
+hand ['relatedto'] manual ['relatedto'] mechanical ['relatedto'] grab
+hand ['relatedto', 'partof'] palm ['relatedto'] snap ['relatedto'] grab
+hand ['relatedto', 'partof'] palm ['synonym'] handle ['relatedto'] grab
+hand ['partof'] ball ['relatedto'] catch ['relatedto', 'synonym'] grab
+hand ['partof'] ball ['relatedto'] device ['relatedto'] grab
+hand ['partof'] ball ['relatedto'] handle ['relatedto'] grab
+hand ['partof'] ball ['relatedto'] retrieve ['relatedto'] grab
+hand ['relatedto'] helpful ['relatedto'] grip ['relatedto'] grab
+hand ['relatedto'] bank ['relatedto'] coast ['relatedto'] grab
+hand ['relatedto'] plate ['relatedto'] device ['relatedto'] grab
+hand ['relatedto'] plate ['relatedto'] hold ['relatedto'] grab
+hand ['relatedto'] plate ['relatedto'] vessel ['relatedto'] grab
+hand ['relatedto'] food ['isa'] malabar ['relatedto'] grab
+hand ['relatedto'] beyond ['relatedto'] reach ['relatedto'] grab
+hand ['relatedto'] time ['relatedto'] snap ['relatedto'] grab
+hand ['relatedto'] time ['relatedto'] use ['usedfor'] grab
+hand ['relatedto', 'synonym'] handle ['mannerof', 'synonym'] touch ['relatedto'] grab
+hand ['relatedto', 'synonym'] handle ['relatedto'] clutch ['relatedto', 'synonym'] grab
+hand ['relatedto', 'synonym'] handle ['relatedto', 'synonym'] grip ['relatedto'] grab
+hand ['relatedto', 'synonym'] handle ['relatedto'] gripe ['relatedto'] grab
+hand ['relatedto', 'synonym'] handle ['relatedto'] device ['relatedto'] grab
+hand ['relatedto', 'synonym'] handle ['relatedto'] grabbing ['formof', 'relatedto'] grab
+hand ['relatedto', 'synonym'] handle ['relatedto', 'synonym'] hold ['relatedto'] grab
+hand ['relatedto', 'synonym'] handle ['relatedto', 'synonym'] pull ['relatedto'] grab
+hand ['relatedto', 'synonym'] handle ['relatedto'] snatch ['relatedto', 'synonym'] grab
+hand ['antonym', 'relatedto', 'partof'] body ['relatedto', 'partof', 'atlocation'] vessel ['relatedto'] grab
+hand ['antonym', 'relatedto', 'partof'] body ['usedfor', 'relatedto'] move ['mannerof'] grab
+hand ['antonym', 'relatedto', 'partof'] body ['relatedto'] touch ['relatedto'] grab
+hand ['relatedto'] head ['relatedto'] use ['usedfor'] grab
+hand ['relatedto'] skin ['relatedto'] vessel ['relatedto'] grab
+hand ['relatedto'] skin ['relatedto'] touch ['relatedto'] grab
+hand ['relatedto'] carry ['usedfor', 'relatedto'] handle ['relatedto'] grab
+hand ['relatedto'] carry ['mannerof'] obtain ['mannerof'] grab
+hand ['relatedto'] carry ['mannerof', 'relatedto', 'synonym'] hold ['relatedto'] grab
+hand ['relatedto'] carry ['relatedto'] move ['mannerof'] grab
+hand ['relatedto'] carry ['relatedto'] grip ['relatedto'] grab
+hand ['relatedto'] carry ['relatedto'] retrieve ['relatedto'] grab
+hand ['relatedto'] hold ['relatedto', 'synonym'] handle ['relatedto'] grab
+hand ['relatedto'] hold ['mannerof', 'relatedto', 'synonym'] grasp ['relatedto', 'synonym'] grab
+hand ['relatedto'] hold ['relatedto'] catch ['relatedto', 'synonym'] grab
+hand ['relatedto'] hold ['relatedto'] enthrall ['relatedto'] grab
+hand ['relatedto'] hold ['relatedto'] grapple ['derivedfrom'] grab
+hand ['relatedto'] hold ['relatedto'] grip ['relatedto'] grab
+hand ['relatedto'] hold ['relatedto', 'synonym'] clasp ['relatedto'] grab
+hand ['relatedto'] hold ['relatedto'] clutch ['relatedto', 'synonym'] grab
+hand ['relatedto'] hold ['relatedto'] grabbing ['formof', 'relatedto'] grab
+hand ['relatedto'] hold ['relatedto'] move ['mannerof'] grab
+hand ['relatedto'] hold ['relatedto'] seize ['mannerof', 'relatedto', 'synonym'] grab
+hand ['relatedto'] hold ['relatedto'] touch ['relatedto'] grab
+hand ['relatedto'] hold ['relatedto'] reach ['relatedto'] grab
+hand ['relatedto'] hold ['synonym'] restrain ['relatedto'] grab
+hand ['relatedto'] gun ['isa'] mechanical_device ['isa'] grab
+hand ['relatedto'] gun ['relatedto'] device ['relatedto'] grab
+hand ['relatedto'] gun ['relatedto'] something ['relatedto'] grab
+hand ['antonym'] captain ['relatedto'] vessel ['relatedto'] grab
+hand ['antonym', 'distinctfrom', 'relatedto'] feet ['relatedto'] device ['relatedto'] grab
+hand ['antonym', 'distinctfrom', 'relatedto'] foot ['relatedto'] mechanical ['relatedto'] grab
+hand ['antonym', 'relatedto'] part ['isa', 'relatedto'] handle ['relatedto'] grab
+hand ['antonym', 'relatedto'] part ['relatedto'] touch ['relatedto'] grab
+hand ['antonym', 'relatedto'] napkin ['relatedto'] use ['usedfor'] grab
+hand ['antonym', 'relatedto'] napkin ['relatedto'] device ['relatedto'] grab
+hand ['antonym', 'relatedto'] print ['relatedto'] device ['relatedto'] grab
+hand ['antonym', 'relatedto'] print ['relatedto'] mechanical ['relatedto'] grab
+hand ['antonym', 'relatedto'] print ['relatedto'] use ['usedfor'] grab
+hand ['atlocation'] briefcase ['relatedto', 'partof'] handle ['relatedto'] grab
+hand ['relatedto', 'partof', 'atlocation'] finger ['synonym'] handle ['relatedto'] grab
+hand ['relatedto', 'partof', 'atlocation'] finger ['relatedto'] hold ['relatedto'] grab
+hand ['relatedto', 'partof', 'atlocation'] finger ['mannerof', 'relatedto'] touch ['relatedto'] grab
+hand ['relatedto', 'partof', 'atlocation'] finger ['relatedto'] grabbing ['formof', 'relatedto'] grab

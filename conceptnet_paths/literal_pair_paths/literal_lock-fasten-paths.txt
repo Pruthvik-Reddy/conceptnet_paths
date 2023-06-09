@@ -1,0 +1,100 @@
+lock ['usedfor', 'mannerof', 'relatedto'] fasten
+lock ['relatedto'] bar ['mannerof'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['usedfor'] fasten
+lock ['isa'] crimp ['relatedto'] fasten
+lock ['relatedto'] secure ['synonym'] fasten
+lock ['etymologicallyrelatedto'] ziploc ['relatedto'] fasten
+lock ['isa', 'relatedto', 'synonym'] latch ['mannerof'] fasten
+lock ['isa'] fastener ['relatedto', 'derivedfrom'] fasten
+lock ['isa'] restraint ['relatedto'] fasten
+lock ['relatedto'] belock ['relatedto'] fasten
+lock ['relatedto'] deadbolt ['relatedto'] fasten
+lock ['relatedto'] grapple ['relatedto'] fasten
+lock ['relatedto'] seize ['relatedto'] fasten
+lock ['mannerof', 'synonym'] engage ['relatedto'] catch ['synonym'] fasten
+lock ['mannerof', 'synonym'] engage ['relatedto'] bind ['mannerof', 'relatedto', 'synonym'] fasten
+lock ['relatedto'] safe ['relatedto', 'synonym'] secure ['synonym'] fasten
+lock ['relatedto'] marriage ['relatedto'] join ['synonym'] fasten
+lock ['relatedto'] marriage ['relatedto'] buckle ['mannerof', 'relatedto', 'synonym'] fasten
+lock ['relatedto'] marriage ['relatedto'] handfast ['relatedto'] fasten
+lock ['relatedto'] post ['mannerof'] affix ['relatedto'] fasten
+lock ['relatedto'] post ['isa', 'relatedto', 'synonym'] stake ['mannerof', 'relatedto'] fasten
+lock ['relatedto'] post ['relatedto'] hook ['mannerof'] fasten
+lock ['relatedto'] post ['relatedto'] stick ['mannerof'] fasten
+lock ['relatedto'] post ['relatedto'] tie ['mannerof', 'relatedto', 'synonym'] fasten
+lock ['relatedto'] post ['relatedto'] dowel ['relatedto'] fasten
+lock ['relatedto'] post ['relatedto'] staple ['mannerof'] fasten
+lock ['relatedto'] bar ['relatedto'] stick ['mannerof'] fasten
+lock ['relatedto'] bar ['relatedto'] hang ['mannerof'] fasten
+lock ['relatedto'] bar ['isa', 'relatedto'] bolt ['usedfor'] fasten
+lock ['relatedto'] bar ['relatedto'] joint ['mannerof'] fasten
+lock ['relatedto'] bar ['relatedto'] frog ['relatedto'] fasten
+lock ['relatedto'] bar ['relatedto'] latch ['mannerof'] fasten
+lock ['relatedto'] bar ['relatedto'] swingtree ['relatedto'] fasten
+lock ['relatedto'] bar ['relatedto'] upbar ['relatedto'] fasten
+lock ['relatedto'] bat ['relatedto'] stick ['mannerof'] fasten
+lock ['relatedto'] bat ['relatedto'] hook ['mannerof'] fasten
+lock ['relatedto'] handle ['relatedto'] stick ['mannerof'] fasten
+lock ['relatedto'] handle ['isa'] strap ['mannerof', 'relatedto', 'synonym'] fasten
+lock ['relatedto'] handle ['relatedto'] crank ['mannerof'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] join ['synonym'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['isa', 'relatedto'] bar ['mannerof'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['derivedfrom', 'synonym'] deadbolt ['relatedto'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['partof'] clinch ['mannerof', 'relatedto'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] fast ['etymologicallyrelatedto', 'relatedto'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] fastener ['relatedto', 'derivedfrom'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] latch ['mannerof'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] connect ['relatedto', 'synonym'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] secure ['synonym'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] boltable ['relatedto'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] gib ['relatedto'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] pin ['mannerof', 'relatedto'] fasten
+lock ['mannerof', 'relatedto', 'partof'] bolt ['relatedto'] snipebill ['relatedto'] fasten
+lock ['mannerof'] construct ['relatedto'] rig ['mannerof'] fasten
+lock ['relatedto'] keep ['mannerof'] stay ['mannerof'] fasten
+lock ['mannerof'] hold ['relatedto'] embrace ['relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] hang ['mannerof'] fasten
+lock ['mannerof'] hold ['mannerof'] chock ['mannerof'] fasten
+lock ['mannerof'] hold ['mannerof'] clinch ['mannerof', 'relatedto'] fasten
+lock ['mannerof'] hold ['mannerof'] sling ['relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] attach ['mannerof', 'relatedto', 'synonym'] fasten
+lock ['mannerof'] hold ['relatedto'] belt ['mannerof', 'relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] catch ['synonym'] fasten
+lock ['mannerof'] hold ['relatedto'] clamp ['mannerof', 'relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] crimp ['relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] grapple ['relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] handfast ['relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] hank ['relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] seize ['relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] nog ['relatedto'] fasten
+lock ['mannerof'] hold ['relatedto'] tether ['synonym'] fasten
+lock ['mannerof'] hold ['relatedto'] tie ['mannerof', 'relatedto', 'synonym'] fasten
+lock ['mannerof'] hold ['relatedto'] unloose ['relatedto'] fasten
+lock ['relatedto'] zipper ['antonym', 'relatedto'] button ['usedfor', 'mannerof', 'relatedto'] fasten
+lock ['relatedto'] zipper ['relatedto'] sleepsack ['relatedto'] fasten
+lock ['relatedto'] zipper ['relatedto'] fastener ['relatedto', 'derivedfrom'] fasten
+lock ['relatedto'] zipper ['relatedto'] fastening ['formof', 'relatedto', 'derivedfrom'] fasten
+lock ['relatedto'] zipper ['relatedto'] ziptop ['relatedto'] fasten
+lock ['usedfor'] close ['mannerof'] join ['synonym'] fasten
+lock ['usedfor'] close ['relatedto'] bar ['mannerof'] fasten
+lock ['usedfor'] close ['relatedto'] buckle ['mannerof', 'relatedto', 'synonym'] fasten
+lock ['usedfor'] close ['isa'] button ['usedfor', 'mannerof', 'relatedto'] fasten
+lock ['usedfor'] close ['mannerof'] coapt ['mannerof'] fasten
+lock ['usedfor'] close ['mannerof'] seal ['relatedto', 'entails'] fasten
+lock ['usedfor'] close ['mannerof'] snap ['relatedto'] fasten
+lock ['usedfor'] close ['relatedto'] grapple ['relatedto'] fasten
+lock ['usedfor'] close ['relatedto'] fast ['etymologicallyrelatedto', 'relatedto'] fasten
+lock ['usedfor'] close ['relatedto'] latch ['mannerof'] fasten
+lock ['capableof'] open ['relatedto'] catch ['synonym'] fasten
+lock ['relatedto'] closed ['relatedto'] loop ['relatedto'] fasten
+lock ['relatedto'] closed ['relatedto'] latch ['mannerof'] fasten
+lock ['partof'] firearm ['relatedto'] bolt ['usedfor'] fasten
+lock ['partof'] firearm ['relatedto'] sling ['relatedto'] fasten
+lock ['partof'] firearm ['relatedto'] snap ['relatedto'] fasten
+lock ['relatedto'] combination ['relatedto'] join ['synonym'] fasten
+lock ['relatedto'] control ['mannerof'] catch ['synonym'] fasten
+lock ['relatedto'] control ['isa', 'relatedto', 'synonym'] restraint ['relatedto'] fasten
+lock ['relatedto'] control ['relatedto'] cramp ['mannerof'] fasten
+lock ['madeof', 'relatedto'] metal ['relatedto'] bar ['mannerof'] fasten
+lock ['madeof', 'relatedto'] metal ['relatedto'] bolt ['usedfor'] fasten
+lock ['madeof', 'relatedto'] metal ['relatedto'] buckle ['mannerof', 'relatedto', 'synonym'] fasten

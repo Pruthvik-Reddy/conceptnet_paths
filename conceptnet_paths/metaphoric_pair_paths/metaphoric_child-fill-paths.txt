@@ -1,0 +1,100 @@
+child ['relatedto'] female ['relatedto'] fill
+child ['relatedto'] container ['relatedto'] fill
+child ['relatedto'] heap ['mannerof'] fill
+child ['relatedto'] relative ['relatedto'] close ['mannerof'] fill
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['relatedto'] fill
+child ['createdby'] birth ['isa'] change ['mannerof'] fill
+child ['antonym', 'distinctfrom', 'relatedto'] adult ['capableof'] work ['mannerof'] fill
+child ['antonym', 'distinctfrom', 'relatedto'] adult ['relatedto'] fully ['relatedto'] fill
+child ['antonym', 'relatedto'] mother ['relatedto'] air ['relatedto'] fill
+child ['antonym', 'relatedto'] mother ['relatedto'] female ['relatedto'] fill
+child ['relatedto', 'partof', 'atlocation'] family ['relatedto', 'partof', 'synonym'] order ['relatedto'] fill
+child ['relatedto', 'partof', 'atlocation'] family ['relatedto'] car ['relatedto'] fill
+child ['relatedto', 'partof', 'atlocation'] family ['relatedto'] line ['mannerof', 'relatedto'] fill
+child ['relatedto', 'partof', 'atlocation'] family ['isa'] carriage ['relatedto'] fill
+child ['atlocation'] pen ['relatedto'] line ['mannerof', 'relatedto'] fill
+child ['atlocation'] pen ['antonym'] close ['mannerof'] fill
+child ['atlocation'] pen ['atlocation'] office ['relatedto'] fill
+child ['atlocation'] pen ['hasa', 'relatedto', 'partof'] ink ['mannerof'] fill
+child ['relatedto', 'atlocation'] school ['relatedto'] art ['relatedto'] fill
+child ['relatedto', 'atlocation'] school ['relatedto'] break ['relatedto'] fill
+child ['relatedto', 'atlocation'] school ['atlocation'] ink ['mannerof'] fill
+child ['relatedto', 'atlocation'] school ['relatedto'] failing ['relatedto'] fill
+child ['relatedto', 'atlocation'] school ['relatedto'] form ['relatedto'] fill
+child ['capableof'] breathe ['motivatedbygoal', 'relatedto'] air ['relatedto'] fill
+child ['capableof'] clear_table ['haslastsubevent'] eat ['relatedto'] fill
+child ['capableof'] drink_juice ['usedfor'] cup ['antonym'] fill
+child ['capableof', 'desires'] learn ['relatedto'] action ['relatedto'] fill
+child ['capableof'] pain ['capableof'] work ['mannerof'] fill
+child ['capableof'] read_book ['haslastsubevent'] close ['mannerof'] fill
+child ['capableof'] set_table ['hasprerequisite'] eat ['relatedto'] fill
+child ['capableof'] set_table ['relatedto'] cup ['antonym'] fill
+child ['capableof'] take_bath ['usedfor'] water ['mannerof', 'relatedto'] fill
+child ['capableof'] take_bath ['usedfor'] bath ['usedfor'] fill
+child ['capableof'] take_shower ['hasprerequisite'] work ['mannerof'] fill
+child ['capableof'] walk_dog ['relatedto'] shaft ['relatedto'] fill
+child ['capableof'] whine ['relatedto'] sound ['relatedto'] fill
+child ['causes'] reproducing ['hasprerequisite'] sexual_intercourse ['relatedto'] fill
+child ['causes'] reproducing ['usedfor'] populating ['relatedto'] fill
+child ['desires'] balloon ['relatedto', 'atlocation'] air ['relatedto'] fill
+child ['desires'] balloon ['relatedto'] inflated ['relatedto'] fill
+child ['desires'] balloon ['relatedto'] cup ['antonym'] fill
+child ['desires'] balloon ['relatedto', 'synonym'] inflate ['relatedto'] fill
+child ['desires'] balloon ['relatedto'] car ['relatedto'] fill
+child ['desires'] ice_cream ['relatedto'] topping ['relatedto'] fill
+child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto'] carriage ['relatedto'] fill
+child ['isa', 'distinctfrom', 'relatedto', 'synonym'] baby ['relatedto'] sound ['relatedto'] fill
+child ['formof', 'relatedto'] children ['atlocation'] car ['relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['isa', 'relatedto'] action ['relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] crowd ['relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] art ['relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] break ['relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['antonym', 'distinctfrom', 'relatedto'] work ['mannerof'] fill
+child ['relatedto', 'hasprerequisite'] play ['atlocation'] line ['mannerof', 'relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['mannerof'] complete ['mannerof', 'relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] form ['relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['synonym'] meet ['synonym'] fill
+child ['relatedto', 'hasprerequisite'] play ['mannerof'] sound ['relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['mannerof'] riff ['relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] pad ['mannerof', 'relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] stuff ['mannerof', 'relatedto'] fill
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] yard ['relatedto'] fill
+child ['isa', 'relatedto'] boy ['distinctfrom', 'relatedto'] female ['relatedto'] fill
+child ['isa', 'relatedto'] boy ['relatedto'] station ['relatedto'] fill
+child ['isa'] buster ['relatedto'] break ['relatedto'] fill
+child ['isa'] changeling ['derivedfrom'] change ['mannerof'] fill
+child ['isa'] animal ['desires'] eat ['relatedto'] fill
+child ['isa'] animal ['isa'] female ['relatedto'] fill
+child ['isa'] animal ['relatedto'] form ['relatedto'] fill
+child ['isa'] animal ['relatedto'] work ['mannerof'] fill
+child ['isa'] animal ['relatedto'] pug ['relatedto'] fill
+child ['isa'] animal ['relatedto'] shaft ['relatedto'] fill
+child ['isa'] animal ['relatedto'] surcharge ['mannerof'] fill
+child ['isa', 'synonym'] descendant ['relatedto'] line ['mannerof', 'relatedto'] fill
+child ['isa', 'relatedto'] daughter ['relatedto'] female ['relatedto'] fill
+child ['isa'] everyone ['synonym'] crowd ['relatedto'] fill
+child ['isa'] everyone ['usedfor'] art ['relatedto'] fill
+child ['isa'] everyone ['relatedto'] population ['relatedto'] fill
+child ['isa'] female_offspring ['isa'] female ['relatedto'] fill
+child ['isa'] flower_girl ['relatedto'] female ['relatedto'] fill
+child ['isa', 'relatedto'] girl ['relatedto', 'synonym'] female ['relatedto'] fill
+child ['isa'] orphan ['isa', 'relatedto'] line ['mannerof', 'relatedto'] fill
+child ['isa'] peanut ['isa'] pod ['relatedto'] fill
+child ['isa'] silly ['relatedto'] close ['mannerof'] fill
+child ['isa'] silly ['relatedto'] station ['relatedto'] fill
+child ['isa', 'relatedto'] son ['distinctfrom', 'relatedto'] female ['relatedto'] fill
+child ['isa'] waif ['etymologicallyrelatedto', 'relatedto'] weft ['relatedto', 'synonym'] fill
+child ['relatedto'] access ['relatedto'] enter ['relatedto'] fill
+child ['relatedto'] access ['relatedto'] passage ['relatedto'] fill
+child ['relatedto'] ball ['relatedto'] air ['relatedto'] fill
+child ['relatedto'] ball ['relatedto'] inflated ['relatedto'] fill
+child ['relatedto'] ball ['relatedto'] sexual_intercourse ['relatedto'] fill
+child ['relatedto'] bambino ['relatedto'] art ['relatedto'] fill
+child ['relatedto'] bath_book ['relatedto'] bath ['usedfor'] fill
+child ['relatedto'] born ['relatedto'] action ['relatedto'] fill
+child ['relatedto'] born ['relatedto'] order ['relatedto'] fill
+child ['relatedto'] born ['relatedto'] enter ['relatedto'] fill
+child ['relatedto'] born ['relatedto'] past ['distinctfrom'] fill
+child ['relatedto'] car_seat ['partof', 'atlocation'] car ['relatedto'] fill
+child ['relatedto'] chick ['relatedto'] female ['relatedto'] fill
+child ['relatedto'] chicken ['relatedto'] air ['relatedto'] fill

@@ -1,0 +1,100 @@
+star ['relatedto'] appear ['mannerof'] flash
+star ['relatedto'] body ['relatedto'] flash
+star ['relatedto'] light ['isa', 'usedfor', 'relatedto'] flash
+star ['relatedto'] photochronograph ['relatedto'] flash
+star ['relatedto'] scintillation ['relatedto'] flash
+star ['relatedto'] spangle ['relatedto'] flash
+star ['relatedto'] shining ['relatedto'] flash
+star ['relatedto'] twinkle ['relatedto', 'synonym'] flash
+star ['relatedto'] act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] flash
+star ['relatedto'] act ['distinctfrom', 'relatedto', 'partof'] scene ['relatedto'] flash
+star ['relatedto'] act ['relatedto'] function ['relatedto'] flash
+star ['relatedto'] act ['relatedto'] part ['relatedto'] flash
+star ['relatedto'] act ['relatedto'] show ['mannerof'] flash
+star ['relatedto'] act ['relatedto'] fast ['relatedto'] flash
+star ['relatedto'] act ['relatedto'] flush ['relatedto'] flash
+star ['relatedto'] act ['relatedto', 'synonym'] move ['relatedto'] flash
+star ['relatedto'] act ['relatedto'] slash ['etymologicallyrelatedto'] flash
+star ['relatedto'] future ['isa', 'relatedto'] time ['relatedto'] flash
+star ['relatedto'] future ['relatedto'] flashforward ['derivedfrom'] flash
+star ['relatedto'] future ['relatedto'] experience ['isa'] flash
+star ['relatedto'] agent ['relatedto'] action ['relatedto'] flash
+star ['relatedto'] agent ['relatedto'] sugar ['relatedto'] flash
+star ['relatedto'] fire ['causes', 'relatedto'] spark ['relatedto'] flash
+star ['relatedto'] fire ['isa'] cover ['mannerof'] flash
+star ['relatedto'] fire ['isa'] happening ['isa'] flash
+star ['relatedto'] fire ['isa'] software ['relatedto'] flash
+star ['relatedto'] fire ['isa'] flare ['etymologicallyrelatedto', 'relatedto', 'synonym'] flash
+star ['relatedto'] fire ['relatedto'] bright ['relatedto'] flash
+star ['relatedto'] fire ['relatedto'] burnt ['relatedto'] flash
+star ['relatedto'] fire ['relatedto'] flicker ['isa', 'mannerof', 'relatedto'] flash
+star ['relatedto'] fire ['relatedto'] light ['isa', 'usedfor', 'relatedto'] flash
+star ['relatedto'] fire ['relatedto'] torch ['relatedto'] flash
+star ['relatedto'] fire ['relatedto'] lighter ['relatedto'] flash
+star ['relatedto'] fire ['relatedto'] slash ['etymologicallyrelatedto'] flash
+star ['relatedto'] fire ['relatedto'] spit_fire ['relatedto'] flash
+star ['relatedto'] appear ['mannerof'] gleam ['isa', 'relatedto', 'synonym'] flash
+star ['relatedto'] appear ['mannerof', 'relatedto'] show ['mannerof'] flash
+star ['relatedto'] appear ['relatedto'] phenomenon ['relatedto'] flash
+star ['relatedto'] appear ['relatedto'] sudden ['relatedto'] flash
+star ['relatedto'] appear ['relatedto'] suddenly ['relatedto'] flash
+star ['relatedto'] appear ['relatedto', 'synonym'] visible ['relatedto'] flash
+star ['relatedto'] appear ['relatedto'] flicker ['isa', 'mannerof', 'relatedto'] flash
+star ['relatedto'] appear ['relatedto'] strike ['relatedto'] flash
+star ['relatedto'] appear ['relatedto'] surface ['relatedto'] flash
+star ['relatedto'] appear ['synonym'] open ['relatedto'] flash
+star ['relatedto'] band ['atlocation'] show ['mannerof'] flash
+star ['relatedto'] band ['isa', 'relatedto'] collar ['relatedto'] flash
+star ['relatedto'] band ['isa'] explosion ['relatedto'] flash
+star ['relatedto'] band ['isa'] snap ['relatedto'] flash
+star ['relatedto'] night ['antonym'] brightness ['isa', 'relatedto'] flash
+star ['relatedto'] night ['isa', 'relatedto', 'synonym'] dark ['antonym', 'relatedto'] flash
+star ['relatedto'] night ['relatedto'] edge ['relatedto'] flash
+star ['relatedto'] night ['relatedto'] part ['relatedto'] flash
+star ['relatedto'] night ['relatedto'] time ['relatedto'] flash
+star ['relatedto'] black_hole ['relatedto'] dark ['antonym', 'relatedto'] flash
+star ['relatedto'] black_hole ['relatedto'] light ['isa', 'usedfor', 'relatedto'] flash
+star ['relatedto'] black_hole ['relatedto'] military ['relatedto'] flash
+star ['relatedto', 'atlocation'] sky ['hasproperty'] bright ['relatedto'] flash
+star ['relatedto', 'atlocation'] sky ['atlocation'] photo ['relatedto'] flash
+star ['relatedto', 'atlocation'] sky ['relatedto', 'hasproperty'] dark ['antonym', 'relatedto'] flash
+star ['relatedto', 'atlocation'] sky ['relatedto'] open ['relatedto'] flash
+star ['relatedto', 'atlocation'] sky ['relatedto'] twinkle ['relatedto', 'synonym'] flash
+star ['relatedto', 'atlocation'] sky ['relatedto'] thunder ['relatedto'] flash
+star ['relatedto', 'atlocation'] sky ['relatedto'] weather ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] short ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] cover ['mannerof'] flash
+star ['relatedto'] body ['relatedto'] blouse ['relatedto'] flash
+star ['relatedto'] body ['relatedto', 'partof', 'atlocation'] vessel ['relatedto'] flash
+star ['relatedto'] body ['isa', 'relatedto'] public ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] bone ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] material ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] part ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] accessory ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] content ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] language ['relatedto'] flash
+star ['relatedto'] body ['usedfor', 'relatedto'] move ['relatedto'] flash
+star ['relatedto'] body ['relatedto'] pool ['relatedto'] flash
+star ['relatedto'] capital ['relatedto'] action ['relatedto'] flash
+star ['relatedto'] hand ['relatedto'] time ['relatedto'] flash
+star ['relatedto'] hand ['antonym', 'relatedto', 'partof'] body ['relatedto'] flash
+star ['relatedto'] hand ['antonym', 'relatedto'] part ['relatedto'] flash
+star ['relatedto'] hand ['capableof', 'relatedto'] write ['relatedto'] flash
+star ['relatedto'] hand ['relatedto'] card ['relatedto'] flash
+star ['relatedto'] hand ['relatedto'] flush ['relatedto'] flash
+star ['relatedto'] hand ['relatedto'] edge ['relatedto'] flash
+star ['relatedto'] character ['relatedto'] action ['relatedto'] flash
+star ['relatedto'] character ['relatedto'] slash ['etymologicallyrelatedto'] flash
+star ['relatedto'] character ['isa', 'relatedto'] hero ['relatedto'] flash
+star ['relatedto'] character ['relatedto'] animation ['relatedto'] flash
+star ['relatedto'] character ['relatedto', 'synonym'] part ['relatedto'] flash
+star ['relatedto'] character ['relatedto'] write ['relatedto'] flash
+star ['relatedto'] character ['relatedto'] display ['relatedto'] flash
+star ['relatedto'] character ['relatedto'] identity ['relatedto'] flash
+star ['relatedto'] character ['relatedto'] morse_code ['relatedto'] flash
+star ['relatedto'] character ['relatedto'] open ['relatedto'] flash
+star ['relatedto'] force ['relatedto', 'synonym'] action ['relatedto'] flash
+star ['relatedto'] force ['relatedto'] time ['relatedto'] flash
+star ['relatedto'] force ['isa', 'relatedto'] military ['relatedto'] flash
+star ['relatedto'] force ['isa', 'relatedto'] pressure ['relatedto'] flash
+star ['relatedto'] force ['relatedto'] light ['isa', 'usedfor', 'relatedto'] flash

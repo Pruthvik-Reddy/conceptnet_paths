@@ -1,0 +1,100 @@
+slide ['antonym'] climb ['relatedto', 'synonym'] mount
+slide ['relatedto'] launch ['relatedto'] mount
+slide ['relatedto'] play ['relatedto'] mount
+slide ['relatedto'] ride ['relatedto', 'synonym'] mount
+slide ['relatedto'] wholemount ['derivedfrom'] mount
+slide ['relatedto'] children ['relatedto'] play ['relatedto'] mount
+slide ['relatedto'] earth ['antonym', 'distinctfrom', 'relatedto'] heaven ['relatedto'] mount
+slide ['relatedto'] earth ['relatedto'] hill ['relatedto'] mount
+slide ['relatedto'] earth ['relatedto'] mountain ['relatedto', 'synonym'] mount
+slide ['relatedto'] earth ['relatedto'] star_trail ['relatedto'] mount
+slide ['relatedto'] ground ['antonym', 'isa', 'relatedto'] hill ['relatedto'] mount
+slide ['relatedto'] ground ['antonym'] mountain ['relatedto', 'synonym'] mount
+slide ['relatedto'] ground ['atlocation'] litter ['relatedto'] mount
+slide ['relatedto'] ground ['relatedto'] building ['isa'] mount
+slide ['relatedto'] ground ['relatedto'] play ['relatedto'] mount
+slide ['relatedto'] ground ['relatedto'] framework ['relatedto'] mount
+slide ['relatedto'] low ['relatedto'] hill ['relatedto'] mount
+slide ['relatedto'] low ['relatedto'] mound ['relatedto'] mount
+slide ['relatedto'] toe ['relatedto'] set ['similarto'] mount
+slide ['relatedto'] toe ['relatedto'] back ['relatedto'] mount
+slide ['relatedto'] plate ['relatedto'] device ['relatedto'] mount
+slide ['relatedto'] plate ['relatedto'] hand ['relatedto'] mount
+slide ['relatedto'] plate ['relatedto'] setting ['synonym'] mount
+slide ['relatedto'] plate ['relatedto'] sidelock ['relatedto'] mount
+slide ['relatedto'] board ['relatedto'] set ['similarto'] mount
+slide ['relatedto'] board ['usedfor', 'relatedto', 'atlocation'] building ['isa'] mount
+slide ['relatedto'] board ['derivedfrom'] motorboard ['relatedto'] mount
+slide ['relatedto'] board ['relatedto', 'derivedfrom'] mountboard ['relatedto', 'derivedfrom'] mount
+slide ['relatedto'] board ['relatedto'] device ['relatedto'] mount
+slide ['relatedto'] board ['relatedto'] play ['relatedto'] mount
+slide ['relatedto'] board ['relatedto'] amount ['relatedto'] mount
+slide ['relatedto'] board ['relatedto'] climb ['relatedto', 'synonym'] mount
+slide ['relatedto'] bolt ['relatedto'] building ['isa'] mount
+slide ['relatedto', 'synonym'] chute ['relatedto'] framework ['relatedto'] mount
+slide ['relatedto'] triangle ['relatedto'] mountain ['relatedto', 'synonym'] mount
+slide ['relatedto'] triangle ['relatedto'] play ['relatedto'] mount
+slide ['antonym'] climb ['antonym', 'usedfor', 'relatedto'] mountain ['relatedto', 'synonym'] mount
+slide ['antonym'] climb ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] climber ['relatedto'] mount
+slide ['antonym'] climb ['mannerof'] ride ['relatedto', 'synonym'] mount
+slide ['antonym'] climb ['usedfor', 'relatedto'] hill ['relatedto'] mount
+slide ['antonym'] climb ['relatedto'] soar ['relatedto'] mount
+slide ['antonym'] climb ['relatedto'] transcend ['relatedto'] mount
+slide ['antonym'] climb ['synonym'] wax ['synonym'] mount
+slide ['antonym'] climb ['synonym'] mounting ['formof', 'isa', 'relatedto'] mount
+slide ['relatedto'] ladder ['antonym', 'relatedto'] climb ['relatedto', 'synonym'] mount
+slide ['relatedto', 'atlocation'] park ['atlocation'] bank ['relatedto'] mount
+slide ['relatedto', 'atlocation'] park ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] drive ['relatedto'] mount
+slide ['relatedto', 'atlocation'] park ['antonym'] building ['isa'] mount
+slide ['relatedto', 'atlocation'] park ['atlocation'] bicycle ['relatedto'] mount
+slide ['relatedto', 'atlocation'] park ['atlocation'] hill ['relatedto'] mount
+slide ['relatedto', 'atlocation'] park ['atlocation'] litter ['relatedto'] mount
+slide ['relatedto', 'atlocation'] park ['etymologicallyrelatedto'] paddock ['relatedto'] mount
+slide ['relatedto', 'atlocation'] park ['relatedto'] play ['relatedto'] mount
+slide ['relatedto', 'atlocation'] park ['relatedto'] ride ['relatedto', 'synonym'] mount
+slide ['isa', 'derivedfrom'] landslide ['relatedto'] seamount ['derivedfrom'] mount
+slide ['derivedfrom'] backslide ['derivedfrom'] back ['relatedto'] mount
+slide ['etymologicallyrelatedto'] sled ['mannerof', 'relatedto'] ride ['relatedto', 'synonym'] mount
+slide ['isa', 'relatedto'] avalanche ['relatedto'] mountain ['relatedto', 'synonym'] mount
+slide ['isa'] motion ['relatedto'] arise ['synonym'] mount
+slide ['isa'] motion ['relatedto'] climb ['relatedto', 'synonym'] mount
+slide ['isa'] motion ['relatedto'] drive ['relatedto'] mount
+slide ['isa'] motion ['relatedto'] ride ['relatedto', 'synonym'] mount
+slide ['isa'] foil ['relatedto'] setting ['synonym'] mount
+slide ['isa'] plaything ['relatedto', 'derivedfrom'] play ['relatedto'] mount
+slide ['isa'] descent ['isa'] set ['similarto'] mount
+slide ['isa'] snowboarding ['relatedto'] jib ['relatedto'] mount
+slide ['mannerof', 'relatedto'] move ['antonym'] fix ['mannerof'] mount
+slide ['mannerof', 'relatedto'] move ['mannerof', 'relatedto'] climb ['relatedto', 'synonym'] mount
+slide ['mannerof', 'relatedto'] move ['mannerof', 'relatedto', 'synonym'] drive ['relatedto'] mount
+slide ['mannerof', 'relatedto'] move ['relatedto'] ride ['relatedto', 'synonym'] mount
+slide ['mannerof', 'relatedto'] move ['relatedto'] heaven ['relatedto'] mount
+slide ['mannerof', 'relatedto'] move ['mannerof', 'relatedto', 'entails'] play ['relatedto'] mount
+slide ['mannerof', 'relatedto'] move ['mannerof'] launch ['relatedto'] mount
+slide ['mannerof', 'relatedto'] move ['relatedto'] cavort ['relatedto'] mount
+slide ['mannerof', 'relatedto'] move ['relatedto', 'synonym'] influence ['relatedto'] mount
+slide ['relatedto', 'partof'] playground ['relatedto', 'derivedfrom'] play ['relatedto'] mount
+slide ['relatedto', 'synonym'] coast ['relatedto'] bank ['relatedto'] mount
+slide ['relatedto', 'synonym'] coast ['relatedto'] hill ['relatedto'] mount
+slide ['relatedto', 'synonym'] coast ['relatedto'] soar ['relatedto'] mount
+slide ['relatedto'] cut ['antonym'] put_together ['synonym'] mount
+slide ['relatedto'] cut ['relatedto'] hand ['relatedto'] mount
+slide ['relatedto'] push ['mannerof', 'relatedto'] drive ['relatedto'] mount
+slide ['relatedto'] rail ['relatedto'] support ['relatedto'] mount
+slide ['relatedto'] rub ['relatedto'] back ['relatedto'] mount
+slide ['relatedto'] rub ['relatedto'] hand ['relatedto'] mount
+slide ['relatedto'] rub ['relatedto'] wax ['synonym'] mount
+slide ['relatedto'] scene ['relatedto', 'atlocation'] play ['relatedto'] mount
+slide ['relatedto'] scene ['relatedto', 'synonym'] setting ['synonym'] mount
+slide ['relatedto'] scene ['relatedto'] device ['relatedto'] mount
+slide ['relatedto'] side_hand ['relatedto'] palm ['relatedto'] mount
+slide ['relatedto'] sledding ['usedfor', 'relatedto'] hill ['relatedto'] mount
+slide ['relatedto'] amusement ['relatedto'] ride ['relatedto', 'synonym'] mount
+slide ['relatedto'] amusement ['relatedto'] play ['relatedto'] mount
+slide ['relatedto'] equipment ['relatedto'] climb ['relatedto', 'synonym'] mount
+slide ['relatedto'] equipment ['relatedto'] horse ['relatedto'] mount
+slide ['relatedto'] equipment ['relatedto'] backpack ['relatedto'] mount
+slide ['relatedto'] equipment ['relatedto'] device ['relatedto'] mount
+slide ['relatedto'] equipment ['relatedto'] tripod ['relatedto'] mount
+slide ['relatedto'] height ['relatedto'] mountain ['relatedto', 'synonym'] mount
+slide ['relatedto'] height ['relatedto'] hill ['relatedto'] mount

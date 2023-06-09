@@ -1,0 +1,100 @@
+snake ['relatedto'] move ['relatedto'] swim
+snake ['relatedto', 'atlocation'] river ['relatedto'] swim
+snake ['partof'] twin ['relatedto'] swim
+snake ['atlocation'] earth ['relatedto'] human ['relatedto'] swim
+snake ['atlocation'] earth ['antonym', 'relatedto', 'atlocation'] sea ['usedfor'] swim
+snake ['atlocation'] earth ['antonym', 'relatedto'] water ['relatedto'] swim
+snake ['atlocation'] earth ['relatedto', 'atlocation'] ocean ['relatedto'] swim
+snake ['atlocation'] earth ['isa'] thing ['relatedto'] swim
+snake ['atlocation'] earth ['relatedto'] float ['relatedto', 'synonym'] swim
+snake ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] swim
+snake ['relatedto'] animal ['isa', 'relatedto'] bear ['capableof'] swim
+snake ['relatedto'] animal ['isa', 'relatedto'] fish ['capableof', 'relatedto'] swim
+snake ['relatedto'] animal ['isa', 'relatedto'] turtle ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] body ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] dog ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] legs ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] movement ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] related ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] thing ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] type ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] back ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] fly ['antonym'] swim
+snake ['relatedto'] animal ['relatedto'] frog ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] hot ['motivatedbygoal'] swim
+snake ['relatedto'] animal ['relatedto'] move ['relatedto'] swim
+snake ['relatedto'] animal ['relatedto'] shark ['capableof', 'relatedto'] swim
+snake ['relatedto'] animal ['usedfor'] race ['relatedto'] swim
+snake ['relatedto'] apple ['relatedto'] type ['relatedto'] swim
+snake ['atlocation'] basement ['atlocation'] human ['relatedto'] swim
+snake ['atlocation'] basement ['relatedto'] water ['relatedto'] swim
+snake ['atlocation'] shower ['relatedto', 'atlocation'] water ['relatedto'] swim
+snake ['atlocation'] shower ['antonym', 'mannerof', 'relatedto'] bathe ['mannerof', 'relatedto'] swim
+snake ['atlocation'] shower ['haslastsubevent'] exercise ['motivatedbygoal', 'relatedto'] swim
+snake ['atlocation'] shower ['isa', 'usedfor', 'relatedto'] bathing ['relatedto'] swim
+snake ['atlocation'] shower ['relatedto'] body ['relatedto'] swim
+snake ['atlocation'] shower ['relatedto'] oneself ['relatedto'] swim
+snake ['atlocation'] shower ['relatedto'] wet ['relatedto'] swim
+snake ['atlocation'] cub ['antonym', 'relatedto'] bear ['capableof'] swim
+snake ['atlocation'] bed ['atlocation'] human ['relatedto'] swim
+snake ['atlocation'] bed ['relatedto'] go ['relatedto'] swim
+snake ['atlocation'] bed ['atlocation'] dog ['relatedto'] swim
+snake ['atlocation'] bed ['relatedto'] horizontal ['relatedto'] swim
+snake ['atlocation'] bed ['relatedto'] legs ['relatedto'] swim
+snake ['atlocation'] bed ['relatedto'] part ['relatedto'] swim
+snake ['atlocation'] bed ['relatedto'] related ['relatedto'] swim
+snake ['atlocation'] bed ['relatedto'] thing ['relatedto'] swim
+snake ['atlocation'] bed ['relatedto'] twin ['relatedto'] swim
+snake ['atlocation'] bed ['relatedto'] channel ['usedfor'] swim
+snake ['atlocation'] bed ['relatedto'] river ['relatedto'] swim
+snake ['atlocation'] bedroom ['relatedto'] part ['relatedto'] swim
+snake ['relatedto'] long ['relatedto'] arm ['relatedto'] swim
+snake ['relatedto'] long ['relatedto'] oar ['relatedto'] swim
+snake ['relatedto'] long ['relatedto'] river ['relatedto'] swim
+snake ['relatedto'] long ['relatedto'] side ['relatedto'] swim
+snake ['relatedto'] long ['relatedto'] summer ['relatedto'] swim
+snake ['relatedto'] cable ['relatedto'] swimline ['derivedfrom'] swim
+snake ['relatedto'] clean ['relatedto'] action ['relatedto'] swim
+snake ['relatedto'] clean ['causes', 'relatedto'] bathing ['relatedto'] swim
+snake ['relatedto'] clean ['isa'] sink ['antonym', 'relatedto'] swim
+snake ['relatedto'] clean ['relatedto'] raw ['derivedfrom'] swim
+snake ['relatedto'] clean ['relatedto'] river ['relatedto'] swim
+snake ['atlocation'] mountain ['isa'] first ['relatedto'] swim
+snake ['atlocation'] mountain ['relatedto'] natural ['relatedto'] swim
+snake ['atlocation'] mountain ['relatedto'] part ['relatedto'] swim
+snake ['atlocation'] mountain ['relatedto'] physical ['relatedto'] swim
+snake ['atlocation'] mountain ['relatedto'] type ['relatedto'] swim
+snake ['atlocation'] mountain ['relatedto'] river ['relatedto'] swim
+snake ['atlocation'] sun ['relatedto'] bear ['capableof'] swim
+snake ['atlocation'] sun ['relatedto'] body ['relatedto'] swim
+snake ['atlocation'] sun ['relatedto'] summer ['relatedto'] swim
+snake ['atlocation'] sun ['causes', 'relatedto', 'usedfor'] heat ['causesdesire'] swim
+snake ['atlocation'] sun ['relatedto'] hot ['motivatedbygoal'] swim
+snake ['atlocation'] sunshine ['relatedto', 'atlocation'] summer ['relatedto'] swim
+snake ['atlocation'] sunshine ['atlocation'] sea ['usedfor'] swim
+snake ['atlocation'] france ['relatedto'] dancing ['relatedto'] swim
+snake ['atlocation'] france ['relatedto'] fin ['mannerof', 'relatedto'] swim
+snake ['relatedto'] tributary ['atlocation'] water ['relatedto'] swim
+snake ['relatedto'] tributary ['relatedto'] river ['relatedto'] swim
+snake ['relatedto'] tributary ['relatedto'] stream ['usedfor'] swim
+snake ['atlocation'] ditch ['relatedto'] water ['relatedto'] swim
+snake ['atlocation'] ditch ['relatedto'] dip ['relatedto'] swim
+snake ['atlocation'] wild ['relatedto'] bear ['capableof'] swim
+snake ['relatedto'] dorsal ['relatedto'] back ['relatedto'] swim
+snake ['relatedto'] ventral ['relatedto'] front ['relatedto'] swim
+snake ['atlocation'] nightmare ['atlocation'] shark ['capableof', 'relatedto'] swim
+snake ['atlocation'] park ['relatedto'] action ['relatedto'] swim
+snake ['atlocation'] park ['atlocation'] human ['relatedto'] swim
+snake ['atlocation'] park ['atlocation'] bear ['capableof'] swim
+snake ['atlocation'] park ['relatedto'] fun ['motivatedbygoal', 'relatedto'] swim
+snake ['atlocation'] park ['atlocation'] dog ['relatedto'] swim
+snake ['atlocation'] park ['relatedto', 'atlocation'] recreation ['relatedto'] swim
+snake ['atlocation'] park ['atlocation'] sports ['relatedto'] swim
+snake ['atlocation'] park ['atlocation'] swimming_pool ['usedfor', 'derivedfrom'] swim
+snake ['atlocation'] park ['relatedto'] style ['relatedto'] swim
+snake ['atlocation'] field ['relatedto'] front ['relatedto'] swim
+snake ['atlocation'] field ['usedfor'] walking ['relatedto'] swim
+snake ['atlocation'] field ['relatedto', 'atlocation'] sport ['relatedto'] swim
+snake ['atlocation'] field ['relatedto'] sports ['relatedto'] swim
+snake ['atlocation'] field ['relatedto'] technique ['relatedto'] swim
+snake ['relatedto'] move ['relatedto'] action ['relatedto'] swim

@@ -1,0 +1,100 @@
+husband ['relatedto'] affair ['synonym'] action ['relatedto'] drink
+husband ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] drink
+husband ['relatedto'] affair ['causes', 'relatedto'] divorce ['causesdesire'] drink
+husband ['relatedto'] affair ['isa'] party ['relatedto'] drink
+husband ['relatedto'] marriage ['relatedto'] act ['relatedto'] drink
+husband ['relatedto'] marriage ['antonym', 'relatedto'] divorce ['causesdesire'] drink
+husband ['relatedto'] marriage ['relatedto'] consummation ['relatedto'] drink
+husband ['relatedto'] marriage ['relatedto'] stale ['relatedto'] drink
+husband ['relatedto'] ground ['antonym', 'relatedto'] water ['usedfor', 'relatedto', 'atlocation'] drink
+husband ['relatedto'] ground ['atlocation'] ear ['relatedto'] drink
+husband ['relatedto'] ground ['atlocation'] ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink
+husband ['relatedto'] ground ['atlocation'] slush ['relatedto', 'instanceof'] drink
+husband ['relatedto'] ground ['mannerof'] throw ['antonym'] drink
+husband ['relatedto'] ground ['relatedto'] coffee ['antonym', 'relatedto'] drink
+husband ['relatedto'] ground ['relatedto'] glass ['relatedto'] drink
+husband ['relatedto'] ground ['relatedto'] general ['relatedto'] drink
+husband ['relatedto'] ground ['relatedto'] general_term ['relatedto'] drink
+husband ['relatedto'] ground ['relatedto'] meat ['antonym'] drink
+husband ['relatedto'] ground ['relatedto'] mostly ['relatedto'] drink
+husband ['relatedto'] ground ['relatedto'] solid ['relatedto'] drink
+husband ['relatedto'] ground ['relatedto'] term ['relatedto'] drink
+husband ['relatedto'] ground ['relatedto'] pot ['relatedto'] drink
+husband ['relatedto'] animal ['hasa', 'relatedto', 'atlocation'] meat ['antonym'] drink
+husband ['relatedto'] animal ['capableof'] eating ['antonym', 'distinctfrom', 'relatedto'] drink
+husband ['relatedto'] animal ['desires'] eat ['antonym', 'distinctfrom', 'relatedto'] drink
+husband ['relatedto'] animal ['distinctfrom'] specific ['distinctfrom'] drink
+husband ['relatedto'] animal ['formof', 'relatedto'] animals ['capableof'] drink
+husband ['relatedto'] animal ['isa', 'relatedto'] bear ['relatedto'] drink
+husband ['relatedto'] animal ['isa'] bloodsucker ['relatedto'] drink
+husband ['relatedto'] animal ['isa', 'relatedto'] camel ['relatedto'] drink
+husband ['relatedto'] animal ['isa', 'relatedto'] mate ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] general ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] general_term ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] generic ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] generic_term ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] name ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] term ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] congener ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] drinker ['relatedto', 'derivedfrom'] drink
+husband ['relatedto'] animal ['relatedto'] drive ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] hot ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] meal ['relatedto', 'partof'] drink
+husband ['relatedto'] animal ['relatedto'] milk ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] party ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] salt_gland ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] soma ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] stale ['relatedto'] drink
+husband ['relatedto'] animal ['relatedto'] watering_hole ['relatedto'] drink
+husband ['relatedto'] animal ['usedfor'] food ['antonym', 'distinctfrom', 'relatedto'] drink
+husband ['antonym', 'relatedto'] man ['relatedto'] bear ['relatedto'] drink
+husband ['antonym', 'relatedto'] man ['relatedto'] general ['relatedto'] drink
+husband ['antonym', 'relatedto'] man ['relatedto'] good ['relatedto'] drink
+husband ['antonym', 'relatedto'] man ['relatedto'] generic ['relatedto'] drink
+husband ['antonym', 'relatedto'] man ['relatedto'] name ['relatedto'] drink
+husband ['relatedto'] separation ['isa', 'relatedto', 'synonym'] divorce ['causesdesire'] drink
+husband ['relatedto'] separation ['isa'] state ['relatedto'] drink
+husband ['relatedto'] house ['atlocation'] coffee_table ['relatedto'] drink
+husband ['relatedto'] house ['atlocation'] food ['antonym', 'distinctfrom', 'relatedto'] drink
+husband ['relatedto'] house ['relatedto'] bar ['relatedto'] drink
+husband ['relatedto'] house ['relatedto'] bottle ['relatedto', 'atlocation'] drink
+husband ['relatedto'] house ['relatedto'] cabinet ['atlocation'] drink
+husband ['relatedto'] house ['relatedto'] drive ['relatedto'] drink
+husband ['relatedto'] house ['relatedto'] generic ['relatedto'] drink
+husband ['relatedto'] house ['relatedto'] inside ['relatedto'] drink
+husband ['relatedto'] house ['relatedto'] personal ['relatedto'] drink
+husband ['relatedto'] house ['relatedto'] ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink
+husband ['relatedto'] house ['relatedto'] inn ['relatedto'] drink
+husband ['relatedto'] house ['relatedto'] party ['relatedto'] drink
+husband ['relatedto'] uncle ['usedfor'] fun ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] present ['relatedto'] drink
+husband ['relatedto'] bill ['synonym'] act ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] getting ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] also ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] mouth ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] name ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] restaurants ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] term ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] double ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] draft ['isa'] drink
+husband ['relatedto'] bill ['relatedto'] state ['relatedto'] drink
+husband ['relatedto'] bill ['relatedto'] pee ['antonym'] drink
+husband ['relatedto'] head ['relatedto'] bear ['relatedto'] drink
+husband ['relatedto'] head ['antonym', 'relatedto', 'atlocation'] neck ['relatedto'] drink
+husband ['relatedto'] head ['relatedto', 'partof', 'synonym', 'atlocation'] ear ['relatedto'] drink
+husband ['relatedto'] head ['relatedto', 'partof', 'atlocation'] mouth ['relatedto'] drink
+husband ['relatedto'] head ['isa'] general ['relatedto'] drink
+husband ['relatedto'] head ['relatedto'] bishop ['relatedto'] drink
+husband ['relatedto'] head ['relatedto'] inside ['relatedto'] drink
+husband ['relatedto'] head ['relatedto'] party ['relatedto'] drink
+husband ['relatedto'] head ['relatedto'] scull ['relatedto'] drink
+husband ['relatedto'] head ['usedfor', 'relatedto'] think ['relatedto'] drink
+husband ['relatedto'] head ['relatedto'] use ['relatedto'] drink
+husband ['relatedto'] head ['relatedto'] energy ['relatedto'] drink
+husband ['relatedto'] head ['relatedto'] fluid ['relatedto'] drink
+husband ['relatedto'] head ['relatedto'] soma ['relatedto'] drink
+husband ['relatedto'] mother ['relatedto'] bear ['relatedto'] drink
+husband ['relatedto'] father ['relatedto'] act ['relatedto'] drink
+husband ['relatedto'] father ['relatedto'] bar ['relatedto'] drink
+husband ['relatedto'] father ['relatedto'] pop ['relatedto'] drink
+husband ['relatedto', 'synonym'] farm ['relatedto'] food ['antonym', 'distinctfrom', 'relatedto'] drink

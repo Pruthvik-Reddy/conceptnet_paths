@@ -1,0 +1,100 @@
+party ['relatedto'] treat ['mannerof'] negociate
+party ['relatedto'] agreement ['relatedto'] negotiate ['synonym'] negociate
+party ['relatedto'] house ['usedfor'] sell ['mannerof'] negociate
+party ['relatedto'] special ['relatedto'] treat ['mannerof'] negociate
+party ['antonym'] stay ['relatedto'] negotiate ['synonym'] negociate
+party ['relatedto'] good ['relatedto'] sell ['mannerof'] negociate
+party ['isa'] ball ['relatedto'] pass ['mannerof'] negociate
+party ['relatedto'] bar ['relatedto'] treat ['mannerof'] negociate
+party ['relatedto'] food ['relatedto'] treat ['mannerof'] negociate
+party ['relatedto'] time ['relatedto'] pass ['mannerof'] negociate
+party ['relatedto'] head ['synonym'] pass ['mannerof'] negociate
+party ['relatedto'] center ['relatedto'] pass ['mannerof'] negociate
+party ['relatedto'] dip ['relatedto'] treat ['mannerof'] negociate
+party ['relatedto'] sale ['isa', 'relatedto'] sell ['mannerof'] negociate
+party ['relatedto'] sale ['relatedto'] broker ['mannerof'] negociate
+party ['relatedto'] sale ['relatedto'] dicker ['mannerof'] negociate
+party ['usedfor', 'relatedto', 'atlocation'] cake ['relatedto'] treat ['mannerof'] negociate
+party ['relatedto'] pie ['relatedto'] treat ['mannerof'] negociate
+party ['atlocation'] gift ['isa'] treat ['mannerof'] negociate
+party ['relatedto'] term ['relatedto'] negotiate ['synonym'] negociate
+party ['synonym'] company ['relatedto'] sell ['mannerof'] negociate
+party ['relatedto'] dress ['mannerof'] treat ['mannerof'] negociate
+party ['relatedto'] group ['relatedto'] pass ['mannerof'] negociate
+party ['relatedto'] throw ['isa', 'mannerof', 'relatedto'] pass ['mannerof'] negociate
+party ['relatedto'] enter ['relatedto'] pass ['mannerof'] negociate
+party ['relatedto'] game ['relatedto'] pass ['mannerof'] negociate
+party ['relatedto'] offer ['entails'] dicker ['mannerof'] negociate
+party ['relatedto'] offer ['relatedto'] negotiate ['synonym'] negociate
+party ['isa', 'relatedto'] event ['isa'] transfer ['mannerof'] negociate
+party ['relatedto'] adhesion_contract ['relatedto'] negotiate ['synonym'] negociate
+party ['relatedto'] cartel ['relatedto'] negotiate ['synonym'] negociate
+party ['relatedto'] flip ['synonym'] pass ['mannerof'] negociate
+party ['relatedto'] banquet ['relatedto', 'synonym'] treat ['mannerof'] negociate
+party ['relatedto'] entertainment ['synonym'] treat ['mannerof'] negociate
+party ['relatedto'] feast ['synonym'] treat ['mannerof'] negociate
+party ['relatedto'] happening ['isa'] treat ['mannerof'] negociate
+party ['relatedto'] run ['mannerof', 'synonym'] pass ['mannerof'] negociate
+party ['relatedto'] treat ['relatedto'] parley ['mannerof'] negociate
+party ['relatedto'] treat ['relatedto'] negotiate ['synonym'] negociate
+party ['relatedto'] trick ['relatedto'] sell ['mannerof'] negociate
+party ['relatedto'] trick ['antonym', 'relatedto'] treat ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['causesdesire'] judge ['mannerof', 'relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto', 'hasprerequisite'] energy ['relatedto'] transfer ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] attempt ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] control ['relatedto'] transfer ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa', 'relatedto'] game ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] learning ['isa'] transfer ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] market ['relatedto'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] negotiation ['relatedto'] treat ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] negotiation ['relatedto', 'derivedfrom'] negotiate ['synonym'] negociate
+party ['isa', 'relatedto'] activity ['isa'] negotiation ['isa'] parley ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] release ['mannerof'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] service ['relatedto'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa', 'relatedto'] sex ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa', 'relatedto'] turn ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['isa'] use ['synonym'] treat ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] entertainment ['synonym'] treat ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] movement ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] movement ['isa'] transfer ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] business ['relatedto'] negotiate ['synonym'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] buy ['antonym', 'distinctfrom', 'relatedto'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] buy ['relatedto'] treat ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] center ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] cut ['mannerof'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] dress ['mannerof'] treat ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] drive ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] go ['distinctfrom', 'relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] go ['relatedto'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] lime ['relatedto'] treat ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] move ['mannerof'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] move ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] move ['mannerof', 'relatedto', 'synonym', 'entails'] transfer ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] play ['distinctfrom', 'relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] point ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] print ['relatedto'] transfer ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] race ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] read ['antonym'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] run ['mannerof', 'synonym'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] sale ['isa', 'relatedto'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] sale ['relatedto'] broker ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] sale ['relatedto'] dicker ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] shop ['relatedto'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] sidetrack ['relatedto'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] task ['relatedto'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] timepass ['derivedfrom'] pass ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] trade ['mannerof', 'relatedto', 'entails'] sell ['mannerof'] negociate
+party ['isa', 'relatedto'] activity ['relatedto'] trade ['relatedto'] negotiate ['synonym'] negociate
+party ['isa'] affair ['synonym'] action ['relatedto'] pass ['mannerof'] negociate
+party ['isa'] affair ['synonym'] action ['relatedto'] sell ['mannerof'] negociate
+party ['isa'] affair ['relatedto'] around ['relatedto'] pass ['mannerof'] negociate
+party ['isa'] affair ['relatedto'] cheat ['relatedto'] sell ['mannerof'] negociate
+party ['isa'] affair ['relatedto'] event ['isa'] transfer ['mannerof'] negociate
+party ['isa'] affair ['relatedto'] happening ['isa'] treat ['mannerof'] negociate
+party ['isa'] affair ['relatedto'] sex ['relatedto'] pass ['mannerof'] negociate
+party ['isa'] affair ['relatedto'] intrigue ['relatedto'] negotiate ['synonym'] negociate
+party ['relatedto'] afternoon ['antonym'] lunch ['relatedto'] treat ['mannerof'] negociate
+party ['relatedto'] afternoon ['relatedto'] moving ['relatedto'] pass ['mannerof'] negociate
+party ['relatedto'] afternoon ['relatedto'] moving ['relatedto'] transfer ['mannerof'] negociate

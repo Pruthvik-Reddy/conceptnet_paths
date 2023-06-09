@@ -1,0 +1,100 @@
+container ['relatedto'] fill
+container ['atlocation'] water ['mannerof', 'relatedto'] fill
+container ['atlocation'] contents ['relatedto'] fill
+container ['isa'] empty ['antonym', 'distinctfrom', 'relatedto'] fill
+container ['isa'] cup ['antonym'] fill
+container ['relatedto'] overflow ['relatedto'] fill
+container ['relatedto'] stopper ['synonym'] fill
+container ['formof', 'relatedto'] containers ['relatedto'] fill
+container ['isa', 'relatedto'] bucket ['relatedto'] fill
+container ['isa'] pod ['relatedto'] fill
+container ['isa'] tank ['relatedto'] fill
+container ['relatedto'] brim ['mannerof', 'relatedto'] fill
+container ['relatedto'] ink ['mannerof'] fill
+container ['relatedto'] child ['relatedto'] female ['relatedto'] fill
+container ['relatedto'] child ['relatedto'] heap ['mannerof'] fill
+container ['atlocation'] vacuum ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] fill
+container ['atlocation'] vacuum ['relatedto'] cup ['antonym'] fill
+container ['atlocation'] vacuum ['relatedto'] empty ['antonym', 'distinctfrom', 'relatedto'] fill
+container ['atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] fill
+container ['atlocation'] water ['relatedto', 'atlocation'] bath ['usedfor'] fill
+container ['atlocation'] water ['atlocation'] bucket ['relatedto'] fill
+container ['atlocation'] water ['relatedto', 'atlocation'] drain ['antonym'] fill
+container ['atlocation'] water ['relatedto', 'atlocation'] flood ['mannerof'] fill
+container ['atlocation'] water ['atlocation'] perfume ['relatedto'] fill
+container ['atlocation'] water ['mannerof'] supply ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] brim ['mannerof', 'relatedto'] fill
+container ['atlocation'] water ['relatedto'] deluge ['mannerof'] fill
+container ['atlocation'] water ['relatedto'] dyke ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] embankment ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] ether ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] flooded ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] ink ['mannerof'] fill
+container ['atlocation'] water ['relatedto'] lade ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] lead ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] office ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] pour ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] pump ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] contents ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] form ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] making ['relatedto'] fill
+container ['atlocation'] water ['relatedto'] stuff ['mannerof', 'relatedto'] fill
+container ['relatedto'] go ['relatedto'] action ['relatedto'] fill
+container ['relatedto'] go ['relatedto'] apply ['relatedto'] fill
+container ['relatedto'] go ['antonym', 'relatedto'] enter ['relatedto'] fill
+container ['relatedto'] go ['antonym'] meet ['synonym'] fill
+container ['relatedto'] go ['mannerof', 'relatedto'] work ['mannerof'] fill
+container ['relatedto'] go ['relatedto'] china ['relatedto'] fill
+container ['relatedto'] go ['relatedto'] change ['mannerof'] fill
+container ['relatedto'] go ['relatedto', 'synonym'] lead ['relatedto'] fill
+container ['relatedto'] go ['relatedto', 'synonym'] sound ['relatedto'] fill
+container ['relatedto'] egg ['relatedto'] eat ['relatedto'] fill
+container ['relatedto'] egg ['relatedto'] female ['relatedto'] fill
+container ['relatedto'] egg ['relatedto'] making ['relatedto'] fill
+container ['relatedto'] bank ['relatedto'] order ['relatedto'] fill
+container ['relatedto'] bank ['synonym', 'atlocation'] line ['mannerof', 'relatedto'] fill
+container ['relatedto'] bank ['mannerof'] work ['mannerof'] fill
+container ['relatedto'] bank ['relatedto'] filled ['formof', 'relatedto'] fill
+container ['relatedto'] bank ['relatedto'] full ['etymologicallyrelatedto', 'relatedto'] fill
+container ['relatedto'] bank ['relatedto'] office ['relatedto'] fill
+container ['relatedto'] bank ['relatedto'] put ['relatedto'] fill
+container ['relatedto'] bank ['relatedto'] embankment ['relatedto'] fill
+container ['relatedto'] bank ['relatedto'] mound ['isa'] fill
+container ['relatedto'] bank ['synonym'] dyke ['relatedto'] fill
+container ['relatedto'] cover ['relatedto'] action ['relatedto'] fill
+container ['relatedto'] cover ['relatedto'] position ['relatedto'] fill
+container ['relatedto'] cover ['mannerof'] satisfy ['relatedto'] fill
+container ['relatedto'] cover ['mannerof'] flood ['mannerof'] fill
+container ['relatedto'] cover ['mannerof', 'relatedto'] line ['mannerof', 'relatedto'] fill
+container ['relatedto'] cover ['relatedto'] alluviate ['relatedto'] fill
+container ['relatedto'] cover ['relatedto'] car ['relatedto'] fill
+container ['relatedto'] cover ['relatedto'] charge ['relatedto'] fill
+container ['relatedto'] cover ['relatedto'] containers ['relatedto'] fill
+container ['relatedto'] cover ['relatedto'] put ['relatedto'] fill
+container ['relatedto'] cover ['relatedto', 'synonym'] top ['relatedto'] fill
+container ['relatedto'] cover ['relatedto'] enough ['isa'] fill
+container ['relatedto'] cover ['relatedto'] ink ['mannerof'] fill
+container ['relatedto'] cover ['relatedto'] lead ['relatedto'] fill
+container ['relatedto'] cover ['relatedto'] recement ['relatedto'] fill
+container ['relatedto'] plate ['relatedto'] full ['etymologicallyrelatedto', 'relatedto'] fill
+container ['relatedto'] plate ['antonym', 'distinctfrom', 'relatedto'] cup ['antonym'] fill
+container ['relatedto'] plate ['atlocation'] cheese ['antonym'] fill
+container ['relatedto'] plate ['relatedto', 'atlocation'] eat ['relatedto'] fill
+container ['relatedto'] plate ['mannerof', 'relatedto'] silver ['relatedto'] fill
+container ['relatedto'] plate ['relatedto'] form ['relatedto'] fill
+container ['relatedto'] plate ['relatedto'] lead ['relatedto'] fill
+container ['relatedto'] plate ['relatedto'] china ['relatedto'] fill
+container ['relatedto'] plate ['relatedto'] put ['relatedto'] fill
+container ['relatedto'] plate ['relatedto'] putting ['relatedto'] fill
+container ['relatedto'] plate ['relatedto'] top ['relatedto'] fill
+container ['relatedto'] plate ['relatedto'] contents ['relatedto'] fill
+container ['isa'] drum ['isa', 'mannerof'] sound ['relatedto'] fill
+container ['isa'] drum ['relatedto'] hollow ['relatedto'] fill
+container ['relatedto'] bed ['relatedto'] top ['relatedto'] fill
+container ['relatedto'] bed ['atlocation'] female ['relatedto'] fill
+container ['relatedto'] bed ['mannerof'] put ['relatedto'] fill
+container ['relatedto'] bed ['mannerof'] supply ['relatedto'] fill
+container ['relatedto'] bed ['relatedto'] furnish ['relatedto'] fill
+container ['relatedto'] bed ['relatedto'] making ['relatedto'] fill
+container ['relatedto'] bed ['relatedto'] pad ['mannerof', 'relatedto'] fill
+container ['relatedto'] bed ['relatedto'] sexual_intercourse ['relatedto'] fill

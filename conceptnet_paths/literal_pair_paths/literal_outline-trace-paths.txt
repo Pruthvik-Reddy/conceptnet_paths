@@ -1,0 +1,100 @@
+outline ['relatedto'] trace
+outline ['relatedto'] pattern ['relatedto'] trace
+outline ['relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+outline ['relatedto'] draw ['relatedto', 'synonym'] trace
+outline ['relatedto'] shadow ['synonym'] trace
+outline ['relatedto'] drawing ['relatedto'] trace
+outline ['relatedto', 'synonym'] delineate ['synonym'] trace
+outline ['relatedto', 'synonym'] sketch ['relatedto'] trace
+outline ['formof', 'relatedto'] outlining ['relatedto'] trace
+outline ['relatedto'] camera_lucida ['relatedto'] trace
+outline ['relatedto'] hand_turkey ['relatedto'] trace
+outline ['relatedto'] pattern ['relatedto'] fingerprint ['relatedto'] trace
+outline ['relatedto'] pattern ['relatedto'] copy ['mannerof'] trace
+outline ['relatedto'] pattern ['synonym'] category ['relatedto'] trace
+outline ['relatedto'] tell ['relatedto'] describe ['synonym'] trace
+outline ['relatedto'] tell ['relatedto'] whisper ['relatedto'] trace
+outline ['relatedto'] balloon ['relatedto'] kids ['relatedto'] trace
+outline ['isa'] brief ['relatedto'] touch ['synonym'] trace
+outline ['relatedto'] text ['relatedto'] pattern ['relatedto'] trace
+outline ['relatedto'] text ['isa'] copy ['mannerof'] trace
+outline ['relatedto'] text ['isa', 'relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+outline ['relatedto'] text ['relatedto'] decipher ['synonym'] trace
+outline ['relatedto'] line ['relatedto'] construct ['mannerof'] trace
+outline ['relatedto'] line ['isa', 'relatedto'] diagonal ['relatedto'] trace
+outline ['relatedto'] line ['isa', 'relatedto'] mark ['isa', 'mannerof'] trace
+outline ['relatedto'] line ['isa', 'relatedto', 'synonym'] rope ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] coordinate ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] dimension ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] drawing ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] drawings ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] follow ['synonym'] trace
+outline ['relatedto'] line ['relatedto'] pencil ['entails'] trace
+outline ['relatedto'] line ['relatedto'] walk ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] track ['etymologicallyrelatedto', 'synonym'] trace
+outline ['relatedto'] line ['relatedto'] delineate ['synonym'] trace
+outline ['relatedto'] line ['relatedto'] paternoster ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] projection ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] return ['mannerof'] trace
+outline ['relatedto'] line ['relatedto'] token ['relatedto'] trace
+outline ['relatedto'] line ['relatedto'] uptrace ['derivedfrom'] trace
+outline ['relatedto'] cloud ['isa'] suspicion ['relatedto'] trace
+outline ['relatedto'] detail ['relatedto'] describe ['synonym'] trace
+outline ['relatedto'] figure ['synonym'] pattern ['relatedto'] trace
+outline ['relatedto'] figure ['relatedto'] construct ['mannerof'] trace
+outline ['relatedto'] figure ['isa', 'relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+outline ['relatedto'] figure ['isa'] pencil ['entails'] trace
+outline ['relatedto'] figure ['relatedto'] draw ['relatedto', 'synonym'] trace
+outline ['relatedto'] figure ['relatedto'] drawing ['relatedto'] trace
+outline ['relatedto'] figure ['relatedto'] kids ['relatedto'] trace
+outline ['relatedto'] figure ['synonym'] image ['relatedto'] trace
+outline ['relatedto'] draw ['relatedto'] construct ['mannerof'] trace
+outline ['relatedto'] draw ['relatedto'] lose ['relatedto'] trace
+outline ['relatedto'] draw ['synonym'] describe ['synonym'] trace
+outline ['relatedto'] draw ['formof', 'relatedto', 'derivedfrom'] drawing ['relatedto'] trace
+outline ['relatedto'] draw ['mannerof', 'relatedto'] chalk ['entails'] trace
+outline ['relatedto'] draw ['mannerof', 'relatedto'] charcoal ['entails'] trace
+outline ['relatedto'] draw ['mannerof'] delineate ['synonym'] trace
+outline ['relatedto'] draw ['mannerof', 'relatedto'] doodle ['entails'] trace
+outline ['relatedto'] draw ['mannerof', 'relatedto'] write ['mannerof'] trace
+outline ['relatedto'] draw ['mannerof'] travel ['relatedto'] trace
+outline ['relatedto'] draw ['mannerof', 'relatedto'] pencil ['entails'] trace
+outline ['relatedto'] draw ['mannerof', 'relatedto'] sketch ['relatedto'] trace
+outline ['relatedto'] draw ['relatedto'] circumscribe ['mannerof'] trace
+outline ['relatedto'] draw ['relatedto'] image ['relatedto'] trace
+outline ['relatedto'] form ['relatedto', 'synonym'] pattern ['relatedto'] trace
+outline ['relatedto'] form ['relatedto'] plane ['relatedto'] trace
+outline ['relatedto'] form ['relatedto', 'synonym'] construct ['mannerof'] trace
+outline ['relatedto'] form ['relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+outline ['relatedto'] form ['relatedto'] diagonal ['relatedto'] trace
+outline ['relatedto'] form ['mannerof', 'relatedto'] draw ['relatedto', 'synonym'] trace
+outline ['relatedto'] form ['isa', 'relatedto'] structure ['relatedto'] trace
+outline ['relatedto'] form ['mannerof'] dimension ['relatedto'] trace
+outline ['relatedto'] form ['relatedto'] return ['mannerof'] trace
+outline ['relatedto'] form ['relatedto'] touch ['synonym'] trace
+outline ['relatedto'] general ['relatedto'] category ['relatedto'] trace
+outline ['relatedto'] general ['relatedto'] structure ['relatedto'] trace
+outline ['relatedto'] general ['relatedto'] vehicle ['relatedto'] trace
+outline ['relatedto'] statement ['relatedto'] hint ['synonym'] trace
+outline ['relatedto'] lip ['relatedto'] touch ['synonym'] trace
+outline ['isa', 'relatedto'] plan ['hasfirstsubevent'] travel ['relatedto'] trace
+outline ['isa', 'relatedto'] plan ['hasprerequisite'] write ['mannerof'] trace
+outline ['isa', 'relatedto'] plan ['isa', 'relatedto'] drawing ['relatedto'] trace
+outline ['isa', 'relatedto'] plan ['relatedto'] sketch ['relatedto'] trace
+outline ['isa', 'relatedto'] plan ['relatedto'] structure ['relatedto'] trace
+outline ['isa', 'relatedto'] plan ['relatedto'] dimension ['relatedto'] trace
+outline ['relatedto'] prose ['relatedto'] write ['mannerof'] trace
+outline ['isa', 'relatedto'] profile ['mannerof'] write ['mannerof'] trace
+outline ['isa', 'relatedto'] profile ['relatedto'] drawing ['relatedto'] trace
+outline ['isa', 'relatedto'] profile ['relatedto'] shadow ['synonym'] trace
+outline ['relatedto'] shade ['mannerof'] draw ['relatedto', 'synonym'] trace
+outline ['relatedto'] shade ['usedfor', 'etymologicallyrelatedto', 'relatedto', 'synonym', 'isa'] shadow ['synonym'] trace
+outline ['relatedto'] shade ['relatedto', 'synonym'] tint ['synonym'] trace
+outline ['relatedto'] shade ['relatedto'] drawing ['relatedto'] trace
+outline ['relatedto'] shade ['relatedto'] image ['relatedto'] trace
+outline ['relatedto'] shade ['synonym'] tincture ['synonym'] trace
+outline ['relatedto'] shadow ['mannerof', 'relatedto'] follow ['synonym'] trace
+outline ['relatedto'] shadow ['relatedto'] projection ['relatedto'] trace
+outline ['relatedto'] shadow ['relatedto'] image ['relatedto'] trace
+outline ['relatedto'] shape ['synonym'] pattern ['relatedto'] trace
+outline ['relatedto'] shape ['isa'] plane ['relatedto'] trace

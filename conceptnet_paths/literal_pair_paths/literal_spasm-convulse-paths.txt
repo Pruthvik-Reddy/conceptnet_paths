@@ -1,0 +1,100 @@
+spasm ['relatedto'] convulsion ['relatedto'] convulse
+spasm ['relatedto'] muscle ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] contraction ['relatedto'] convulsion ['relatedto'] convulse
+spasm ['relatedto'] sudden ['relatedto'] impulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] violent ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] violent ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] violent ['similarto'] convulsive ['relatedto'] convulse
+spasm ['relatedto'] emotion ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] flurry ['relatedto', 'synonym'] agitate ['relatedto'] convulse
+spasm ['relatedto', 'synonym'] seizure ['isa'] convulsion ['relatedto'] convulse
+spasm ['relatedto', 'derivedfrom'] spasmodic ['relatedto', 'synonym'] convulsive ['relatedto'] convulse
+spasm ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] spastic ['synonym'] convulsive ['relatedto'] convulse
+spasm ['relatedto'] muscular ['relatedto'] convulsion ['relatedto'] convulse
+spasm ['relatedto'] clonus ['isa'] convulsion ['relatedto'] convulse
+spasm ['relatedto', 'synonym'] judder ['relatedto', 'synonym'] shake ['mannerof'] convulse
+spasm ['relatedto'] shakes ['formof', 'relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] convulsion ['relatedto'] convulsant ['relatedto'] convulse
+spasm ['relatedto'] convulsion ['relatedto'] convulsive ['relatedto'] convulse
+spasm ['relatedto'] convulsion ['relatedto'] convulsively ['relatedto'] convulse
+spasm ['synonym'] paroxysm ['relatedto', 'synonym'] convulsion ['relatedto'] convulse
+spasm ['relatedto'] activity ['isa'] act ['etymologicallyrelatedto'] agitate ['relatedto'] convulse
+spasm ['relatedto'] activity ['isa'] act ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] activity ['isa'] act ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] impulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['isa', 'relatedto', 'synonym'] action ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] activity ['isa'] attempt ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] activity ['isa'] control ['relatedto'] whip ['mannerof'] convulse
+spasm ['relatedto'] activity ['isa', 'relatedto'] fun ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] activity ['isa'] laughter ['etymologicallyrelatedto', 'relatedto', 'derivedfrom', 'synonym'] laugh ['mannerof'] convulse
+spasm ['relatedto'] activity ['isa'] laughter ['relatedto'] amuse ['mannerof'] convulse
+spasm ['relatedto'] activity ['isa', 'relatedto'] party ['relatedto'] whip ['mannerof'] convulse
+spasm ['relatedto'] activity ['isa'] search ['relatedto'] toss ['synonym'] convulse
+spasm ['relatedto'] activity ['relatedto'] force ['relatedto', 'synonym'] impulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] activity ['relatedto'] movement ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] activity ['relatedto'] movement ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] movement ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] vigorous ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] business ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] churn ['relatedto'] agitate ['relatedto'] convulse
+spasm ['relatedto'] activity ['relatedto'] churn ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] cry ['antonym', 'distinctfrom', 'relatedto', 'similarto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] cut ['isa', 'mannerof', 'relatedto', 'synonym'] slash ['synonym'] convulse
+spasm ['relatedto'] activity ['relatedto'] cut ['relatedto'] whip ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] dance ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] drink ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] activity ['relatedto'] drink ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] drive ['isa'] impulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] activity ['relatedto'] flurry ['relatedto', 'synonym'] agitate ['relatedto'] convulse
+spasm ['relatedto'] activity ['relatedto'] fraud ['relatedto'] false ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] activity ['relatedto'] impetus ['relatedto', 'synonym'] impulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] activity ['relatedto'] move ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] activity ['relatedto'] move ['mannerof', 'synonym'] agitate ['relatedto'] convulse
+spasm ['relatedto'] activity ['relatedto'] move ['mannerof'] pulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] activity ['relatedto'] move ['mannerof', 'relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] outburst ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] point ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] activity ['relatedto'] recreation ['relatedto'] amuse ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] sound ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] stretch ['antonym', 'distinctfrom'] compress ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] type ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] activity ['relatedto'] working ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] negative ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto', 'atlocation'] arm ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] muscle ['relatedto', 'atlocation'] leg ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] muscle ['capableof'] contract ['synonym'] compress ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto', 'derivedfrom'] muscular ['relatedto'] convulsion ['relatedto'] convulse
+spasm ['relatedto'] muscle ['mannerof'] pass ['synonym'] toss ['synonym'] convulse
+spasm ['relatedto'] muscle ['relatedto'] compressor ['relatedto', 'derivedfrom'] compress ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] contraction ['relatedto'] convulsion ['relatedto'] convulse
+spasm ['relatedto'] muscle ['relatedto'] cut ['isa', 'mannerof', 'relatedto', 'synonym'] slash ['synonym'] convulse
+spasm ['relatedto'] muscle ['relatedto'] cut ['relatedto'] whip ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] facial_expression ['isa'] laugh ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] fit ['relatedto'] convulsion ['relatedto'] convulse
+spasm ['relatedto'] muscle ['relatedto'] hard ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] muscle ['relatedto'] hard ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] part ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] force ['relatedto', 'synonym'] impulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] muscle ['relatedto'] oculocardiac ['relatedto'] pulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] muscle ['relatedto'] piriformis_syndrome ['relatedto'] compress ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] risibles ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] smile ['distinctfrom', 'relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] spasmodic ['relatedto', 'synonym'] convulsive ['relatedto'] convulse
+spasm ['relatedto'] muscle ['relatedto'] stretch ['antonym', 'distinctfrom'] compress ['mannerof'] convulse
+spasm ['relatedto'] muscle ['relatedto'] tone ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] muscle ['usedfor'] move ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] muscle ['usedfor'] move ['mannerof', 'synonym'] agitate ['relatedto'] convulse
+spasm ['relatedto'] muscle ['usedfor'] move ['mannerof'] pulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] muscle ['usedfor'] move ['mannerof', 'relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] muscle ['usedfor'] moving ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] contraction ['relatedto'] reduction ['relatedto'] slash ['synonym'] convulse
+spasm ['relatedto'] contraction ['relatedto'] negative ['relatedto'] shake ['mannerof'] convulse
+spasm ['relatedto'] contraction ['relatedto'] muscle ['relatedto'] laugh ['mannerof'] convulse
+spasm ['relatedto'] contraction ['synonym'] compression ['relatedto', 'derivedfrom'] compress ['mannerof'] convulse
+spasm ['relatedto'] contraction ['relatedto'] contract ['synonym'] compress ['mannerof'] convulse
+spasm ['relatedto'] contraction ['isa', 'relatedto'] braxton_hicks_contraction ['relatedto'] false ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] contraction ['relatedto'] clonus ['isa'] convulsion ['relatedto'] convulse
+spasm ['relatedto'] contraction ['relatedto'] push ['relatedto'] impulse ['etymologicallyrelatedto'] convulse
+spasm ['relatedto'] contraction ['relatedto'] wound ['relatedto'] slash ['synonym'] convulse

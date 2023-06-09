@@ -1,0 +1,100 @@
+question ['antonym', 'distinctfrom', 'relatedto', 'desires'] answer
+question ['mannerof', 'relatedto'] ask ['antonym', 'relatedto'] answer
+question ['isa', 'relatedto'] problem ['antonym', 'relatedto'] answer
+question ['antonym'] explain ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['isa', 'relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+question ['causesdesire'] think ['motivatedbygoal'] answer
+question ['isa', 'etymologicallyrelatedto', 'relatedto', 'synonym'] query ['relatedto'] answer
+question ['formof', 'relatedto'] questions ['relatedto'] answer
+question ['isa', 'relatedto'] sentence ['relatedto'] answer
+question ['isa'] riddle ['relatedto'] answer
+question ['relatedto'] box_ticking ['relatedto'] answer
+question ['relatedto'] call ['antonym', 'relatedto'] answer
+question ['relatedto'] catechetically ['relatedto'] answer
+question ['relatedto'] catechetics ['relatedto'] answer
+question ['relatedto'] catechism ['relatedto'] answer
+question ['relatedto'] catechismal ['relatedto'] answer
+question ['relatedto'] cross_purpose ['relatedto'] answer
+question ['relatedto'] distracter ['relatedto'] answer
+question ['relatedto', 'synonym'] doubt ['relatedto'] answer
+question ['relatedto'] dumb_insolence ['relatedto'] answer
+question ['relatedto'] expert_system ['relatedto'] answer
+question ['relatedto'] faq ['relatedto'] answer
+question ['relatedto'] guess ['antonym', 'relatedto'] answer
+question ['relatedto'] interrogatory ['relatedto'] answer
+question ['relatedto'] kau_cim ['relatedto'] answer
+question ['relatedto'] percontation ['relatedto'] answer
+question ['relatedto'] press_conference ['relatedto'] answer
+question ['relatedto'] propose ['relatedto'] answer
+question ['relatedto'] answered ['formof', 'relatedto'] answer
+question ['relatedto'] answering ['formof', 'relatedto'] answer
+question ['relatedto'] answers ['formof', 'relatedto'] answer
+question ['relatedto'] information ['relatedto'] answer
+question ['relatedto'] quiz ['relatedto'] answer
+question ['relatedto'] response ['relatedto', 'synonym'] answer
+question ['relatedto'] say ['relatedto'] answer
+question ['relatedto'] test ['relatedto'] answer
+question ['relatedto'] tests ['relatedto'] answer
+question ['relatedto'] quizbook ['relatedto'] answer
+question ['relatedto'] rescript ['isa'] answer
+question ['relatedto'] softball ['relatedto'] answer
+question ['relatedto'] stump ['relatedto'] answer
+question ['relatedto'] vorbeireden ['relatedto'] answer
+question ['relatedto'] workbook ['relatedto'] answer
+question ['relatedto'] getting ['hasprerequisite'] giving ['relatedto'] answer
+question ['relatedto'] getting ['relatedto'] ask ['antonym', 'relatedto'] answer
+question ['relatedto'] getting ['relatedto'] call ['antonym', 'relatedto'] answer
+question ['relatedto'] getting ['relatedto'] dress ['relatedto'] answer
+question ['relatedto'] getting ['relatedto'] harmony ['relatedto'] answer
+question ['relatedto'] getting ['relatedto'] propose ['relatedto'] answer
+question ['relatedto'] please ['relatedto'] listen ['haslastsubevent'] answer
+question ['relatedto'] please ['relatedto'] plea ['isa'] answer
+question ['relatedto'] please ['relatedto'] ask ['antonym', 'relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['antonym', 'distinctfrom'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+question ['mannerof', 'relatedto'] ask ['antonym'] explain ['relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['mannerof', 'relatedto'] call ['antonym', 'relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['relatedto'] answers ['formof', 'relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['relatedto'] information ['relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['relatedto', 'synonym'] query ['relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['relatedto'] questions ['relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['relatedto'] say ['relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['relatedto'] return ['relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['relatedto'] propose ['relatedto'] answer
+question ['mannerof', 'relatedto'] ask ['relatedto'] question_question ['relatedto'] answer
+question ['isa', 'relatedto'] problem ['antonym', 'distinctfrom', 'relatedto'] solution ['relatedto', 'synonym'] answer
+question ['isa', 'relatedto'] problem ['isa', 'relatedto'] riddle ['relatedto'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] complaint ['relatedto'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] exercise_book ['relatedto'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] expert_system ['relatedto'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] mistake ['antonym', 'relatedto'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] solve ['mannerof', 'relatedto'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] solved ['relatedto'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] resolution ['relatedto'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] resolve ['synonym'] answer
+question ['isa', 'relatedto'] problem ['relatedto'] stump ['relatedto'] answer
+question ['antonym'] confirm ['mannerof'] document ['relatedto'] answer
+question ['antonym'] explain ['antonym'] ask ['antonym', 'relatedto'] answer
+question ['antonym'] explain ['mannerof'] state ['mannerof'] answer
+question ['antonym'] explain ['relatedto'] account ['relatedto'] answer
+question ['antonym'] explain ['relatedto'] answering ['formof', 'relatedto'] answer
+question ['antonym'] explain ['relatedto'] explanation ['relatedto'] answer
+question ['antonym'] explain ['relatedto'] giving ['relatedto'] answer
+question ['antonym'] explain ['relatedto'] learning ['relatedto'] answer
+question ['antonym'] explain ['relatedto'] questions ['relatedto'] answer
+question ['antonym'] explain ['relatedto'] reason ['relatedto'] answer
+question ['antonym'] explain ['relatedto'] theory ['relatedto'] answer
+question ['antonym'] explain ['usedfor'] statement ['isa', 'relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['isa'] agreement ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['relatedto'] reply ['antonym', 'isa', 'relatedto', 'synonym'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['isa'] truth ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['usedfor'] explain ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['isa', 'relatedto', 'synonym'] account ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['isa'] explanation ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['isa'] pleading ['isa'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['isa', 'relatedto'] remark ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['isa'] solution ['relatedto', 'synonym'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['relatedto'] nope ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['relatedto'] reaction ['isa', 'relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['relatedto'] resolution ['relatedto'] answer
+question ['antonym', 'distinctfrom', 'relatedto'] statement ['relatedto'] document ['relatedto'] answer

@@ -1,0 +1,100 @@
+energy ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] work ['mannerof'] transform
+energy ['relatedto'] nature ['relatedto'] transform
+energy ['relatedto'] transformity ['relatedto'] transform
+energy ['relatedto'] ability ['isa'] form ['relatedto'] transform
+energy ['relatedto'] ability ['relatedto'] condition ['relatedto'] transform
+energy ['relatedto'] ability ['relatedto'] function ['relatedto'] transform
+energy ['synonym'] action ['isa', 'relatedto'] work ['mannerof'] transform
+energy ['synonym'] action ['isa', 'relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['synonym'] action ['relatedto'] lift ['relatedto'] transform
+energy ['relatedto', 'hasprerequisite'] activity ['isa', 'relatedto'] work ['mannerof'] transform
+energy ['antonym', 'relatedto'] rest ['antonym', 'distinctfrom', 'causesdesire', 'relatedto'] work ['mannerof'] transform
+energy ['antonym'] lazy ['antonym', 'relatedto'] work ['mannerof'] transform
+energy ['hasprerequisite'] getting ['relatedto', 'hasprerequisite'] work ['mannerof'] transform
+energy ['relatedto'] human ['partof'] nature ['relatedto'] transform
+energy ['relatedto'] human ['relatedto'] anthropize ['relatedto'] transform
+energy ['relatedto'] human ['relatedto'] reborn ['relatedto'] transform
+energy ['relatedto'] human ['relatedto'] reborning ['relatedto'] transform
+energy ['relatedto'] human ['relatedto'] werehog ['relatedto'] transform
+energy ['relatedto'] human ['relatedto'] werewolf ['relatedto'] transform
+energy ['relatedto'] human ['relatedto'] work ['mannerof'] transform
+energy ['isa', 'synonym'] free_energy ['relatedto'] work ['mannerof'] transform
+energy ['relatedto'] plant ['relatedto', 'partof'] nature ['relatedto'] transform
+energy ['relatedto'] plant ['relatedto'] form ['relatedto'] transform
+energy ['relatedto', 'synonym'] go ['mannerof', 'relatedto'] work ['mannerof'] transform
+energy ['relatedto', 'synonym'] go ['relatedto', 'synonym'] become ['mannerof', 'relatedto'] transform
+energy ['relatedto', 'synonym'] go ['relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['relatedto', 'synonym'] go ['relatedto', 'synonym'] function ['relatedto'] transform
+energy ['relatedto'] science ['distinctfrom'] magic ['relatedto'] transform
+energy ['relatedto'] science ['relatedto'] microphonics ['relatedto'] transform
+energy ['relatedto'] science ['relatedto'] nature ['relatedto'] transform
+energy ['relatedto'] science ['relatedto'] work ['mannerof'] transform
+energy ['relatedto'] atomic ['relatedto'] coorbit_theory ['relatedto'] transform
+energy ['relatedto'] atomic ['relatedto'] reaction_mixture ['relatedto'] transform
+energy ['relatedto'] current ['relatedto'] condition ['relatedto'] transform
+energy ['relatedto'] time ['relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['relatedto'] time ['relatedto'] function ['relatedto'] transform
+energy ['relatedto'] time ['relatedto'] work ['mannerof'] transform
+energy ['relatedto'] head ['mannerof'] form ['relatedto'] transform
+energy ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] work ['mannerof'] become ['mannerof', 'relatedto'] transform
+energy ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] work ['relatedto', 'synonym'] function ['relatedto'] transform
+energy ['isa', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] work ['relatedto'] form ['relatedto'] transform
+energy ['relatedto', 'hasprerequisite'] working ['formof', 'relatedto', 'derivedfrom', 'synonym'] work ['mannerof'] transform
+energy ['relatedto', 'hasprerequisite'] working ['relatedto'] function ['relatedto'] transform
+energy ['relatedto'] burn ['relatedto'] condition ['relatedto'] transform
+energy ['relatedto'] charge ['mannerof'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['isa', 'relatedto'] force ['relatedto'] work ['mannerof'] transform
+energy ['isa', 'relatedto'] force ['relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['isa', 'relatedto'] force ['relatedto'] magic ['relatedto'] transform
+energy ['isa', 'relatedto'] force ['relatedto'] lift ['relatedto'] transform
+energy ['isa', 'relatedto'] force ['relatedto'] nature ['relatedto'] transform
+energy ['relatedto'] state ['isa', 'relatedto'] condition ['relatedto'] transform
+energy ['relatedto'] state ['relatedto'] convert ['relatedto'] transform
+energy ['relatedto'] state ['relatedto'] nature ['relatedto'] transform
+energy ['relatedto'] state ['relatedto'] transfigure ['relatedto'] transform
+energy ['relatedto'] state ['relatedto'] transmute ['relatedto', 'synonym'] transform
+energy ['relatedto'] coast ['relatedto'] form ['relatedto'] transform
+energy ['isa', 'relatedto'] heat ['mannerof'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['isa', 'relatedto'] heat ['antonym', 'relatedto'] condition ['relatedto'] transform
+energy ['isa', 'relatedto'] heat ['relatedto'] form ['relatedto'] transform
+energy ['isa', 'relatedto'] heat ['relatedto'] function ['relatedto'] transform
+energy ['isa', 'relatedto'] heat ['relatedto'] pyrolyse ['relatedto'] transform
+energy ['relatedto'] pull ['relatedto'] lift ['relatedto'] transform
+energy ['isa', 'madeof', 'relatedto'] light ['isa'] condition ['relatedto'] transform
+energy ['relatedto', 'hasproperty'] life ['hasa', 'relatedto'] nature ['relatedto'] transform
+energy ['relatedto'] propulsion ['isa'] lift ['relatedto'] transform
+energy ['relatedto'] distance ['relatedto'] work ['mannerof'] transform
+energy ['relatedto'] distance ['relatedto'] form ['relatedto'] transform
+energy ['relatedto'] computer ['usedfor', 'relatedto'] work ['mannerof'] transform
+energy ['relatedto'] computer ['relatedto'] technetronic ['relatedto'] transform
+energy ['isa', 'relatedto'] drive ['mannerof', 'relatedto'] work ['mannerof'] transform
+energy ['isa', 'relatedto'] drive ['relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['isa', 'relatedto'] drive ['isa'] lift ['relatedto'] transform
+energy ['isa', 'relatedto'] drive ['relatedto'] function ['relatedto'] transform
+energy ['isa', 'relatedto'] drive ['relatedto'] matrix ['relatedto'] transform
+energy ['relatedto'] dynamic ['relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['relatedto'] hard ['relatedto', 'hasproperty'] work ['mannerof'] transform
+energy ['antonym', 'relatedto'] entropy ['relatedto'] work ['mannerof'] transform
+energy ['relatedto'] efficient ['relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['relatedto'] effort ['relatedto'] work ['mannerof'] transform
+energy ['relatedto'] electric_motor ['relatedto'] convert ['relatedto'] transform
+energy ['relatedto'] generator ['relatedto'] convert ['relatedto'] transform
+energy ['relatedto'] generator ['relatedto'] form ['relatedto'] transform
+energy ['antonym', 'distinctfrom', 'relatedto'] mass ['relatedto'] form ['relatedto'] transform
+energy ['antonym', 'distinctfrom', 'relatedto', 'isa'] matter ['relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['antonym', 'distinctfrom', 'relatedto', 'isa'] matter ['relatedto'] condition ['relatedto'] transform
+energy ['antonym', 'distinctfrom', 'relatedto', 'isa'] matter ['relatedto'] form ['relatedto'] transform
+energy ['causes', 'relatedto'] engine ['usedfor'] work ['mannerof'] transform
+energy ['causes'] staying_healthy ['usedfor'] appearance ['relatedto'] transform
+energy ['causesdesire'] wrestle ['relatedto'] lift ['relatedto'] transform
+energy ['definedas'] everything ['relatedto'] nature ['relatedto'] transform
+energy ['relatedto', 'derivedfrom'] emergy ['relatedto'] transformity ['relatedto'] transform
+energy ['hasprerequisite'] exercise ['distinctfrom', 'mannerof', 'relatedto', 'synonym'] work ['mannerof'] transform
+energy ['hasprerequisite'] exercise ['capableof'] condition ['relatedto'] transform
+energy ['hasprerequisite'] getting_job ['usedfor'] work ['mannerof'] transform
+energy ['hasprerequisite'] travel ['relatedto'] transumer ['relatedto'] transform
+energy ['isa'] good_health ['isa'] condition ['relatedto'] transform
+energy ['isa', 'relatedto'] motion ['isa', 'relatedto'] change ['mannerof', 'relatedto', 'synonym'] transform
+energy ['isa', 'relatedto'] motion ['relatedto'] lift ['relatedto'] transform
+energy ['isa', 'relatedto'] motion ['relatedto'] translate ['synonym'] transform
+energy ['isa'] potential_energy ['relatedto'] condition ['relatedto'] transform

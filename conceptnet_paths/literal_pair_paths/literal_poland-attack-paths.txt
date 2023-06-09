@@ -1,0 +1,100 @@
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] war ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] field ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] humans ['capableof'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] side ['relatedto'] attack
+poland ['relatedto'] pole ['relatedto'] position ['antonym'] attack
+poland ['relatedto'] pole ['relatedto'] pin ['mannerof', 'relatedto'] attack
+poland ['relatedto'] polish ['relatedto'] action ['relatedto'] attack
+poland ['relatedto'] polish ['relatedto'] apply ['relatedto'] attack
+poland ['relatedto'] polish ['relatedto'] dog ['relatedto'] attack
+poland ['relatedto'] polish ['synonym'] round ['synonym'] attack
+poland ['relatedto'] polish ['relatedto'] touch ['isa'] attack
+poland ['relatedto'] polish ['relatedto'] wash ['relatedto'] attack
+poland ['relatedto'] bug ['relatedto'] flea ['antonym'] attack
+poland ['relatedto'] bug ['relatedto'] raid ['mannerof', 'relatedto', 'synonym'] attack
+poland ['relatedto'] chud ['relatedto'] bite ['relatedto'] attack
+poland ['relatedto'] poland_syndrome ['isa'] disease ['relatedto'] attack
+poland ['relatedto'] pospolite ['relatedto'] defense ['antonym', 'distinctfrom', 'relatedto'] attack
+poland ['relatedto'] pospolite ['relatedto'] invasion ['relatedto'] attack
+poland ['relatedto'] solidarity ['isa'] political_party ['isa'] attack
+poland ['relatedto'] wend ['relatedto'] go ['relatedto'] attack
+poland ['relatedto'] wend ['relatedto'] turn ['isa'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] administrative ['relatedto'] crime ['isa'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['atlocation'] battle ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['atlocation'] charge ['isa', 'relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['atlocation'] command ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['atlocation'] pain ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['atlocation'] plane ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['atlocation'] submarine ['mannerof'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto', 'atlocation'] war ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['formof', 'relatedto'] humans ['capableof'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['isa'] fang ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] articulate ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] block ['antonym', 'relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] dog ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] two ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] run ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] shark_attack ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] touch ['isa'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] action ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] army ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] boyau ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] chop ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] field ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] secure ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] thrust ['relatedto', 'synonym'] attack
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym', 'atlocation'] land ['relatedto'] touch ['isa'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] alien ['relatedto'] visitation ['synonym'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['isa', 'mannerof', 'relatedto', 'synonym'] command ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] put ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] bat ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] side ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] secure ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] set ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] rider ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] rush ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] turn ['isa'] attack
+poland ['isa', 'relatedto'] country ['usedfor'] order ['relatedto'] weapons_hold ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto'] someone ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto'] go ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto'] position ['antonym'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto', 'atlocation'] field ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['isa'] beginning ['isa'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto'] design ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto'] dog ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto'] guard ['antonym'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto'] move ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] prime ['relatedto'] apply ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] prime ['relatedto'] position ['antonym'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] prime ['relatedto'] charge ['isa', 'relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] prime ['relatedto'] block ['antonym', 'relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] well ['relatedto'] together ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] well ['antonym'] disease ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] well ['relatedto'] condition ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['atlocation'] well ['relatedto'] block ['antonym', 'relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] living ['relatedto'] couch ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] living ['causes'] death ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] living ['relatedto'] quick ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] living ['relatedto'] transition ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] living ['relatedto'] zombie ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] bat ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] battle ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] couch ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['hasproperty'] sharks ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] dog ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] event ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] field ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] flea ['antonym'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] manner ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] mug ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] rocket ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] rush ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] shark ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] tank ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] war ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] big ['synonym'] gas ['mannerof'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] box ['relatedto'] aggressive ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] box ['relatedto'] bat ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] box ['atlocation'] check ['mannerof'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] box ['atlocation'] surprise ['relatedto'] attack
+poland ['isa', 'relatedto'] country ['relatedto'] box ['mannerof'] hit ['relatedto'] attack

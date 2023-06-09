@@ -1,0 +1,100 @@
+planet ['relatedto'] cold_trap ['relatedto'] condense
+planet ['usedfor'] living ['causes'] change ['mannerof'] condense
+planet ['atlocation'] sky ['isa'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] sun ['relatedto'] arise ['mannerof'] condense
+planet ['isa', 'relatedto'] sun ['relatedto'] gas ['relatedto'] condense
+planet ['relatedto', 'atlocation'] ocean ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] condense
+planet ['relatedto'] core ['relatedto'] essence ['relatedto'] condense
+planet ['relatedto'] rise ['relatedto', 'synonym'] arise ['mannerof'] condense
+planet ['relatedto'] rise ['mannerof'] change ['mannerof'] condense
+planet ['relatedto', 'atlocation'] space ['atlocation'] gas ['relatedto'] condense
+planet ['relatedto'] large ['relatedto'] boil ['antonym', 'relatedto'] condense
+planet ['isa', 'relatedto'] mercury ['isa', 'relatedto'] liquid ['relatedto'] condense
+planet ['relatedto'] volcano ['relatedto'] gas ['relatedto'] condense
+planet ['isa'] pan ['relatedto'] boil ['antonym', 'relatedto'] condense
+planet ['locatednear', 'relatedto', 'synonym'] satellite ['relatedto'] change ['mannerof'] condense
+planet ['relatedto'] apparent_magnitude ['relatedto'] decrease ['relatedto'] condense
+planet ['relatedto'] atmosphere ['isa'] gas ['relatedto'] condense
+planet ['relatedto'] atmosphere ['relatedto'] noncondensing ['relatedto'] condense
+planet ['relatedto'] cold_trap ['relatedto'] liquid ['relatedto'] condense
+planet ['relatedto'] gas_giant ['derivedfrom'] gas ['relatedto'] condense
+planet ['relatedto'] krypton ['isa'] gas ['relatedto'] condense
+planet ['relatedto'] outgassing ['relatedto'] gas ['relatedto'] condense
+planet ['relatedto'] outgassing ['relatedto'] liquid ['relatedto'] condense
+planet ['relatedto'] proplanetary_disk ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'distinctfrom', 'relatedto'] air ['isa', 'relatedto', 'synonym'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] dew_point ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'relatedto', 'atlocation'] sea ['relatedto'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'distinctfrom', 'relatedto', 'partof'] sky ['isa'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] space ['atlocation'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'relatedto'] water ['relatedto', 'atlocation'] condensation ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'relatedto'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'relatedto'] water ['relatedto'] boil ['antonym', 'relatedto'] condense
+planet ['isa', 'relatedto'] earth ['antonym', 'relatedto'] water ['relatedto'] precipitate ['entails'] condense
+planet ['isa', 'relatedto'] earth ['atlocation'] carbon_dioxide ['isa', 'relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['atlocation'] carbon_dioxide ['capableof'] sublime ['entails'] condense
+planet ['isa', 'relatedto'] earth ['atlocation'] nitrogen_gas ['isa'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto', 'atlocation'] ocean ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['atlocation'] oxygen ['isa', 'relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['definedas', 'relatedto'] round ['relatedto'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['derivedfrom'] rare_earth ['relatedto'] concentration ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['etymologicallyrelatedto'] yed ['relatedto'] magnify ['antonym'] condense
+planet ['isa', 'relatedto'] earth ['hasa', 'relatedto', 'partof'] atmosphere ['isa'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['hasa', 'relatedto', 'partof'] atmosphere ['relatedto'] noncondensing ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['hasa'] surface ['synonym'] arise ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['hasa'] surface ['relatedto'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['hasproperty'] finite ['relatedto'] compact ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['usedfor', 'relatedto', 'hasproperty'] living ['causes'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['isa', 'relatedto'] element ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['isa'] thing ['isa'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['isa'] word ['relatedto'] abridge ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['isa'] location ['relatedto'] contract ['synonym'] condense
+planet ['isa', 'relatedto'] earth ['isa'] material ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['isa'] material ['relatedto'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto', 'partof'] hydrosphere ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] carry ['synonym'] extend ['antonym'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] climate_change ['derivedfrom'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] core ['relatedto'] essence ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] dig ['mannerof', 'entails'] remove ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] dobson_unit ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] big ['distinctfrom'] compact ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] big ['synonym'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] fire ['mannerof'] remove ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] fire ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] humans ['capableof'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] large ['relatedto'] boil ['antonym', 'relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] mud ['relatedto'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] name ['capableof'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] sol ['relatedto'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] stuff ['relatedto'] compress ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] substance ['isa'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] substance ['isa', 'relatedto'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] substance ['isa'] essence ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] substance ['relatedto'] distil ['synonym'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] substance ['relatedto'] distill ['synonym'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] substance ['relatedto'] ens ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] sun ['relatedto'] arise ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] sun ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] third ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] current ['relatedto'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] earth_fast ['relatedto'] remove ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] ether ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] float ['relatedto'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] fold ['mannerof'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] geoid ['relatedto'] extend ['antonym'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] goldschmidt_classification ['relatedto'] concentrate ['relatedto', 'synonym'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] landfill ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] mantle ['relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] mercury ['isa', 'relatedto'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] nature ['relatedto'] essence ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] oil ['antonym', 'distinctfrom', 'relatedto'] gas ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] oil ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] oil ['isa'] condensate ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] oil ['relatedto'] essence ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] pipe ['relatedto'] funnel ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] quintessence ['relatedto'] essence ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] revolution ['isa', 'relatedto'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] shake ['mannerof'] change ['mannerof'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] subsidence ['synonym'] decrease ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] waning ['isa', 'synonym'] decrease ['relatedto'] condense
+planet ['isa', 'relatedto'] earth ['relatedto'] wind ['relatedto', 'synonym'] gas ['relatedto'] condense

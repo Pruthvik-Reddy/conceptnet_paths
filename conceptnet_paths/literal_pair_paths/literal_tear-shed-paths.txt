@@ -1,0 +1,100 @@
+tear ['mannerof', 'relatedto'] separate ['relatedto'] shed
+tear ['isa', 'relatedto'] drop ['synonym'] shed
+tear ['mannerof', 'relatedto'] cry ['relatedto'] shed
+tear ['relatedto'] rat ['relatedto'] shed
+tear ['relatedto'] part ['relatedto'] shed
+tear ['synonym'] buck ['relatedto'] shed
+tear ['synonym'] shoot ['relatedto'] shed
+tear ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] shed
+tear ['relatedto'] water ['relatedto'] cast ['relatedto', 'synonym'] shed
+tear ['relatedto'] water ['relatedto'] cry ['relatedto'] shed
+tear ['relatedto'] water ['relatedto'] ditch ['synonym'] shed
+tear ['relatedto'] water ['relatedto'] drop ['synonym'] shed
+tear ['relatedto'] water ['relatedto'] pour ['relatedto'] shed
+tear ['relatedto'] water ['relatedto'] throughfall ['relatedto'] shed
+tear ['mannerof', 'relatedto'] separate ['relatedto'] abscise ['mannerof', 'relatedto'] shed
+tear ['mannerof', 'relatedto'] separate ['relatedto', 'synonym'] divide ['relatedto'] shed
+tear ['mannerof', 'relatedto'] separate ['relatedto'] outbuilding ['isa', 'relatedto'] shed
+tear ['mannerof', 'relatedto'] separate ['relatedto', 'synonym'] part ['relatedto'] shed
+tear ['isa'] separation ['derivedfrom'] separate ['relatedto'] shed
+tear ['isa'] separation ['relatedto'] distinction ['relatedto'] shed
+tear ['isa'] separation ['relatedto'] divide ['relatedto'] shed
+tear ['isa'] separation ['relatedto'] parting ['relatedto'] shed
+tear ['isa'] separation ['relatedto'] shoad ['etymologicallyrelatedto'] shed
+tear ['mannerof', 'relatedto', 'similarto', 'synonym'] rip ['relatedto'] rat ['relatedto'] shed
+tear ['relatedto'] break ['relatedto'] remove ['mannerof'] shed
+tear ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] separate ['relatedto'] shed
+tear ['relatedto'] break ['mannerof'] shoot ['relatedto'] shed
+tear ['relatedto'] break ['relatedto'] spill ['synonym'] shed
+tear ['antonym'] build ['relatedto'] house ['relatedto'] shed
+tear ['antonym'] build ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] building ['relatedto'] shed
+tear ['antonym'] build ['relatedto'] part ['relatedto'] shed
+tear ['antonym'] build ['usedfor'] tool ['relatedto'] shed
+tear ['relatedto'] destroy ['relatedto'] remove ['mannerof'] shed
+tear ['relatedto'] destroy ['relatedto'] irradiate ['relatedto'] shed
+tear ['etymologicallyrelatedto'] tire ['partof'] automobile ['relatedto'] shed
+tear ['etymologicallyrelatedto'] try ['relatedto'] separate ['relatedto'] shed
+tear ['etymologicallyrelatedto'] try ['relatedto'] fly ['relatedto'] shed
+tear ['etymologicallyrelatedto'] try ['relatedto'] shit ['etymologicallyrelatedto'] shed
+tear ['formof', 'relatedto'] tearing ['relatedto'] cry ['relatedto'] shed
+tear ['formof', 'relatedto'] tearing ['relatedto'] shedding ['formof'] shed
+tear ['formof', 'relatedto'] tears ['relatedto'] drop ['synonym'] shed
+tear ['formof', 'relatedto'] tears ['relatedto'] cry ['relatedto'] shed
+tear ['isa', 'relatedto'] rent ['antonym', 'relatedto'] house ['relatedto'] shed
+tear ['isa', 'relatedto'] drop ['mannerof', 'relatedto'] remove ['mannerof'] shed
+tear ['isa', 'relatedto'] drop ['relatedto'] small ['relatedto'] shed
+tear ['isa', 'relatedto'] drop ['antonym'] pour ['relatedto'] shed
+tear ['isa', 'relatedto'] drop ['antonym', 'distinctfrom', 'relatedto'] throw ['synonym'] shed
+tear ['isa', 'relatedto'] drop ['mannerof', 'synonym'] lose ['relatedto'] shed
+tear ['isa', 'relatedto'] drop ['relatedto'] abscise ['mannerof', 'relatedto'] shed
+tear ['isa', 'relatedto'] drop ['relatedto'] part ['relatedto'] shed
+tear ['isa', 'relatedto'] drop ['relatedto'] spill ['synonym'] shed
+tear ['isa', 'relatedto'] drop ['relatedto'] impart ['relatedto'] shed
+tear ['isa', 'relatedto'] drop ['relatedto'] sprinkle ['relatedto'] shed
+tear ['mannerof', 'relatedto', 'synonym'] rend ['relatedto'] separate ['relatedto'] shed
+tear ['mannerof', 'relatedto', 'synonym'] rend ['relatedto'] part ['relatedto'] shed
+tear ['mannerof', 'relatedto', 'synonym'] rend ['relatedto'] rat ['relatedto'] shed
+tear ['mannerof', 'relatedto'] cry ['relatedto'] fly ['relatedto'] shed
+tear ['mannerof', 'relatedto'] cry ['relatedto'] shedding ['formof'] shed
+tear ['mannerof'] rush ['isa', 'relatedto'] flow ['relatedto'] shed
+tear ['mannerof'] rush ['usedfor'] bicycle ['atlocation'] shed
+tear ['relatedto'] agnail ['relatedto'] skin ['etymologicallyrelatedto'] shed
+tear ['relatedto'] anal_fissure ['relatedto'] skin ['etymologicallyrelatedto'] shed
+tear ['relatedto'] avulse ['mannerof'] separate ['relatedto'] shed
+tear ['relatedto'] bacteria ['relatedto'] small ['relatedto'] shed
+tear ['relatedto'] bacteria ['relatedto'] irradiate ['relatedto'] shed
+tear ['relatedto'] cryingly ['relatedto'] cry ['relatedto'] shed
+tear ['relatedto'] cut ['relatedto'] remove ['mannerof'] shed
+tear ['relatedto'] cut ['mannerof', 'relatedto'] separate ['relatedto'] shed
+tear ['relatedto'] cut ['relatedto'] top ['relatedto'] shed
+tear ['relatedto'] cut ['relatedto'] small ['relatedto'] shed
+tear ['relatedto'] cut ['relatedto'] skin ['etymologicallyrelatedto'] shed
+tear ['relatedto'] cut ['relatedto'] divide ['relatedto'] shed
+tear ['relatedto'] cut ['relatedto'] ditch ['synonym'] shed
+tear ['relatedto'] cut ['relatedto'] impart ['relatedto'] shed
+tear ['relatedto'] dacryocystorhinostomy ['relatedto'] flow ['relatedto'] shed
+tear ['relatedto'] discerp ['relatedto'] separate ['relatedto'] shed
+tear ['relatedto'] dry_eye ['relatedto'] cry ['relatedto'] shed
+tear ['relatedto'] eye ['relatedto'] top ['relatedto'] shed
+tear ['relatedto'] eye ['relatedto'] small ['relatedto'] shed
+tear ['relatedto'] eye ['relatedto', 'partof'] head ['relatedto'] shed
+tear ['relatedto'] eye ['relatedto'] drop ['synonym'] shed
+tear ['relatedto'] eye ['capableof', 'relatedto'] cry ['relatedto'] shed
+tear ['relatedto'] eye ['relatedto'] part ['relatedto'] shed
+tear ['relatedto'] eye ['relatedto'] bloodshed ['relatedto'] shed
+tear ['relatedto'] eye ['relatedto'] tool ['relatedto'] shed
+tear ['relatedto'] eyedrop ['isa', 'derivedfrom'] drop ['synonym'] shed
+tear ['relatedto'] hackle ['relatedto'] separate ['relatedto'] shed
+tear ['relatedto'] lachrymation ['relatedto'] flow ['relatedto'] shed
+tear ['relatedto'] lacrimation ['relatedto'] shedding ['formof'] shed
+tear ['relatedto'] mouse ['relatedto'] small ['relatedto'] shed
+tear ['relatedto'] mouse ['atlocation'] garden ['relatedto'] shed
+tear ['relatedto'] mouse ['atlocation'] building ['relatedto'] shed
+tear ['relatedto'] mouse ['atlocation'] backyard ['relatedto', 'atlocation'] shed
+tear ['relatedto'] mouse ['relatedto', 'similarto'] rat ['relatedto'] shed
+tear ['relatedto'] rat ['relatedto'] small ['relatedto'] shed
+tear ['relatedto'] reave ['relatedto'] remove ['mannerof'] shed
+tear ['relatedto'] ripple ['mannerof'] flow ['relatedto'] shed
+tear ['relatedto'] ripstop ['relatedto'] thread ['relatedto'] shed
+tear ['relatedto'] rug ['relatedto'] house ['relatedto'] shed
+tear ['relatedto'] rug ['usedfor', 'relatedto'] cover ['relatedto'] shed

@@ -1,0 +1,100 @@
+sign ['relatedto'] text ['relatedto'] paste
+sign ['relatedto'] command ['relatedto'] paste
+sign ['relatedto'] picture ['relatedto'] paste
+sign ['relatedto'] form ['relatedto'] paste
+sign ['relatedto'] use ['relatedto'] paste
+sign ['relatedto'] engage ['relatedto', 'synonym'] use ['relatedto'] paste
+sign ['relatedto'] join ['antonym'] cut ['antonym', 'distinctfrom', 'relatedto'] paste
+sign ['relatedto'] join ['antonym', 'relatedto'] part ['relatedto'] paste
+sign ['relatedto'] join ['isa'] attachment ['relatedto'] paste
+sign ['relatedto'] join ['relatedto'] glue ['distinctfrom', 'relatedto', 'synonym'] paste
+sign ['relatedto'] join ['relatedto'] action ['relatedto'] paste
+sign ['relatedto'] join ['relatedto'] together ['relatedto'] paste
+sign ['relatedto'] join ['relatedto'] command ['relatedto'] paste
+sign ['relatedto'] join ['synonym'] cement ['relatedto'] paste
+sign ['relatedto'] peace ['relatedto'] white ['relatedto'] paste
+sign ['relatedto'] number ['isa', 'relatedto'] size ['relatedto'] paste
+sign ['relatedto'] number ['relatedto'] lead ['relatedto'] paste
+sign ['relatedto'] number ['relatedto'] part ['relatedto'] paste
+sign ['relatedto'] number ['relatedto'] used ['relatedto'] paste
+sign ['relatedto'] number ['relatedto'] thick ['relatedto'] paste
+sign ['relatedto'] red ['relatedto'] flour ['relatedto'] paste
+sign ['relatedto'] red ['relatedto'] tomato ['relatedto'] paste
+sign ['relatedto'] post ['relatedto'] big ['relatedto'] paste
+sign ['relatedto'] post ['relatedto'] british ['relatedto'] paste
+sign ['relatedto'] post ['relatedto'] part ['relatedto'] paste
+sign ['relatedto'] post ['relatedto'] stick ['relatedto'] paste
+sign ['relatedto'] orange ['isa'] food ['distinctfrom'] paste
+sign ['relatedto'] arrow ['relatedto'] stick ['relatedto'] paste
+sign ['relatedto'] front ['relatedto'] stick ['relatedto'] paste
+sign ['relatedto'] front ['relatedto'] cover ['mannerof'] paste
+sign ['relatedto'] front ['relatedto'] lead ['relatedto'] paste
+sign ['relatedto'] front ['relatedto'] mouth ['relatedto'] paste
+sign ['relatedto'] front ['relatedto'] command ['relatedto'] paste
+sign ['relatedto'] furniture ['relatedto'] stick ['relatedto'] paste
+sign ['relatedto'] furniture ['isa'] cabinet ['atlocation'] paste
+sign ['relatedto'] furniture ['relatedto'] polish ['relatedto'] paste
+sign ['relatedto'] furniture ['relatedto'] walnut ['relatedto'] paste
+sign ['relatedto'] furniture ['relatedto'] wax ['relatedto'] paste
+sign ['relatedto'] stop ['relatedto'] action ['relatedto'] paste
+sign ['relatedto'] stop ['antonym'] goo ['relatedto', 'synonym'] paste
+sign ['relatedto'] stop ['etymologicallyrelatedto'] stuff ['relatedto'] paste
+sign ['relatedto'] stop ['mannerof', 'relatedto'] cut ['antonym', 'distinctfrom', 'relatedto'] paste
+sign ['relatedto'] stop ['relatedto'] media ['relatedto'] paste
+sign ['relatedto'] stop ['relatedto'] soft ['relatedto'] paste
+sign ['relatedto'] stop ['relatedto'] command ['relatedto'] paste
+sign ['relatedto'] stop ['relatedto'] mouth ['relatedto'] paste
+sign ['relatedto'] thing ['isa'] action ['relatedto'] paste
+sign ['relatedto'] thing ['isa'] part ['relatedto'] paste
+sign ['relatedto'] thing ['isa'] substance ['relatedto'] paste
+sign ['relatedto'] thing ['relatedto'] paper ['relatedto'] paste
+sign ['relatedto'] thing ['relatedto'] general ['relatedto'] paste
+sign ['relatedto'] thing ['relatedto', 'synonym'] stuff ['relatedto'] paste
+sign ['relatedto'] thing ['relatedto'] wax ['relatedto'] paste
+sign ['relatedto'] check ['relatedto'] library ['relatedto'] paste
+sign ['relatedto', 'synonym'] bless ['relatedto'] action ['relatedto'] paste
+sign ['relatedto', 'synonym'] bless ['relatedto'] water ['relatedto'] paste
+sign ['relatedto'] board ['relatedto'] water ['relatedto'] paste
+sign ['relatedto'] board ['distinctfrom', 'relatedto'] stick ['relatedto'] paste
+sign ['relatedto'] board ['relatedto'] cover ['mannerof'] paste
+sign ['relatedto'] board ['relatedto', 'synonym'] food ['distinctfrom'] paste
+sign ['relatedto'] board ['relatedto'] white ['relatedto'] paste
+sign ['relatedto'] board ['relatedto', 'derivedfrom'] pasteboard ['relatedto', 'derivedfrom'] paste
+sign ['relatedto'] board ['relatedto'] classrooms ['relatedto'] paste
+sign ['relatedto'] board ['relatedto'] cut ['antonym', 'distinctfrom', 'relatedto'] paste
+sign ['relatedto'] board ['relatedto'] minus ['relatedto'] paste
+sign ['relatedto'] board ['relatedto'] paper ['relatedto'] paste
+sign ['relatedto'] board ['relatedto'] part ['relatedto'] paste
+sign ['relatedto'] board ['relatedto'] school ['relatedto'] paste
+sign ['relatedto'] board ['relatedto'] schools ['relatedto'] paste
+sign ['relatedto'] board ['relatedto'] used ['relatedto'] paste
+sign ['relatedto'] board ['synonym'] cabinet ['atlocation'] paste
+sign ['relatedto'] car ['atlocation'] children ['relatedto'] paste
+sign ['relatedto'] car ['relatedto'] cover ['mannerof'] paste
+sign ['relatedto'] car ['relatedto'] big ['relatedto'] paste
+sign ['relatedto'] car ['atlocation'] computer ['relatedto'] paste
+sign ['relatedto'] car ['relatedto'] paint ['relatedto'] paste
+sign ['relatedto'] car ['relatedto'] part ['relatedto'] paste
+sign ['relatedto'] car ['relatedto'] polish ['relatedto'] paste
+sign ['relatedto'] car ['relatedto'] wax ['relatedto'] paste
+sign ['atlocation'] book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['mannerof'] paste
+sign ['atlocation'] book ['relatedto'] white ['relatedto'] paste
+sign ['atlocation'] book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['relatedto'] paste
+sign ['atlocation'] book ['capableof', 'isa', 'relatedto', 'partof'] text ['relatedto'] paste
+sign ['atlocation'] book ['isa', 'relatedto'] copy ['antonym', 'relatedto'] paste
+sign ['atlocation'] book ['madeof', 'relatedto'] paper ['relatedto'] paste
+sign ['atlocation'] book ['relatedto'] containing ['relatedto'] paste
+sign ['atlocation'] book ['relatedto'] media ['relatedto'] paste
+sign ['atlocation'] book ['usedfor', 'relatedto'] school ['relatedto'] paste
+sign ['atlocation'] book ['relatedto'] thick ['relatedto'] paste
+sign ['atlocation'] book ['relatedto'] menu ['relatedto'] paste
+sign ['mannerof', 'relatedto'] put ['relatedto'] action ['relatedto'] paste
+sign ['mannerof', 'relatedto'] put ['relatedto'] cover ['mannerof'] paste
+sign ['mannerof', 'relatedto'] put ['antonym'] cut ['antonym', 'distinctfrom', 'relatedto'] paste
+sign ['mannerof', 'relatedto'] put ['mannerof', 'relatedto'] insert ['relatedto'] paste
+sign ['mannerof', 'relatedto'] put ['mannerof'] jar ['relatedto'] paste
+sign ['mannerof', 'relatedto'] put ['mannerof'] use ['relatedto'] paste
+sign ['mannerof', 'relatedto'] put ['relatedto'] glass ['relatedto'] paste
+sign ['mannerof', 'relatedto'] put ['relatedto'] paint ['relatedto'] paste
+sign ['atlocation'] dark ['hasproperty'] bathroom ['relatedto'] paste
+sign ['atlocation'] dark ['hasproperty'] library ['relatedto'] paste

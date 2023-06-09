@@ -1,0 +1,100 @@
+dress ['relatedto'] lace ['relatedto', 'synonym', 'entails'] fasten
+dress ['relatedto', 'synonym'] preen ['relatedto'] fasten
+dress ['relatedto'] rig ['mannerof'] fasten
+dress ['relatedto', 'synonym'] tie ['mannerof', 'relatedto', 'synonym'] fasten
+dress ['capableof'] action ['relatedto'] join ['synonym'] fasten
+dress ['capableof'] action ['relatedto'] fix ['synonym'] fasten
+dress ['capableof'] action ['relatedto'] string ['mannerof'] fasten
+dress ['capableof'] action ['relatedto'] clear_decks ['relatedto'] fasten
+dress ['capableof'] action ['relatedto'] connect ['relatedto', 'synonym'] fasten
+dress ['capableof'] action ['relatedto'] fast ['etymologicallyrelatedto', 'relatedto'] fasten
+dress ['capableof'] action ['relatedto'] hang ['mannerof'] fasten
+dress ['capableof'] action ['relatedto'] land ['relatedto'] fasten
+dress ['capableof'] action ['relatedto'] spoke ['relatedto'] fasten
+dress ['capableof'] action ['relatedto'] stay ['mannerof'] fasten
+dress ['capableof'] action ['relatedto'] stick ['mannerof'] fasten
+dress ['relatedto'] activity ['relatedto'] join ['synonym'] fasten
+dress ['relatedto'] activity ['relatedto'] hang ['mannerof'] fasten
+dress ['relatedto'] evening ['relatedto'] bar ['mannerof'] fasten
+dress ['relatedto'] evening ['relatedto'] bight ['mannerof'] fasten
+dress ['relatedto'] getting ['relatedto'] join ['synonym'] fasten
+dress ['relatedto'] getting ['relatedto'] bar ['mannerof'] fasten
+dress ['relatedto'] getting ['relatedto'] connect ['relatedto', 'synonym'] fasten
+dress ['relatedto'] short ['relatedto'] pin ['mannerof', 'relatedto'] fasten
+dress ['relatedto'] red ['relatedto'] sagum ['relatedto'] fasten
+dress ['relatedto'] bottom ['relatedto'] button ['usedfor', 'mannerof', 'relatedto'] fasten
+dress ['relatedto'] bottom ['relatedto'] cleat ['mannerof'] fasten
+dress ['synonym'] set ['synonym'] fix ['synonym'] fasten
+dress ['synonym'] set ['capableof'] glue ['mannerof'] fasten
+dress ['synonym'] set ['relatedto'] stake ['mannerof', 'relatedto'] fasten
+dress ['synonym'] set ['relatedto'] fastened ['formof', 'relatedto'] fasten
+dress ['synonym'] set ['synonym'] rig ['mannerof'] fasten
+dress ['relatedto'] arm ['relatedto'] hang ['mannerof'] fasten
+dress ['relatedto'] arm ['relatedto'] sling ['relatedto'] fasten
+dress ['relatedto'] arm ['relatedto'] stick ['mannerof'] fasten
+dress ['isa', 'relatedto'] clothing ['isa', 'relatedto'] tie ['mannerof', 'relatedto', 'synonym'] fasten
+dress ['isa', 'relatedto'] clothing ['relatedto'] belt ['mannerof', 'relatedto'] fasten
+dress ['isa', 'relatedto'] clothing ['relatedto'] button ['usedfor', 'mannerof', 'relatedto'] fasten
+dress ['isa', 'relatedto'] clothing ['relatedto'] hang ['mannerof'] fasten
+dress ['isa', 'relatedto'] clothing ['relatedto'] lace ['relatedto', 'synonym', 'entails'] fasten
+dress ['isa', 'relatedto'] clothing ['relatedto'] pinback ['relatedto'] fasten
+dress ['isa', 'relatedto'] clothing ['relatedto'] pointmaker ['relatedto'] fasten
+dress ['isa', 'relatedto'] clothing ['relatedto'] snap_fastener ['relatedto'] fasten
+dress ['mannerof'] position ['relatedto'] button ['usedfor', 'mannerof', 'relatedto'] fasten
+dress ['mannerof'] position ['relatedto'] cleat ['mannerof'] fasten
+dress ['mannerof'] position ['relatedto'] snap ['relatedto'] fasten
+dress ['mannerof'] position ['relatedto'] tie ['mannerof', 'relatedto', 'synonym'] fasten
+dress ['mannerof'] position ['relatedto'] toggle ['mannerof'] fasten
+dress ['mannerof'] cover ['synonym'] embrace ['relatedto'] fasten
+dress ['mannerof'] cover ['mannerof'] bind ['mannerof', 'relatedto', 'synonym'] fasten
+dress ['mannerof'] cover ['relatedto'] belace ['relatedto'] fasten
+dress ['mannerof'] cover ['relatedto'] butt_hinge ['relatedto'] fasten
+dress ['mannerof'] cover ['relatedto'] overcast ['relatedto'] fasten
+dress ['mannerof'] finish ['haslastsubevent'] sew ['mannerof'] fasten
+dress ['relatedto'] big ['relatedto'] land ['relatedto'] fasten
+dress ['relatedto'] big ['antonym', 'relatedto'] stick ['mannerof'] fasten
+dress ['relatedto'] big ['relatedto'] bar ['mannerof'] fasten
+dress ['relatedto'] big ['relatedto'] frog ['relatedto'] fasten
+dress ['relatedto'] night ['relatedto'] bar ['mannerof'] fasten
+dress ['relatedto'] black ['relatedto'] seal ['relatedto', 'entails'] fasten
+dress ['relatedto'] blouse ['relatedto'] hang ['mannerof'] fasten
+dress ['relatedto'] body ['partof'] joint ['mannerof'] fasten
+dress ['relatedto'] body ['relatedto'] belt ['mannerof', 'relatedto'] fasten
+dress ['relatedto'] body ['relatedto'] tie ['mannerof', 'relatedto', 'synonym'] fasten
+dress ['relatedto'] body ['relatedto'] snipebill ['relatedto'] fasten
+dress ['relatedto'] body ['relatedto'] staple ['mannerof'] fasten
+dress ['relatedto'] girl ['relatedto'] bar ['mannerof'] fasten
+dress ['relatedto'] length ['relatedto'] stick ['mannerof'] fasten
+dress ['relatedto'] length ['relatedto'] bar ['mannerof'] fasten
+dress ['relatedto'] length ['relatedto'] cable ['mannerof', 'relatedto'] fasten
+dress ['relatedto'] length ['relatedto'] chain ['usedfor', 'mannerof', 'relatedto'] fasten
+dress ['relatedto'] length ['relatedto'] loop ['relatedto'] fasten
+dress ['relatedto'] piece ['usedfor'] fix ['synonym'] fasten
+dress ['relatedto'] piece ['relatedto', 'synonym'] stick ['mannerof'] fasten
+dress ['relatedto'] piece ['relatedto'] belt ['mannerof', 'relatedto'] fasten
+dress ['relatedto'] piece ['relatedto'] tag ['relatedto'] fasten
+dress ['relatedto'] piece ['relatedto'] pin ['mannerof', 'relatedto'] fasten
+dress ['relatedto'] piece ['relatedto'] stake ['mannerof', 'relatedto'] fasten
+dress ['relatedto'] putting ['relatedto'] join ['synonym'] fasten
+dress ['relatedto'] work ['isa'] loose_end ['relatedto'] fasten
+dress ['relatedto'] work ['relatedto'] screwdriving ['relatedto'] fasten
+dress ['mannerof', 'synonym'] groom ['relatedto'] preen ['relatedto'] fasten
+dress ['antonym', 'relatedto'] long ['relatedto'] land ['relatedto'] fasten
+dress ['antonym', 'relatedto'] long ['relatedto'] stick ['mannerof'] fasten
+dress ['antonym', 'relatedto'] long ['relatedto'] bar ['mannerof'] fasten
+dress ['antonym', 'relatedto'] long ['relatedto'] belt ['mannerof', 'relatedto'] fasten
+dress ['antonym', 'relatedto'] long ['relatedto'] stake ['mannerof', 'relatedto'] fasten
+dress ['antonym', 'relatedto'] long ['relatedto'] wire ['usedfor', 'mannerof', 'relatedto'] fasten
+dress ['relatedto'] nice ['relatedto'] bar ['mannerof'] fasten
+dress ['mannerof'] change ['mannerof'] unite ['synonym'] fasten
+dress ['mannerof'] change ['mannerof'] fix ['synonym'] fasten
+dress ['mannerof'] change ['relatedto'] stay ['mannerof'] fasten
+dress ['mannerof'] change ['mannerof'] catch ['synonym'] fasten
+dress ['mannerof'] change ['mannerof'] spike ['mannerof'] fasten
+dress ['mannerof'] change ['mannerof'] string ['mannerof'] fasten
+dress ['mannerof'] change ['mannerof'] tighten ['synonym'] fasten
+dress ['mannerof'] change ['synonym'] tack ['mannerof'] fasten
+dress ['relatedto'] guy ['relatedto'] stay ['mannerof'] fasten
+dress ['relatedto'] guy ['relatedto'] cable ['mannerof', 'relatedto'] fasten
+dress ['relatedto'] guy ['relatedto'] secure ['synonym'] fasten
+dress ['relatedto'] open ['relatedto'] catch ['synonym'] fasten

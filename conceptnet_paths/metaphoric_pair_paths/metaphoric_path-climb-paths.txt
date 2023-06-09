@@ -1,0 +1,100 @@
+path ['isa'] walk ['relatedto'] climb
+path ['isa', 'relatedto', 'synonym'] way ['relatedto'] climb
+path ['relatedto'] tree ['usedfor', 'relatedto'] climb
+path ['relatedto'] slope ['mannerof'] climb
+path ['isa', 'relatedto'] direction ['relatedto'] climb
+path ['relatedto'] hiking ['relatedto'] climb
+path ['relatedto'] declivity ['relatedto'] hill ['usedfor', 'relatedto'] climb
+path ['relatedto'] declivity ['relatedto'] slope ['mannerof'] climb
+path ['relatedto'] sympathy ['relatedto'] movement ['relatedto'] climb
+path ['relatedto'] bottom ['atlocation'] water ['hasprerequisite'] climb
+path ['relatedto'] bottom ['antonym', 'distinctfrom', 'relatedto'] top ['relatedto'] climb
+path ['relatedto'] bottom ['relatedto'] direction ['relatedto'] climb
+path ['relatedto'] bottom ['relatedto'] fall ['antonym'] climb
+path ['relatedto'] bottom ['relatedto'] feet ['relatedto'] climb
+path ['relatedto'] art ['relatedto'] activity ['relatedto'] climb
+path ['relatedto'] art ['relatedto'] human ['relatedto'] climb
+path ['relatedto'] art ['atlocation'] monkey ['relatedto'] climb
+path ['relatedto'] art ['isa', 'relatedto'] hobby ['relatedto'] climb
+path ['relatedto'] art ['relatedto'] wall ['relatedto'] climb
+path ['relatedto'] art ['relatedto'] movement ['relatedto'] climb
+path ['relatedto'] current ['relatedto', 'atlocation'] water ['hasprerequisite'] climb
+path ['relatedto'] current ['relatedto'] high ['relatedto'] climb
+path ['relatedto'] current ['relatedto'] motion ['relatedto'] climb
+path ['relatedto'] current ['relatedto'] movement ['relatedto'] climb
+path ['relatedto'] current ['relatedto'] moving ['relatedto'] climb
+path ['relatedto'] well ['hasa', 'relatedto', 'atlocation'] water ['hasprerequisite'] climb
+path ['relatedto'] well ['etymologicallyrelatedto', 'relatedto'] wall ['relatedto'] climb
+path ['relatedto'] well ['relatedto'] creeper ['relatedto'] climb
+path ['relatedto'] well ['relatedto'] progress ['mannerof'] climb
+path ['relatedto'] block ['relatedto'] human ['relatedto'] climb
+path ['relatedto'] block ['isa'] step ['relatedto'] climb
+path ['relatedto'] block ['relatedto'] rope ['relatedto'] climb
+path ['relatedto'] yellow ['relatedto'] wax ['synonym'] climb
+path ['relatedto'] bridge ['relatedto', 'atlocation'] water ['hasprerequisite'] climb
+path ['relatedto'] bridge ['atlocation'] rock ['causesdesire', 'relatedto'] climb
+path ['relatedto'] bridge ['atlocation'] rocks ['relatedto'] climb
+path ['relatedto'] bridge ['relatedto'] falling ['antonym'] climb
+path ['relatedto'] bridge ['relatedto'] high ['relatedto'] climb
+path ['relatedto'] bridge ['relatedto'] walk ['relatedto'] climb
+path ['relatedto'] bridge ['relatedto'] walking ['relatedto'] climb
+path ['relatedto'] bridge ['relatedto'] way ['relatedto'] climb
+path ['relatedto'] bridge ['relatedto'] elevated ['relatedto'] climb
+path ['relatedto'] hall ['relatedto'] house ['relatedto'] climb
+path ['relatedto'] hall ['relatedto'] use ['relatedto'] climb
+path ['relatedto'] hall ['relatedto'] walk ['relatedto'] climb
+path ['relatedto'] hall ['relatedto'] walking ['relatedto'] climb
+path ['relatedto'] hall ['relatedto'] way ['relatedto'] climb
+path ['relatedto'] career ['isa'] progress ['mannerof'] climb
+path ['relatedto'] career ['mannerof'] travel ['relatedto'] climb
+path ['isa', 'relatedto'] line ['relatedto'] glue ['etymologicallyrelatedto'] climb
+path ['isa', 'relatedto'] line ['isa', 'relatedto', 'synonym'] rope ['relatedto'] climb
+path ['isa', 'relatedto'] line ['mannerof'] face ['relatedto'] climb
+path ['isa', 'relatedto'] line ['relatedto'] jump ['relatedto'] climb
+path ['isa', 'relatedto'] line ['relatedto'] direction ['relatedto'] climb
+path ['isa', 'relatedto'] line ['relatedto'] walk ['relatedto'] climb
+path ['isa', 'relatedto'] line ['relatedto'] scale ['mannerof', 'relatedto', 'synonym'] climb
+path ['isa', 'relatedto'] line ['relatedto'] slope ['mannerof'] climb
+path ['isa', 'relatedto'] line ['relatedto'] twine ['relatedto'] climb
+path ['isa', 'relatedto'] line ['relatedto'] wax ['synonym'] climb
+path ['relatedto'] edge ['relatedto'] fall ['antonym'] climb
+path ['relatedto'] edge ['relatedto'] top ['relatedto'] climb
+path ['relatedto'] edge ['relatedto'] cliff ['causesdesire'] climb
+path ['relatedto'] edge ['relatedto'] cliffs ['relatedto'] climb
+path ['relatedto'] edge ['relatedto'] dangerous ['relatedto'] climb
+path ['relatedto'] edge ['relatedto'] falling ['antonym'] climb
+path ['relatedto'] edge ['relatedto'] mountain ['antonym', 'usedfor', 'relatedto'] climb
+path ['relatedto'] edge ['relatedto'] mountains ['relatedto'] climb
+path ['relatedto'] edge ['relatedto'] face ['relatedto'] climb
+path ['relatedto'] edge ['relatedto'] move ['mannerof', 'relatedto'] climb
+path ['relatedto'] edge ['relatedto'] walk ['relatedto'] climb
+path ['relatedto'] connected ['synonym'] related ['antonym'] climb
+path ['relatedto', 'synonym'] course ['isa', 'relatedto', 'synonym'] action ['relatedto'] climb
+path ['relatedto', 'synonym'] course ['relatedto'] related ['antonym'] climb
+path ['relatedto', 'synonym'] course ['partof'] wall ['relatedto'] climb
+path ['relatedto', 'synonym'] course ['isa', 'relatedto'] direction ['relatedto'] climb
+path ['relatedto', 'synonym'] course ['isa', 'relatedto', 'synonym'] way ['relatedto'] climb
+path ['relatedto', 'synonym'] course ['relatedto'] slope ['mannerof'] climb
+path ['isa'] walk ['relatedto'] action ['relatedto'] climb
+path ['isa'] walk ['relatedto'] activity ['relatedto'] climb
+path ['isa'] walk ['relatedto'] getting ['relatedto'] climb
+path ['isa'] walk ['relatedto'] human ['relatedto'] climb
+path ['isa'] walk ['relatedto'] go ['antonym', 'relatedto'] climb
+path ['isa'] walk ['etymologicallyrelatedto'] wall ['relatedto'] climb
+path ['isa'] walk ['antonym', 'relatedto'] crawl ['relatedto'] climb
+path ['isa'] walk ['antonym', 'distinctfrom'] ride ['mannerof'] climb
+path ['isa'] walk ['capableof', 'usedfor', 'relatedto'] feet ['relatedto'] climb
+path ['isa'] walk ['mannerof', 'relatedto', 'synonym', 'entails'] step ['relatedto'] climb
+path ['isa'] walk ['formof', 'relatedto', 'synonym'] walking ['relatedto'] climb
+path ['isa'] walk ['isa', 'mannerof', 'motivatedbygoal', 'synonym'] hike ['relatedto'] climb
+path ['isa'] walk ['isa', 'relatedto'] locomotion ['relatedto'] climb
+path ['isa'] walk ['isa', 'mannerof', 'relatedto'] travel ['relatedto'] climb
+path ['isa'] walk ['motivatedbygoal', 'relatedto'] exercise ['motivatedbygoal', 'relatedto'] climb
+path ['isa'] walk ['relatedto'] coasteering ['relatedto'] climb
+path ['isa'] walk ['relatedto'] move ['mannerof', 'relatedto'] climb
+path ['isa'] walk ['relatedto'] human_movement ['relatedto'] climb
+path ['isa'] walk ['relatedto'] motion ['relatedto'] climb
+path ['isa'] walk ['relatedto'] movement ['relatedto'] climb
+path ['isa'] walk ['relatedto'] moving ['relatedto'] climb
+path ['isa'] walk ['relatedto'] stepping ['hasfirstsubevent', 'haslastsubevent', 'relatedto'] climb
+path ['isa'] walk ['relatedto'] use ['relatedto'] climb

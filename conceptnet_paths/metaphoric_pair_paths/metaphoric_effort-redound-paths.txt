@@ -1,0 +1,100 @@
+effort ['relatedto'] action ['relatedto'] arise ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] give ['antonym', 'relatedto'] return ['mannerof'] redound
+effort ['relatedto'] give ['mannerof', 'relatedto', 'synonym'] contribute ['relatedto'] redound
+effort ['relatedto'] afford ['synonym'] contribute ['relatedto'] redound
+effort ['relatedto'] go ['antonym', 'relatedto'] arise ['relatedto'] redound
+effort ['relatedto'] go ['antonym', 'distinctfrom', 'relatedto'] return ['mannerof'] redound
+effort ['relatedto'] arrival ['isa'] return ['mannerof'] redound
+effort ['relatedto'] good ['isa', 'relatedto'] advantage ['relatedto'] redound
+effort ['relatedto'] good ['relatedto'] swell ['relatedto'] redound
+effort ['relatedto'] beginning ['relatedto'] arise ['relatedto'] redound
+effort ['relatedto'] work ['relatedto'] advantage ['relatedto'] redound
+effort ['relatedto'] gift ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] gift ['synonym'] contribute ['relatedto'] redound
+effort ['relatedto'] stand ['relatedto', 'entails'] arise ['relatedto'] redound
+effort ['relatedto'] climb ['relatedto'] onto ['relatedto'] redound
+effort ['isa'] pull ['isa'] advantage ['relatedto'] redound
+effort ['hasprerequisite'] success ['relatedto'] advantage ['relatedto'] redound
+effort ['isa', 'relatedto'] trouble ['mannerof'] affect ['mannerof'] redound
+effort ['relatedto'] motion ['relatedto'] arise ['relatedto'] redound
+effort ['relatedto'] motion ['isa'] return ['mannerof'] redound
+effort ['relatedto'] motion ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] stimulate ['mannerof'] affect ['mannerof'] redound
+effort ['relatedto'] empty_tank ['relatedto'] contribute ['relatedto'] redound
+effort ['relatedto'] labour ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] overhead ['isa'] return ['mannerof'] redound
+effort ['relatedto'] overhead ['relatedto'] contribute ['relatedto'] redound
+effort ['relatedto'] pull_oar ['relatedto'] contribute ['relatedto'] redound
+effort ['relatedto'] push ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] timeserver ['relatedto'] advantage ['relatedto'] redound
+effort ['relatedto'] action ['isa', 'relatedto', 'derivedfrom'] act ['mannerof'] swell ['relatedto'] redound
+effort ['relatedto'] action ['hasprerequisite'] getting ['relatedto'] arise ['relatedto'] redound
+effort ['relatedto'] action ['hasprerequisite'] getting ['relatedto'] onto ['relatedto'] redound
+effort ['relatedto'] action ['isa', 'relatedto'] group_action ['isa'] return ['mannerof'] redound
+effort ['relatedto'] action ['isa', 'relatedto'] work ['relatedto'] advantage ['relatedto'] redound
+effort ['relatedto'] action ['isa', 'relatedto'] drive ['formof'] driven ['relatedto'] redound
+effort ['relatedto'] action ['isa', 'relatedto'] drive ['isa'] return ['mannerof'] redound
+effort ['relatedto'] action ['isa'] software ['isa'] echo ['relatedto'] redound
+effort ['relatedto'] action ['isa'] arrival ['isa'] return ['mannerof'] redound
+effort ['relatedto'] action ['isa', 'relatedto'] change ['mannerof', 'synonym'] affect ['mannerof'] redound
+effort ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] roll ['relatedto'] redound
+effort ['relatedto'] action ['isa', 'relatedto'] change ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['isa'] employment ['relatedto'] redundant ['relatedto'] redound
+effort ['relatedto'] action ['isa'] employment ['antonym'] redundancy ['relatedto'] redound
+effort ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] arise ['relatedto'] redound
+effort ['relatedto'] action ['isa', 'synonym'] movement ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] action ['isa', 'relatedto'] reflex ['relatedto'] reflect ['relatedto'] redound
+effort ['relatedto'] action ['relatedto', 'partof'] keyboard ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto', 'partof'] key ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] motion ['relatedto'] arise ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] motion ['isa'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] motion ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] part ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] spin ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] effect ['formof'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] effect ['relatedto'] reverberate ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] add ['synonym'] contribute ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] adopt ['synonym'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] agree ['relatedto'] reflect ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] appoint ['relatedto'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] arise ['relatedto', 'synonym'] accrue ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] ask ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] attack ['mannerof', 'synonym'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] b_roll ['similarto'] roll ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] begin ['synonym'] arise ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] beginning ['relatedto'] arise ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] bowling ['relatedto', 'partof'] roll ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] bring ['mannerof', 'relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] bring ['relatedto', 'synonym'] contribute ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] call ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] camp ['relatedto'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] cause ['relatedto'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] character ['relatedto'] reflect ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] character ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] chop ['isa'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] chop ['relatedto'] swell ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] climb ['relatedto'] onto ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] come ['relatedto', 'synonym'] arise ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] come ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] concern ['synonym'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] consider ['relatedto'] reflect ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] court ['relatedto'] redundancy ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] cover ['relatedto'] upon ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] deliver ['relatedto'] driven ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] disturb ['mannerof'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] division ['relatedto'] swell ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] drop ['antonym'] onto ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] drop ['relatedto'] roll ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] echopathy ['derivedfrom'] echo ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] elect ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] employ ['antonym'] redundant ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] enter ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] equivariant ['relatedto'] affect ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] exchange ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] extension ['relatedto'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] fall ['synonym'] accrue ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] fall ['antonym'] arise ['relatedto'] redound
+effort ['relatedto'] action ['relatedto'] fall ['synonym'] return ['mannerof'] redound
+effort ['relatedto'] action ['relatedto'] feel ['causes'] affect ['mannerof'] redound

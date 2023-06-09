@@ -1,0 +1,100 @@
+paint ['antonym', 'distinctfrom', 'relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] liquid ['relatedto'] dash
+paint ['relatedto'] mix ['mannerof'] dash
+paint ['relatedto'] style ['synonym'] dash
+paint ['relatedto'] run ['isa', 'relatedto'] dash
+paint ['relatedto'] action ['relatedto'] break ['isa'] dash
+paint ['relatedto'] action ['relatedto'] bribe ['relatedto'] dash
+paint ['relatedto'] action ['relatedto', 'synonym'] case ['relatedto'] dash
+paint ['relatedto'] action ['relatedto'] destroy ['relatedto'] dash
+paint ['relatedto'] action ['relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] action ['relatedto'] drop ['relatedto'] dash
+paint ['relatedto'] action ['relatedto'] haste ['isa'] dash
+paint ['relatedto'] action ['relatedto'] leave ['relatedto'] dash
+paint ['relatedto'] action ['relatedto'] ring ['relatedto'] dash
+paint ['relatedto'] action ['relatedto'] run ['isa', 'relatedto'] dash
+paint ['relatedto'] action ['relatedto'] rush ['relatedto'] dash
+paint ['relatedto'] action ['relatedto'] shake ['relatedto'] dash
+paint ['relatedto'] action ['relatedto'] smash ['synonym'] dash
+paint ['relatedto'] action ['relatedto'] stitch ['relatedto'] dash
+paint ['relatedto'] activity ['relatedto'] bribe ['relatedto'] dash
+paint ['relatedto'] activity ['relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] activity ['relatedto'] run ['isa', 'relatedto'] dash
+paint ['relatedto'] activity ['relatedto'] smash ['synonym'] dash
+paint ['relatedto'] activity ['relatedto'] sprint ['synonym'] dash
+paint ['relatedto'] activity ['relatedto'] subtraction ['relatedto'] dash
+paint ['relatedto'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] dash
+paint ['relatedto'] water ['relatedto'] case ['relatedto'] dash
+paint ['relatedto'] water ['relatedto'] drop ['relatedto'] dash
+paint ['relatedto'] water ['relatedto'] rush ['relatedto'] dash
+paint ['relatedto'] sometimes ['relatedto'] bribe ['relatedto'] dash
+paint ['relatedto'] sometimes ['relatedto'] cake ['relatedto'] dash
+paint ['relatedto'] sometimes ['relatedto'] card ['relatedto'] dash
+paint ['relatedto'] sometimes ['relatedto'] case ['relatedto'] dash
+paint ['relatedto'] sometimes ['relatedto'] ring ['relatedto'] dash
+paint ['relatedto'] new ['antonym'] ruin ['relatedto'] dash
+paint ['mannerof', 'motivatedbygoal'] create ['antonym', 'distinctfrom', 'relatedto'] destroy ['relatedto'] dash
+paint ['mannerof', 'motivatedbygoal'] create ['mannerof', 'relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] house ['relatedto'] card ['relatedto'] dash
+paint ['relatedto'] house ['relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] art ['relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] art ['relatedto'] style ['synonym'] dash
+paint ['relatedto'] artistic ['relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] home ['relatedto', 'atlocation'] mine ['relatedto'] dash
+paint ['relatedto'] bad ['relatedto'] break ['isa'] dash
+paint ['relatedto'] bad ['relatedto'] destroy ['relatedto'] dash
+paint ['relatedto'] bad ['relatedto'] ruin ['relatedto'] dash
+paint ['relatedto'] bad ['relatedto'] verse ['relatedto'] dash
+paint ['mannerof', 'relatedto'] prime ['relatedto'] sprint ['synonym'] dash
+paint ['capableof', 'relatedto'] artist ['capableof', 'relatedto'] draw ['relatedto'] dash
+paint ['mannerof', 'relatedto'] cover ['antonym'] leave ['relatedto'] dash
+paint ['mannerof', 'relatedto'] cover ['relatedto'] case ['relatedto'] dash
+paint ['mannerof', 'relatedto'] cover ['relatedto'] sprinkle ['relatedto'] dash
+paint ['relatedto'] wet ['mannerof'] sprinkle ['relatedto'] dash
+paint ['relatedto'] wet ['relatedto'] drop ['relatedto'] dash
+paint ['relatedto'] wet ['relatedto'] liquid ['relatedto'] dash
+paint ['relatedto'] finish ['isa', 'relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] half ['relatedto'] break ['isa'] dash
+paint ['relatedto'] half ['relatedto'] case ['relatedto'] dash
+paint ['relatedto'] car ['relatedto'] short ['relatedto'] dash
+paint ['relatedto'] car ['atlocation'] dashboard ['relatedto', 'derivedfrom'] dash
+paint ['relatedto'] car ['capableof'] crash ['synonym'] dash
+paint ['relatedto'] car ['relatedto'] break ['isa'] dash
+paint ['relatedto'] car ['relatedto'] smash ['synonym'] dash
+paint ['relatedto'] boy ['relatedto'] short ['relatedto'] dash
+paint ['relatedto'] glue ['antonym'] break ['isa'] dash
+paint ['relatedto'] put ['antonym'] break ['isa'] dash
+paint ['relatedto'] put ['antonym'] smash ['synonym'] dash
+paint ['relatedto'] put ['relatedto'] cake ['relatedto'] dash
+paint ['relatedto'] put ['relatedto'] case ['relatedto'] dash
+paint ['relatedto'] put ['relatedto'] drop ['relatedto'] dash
+paint ['atlocation'] work ['relatedto'] leave ['relatedto'] dash
+paint ['atlocation'] work ['antonym', 'relatedto'] break ['isa'] dash
+paint ['atlocation'] work ['relatedto'] case ['relatedto'] dash
+paint ['atlocation'] work ['relatedto'] draw ['relatedto'] dash
+paint ['atlocation'] work ['relatedto'] run ['isa', 'relatedto'] dash
+paint ['atlocation'] work ['relatedto'] stitch ['relatedto'] dash
+paint ['relatedto'] cream ['antonym', 'relatedto'] cake ['relatedto'] dash
+paint ['relatedto'] cream ['relatedto'] shake ['relatedto'] dash
+paint ['relatedto'] nice ['antonym', 'relatedto'] cake ['relatedto'] dash
+paint ['relatedto'] nice ['relatedto'] case ['relatedto'] dash
+paint ['relatedto'] nice ['relatedto'] drop ['relatedto'] dash
+paint ['relatedto'] nice ['relatedto'] run ['isa', 'relatedto'] dash
+paint ['relatedto'] nice ['relatedto'] ring ['relatedto'] dash
+paint ['relatedto'] nice ['relatedto'] style ['synonym'] dash
+paint ['relatedto'] effect ['relatedto'] drop ['relatedto'] dash
+paint ['relatedto'] effect ['mannerof'] draw ['relatedto'] dash
+paint ['relatedto'] effect ['relatedto'] rush ['relatedto'] dash
+paint ['mannerof'] charge ['relatedto'] card ['relatedto'] dash
+paint ['mannerof'] charge ['mannerof', 'relatedto'] rush ['relatedto'] dash
+paint ['mannerof'] charge ['relatedto'] run ['isa', 'relatedto'] dash
+paint ['mannerof'] charge ['relatedto'] quick ['relatedto'] dash
+paint ['relatedto'] solid ['antonym', 'distinctfrom', 'relatedto', 'similarto'] liquid ['relatedto'] dash
+paint ['relatedto'] solid ['relatedto'] hyphen ['relatedto', 'synonym'] dash
+paint ['relatedto'] thick ['relatedto'] card ['relatedto'] dash
+paint ['relatedto'] thick ['relatedto'] shake ['relatedto'] dash
+paint ['relatedto'] fluid ['relatedto'] drop ['relatedto'] dash
+paint ['relatedto'] fluid ['isa', 'relatedto', 'synonym'] liquid ['relatedto'] dash
+paint ['relatedto'] color ['relatedto'] draw ['relatedto'] dash
+paint ['relatedto'] color ['relatedto'] corn ['relatedto'] dash
+paint ['relatedto'] graphical_user_interface ['relatedto'] dashboard ['relatedto', 'derivedfrom'] dash

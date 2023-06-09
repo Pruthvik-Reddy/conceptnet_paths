@@ -1,0 +1,100 @@
+wood ['relatedto'] chop ['relatedto'] swell
+wood ['relatedto'] morning ['relatedto'] good ['relatedto'] swell
+wood ['relatedto'] age ['antonym', 'relatedto'] grow ['mannerof', 'relatedto'] swell
+wood ['relatedto'] agent ['relatedto'] act ['mannerof'] swell
+wood ['antonym', 'relatedto', 'atlocation'] fire ['antonym', 'relatedto'] wind ['relatedto'] swell
+wood ['antonym', 'relatedto', 'atlocation'] fire ['relatedto'] inflammation ['relatedto'] swell
+wood ['antonym', 'relatedto', 'atlocation'] fire ['relatedto'] excellent ['relatedto'] swell
+wood ['relatedto'] dead ['relatedto'] sea ['relatedto'] swell
+wood ['relatedto'] red ['relatedto'] blister ['mannerof'] swell
+wood ['relatedto'] red ['relatedto'] sea ['relatedto'] swell
+wood ['relatedto'] bird ['atlocation'] sea ['relatedto'] swell
+wood ['relatedto'] plant ['capableof', 'relatedto', 'synonym'] grow ['mannerof', 'relatedto'] swell
+wood ['relatedto'] plant ['relatedto'] division ['relatedto'] swell
+wood ['relatedto'] plant ['relatedto'] grossification ['relatedto'] swell
+wood ['relatedto'] plants ['relatedto'] grow ['mannerof', 'relatedto'] swell
+wood ['relatedto'] post ['relatedto'] big ['relatedto'] swell
+wood ['madeof', 'relatedto'] house ['relatedto'] big ['relatedto'] swell
+wood ['relatedto'] apple ['relatedto'] good ['relatedto'] swell
+wood ['relatedto'] apple ['relatedto'] pod ['relatedto'] swell
+wood ['relatedto'] apple ['relatedto'] neck ['relatedto'] swell
+wood ['relatedto'] set ['relatedto'] bag ['relatedto'] swell
+wood ['relatedto'] set ['relatedto'] bulb ['relatedto'] swell
+wood ['madeof', 'relatedto'] stick ['antonym', 'relatedto'] big ['relatedto'] swell
+wood ['madeof', 'relatedto'] stick ['relatedto'] increase ['mannerof'] swell
+wood ['madeof', 'relatedto'] stick ['relatedto'] bunch ['relatedto'] swell
+wood ['relatedto'] ball ['relatedto'] good ['relatedto'] swell
+wood ['relatedto'] ball ['etymologicallyrelatedto', 'relatedto'] balloon ['relatedto'] swell
+wood ['relatedto'] ball ['mannerof'] wind ['relatedto'] swell
+wood ['relatedto'] ball ['relatedto'] fancy ['relatedto'] swell
+wood ['madeof'] guitar ['relatedto', 'partof'] neck ['relatedto'] swell
+wood ['relatedto'] bar ['relatedto'] social ['relatedto'] swell
+wood ['relatedto'] bar ['relatedto'] big ['relatedto'] swell
+wood ['relatedto'] bat ['relatedto'] good ['relatedto'] swell
+wood ['relatedto'] bat ['relatedto'] big ['relatedto'] swell
+wood ['relatedto'] bed ['relatedto'] good ['relatedto'] swell
+wood ['relatedto'] bed ['atlocation'] bag ['relatedto'] swell
+wood ['relatedto'] bed ['relatedto'] big ['relatedto'] swell
+wood ['madeof', 'relatedto'] floor ['relatedto'] standing ['relatedto'] swell
+wood ['relatedto'] small ['relatedto'] grow ['mannerof', 'relatedto'] swell
+wood ['relatedto'] small ['antonym', 'distinctfrom', 'relatedto'] big ['relatedto'] swell
+wood ['relatedto'] small ['relatedto'] chop ['relatedto'] swell
+wood ['relatedto'] small ['relatedto'] ocean ['relatedto'] swell
+wood ['relatedto'] small ['relatedto'] sea ['relatedto'] swell
+wood ['relatedto'] small ['relatedto'] wave ['isa', 'relatedto'] swell
+wood ['relatedto'] block ['relatedto'] well ['relatedto', 'synonym'] swell
+wood ['madeof', 'relatedto'] board ['relatedto'] sea ['relatedto'] swell
+wood ['relatedto', 'atlocation'] boat ['relatedto'] big ['relatedto'] swell
+wood ['relatedto', 'atlocation'] boat ['relatedto', 'atlocation'] ocean ['relatedto'] swell
+wood ['relatedto', 'atlocation'] boat ['atlocation'] pump ['relatedto'] swell
+wood ['relatedto', 'atlocation'] boat ['relatedto'] sea ['relatedto'] swell
+wood ['relatedto', 'atlocation'] boat ['relatedto'] wind ['relatedto'] swell
+wood ['relatedto'] head ['relatedto'] balloon ['relatedto'] swell
+wood ['relatedto'] head ['relatedto'] big ['relatedto'] swell
+wood ['relatedto'] head ['antonym', 'relatedto', 'atlocation'] neck ['relatedto'] swell
+wood ['relatedto'] flesh ['relatedto'] neck ['relatedto'] swell
+wood ['relatedto'] carry ['mannerof'] grow ['mannerof', 'relatedto'] swell
+wood ['relatedto'] carry ['capableof', 'relatedto'] bag ['relatedto'] swell
+wood ['relatedto'] branch ['relatedto'] big ['relatedto'] swell
+wood ['relatedto'] branch ['isa', 'relatedto'] division ['relatedto'] swell
+wood ['relatedto'] branch ['relatedto'] larger ['relatedto'] swell
+wood ['relatedto'] stem ['relatedto'] neck ['relatedto'] swell
+wood ['relatedto'] stem ['relatedto'] bulb ['relatedto'] swell
+wood ['isa', 'relatedto'] trunk ['relatedto'] well ['relatedto', 'synonym'] swell
+wood ['isa', 'relatedto'] trunk ['relatedto'] neck ['relatedto'] swell
+wood ['capableof', 'relatedto'] burn ['relatedto'] blister ['mannerof'] swell
+wood ['capableof', 'relatedto'] burn ['relatedto'] sore ['relatedto'] swell
+wood ['relatedto'] cabin ['synonym'] pod ['relatedto'] swell
+wood ['relatedto'] camp ['relatedto'] bag ['relatedto'] swell
+wood ['relatedto'] case ['relatedto'] bag ['relatedto'] swell
+wood ['relatedto'] flat ['antonym'] wave ['isa', 'relatedto'] swell
+wood ['antonym', 'madeof', 'relatedto'] paper ['relatedto'] bag ['relatedto'] swell
+wood ['antonym', 'madeof', 'relatedto'] paper ['relatedto'] pump ['relatedto'] swell
+wood ['relatedto'] term ['relatedto'] division ['relatedto'] swell
+wood ['madeof', 'relatedto'] table ['relatedto'] big ['relatedto'] swell
+wood ['relatedto'] deal ['mannerof', 'relatedto'] act ['mannerof'] swell
+wood ['relatedto'] deal ['relatedto'] good ['relatedto'] swell
+wood ['relatedto'] deal ['relatedto'] division ['relatedto'] swell
+wood ['relatedto'] dude ['relatedto', 'synonym'] dandy ['synonym'] swell
+wood ['relatedto'] chop ['relatedto'] ocean ['relatedto'] swell
+wood ['relatedto'] chop ['relatedto'] wave ['isa', 'relatedto'] swell
+wood ['relatedto'] chop ['relatedto'] wind ['relatedto'] swell
+wood ['relatedto', 'synonym'] forest ['relatedto'] big ['relatedto'] swell
+wood ['relatedto', 'synonym'] forest ['relatedto'] bunch ['relatedto'] swell
+wood ['relatedto', 'synonym'] forest ['relatedto'] huge ['relatedto'] swell
+wood ['isa', 'relatedto', 'hasproperty'] solid ['similarto'] good ['relatedto'] swell
+wood ['isa', 'relatedto', 'hasproperty'] solid ['relatedto'] excellent ['relatedto'] swell
+wood ['relatedto'] related ['relatedto'] wave ['isa', 'relatedto'] swell
+wood ['relatedto'] club ['relatedto'] social ['relatedto'] swell
+wood ['relatedto'] club ['relatedto'] big ['relatedto'] swell
+wood ['relatedto'] heart ['isa', 'relatedto', 'synonym'] pump ['relatedto'] swell
+wood ['relatedto'] heart ['synonym'] bosom ['relatedto'] swell
+wood ['relatedto'] cork ['relatedto'] bung ['relatedto'] swell
+wood ['relatedto'] crop ['relatedto'] grow ['mannerof', 'relatedto'] swell
+wood ['relatedto'] crop ['relatedto'] good ['relatedto'] swell
+wood ['relatedto'] crop ['relatedto'] big ['relatedto'] swell
+wood ['relatedto'] crop ['relatedto'] chop ['relatedto'] swell
+wood ['relatedto'] crop ['antonym'] expand ['mannerof', 'relatedto'] swell
+wood ['relatedto'] crop ['relatedto'] neck ['relatedto'] swell
+wood ['relatedto', 'receivesaction'] cut ['relatedto'] act ['mannerof'] swell
+wood ['relatedto', 'receivesaction'] cut ['mannerof'] grow ['mannerof', 'relatedto'] swell

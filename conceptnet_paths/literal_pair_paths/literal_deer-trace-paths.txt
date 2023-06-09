@@ -1,0 +1,100 @@
+deer ['isa', 'relatedto'] animal ['isa', 'relatedto'] squirrel ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['relatedto'] category ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['relatedto'] grass ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['relatedto'] ichnotaxon ['relatedto'] trace
+deer ['relatedto'] small ['derivedfrom'] small_unmarked_bills ['relatedto'] trace
+deer ['relatedto'] small ['relatedto'] circumscribe ['mannerof'] trace
+deer ['relatedto'] small ['relatedto'] grass ['relatedto'] trace
+deer ['relatedto'] small ['relatedto'] spark ['isa'] trace
+deer ['relatedto'] small ['relatedto'] squirrel ['relatedto'] trace
+deer ['hasa'] head ['isa'] projection ['relatedto'] trace
+deer ['hasa'] head ['isa'] structure ['relatedto'] trace
+deer ['hasa'] head ['mannerof'] proceed ['mannerof'] trace
+deer ['hasa'] head ['relatedto'] syntactic ['relatedto'] trace
+deer ['hasa'] head ['synonym'] category ['relatedto'] trace
+deer ['relatedto'] meat ['relatedto'] collar ['relatedto'] trace
+deer ['relatedto'] parent ['relatedto'] downtrace ['derivedfrom'] trace
+deer ['relatedto'] parent ['relatedto'] given_name ['relatedto'] trace
+deer ['atlocation'] countryside ['atlocation'] grass ['relatedto'] trace
+deer ['relatedto'] horse ['relatedto'] bricole ['relatedto'] trace
+deer ['relatedto'] horse ['relatedto'] harness ['relatedto', 'partof'] trace
+deer ['relatedto'] horse ['relatedto'] track ['etymologicallyrelatedto', 'synonym'] trace
+deer ['relatedto'] horse ['relatedto'] rope ['relatedto'] trace
+deer ['relatedto'] horse ['relatedto'] pricking ['relatedto'] trace
+deer ['relatedto'] four ['relatedto'] mark ['isa', 'mannerof'] trace
+deer ['relatedto'] four ['relatedto'] squirrel ['relatedto'] trace
+deer ['isa', 'relatedto'] doe ['relatedto'] squirrel ['relatedto'] trace
+deer ['isa', 'relatedto'] buck ['relatedto'] squirrel ['relatedto'] trace
+deer ['relatedto'] range ['relatedto'] pattern ['relatedto'] trace
+deer ['relatedto'] range ['relatedto'] plane ['relatedto'] trace
+deer ['relatedto'] range ['relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+deer ['relatedto'] range ['relatedto', 'synonym'] chain ['relatedto'] trace
+deer ['relatedto'] range ['synonym'] image ['relatedto'] trace
+deer ['relatedto'] ear ['relatedto'] projection ['relatedto'] trace
+deer ['isa', 'relatedto'] mammal ['isa', 'relatedto'] squirrel ['relatedto'] trace
+deer ['relatedto'] legs ['relatedto'] walk ['relatedto'] trace
+deer ['relatedto'] legs ['relatedto'] squirrel ['relatedto'] trace
+deer ['relatedto'] idea ['relatedto'] construct ['mannerof'] trace
+deer ['relatedto'] idea ['isa'] suggestion ['synonym'] trace
+deer ['relatedto'] idea ['relatedto', 'synonym'] image ['relatedto'] trace
+deer ['isa', 'relatedto'] moose ['antonym', 'relatedto'] squirrel ['relatedto'] trace
+deer ['isa'] wild_animal ['relatedto'] squirrel ['relatedto'] trace
+deer ['relatedto'] rifle ['synonym'] go ['relatedto'] trace
+deer ['usedfor'] woods ['relatedto'] trail ['relatedto'] trace
+deer ['usedfor'] woods ['relatedto'] squirrel ['relatedto'] trace
+deer ['relatedto'] woodland ['relatedto'] squirrel ['relatedto'] trace
+deer ['relatedto'] yard ['relatedto'] grass ['relatedto'] trace
+deer ['relatedto'] yard ['relatedto', 'atlocation'] squirrel ['relatedto'] trace
+deer ['relatedto'] yard ['relatedto', 'partof'] chain ['relatedto'] trace
+deer ['hasa', 'relatedto'] four_legs ['relatedto'] squirrel ['relatedto'] trace
+deer ['isa', 'relatedto'] axis ['isa'] line ['isa', 'usedfor', 'synonym'] trace
+deer ['isa', 'relatedto'] axis ['relatedto'] coordinate ['relatedto'] trace
+deer ['partof'] flag ['mannerof', 'relatedto'] mark ['isa', 'mannerof'] trace
+deer ['relatedto'] buckhound ['relatedto'] hound ['synonym'] trace
+deer ['relatedto'] forests ['relatedto'] squirrel ['relatedto'] trace
+deer ['relatedto'] woodland_animal ['relatedto'] squirrel ['relatedto'] trace
+deer ['relatedto'] hoof ['relatedto'] walk ['relatedto'] trace
+deer ['relatedto'] quadrupedal ['relatedto'] walk ['relatedto'] trace
+deer ['relatedto'] dogdraw ['derivedfrom'] draw ['relatedto', 'synonym'] trace
+deer ['relatedto'] foiling ['relatedto'] grass ['relatedto'] trace
+deer ['relatedto'] foiling ['relatedto'] track ['etymologicallyrelatedto', 'synonym'] trace
+deer ['relatedto'] hunt ['relatedto'] go ['relatedto'] trace
+deer ['relatedto'] hunt ['etymologicallyrelatedto'] hint ['synonym'] trace
+deer ['relatedto'] hunt ['relatedto', 'synonym'] hound ['synonym'] trace
+deer ['relatedto'] hunt ['relatedto'] scent ['relatedto'] trace
+deer ['relatedto'] roe ['relatedto'] return ['mannerof'] trace
+deer ['relatedto'] sigbin ['relatedto'] shadow ['synonym'] trace
+deer ['relatedto'] slot ['isa'] trail ['relatedto'] trace
+deer ['relatedto'] slot ['relatedto'] track ['etymologicallyrelatedto', 'synonym'] trace
+deer ['relatedto'] spike ['isa'] projection ['relatedto'] trace
+deer ['relatedto'] strain ['relatedto'] track ['etymologicallyrelatedto', 'synonym'] trace
+deer ['relatedto'] tractor ['relatedto'] grass ['relatedto'] trace
+deer ['relatedto'] tractor ['isa', 'relatedto'] vehicle ['relatedto'] trace
+deer ['relatedto'] vault ['relatedto'] structure ['relatedto'] trace
+deer ['relatedto'] vert ['relatedto'] diagonal ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['isa'] child ['relatedto'] kids ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['isa'] child ['relatedto'] given_name ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['isa', 'relatedto'] orphan ['isa', 'relatedto'] line ['isa', 'usedfor', 'synonym'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['atlocation'] plane ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['capableof'] write ['mannerof'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] touch ['synonym'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] twang ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] walk ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['isa'] young ['relatedto'] given_name ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['isa'] patient ['etymologicallyrelatedto', 'relatedto'] passive ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['isa'] patient ['relatedto'] lose ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] squirrel ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['relatedto'] sometimes ['relatedto'] squirrel ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['antonym', 'relatedto'] plane ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom'] man ['relatedto'] token ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] mineral ['isa', 'relatedto'] pinite ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] mineral ['relatedto'] chalk ['entails'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] mineral ['relatedto'] dendrochemistry ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] mineral ['relatedto'] micromineral ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] mineral ['relatedto'] category ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['isa', 'relatedto'] grass ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] construction ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] squirrel ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] tincture ['synonym'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plants ['relatedto'] grass ['relatedto'] trace
+deer ['isa', 'relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plants ['relatedto'] spark ['isa'] trace

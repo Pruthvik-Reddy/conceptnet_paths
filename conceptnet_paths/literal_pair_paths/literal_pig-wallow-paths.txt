@@ -1,0 +1,100 @@
+pig ['capableof'] wallow
+pig ['relatedto'] flat ['relatedto'] wallow
+pig ['mannerof', 'relatedto'] live ['relatedto'] wallow
+pig ['relatedto'] animals ['relatedto'] wallow
+pig ['relatedto', 'atlocation'] mud ['relatedto'] wallow
+pig ['isa', 'relatedto'] animal ['capableof', 'relatedto'] live ['relatedto'] wallow
+pig ['isa', 'relatedto'] animal ['formof', 'relatedto'] animals ['relatedto'] wallow
+pig ['isa', 'relatedto'] animal ['relatedto'] move ['mannerof'] wallow
+pig ['relatedto'] problem ['relatedto'] depression ['relatedto'] wallow
+pig ['relatedto'] lie ['mannerof'] bask ['synonym'] wallow
+pig ['relatedto'] bank ['relatedto'] mud ['relatedto'] wallow
+pig ['relatedto'] bank ['relatedto'] roll ['relatedto'] wallow
+pig ['relatedto'] bank ['relatedto'] walk ['relatedto'] wallow
+pig ['relatedto'] bed ['relatedto', 'hasproperty'] flat ['relatedto'] wallow
+pig ['relatedto'] bed ['relatedto'] wall ['etymologicallyrelatedto'] wallow
+pig ['relatedto'] living ['formof', 'relatedto', 'similarto', 'synonym'] live ['relatedto'] wallow
+pig ['relatedto'] food ['antonym', 'isa'] water ['relatedto'] wallow
+pig ['relatedto'] food ['isa'] animals ['relatedto'] wallow
+pig ['relatedto'] food ['relatedto'] roll ['relatedto'] wallow
+pig ['relatedto'] small ['relatedto'] roll ['relatedto'] wallow
+pig ['relatedto'] coins ['relatedto'] roll ['relatedto'] wallow
+pig ['relatedto'] meat ['relatedto'] animals ['relatedto'] wallow
+pig ['relatedto'] flat ['relatedto'] wall ['etymologicallyrelatedto'] wallow
+pig ['relatedto'] cast ['relatedto'] water ['relatedto'] wallow
+pig ['relatedto'] cast ['synonym'] roll ['relatedto'] wallow
+pig ['relatedto'] dog ['relatedto'] roll ['relatedto'] wallow
+pig ['relatedto'] dice ['relatedto'] roll ['relatedto'] wallow
+pig ['relatedto'] farm ['relatedto', 'atlocation'] animals ['relatedto'] wallow
+pig ['relatedto'] farm ['relatedto'] live ['relatedto'] wallow
+pig ['relatedto'] dirty ['relatedto'] filth ['relatedto'] wallow
+pig ['relatedto'] filthy ['relatedto', 'derivedfrom'] filth ['relatedto'] wallow
+pig ['relatedto'] muddy ['relatedto', 'derivedfrom'] mud ['relatedto'] wallow
+pig ['relatedto'] metal ['relatedto'] water ['relatedto'] wallow
+pig ['relatedto'] metal ['relatedto'] flat ['relatedto'] wallow
+pig ['relatedto'] four ['relatedto'] wall ['etymologicallyrelatedto'] wallow
+pig ['mannerof', 'relatedto'] live ['mannerof', 'relatedto'] move ['mannerof'] wallow
+pig ['relatedto'] nose ['relatedto'] move ['mannerof'] wallow
+pig ['relatedto'] edible ['hasproperty'] animals ['relatedto'] wallow
+pig ['relatedto'] fat ['relatedto'] wallop ['relatedto'] wallow
+pig ['relatedto'] feet ['relatedto'] flat ['relatedto'] wallow
+pig ['relatedto'] feet ['capableof', 'usedfor', 'relatedto'] walk ['relatedto'] wallow
+pig ['isa', 'relatedto'] mammal ['relatedto'] animals ['relatedto'] wallow
+pig ['relatedto'] game ['relatedto'] move ['mannerof'] wallow
+pig ['relatedto'] heavy ['relatedto', 'synonym'] heavily ['relatedto'] wallow
+pig ['relatedto'] legs ['relatedto'] walk ['relatedto'] wallow
+pig ['relatedto'] tail ['hasa', 'relatedto'] animals ['relatedto'] wallow
+pig ['relatedto'] large ['relatedto'] wall ['etymologicallyrelatedto'] wallow
+pig ['relatedto'] large ['relatedto'] billow ['synonym'] wallow
+pig ['relatedto'] leaf ['relatedto'] flat ['relatedto'] wallow
+pig ['relatedto'] consume ['mannerof'] indulge ['mannerof'] wallow
+pig ['relatedto'] sheep ['relatedto'] live ['relatedto'] wallow
+pig ['relatedto'] sheep ['isa', 'relatedto'] animals ['relatedto'] wallow
+pig ['atlocation'] fairgrounds ['atlocation'] animals ['relatedto'] wallow
+pig ['relatedto'] animals ['capableof'] move ['mannerof'] wallow
+pig ['relatedto'] barn ['relatedto'] animals ['relatedto'] wallow
+pig ['relatedto'] cattle ['isa', 'relatedto'] animals ['relatedto'] wallow
+pig ['relatedto'] farmyard ['relatedto'] animals ['relatedto'] wallow
+pig ['relatedto', 'atlocation'] mud ['relatedto', 'atlocation'] water ['relatedto'] wallow
+pig ['relatedto'] glutton ['relatedto'] heavily ['relatedto'] wallow
+pig ['relatedto'] glutton ['relatedto'] indulge ['mannerof'] wallow
+pig ['relatedto'] jug ['atlocation'] water ['relatedto'] wallow
+pig ['relatedto'] police ['relatedto'] filth ['relatedto'] wallow
+pig ['relatedto'] roller ['relatedto', 'synonym'] roll ['relatedto'] wallow
+pig ['relatedto'] rolling ['formof', 'relatedto'] roll ['relatedto'] wallow
+pig ['relatedto'] slop ['relatedto'] pool ['relatedto'] wallow
+pig ['relatedto'] slop ['relatedto'] mud ['relatedto'] wallow
+pig ['relatedto'] disgusting ['relatedto'] filth ['relatedto'] wallow
+pig ['relatedto'] disgusting ['relatedto'] sickening ['relatedto'] wallow
+pig ['relatedto'] pipeline ['relatedto'] water ['relatedto'] wallow
+pig ['relatedto'] shoot ['relatedto'] move ['mannerof'] wallow
+pig ['relatedto'] swill ['relatedto'] water ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto', 'partof', 'atlocation'] family ['causesdesire'] live ['relatedto'] wallow
+pig ['relatedto'] child ['capableof'] breathe ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] live ['relatedto'] wallow
+pig ['relatedto'] child ['capableof'] eat_spaghetti ['capableof'] animals ['relatedto'] wallow
+pig ['relatedto'] child ['capableof'] leave_home ['relatedto'] move ['mannerof'] wallow
+pig ['relatedto'] child ['capableof'] take_bath ['usedfor'] water ['relatedto'] wallow
+pig ['relatedto'] child ['capableof'] tie_shoes ['hasprerequisite'] walk ['relatedto'] wallow
+pig ['relatedto'] child ['capableof'] walk_dog ['relatedto'] walk ['relatedto'] wallow
+pig ['relatedto'] child ['desires'] balloon ['synonym'] billow ['synonym'] wallow
+pig ['relatedto'] child ['desires'] love ['causesdesire', 'motivatedbygoal', 'desires'] live ['relatedto'] wallow
+pig ['relatedto'] child ['desires'] love ['relatedto'] delight ['mannerof'] wallow
+pig ['relatedto'] child ['formof', 'relatedto'] children ['capableof'] walk ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto', 'hasprerequisite'] play ['mannerof'] walk ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto', 'hasprerequisite'] play ['relatedto'] live ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto', 'hasprerequisite'] play ['mannerof', 'relatedto', 'entails'] move ['mannerof'] wallow
+pig ['relatedto'] child ['relatedto', 'hasprerequisite'] play ['usedfor'] pool ['relatedto'] wallow
+pig ['relatedto'] child ['isa'] animal ['capableof', 'relatedto'] live ['relatedto'] wallow
+pig ['relatedto'] child ['isa'] animal ['formof', 'relatedto'] animals ['relatedto'] wallow
+pig ['relatedto'] child ['isa'] animal ['relatedto'] move ['mannerof'] wallow
+pig ['relatedto'] child ['isa'] everyone ['relatedto'] walk ['relatedto'] wallow
+pig ['relatedto'] child ['isa', 'relatedto'] toddler ['relatedto'] walk ['relatedto'] wallow
+pig ['relatedto'] child ['motivatedbygoal'] procreate ['capableof'] animals ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto'] ball ['capableof', 'usedfor', 'relatedto', 'synonym'] roll ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto'] ball ['relatedto'] walk ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto'] barn ['relatedto'] animals ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto'] born ['hasfirstsubevent', 'hasprerequisite'] live ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto'] chicken ['relatedto'] animals ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto'] ears ['hasa'] animals ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto'] eyes ['hasa'] animals ['relatedto'] wallow
+pig ['relatedto'] child ['relatedto'] general ['relatedto'] move ['mannerof'] wallow

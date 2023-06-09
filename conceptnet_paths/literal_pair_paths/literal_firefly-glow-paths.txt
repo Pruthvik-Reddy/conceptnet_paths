@@ -1,0 +1,100 @@
+firefly ['isa'] animal ['relatedto'] train ['relatedto'] glow
+firefly ['atlocation'] night ['relatedto', 'derivedfrom'] nightglow ['derivedfrom'] glow
+firefly ['relatedto'] twilight ['isa'] light ['isa', 'relatedto'] glow
+firefly ['relatedto'] twilight ['relatedto', 'synonym'] gloaming ['etymologicallyrelatedto'] glow
+firefly ['relatedto'] bioluminescence ['relatedto'] light ['isa', 'relatedto'] glow
+firefly ['relatedto'] bioluminescence ['isa'] luminescence ['synonym'] glow
+firefly ['relatedto'] noctilucine ['relatedto'] luminescence ['synonym'] glow
+firefly ['isa'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['atlocation'] train ['relatedto'] glow
+firefly ['isa'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] feel ['mannerof'] glow
+firefly ['isa'] animal ['isa'] young ['relatedto'] look ['mannerof'] glow
+firefly ['isa'] animal ['relatedto', 'hasproperty'] alive ['relatedto'] feeling ['isa'] glow
+firefly ['isa'] animal ['relatedto'] sometimes ['relatedto'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] flush ['mannerof'] glow
+firefly ['isa'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] train ['relatedto'] glow
+firefly ['isa'] animal ['antonym', 'distinctfrom', 'relatedto'] mineral ['isa'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] train ['relatedto'] glow
+firefly ['isa'] animal ['antonym', 'distinctfrom', 'relatedto'] plants ['relatedto'] spark ['relatedto'] glow
+firefly ['isa'] animal ['antonym', 'distinctfrom', 'relatedto'] vegetable ['relatedto'] burn ['synonym'] glow
+firefly ['isa'] animal ['relatedto', 'atlocation'] zoo ['atlocation'] train ['relatedto'] glow
+firefly ['isa'] animal ['atlocation'] heart ['relatedto'] feel ['mannerof'] glow
+firefly ['isa'] animal ['atlocation'] heart ['relatedto'] feeling ['isa'] glow
+firefly ['isa'] animal ['atlocation'] heart ['synonym'] ardour ['synonym'] glow
+firefly ['isa'] animal ['hasa', 'relatedto', 'atlocation'] meat ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto', 'atlocation'] muscle ['relatedto'] burn ['synonym'] glow
+firefly ['isa'] animal ['atlocation'] nerve ['relatedto'] feel ['mannerof'] glow
+firefly ['isa'] animal ['atlocation'] nerve ['relatedto'] feeling ['isa'] glow
+firefly ['isa'] animal ['isa'] solid_object ['isa'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['isa'] single ['relatedto'] mgtow ['relatedto'] glow
+firefly ['isa'] animal ['isa'] single ['relatedto'] filament ['relatedto'] glow
+firefly ['isa'] animal ['isa'] bull ['relatedto'] shine ['synonym'] glow
+firefly ['isa'] animal ['isa', 'relatedto'] cat ['atlocation'] heat ['synonym'] glow
+firefly ['isa'] animal ['isa'] ferret ['relatedto'] light ['isa', 'relatedto'] glow
+firefly ['isa'] animal ['isa', 'relatedto'] fish ['relatedto'] beam ['synonym'] glow
+firefly ['isa'] animal ['isa'] hawk ['relatedto'] beam ['synonym'] glow
+firefly ['isa'] animal ['isa'] leech ['relatedto'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['isa'] radiata ['relatedto'] radiate ['mannerof', 'synonym'] glow
+firefly ['isa'] animal ['isa'] rhea ['relatedto'] glory ['relatedto'] glow
+firefly ['isa'] animal ['partof'] face ['relatedto'] blush ['relatedto'] glow
+firefly ['isa'] animal ['partof'] face ['synonym'] look ['mannerof'] glow
+firefly ['isa'] animal ['relatedto', 'partof'] head ['relatedto'] train ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] abactinally ['relatedto'] radiate ['mannerof', 'synonym'] glow
+firefly ['isa'] animal ['relatedto'] beat ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] birds ['hasproperty'] light ['isa', 'relatedto'] glow
+firefly ['isa'] animal ['relatedto'] body ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] dog ['relatedto'] leam ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] eyes ['relatedto'] look ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] form ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] general ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] generic ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] generic_term ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] legs ['relatedto'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['relatedto'] movement ['relatedto'] look ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] name ['relatedto'] glory ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] related ['relatedto'] burn ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] related ['relatedto'] glory ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] term ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] thing ['isa'] feeling ['isa'] glow
+firefly ['isa'] animal ['relatedto'] warm ['etymologicallyrelatedto'] burn ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] warm ['relatedto', 'hasproperty'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] work ['relatedto'] feel ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] soul ['isa'] feeling ['isa'] glow
+firefly ['isa'] animal ['relatedto'] spirit ['relatedto', 'synonym'] feeling ['isa'] glow
+firefly ['isa'] animal ['relatedto'] spirit ['relatedto'] ardour ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] spirit ['synonym'] feel ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] spirit ['synonym'] look ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] animus ['relatedto'] feeling ['isa'] glow
+firefly ['isa'] animal ['relatedto'] matter ['relatedto'] beam ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] barn ['atlocation'] beam ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] body_heat ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] boy ['relatedto'] blush ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] buncher ['relatedto'] beam ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] butcher ['relatedto'] look ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] calorification ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] cross ['relatedto'] beam ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] decapod ['relatedto'] train ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] doll ['relatedto'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['relatedto'] doll ['relatedto'] look ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] drop ['relatedto'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['relatedto'] empyreuma ['relatedto'] burn ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] endothermic ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] exothermic ['relatedto'] burn ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] exothermic ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] eye ['relatedto'] light ['isa', 'relatedto'] glow
+firefly ['isa'] animal ['relatedto'] eye ['mannerof', 'relatedto'] look ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] eye ['relatedto'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['relatedto'] eye ['relatedto'] eyeshine ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] finger ['relatedto', 'synonym'] feel ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] finger ['relatedto'] glass ['etymologicallyrelatedto'] glow
+firefly ['isa'] animal ['relatedto'] flatulence ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] flesh ['relatedto'] burn ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] grass ['capableof'] burn ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] heft ['relatedto'] feel ['mannerof'] glow
+firefly ['isa'] animal ['relatedto'] hot ['relatedto'] burn ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] hot ['relatedto'] heat ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] hot ['relatedto'] incandescence ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] hot ['relatedto'] spark ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] hot ['relatedto', 'similarto'] white_hot ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] hot ['similarto', 'synonym'] red_hot ['relatedto'] glow
+firefly ['isa'] animal ['relatedto'] house ['atlocation'] beam ['synonym'] glow
+firefly ['isa'] animal ['relatedto'] housebreak ['mannerof', 'relatedto'] train ['relatedto'] glow

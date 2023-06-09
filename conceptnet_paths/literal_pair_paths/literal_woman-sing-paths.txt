@@ -1,0 +1,100 @@
+woman ['relatedto'] chantoosie ['relatedto'] sing
+woman ['relatedto'] mermaid ['relatedto'] sing
+woman ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] sing
+woman ['relatedto'] affair ['relatedto'] love ['causesdesire'] sing
+woman ['relatedto'] human ['antonym'] bird ['capableof'] sing
+woman ['relatedto'] human ['atlocation'] church ['usedfor'] sing
+woman ['relatedto'] human ['relatedto', 'atlocation'] love ['causesdesire'] sing
+woman ['relatedto'] human ['atlocation'] performance ['relatedto'] sing
+woman ['relatedto'] human ['relatedto'] blow ['relatedto'] sing
+woman ['relatedto'] human ['relatedto'] dance ['antonym', 'relatedto'] sing
+woman ['relatedto'] human ['relatedto'] sound ['relatedto'] sing
+woman ['relatedto'] human ['relatedto'] talk ['antonym', 'mannerof'] sing
+woman ['relatedto'] human ['relatedto'] voice ['usedfor', 'relatedto'] sing
+woman ['relatedto'] earth ['etymologicallyrelatedto'] yed ['relatedto'] sing
+woman ['relatedto'] earth ['relatedto'] place ['mannerof', 'relatedto'] sing
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto'] bird ['capableof'] sing
+woman ['relatedto'] balloon ['relatedto'] blow ['relatedto'] sing
+woman ['relatedto'] soprano ['antonym', 'distinctfrom', 'relatedto'] alto ['usedfor'] sing
+woman ['relatedto'] soprano ['usedfor', 'atlocation'] choir ['capableof', 'mannerof', 'relatedto'] sing
+woman ['relatedto'] soprano ['derivedfrom'] sing_soprano ['derivedfrom'] sing
+woman ['relatedto'] soprano ['isa'] opera_singer ['relatedto'] sing
+woman ['relatedto'] soprano ['isa', 'relatedto'] voice ['usedfor', 'relatedto'] sing
+woman ['relatedto'] soprano ['isa', 'relatedto'] singer ['motivatedbygoal', 'relatedto', 'derivedfrom'] sing
+woman ['relatedto'] soprano ['relatedto'] chorus ['relatedto'] sing
+woman ['relatedto'] soprano ['relatedto'] music ['causesdesire', 'relatedto'] sing
+woman ['relatedto'] soprano ['relatedto'] opera ['relatedto'] sing
+woman ['relatedto'] soprano ['relatedto'] singing ['formof', 'relatedto', 'synonym'] sing
+woman ['relatedto'] soprano ['relatedto', 'similarto'] tenor ['usedfor'] sing
+woman ['relatedto'] soprano ['relatedto'] musical ['relatedto'] sing
+woman ['relatedto'] soprano ['relatedto'] perform ['motivatedbygoal'] sing
+woman ['relatedto'] soprano ['relatedto', 'synonym'] treble ['mannerof'] sing
+woman ['relatedto'] soprano ['similarto'] contralto ['usedfor'] sing
+woman ['relatedto'] soprano ['usedfor'] harmony ['relatedto'] sing
+woman ['relatedto'] soprano ['usedfor'] sing_flawlessly ['hasprerequisite'] sing
+woman ['relatedto'] soprano ['usedfor'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+woman ['relatedto'] beautiful ['relatedto', 'hasproperty'] voice ['usedfor', 'relatedto'] sing
+woman ['relatedto'] beautiful ['relatedto'] dance ['antonym', 'relatedto'] sing
+woman ['relatedto'] beautiful ['relatedto'] music ['causesdesire', 'relatedto'] sing
+woman ['relatedto'] big ['relatedto'] blow ['relatedto'] sing
+woman ['relatedto'] big ['relatedto'] love ['causesdesire'] sing
+woman ['relatedto'] fish ['antonym'] bird ['capableof'] sing
+woman ['relatedto'] fish ['motivatedbygoal'] enjoy ['motivatedbygoal'] sing
+woman ['relatedto'] fish ['relatedto'] mermaid ['relatedto'] sing
+woman ['relatedto'] fish ['relatedto'] place ['mannerof', 'relatedto'] sing
+woman ['relatedto'] fish ['relatedto'] sound ['relatedto'] sing
+woman ['relatedto'] fish ['relatedto'] troll ['mannerof'] sing
+woman ['relatedto'] date ['relatedto'] love ['causesdesire'] sing
+woman ['relatedto'] blue ['antonym'] happy ['motivatedbygoal'] sing
+woman ['relatedto'] blue ['etymologicallyrelatedto', 'relatedto'] blow ['relatedto'] sing
+woman ['relatedto'] body ['isa'] church ['usedfor'] sing
+woman ['relatedto'] body ['relatedto'] belt ['relatedto'] sing
+woman ['relatedto'] body ['relatedto'] dance ['antonym', 'relatedto'] sing
+woman ['relatedto'] body ['relatedto'] polo ['relatedto'] sing
+woman ['relatedto'] boy ['relatedto'] treble ['mannerof'] sing
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['synonym'] bird ['capableof'] sing
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] girl ['relatedto'] mermaid ['relatedto'] sing
+woman ['relatedto'] long ['relatedto'] belt ['relatedto'] sing
+woman ['relatedto'] long ['relatedto'] produce ['relatedto'] sing
+woman ['isa', 'relatedto'] broad ['synonym'] bird ['capableof'] sing
+woman ['relatedto'] cow ['atlocation'] bard ['relatedto'] sing
+woman ['relatedto'] cow ['relatedto'] utter ['mannerof'] sing
+woman ['isa', 'etymologicallyrelatedto', 'relatedto', 'synonym'] female ['relatedto'] mermaid ['relatedto'] sing
+woman ['isa', 'etymologicallyrelatedto', 'relatedto', 'synonym'] female ['relatedto'] singster ['derivedfrom'] sing
+woman ['relatedto'] bump ['relatedto', 'synonym'] blow ['relatedto'] sing
+woman ['relatedto'] bump ['mannerof'] dance ['antonym', 'relatedto'] sing
+woman ['relatedto'] bump ['relatedto'] sound ['relatedto'] sing
+woman ['isa', 'relatedto'] cat ['relatedto'] double ['distinctfrom'] sing
+woman ['relatedto'] dog ['relatedto'] bow ['haslastsubevent'] sing
+woman ['relatedto'] dog ['isa'] joy ['causesdesire'] sing
+woman ['relatedto'] dog ['relatedto'] whistle ['synonym'] sing
+woman ['relatedto'] dog ['usedfor'] love ['causesdesire'] sing
+woman ['relatedto'] fair ['isa', 'relatedto'] gathering ['relatedto'] sing
+woman ['relatedto'] fair ['motivatedbygoal'] wait_turn ['hasprerequisite'] sing
+woman ['relatedto'] chick ['relatedto', 'synonym'] bird ['capableof'] sing
+woman ['relatedto'] chick ['relatedto'] love ['causesdesire'] sing
+woman ['relatedto'] hen ['isa', 'relatedto'] bird ['capableof'] sing
+woman ['relatedto'] grown ['relatedto'] produce ['relatedto'] sing
+woman ['relatedto'] single ['antonym', 'distinctfrom', 'relatedto'] double ['distinctfrom'] sing
+woman ['relatedto'] single ['isa'] dance ['antonym', 'relatedto'] sing
+woman ['relatedto'] single ['isa'] encore ['relatedto'] sing
+woman ['relatedto'] single ['relatedto'] song ['usedfor', 'causesdesire', 'etymologicallyrelatedto', 'relatedto'] sing
+woman ['relatedto'] single ['relatedto'] sound ['relatedto'] sing
+woman ['relatedto'] dress ['relatedto'] activity ['relatedto'] sing
+woman ['relatedto'] marry ['relatedto'] church ['usedfor'] sing
+woman ['relatedto'] marry ['motivatedbygoal', 'relatedto'] love ['causesdesire'] sing
+woman ['relatedto'] doll ['relatedto'] love ['causesdesire'] sing
+woman ['relatedto'] figure ['relatedto'] double ['distinctfrom'] sing
+woman ['relatedto'] skirt ['relatedto'] belt ['relatedto'] sing
+woman ['relatedto'] goose ['isa'] bird ['capableof'] sing
+woman ['relatedto'] feel ['relatedto'] happy ['motivatedbygoal'] sing
+woman ['relatedto'] feel ['relatedto'] enjoy ['motivatedbygoal'] sing
+woman ['relatedto'] gal ['synonym'] bird ['capableof'] sing
+woman ['isa', 'relatedto', 'synonym'] lady ['relatedto'] bird ['capableof'] sing
+woman ['isa', 'relatedto', 'synonym'] lady ['atlocation'] church ['usedfor'] sing
+woman ['isa', 'distinctfrom', 'relatedto'] lass ['synonym'] bird ['capableof'] sing
+woman ['antonym'] male_person ['isa'] tenor ['usedfor'] sing
+woman ['derivedfrom'] birdwoman ['relatedto', 'derivedfrom'] bird ['capableof'] sing
+woman ['derivedfrom'] churchwoman ['derivedfrom'] church ['usedfor'] sing
+woman ['derivedfrom'] frontwoman ['relatedto'] singer ['motivatedbygoal', 'relatedto', 'derivedfrom'] sing
+woman ['derivedfrom'] soundwoman ['derivedfrom'] sound ['relatedto'] sing

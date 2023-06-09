@@ -1,0 +1,100 @@
+bolt ['isa'] video_game ['isa'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['etymologicallyrelatedto', 'relatedto', 'synonym'] joint ['relatedto'] fracture
+bolt ['relatedto'] join ['mannerof', 'relatedto'] knit ['relatedto'] fracture
+bolt ['relatedto'] accelerate ['antonym', 'distinctfrom'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] grow ['antonym'] reduce ['relatedto'] fracture
+bolt ['relatedto'] grow ['relatedto'] knit ['relatedto'] fracture
+bolt ['isa', 'relatedto'] bar ['relatedto'] joint ['relatedto'] fracture
+bolt ['isa', 'relatedto'] bar ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] bit ['isa'] fragment ['relatedto'] fracture
+bolt ['relatedto'] bit ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['partof'] head ['relatedto'] joint ['relatedto'] fracture
+bolt ['isa'] roll ['antonym', 'mannerof', 'relatedto'] rock ['relatedto'] fracture
+bolt ['locatednear'] receiver ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['mannerof'] move ['mannerof', 'relatedto'] rock ['relatedto'] fracture
+bolt ['mannerof'] move ['mannerof'] snap ['relatedto'] fracture
+bolt ['relatedto'] escape ['isa', 'mannerof', 'relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] escape ['relatedto'] breaking ['relatedto'] fracture
+bolt ['relatedto'] fastener ['isa'] snap ['relatedto'] fracture
+bolt ['relatedto'] flash ['relatedto'] bone ['relatedto'] fracture
+bolt ['relatedto'] flash ['relatedto'] burst ['synonym'] fracture
+bolt ['relatedto'] flash ['relatedto'] snap ['relatedto'] fracture
+bolt ['relatedto'] metal ['distinctfrom', 'relatedto'] rock ['relatedto'] fracture
+bolt ['relatedto'] metal ['relatedto'] hot_tear ['relatedto'] fracture
+bolt ['relatedto'] metal ['relatedto'] hot_tearing ['relatedto'] fracture
+bolt ['relatedto'] metal ['relatedto'] küntscher_nail ['relatedto'] fracture
+bolt ['relatedto'] metal ['relatedto'] ductility ['relatedto'] fracture
+bolt ['relatedto'] metal ['relatedto'] osteosynthesis ['relatedto'] fracture
+bolt ['relatedto'] neck ['relatedto'] fragile ['etymologicallyrelatedto', 'relatedto'] fracture
+bolt ['relatedto'] shape ['relatedto'] rock ['relatedto'] fracture
+bolt ['relatedto'] single ['relatedto'] rock ['relatedto'] fracture
+bolt ['relatedto'] spark ['relatedto'] burst ['synonym'] fracture
+bolt ['relatedto'] spark ['isa'] fragment ['relatedto'] fracture
+bolt ['relatedto'] spark ['relatedto'] fault ['relatedto', 'synonym'] fracture
+bolt ['relatedto'] type ['relatedto'] bone ['relatedto'] fracture
+bolt ['relatedto'] type ['relatedto'] rock ['relatedto'] fracture
+bolt ['relatedto'] type ['relatedto'] fraktur ['etymologicallyrelatedto'] fracture
+bolt ['relatedto'] firearm ['relatedto'] burst ['synonym'] fracture
+bolt ['relatedto'] firearm ['relatedto'] snap ['relatedto'] fracture
+bolt ['relatedto'] assemble ['antonym'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] connect ['relatedto'] joint ['relatedto'] fracture
+bolt ['relatedto'] bran ['relatedto'] broken ['relatedto'] fracture
+bolt ['relatedto'] runner ['relatedto'] injure ['mannerof'] fracture
+bolt ['relatedto'] selvage ['relatedto'] fault ['relatedto', 'synonym'] fracture
+bolt ['relatedto'] thunder ['relatedto'] cracking ['synonym'] fracture
+bolt ['relatedto'] wrench ['relatedto'] injure ['mannerof'] fracture
+bolt ['relatedto'] wrench ['isa'] injury ['isa'] fracture
+bolt ['synonym'] dash ['isa'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['synonym'] dash ['relatedto'] destroy ['mannerof'] fracture
+bolt ['synonym'] rigidly ['relatedto'] joint ['relatedto'] fracture
+bolt ['usedfor'] fasten ['mannerof'] joint ['relatedto'] fracture
+bolt ['usedfor'] fasten ['relatedto'] snap ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['relatedto'] bone ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['relatedto', 'derivedfrom', 'synonym'] breakage ['isa', 'relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['etymologicallyrelatedto'] fraction ['etymologicallyrelatedto', 'relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['etymologicallyrelatedto', 'relatedto'] fragile ['etymologicallyrelatedto', 'relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['etymologicallyrelatedto', 'relatedto'] fragment ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['etymologicallyrelatedto', 'relatedto'] frail ['etymologicallyrelatedto', 'relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['formof', 'relatedto'] breaking ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['formof', 'relatedto'] broken ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['isa', 'mannerof', 'relatedto'] snap ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] destroy ['mannerof'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['mannerof', 'relatedto', 'synonym'] burst ['synonym'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['relatedto', 'synonym'] crack ['relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['relatedto'] injure ['mannerof'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['relatedto'] injury ['isa'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['relatedto'] crisp ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['relatedto'] frangent ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['relatedto'] tocrack ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] break ['synonym'] fault ['relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['antonym'] cut ['relatedto'] reduction ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym'] cut ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['antonym'] cut ['relatedto'] breaking ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym'] cut ['relatedto'] injury ['isa'] fracture
+bolt ['relatedto'] join ['antonym'] cut ['relatedto', 'synonym'] reduce ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'distinctfrom', 'relatedto'] apart ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['antonym', 'distinctfrom', 'relatedto'] apart ['relatedto'] destroy ['mannerof'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] part ['relatedto'] bone ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] part ['isa', 'relatedto', 'synonym'] fraction ['etymologicallyrelatedto', 'relatedto'] fracture
+bolt ['relatedto'] join ['antonym', 'relatedto'] part ['isa'] fragment ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym'] separate ['mannerof', 'relatedto', 'synonym'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['antonym'] separate ['mannerof', 'relatedto'] joint ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym'] separate ['mannerof', 'relatedto'] reduce ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym'] split ['relatedto', 'synonym'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['antonym'] split ['isa', 'relatedto'] crack ['relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['antonym'] split ['relatedto'] fragment ['relatedto'] fracture
+bolt ['relatedto'] join ['antonym'] split ['similarto', 'synonym'] burst ['synonym'] fracture
+bolt ['relatedto'] join ['entails'] sew ['entails'] knit ['relatedto'] fracture
+bolt ['relatedto'] join ['etymologicallyrelatedto', 'relatedto', 'synonym'] joint ['relatedto'] bone ['relatedto'] fracture
+bolt ['relatedto'] join ['etymologicallyrelatedto', 'relatedto', 'synonym'] joint ['relatedto'] geologic_joint ['relatedto'] fracture
+bolt ['relatedto'] join ['etymologicallyrelatedto', 'relatedto', 'synonym'] joint ['relatedto'] macrotrauma ['relatedto'] fracture
+bolt ['relatedto'] join ['etymologicallyrelatedto', 'relatedto', 'synonym'] joint ['relatedto'] mono_fracture ['relatedto', 'derivedfrom'] fracture
+bolt ['relatedto'] join ['etymologicallyrelatedto', 'relatedto', 'synonym'] joint ['relatedto'] pseudarthrosis ['relatedto'] fracture
+bolt ['relatedto'] join ['formof'] joining ['relatedto'] joint ['relatedto'] fracture
+bolt ['relatedto'] join ['mannerof', 'synonym'] assemble ['antonym'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['mannerof'] bridge ['relatedto'] break ['etymologicallyrelatedto', 'mannerof', 'relatedto', 'synonym'] fracture
+bolt ['relatedto'] join ['mannerof'] bridge ['atlocation'] rock ['relatedto'] fracture
+bolt ['relatedto'] join ['mannerof'] close ['mannerof'] snap ['relatedto'] fracture
+bolt ['relatedto'] join ['mannerof'] cog ['relatedto'] joint ['relatedto'] fracture
+bolt ['relatedto'] join ['mannerof', 'relatedto', 'synonym'] connect ['relatedto'] joint ['relatedto'] fracture

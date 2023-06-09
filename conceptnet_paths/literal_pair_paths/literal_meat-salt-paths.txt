@@ -1,0 +1,100 @@
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['usedfor', 'relatedto', 'atlocation'] salt
+meat ['isa', 'distinctfrom', 'relatedto'] fish ['relatedto'] salt
+meat ['atlocation'] dinner ['relatedto'] salt
+meat ['atlocation'] resturant ['atlocation'] salt
+meat ['isa'] edible_thing ['isa'] salt
+meat ['isa', 'madeof'] sausage ['etymologicallyrelatedto'] salt
+meat ['relatedto'] burgoo ['relatedto'] salt
+meat ['relatedto'] cecina ['relatedto'] salt
+meat ['relatedto'] drysalter ['relatedto'] salt
+meat ['relatedto'] heat ['relatedto'] salt
+meat ['relatedto'] kitchen ['relatedto'] salt
+meat ['relatedto'] powder ['relatedto'] salt
+meat ['relatedto'] reasty ['relatedto'] salt
+meat ['relatedto'] skilandis ['relatedto'] salt
+meat ['relatedto'] sweetcure ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] base ['relatedto'] salt
+meat ['relatedto'] ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto'] salt
+meat ['relatedto'] ground ['antonym', 'relatedto'] water ['relatedto', 'atlocation'] salt
+meat ['relatedto'] ground ['atlocation'] dust ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto', 'atlocation'] mine ['atlocation'] salt
+meat ['relatedto'] ground ['relatedto', 'atlocation'] rock ['relatedto'] salt
+meat ['relatedto'] ground ['isa', 'relatedto', 'atlocation'] sand ['relatedto'] salt
+meat ['relatedto'] ground ['atlocation'] snow ['relatedto'] salt
+meat ['relatedto'] ground ['isa'] naturally_occurring_tangible_substance ['isa'] salt
+meat ['relatedto'] ground ['relatedto'] cellar ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] foot ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] fine ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] hard ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] pepper ['antonym', 'distinctfrom', 'relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] powder ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] solid ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] metal ['relatedto'] salt
+meat ['relatedto'] ground ['relatedto'] sujuk ['relatedto'] salt
+meat ['relatedto'] dead ['hasproperty'] chips ['relatedto'] salt
+meat ['relatedto'] dead ['relatedto'] process ['relatedto'] salt
+meat ['relatedto'] dead ['relatedto'] heat ['relatedto'] salt
+meat ['relatedto'] dead ['relatedto'] sea ['hasa', 'relatedto'] salt
+meat ['hasa', 'relatedto', 'atlocation'] animal ['antonym', 'distinctfrom', 'relatedto'] mineral ['isa', 'relatedto'] salt
+meat ['hasa', 'relatedto', 'atlocation'] animal ['isa', 'relatedto'] fish ['relatedto'] salt
+meat ['hasa', 'relatedto', 'atlocation'] animal ['relatedto'] flea ['relatedto'] salt
+meat ['hasa', 'relatedto', 'atlocation'] animal ['relatedto'] foot ['relatedto'] salt
+meat ['hasa', 'relatedto', 'atlocation'] animal ['relatedto'] glutamic_acid ['relatedto'] salt
+meat ['hasa', 'relatedto', 'atlocation'] animal ['relatedto'] grain ['relatedto'] salt
+meat ['hasa', 'relatedto', 'atlocation'] animal ['relatedto'] petrification ['relatedto'] salt
+meat ['hasa', 'relatedto', 'atlocation'] animal ['usedfor'] food ['usedfor', 'relatedto', 'atlocation'] salt
+meat ['isa'] bird ['antonym'] fish ['relatedto'] salt
+meat ['isa'] bird ['atlocation'] sea ['hasa', 'relatedto'] salt
+meat ['isa'] bird ['relatedto'] bittern ['relatedto'] salt
+meat ['isa'] bird ['relatedto'] street ['atlocation'] salt
+meat ['isa'] bird ['relatedto'] white ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] earth ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] water ['relatedto', 'atlocation'] salt
+meat ['antonym'] plant ['antonym'] mineral ['isa', 'relatedto'] salt
+meat ['antonym'] plant ['antonym'] rock ['relatedto'] salt
+meat ['antonym'] plant ['atlocation'] shelf ['atlocation'] salt
+meat ['antonym'] plant ['atlocation'] table ['relatedto', 'atlocation'] salt
+meat ['antonym'] plant ['isa'] black_pepper ['antonym'] salt
+meat ['antonym'] plant ['isa'] lemon ['relatedto'] salt
+meat ['antonym'] plant ['isa'] popcorn ['relatedto'] salt
+meat ['antonym'] plant ['isa'] saltworks ['relatedto', 'derivedfrom'] salt
+meat ['antonym'] plant ['relatedto'] chlormequat ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] diachylum ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] glutamic_acid ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] grain ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] halomorphic ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] halophyte ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] oxalic_acid ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] petrification ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] food ['usedfor', 'relatedto', 'atlocation'] salt
+meat ['antonym'] plant ['relatedto'] foot ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] potash ['relatedto'] salt
+meat ['antonym'] plant ['relatedto'] salt_mine ['atlocation'] salt
+meat ['antonym'] plant ['relatedto'] saltwort ['derivedfrom'] salt
+meat ['antonym'] plant ['relatedto'] spice ['isa', 'mannerof', 'relatedto'] salt
+meat ['antonym'] vegetable ['distinctfrom', 'relatedto'] mineral ['isa', 'relatedto'] salt
+meat ['antonym'] vegetable ['isa'] pepper ['antonym', 'distinctfrom', 'relatedto'] salt
+meat ['antonym'] vegetable ['isa', 'relatedto'] pickle ['relatedto'] salt
+meat ['antonym'] vegetable ['isa', 'relatedto'] food ['usedfor', 'relatedto', 'atlocation'] salt
+meat ['antonym'] vegetable ['relatedto'] burgoo ['relatedto'] salt
+meat ['antonym'] vegetable ['relatedto'] espetada ['relatedto'] salt
+meat ['antonym'] vegetable ['relatedto'] fresh ['relatedto'] salt
+meat ['antonym'] vegetable ['relatedto'] grain ['relatedto'] salt
+meat ['antonym'] vegetable ['relatedto'] jiggs_dinner ['relatedto'] salt
+meat ['antonym'] vegetable ['relatedto'] spice ['isa', 'mannerof', 'relatedto'] salt
+meat ['usedfor'] clothing ['isa'] black ['antonym'] salt
+meat ['usedfor'] clothing ['relatedto'] heat ['relatedto'] salt
+meat ['usedfor'] clothing ['relatedto'] solid ['relatedto'] salt
+meat ['usedfor'] clothing ['relatedto'] stuff ['relatedto'] salt
+meat ['relatedto'] prime ['relatedto'] element ['relatedto'] salt
+meat ['relatedto'] prime ['relatedto'] hydrogen ['relatedto'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['antonym', 'isa'] water ['relatedto', 'atlocation'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['relatedto', 'atlocation'] cabinet ['atlocation'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['relatedto', 'atlocation'] cupboard ['atlocation'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['atlocation'] fast_food_restaurant ['atlocation'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['relatedto', 'atlocation'] kitchen ['relatedto'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['atlocation'] resturant ['atlocation'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['atlocation'] shelf ['atlocation'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['relatedto', 'atlocation'] table ['relatedto', 'atlocation'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['causes', 'relatedto', 'hasprerequisite'] cooking ['relatedto'] salt
+meat ['usedfor', 'relatedto', 'synonym', 'atlocation', 'isa'] food ['isa', 'relatedto', 'desires'] fish ['relatedto'] salt

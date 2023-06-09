@@ -1,0 +1,100 @@
+child ['antonym', 'relatedto'] adopt ['antonym'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['synonym'] affect ['mannerof'] infect
+child ['antonym', 'distinctfrom', 'relatedto'] adult ['isa'] catch ['relatedto'] infect
+child ['capableof'] pain ['relatedto'] disease ['relatedto'] infect
+child ['capableof'] pain ['relatedto'] blister ['relatedto'] infect
+child ['causesdesire'] buy_christmas_presents ['motivatedbygoal'] give ['mannerof'] infect
+child ['relatedto', 'hasprerequisite'] play ['mannerof'] catch ['relatedto'] infect
+child ['relatedto', 'hasprerequisite'] play ['isa'] touch ['relatedto'] infect
+child ['relatedto'] ball ['relatedto'] catch ['relatedto'] infect
+child ['relatedto'] chicken ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] general ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] general_term ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] generic ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] generic_term ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] human ['relatedto'] ebola_reston ['relatedto'] infect
+child ['relatedto'] human ['relatedto'] touch ['relatedto'] infect
+child ['relatedto'] name ['relatedto'] give ['mannerof'] infect
+child ['relatedto'] small ['relatedto'] measly ['relatedto'] infect
+child ['relatedto'] term ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] caused ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] process ['mannerof'] affect ['mannerof'] infect
+child ['relatedto'] reach ['relatedto'] give ['mannerof'] infect
+child ['relatedto'] reach ['relatedto', 'synonym'] touch ['relatedto'] infect
+child ['relatedto'] designer_baby ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] feely ['relatedto'] touch ['relatedto'] infect
+child ['relatedto'] game ['isa'] catch ['relatedto'] infect
+child ['relatedto'] growing_pains ['isa'] disease ['relatedto'] infect
+child ['relatedto'] heap ['mannerof'] give ['mannerof'] infect
+child ['relatedto'] operation ['relatedto'] taint ['synonym'] infect
+child ['relatedto'] pig ['relatedto'] measly ['relatedto'] infect
+child ['relatedto'] savior ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] student ['relatedto'] trojan ['relatedto'] infect
+child ['relatedto'] support ['mannerof', 'relatedto'] give ['mannerof'] infect
+child ['relatedto'] trouble ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] trouble ['mannerof'] affect ['mannerof'] infect
+child ['relatedto'] abandonment ['relatedto'] leave ['relatedto'] give ['mannerof'] infect
+child ['relatedto'] abandonment ['relatedto'] abandoned ['synonym'] corrupt ['mannerof'] infect
+child ['relatedto'] abandonment ['relatedto'] building ['relatedto'] preventorium ['relatedto'] infect
+child ['relatedto'] abandonment ['relatedto'] receive ['antonym', 'relatedto'] give ['mannerof'] infect
+child ['relatedto'] abandonment ['relatedto'] receive ['relatedto'] catch ['relatedto'] infect
+child ['relatedto'] abandonment ['relatedto'] render ['mannerof', 'relatedto', 'synonym'] give ['mannerof'] infect
+child ['relatedto'] abandonment ['relatedto'] abdication ['relatedto'] give ['mannerof'] infect
+child ['relatedto'] abandonment ['relatedto'] surrender ['mannerof', 'relatedto'] give ['mannerof'] infect
+child ['relatedto'] abandonment ['synonym'] debauch ['relatedto', 'synonym'] corrupt ['mannerof'] infect
+child ['relatedto'] abandonment ['synonym'] debauch ['relatedto'] pollute ['mannerof'] infect
+child ['relatedto'] relative ['isa'] organism ['isa'] virus ['capableof'] infect
+child ['relatedto'] relative ['isa'] organism ['relatedto'] pathogen ['relatedto'] infect
+child ['relatedto'] relative ['isa'] spouse ['relatedto'] catch ['relatedto'] infect
+child ['relatedto'] relative ['relatedto'] close ['relatedto'] touch ['relatedto'] infect
+child ['relatedto'] relative ['relatedto'] cold ['causes'] virus ['capableof'] infect
+child ['relatedto'] relative ['relatedto'] cold ['isa'] disease ['relatedto'] infect
+child ['relatedto'] relative ['relatedto', 'synonym'] comparative ['relatedto'] affect ['mannerof'] infect
+child ['relatedto'] relative ['relatedto'] first_degree ['relatedto'] disease ['relatedto'] infect
+child ['relatedto'] relative ['relatedto'] friction ['relatedto'] blister ['relatedto'] infect
+child ['relatedto'] relative ['relatedto'] geography ['relatedto'] affect ['mannerof'] infect
+child ['relatedto'] relative ['relatedto'] horse ['relatedto'] canker ['mannerof', 'relatedto'] infect
+child ['relatedto'] relative ['relatedto'] relate ['relatedto'] give ['mannerof'] infect
+child ['relatedto'] relative ['relatedto'] relate ['synonym'] affect ['mannerof'] infect
+child ['relatedto'] relative ['relatedto'] related ['relatedto'] touch ['relatedto'] infect
+child ['relatedto'] relative ['relatedto'] relationship ['relatedto'] catch ['relatedto'] infect
+child ['relatedto'] relative ['relatedto'] refer ['synonym'] touch ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] acquire ['relatedto'] catch ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['mannerof', 'synonym'] accept ['mannerof', 'relatedto'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['relatedto'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['relatedto'] leaven ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['relatedto'] touch ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['antonym'] give_away ['mannerof', 'derivedfrom'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] childbirth ['isa'] disease ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] getting ['relatedto'] disease ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] gives ['formof', 'relatedto'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] infertility ['isa'] disease ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] kind ['relatedto'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] process ['mannerof'] affect ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] raise ['synonym'] leaven ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] related ['relatedto'] touch ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] rescue ['antonym'] corrupt ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] service ['relatedto'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] taking ['relatedto'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] taking ['relatedto'] infectious ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] unnatural ['relatedto'] pollute ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] relationship ['relatedto'] catch ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto', 'synonym'] assume ['synonym'] affect ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto', 'synonym'] assume ['mannerof'] hijack ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] debt ['relatedto'] give ['mannerof'] infect
+child ['antonym', 'relatedto'] adopt ['relatedto'] fang ['relatedto', 'synonym'] catch ['relatedto'] infect
+child ['antonym', 'relatedto'] adopt ['synonym'] affect ['mannerof', 'relatedto', 'synonym'] touch ['relatedto'] infect
+child ['createdby'] birth ['relatedto'] act ['isa'] touch ['relatedto'] infect
+child ['createdby'] birth ['relatedto'] act ['relatedto'] give ['mannerof'] infect
+child ['createdby'] birth ['antonym', 'distinctfrom'] adopt ['antonym'] give ['mannerof'] infect
+child ['createdby'] birth ['antonym', 'distinctfrom'] adopt ['synonym'] affect ['mannerof'] infect
+child ['createdby'] birth ['antonym'] death ['causes'] infection ['relatedto', 'derivedfrom'] infect
+child ['createdby'] birth ['antonym'] death ['relatedto'] disease ['relatedto'] infect
+child ['createdby'] birth ['antonym'] kill ['antonym'] give ['mannerof'] infect
+child ['createdby'] birth ['antonym'] kill ['relatedto'] touch ['relatedto'] infect
+child ['createdby'] birth ['isa', 'derivedfrom'] breech_birth ['isa'] disease ['relatedto'] infect
+child ['createdby'] birth ['relatedto', 'derivedfrom', 'synonym'] give_birth ['derivedfrom'] give ['mannerof'] infect
+child ['createdby'] birth ['isa'] change ['mannerof'] catch ['relatedto'] infect
+child ['createdby'] birth ['isa'] change ['mannerof', 'synonym'] affect ['mannerof'] infect
+child ['createdby'] birth ['isa'] change ['mannerof'] blister ['relatedto'] infect
+child ['createdby'] birth ['isa'] change ['mannerof'] corrupt ['mannerof'] infect

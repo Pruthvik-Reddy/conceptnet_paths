@@ -1,0 +1,100 @@
+water ['antonym', 'capableof', 'relatedto'] flow
+water ['antonym', 'relatedto'] sand ['capableof'] flow
+water ['antonym', 'relatedto'] wave ['relatedto'] flow
+water ['relatedto', 'atlocation'] current ['isa', 'relatedto', 'synonym'] flow
+water ['atlocation'] silt ['relatedto'] flow
+water ['relatedto', 'atlocation'] drain ['relatedto'] flow
+water ['atlocation'] drip ['isa'] flow
+water ['relatedto', 'atlocation'] flood ['isa', 'mannerof', 'relatedto'] flow
+water ['relatedto', 'atlocation'] fountain ['isa', 'relatedto'] flow
+water ['hasa', 'relatedto', 'atlocation'] river ['relatedto'] flow
+water ['atlocation'] septic_tank ['relatedto'] flow
+water ['relatedto', 'atlocation'] stream ['relatedto', 'synonym'] flow
+water ['atlocation'] torrent ['relatedto'] flow
+water ['atlocation'] waterfall ['relatedto'] flow
+water ['capableof'] short_circuit ['relatedto'] flow
+water ['relatedto', 'derivedfrom'] watercourse ['relatedto'] flow
+water ['distinctfrom', 'relatedto', 'hasa'] blood ['relatedto'] flow
+water ['isa', 'relatedto', 'hasproperty'] liquid ['capableof', 'relatedto'] flow
+water ['isa', 'relatedto'] fluid ['relatedto'] flow
+water ['mannerof', 'relatedto'] flush ['isa', 'relatedto'] flow
+water ['relatedto'] backwash ['relatedto'] flow
+water ['relatedto'] bore ['relatedto'] flow
+water ['relatedto'] earthflow ['relatedto'] flow
+water ['relatedto'] electrolyte ['relatedto'] flow
+water ['relatedto'] flowstone ['relatedto'] flow
+water ['relatedto'] gush ['relatedto'] flow
+water ['relatedto'] gutter ['relatedto'] flow
+water ['relatedto'] headgate ['relatedto'] flow
+water ['relatedto'] hydraulic_conductivity ['relatedto'] flow
+water ['relatedto'] hydraulic_engineering ['relatedto'] flow
+water ['relatedto'] hydroelastic ['relatedto'] flow
+water ['relatedto'] hydrophily ['relatedto'] flow
+water ['relatedto'] indraught ['relatedto'] flow
+water ['relatedto'] interflow ['relatedto'] flow
+water ['relatedto'] inundate ['relatedto'] flow
+water ['relatedto'] issue ['relatedto'] flow
+water ['relatedto'] lavant ['relatedto'] flow
+water ['relatedto'] lead ['etymologicallyrelatedto'] flow
+water ['relatedto'] microhydropower ['relatedto'] flow
+water ['relatedto'] miracle ['relatedto'] flow
+water ['relatedto'] mudflow ['derivedfrom'] flow
+water ['relatedto'] ocean_current ['relatedto'] flow
+water ['relatedto'] overshot ['relatedto'] flow
+water ['relatedto'] paleocurrent ['relatedto'] flow
+water ['relatedto'] permeability ['relatedto'] flow
+water ['relatedto'] pour ['relatedto'] flow
+water ['relatedto'] rip_current ['relatedto'] flow
+water ['relatedto'] rush ['isa', 'relatedto'] flow
+water ['relatedto'] seepage ['isa'] flow
+water ['relatedto'] sloosh ['relatedto'] flow
+water ['relatedto'] sluice ['relatedto'] flow
+water ['relatedto'] squirt ['relatedto'] flow
+water ['relatedto'] stemflow ['relatedto', 'derivedfrom'] flow
+water ['relatedto'] stop_valve ['relatedto'] flow
+water ['relatedto'] stream_wheel ['relatedto'] flow
+water ['relatedto'] streamflow ['derivedfrom'] flow
+water ['relatedto'] tide ['relatedto'] flow
+water ['relatedto'] undertow ['relatedto'] flow
+water ['relatedto'] flowing ['formof', 'relatedto', 'synonym'] flow
+water ['relatedto'] fluidity ['relatedto'] flow
+water ['relatedto'] rivers ['relatedto'] flow
+water ['relatedto'] waterflow ['relatedto'] flow
+water ['relatedto'] weir ['relatedto'] flow
+water ['synonym'] runnel ['relatedto'] flow
+water ['atlocation'] underground ['isa'] septic_tank ['relatedto'] flow
+water ['atlocation'] underground ['relatedto'] drain ['relatedto'] flow
+water ['atlocation'] underground ['relatedto'] flush ['isa', 'relatedto'] flow
+water ['relatedto'] concrete ['relatedto', 'atlocation'] sand ['capableof'] flow
+water ['relatedto'] concrete ['relatedto'] set ['relatedto'] flow
+water ['relatedto'] concrete ['relatedto'] real ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['atlocation'] jet ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['isa'] fluid ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] aerothermal ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] airflow ['isa', 'relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] airstream ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] backwash ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] baradari ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] current ['isa', 'relatedto', 'synonym'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] foredraft ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] freeflow ['derivedfrom'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] indraught ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] rise ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] stop ['antonym'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] stopping ['antonym'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] stridor ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] tongue ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] valve_train ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] air ['synonym'] aspect ['relatedto'] flow
+water ['antonym', 'relatedto'] earth ['relatedto', 'atlocation'] sand ['capableof'] flow
+water ['antonym', 'relatedto'] earth ['relatedto'] current ['isa', 'relatedto', 'synonym'] flow
+water ['antonym', 'relatedto'] earth ['relatedto'] ocean_current ['relatedto'] flow
+water ['antonym', 'relatedto'] earth ['relatedto'] rheological_lithosphere ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['isa', 'relatedto'] barrage ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] video_game ['isa'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] low ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] spill ['isa'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] tongue ['relatedto'] flow
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['synonym'] discharge ['isa', 'relatedto'] flow
+water ['antonym', 'relatedto'] ground ['isa', 'relatedto', 'atlocation'] sand ['capableof'] flow
+water ['antonym', 'relatedto'] ground ['atlocation'] septic_tank ['relatedto'] flow

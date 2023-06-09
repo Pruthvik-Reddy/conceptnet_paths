@@ -1,0 +1,100 @@
+prisoner ['relatedto'] forced_march ['derivedfrom'] march
+prisoner ['relatedto'] étape ['relatedto'] march
+prisoner ['antonym'] free ['antonym'] tax ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] charity ['relatedto'] march
+prisoner ['antonym'] free ['synonym'] spring ['relatedto'] march
+prisoner ['antonym', 'relatedto'] man ['relatedto'] date ['relatedto'] march
+prisoner ['antonym', 'relatedto'] man ['relatedto'] hand ['relatedto'] march
+prisoner ['antonym', 'relatedto'] man ['relatedto'] name ['relatedto'] march
+prisoner ['antonym', 'relatedto'] man ['relatedto'] soldier ['relatedto'] march
+prisoner ['relatedto'] bad ['relatedto'] action ['relatedto'] march
+prisoner ['relatedto'] bad ['hasproperty'] music ['relatedto'] march
+prisoner ['relatedto'] bad ['relatedto'] feet ['relatedto'] march
+prisoner ['relatedto'] bad ['relatedto'] protest ['relatedto'] march
+prisoner ['relatedto'] bad ['relatedto'] trick ['relatedto'] march
+prisoner ['relatedto'] bad ['relatedto'] war ['relatedto'] march
+prisoner ['relatedto', 'atlocation'] cell ['isa'] book ['isa'] march
+prisoner ['relatedto', 'atlocation'] cell ['relatedto'] place ['relatedto'] march
+prisoner ['relatedto', 'atlocation'] cell ['relatedto'] type ['relatedto'] march
+prisoner ['relatedto', 'derivedfrom'] prison ['relatedto'] spring ['relatedto'] march
+prisoner ['relatedto', 'derivedfrom'] prison ['relatedto'] place ['relatedto'] march
+prisoner ['relatedto', 'derivedfrom'] prison ['relatedto'] étape ['relatedto'] march
+prisoner ['relatedto'] guy ['relatedto'] date ['relatedto'] march
+prisoner ['relatedto'] guy ['relatedto'] guide ['relatedto'] march
+prisoner ['relatedto'] guy ['relatedto'] mark ['formof', 'etymologicallyrelatedto'] march
+prisoner ['relatedto'] guy ['relatedto'] soldier ['relatedto'] march
+prisoner ['relatedto'] crime ['isa', 'relatedto'] activity ['relatedto'] march
+prisoner ['relatedto'] crime ['atlocation'] demonstration ['relatedto'] march
+prisoner ['relatedto'] escape ['relatedto'] action ['relatedto'] march
+prisoner ['relatedto'] escape ['relatedto'] command ['relatedto'] march
+prisoner ['relatedto'] escape ['relatedto'] trick ['relatedto'] march
+prisoner ['relatedto'] escape ['relatedto'] halt ['relatedto'] march
+prisoner ['antonym'] guard ['relatedto'] advance ['relatedto'] march
+prisoner ['antonym'] guard ['relatedto'] forward ['relatedto'] march
+prisoner ['antonym'] guard ['usedfor', 'relatedto'] soldier ['relatedto'] march
+prisoner ['antonym'] guard ['relatedto'] basketball ['relatedto'] march
+prisoner ['antonym'] guard ['relatedto'] mark ['formof', 'etymologicallyrelatedto'] march
+prisoner ['isa', 'derivedfrom'] political_prisoner ['derivedfrom'] political ['relatedto'] march
+prisoner ['isa'] television_show ['isa'] troop ['mannerof', 'relatedto'] march
+prisoner ['relatedto'] black_maria ['relatedto'] transporting ['relatedto'] march
+prisoner ['relatedto'] cartel ['isa'] band ['relatedto'] march
+prisoner ['relatedto'] centesimation ['relatedto'] army ['relatedto'] march
+prisoner ['relatedto'] commissary ['relatedto'] soldier ['relatedto'] march
+prisoner ['relatedto'] dirty_protest ['relatedto'] protest ['relatedto'] march
+prisoner ['relatedto'] forced_march ['relatedto'] movement ['relatedto'] march
+prisoner ['relatedto'] forced_march ['relatedto'] military ['relatedto'] march
+prisoner ['relatedto'] forced_march ['relatedto'] soldiers ['relatedto'] march
+prisoner ['relatedto'] forced_march ['relatedto'] death_march ['derivedfrom'] march
+prisoner ['relatedto'] guardroom ['relatedto'] soldier ['relatedto'] march
+prisoner ['relatedto'] guardroom ['relatedto'] military ['relatedto'] march
+prisoner ['relatedto'] hunger_strike ['relatedto'] protest ['relatedto'] march
+prisoner ['relatedto'] lag ['relatedto'] hand ['relatedto'] march
+prisoner ['relatedto'] oregon_boot ['relatedto'] movement ['relatedto'] march
+prisoner ['relatedto'] panel ['etymologicallyrelatedto'] pannel ['relatedto'] march
+prisoner ['relatedto'] inhabitant ['relatedto'] place ['relatedto'] march
+prisoner ['relatedto'] inhabitant ['isa'] marcher ['relatedto', 'derivedfrom'] march
+prisoner ['relatedto'] inside ['relatedto'] book ['isa'] march
+prisoner ['relatedto'] inside ['relatedto'] hand ['relatedto'] march
+prisoner ['relatedto'] inside ['relatedto'] feet ['relatedto'] march
+prisoner ['relatedto'] keeping ['relatedto'] exercise ['relatedto'] march
+prisoner ['relatedto'] stripes ['relatedto'] band ['relatedto'] march
+prisoner ['relatedto'] trial ['isa'] book ['isa'] march
+prisoner ['relatedto'] trial ['relatedto'] process ['synonym'] march
+prisoner ['relatedto'] skilligalee ['relatedto'] army ['relatedto'] march
+prisoner ['relatedto'] skilligalee ['relatedto'] england ['relatedto'] march
+prisoner ['relatedto'] ward ['etymologicallyrelatedto', 'derivedfrom'] forward ['relatedto'] march
+prisoner ['relatedto'] étape ['relatedto'] halt ['relatedto'] march
+prisoner ['relatedto'] étape ['relatedto'] troop ['mannerof', 'relatedto'] march
+prisoner ['antonym'] free ['relatedto'] base ['relatedto'] army ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] base ['relatedto'] command ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] base ['relatedto'] military ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] base ['relatedto'] place ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] base ['relatedto'] soldiers ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] base ['relatedto'] third ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] base ['relatedto'] standing ['antonym'] march
+prisoner ['antonym'] free ['relatedto'] nothing ['relatedto'] double ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] nothing ['relatedto'] music ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] nothing ['relatedto'] song ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] action ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] rest ['antonym', 'distinctfrom', 'relatedto'] activity ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] rest ['antonym', 'causesdesire', 'relatedto'] exercise ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] rest ['antonym', 'distinctfrom'] moving ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] rest ['relatedto'] feet ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] rest ['relatedto'] music ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] rest ['relatedto'] standing ['antonym'] march
+prisoner ['antonym'] free ['relatedto'] rest ['relatedto'] standing_still ['antonym'] march
+prisoner ['antonym'] free ['relatedto'] rest ['relatedto'] still ['antonym'] march
+prisoner ['antonym'] free ['relatedto'] rest ['relatedto'] type ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] give ['relatedto'] action ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] give ['mannerof'] tread ['similarto'] march
+prisoner ['antonym'] free ['relatedto'] give ['relatedto'] charity ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] give ['relatedto'] hand ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] give ['relatedto'] name ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] give ['synonym'] spring ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] give_away ['relatedto'] charity ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] payment ['relatedto'] action ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] payment ['antonym', 'relatedto'] advance ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] payment ['relatedto'] process ['synonym'] march
+prisoner ['antonym'] free ['relatedto'] payment ['relatedto'] sorry ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] payment ['relatedto'] tax ['relatedto'] march
+prisoner ['antonym'] free ['relatedto'] adjective ['relatedto'] double ['relatedto'] march

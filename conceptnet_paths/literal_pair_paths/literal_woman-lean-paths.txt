@@ -1,0 +1,100 @@
+woman ['relatedto'] fit ['relatedto'] lean
+woman ['relatedto'] unite ['relatedto'] put ['mannerof'] lean
+woman ['relatedto'] affair ['relatedto'] extra ['relatedto'] lean
+woman ['relatedto'] human ['atlocation'] climate ['etymologicallyrelatedto', 'relatedto'] lean
+woman ['relatedto'] human ['atlocation'] lie ['etymologicallyrelatedto'] lean
+woman ['relatedto'] human ['relatedto'] cut ['relatedto'] lean
+woman ['relatedto'] earth ['relatedto'] substance ['relatedto'] lean
+woman ['antonym', 'distinctfrom', 'relatedto', 'isa'] man ['relatedto'] press ['relatedto'] lean
+woman ['relatedto'] pear ['relatedto'] fat ['antonym', 'relatedto'] lean
+woman ['relatedto'] beautiful ['relatedto', 'synonym'] fit ['relatedto'] lean
+woman ['relatedto'] big ['relatedto'] fat ['antonym', 'relatedto'] lean
+woman ['relatedto'] big ['relatedto'] press ['relatedto'] lean
+woman ['relatedto'] fish ['isa', 'distinctfrom', 'relatedto'] meat ['relatedto'] lean
+woman ['relatedto'] fish ['mannerof', 'relatedto', 'synonym'] angle ['synonym'] lean
+woman ['relatedto'] fish ['relatedto'] meagre ['relatedto'] lean
+woman ['relatedto'] fish ['relatedto'] pollock ['relatedto'] lean
+woman ['relatedto'] blue ['synonym'] low ['relatedto'] lean
+woman ['relatedto'] body ['relatedto'] bend ['mannerof'] lean
+woman ['relatedto'] body ['relatedto'] fleshy ['relatedto'] lean
+woman ['relatedto'] body ['relatedto'] skinny ['relatedto'] lean
+woman ['relatedto'] body ['relatedto'] substance ['relatedto'] lean
+woman ['relatedto'] body ['relatedto'] cut ['relatedto'] lean
+woman ['relatedto'] body ['relatedto'] ectomorph ['relatedto'] lean
+woman ['relatedto'] body ['relatedto'] fit ['relatedto'] lean
+woman ['relatedto'] body ['relatedto'] well_built ['relatedto'] lean
+woman ['relatedto'] flesh ['relatedto', 'derivedfrom'] fleshless ['relatedto'] lean
+woman ['relatedto'] flesh ['relatedto', 'derivedfrom'] fleshy ['relatedto'] lean
+woman ['relatedto'] flesh ['isa', 'relatedto', 'synonym'] meat ['relatedto'] lean
+woman ['relatedto'] flesh ['relatedto'] brawn ['relatedto'] lean
+woman ['relatedto'] flesh ['relatedto', 'synonym'] fat ['antonym', 'relatedto'] lean
+woman ['relatedto'] flesh ['relatedto'] meager ['relatedto'] lean
+woman ['relatedto'] boy ['relatedto'] low ['relatedto'] lean
+woman ['relatedto'] long ['antonym'] low ['relatedto'] lean
+woman ['relatedto'] long ['relatedto'] side ['relatedto'] lean
+woman ['relatedto'] long ['relatedto'] slim ['relatedto'] lean
+woman ['relatedto'] long ['similarto'] lank ['relatedto'] lean
+woman ['isa', 'relatedto'] broad ['antonym', 'distinctfrom'] thin ['relatedto', 'synonym'] lean
+woman ['isa', 'relatedto'] broad ['antonym'] skinny ['relatedto'] lean
+woman ['relatedto'] cow ['relatedto'] low ['relatedto'] lean
+woman ['relatedto'] cow ['relatedto'] meat ['relatedto'] lean
+woman ['relatedto'] cow ['relatedto'] fat ['antonym', 'relatedto'] lean
+woman ['relatedto'] bump ['relatedto'] slope ['mannerof', 'relatedto'] lean
+woman ['isa', 'relatedto'] cat ['hasprerequisite'] meat ['relatedto'] lean
+woman ['relatedto'] dog ['desires'] meat ['relatedto'] lean
+woman ['relatedto'] dog ['distinctfrom'] cut ['relatedto'] lean
+woman ['relatedto'] dog ['isa', 'relatedto'] greyhound ['relatedto'] lean
+woman ['relatedto'] fair ['relatedto'] weather ['mannerof'] lean
+woman ['relatedto'] chick ['relatedto'] fit ['relatedto'] lean
+woman ['relatedto'] single ['relatedto'] extra ['relatedto'] lean
+woman ['relatedto'] single ['relatedto'] side ['relatedto'] lean
+woman ['relatedto'] dress ['relatedto'] fit ['relatedto'] lean
+woman ['relatedto'] dress ['relatedto', 'synonym'] trim ['relatedto'] lean
+woman ['relatedto'] wire ['relatedto'] thin ['relatedto', 'synonym'] lean
+woman ['relatedto'] wire ['relatedto'] skinny ['relatedto'] lean
+woman ['relatedto'] wire ['relatedto'] list ['mannerof', 'synonym'] lean
+woman ['relatedto'] easy ['relatedto'] rest ['relatedto', 'synonym'] lean
+woman ['relatedto'] figure ['relatedto'] angle ['synonym'] lean
+woman ['relatedto'] goose ['isa'] meat ['relatedto'] lean
+woman ['relatedto'] eye ['relatedto'] slant ['relatedto', 'synonym'] lean
+woman ['relatedto'] feel ['mannerof'] incline ['etymologicallyrelatedto'] lean
+woman ['relatedto'] feel ['relatedto'] fit ['relatedto'] lean
+woman ['relatedto'] feel ['relatedto'] slope ['mannerof', 'relatedto'] lean
+woman ['isa', 'relatedto', 'synonym'] lady ['relatedto'] rich ['antonym'] lean
+woman ['relatedto', 'derivedfrom'] hangwoman ['derivedfrom'] hang ['relatedto'] lean
+woman ['relatedto', 'derivedfrom'] stuntwoman ['relatedto', 'derivedfrom'] stunt ['relatedto'] lean
+woman ['isa'] prostitute ['relatedto'] put ['mannerof'] lean
+woman ['isa'] wave ['relatedto'] hang ['relatedto'] lean
+woman ['isa'] wave ['isa'] weather ['mannerof'] lean
+woman ['isa'] wave ['relatedto'] layback ['relatedto'] lean
+woman ['relatedto'] baby_fat ['relatedto'] fat ['antonym', 'relatedto'] lean
+woman ['relatedto'] bag ['mannerof'] sag ['relatedto'] lean
+woman ['relatedto'] barmaid ['relatedto'] skimpy ['synonym'] lean
+woman ['relatedto'] bitch_goddess ['relatedto'] rich ['antonym'] lean
+woman ['relatedto'] cutty ['derivedfrom'] cut ['relatedto'] lean
+woman ['relatedto'] fit ['isa'] hang ['relatedto'] lean
+woman ['relatedto'] fit ['relatedto'] trim ['relatedto'] lean
+woman ['relatedto'] fit ['relatedto'] well_built ['relatedto'] lean
+woman ['relatedto'] fussock ['relatedto'] fat ['antonym', 'relatedto'] lean
+woman ['relatedto'] gash ['relatedto', 'synonym'] cut ['relatedto'] lean
+woman ['relatedto'] gender ['relatedto'] decline ['etymologicallyrelatedto'] lean
+woman ['relatedto'] girlmeat ['relatedto', 'derivedfrom'] meat ['relatedto'] lean
+woman ['relatedto'] henhussy ['relatedto'] tend ['synonym'] lean
+woman ['relatedto'] ice_maiden ['relatedto'] climate ['etymologicallyrelatedto', 'relatedto'] lean
+woman ['relatedto'] limmer ['relatedto'] ladder ['etymologicallyrelatedto'] lean
+woman ['relatedto'] miss ['mannerof'] cut ['relatedto'] lean
+woman ['relatedto'] moo ['relatedto', 'synonym'] low ['relatedto'] lean
+woman ['relatedto'] mudflap_girl ['relatedto'] united_states ['relatedto'] lean
+woman ['relatedto'] nursemaid ['relatedto'] tend ['synonym'] lean
+woman ['relatedto'] period ['relatedto'] rest ['relatedto', 'synonym'] lean
+woman ['relatedto'] placket ['relatedto'] spare ['relatedto'] lean
+woman ['relatedto'] plumper ['relatedto'] lie ['etymologicallyrelatedto'] lean
+woman ['relatedto'] rib ['relatedto'] meat ['relatedto'] lean
+woman ['relatedto'] rib ['isa', 'relatedto'] cut ['relatedto'] lean
+woman ['relatedto'] side_wife ['derivedfrom'] side ['relatedto'] lean
+woman ['relatedto'] sidesaddle ['derivedfrom'] side ['relatedto'] lean
+woman ['relatedto'] slip ['relatedto'] thin ['relatedto', 'synonym'] lean
+woman ['relatedto'] slip ['relatedto'] weather ['mannerof'] lean
+woman ['relatedto'] slip ['relatedto'] slink ['relatedto'] lean
+woman ['relatedto'] slip ['relatedto'] slope ['mannerof', 'relatedto'] lean
+woman ['relatedto'] sloven ['relatedto'] low ['relatedto'] lean

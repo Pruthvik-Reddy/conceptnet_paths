@@ -1,0 +1,100 @@
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] music ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto', 'synonym'] sound ['isa', 'mannerof'] whistle
+optimism ['relatedto'] best ['relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] best ['relatedto'] music ['relatedto'] whistle
+optimism ['relatedto'] world ['hasproperty'] small ['relatedto'] whistle
+optimism ['relatedto'] option ['relatedto'] call ['relatedto'] whistle
+optimism ['relatedto'] youth_crew ['relatedto'] music ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] gain ['relatedto'] signal ['isa'] whistle
+optimism ['relatedto'] good ['relatedto'] act ['relatedto', 'synonym'] move ['mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] adventure ['relatedto'] travel ['mannerof'] whistle
+optimism ['relatedto'] good ['hasproperty'] human ['atlocation'] suit ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] human ['atlocation'] swimming_pool ['atlocation'] whistle
+optimism ['relatedto'] good ['hasproperty'] human ['atlocation'] lip ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] human ['atlocation'] mouth ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] human ['relatedto'] blow ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] human ['relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] human ['relatedto'] sound ['isa', 'mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] man ['isa', 'relatedto'] policeman ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] man ['relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['distinctfrom'] problem ['relatedto'] whistle_blower ['derivedfrom'] whistle
+optimism ['relatedto'] good ['relatedto'] art ['distinctfrom', 'relatedto'] music ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] art ['relatedto'] sound ['isa', 'mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] reply ['relatedto'] call ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] reply ['relatedto'] calling ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] reply ['relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['distinctfrom', 'relatedto'] average ['distinctfrom'] small ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] home ['antonym'] travel ['mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] home ['relatedto'] call ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] home ['relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] home ['relatedto'] move ['mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] cool ['relatedto'] blow ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] cool ['similarto'] caller ['relatedto'] whistle
+optimism ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['hasproperty'] music ['relatedto'] whistle
+optimism ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['relatedto'] noise ['relatedto'] whistle
+optimism ['relatedto'] good ['antonym'] rap ['relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['antonym'] rap ['antonym', 'distinctfrom', 'relatedto', 'isa'] music ['relatedto'] whistle
+optimism ['relatedto'] good ['antonym'] rap ['relatedto'] noise ['relatedto'] whistle
+optimism ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] trouble ['synonym'] move ['mannerof'] whistle
+optimism ['relatedto'] good ['antonym', 'distinctfrom', 'relatedto'] trouble ['isa'] noise ['relatedto'] whistle
+optimism ['relatedto'] good ['causes'] eating_vegetables ['hasprerequisite'] mouth ['relatedto'] whistle
+optimism ['relatedto'] good ['derivedfrom'] smallgood ['derivedfrom'] small ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto', 'desires'] saint ['relatedto'] coach ['relatedto'] whistle
+optimism ['relatedto'] good ['distinctfrom'] die ['hasprerequisite'] travel ['mannerof'] whistle
+optimism ['relatedto'] good ['distinctfrom'] die ['isa'] portable_object ['isa'] whistle
+optimism ['relatedto'] good ['distinctfrom'] die ['isa', 'relatedto'] device ['isa'] whistle
+optimism ['relatedto'] good ['formof', 'distinctfrom', 'relatedto'] best ['relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['formof', 'distinctfrom', 'relatedto'] best ['relatedto'] music ['relatedto'] whistle
+optimism ['relatedto'] good ['distinctfrom', 'relatedto'] great ['antonym'] small ['relatedto'] whistle
+optimism ['relatedto'] good ['etymologicallyrelatedto'] god ['antonym', 'relatedto'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] calm_mind ['capableof'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] cannabis ['relatedto'] blow ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] chocolate ['atlocation'] mouth ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] exercise ['relatedto'] blow ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] exercise ['relatedto', 'hasprerequisite', 'entails'] move ['mannerof'] whistle
+optimism ['relatedto'] good ['hasproperty'] exercise ['relatedto', 'synonym'] drill ['usedfor'] whistle
+optimism ['relatedto'] good ['hasproperty'] fun ['relatedto', 'hasproperty'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] fun ['relatedto'] music ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] fun ['usedfor'] swimming_pool ['atlocation'] whistle
+optimism ['relatedto'] good ['hasproperty'] giving ['relatedto'] noise ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] giving ['relatedto'] sign ['mannerof'] whistle
+optimism ['relatedto'] good ['hasproperty'] japanese ['relatedto'] manga ['isa', 'instanceof'] whistle
+optimism ['relatedto'] good ['hasproperty'] joke ['mannerof'] communicate ['mannerof'] whistle
+optimism ['relatedto'] good ['hasproperty'] kissing ['usedfor'] mouth ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] kissing ['relatedto'] lip ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] music ['causesdesire', 'relatedto'] sing ['synonym'] whistle
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] music ['antonym', 'distinctfrom', 'relatedto'] noise ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] music ['relatedto', 'atlocation', 'hasproperty', 'isa', 'madeof'] sound ['isa', 'mannerof'] whistle
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] music ['isa'] whistling ['formof', 'relatedto', 'derivedfrom', 'synonym'] whistle
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] music ['usedfor', 'relatedto'] instrument ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto', 'hasproperty'] music ['relatedto'] noises ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] smiling ['usedfor'] mouth ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] tv ['relatedto'] noise ['relatedto'] whistle
+optimism ['relatedto'] good ['hasproperty'] tv ['relatedto'] coach ['relatedto'] whistle
+optimism ['relatedto'] good ['isa'] food ['relatedto', 'atlocation'] mouth ['relatedto'] whistle
+optimism ['relatedto'] good ['isa'] food ['desires'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['isa'] food ['relatedto'] whistle_walk ['relatedto', 'derivedfrom'] whistle
+optimism ['relatedto'] good ['receivesaction'] help ['relatedto'] call ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] ball ['atlocation'] soccer_game ['atlocation'] whistle
+optimism ['relatedto'] good ['relatedto'] ball ['isa'] portable_object ['isa'] whistle
+optimism ['relatedto'] good ['relatedto'] ball ['relatedto'] device ['isa'] whistle
+optimism ['relatedto'] good ['relatedto'] ball ['relatedto'] policeman ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] banner ['relatedto'] sign ['mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] bat ['relatedto'] device ['isa'] whistle
+optimism ['relatedto'] good ['relatedto'] bat ['relatedto'] instrument ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] bat ['relatedto'] small ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] bat ['relatedto'] blow ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] bed ['atlocation'] dog ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] bed ['relatedto'] device ['isa'] whistle
+optimism ['relatedto'] good ['relatedto'] bed ['relatedto'] instrument ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] bless ['relatedto', 'synonym'] sign ['mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] bread ['relatedto'] communicate ['mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] business ['relatedto'] coach ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] business ['relatedto'] sign ['mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] business ['relatedto'] suit ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] cake ['relatedto'] blow ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] charm ['relatedto'] sound ['isa', 'mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] chicken ['relatedto'] small ['relatedto'] whistle
+optimism ['relatedto'] good ['relatedto'] clear ['hasprerequisite'] communicate ['mannerof'] whistle
+optimism ['relatedto'] good ['relatedto'] comforter ['isa', 'relatedto'] device ['isa'] whistle

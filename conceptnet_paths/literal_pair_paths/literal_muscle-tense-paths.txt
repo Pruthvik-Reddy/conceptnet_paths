@@ -1,0 +1,100 @@
+muscle ['formof', 'relatedto'] muscles ['relatedto'] tense
+muscle ['relatedto'] guarding ['relatedto'] tense
+muscle ['relatedto'] ischiocavernosus ['relatedto'] tense
+muscle ['relatedto'] stretch ['mannerof'] tense
+muscle ['relatedto'] lazy ['relatedto'] relaxed ['antonym', 'distinctfrom'] tense
+muscle ['relatedto'] lazy ['relatedto'] slack ['relatedto'] tense
+muscle ['relatedto'] negative ['relatedto'] dependent ['relatedto'] tense
+muscle ['relatedto'] negative ['relatedto'] feeling ['relatedto'] tense
+muscle ['relatedto'] human ['atlocation'] show ['relatedto'] tense
+muscle ['relatedto'] human ['hasa'] muscles ['relatedto'] tense
+muscle ['relatedto'] human ['relatedto'] twang ['relatedto'] tense
+muscle ['relatedto'] human ['similarto'] imperfect ['relatedto'] tense
+muscle ['relatedto', 'atlocation'] animal ['relatedto'] nervous ['relatedto', 'similarto'] tense
+muscle ['relatedto', 'atlocation'] arm ['relatedto'] muscles ['relatedto'] tense
+muscle ['relatedto', 'atlocation'] arm ['relatedto'] stretch ['mannerof'] tense
+muscle ['relatedto', 'partof'] body ['relatedto'] stretch ['mannerof'] tense
+muscle ['antonym', 'distinctfrom', 'relatedto'] bone ['relatedto'] muscles ['relatedto'] tense
+muscle ['atlocation'] pain ['relatedto'] uncomfortable ['relatedto'] tense
+muscle ['atlocation'] pain ['antonym', 'isa', 'relatedto'] feeling ['relatedto'] tense
+muscle ['atlocation'] pain ['relatedto'] stretch ['mannerof'] tense
+muscle ['capableof'] contract ['relatedto'] future ['isa'] tense
+muscle ['capableof'] contract ['antonym'] stretch ['mannerof'] tense
+muscle ['capableof'] contract ['mannerof', 'synonym'] sign ['relatedto'] tense
+muscle ['derivedfrom', 'synonym'] muscleman ['relatedto'] muscles ['relatedto'] tense
+muscle ['relatedto', 'derivedfrom'] muscular ['relatedto'] stretch ['mannerof'] tense
+muscle ['relatedto', 'derivedfrom'] muscular ['relatedto'] isotonic ['similarto'] tense
+muscle ['formof', 'relatedto'] muscles ['capableof'] relax ['motivatedbygoal', 'relatedto'] tense
+muscle ['formof', 'relatedto'] muscles ['relatedto'] stretch ['mannerof'] tense
+muscle ['formof', 'relatedto'] muscles ['relatedto'] strain ['relatedto', 'synonym'] tense
+muscle ['isa'] heart ['madeof'] muscles ['relatedto'] tense
+muscle ['isa'] heart ['relatedto'] feeling ['relatedto'] tense
+muscle ['isa'] heart ['relatedto'] mood ['relatedto'] tense
+muscle ['isa', 'relatedto'] sphincter ['relatedto'] relax ['motivatedbygoal', 'relatedto'] tense
+muscle ['mannerof'] pass ['relatedto'] present ['isa', 'relatedto'] tense
+muscle ['mannerof'] pass ['relatedto'] action ['relatedto'] tense
+muscle ['mannerof'] pass ['relatedto'] time ['relatedto'] tense
+muscle ['mannerof'] pass ['mannerof'] change ['mannerof'] tense
+muscle ['mannerof'] pass ['etymologicallyrelatedto', 'relatedto'] past ['isa', 'relatedto'] tense
+muscle ['relatedto'] ab ['etymologicallyrelatedto'] muscles ['relatedto'] tense
+muscle ['relatedto'] affector ['derivedfrom'] affect ['mannerof'] tense
+muscle ['relatedto'] amyotrophic_lateral_sclerosis ['relatedto'] progressive ['isa'] tense
+muscle ['relatedto'] asynergy ['relatedto'] defective ['relatedto'] tense
+muscle ['relatedto'] atracurium ['relatedto'] relax ['motivatedbygoal', 'relatedto'] tense
+muscle ['relatedto'] becker_muscular_dystrophy ['relatedto'] progressive ['isa'] tense
+muscle ['relatedto'] burn ['relatedto'] action ['relatedto'] tense
+muscle ['relatedto'] burn ['mannerof'] change_state ['mannerof'] tense
+muscle ['relatedto'] burn ['relatedto'] feeling ['relatedto'] tense
+muscle ['relatedto'] burn ['relatedto'] tend ['relatedto'] tense
+muscle ['relatedto'] cerebroside ['relatedto'] nervous ['relatedto', 'similarto'] tense
+muscle ['relatedto'] chlormezanone ['relatedto'] relax ['motivatedbygoal', 'relatedto'] tense
+muscle ['relatedto'] chlormezanone ['relatedto'] anxiety ['relatedto'] tense
+muscle ['relatedto'] christmas_tree ['relatedto', 'atlocation'] present ['isa', 'relatedto'] tense
+muscle ['relatedto'] clonazepam ['usedfor'] anxiety ['relatedto'] tense
+muscle ['relatedto'] contraction ['relatedto'] isotonic ['similarto'] tense
+muscle ['relatedto'] cramp ['causes'] writing ['relatedto'] tense
+muscle ['relatedto'] cramp ['mannerof'] affect ['mannerof'] tense
+muscle ['relatedto'] creutzfeldt_jakob_disease ['relatedto'] progressive ['isa'] tense
+muscle ['relatedto'] cut ['relatedto'] action ['relatedto'] tense
+muscle ['relatedto'] cut ['relatedto'] edge ['relatedto'] tense
+muscle ['relatedto'] definition ['relatedto'] action ['relatedto'] tense
+muscle ['relatedto'] electrocyte ['relatedto'] electric ['similarto'] tense
+muscle ['relatedto'] electromyogenic ['relatedto'] electric ['similarto'] tense
+muscle ['relatedto'] emylcamate ['relatedto'] relax ['motivatedbygoal', 'relatedto'] tense
+muscle ['relatedto'] emylcamate ['relatedto'] anxiety ['relatedto'] tense
+muscle ['relatedto'] exercise ['isa', 'relatedto', 'synonym'] action ['relatedto'] tense
+muscle ['relatedto'] exercise ['isa', 'hasfirstsubevent', 'relatedto'] stretch ['mannerof'] tense
+muscle ['relatedto'] exercise ['relatedto'] muscles ['relatedto'] tense
+muscle ['relatedto'] flex ['relatedto'] ischiocavernosus ['relatedto'] tense
+muscle ['relatedto'] hard ['relatedto'] feeling ['relatedto'] tense
+muscle ['relatedto'] hard ['relatedto', 'synonym'] tight ['relatedto'] tense
+muscle ['relatedto'] hypotonic ['relatedto'] isotonic ['similarto'] tense
+muscle ['relatedto'] hypotonic ['relatedto'] tension ['relatedto'] tense
+muscle ['relatedto'] inirritable ['relatedto'] action ['relatedto'] tense
+muscle ['relatedto'] isokinetic ['relatedto'] isotonic ['similarto'] tense
+muscle ['relatedto'] laugh ['relatedto'] action ['relatedto'] tense
+muscle ['relatedto'] laugh ['relatedto'] affect ['mannerof'] tense
+muscle ['relatedto'] limp ['synonym'] relaxed ['antonym', 'distinctfrom'] tense
+muscle ['relatedto'] limp ['synonym'] slack ['relatedto'] tense
+muscle ['relatedto'] lip ['relatedto', 'synonym'] edge ['relatedto'] tense
+muscle ['relatedto'] part ['relatedto'] action ['relatedto'] tense
+muscle ['relatedto'] part ['relatedto'] edge ['relatedto'] tense
+muscle ['relatedto'] part ['relatedto'] verb ['relatedto'] tense
+muscle ['relatedto'] running ['relatedto'] action ['relatedto'] tense
+muscle ['relatedto'] running ['relatedto', 'hasproperty'] time ['relatedto'] tense
+muscle ['relatedto'] running ['relatedto'] stretch ['mannerof'] tense
+muscle ['relatedto'] strength ['relatedto'] action ['relatedto'] tense
+muscle ['relatedto'] strength ['relatedto'] intense ['relatedto'] tense
+muscle ['relatedto'] strength ['relatedto'] muscles ['relatedto'] tense
+muscle ['relatedto'] strong ['relatedto', 'similarto'] intense ['relatedto'] tense
+muscle ['relatedto'] strong ['relatedto'] stretch ['mannerof'] tense
+muscle ['relatedto'] strong ['relatedto'] inflect ['relatedto'] tense
+muscle ['relatedto'] force ['relatedto', 'synonym'] action ['relatedto'] tense
+muscle ['relatedto'] force ['relatedto'] time ['relatedto'] tense
+muscle ['relatedto'] force ['relatedto'] change ['mannerof'] tense
+muscle ['relatedto'] force ['isa'] stress ['relatedto'] tense
+muscle ['relatedto'] force ['relatedto'] strain ['relatedto', 'synonym'] tense
+muscle ['relatedto'] force ['relatedto'] stretch ['mannerof'] tense
+muscle ['relatedto'] organ ['relatedto'] guarding ['relatedto'] tense
+muscle ['relatedto'] progress ['relatedto'] future ['isa'] tense
+muscle ['relatedto'] progress ['relatedto'] progressive ['isa'] tense

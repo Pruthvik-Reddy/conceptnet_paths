@@ -1,0 +1,100 @@
+ice ['capableof', 'relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto'] melt
+ice ['mannerof', 'relatedto'] freeze ['antonym', 'distinctfrom'] melt
+ice ['relatedto', 'atlocation'] glass ['capableof', 'relatedto'] melt
+ice ['distinctfrom', 'relatedto'] snow ['relatedto'] melt
+ice ['hasproperty'] melting ['formof', 'relatedto'] melt
+ice ['isa', 'relatedto', 'hasproperty'] solid ['relatedto'] melt
+ice ['receivesaction'] melted ['formof', 'relatedto'] melt
+ice ['relatedto'] deicer ['relatedto'] melt
+ice ['relatedto'] eustasy ['relatedto'] melt
+ice ['relatedto'] ice_cream ['capableof'] melt
+ice ['relatedto'] icemelt ['relatedto'] melt
+ice ['relatedto'] liquid ['relatedto'] melt
+ice ['relatedto'] thaw ['relatedto', 'synonym'] melt
+ice ['antonym', 'distinctfrom'] fire ['antonym', 'distinctfrom', 'relatedto'] water ['relatedto'] melt
+ice ['antonym', 'distinctfrom'] fire ['locatednear', 'relatedto', 'capableof', 'causes', 'createdby', 'hasprerequisite'] heat ['relatedto'] melt
+ice ['antonym', 'distinctfrom'] fire ['distinctfrom'] snow ['relatedto'] melt
+ice ['antonym', 'distinctfrom'] fire ['relatedto'] process ['relatedto'] melt
+ice ['antonym', 'distinctfrom'] fire ['relatedto'] sweal ['relatedto'] melt
+ice ['antonym', 'distinctfrom'] fire ['relatedto'] wax ['capableof', 'relatedto'] melt
+ice ['atlocation'] ground ['antonym', 'relatedto'] water ['relatedto'] melt
+ice ['atlocation'] ground ['atlocation'] snow ['relatedto'] melt
+ice ['atlocation'] ground ['relatedto'] glass ['capableof', 'relatedto'] melt
+ice ['atlocation'] ground ['relatedto'] solid ['relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto', 'atlocation'] glass ['capableof', 'relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['isa', 'relatedto', 'atlocation'] snow ['relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto', 'atlocation'] sweat ['relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['capableof'] evaporate ['synonym'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['capableof'] freeze ['antonym', 'distinctfrom'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto'] deliquesce ['relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto'] deliquiate ['relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto'] heat ['relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto'] snow_broth ['relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto'] melted ['formof', 'relatedto'] melt
+ice ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] water ['relatedto'] melts ['formof', 'relatedto'] melt
+ice ['relatedto'] house ['relatedto'] wax ['capableof', 'relatedto'] melt
+ice ['mannerof', 'relatedto', 'hasproperty'] cool ['antonym', 'distinctfrom'] warm ['relatedto'] melt
+ice ['mannerof', 'relatedto', 'hasproperty'] cool ['antonym', 'distinctfrom', 'relatedto'] heat ['relatedto'] melt
+ice ['mannerof', 'relatedto', 'hasproperty'] cool ['relatedto'] pattinsonize ['relatedto'] melt
+ice ['mannerof', 'relatedto', 'hasproperty'] cool ['relatedto'] sweat ['relatedto'] melt
+ice ['relatedto'] cube ['isa', 'relatedto'] shape ['relatedto'] melt
+ice ['atlocation'] bar ['relatedto'] chocolate ['capableof'] melt
+ice ['atlocation'] bar ['relatedto'] shape ['relatedto'] melt
+ice ['atlocation'] bar ['relatedto'] solid ['relatedto'] melt
+ice ['atlocation'] bar ['relatedto'] thixocasting ['relatedto'] melt
+ice ['relatedto'] white ['relatedto'] water ['relatedto'] melt
+ice ['relatedto'] white ['isa', 'relatedto'] snow ['relatedto'] melt
+ice ['relatedto'] white ['isa'] wax ['capableof', 'relatedto'] melt
+ice ['mannerof', 'relatedto'] freeze ['capableof'] water ['relatedto'] melt
+ice ['mannerof', 'relatedto'] freeze ['antonym', 'relatedto'] thaw ['relatedto', 'synonym'] melt
+ice ['mannerof', 'relatedto'] freeze ['mannerof', 'relatedto', 'synonym', 'entails'] solidify ['antonym'] melt
+ice ['mannerof', 'relatedto'] freeze ['relatedto'] process ['relatedto'] melt
+ice ['mannerof', 'relatedto'] freeze ['relatedto'] liquid ['relatedto'] melt
+ice ['mannerof', 'relatedto'] freeze ['relatedto'] solid ['relatedto'] melt
+ice ['mannerof', 'relatedto'] freeze ['relatedto'] snow ['relatedto'] melt
+ice ['antonym', 'relatedto'] cake ['antonym', 'relatedto'] ice_cream ['capableof'] melt
+ice ['antonym', 'relatedto'] cake ['relatedto'] chocolate ['capableof'] melt
+ice ['antonym', 'relatedto'] cake ['relatedto'] sweat ['relatedto'] melt
+ice ['antonym'] steam ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] water ['relatedto'] melt
+ice ['antonym'] steam ['relatedto'] warm ['relatedto'] melt
+ice ['antonym'] steam ['relatedto'] heat ['relatedto'] melt
+ice ['antonym'] steam ['antonym', 'distinctfrom', 'relatedto'] liquid ['relatedto'] melt
+ice ['antonym'] steam ['relatedto', 'synonym'] evaporate ['synonym'] melt
+ice ['atlocation'] antarctica ['atlocation'] snow ['relatedto'] melt
+ice ['atlocation'] cold_weather ['isa'] freeze ['antonym', 'distinctfrom'] melt
+ice ['atlocation'] cold_weather ['relatedto'] snow ['relatedto'] melt
+ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] action ['relatedto'] melt
+ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink ['usedfor', 'relatedto', 'atlocation'] water ['relatedto'] melt
+ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] chocolate ['capableof'] melt
+ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] solid ['relatedto'] melt
+ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink ['isa', 'relatedto'] liquid ['relatedto'] melt
+ice ['isa', 'usedfor', 'relatedto', 'atlocation'] drink ['relatedto'] glass ['capableof', 'relatedto'] melt
+ice ['relatedto', 'atlocation'] freezer ['usedfor'] freeze ['antonym', 'distinctfrom'] melt
+ice ['relatedto', 'atlocation'] freezer ['atlocation'] ice_cream ['capableof'] melt
+ice ['atlocation'] fridge ['atlocation'] cheese ['relatedto'] melt
+ice ['relatedto', 'atlocation'] glass ['relatedto', 'atlocation'] water ['relatedto'] melt
+ice ['relatedto', 'atlocation'] glass ['antonym', 'isa', 'relatedto', 'hasproperty'] solid ['relatedto'] melt
+ice ['relatedto', 'atlocation'] glass ['relatedto'] liquid ['relatedto'] melt
+ice ['relatedto', 'atlocation'] glass ['antonym', 'distinctfrom', 'relatedto'] plastic ['capableof'] melt
+ice ['relatedto', 'atlocation'] glass ['relatedto', 'receivesaction'] melted ['formof', 'relatedto'] melt
+ice ['relatedto', 'atlocation'] glass ['relatedto'] molten ['formof', 'relatedto'] melt
+ice ['relatedto', 'atlocation'] refrigerator ['atlocation'] cheese ['relatedto'] melt
+ice ['atlocation'] water_cooler ['atlocation'] water ['relatedto'] melt
+ice ['atlocation'] water_cooler ['atlocation'] glass ['capableof', 'relatedto'] melt
+ice ['relatedto', 'atlocation'] winter ['relatedto'] freeze ['antonym', 'distinctfrom'] melt
+ice ['relatedto', 'atlocation'] winter ['relatedto'] snow ['relatedto'] melt
+ice ['derivedfrom'] ice_jack ['relatedto'] freeze ['antonym', 'distinctfrom'] melt
+ice ['relatedto', 'derivedfrom'] icehouse ['relatedto'] snow ['relatedto'] melt
+ice ['isa', 'relatedto', 'derivedfrom'] iceberg ['relatedto', 'atlocation'] water ['relatedto'] melt
+ice ['relatedto', 'derivedfrom'] icy ['relatedto'] snow ['relatedto'] melt
+ice ['distinctfrom'] fireplace ['relatedto'] heat ['relatedto'] melt
+ice ['distinctfrom', 'relatedto'] snow ['isa', 'relatedto', 'atlocation'] water ['relatedto'] melt
+ice ['distinctfrom', 'relatedto'] snow ['relatedto'] freeze ['antonym', 'distinctfrom'] melt
+ice ['distinctfrom', 'relatedto'] snow ['relatedto'] solid ['relatedto'] melt
+ice ['distinctfrom', 'relatedto'] snow ['relatedto'] thaw ['relatedto', 'synonym'] melt
+ice ['distinctfrom', 'relatedto'] snow ['relatedto'] liquid ['relatedto'] melt
+ice ['distinctfrom', 'relatedto'] snow ['antonym'] melted ['formof', 'relatedto'] melt
+ice ['distinctfrom', 'relatedto'] snow ['relatedto', 'derivedfrom'] snow_broth ['relatedto'] melt
+ice ['distinctfrom', 'relatedto'] snow ['relatedto'] deicer ['relatedto'] melt

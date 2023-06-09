@@ -1,0 +1,100 @@
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['mannerof'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] think ['hasprerequisite'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] remember ['hasprerequisite'] relax
+colleague ['isa'] employee ['relatedto'] work ['antonym'] relax
+colleague ['relatedto'] staff ['relatedto'] music ['usedfor', 'causesdesire'] relax
+colleague ['relatedto'] member ['etymologicallyrelatedto', 'relatedto'] remember ['hasprerequisite'] relax
+colleague ['relatedto'] organization ['relatedto'] clean ['haslastsubevent'] relax
+colleague ['relatedto'] organization ['isa'] pool ['usedfor'] relax
+colleague ['relatedto'] profession ['relatedto'] act ['mannerof'] relax
+colleague ['relatedto'] profession ['relatedto'] work ['antonym'] relax
+colleague ['relatedto'] profession ['isa'] music ['usedfor', 'causesdesire'] relax
+colleague ['relatedto'] college ['relatedto'] act ['mannerof'] relax
+colleague ['synonym'] co_worker ['atlocation'] work ['antonym'] relax
+colleague ['relatedto'] adjunct ['relatedto'] dispensable ['relatedto'] relax
+colleague ['relatedto'] nommunication ['relatedto'] work ['antonym'] relax
+colleague ['synonym'] workfellow ['relatedto'] work ['antonym'] relax
+colleague ['relatedto'] unite ['mannerof', 'relatedto', 'synonym'] join ['antonym', 'relatedto'] break ['relatedto'] relax
+colleague ['relatedto'] unite ['mannerof', 'relatedto', 'synonym'] join ['usedfor'] pool ['usedfor'] relax
+colleague ['relatedto'] unite ['etymologicallyrelatedto', 'relatedto'] unit ['relatedto'] act ['mannerof'] relax
+colleague ['relatedto'] unite ['etymologicallyrelatedto', 'relatedto'] unit ['relatedto'] home ['usedfor'] relax
+colleague ['relatedto'] unite ['etymologicallyrelatedto', 'relatedto'] unit ['isa'] den ['usedfor'] relax
+colleague ['relatedto'] unite ['mannerof'] club ['relatedto'] music ['usedfor', 'causesdesire'] relax
+colleague ['relatedto'] unite ['mannerof'] club ['relatedto'] spa ['usedfor'] relax
+colleague ['relatedto'] unite ['mannerof', 'relatedto'] marry ['relatedto'] act ['mannerof'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof', 'relatedto'] decay ['relatedto'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['isa', 'mannerof', 'relatedto'] break ['relatedto'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof', 'synonym'] affect ['mannerof'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] change_state ['mannerof'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] clean ['haslastsubevent'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] excite ['antonym'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] loosen ['mannerof', 'synonym'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] mellow ['relatedto'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof', 'relatedto'] swing ['relatedto'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] tense ['motivatedbygoal', 'relatedto'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['mannerof'] think ['hasprerequisite'] relax
+colleague ['relatedto'] unite ['mannerof'] change ['relatedto'] loose ['relatedto'] relax
+colleague ['relatedto'] unite ['relatedto'] buckle ['relatedto'] seat ['usedfor'] relax
+colleague ['relatedto'] unite ['relatedto'] concentrate ['hasprerequisite'] work ['antonym'] relax
+colleague ['relatedto'] unite ['relatedto'] concentrate ['mannerof', 'hasprerequisite'] think ['hasprerequisite'] relax
+colleague ['relatedto'] unite ['relatedto'] concentrate ['hasprerequisite'] remember ['hasprerequisite'] relax
+colleague ['relatedto'] unite ['relatedto'] concentrate ['mannerof', 'hasprerequisite'] listen ['haslastsubevent'] relax
+colleague ['relatedto'] unite ['relatedto'] concentrate ['mannerof'] change_state ['mannerof'] relax
+colleague ['relatedto'] unite ['relatedto'] conjugate ['mannerof'] change ['mannerof'] relax
+colleague ['relatedto'] unite ['relatedto'] cross_aisle ['relatedto'] seat ['usedfor'] relax
+colleague ['relatedto'] unite ['relatedto'] graft ['relatedto'] work ['antonym'] relax
+colleague ['relatedto'] unite ['relatedto'] team ['relatedto'] work ['antonym'] relax
+colleague ['relatedto'] unite ['relatedto', 'synonym'] unify ['mannerof'] change ['mannerof'] relax
+colleague ['relatedto'] unite ['relatedto'] union ['relatedto'] work ['antonym'] relax
+colleague ['relatedto'] unite ['relatedto'] bring ['synonym'] work ['antonym'] relax
+colleague ['relatedto'] unite ['relatedto'] bring ['mannerof'] change ['mannerof'] relax
+colleague ['relatedto'] unite ['relatedto'] bring ['synonym'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+colleague ['relatedto'] unite ['relatedto'] coming ['synonym'] orgasm ['causesdesire'] relax
+colleague ['relatedto'] unite ['relatedto'] put ['mannerof'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+colleague ['relatedto'] unite ['relatedto'] put ['mannerof'] repose ['synonym'] relax
+colleague ['relatedto'] unite ['relatedto'] put ['antonym'] break ['relatedto'] relax
+colleague ['relatedto'] unite ['relatedto'] put ['mannerof'] change ['mannerof'] relax
+colleague ['relatedto'] unite ['relatedto'] put ['mannerof'] seat ['usedfor'] relax
+colleague ['relatedto'] unite ['relatedto'] put ['relatedto'] swing ['relatedto'] relax
+colleague ['relatedto'] unite ['relatedto'] put_together ['antonym'] break ['relatedto'] relax
+colleague ['relatedto'] unite ['relatedto'] together ['antonym'] break ['relatedto'] relax
+colleague ['relatedto'] unite ['relatedto'] together ['relatedto'] garden ['usedfor'] relax
+colleague ['relatedto'] unite ['relatedto'] together ['relatedto'] loose ['relatedto'] relax
+colleague ['relatedto'] unite ['relatedto'] together ['relatedto'] music ['usedfor', 'causesdesire'] relax
+colleague ['relatedto'] unite ['relatedto'] coin ['isa', 'relatedto', 'atlocation'] change ['mannerof'] relax
+colleague ['relatedto'] unite ['relatedto'] coin ['relatedto'] loose ['relatedto'] relax
+colleague ['relatedto'] unite ['relatedto'] come ['mannerof'] change ['mannerof'] relax
+colleague ['relatedto'] unite ['relatedto'] come ['relatedto'] orgasm ['causesdesire'] relax
+colleague ['relatedto'] unite ['relatedto'] woman ['etymologicallyrelatedto', 'relatedto'] woman_cave ['relatedto'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto', 'synonym'] join ['antonym', 'relatedto'] break ['relatedto'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto', 'synonym'] join ['usedfor'] pool ['usedfor'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['relatedto'] listen ['haslastsubevent'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['relatedto'] remember ['hasprerequisite'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] act ['relatedto', 'synonym'] work ['antonym'] relax
+colleague ['isa', 'relatedto'] associate ['isa', 'relatedto'] adjunct ['relatedto'] dispensable ['relatedto'] relax
+colleague ['isa', 'relatedto'] associate ['isa', 'relatedto'] member ['etymologicallyrelatedto', 'relatedto'] remember ['hasprerequisite'] relax
+colleague ['isa', 'relatedto'] associate ['isa', 'relatedto', 'synonym'] partner ['mannerof'] act ['mannerof'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] think ['relatedto'] work ['antonym'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] think ['mannerof'] change ['mannerof'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] think ['hasfirstsubevent', 'hasprerequisite'] express_information ['hasprerequisite'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] think ['hasprerequisite'] release_energy ['motivatedbygoal'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] think ['motivatedbygoal', 'hasprerequisite'] sit_quietly ['motivatedbygoal', 'hasfirstsubevent'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] think ['motivatedbygoal', 'synonym'] remember ['hasprerequisite'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] remember ['relatedto'] act ['mannerof'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] remember ['motivatedbygoal', 'synonym'] think ['hasprerequisite'] relax
+colleague ['isa', 'relatedto'] associate ['mannerof'] remember ['hasprerequisite'] see_favorite_show ['motivatedbygoal'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] equal ['mannerof'] change ['mannerof'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] habit ['relatedto'] break ['relatedto'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] status ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] attendant ['relatedto'] work ['antonym'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] business ['antonym'] home ['usedfor'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] business ['relatedto'] work ['antonym'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] circumstance ['relatedto'] affect ['mannerof'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] ring ['relatedto'] music ['usedfor', 'causesdesire'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] unit ['relatedto'] act ['mannerof'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] unit ['relatedto'] home ['usedfor'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] unit ['isa'] den ['usedfor'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] association ['relatedto'] home ['usedfor'] relax
+colleague ['isa', 'relatedto'] associate ['relatedto'] company ['relatedto'] work ['antonym'] relax

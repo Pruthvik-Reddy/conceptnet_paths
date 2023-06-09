@@ -1,0 +1,100 @@
+load ['isa', 'relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto', 'synonym'] burden ['relatedto'] lighten
+load ['relatedto'] jetsam ['relatedto'] lighten
+load ['distinctfrom'] quiet ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['derivedfrom'] bear ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['derivedfrom'] bear ['relatedto'] burden ['relatedto'] lighten
+load ['derivedfrom'] bear ['relatedto'] lift ['relatedto'] lighten
+load ['synonym'] lot ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto'] carry ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] carry ['relatedto'] lift ['relatedto'] lighten
+load ['mannerof'] put ['antonym', 'relatedto'] lift ['relatedto'] lighten
+load ['mannerof'] put ['mannerof'] change ['mannerof'] lighten
+load ['relatedto', 'synonym'] charge ['mannerof'] change ['mannerof'] lighten
+load ['relatedto', 'synonym'] charge ['mannerof', 'relatedto', 'synonym'] burden ['relatedto'] lighten
+load ['mannerof', 'relatedto'] fill ['mannerof'] change ['mannerof'] lighten
+load ['relatedto'] force ['relatedto'] change ['mannerof'] lighten
+load ['relatedto'] force ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+load ['relatedto'] force ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto'] force ['relatedto'] lift ['relatedto'] lighten
+load ['relatedto'] surcharge ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] encumber ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] last ['relatedto'] burden ['relatedto'] lighten
+load ['isa', 'relatedto'] weight ['relatedto'] change ['mannerof'] lighten
+load ['isa', 'relatedto'] weight ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+load ['isa', 'relatedto'] weight ['relatedto'] lift ['relatedto'] lighten
+load ['isa', 'relatedto'] weight ['antonym', 'relatedto'] reduce ['relatedto'] lighten
+load ['isa', 'relatedto'] weight ['relatedto', 'synonym'] burden ['relatedto'] lighten
+load ['relatedto'] heavy ['relatedto'] serious ['relatedto'] lighten
+load ['relatedto'] heavy ['antonym', 'distinctfrom', 'relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+load ['relatedto'] heavy ['relatedto'] lift ['relatedto'] lighten
+load ['relatedto'] heavy ['antonym', 'relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto'] heavy ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] thunder ['relatedto'] bright ['relatedto'] lighten
+load ['relatedto'] thunder ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+load ['relatedto'] thunder ['antonym', 'distinctfrom', 'relatedto'] lightening ['formof', 'relatedto'] lighten
+load ['relatedto'] overcharge ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] unit ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['antonym'] unload ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+load ['formof', 'relatedto', 'derivedfrom'] loaded ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto', 'derivedfrom'] loadless ['relatedto'] burden ['relatedto'] lighten
+load ['derivedfrom'] payload ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['etymologicallyrelatedto', 'relatedto', 'synonym'] lade ['relatedto'] burden ['relatedto'] lighten
+load ['isa'] burthen ['formof', 'synonym'] burden ['relatedto'] lighten
+load ['isa'] fotmal ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['isa', 'relatedto', 'synonym'] carrus ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['isa', 'relatedto', 'synonym'] cartload ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['isa', 'relatedto', 'synonym'] fodder ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['isa', 'relatedto', 'synonym'] fother ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['mannerof'] transfer ['relatedto', 'synonym'] change ['mannerof'] lighten
+load ['relatedto'] bearing ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto', 'synonym'] burden ['relatedto', 'synonym'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto', 'synonym'] burden ['relatedto', 'derivedfrom'] unburden ['mannerof'] lighten
+load ['relatedto', 'synonym'] burden ['relatedto'] relevate ['relatedto'] lighten
+load ['relatedto'] cog ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] counterweight ['isa', 'relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto'] disburden ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] disburden ['relatedto', 'synonym'] unburden ['mannerof'] lighten
+load ['relatedto'] exonerate ['relatedto'] relieve ['synonym'] lighten
+load ['relatedto'] exonerate ['relatedto'] unburden ['mannerof'] lighten
+load ['relatedto'] forklift ['usedfor', 'derivedfrom'] lift ['relatedto'] lighten
+load ['relatedto'] fraught ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] jetsam ['etymologicallyrelatedto'] jettison ['relatedto'] lighten
+load ['relatedto'] jinny_road ['relatedto'] descend ['relatedto'] lighten
+load ['relatedto'] leer ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] cigarette ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+load ['relatedto'] magnetize ['mannerof'] change ['mannerof'] lighten
+load ['relatedto'] onerate ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] overlade ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] picul ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto'] shiralee ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] thrack ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] uncharge ['relatedto'] unburden ['mannerof'] lighten
+load ['relatedto'] unencumber ['relatedto'] burden ['relatedto'] lighten
+load ['synonym'] clog ['synonym'] burden ['relatedto'] lighten
+load ['synonym'] cargo ['relatedto'] lightening ['formof', 'relatedto'] lighten
+load ['relatedto'] demand ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] lighten
+load ['relatedto'] demand ['relatedto'] action ['relatedto'] lift ['relatedto'] lighten
+load ['relatedto'] demand ['relatedto'] action ['relatedto'] reduce ['relatedto'] lighten
+load ['relatedto'] demand ['synonym'] exact ['antonym'] change ['mannerof'] lighten
+load ['relatedto'] demand ['isa', 'mannerof'] call ['mannerof'] lift ['relatedto'] lighten
+load ['relatedto'] demand ['relatedto', 'similarto', 'synonym', 'isa', 'mannerof'] claim ['relatedto'] allege ['relatedto'] lighten
+load ['relatedto'] demand ['relatedto'] come ['mannerof'] change ['mannerof'] lighten
+load ['relatedto'] demand ['relatedto'] forcing ['relatedto'] change ['mannerof'] lighten
+load ['relatedto'] demand ['relatedto', 'synonym'] need ['relatedto'] serious ['relatedto'] lighten
+load ['relatedto'] demand ['relatedto', 'synonym'] need ['relatedto'] weight ['distinctfrom', 'relatedto'] lighten
+load ['relatedto'] demand ['relatedto'] rear ['relatedto', 'synonym'] lift ['relatedto'] lighten
+load ['relatedto'] demand ['relatedto'] string ['mannerof'] change ['mannerof'] lighten
+load ['relatedto'] demand ['relatedto'] strong ['relatedto'] bright ['relatedto'] lighten
+load ['relatedto'] demand ['relatedto'] urge ['synonym'] cheer ['mannerof'] lighten
+load ['relatedto'] demand ['relatedto'] plea ['relatedto'] allege ['relatedto'] lighten
+load ['relatedto'] demand ['relatedto'] tax ['relatedto'] burden ['relatedto'] lighten
+load ['relatedto'] demand ['synonym'] imposition ['isa', 'synonym'] burden ['relatedto'] lighten
+load ['distinctfrom'] quiet ['synonym'] abate ['relatedto', 'synonym'] reduce ['relatedto'] lighten
+load ['distinctfrom'] quiet ['synonym'] abate ['relatedto'] liss ['relatedto'] lighten
+load ['distinctfrom'] quiet ['synonym'] abate ['synonym'] alleviate ['relatedto'] lighten
+load ['distinctfrom'] quiet ['relatedto'] rest ['relatedto'] alight ['relatedto'] lighten
+load ['distinctfrom'] quiet ['relatedto'] rest ['relatedto'] light ['mannerof', 'relatedto', 'derivedfrom'] lighten
+load ['distinctfrom'] quiet ['relatedto'] rest ['synonym'] relieve ['synonym'] lighten
+load ['distinctfrom'] quiet ['relatedto'] adjective ['relatedto'] bright ['relatedto'] lighten
+load ['distinctfrom'] quiet ['antonym', 'distinctfrom'] loud ['relatedto'] bright ['relatedto'] lighten

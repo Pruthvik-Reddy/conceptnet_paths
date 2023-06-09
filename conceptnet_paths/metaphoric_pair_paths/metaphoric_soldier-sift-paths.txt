@@ -1,0 +1,100 @@
+soldier ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] butter ['antonym', 'relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] gun ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] private ['relatedto'] bolting ['relatedto'] sift
+soldier ['isa'] regular ['isa', 'relatedto'] size ['relatedto'] sift
+soldier ['motivatedbygoal'] kill ['relatedto'] fell ['relatedto'] sift
+soldier ['relatedto'] general ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] hackle ['relatedto'] separate ['mannerof', 'relatedto'] sift
+soldier ['relatedto'] lance ['mannerof'] travel ['mannerof'] sift
+soldier ['relatedto'] ranger ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] ranger ['relatedto'] sieve ['relatedto', 'synonym'] sift
+soldier ['relatedto'] rank ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] generic ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] guns ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] nest ['relatedto'] rice ['mannerof'] sift
+soldier ['relatedto'] toast ['isa', 'madeof', 'relatedto', 'instanceof'] bread ['relatedto'] sift
+soldier ['relatedto'] stale ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] tin ['relatedto'] lew ['relatedto'] sift
+soldier ['relatedto'] tin ['relatedto'] lue ['relatedto'] sift
+soldier ['usedfor'] killing ['isa'] fell ['relatedto'] sift
+soldier ['relatedto'] present ['antonym', 'distinctfrom', 'relatedto'] future ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] present ['antonym', 'distinctfrom', 'relatedto'] future ['relatedto'] travel ['mannerof'] sift
+soldier ['relatedto'] present ['antonym', 'distinctfrom', 'relatedto'] past ['relatedto'] fell ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto', 'atlocation'] box ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto', 'atlocation'] box ['relatedto'] screenwash ['relatedto'] sift
+soldier ['relatedto'] present ['isa', 'relatedto'] tense ['relatedto', 'synonym'] strain ['relatedto', 'synonym'] sift
+soldier ['relatedto'] present ['mannerof'] argue ['relatedto'] bolting ['relatedto'] sift
+soldier ['relatedto'] present ['mannerof'] constitute ['mannerof'] range ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] bounce ['mannerof'] travel ['mannerof'] sift
+soldier ['relatedto'] present ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] separate ['mannerof', 'relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] cake ['antonym', 'distinctfrom', 'relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] cake ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] collate ['relatedto'] examine ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto', 'synonym'] current ['relatedto'] winnow ['mannerof', 'relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] drink ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] eat ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] eat ['relatedto'] rice ['mannerof'] sift
+soldier ['relatedto'] present ['relatedto'] feed ['mannerof'] range ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] occur ['relatedto'] scatter ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] pass ['partof'] range ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] pass ['mannerof', 'relatedto'] travel ['mannerof'] sift
+soldier ['relatedto'] present ['relatedto'] pass ['relatedto'] filter ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] relationship ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] right ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] square ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] tree ['relatedto'] fell ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] focused ['relatedto'] filter ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] similar ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] vicinity ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] vicinity ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] staff ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto', 'synonym'] stage ['isa'] travel ['mannerof'] sift
+soldier ['relatedto'] present ['relatedto'] rise ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] rise ['formof', 'etymologicallyrelatedto'] rice ['mannerof'] sift
+soldier ['relatedto'] present ['relatedto'] rise ['mannerof'] travel ['mannerof'] sift
+soldier ['relatedto'] present ['relatedto'] run ['relatedto', 'synonym'] range ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] run ['mannerof', 'synonym'] travel ['mannerof'] sift
+soldier ['relatedto'] present ['relatedto'] screen ['isa', 'relatedto'] filter ['relatedto'] sift
+soldier ['relatedto'] present ['relatedto'] screen ['synonym'] sieve ['relatedto', 'synonym'] sift
+soldier ['relatedto'] present ['relatedto'] screen ['synonym'] riddle ['mannerof'] sift
+soldier ['relatedto'] present ['relatedto'] sieve_plate ['relatedto'] sieve ['relatedto', 'synonym'] sift
+soldier ['relatedto'] asexual ['relatedto'] pseudogyne ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] restrict ['mannerof'] classify ['synonym'] separate ['mannerof', 'relatedto'] sift
+soldier ['relatedto'] restrict ['mannerof'] classify ['mannerof', 'relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] restrict ['mannerof'] classify ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] restrict ['mannerof'] gate ['relatedto'] bolt ['relatedto'] sift
+soldier ['relatedto'] restrict ['mannerof'] reduce ['mannerof', 'relatedto'] separate ['mannerof', 'relatedto'] sift
+soldier ['relatedto'] restrict ['mannerof', 'relatedto', 'synonym'] limit ['isa', 'relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] restrict ['mannerof', 'relatedto', 'synonym'] limit ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] restrict ['relatedto'] constrain ['relatedto'] strain ['relatedto', 'synonym'] sift
+soldier ['relatedto'] restrict ['relatedto'] fetter ['relatedto'] bolt ['relatedto'] sift
+soldier ['relatedto'] restrict ['relatedto'] domain ['antonym', 'distinctfrom', 'relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] enemy ['relatedto'] accident ['relatedto'] fell ['relatedto'] sift
+soldier ['relatedto'] enemy ['relatedto'] relationship ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] enemy ['relatedto'] beak ['relatedto'] sifter ['relatedto', 'derivedfrom'] sift
+soldier ['relatedto'] enemy ['relatedto'] board ['relatedto'] riddle ['mannerof'] sift
+soldier ['relatedto'] enemy ['relatedto'] bullet ['relatedto'] bolt ['relatedto'] sift
+soldier ['relatedto'] enemy ['relatedto'] camouflage ['etymologicallyrelatedto'] fell ['relatedto'] sift
+soldier ['relatedto'] enemy ['relatedto'] cover ['mannerof'] bread ['relatedto'] sift
+soldier ['relatedto'] enemy ['relatedto'] zone ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] enemy ['relatedto'] force ['relatedto'] strain ['relatedto', 'synonym'] sift
+soldier ['relatedto'] enemy ['relatedto'] injury ['isa'] strain ['relatedto', 'synonym'] sift
+soldier ['relatedto'] enemy ['relatedto'] flea ['relatedto'] rice ['mannerof'] sift
+soldier ['relatedto'] enemy ['relatedto'] scramble ['mannerof'] travel ['mannerof'] sift
+soldier ['relatedto'] enemy ['relatedto'] sequester ['mannerof', 'relatedto'] separate ['mannerof', 'relatedto'] sift
+soldier ['relatedto'] man ['relatedto'] fire ['relatedto'] range ['relatedto'] sift
+soldier ['relatedto'] man ['relatedto'] fire ['relatedto'] ree ['relatedto'] sift
+soldier ['relatedto'] man ['antonym', 'distinctfrom'] animal ['relatedto'] flock ['relatedto'] sift
+soldier ['relatedto'] man ['relatedto'] bird ['relatedto', 'partof'] flock ['relatedto'] sift
+soldier ['relatedto'] man ['antonym'] dress ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] man ['distinctfrom'] machine ['usedfor'] filter ['relatedto'] sift
+soldier ['relatedto'] man ['isa'] black ['hasproperty'] rice ['mannerof'] sift
+soldier ['relatedto'] man ['isa'] white ['relatedto', 'hasproperty'] bread ['relatedto'] sift
+soldier ['relatedto'] man ['isa'] white ['relatedto', 'hasproperty'] rice ['mannerof'] sift
+soldier ['relatedto'] man ['mannerof', 'relatedto'] staff ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] man ['relatedto'] blood ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] man ['relatedto'] board ['relatedto'] riddle ['mannerof'] sift
+soldier ['relatedto'] man ['relatedto'] body ['relatedto'] bread ['relatedto'] sift
+soldier ['relatedto'] man ['relatedto'] body ['relatedto'] size ['relatedto'] sift
+soldier ['relatedto'] man ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] separate ['mannerof', 'relatedto'] sift

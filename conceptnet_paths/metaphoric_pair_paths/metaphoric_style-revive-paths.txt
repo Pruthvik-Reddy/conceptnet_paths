@@ -1,0 +1,100 @@
+style ['relatedto'] post ['relatedto', 'derivedfrom'] necropost ['relatedto'] revive
+style ['relatedto'] art ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] good ['relatedto'] comfort ['synonym'] revive
+style ['relatedto'] good ['hasproperty'] life ['relatedto'] revive
+style ['relatedto'] spiritual ['relatedto'] regenerate ['mannerof'] revive
+style ['relatedto'] spiritual ['relatedto'] remodernism ['relatedto'] revive
+style ['relatedto'] print ['mannerof', 'relatedto'] republish ['mannerof'] revive
+style ['relatedto'] record ['relatedto'] vital ['relatedto'] revive
+style ['relatedto'] fit ['hasa'] survive ['etymologicallyrelatedto'] revive
+style ['relatedto'] tail ['isa', 'relatedto'] rear ['relatedto'] revive
+style ['relatedto'] look ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] perpendicular ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] sound ['mannerof'] boom ['mannerof'] revive
+style ['relatedto', 'derivedfrom'] lifestyle ['derivedfrom'] life ['relatedto'] revive
+style ['isa'] direction ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] modernism ['relatedto', 'derivedfrom'] remodernism ['relatedto'] revive
+style ['relatedto'] postmodernism ['relatedto'] remodernism ['relatedto'] revive
+style ['relatedto'] renaissance ['relatedto'] revival ['relatedto'] revive
+style ['relatedto'] ground ['synonym'] establish ['synonym'] rear ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] child ['usedfor'] comfort ['synonym'] revive
+style ['relatedto'] ground ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] freshen ['relatedto'] revive
+style ['relatedto'] ground ['mannerof', 'relatedto', 'synonym', 'atlocation'] earth ['relatedto', 'atlocation'] life ['relatedto'] revive
+style ['relatedto'] ground ['antonym', 'relatedto'] water ['isa', 'relatedto', 'hasprerequisite'] life ['relatedto'] revive
+style ['relatedto'] ground ['antonym'] whole ['etymologicallyrelatedto'] heal ['relatedto'] revive
+style ['relatedto'] ground ['relatedto', 'atlocation'] hole ['etymologicallyrelatedto'] heal ['relatedto'] revive
+style ['relatedto'] ground ['atlocation'] poop ['locatednear', 'causes', 'createdby'] life ['relatedto'] revive
+style ['relatedto'] ground ['atlocation'] trash ['relatedto'] recover ['relatedto'] revive
+style ['relatedto'] ground ['relatedto', 'atlocation'] well ['relatedto'] heal ['relatedto'] revive
+style ['relatedto'] ground ['formof', 'relatedto'] grounding ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] ground ['mannerof'] throw ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] ground ['mannerof'] reach ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] ground ['mannerof'] reach ['relatedto'] recover ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] army ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] bottom ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] end ['capableof'] life ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] field ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] foot ['relatedto'] boom ['mannerof'] revive
+style ['relatedto'] ground ['relatedto'] foot ['relatedto'] heal ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] everything ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] hard ['hasproperty'] life ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] house ['usedfor'] comfort ['synonym'] revive
+style ['relatedto'] ground ['relatedto'] low ['relatedto'] vitality ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] place ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] plant ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] walk ['relatedto'] quicken ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] stadium ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] body ['relatedto'] heal ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] improve ['relatedto'] regenerate ['mannerof'] revive
+style ['relatedto'] ground ['relatedto'] line ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] half_volley ['isa'] return ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] kill ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] kill ['relatedto'] unkill ['synonym'] revive
+style ['relatedto'] ground ['relatedto'] metal ['relatedto'] revivification ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] post ['relatedto', 'derivedfrom'] necropost ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] road ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] seed ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] stage ['relatedto'] restage ['synonym'] revive
+style ['relatedto'] ground ['relatedto'] tailstrike ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] ground ['relatedto'] volley ['isa'] return ['relatedto'] revive
+style ['relatedto'] ground ['synonym'] prime ['relatedto'] renew ['relatedto', 'synonym'] revive
+style ['relatedto'] ground ['synonym'] motivation ['isa'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] age ['relatedto', 'partof'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] age ['relatedto'] vital ['relatedto'] revive
+style ['relatedto'] modern ['antonym', 'distinctfrom'] old ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto', 'synonym'] new ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] renew ['relatedto', 'synonym'] revive
+style ['relatedto'] modern ['relatedto', 'synonym'] new ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] modern ['distinctfrom'] past ['partof'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] art ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] days ['isa', 'relatedto'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] period ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] post ['relatedto', 'derivedfrom'] necropost ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] time ['synonym'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] time_period ['isa'] life ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] modernism ['relatedto', 'derivedfrom'] remodernism ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] renaissance ['relatedto'] revival ['relatedto'] revive
+style ['relatedto'] modern ['relatedto'] strawberry_generation ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] old ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] behind ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] dead ['antonym', 'distinctfrom', 'relatedto'] life ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] dead ['derivedfrom'] clinically_dead ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] dead ['relatedto'] resurrect ['synonym'] revive
+style ['relatedto'] post ['mannerof'] call ['relatedto'] boom ['mannerof'] revive
+style ['relatedto'] post ['mannerof'] call ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] post ['mannerof'] record ['relatedto'] vital ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] bed ['relatedto', 'atlocation'] comfort ['synonym'] revive
+style ['relatedto'] post ['relatedto'] bump ['relatedto'] boom ['mannerof'] revive
+style ['relatedto'] post ['relatedto'] file_closer ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] heel ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] army ['relatedto'] rear ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] barrier ['relatedto'] boom ['mannerof'] revive
+style ['relatedto'] post ['relatedto'] beam ['etymologicallyrelatedto'] boom ['mannerof'] revive
+style ['relatedto'] post ['relatedto'] cereal ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] entry ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] meridian ['relatedto'] vital ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] part ['relatedto'] heal ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] past ['partof'] life ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] pole ['isa', 'relatedto'] boom ['mannerof'] revive
+style ['relatedto'] post ['relatedto'] reply ['relatedto'] return ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] road ['relatedto'] life ['relatedto'] revive
+style ['relatedto'] post ['relatedto'] send ['relatedto'] return ['relatedto'] revive

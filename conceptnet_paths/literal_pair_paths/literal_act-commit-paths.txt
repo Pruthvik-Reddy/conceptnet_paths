@@ -1,0 +1,100 @@
+act ['isa', 'relatedto'] crime ['relatedto'] commit
+act ['mannerof'] perpetrate ['relatedto', 'synonym'] commit
+act ['relatedto'] give ['synonym'] commit
+act ['relatedto'] keep ['relatedto'] commit
+act ['relatedto'] sin ['relatedto'] commit
+act ['relatedto'] sleuth ['relatedto'] commit
+act ['synonym'] bill ['relatedto'] commit
+act ['relatedto'] purpose ['relatedto'] burglary ['relatedto'] commit
+act ['relatedto'] purpose ['relatedto'] convert ['relatedto'] commit
+act ['relatedto'] purpose ['relatedto'] invest ['relatedto', 'synonym'] commit
+act ['relatedto'] purpose ['relatedto'] motive ['relatedto'] commit
+act ['antonym'] nothing ['relatedto'] jurat ['relatedto'] commit
+act ['antonym'] real ['relatedto'] occur ['relatedto'] commit
+act ['antonym'] band ['etymologicallyrelatedto'] bind ['relatedto'] commit
+act ['antonym'] band ['partof'] section ['relatedto'] commit
+act ['causes'] compel ['relatedto', 'synonym'] obligate ['relatedto'] commit
+act ['causes'] direct ['relatedto'] delegate ['relatedto'] commit
+act ['causes'] direct ['synonym'] send ['synonym'] commit
+act ['causes'] incite ['relatedto'] motive ['relatedto'] commit
+act ['causes'] incite ['relatedto'] suborn ['relatedto'] commit
+act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] join ['relatedto'] commit
+act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] charge ['relatedto', 'synonym'] commit
+act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] bad ['relatedto'] commit
+act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] committed ['formof', 'relatedto'] commit
+act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] give ['synonym'] commit
+act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] keep ['relatedto'] commit
+act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] practice ['synonym'] commit
+act ['isa', 'relatedto', 'derivedfrom'] action ['relatedto'] sin ['relatedto'] commit
+act ['relatedto', 'derivedfrom'] actor ['relatedto'] transaction ['relatedto'] commit
+act ['derivedfrom'] criminal_act ['relatedto', 'synonym'] crime ['relatedto'] commit
+act ['mannerof', 'relatedto', 'derivedfrom'] enact ['relatedto'] bill ['relatedto'] commit
+act ['derivedfrom'] read_someone_riot_act ['relatedto'] give ['synonym'] commit
+act ['distinctfrom', 'relatedto', 'partof'] scene ['relatedto'] section ['relatedto'] commit
+act ['entails'] enter ['relatedto'] join ['relatedto'] commit
+act ['entails'] enter ['relatedto'] file ['relatedto'] commit
+act ['etymologicallyrelatedto'] agitate ['synonym'] charge ['relatedto', 'synonym'] commit
+act ['formof', 'relatedto'] acts ['relatedto'] crime ['relatedto'] commit
+act ['mannerof', 'relatedto', 'hasprerequisite'] perform ['mannerof'] give ['synonym'] commit
+act ['mannerof', 'relatedto', 'hasprerequisite'] perform ['hasprerequisite'] practice ['synonym'] commit
+act ['hasproperty'] bold ['relatedto'] bad ['relatedto'] commit
+act ['isa'] event ['relatedto'] expose ['relatedto'] commit
+act ['isa'] event ['relatedto'] occur ['relatedto'] commit
+act ['isa'] event ['isa'] transfer ['mannerof'] commit
+act ['isa', 'relatedto'] performance ['hasproperty'] bad ['relatedto'] commit
+act ['isa', 'relatedto'] performance ['antonym', 'relatedto'] practice ['synonym'] commit
+act ['isa'] legal_document ['isa'] bill ['relatedto'] commit
+act ['isa'] activity ['relatedto'] join ['relatedto'] commit
+act ['isa'] activity ['isa', 'relatedto'] crime ['relatedto'] commit
+act ['isa'] activity ['isa', 'relatedto'] practice ['synonym'] commit
+act ['isa'] activity ['relatedto'] sin ['relatedto'] commit
+act ['isa'] communication ['relatedto'] transfer ['mannerof'] commit
+act ['isa'] communication ['relatedto'] motive ['relatedto'] commit
+act ['isa'] communication ['relatedto'] send ['synonym'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] bad ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] charge ['relatedto', 'synonym'] commit
+act ['isa', 'relatedto'] crime ['receivesaction'] committed ['formof', 'relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] accuse ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] bail_bandit ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] beat_rap ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] burglary ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] committer ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] sin ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] practice ['synonym'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] fratricide ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] jurat ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] motive ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] perpetrate ['relatedto', 'synonym'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] reoffence ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] sleuth ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] suspect ['relatedto'] commit
+act ['isa', 'relatedto'] crime ['relatedto'] three_strikes ['relatedto'] commit
+act ['isa'] forfeit ['relatedto'] give ['synonym'] commit
+act ['isa'] forfeit ['relatedto'] match ['relatedto'] commit
+act ['isa'] group_action ['isa'] transaction ['relatedto'] commit
+act ['isa'] hindrance ['isa'] bind ['relatedto'] commit
+act ['isa'] implementation ['isa'] practice ['synonym'] commit
+act ['isa'] judgment ['relatedto'] bad ['relatedto'] commit
+act ['isa'] motivation ['relatedto', 'synonym'] motive ['relatedto'] commit
+act ['isa'] piracy ['relatedto'] hostis_humani_generis ['relatedto'] commit
+act ['isa'] ritual ['isa'] practice ['synonym'] commit
+act ['isa'] speech_act ['isa'] promise ['etymologicallyrelatedto', 'relatedto'] commit
+act ['isa'] stay ['mannerof'] keep ['relatedto'] commit
+act ['isa'] stop ['antonym'] keep ['relatedto'] commit
+act ['isa'] waste ['relatedto'] bad ['relatedto'] commit
+act ['isa'] waste ['antonym'] keep ['relatedto'] commit
+act ['mannerof'] serve ['isa', 'relatedto'] fault ['relatedto'] commit
+act ['mannerof'] attack ['isa'] crime ['relatedto'] commit
+act ['mannerof'] attack ['isa', 'relatedto'] charge ['relatedto', 'synonym'] commit
+act ['mannerof'] bank ['relatedto'] keep ['relatedto'] commit
+act ['mannerof'] bank ['relatedto'] repository ['relatedto'] commit
+act ['mannerof'] bank ['relatedto'] transfer ['mannerof'] commit
+act ['mannerof'] bank ['relatedto'] bill ['relatedto'] commit
+act ['mannerof'] bank ['synonym'] trust ['relatedto'] commit
+act ['mannerof'] begin ['relatedto'] keep ['relatedto'] commit
+act ['mannerof'] continue ['mannerof', 'relatedto', 'synonym'] keep ['relatedto'] commit
+act ['mannerof'] cope ['relatedto'] match ['relatedto'] commit
+act ['mannerof'] court ['relatedto'] jurat ['relatedto'] commit
+act ['mannerof'] create ['relatedto'] invest ['relatedto', 'synonym'] commit
+act ['mannerof'] criticize ['relatedto'] fault ['relatedto'] commit
+act ['mannerof', 'relatedto'] deal ['relatedto'] give ['synonym'] commit

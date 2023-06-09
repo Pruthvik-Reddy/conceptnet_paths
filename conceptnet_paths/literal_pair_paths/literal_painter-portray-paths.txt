@@ -1,0 +1,100 @@
+painter ['isa'] line ['relatedto'] portray
+painter ['relatedto'] picture ['relatedto'] portray
+painter ['capableof', 'relatedto', 'derivedfrom'] paint ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] present ['synonym'] portray
+painter ['relatedto'] art ['relatedto'] draw ['relatedto'] portray
+painter ['relatedto'] art ['relatedto'] paint ['relatedto'] portray
+painter ['relatedto'] art ['relatedto'] picture ['relatedto'] portray
+painter ['relatedto'] art ['relatedto'] social_realism ['relatedto'] portray
+painter ['isa', 'relatedto'] artist ['capableof', 'relatedto'] draw ['relatedto'] portray
+painter ['isa', 'relatedto'] artist ['capableof', 'relatedto'] paint ['relatedto'] portray
+painter ['isa', 'relatedto'] artist ['relatedto'] picture ['relatedto'] portray
+painter ['relatedto'] work ['relatedto', 'synonym'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] work ['atlocation'] paint ['relatedto'] portray
+painter ['relatedto'] work ['relatedto'] draw ['relatedto'] portray
+painter ['isa'] line ['relatedto'] represent ['mannerof', 'relatedto'] portray
+painter ['relatedto'] color ['relatedto'] description ['relatedto'] portray
+painter ['relatedto'] color ['relatedto'] draw ['relatedto'] portray
+painter ['relatedto'] color ['relatedto'] paint ['relatedto'] portray
+painter ['relatedto'] color ['relatedto'] picture ['relatedto'] portray
+painter ['relatedto'] picture ['synonym'] show ['relatedto'] portray
+painter ['relatedto'] picture ['mannerof'] represent ['mannerof', 'relatedto'] portray
+painter ['relatedto'] picture ['relatedto'] describe ['relatedto', 'synonym'] portray
+painter ['relatedto'] picture ['relatedto'] draw ['relatedto'] portray
+painter ['relatedto'] picture ['relatedto', 'similarto', 'synonym'] image ['relatedto'] portray
+painter ['relatedto'] picture ['relatedto'] paint ['relatedto'] portray
+painter ['relatedto'] picture ['relatedto'] portrait ['relatedto'] portray
+painter ['relatedto'] picture ['relatedto', 'synonym'] depict ['relatedto', 'synonym'] portray
+painter ['capableof', 'relatedto', 'derivedfrom'] paint ['relatedto'] picture ['relatedto'] portray
+painter ['capableof', 'relatedto', 'derivedfrom'] paint ['antonym', 'distinctfrom', 'relatedto'] draw ['relatedto'] portray
+painter ['capableof', 'relatedto', 'derivedfrom'] paint ['mannerof'] represent ['mannerof', 'relatedto'] portray
+painter ['capableof', 'relatedto', 'derivedfrom'] paint ['relatedto'] limn ['synonym'] portray
+painter ['relatedto'] painting ['isa', 'relatedto', 'synonym'] picture ['relatedto'] portray
+painter ['relatedto'] painting ['antonym', 'relatedto'] draw ['relatedto'] portray
+painter ['relatedto'] painting ['usedfor', 'relatedto', 'derivedfrom', 'formof', 'hasprerequisite'] paint ['relatedto'] portray
+painter ['relatedto'] painting ['isa'] image ['relatedto'] portray
+painter ['relatedto'] painting ['relatedto'] portrait ['relatedto'] portray
+painter ['relatedto'] job ['relatedto'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] job ['relatedto'] character ['relatedto'] portray
+painter ['relatedto'] job ['relatedto'] role ['relatedto'] portray
+painter ['relatedto'] title ['relatedto'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] brush ['antonym', 'usedfor', 'relatedto'] paint ['relatedto'] portray
+painter ['relatedto'] profession ['relatedto'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] yes ['relatedto'] flatter ['relatedto'] portray
+painter ['relatedto'] drawer ['relatedto'] draw ['relatedto'] portray
+painter ['relatedto'] rope ['isa', 'relatedto', 'synonym'] line ['relatedto'] portray
+painter ['relatedto'] surface ['relatedto'] line ['relatedto'] portray
+painter ['relatedto'] surface ['relatedto'] paint ['relatedto'] portray
+painter ['capableof'] coat_house ['capableof'] paint ['relatedto'] portray
+painter ['capableof'] coat_wall ['capableof'] paint ['relatedto'] portray
+painter ['capableof'] coat_walls ['capableof', 'relatedto'] paint ['relatedto'] portray
+painter ['derivedfrom'] paintery ['relatedto', 'derivedfrom'] paint ['relatedto'] portray
+painter ['isa'] impressionist ['relatedto'] method ['relatedto'] portray
+painter ['isa'] miniaturist ['relatedto'] paint ['relatedto'] portray
+painter ['isa', 'relatedto'] portraitist ['relatedto'] portrait ['relatedto'] portray
+painter ['isa', 'relatedto'] portraitist ['synonym'] portrayer ['relatedto', 'derivedfrom'] portray
+painter ['relatedto'] paintbrush ['relatedto', 'derivedfrom'] paint ['relatedto'] portray
+painter ['relatedto'] picasso ['relatedto'] paint ['relatedto'] portray
+painter ['relatedto'] picturer ['relatedto'] picture ['relatedto'] portray
+painter ['relatedto'] reynoldsian ['relatedto'] portrait ['relatedto'] portray
+painter ['relatedto'] self_portrait ['isa', 'relatedto', 'derivedfrom'] portrait ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] present ['relatedto', 'synonym'] show ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] present ['relatedto', 'synonym'] represent ['mannerof', 'relatedto'] portray
+painter ['relatedto'] bow ['antonym', 'relatedto'] arrow ['relatedto'] draw ['relatedto'] portray
+painter ['relatedto'] bow ['antonym', 'relatedto'] arrow ['relatedto'] line ['relatedto'] portray
+painter ['relatedto'] bow ['mannerof', 'relatedto', 'derivedfrom'] take_bow ['relatedto'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] bow ['formof', 'relatedto'] bows ['relatedto'] present ['synonym'] portray
+painter ['relatedto'] bow ['haslastsubevent'] dance ['relatedto'] show ['relatedto'] portray
+painter ['relatedto'] bow ['haslastsubevent'] entertain_people ['usedfor'] show ['relatedto'] portray
+painter ['relatedto'] bow ['haslastsubevent'] perform ['mannerof', 'relatedto', 'hasprerequisite'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] bow ['haslastsubevent'] perform ['relatedto'] hillbilly ['relatedto'] portray
+painter ['relatedto'] bow ['haslastsubevent'] sing ['usedfor', 'relatedto'] voice ['relatedto'] portray
+painter ['relatedto'] bow ['isa'] stroke ['relatedto'] line ['relatedto'] portray
+painter ['relatedto'] bow ['isa'] stroke ['mannerof'] flatter ['relatedto'] portray
+painter ['relatedto'] bow ['isa'] decoration ['relatedto'] adorn ['relatedto'] portray
+painter ['relatedto'] bow ['isa'] decoration ['relatedto'] picture ['relatedto'] portray
+painter ['relatedto'] bow ['isa'] decoration ['relatedto'] paint ['relatedto'] portray
+painter ['relatedto'] bow ['isa', 'relatedto'] front ['relatedto'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] bow ['isa', 'relatedto'] front ['relatedto'] line ['relatedto'] portray
+painter ['relatedto'] bow ['isa', 'relatedto'] front ['relatedto'] show ['relatedto'] portray
+painter ['relatedto'] bow ['isa'] curve ['antonym', 'isa', 'relatedto'] line ['relatedto'] portray
+painter ['relatedto'] bow ['usedfor', 'mannerof', 'relatedto'] play ['mannerof', 'relatedto', 'partof', 'synonym'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] bow ['usedfor', 'mannerof', 'relatedto'] play ['atlocation'] line ['relatedto'] portray
+painter ['relatedto'] bow ['usedfor', 'mannerof', 'relatedto'] play ['relatedto'] character ['relatedto'] portray
+painter ['relatedto'] bow ['usedfor', 'mannerof', 'relatedto'] play ['isa', 'relatedto'] show ['relatedto'] portray
+painter ['relatedto'] bow ['usedfor', 'mannerof', 'relatedto'] play ['atlocation'] role ['relatedto'] portray
+painter ['relatedto'] bow ['mannerof', 'relatedto'] congee ['relatedto'] someone ['relatedto'] portray
+painter ['relatedto'] bow ['mannerof', 'relatedto'] congee ['relatedto'] show ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto', 'partof'] ship ['relatedto', 'atlocation'] port ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto', 'partof'] ship ['relatedto'] line ['relatedto'] portray
+painter ['relatedto'] bow ['partof'] vessel ['relatedto', 'atlocation'] port ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto', 'partof'] bowstring ['relatedto'] draw ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] amidships ['relatedto'] line ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] articulation ['synonym'] voice ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] bark ['relatedto'] voice ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] bend ['relatedto'] line ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] partner ['mannerof'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] bow ['relatedto'] performance ['isa', 'relatedto'] act ['relatedto', 'synonym'] portray
+painter ['relatedto'] bow ['relatedto'] performance ['isa', 'relatedto', 'atlocation'] show ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] type ['isa', 'relatedto', 'synonym'] character ['relatedto'] portray
+painter ['relatedto'] bow ['relatedto'] type ['relatedto'] show ['relatedto'] portray

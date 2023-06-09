@@ -1,0 +1,100 @@
+crocodile ['relatedto'] water ['antonym', 'relatedto'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] fish ['relatedto'] crawl
+crocodile ['relatedto'] water ['hasprerequisite'] climb ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto'] body ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto'] rapid ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto'] stroke ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto'] swim ['mannerof', 'relatedto'] crawl
+crocodile ['isa', 'relatedto'] reptile ['relatedto'] fish ['relatedto'] crawl
+crocodile ['relatedto'] captain_hook ['relatedto'] hand ['relatedto'] crawl
+crocodile ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] crawl
+crocodile ['relatedto'] animal ['isa'] coon ['relatedto'] crawl
+crocodile ['relatedto'] animal ['isa', 'relatedto'] crab ['etymologicallyrelatedto'] crawl
+crocodile ['relatedto'] animal ['isa', 'relatedto'] fish ['relatedto'] crawl
+crocodile ['relatedto'] animal ['isa', 'relatedto'] worm ['relatedto'] crawl
+crocodile ['relatedto'] animal ['relatedto'] body ['relatedto'] crawl
+crocodile ['relatedto'] animal ['relatedto'] movement ['relatedto'] crawl
+crocodile ['relatedto'] animal ['relatedto'] baby ['relatedto'] crawl
+crocodile ['relatedto'] animal ['relatedto'] fawn ['synonym'] crawl
+crocodile ['relatedto'] animal ['relatedto'] move ['relatedto'] crawl
+crocodile ['relatedto'] crocoduck ['relatedto'] body ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] underground ['relatedto', 'derivedfrom'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] underground ['relatedto'] worm ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto'] concrete ['madeof', 'relatedto'] floor ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto'] concrete ['relatedto'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] air ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] earth ['relatedto'] human ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] earth ['mannerof', 'relatedto', 'synonym', 'atlocation'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] earth ['relatedto'] floor ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] ground ['distinctfrom', 'relatedto'] floor ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] ground ['relatedto'] walk ['antonym', 'relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] ground ['relatedto'] body ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] ground ['relatedto'] stake ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] ground ['relatedto'] worm ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] action ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto', 'synonym'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] land ['isa', 'relatedto'] floor ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] bread ['relatedto'] body ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'synonym'] burn ['relatedto'] action ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'synonym'] burn ['mannerof'] feel ['mannerof'] crawl
+crocodile ['relatedto'] water ['antonym', 'synonym'] burn ['relatedto'] stake ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] action ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['causes', 'relatedto', 'synonym'] run ['antonym'] crawl
+crocodile ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['isa', 'relatedto'] movement ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['isa', 'relatedto'] motion ['isa', 'relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['mannerof', 'relatedto'] move ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] creep ['relatedto', 'synonym'] crawl
+crocodile ['relatedto'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] human ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] baby ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['mannerof'] draw ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['usedfor', 'relatedto'] babies ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] infant ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto', 'atlocation'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] feel ['mannerof'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto', 'atlocation'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] fish ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] hand ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['causesdesire', 'relatedto'] climb ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['mannerof', 'relatedto'] move ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] creep ['relatedto', 'synonym'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] sand ['isa', 'relatedto', 'atlocation'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] sand ['relatedto'] floor ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] sand ['atlocation'] crab ['etymologicallyrelatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] sky ['antonym', 'distinctfrom', 'relatedto'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] sky ['antonym'] floor ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] sky ['relatedto'] kick ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] soap ['relatedto'] body ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] soap ['relatedto'] hand ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] move ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['mannerof', 'relatedto'] travel ['mannerof'] crawl
+crocodile ['relatedto'] water ['antonym', 'isa'] food ['atlocation'] crab ['etymologicallyrelatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'isa'] food ['isa', 'relatedto', 'desires'] fish ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'isa'] food ['relatedto'] hand ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'isa'] food ['usedfor'] body ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['atlocation'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] wave ['relatedto'] action ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] wave ['relatedto'] hand ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] wave ['relatedto'] move ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] wave ['isa', 'relatedto'] movement ['relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] wave ['isa', 'relatedto'] motion ['isa', 'relatedto'] crawl
+crocodile ['relatedto'] water ['antonym', 'relatedto'] wave ['relatedto', 'similarto'] flutter ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] algae ['relatedto'] fish ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] bacteria ['atlocation'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] bass ['isa', 'relatedto'] fish ['relatedto'] crawl
+crocodile ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] bay ['relatedto'] body ['relatedto'] crawl
+crocodile ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] bay ['atlocation'] crab ['etymologicallyrelatedto'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] boat ['atlocation'] human ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] boat ['atlocation'] fish ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] boat ['relatedto'] movement ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] boat ['usedfor', 'relatedto'] travel ['mannerof'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] boat ['relatedto'] stroke ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] bottom ['relatedto'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] bottom ['relatedto'] baby ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] bottom ['relatedto'] body ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] bottom ['relatedto'] floor ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] bugs ['atlocation'] ground ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] canoe ['atlocation'] human ['relatedto'] crawl
+crocodile ['relatedto'] water ['relatedto', 'atlocation'] catfish ['isa', 'relatedto'] fish ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] coral_reef ['atlocation'] fish ['relatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] coral_reef ['atlocation'] crab ['etymologicallyrelatedto'] crawl
+crocodile ['relatedto'] water ['atlocation'] crayfish ['relatedto'] crab ['etymologicallyrelatedto'] crawl

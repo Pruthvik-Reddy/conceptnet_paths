@@ -1,0 +1,100 @@
+garbage ['atlocation'] ground ['relatedto'] flush
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'hasproperty', 'synonym'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto'] purging ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto'] turn ['relatedto'] flush
+garbage ['atlocation'] ground ['relatedto', 'derivedfrom'] underground ['relatedto'] flush
+garbage ['atlocation'] ground ['antonym', 'relatedto'] water ['mannerof', 'relatedto'] flush
+garbage ['atlocation'] ground ['relatedto'] grade ['mannerof'] flush
+garbage ['atlocation'] ground ['relatedto'] level ['synonym'] flush
+garbage ['relatedto', 'synonym'] junk ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] cover ['relatedto'] action ['relatedto'] flush
+garbage ['relatedto'] cover ['isa', 'relatedto'] concealment ['relatedto'] flush
+garbage ['relatedto'] cover ['mannerof'] flash ['relatedto'] flush
+garbage ['relatedto'] cover ['mannerof'] flood ['relatedto'] flush
+garbage ['atlocation'] floor ['distinctfrom', 'relatedto'] ground ['relatedto'] flush
+garbage ['atlocation'] floor ['relatedto', 'hasproperty', 'synonym'] level ['synonym'] flush
+garbage ['atlocation'] floor ['relatedto'] roller_bed ['relatedto'] flush
+garbage ['atlocation'] paper ['relatedto'] hand ['relatedto'] flush
+garbage ['atlocation'] paper ['antonym', 'distinctfrom', 'relatedto', 'isa'] card ['relatedto'] flush
+garbage ['atlocation'] paper ['relatedto'] draw ['relatedto'] flush
+garbage ['atlocation'] paper ['relatedto'] royal ['relatedto'] flush
+garbage ['atlocation'] paper ['relatedto'] waste ['relatedto'] flush
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['isa'] act ['relatedto'] flush
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['mannerof'] run ['causes', 'mannerof'] flush
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['relatedto'] purging ['relatedto'] flush
+garbage ['isa', 'usedfor', 'relatedto', 'synonym'] waste ['usedfor', 'relatedto'] toilet ['capableof', 'relatedto'] flush
+garbage ['relatedto'] dirt ['relatedto', 'atlocation'] ground ['relatedto'] flush
+garbage ['relatedto'] dirt ['relatedto'] flower ['synonym'] flush
+garbage ['relatedto'] dirt ['relatedto'] cleanse ['relatedto'] flush
+garbage ['relatedto'] dirt ['relatedto'] placer ['relatedto'] flush
+garbage ['relatedto'] disposable ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] entropy ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] fly ['relatedto'] action ['relatedto'] flush
+garbage ['relatedto'] fly ['relatedto'] ground ['relatedto'] flush
+garbage ['relatedto'] fly ['capableof', 'relatedto', 'desires'] bird ['relatedto'] flush
+garbage ['relatedto'] fly ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] fly ['relatedto'] high ['relatedto'] flush
+garbage ['relatedto'] sink ['relatedto', 'atlocation'] water ['mannerof', 'relatedto'] flush
+garbage ['relatedto'] sink ['relatedto', 'derivedfrom'] countersink ['relatedto'] flush
+garbage ['relatedto'] sink ['relatedto'] toilet ['capableof', 'relatedto'] flush
+garbage ['atlocation'] flies ['relatedto'] bird ['relatedto'] flush
+garbage ['atlocation'] fungus ['atlocation'] ground ['relatedto'] flush
+garbage ['capableof', 'atlocation'] container ['atlocation'] water ['mannerof', 'relatedto'] flush
+garbage ['capableof', 'atlocation'] container ['relatedto', 'atlocation'] fluid ['relatedto'] flush
+garbage ['capableof', 'atlocation'] container ['relatedto'] roller_bed ['relatedto'] flush
+garbage ['relatedto', 'atlocation'] dump ['relatedto'] waste ['relatedto'] flush
+garbage ['atlocation'] garbage_cans ['relatedto'] waste ['relatedto'] flush
+garbage ['derivedfrom', 'atlocation'] garbage_truck ['relatedto'] waste ['relatedto'] flush
+garbage ['usedfor', 'relatedto', 'atlocation'] landfill ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['atlocation'] ground ['relatedto'] flush
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['relatedto', 'atlocation'] waste ['relatedto'] flush
+garbage ['relatedto', 'similarto', 'synonym', 'atlocation', 'isa'] trash ['atlocation'] toilet ['capableof', 'relatedto'] flush
+garbage ['atlocation'] waste_bin ['relatedto', 'derivedfrom', 'atlocation'] waste ['relatedto'] flush
+garbage ['atlocation'] mouse ['relatedto'] turn ['relatedto'] flush
+garbage ['derivedfrom'] garbage_bag ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto', 'derivedfrom'] garbage_scow ['relatedto'] waste ['relatedto'] flush
+garbage ['isa'] waste_material ['synonym'] waste ['relatedto'] flush
+garbage ['isa'] receptacle ['relatedto'] flower ['synonym'] flush
+garbage ['motivatedbygoal'] throw_away ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] bin ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] bin_liner ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] fly_tip ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] nonsense ['relatedto'] draw ['relatedto'] flush
+garbage ['relatedto'] useless ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] worthless ['relatedto'] busted_flush ['relatedto', 'derivedfrom'] flush
+garbage ['relatedto'] rejectamenta ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto', 'synonym'] rubbish ['isa', 'relatedto', 'synonym'] waste ['relatedto'] flush
+garbage ['relatedto'] sanitation ['relatedto'] waste ['relatedto'] flush
+garbage ['relatedto'] waste_tray ['relatedto', 'derivedfrom'] waste ['relatedto'] flush
+garbage ['synonym'] disembowel ['relatedto', 'synonym'] draw ['relatedto'] flush
+garbage ['usedfor'] disposal ['isa'] act ['relatedto'] flush
+garbage ['usedfor'] disposal ['relatedto'] waste ['relatedto'] flush
+garbage ['usedfor'] recycling ['distinctfrom', 'relatedto'] waste ['relatedto'] flush
+garbage ['usedfor'] throwing_away ['relatedto'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['antonym', 'distinctfrom'] accept ['relatedto'] action ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['antonym', 'distinctfrom'] agree ['relatedto'] action ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['antonym', 'distinctfrom'] agree ['mannerof', 'synonym'] suit ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['antonym', 'distinctfrom'] want ['relatedto'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['atlocation'] bin ['relatedto'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'atlocation'] dump ['relatedto'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['atlocation'] tip ['relatedto'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['isa', 'relatedto', 'synonym', 'atlocation'] trash ['atlocation'] ground ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['isa', 'relatedto', 'synonym', 'atlocation'] trash ['relatedto', 'atlocation'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['isa', 'relatedto', 'synonym', 'atlocation'] trash ['atlocation'] toilet ['capableof', 'relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['atlocation'] waste_bin ['relatedto', 'derivedfrom', 'atlocation'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['atlocation'] wastebasket ['derivedfrom'] waste ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['distinctfrom'] allow ['relatedto'] action ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['distinctfrom'] let ['relatedto'] action ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'hasproperty', 'synonym'] waste ['isa'] act ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'hasproperty', 'synonym'] waste ['mannerof'] run ['causes', 'mannerof'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'hasproperty', 'synonym'] waste ['relatedto'] purging ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto', 'hasproperty', 'synonym'] waste ['usedfor', 'relatedto'] toilet ['capableof', 'relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['mannerof', 'relatedto'] bounce ['etymologicallyrelatedto', 'relatedto'] bang ['synonym'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['mannerof', 'relatedto'] bounce ['relatedto'] draw ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['mannerof', 'relatedto'] bounce ['relatedto'] turn ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['mannerof', 'relatedto'] bounce ['relatedto'] chase ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['mannerof'] react ['mannerof', 'relatedto', 'derivedfrom'] act ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto'] choose ['relatedto'] action ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto'] choose ['mannerof'] draw ['relatedto'] flush
+garbage ['isa', 'relatedto', 'synonym', 'atlocation'] refuse ['relatedto'] ciderkin ['relatedto'] water ['mannerof', 'relatedto'] flush

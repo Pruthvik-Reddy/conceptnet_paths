@@ -1,0 +1,100 @@
+heart ['capableof'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] flutter ['synonym'] palpitate
+heart ['relatedto'] pant ['synonym'] palpitate
+heart ['synonym'] purpose ['relatedto'] cause ['relatedto'] palpitate
+heart ['atlocation'] animal ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['synonym'] breast ['relatedto'] pant ['synonym'] palpitate
+heart ['antonym', 'relatedto'] club ['usedfor'] beat ['mannerof', 'relatedto'] palpitate
+heart ['capableof'] beat ['mannerof'] flutter ['synonym'] palpitate
+heart ['capableof'] beat ['relatedto'] flack ['relatedto'] palpitate
+heart ['isa', 'relatedto'] beating ['formof'] beat ['mannerof', 'relatedto'] palpitate
+heart ['isa'] container ['relatedto'] quiver ['synonym'] palpitate
+heart ['isa', 'relatedto'] shape ['mannerof'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] extrasystole ['relatedto'] palpitation ['derivedfrom'] palpitate
+heart ['relatedto'] feel ['relatedto'] palp ['relatedto'] palpitate
+heart ['relatedto'] feel ['synonym'] palpate ['relatedto'] palpitate
+heart ['relatedto'] flutter ['mannerof'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] flutter ['relatedto'] flack ['relatedto'] palpitate
+heart ['relatedto'] flutter ['synonym'] shudder ['synonym'] palpitate
+heart ['relatedto'] part ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] pant ['relatedto'] palpitation ['derivedfrom'] palpitate
+heart ['relatedto'] pulsation ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] pulsation ['relatedto'] flutter ['synonym'] palpitate
+heart ['relatedto'] strawberry ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] stroke ['isa'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] tachycardia ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] thrill ['relatedto'] cause ['relatedto'] palpitate
+heart ['relatedto'] thrill ['relatedto'] quiver ['synonym'] palpitate
+heart ['relatedto'] thrill ['synonym'] shudder ['synonym'] palpitate
+heart ['relatedto'] thump_thump ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] wood ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['synonym'] purpose ['isa', 'relatedto', 'synonym'] final_cause ['derivedfrom'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['isa', 'relatedto'] goal ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['isa', 'relatedto'] sake ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] accidentalism ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] flutter ['synonym'] palpitate
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] appeal ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] banner ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] belt ['relatedto'] pant ['synonym'] palpitate
+heart ['synonym'] purpose ['relatedto'] cut ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] hang ['relatedto'] flack ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] hang ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] heat ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] kill ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] meeting ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] move ['mannerof'] beat ['mannerof', 'relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] move ['mannerof', 'relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] move ['relatedto'] quiver ['synonym'] palpitate
+heart ['synonym'] purpose ['relatedto', 'synonym'] aim ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] motive ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto', 'synonym'] reason ['relatedto', 'similarto', 'synonym'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] stagger ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] steel ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] tendency_writing ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] therefore ['relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['relatedto'] time ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['synonym'] purpose ['synonym'] consequence ['antonym', 'relatedto'] cause ['relatedto'] palpitate
+heart ['synonym'] purpose ['synonym'] effect ['antonym', 'distinctfrom', 'mannerof', 'relatedto'] cause ['relatedto'] palpitate
+heart ['atlocation'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['antonym'] bird ['relatedto'] flutter ['synonym'] palpitate
+heart ['atlocation'] human ['atlocation'] motion ['relatedto'] flutter ['synonym'] palpitate
+heart ['atlocation'] human ['atlocation'] motion ['relatedto'] quiver ['synonym'] palpitate
+heart ['atlocation'] human ['atlocation'] motion ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['atlocation'] pain ['relatedto'] cause ['relatedto'] palpitate
+heart ['atlocation'] human ['atlocation'] suit ['relatedto'] cause ['relatedto'] palpitate
+heart ['atlocation'] human ['isa'] boss ['etymologicallyrelatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto', 'partof'] hand ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] baby ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] blow ['mannerof'] pant ['synonym'] palpitate
+heart ['atlocation'] human ['relatedto'] crawl ['relatedto'] flutter ['synonym'] palpitate
+heart ['atlocation'] human ['relatedto'] cut ['relatedto'] cause ['relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] dance ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] dance ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] dog ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] earth ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] fear ['relatedto'] shudder ['synonym'] palpitate
+heart ['atlocation'] human ['relatedto'] feel ['relatedto'] palp ['relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] feel ['synonym'] palpate ['relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] smart ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] two ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] type ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] milk ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] reason ['relatedto', 'similarto', 'synonym'] cause ['relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] run ['relatedto'] cause ['relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] sound ['isa'] beat ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] touch ['isa'] palpation ['relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] touch ['mannerof', 'synonym'] palpate ['relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] walk ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['atlocation'] human ['relatedto'] work ['relatedto'] cause ['relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] fire ['synonym'] flack ['relatedto'] palpitate
+heart ['relatedto'] red ['derivedfrom'] redshank ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] flag ['etymologicallyrelatedto', 'relatedto'] flack ['relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] heat ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] anger ['relatedto'] cause ['relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] run ['relatedto'] cause ['relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] type ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] strawberry ['relatedto'] shake ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] welt ['relatedto'] beat ['mannerof', 'relatedto'] palpitate
+heart ['relatedto'] red ['relatedto'] wood ['relatedto'] shake ['mannerof', 'relatedto'] palpitate

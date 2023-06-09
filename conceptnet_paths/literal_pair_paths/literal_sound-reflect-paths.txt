@@ -1,0 +1,100 @@
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] reflect
+sound ['relatedto'] anacamptics ['relatedto'] reflect
+sound ['relatedto'] catacoustics ['relatedto'] reflect
+sound ['relatedto', 'synonym'] echo ['relatedto'] reflect
+sound ['relatedto'] phonocamptic ['relatedto'] reflect
+sound ['relatedto'] superreflection ['relatedto'] reflect
+sound ['relatedto'] abstract ['mannerof', 'relatedto'] consider ['relatedto'] reflect
+sound ['relatedto'] nothing ['relatedto'] black ['relatedto'] reflect
+sound ['relatedto'] nothing ['relatedto'] darkness ['relatedto'] reflect
+sound ['relatedto'] nothing ['relatedto'] glass ['relatedto'] reflect
+sound ['relatedto'] activity ['relatedto'] follow ['relatedto'] reflect
+sound ['relatedto'] activity ['relatedto'] think ['relatedto'] reflect
+sound ['relatedto'] human ['atlocation'] show ['mannerof'] reflect
+sound ['relatedto', 'atlocation'] air ['relatedto'] light ['relatedto'] reflect
+sound ['relatedto', 'atlocation'] air ['relatedto'] consider ['relatedto'] reflect
+sound ['relatedto'] short ['synonym'] light ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] sight ['usedfor'] light ['relatedto'] reflect
+sound ['relatedto'] bottom ['distinctfrom'] surface ['relatedto'] reflect
+sound ['relatedto'] bottom ['relatedto'] character ['relatedto'] reflect
+sound ['relatedto'] arise ['relatedto'] redound ['relatedto'] reflect
+sound ['relatedto'] arise ['synonym'] follow ['relatedto'] reflect
+sound ['relatedto'] arise ['synonym'] surface ['relatedto'] reflect
+sound ['relatedto', 'synonym'] go ['relatedto'] follow ['relatedto'] reflect
+sound ['relatedto', 'synonym'] go ['relatedto'] light ['relatedto'] reflect
+sound ['relatedto', 'synonym'] go ['relatedto'] glass ['relatedto'] reflect
+sound ['relatedto'] spring ['relatedto'] bend ['relatedto'] reflect
+sound ['relatedto'] spring ['relatedto'] follow ['relatedto'] reflect
+sound ['relatedto'] stop ['relatedto'] light ['relatedto'] reflect
+sound ['relatedto'] fish ['relatedto', 'hasproperty'] shiny ['relatedto'] reflect
+sound ['relatedto'] board ['relatedto'] black ['relatedto'] reflect
+sound ['relatedto'] board ['isa', 'relatedto'] surface ['relatedto'] reflect
+sound ['relatedto'] board ['relatedto'] light ['relatedto'] reflect
+sound ['relatedto'] bump ['relatedto'] surface ['relatedto'] reflect
+sound ['relatedto'] nice ['relatedto'] show ['mannerof'] reflect
+sound ['relatedto'] term ['relatedto'] character ['relatedto'] reflect
+sound ['relatedto'] force ['relatedto'] bend ['relatedto'] reflect
+sound ['relatedto'] force ['relatedto'] light ['relatedto'] reflect
+sound ['relatedto'] single ['isa'] echo ['relatedto'] reflect
+sound ['relatedto'] invisible ['relatedto'] glass ['relatedto'] reflect
+sound ['relatedto'] invisible ['relatedto'] surface ['relatedto'] reflect
+sound ['relatedto', 'similarto'] solid ['relatedto'] black ['relatedto'] reflect
+sound ['relatedto', 'similarto'] solid ['similarto'] opaque ['relatedto'] reflect
+sound ['relatedto', 'similarto'] solid ['antonym', 'isa', 'relatedto', 'hasproperty'] glass ['relatedto'] reflect
+sound ['relatedto', 'similarto'] solid ['relatedto', 'atlocation'] surface ['relatedto'] reflect
+sound ['relatedto'] conductor ['relatedto'] light ['relatedto'] reflect
+sound ['relatedto'] fear ['causes'] darkness ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] black ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] opaque ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['antonym', 'distinctfrom', 'relatedto'] darkness ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] albedo ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] anacamptics ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] backshine ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] catacaustic ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] catch_sun ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] epifluorescence ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] focus ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] glare ['mannerof'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] gleaming ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] glisten ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] heliotrope ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] interreflection ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] matte ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] non_luminous ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] oroheliograph ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] photoreflexive ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] reflection ['etymologicallyrelatedto', 'relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] retroreflective ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] shine ['relatedto', 'synonym'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['relatedto'] shiny ['relatedto'] reflect
+sound ['antonym', 'distinctfrom', 'relatedto'] light ['synonym'] sparkle ['mannerof'] reflect
+sound ['relatedto'] deep ['relatedto'] back ['relatedto'] reflect
+sound ['relatedto'] deep ['antonym'] light ['relatedto'] reflect
+sound ['relatedto'] similar ['relatedto'] agree ['relatedto'] reflect
+sound ['relatedto'] fast ['antonym', 'relatedto'] light ['relatedto'] reflect
+sound ['relatedto'] fast ['relatedto'] bend ['relatedto'] reflect
+sound ['isa', 'relatedto'] energy ['isa', 'madeof', 'relatedto'] light ['relatedto'] reflect
+sound ['relatedto'] even ['relatedto'] glass ['relatedto'] reflect
+sound ['relatedto'] experience ['relatedto'] back ['relatedto'] reflect
+sound ['relatedto'] explosion ['relatedto'] tamper ['relatedto'] reflect
+sound ['relatedto', 'atlocation'] mouth ['relatedto'] back ['relatedto'] reflect
+sound ['isa', 'relatedto', 'hasproperty', 'synonym'] voice ['relatedto'] character ['relatedto'] reflect
+sound ['isa', 'relatedto', 'hasproperty', 'synonym'] voice ['relatedto'] echo ['relatedto'] reflect
+sound ['relatedto'] near_field ['relatedto'] reflected ['formof', 'relatedto'] reflect
+sound ['relatedto'] making ['relatedto'] glass ['relatedto'] reflect
+sound ['relatedto'] movement ['relatedto'] back ['relatedto'] reflect
+sound ['etymologicallyrelatedto', 'relatedto'] swim ['relatedto'] back ['relatedto'] reflect
+sound ['relatedto'] footstep ['relatedto'] follow ['relatedto'] reflect
+sound ['mannerof', 'relatedto'] speak ['hasprerequisite'] think ['relatedto'] reflect
+sound ['mannerof', 'relatedto'] speak ['relatedto'] indicate ['mannerof'] reflect
+sound ['relatedto'] hearing ['relatedto'] echo ['relatedto'] reflect
+sound ['relatedto'] homographic ['relatedto'] character ['relatedto'] reflect
+sound ['isa', 'relatedto', 'derivedfrom'] ultrasound ['relatedto'] echogenic ['relatedto'] reflect
+sound ['relatedto'] input ['relatedto'] echo ['relatedto'] reflect
+sound ['relatedto'] input ['relatedto'] focus ['relatedto'] reflect
+sound ['relatedto'] output ['synonym'] emit ['mannerof'] reflect
+sound ['relatedto'] rational ['motivatedbygoal'] think ['relatedto'] reflect
+sound ['relatedto'] medium ['relatedto'] refract ['relatedto'] reflect
+sound ['relatedto'] thunder ['relatedto'] black ['relatedto'] reflect
+sound ['relatedto'] thunder ['relatedto'] light ['relatedto'] reflect
+sound ['relatedto'] thunder ['relatedto'] echo ['relatedto'] reflect

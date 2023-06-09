@@ -1,0 +1,100 @@
+bullet ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] ability ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] fire ['relatedto'] device ['isa'] whistle
+bullet ['relatedto'] fire ['relatedto'] lanyard ['relatedto'] whistle
+bullet ['relatedto'] enemy ['relatedto'] dog ['relatedto'] whistle
+bullet ['relatedto'] someone ['relatedto'] blow ['relatedto'] whistle
+bullet ['relatedto'] someone ['relatedto'] call ['relatedto'] whistle
+bullet ['relatedto'] armor ['relatedto'] suit ['relatedto'] whistle
+bullet ['antonym', 'relatedto'] arrow ['relatedto'] small ['relatedto'] whistle
+bullet ['antonym', 'relatedto'] arrow ['relatedto'] sign ['mannerof'] whistle
+bullet ['relatedto'] ball ['atlocation'] soccer_game ['atlocation'] whistle
+bullet ['relatedto'] ball ['isa'] portable_object ['isa'] whistle
+bullet ['relatedto'] ball ['relatedto'] device ['isa'] whistle
+bullet ['relatedto'] ball ['relatedto'] policeman ['relatedto'] whistle
+bullet ['relatedto'] balloon ['relatedto'] blow ['relatedto'] whistle
+bullet ['relatedto'] food ['relatedto', 'atlocation'] mouth ['relatedto'] whistle
+bullet ['relatedto'] food ['desires'] dog ['relatedto'] whistle
+bullet ['relatedto'] food ['relatedto'] whistle_walk ['relatedto', 'derivedfrom'] whistle
+bullet ['relatedto'] small ['relatedto'] dog ['relatedto'] whistle
+bullet ['relatedto'] bill ['relatedto'] mouth ['relatedto'] whistle
+bullet ['relatedto'] bill ['relatedto'] instrument ['relatedto'] whistle
+bullet ['relatedto'] bit ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] bit ['relatedto', 'partof'] drill ['usedfor'] whistle
+bullet ['relatedto'] bit ['relatedto'] mouth ['relatedto'] whistle
+bullet ['relatedto'] bite ['capableof', 'relatedto'] dog ['relatedto'] whistle
+bullet ['relatedto'] bite ['relatedto'] mouth ['relatedto'] whistle
+bullet ['relatedto'] bite ['relatedto'] lip ['relatedto'] whistle
+bullet ['relatedto'] bolt ['mannerof'] move ['mannerof'] whistle
+bullet ['relatedto', 'atlocation'] magazine ['isa'] manga ['isa', 'instanceof'] whistle
+bullet ['atlocation'] box ['relatedto'] small ['relatedto'] whistle
+bullet ['atlocation'] box ['isa', 'relatedto', 'synonym'] blow ['relatedto'] whistle
+bullet ['atlocation'] box ['relatedto', 'partof'] coach ['relatedto'] whistle
+bullet ['relatedto'] piece ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] piece ['relatedto'] move ['mannerof'] whistle
+bullet ['antonym', 'relatedto'] gun ['relatedto'] small ['relatedto'] whistle
+bullet ['antonym', 'relatedto'] gun ['relatedto'] device ['isa'] whistle
+bullet ['antonym', 'relatedto'] gun ['relatedto'] instrument ['relatedto'] whistle
+bullet ['antonym', 'relatedto'] shot ['relatedto'] small ['relatedto'] whistle
+bullet ['antonym', 'relatedto'] shot ['isa'] blow ['relatedto'] whistle
+bullet ['antonym', 'relatedto'] shot ['relatedto'] noise ['relatedto'] whistle
+bullet ['isa', 'relatedto'] part ['relatedto'] small ['relatedto'] whistle
+bullet ['isa', 'relatedto'] part ['relatedto'] lip ['relatedto'] whistle
+bullet ['isa', 'relatedto'] part ['relatedto'] mouth ['relatedto'] whistle
+bullet ['relatedto'] armor_piercing ['relatedto'] device ['isa'] whistle
+bullet ['relatedto'] balls ['atlocation'] soccer_game ['atlocation'] whistle
+bullet ['relatedto'] barrel ['relatedto'] move ['mannerof'] whistle
+bullet ['relatedto'] bug ['relatedto'] device ['isa'] whistle
+bullet ['relatedto'] discharge ['mannerof'] blow ['relatedto'] whistle
+bullet ['relatedto'] edges ['relatedto'] lip ['relatedto'] whistle
+bullet ['relatedto'] edges ['relatedto'] sign ['mannerof'] whistle
+bullet ['relatedto'] explosive ['usedfor'] move ['mannerof'] whistle
+bullet ['relatedto'] fast ['relatedto'] sound ['isa', 'mannerof'] whistle
+bullet ['relatedto'] fast ['relatedto'] move ['mannerof'] whistle
+bullet ['relatedto'] finger ['relatedto'] music ['relatedto'] whistle
+bullet ['relatedto'] grey ['isa', 'instanceof'] manga ['isa', 'instanceof'] whistle
+bullet ['relatedto'] gunpowder ['relatedto'] firework ['relatedto'] whistle
+bullet ['relatedto'] hard ['relatedto'] blow ['relatedto'] whistle
+bullet ['relatedto'] high ['distinctfrom'] blow ['relatedto'] whistle
+bullet ['relatedto'] inch ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] inside ['relatedto'] blow ['relatedto'] whistle
+bullet ['relatedto'] inside ['relatedto'] mouth ['relatedto'] whistle
+bullet ['relatedto'] inside ['relatedto'] coach ['relatedto'] whistle
+bullet ['relatedto'] jacket ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] jacket ['relatedto'] suit ['relatedto'] whistle
+bullet ['usedfor', 'relatedto'] kill ['relatedto'] blow ['relatedto'] whistle
+bullet ['relatedto'] large ['antonym', 'distinctfrom', 'relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] large ['relatedto'] dog ['relatedto'] whistle
+bullet ['relatedto'] large ['relatedto'] noise ['relatedto'] whistle
+bullet ['relatedto'] made ['relatedto'] sound ['isa', 'mannerof'] whistle
+bullet ['relatedto'] marking ['relatedto'] sign ['mannerof'] whistle
+bullet ['relatedto'] metal ['isa', 'relatedto'] music ['relatedto'] whistle
+bullet ['relatedto'] metal ['relatedto'] noise ['relatedto'] whistle
+bullet ['relatedto'] metal ['relatedto'] sign ['mannerof'] whistle
+bullet ['relatedto'] metal ['relatedto'] tin_whistle ['isa', 'relatedto'] whistle
+bullet ['relatedto'] output ['relatedto'] music ['relatedto'] whistle
+bullet ['relatedto'] output ['relatedto'] sound ['isa', 'mannerof'] whistle
+bullet ['relatedto'] pea ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] pebble ['isa'] portable_object ['isa'] whistle
+bullet ['relatedto'] pen ['relatedto'] device ['isa'] whistle
+bullet ['relatedto'] pen ['relatedto'] instrument ['relatedto'] whistle
+bullet ['relatedto'] penny ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] penny ['derivedfrom'] pennywhistle ['derivedfrom', 'synonym'] whistle
+bullet ['relatedto'] pin ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] pin ['relatedto'] move ['mannerof'] whistle
+bullet ['relatedto'] pistol ['usedfor'] coach ['relatedto'] whistle
+bullet ['relatedto'] point ['relatedto'] small ['relatedto'] whistle
+bullet ['relatedto'] point ['relatedto'] dog ['relatedto'] whistle
+bullet ['relatedto'] power ['relatedto'] drill ['usedfor'] whistle
+bullet ['relatedto'] power ['relatedto'] instrument ['relatedto'] whistle
+bullet ['relatedto'] power ['relatedto'] device ['isa'] whistle
+bullet ['relatedto'] pull ['isa'] device ['isa'] whistle
+bullet ['relatedto'] pull ['mannerof'] move ['mannerof'] whistle
+bullet ['relatedto'] pull ['relatedto'] sign ['mannerof'] whistle
+bullet ['relatedto'] related ['relatedto'] call ['relatedto'] whistle
+bullet ['relatedto'] related ['relatedto'] lip ['relatedto'] whistle
+bullet ['relatedto'] related ['relatedto'] sound ['isa', 'mannerof'] whistle
+bullet ['relatedto'] rocket ['relatedto'] firework ['relatedto'] whistle
+bullet ['relatedto'] round ['isa'] call ['relatedto'] whistle
+bullet ['relatedto'] round ['mannerof'] travel ['mannerof'] whistle
+bullet ['relatedto'] round ['relatedto'] lip ['relatedto'] whistle

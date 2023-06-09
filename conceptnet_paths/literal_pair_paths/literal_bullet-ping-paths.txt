@@ -1,0 +1,100 @@
+bullet ['relatedto'] someone ['relatedto'] reach ['mannerof'] ping
+bullet ['antonym', 'relatedto'] arrow ['usedfor'] hit ['mannerof'] ping
+bullet ['relatedto'] ball ['capableof', 'usedfor', 'relatedto'] bounce ['relatedto'] ping
+bullet ['relatedto'] ball ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] ball ['relatedto'] pong ['etymologicallyrelatedto', 'relatedto'] ping
+bullet ['relatedto'] nail ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] nut ['relatedto'] hit ['mannerof'] ping
+bullet ['atlocation'] box ['mannerof'] hit ['mannerof'] ping
+bullet ['relatedto'] piece ['relatedto'] hit ['mannerof'] ping
+bullet ['antonym', 'relatedto'] shot ['relatedto'] flick ['relatedto'] ping
+bullet ['isa', 'usedfor', 'relatedto'] projectile ['usedfor'] hit ['mannerof'] ping
+bullet ['relatedto'] arms ['relatedto'] reach ['mannerof'] ping
+bullet ['relatedto'] bean ['mannerof'] hit ['mannerof'] ping
+bullet ['relatedto'] cannon ['mannerof'] hit ['mannerof'] ping
+bullet ['relatedto'] fast ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] high ['relatedto'] reach ['mannerof'] ping
+bullet ['usedfor', 'relatedto'] kill ['mannerof'] hit ['mannerof'] ping
+bullet ['relatedto'] made ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] missile ['relatedto'] reach ['mannerof'] ping
+bullet ['relatedto'] output ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] point ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] point ['relatedto'] ip_address ['relatedto'] ping
+bullet ['relatedto'] power ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] pull ['antonym'] reach ['mannerof'] ping
+bullet ['relatedto'] pull ['mannerof'] hit ['mannerof'] ping
+bullet ['relatedto'] related ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] sharp ['relatedto'] pang ['etymologicallyrelatedto'] ping
+bullet ['relatedto'] shell ['mannerof'] hit ['mannerof'] ping
+bullet ['usedfor', 'relatedto'] shoot ['mannerof', 'synonym'] hit ['mannerof'] ping
+bullet ['relatedto'] single ['mannerof', 'relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] single ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto', 'synonym'] slug ['mannerof', 'relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] speed ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] stub ['mannerof', 'relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] thumb ['synonym'] flick ['relatedto'] ping
+bullet ['relatedto'] tip ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] use ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] usually ['relatedto'] poll ['relatedto'] ping
+bullet ['relatedto'] wound ['relatedto'] pink ['synonym'] ping
+bullet ['relatedto'] horse ['partof'] poll ['relatedto'] ping
+bullet ['relatedto'] plumb ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] hitscan ['derivedfrom'] hit ['mannerof'] ping
+bullet ['relatedto'] volley ['mannerof'] hit ['mannerof'] ping
+bullet ['relatedto'] volley ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] volley ['relatedto'] bounce ['relatedto'] ping
+bullet ['relatedto'] volley ['relatedto'] flick ['relatedto'] ping
+bullet ['usedfor'] murder ['isa', 'relatedto', 'synonym'] hit ['mannerof'] ping
+bullet ['relatedto'] ability ['isa'] form ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['isa'] hand ['relatedto'] reach ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] address ['relatedto'] email ['relatedto'] ping
+bullet ['relatedto'] ability ['relatedto'] address ['etymologicallyrelatedto'] ip_address ['relatedto'] ping
+bullet ['relatedto'] ability ['relatedto'] batting_average ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] conductivity ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] draw ['relatedto'] bounce ['relatedto'] ping
+bullet ['relatedto'] ability ['relatedto'] drive ['mannerof', 'relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] dynamic_headroom ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] ear ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] eidetic_memory ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] energy ['isa', 'relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] fight ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] functionality ['relatedto'] sping ['derivedfrom'] ping
+bullet ['relatedto'] ability ['relatedto'] grasp ['relatedto'] reach ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] headroom ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] hold ['relatedto'] reach ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] immunotherapy ['relatedto'] host ['relatedto'] ping
+bullet ['relatedto'] ability ['relatedto'] influence ['relatedto'] reach ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] photographic_memory ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] potential ['isa'] latency ['relatedto'] ping
+bullet ['relatedto'] ability ['relatedto', 'synonym'] power ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] self_efficacy ['relatedto'] reach ['mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] sense ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] sight ['antonym', 'distinctfrom', 'relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] smell ['relatedto'] pong ['etymologicallyrelatedto', 'relatedto'] ping
+bullet ['relatedto'] ability ['relatedto'] smell ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] spam ['isa'] email ['relatedto'] ping
+bullet ['relatedto'] ability ['relatedto'] spam ['derivedfrom'] sping ['derivedfrom'] ping
+bullet ['relatedto'] ability ['relatedto', 'synonym'] talent ['relatedto'] bounce ['relatedto'] ping
+bullet ['relatedto'] ability ['relatedto'] test ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] voice ['isa', 'relatedto', 'hasproperty', 'synonym'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] ability ['relatedto'] voice ['relatedto'] peep ['relatedto'] ping
+bullet ['relatedto'] ability ['synonym'] use ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] fire ['relatedto'] base ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] fire ['mannerof'] remove ['mannerof'] flick ['relatedto'] ping
+bullet ['relatedto'] fire ['relatedto'] old ['relatedto'] pink ['synonym'] ping
+bullet ['relatedto'] fire ['antonym', 'distinctfrom'] air ['relatedto', 'atlocation'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] fire ['antonym', 'isa', 'synonym'] attack ['relatedto'] hit ['mannerof'] ping
+bullet ['relatedto'] fire ['antonym', 'relatedto'] wind ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] fire ['capableof'] kill ['mannerof'] hit ['mannerof'] ping
+bullet ['relatedto'] fire ['capableof'] murder ['isa', 'relatedto', 'synonym'] hit ['mannerof'] ping
+bullet ['relatedto'] fire ['causes'] pain ['isa', 'relatedto', 'synonym'] pang ['etymologicallyrelatedto'] ping
+bullet ['relatedto'] fire ['relatedto', 'derivedfrom'] fire_alarm ['relatedto'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] fire ['isa'] broadside ['mannerof'] hit ['mannerof'] ping
+bullet ['relatedto'] fire ['isa'] cover ['relatedto'] bounce ['relatedto'] ping
+bullet ['relatedto'] fire ['isa'] criticism ['relatedto'] pink ['synonym'] ping
+bullet ['relatedto'] fire ['isa'] happening ['isa'] sound ['isa', 'mannerof'] ping
+bullet ['relatedto'] fire ['isa'] book ['isa'] host ['relatedto'] ping
+bullet ['relatedto'] fire ['isa'] software ['relatedto'] host ['relatedto'] ping
+bullet ['relatedto'] fire ['isa'] software ['relatedto'] heartbeat ['relatedto'] ping
+bullet ['relatedto'] fire ['isa', 'relatedto'] ignition ['relatedto'] pink ['synonym'] ping
+bullet ['relatedto'] fire ['mannerof'] pop ['mannerof', 'relatedto'] hit ['mannerof'] ping

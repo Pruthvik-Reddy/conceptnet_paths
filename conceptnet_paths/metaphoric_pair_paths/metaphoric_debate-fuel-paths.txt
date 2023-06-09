@@ -1,0 +1,100 @@
+debate ['hasproperty'] good ['isa'] food ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] corn ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] crop ['relatedto'] fuel
+debate ['relatedto'] chest ['relatedto'] bunker ['mannerof'] fuel
+debate ['relatedto'] think ['relatedto'] oil ['relatedto'] fuel
+debate ['relatedto'] high ['relatedto'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+debate ['relatedto'] high ['relatedto'] rich ['relatedto'] fuel
+debate ['relatedto'] high ['relatedto'] heat ['relatedto'] fuel
+debate ['relatedto'] high ['relatedto'] corn ['relatedto'] fuel
+debate ['relatedto'] high ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+debate ['relatedto'] high ['relatedto'] general ['relatedto'] fuel
+debate ['relatedto'] high ['relatedto'] alcohol ['isa'] fuel
+debate ['relatedto'] high ['relatedto'] oil ['relatedto'] fuel
+debate ['relatedto'] reason ['relatedto'] heat ['relatedto'] fuel
+debate ['relatedto'] structure ['relatedto'] term ['relatedto'] fuel
+debate ['relatedto'] structure ['relatedto'] general ['relatedto'] fuel
+debate ['relatedto'] structure ['relatedto'] wood ['isa', 'relatedto'] fuel
+debate ['relatedto'] structure ['relatedto'] general_term ['relatedto'] fuel
+debate ['etymologicallyrelatedto'] bate ['relatedto'] chemical ['relatedto'] fuel
+debate ['relatedto'] agitation ['relatedto'] combustion ['relatedto'] fuel
+debate ['relatedto'] contention ['relatedto'] resource ['relatedto'] fuel
+debate ['relatedto'] controversy ['relatedto'] oil ['relatedto'] fuel
+debate ['relatedto'] feed_flames ['relatedto'] exacerbate ['relatedto'] fuel
+debate ['relatedto'] salvo ['relatedto'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+debate ['relatedto', 'synonym'] argue ['relatedto'] opposing ['relatedto'] self_sustaining ['relatedto'] fuel
+debate ['relatedto', 'synonym'] argue ['relatedto'] camp ['relatedto'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+debate ['relatedto', 'synonym'] argue ['relatedto'] camp ['relatedto'] firewood ['isa', 'relatedto'] fuel
+debate ['relatedto', 'synonym'] argue ['relatedto'] camp ['relatedto'] lantern ['relatedto'] fuel
+debate ['relatedto', 'synonym'] argue ['relatedto'] camp ['relatedto'] wood ['isa', 'relatedto'] fuel
+debate ['relatedto', 'synonym'] argue ['relatedto'] plea ['relatedto'] term ['relatedto'] fuel
+debate ['relatedto', 'synonym'] argue ['relatedto', 'synonym'] reason ['relatedto'] heat ['relatedto'] fuel
+debate ['relatedto'] disagreement ['relatedto'] refuse ['relatedto'] shruff ['relatedto'] fuel
+debate ['relatedto'] disagreement ['relatedto'] refuse ['relatedto'] stick ['usedfor'] fuel
+debate ['relatedto'] disagreement ['isa', 'relatedto', 'synonym'] conflict ['relatedto'] term ['relatedto'] fuel
+debate ['relatedto'] disagreement ['isa', 'relatedto', 'synonym'] conflict ['relatedto'] general ['relatedto'] fuel
+debate ['relatedto'] disagreement ['isa', 'relatedto', 'synonym'] conflict ['relatedto'] general_term ['relatedto'] fuel
+debate ['relatedto'] disagreement ['isa'] divide ['relatedto'] term ['relatedto'] fuel
+debate ['relatedto'] disagreement ['relatedto', 'synonym'] difference ['relatedto'] term ['relatedto'] fuel
+debate ['relatedto'] disagreement ['relatedto', 'synonym'] difference ['relatedto'] spark_spread ['relatedto'] fuel
+debate ['relatedto'] disagreement ['relatedto'] war ['relatedto'] general ['relatedto'] fuel
+debate ['relatedto'] disagreement ['relatedto'] war ['relatedto'] oil ['relatedto'] fuel
+debate ['relatedto'] dispute ['isa'] controversy ['relatedto'] oil ['relatedto'] fuel
+debate ['relatedto'] dispute ['isa', 'relatedto', 'synonym'] conflict ['relatedto'] term ['relatedto'] fuel
+debate ['relatedto'] dispute ['isa', 'relatedto', 'synonym'] conflict ['relatedto'] general ['relatedto'] fuel
+debate ['relatedto'] dispute ['isa', 'relatedto', 'synonym'] conflict ['relatedto'] general_term ['relatedto'] fuel
+debate ['relatedto'] dispute ['relatedto', 'similarto', 'synonym'] altercation ['relatedto'] heat ['relatedto'] fuel
+debate ['relatedto'] dispute ['relatedto'] chevisance ['relatedto'] resource ['relatedto'] fuel
+debate ['relatedto'] dispute ['relatedto'] domestic ['relatedto'] car ['relatedto', 'atlocation'] fuel
+debate ['relatedto'] dispute ['relatedto'] territory ['relatedto'] turf ['relatedto'] fuel
+debate ['relatedto'] dispute ['relatedto'] partial ['relatedto'] natural ['relatedto'] fuel
+debate ['relatedto'] dispute ['relatedto'] settler ['relatedto'] cow_chip ['relatedto'] fuel
+debate ['relatedto'] dispute ['relatedto'] war ['relatedto'] general ['relatedto'] fuel
+debate ['relatedto'] dispute ['relatedto'] war ['relatedto'] oil ['relatedto'] fuel
+debate ['relatedto'] dispute ['synonym'] difference ['relatedto'] term ['relatedto'] fuel
+debate ['relatedto'] dispute ['synonym'] difference ['relatedto'] spark_spread ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto', 'synonym'] able ['relatedto'] rich ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto', 'synonym'] able ['relatedto'] general_term ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto', 'synonym'] able ['relatedto'] self_sustaining ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] adjective ['relatedto'] heat ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] adjective ['relatedto'] rich ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto', 'hasproperty'] lunch ['relatedto'] food ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] morning ['relatedto'] general ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] morning ['relatedto'] wood ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['hasproperty'] human ['atlocation'] plane ['atlocation'] fuel
+debate ['hasproperty'] good ['hasproperty'] human ['relatedto'] block ['relatedto'] fuel
+debate ['hasproperty'] good ['hasproperty'] human ['relatedto'] energy ['relatedto'] fuel
+debate ['hasproperty'] good ['hasproperty'] human ['relatedto'] wax ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] almost ['relatedto'] term ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] man ['relatedto'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+debate ['hasproperty'] good ['relatedto'] man ['relatedto'] general ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] man ['relatedto'] supply ['mannerof'] fuel
+debate ['hasproperty'] good ['relatedto'] please ['relatedto'] term ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] please ['synonym'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+debate ['hasproperty'] good ['distinctfrom'] problem ['relatedto'] exacerbate ['relatedto'] fuel
+debate ['hasproperty'] good ['distinctfrom'] problem ['relatedto'] thing ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] apple ['relatedto'] food ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] apple ['relatedto'] wood ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] sleep ['causesdesire'] alcohol ['isa'] fuel
+debate ['hasproperty'] good ['relatedto'] art ['relatedto'] general ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] art ['relatedto'] general_term ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] art ['relatedto'] oil ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] art ['relatedto'] term ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] art ['relatedto'] block ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] comfort ['relatedto'] food ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] comfort ['relatedto'] sportbike ['relatedto'] fuel
+debate ['hasproperty'] good ['distinctfrom', 'relatedto'] average ['relatedto'] term ['relatedto'] fuel
+debate ['hasproperty'] good ['distinctfrom', 'relatedto'] average ['relatedto'] corn ['relatedto'] fuel
+debate ['hasproperty'] good ['antonym', 'distinctfrom'] poor ['relatedto'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+debate ['hasproperty'] good ['antonym', 'distinctfrom'] poor ['antonym', 'distinctfrom', 'relatedto'] rich ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] home ['atlocation'] food ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] home ['relatedto'] general ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] cool ['antonym', 'distinctfrom', 'relatedto'] heat ['relatedto'] fuel
+debate ['hasproperty'] good ['relatedto'] cool ['relatedto'] trigeneration ['relatedto'] fuel
+debate ['hasproperty'] good ['antonym', 'distinctfrom', 'relatedto'] bad ['relatedto'] coal ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['antonym'] brat ['relatedto'] coal ['isa', 'relatedto'] fuel
+debate ['hasproperty'] good ['antonym'] mood ['relatedto'] energy ['relatedto'] fuel
+debate ['hasproperty'] good ['antonym'] pain ['causes'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+debate ['hasproperty'] good ['antonym'] pain ['causes'] heat ['relatedto'] fuel
+debate ['hasproperty'] good ['antonym'] service ['relatedto'] assessorial ['relatedto'] fuel
+debate ['hasproperty'] good ['antonym'] service ['relatedto'] mileage ['relatedto'] fuel

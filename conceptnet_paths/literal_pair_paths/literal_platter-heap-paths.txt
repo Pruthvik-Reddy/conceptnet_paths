@@ -1,0 +1,100 @@
+platter ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] food ['relatedto'] grain ['relatedto'] heap
+platter ['relatedto'] big ['relatedto'] child ['relatedto'] heap
+platter ['relatedto'] big ['relatedto'] crowd ['relatedto'] heap
+platter ['relatedto'] big ['relatedto'] hill ['relatedto'] heap
+platter ['relatedto'] big ['relatedto'] lot ['relatedto'] heap
+platter ['relatedto'] big ['relatedto'] mass ['relatedto'] heap
+platter ['relatedto'] big ['relatedto'] tree ['relatedto'] heap
+platter ['relatedto'] flat ['antonym', 'relatedto'] hill ['relatedto'] heap
+platter ['relatedto'] flat ['relatedto'] flatten ['antonym'] heap
+platter ['relatedto'] record ['relatedto'] action ['relatedto'] heap
+platter ['relatedto'] record ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] large ['relatedto'] crowd ['relatedto'] heap
+platter ['relatedto'] large ['relatedto', 'synonym'] big ['relatedto'] heap
+platter ['relatedto'] large ['relatedto'] lot ['relatedto'] heap
+platter ['relatedto'] large ['relatedto'] mass ['relatedto'] heap
+platter ['relatedto'] large ['relatedto'] hill ['relatedto'] heap
+platter ['relatedto'] large ['relatedto'] heapmeal ['relatedto'] heap
+platter ['relatedto'] large ['relatedto'] ton ['synonym'] heap
+platter ['relatedto'] large ['relatedto'] tree ['relatedto'] heap
+platter ['relatedto'] kitchen ['isa'] place ['relatedto'] heap
+platter ['relatedto'] server ['relatedto'] tip ['relatedto'] heap
+platter ['relatedto'] slice ['relatedto'] action ['relatedto'] heap
+platter ['atlocation'] cabinet ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] meal ['derivedfrom'] heapmeal ['relatedto'] heap
+platter ['relatedto'] meal ['relatedto'] grain ['relatedto'] heap
+platter ['relatedto'] tray ['relatedto'] hill ['relatedto'] heap
+platter ['relatedto'] tray ['etymologicallyrelatedto'] tree ['relatedto'] heap
+platter ['relatedto'] plat ['relatedto'] lot ['relatedto'] heap
+platter ['relatedto'] treen ['formof', 'relatedto'] tree ['relatedto'] heap
+platter ['relatedto'] plate ['antonym', 'relatedto'] base ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['antonym', 'relatedto'] base ['relatedto'] together ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] land ['relatedto'] action ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] land ['antonym', 'relatedto'] hill ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] land ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] land ['relatedto'] mass ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] land ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] land ['relatedto'] lot ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] animal ['isa'] child ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] animal ['relatedto'] burrow ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] animal ['relatedto'] grain ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] animal ['relatedto'] rickle ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] house ['relatedto'] child ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] house ['isa', 'relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] house ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] house ['relatedto'] lot ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] house ['relatedto'] tree ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] home ['relatedto'] burrow ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] home ['relatedto'] hill ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] home ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] home ['relatedto', 'synonym'] place ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] home ['relatedto'] tree ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] main ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] egg ['relatedto'] child ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] full ['relatedto'] crowd ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto'] full ['etymologicallyrelatedto', 'relatedto'] fill ['mannerof'] heap
+platter ['relatedto'] plate ['antonym', 'distinctfrom', 'relatedto'] cup ['antonym'] fill ['mannerof'] heap
+platter ['relatedto'] plate ['antonym', 'distinctfrom', 'relatedto'] cup ['relatedto'] tass ['relatedto'] heap
+platter ['relatedto'] plate ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] fork ['relatedto'] grain ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] cake ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] cheese ['antonym'] fill ['mannerof'] heap
+platter ['relatedto'] plate ['atlocation'] chicken ['relatedto'] child ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] chicken ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] chicken ['relatedto'] coop ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] corn ['isa', 'etymologicallyrelatedto', 'relatedto', 'synonym'] grain ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] design ['relatedto'] action ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] dust ['relatedto'] spray ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] eat ['relatedto'] action ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] eat ['relatedto'] fill ['mannerof'] heap
+platter ['relatedto'] plate ['distinctfrom', 'locatednear', 'relatedto', 'atlocation'] food ['relatedto'] grain ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] fruit ['usedfor', 'atlocation'] tree ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] meal ['derivedfrom'] heapmeal ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] meal ['relatedto'] grain ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] piece ['relatedto'] grain ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] cabinet ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] kitchen ['isa'] place ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] restaurant ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] table ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] table ['relatedto'] bookmark ['relatedto'] heap
+platter ['relatedto'] plate ['relatedto', 'atlocation'] table ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] potato ['relatedto'] torta ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] sandwich ['relatedto'] torta ['relatedto'] heap
+platter ['relatedto'] plate ['atlocation'] steak ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['etymologicallyrelatedto'] plateau ['relatedto'] flatten ['antonym'] heap
+platter ['relatedto'] plate ['isa'] shield ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['isa', 'partof'] structure ['relatedto'] hill ['relatedto'] heap
+platter ['relatedto'] plate ['isa', 'partof'] structure ['relatedto'] tree ['relatedto'] heap
+platter ['relatedto'] plate ['isa'] containerful ['isa'] barrow ['relatedto'] heap
+platter ['relatedto'] plate ['isa'] tap ['relatedto'] action ['relatedto'] heap
+platter ['relatedto'] plate ['isa'] tap ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['isa'] tap ['relatedto', 'synonym'] tip ['relatedto'] heap
+platter ['relatedto'] plate ['madeof', 'relatedto'] glass ['isa'] vehicle ['relatedto'] heap
+platter ['relatedto'] plate ['mannerof'] coat ['relatedto'] big ['relatedto'] heap
+platter ['relatedto'] plate ['mannerof'] coat ['relatedto'] lot ['relatedto'] heap
+platter ['relatedto'] plate ['mannerof', 'relatedto'] silver ['relatedto'] fill ['mannerof'] heap
+platter ['relatedto'] plate ['mannerof', 'relatedto'] silver ['relatedto'] mass ['relatedto'] heap
+platter ['relatedto'] plate ['mannerof', 'relatedto'] silver ['relatedto'] place ['relatedto'] heap
+platter ['relatedto'] plate ['mannerof', 'relatedto'] silver ['relatedto'] torta ['relatedto'] heap

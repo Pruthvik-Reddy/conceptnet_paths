@@ -1,0 +1,100 @@
+tanker ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto', 'atlocation'] fuel
+tanker ['relatedto'] petrol ['relatedto'] fuel
+tanker ['relatedto'] car ['atlocation'] lighter ['relatedto'] fuel
+tanker ['relatedto'] car ['usedfor', 'relatedto', 'atlocation'] oil ['relatedto'] fuel
+tanker ['relatedto'] car ['atlocation'] petrol ['relatedto'] fuel
+tanker ['relatedto'] car ['formof', 'relatedto'] cars ['relatedto'] fuel
+tanker ['relatedto'] car ['isa', 'relatedto'] motor_vehicle ['relatedto'] fuel
+tanker ['relatedto'] car ['isa'] gas_guzzler ['relatedto'] fuel
+tanker ['relatedto'] car ['partof'] fuel_tank ['relatedto', 'derivedfrom'] fuel
+tanker ['relatedto'] car ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+tanker ['relatedto'] car ['relatedto'] gasoline ['isa', 'relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] combustion ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] fuel_economy ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] mileage ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] wax ['isa', 'relatedto'] fuel
+tanker ['relatedto'] ship ['relatedto'] block ['relatedto'] fuel
+tanker ['relatedto'] ship ['relatedto'] kingston_valve ['relatedto'] fuel
+tanker ['relatedto'] ship ['relatedto'] lighter ['relatedto'] fuel
+tanker ['relatedto'] ship ['relatedto'] lightering ['relatedto'] fuel
+tanker ['isa', 'relatedto'] truck ['atlocation'] food ['isa', 'relatedto'] fuel
+tanker ['isa', 'relatedto'] truck ['relatedto'] thing ['relatedto'] fuel
+tanker ['isa', 'relatedto'] truck ['antonym', 'distinctfrom', 'relatedto'] car ['relatedto', 'atlocation'] fuel
+tanker ['isa', 'relatedto'] truck ['isa'] motor_vehicle ['relatedto'] fuel
+tanker ['isa'] soldier ['relatedto'] general ['relatedto'] fuel
+tanker ['relatedto'] road ['relatedto', 'atlocation'] car ['relatedto', 'atlocation'] fuel
+tanker ['relatedto'] road ['relatedto'] cars ['relatedto'] fuel
+tanker ['relatedto'] road ['relatedto'] general ['relatedto'] fuel
+tanker ['relatedto'] liquid ['antonym', 'distinctfrom', 'relatedto', 'similarto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+tanker ['relatedto'] liquid ['isa', 'relatedto', 'hasproperty'] oil ['relatedto'] fuel
+tanker ['relatedto'] liquid ['isa'] alcohol ['isa'] fuel
+tanker ['relatedto'] liquid ['isa', 'relatedto'] distillate ['relatedto'] fuel
+tanker ['relatedto'] liquid ['isa'] gasoline ['isa', 'relatedto'] fuel
+tanker ['relatedto'] liquid ['isa', 'relatedto'] kerosene ['isa', 'relatedto'] fuel
+tanker ['relatedto'] liquid ['isa', 'relatedto'] substance ['isa', 'relatedto'] fuel
+tanker ['relatedto'] liquid ['isa'] liquid_fuel ['isa'] fuel
+tanker ['relatedto'] liquid ['isa'] octane ['relatedto'] fuel
+tanker ['relatedto'] liquid ['isa'] petrol ['relatedto'] fuel
+tanker ['relatedto'] liquid ['isa', 'relatedto'] toluene ['relatedto'] fuel
+tanker ['relatedto'] liquid ['relatedto'] astatki ['relatedto'] fuel
+tanker ['relatedto'] liquid ['relatedto'] hydrazine ['relatedto'] fuel
+tanker ['relatedto'] liquid ['relatedto'] methanol ['isa'] fuel
+tanker ['relatedto'] liquid ['relatedto'] nitromethane ['relatedto'] fuel
+tanker ['relatedto'] liquid ['relatedto'] wax ['isa', 'relatedto'] fuel
+tanker ['relatedto'] vessel ['relatedto'] term ['relatedto'] fuel
+tanker ['relatedto'] vessel ['relatedto'] general ['relatedto'] fuel
+tanker ['relatedto'] vessel ['relatedto'] general_term ['relatedto'] fuel
+tanker ['relatedto'] tank ['relatedto'] supply ['mannerof'] fuel
+tanker ['relatedto'] tank ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+tanker ['relatedto'] tank ['relatedto'] dripstick ['relatedto'] fuel
+tanker ['relatedto'] tank ['relatedto'] kingston_valve ['relatedto'] fuel
+tanker ['derivedfrom', 'synonym'] oil_tanker ['relatedto', 'derivedfrom'] oil ['relatedto'] fuel
+tanker ['formof'] tankers ['relatedto'] oil ['relatedto'] fuel
+tanker ['isa'] tangible_thing ['isa'] biodiesel ['isa', 'relatedto'] fuel
+tanker ['isa'] tangible_thing ['isa'] choke ['relatedto'] fuel
+tanker ['isa'] tangible_thing ['isa'] resource ['relatedto'] fuel
+tanker ['isa'] tangible_thing ['isa'] nitromethane ['relatedto'] fuel
+tanker ['relatedto'] tank_wagon ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+tanker ['relatedto'] petrol ['atlocation'] car ['relatedto', 'atlocation'] fuel
+tanker ['relatedto'] petrol ['relatedto', 'synonym'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+tanker ['relatedto'] petrol ['relatedto'] kerosene ['isa', 'relatedto'] fuel
+tanker ['relatedto'] petrol ['isa', 'relatedto', 'synonym'] gasoline ['isa', 'relatedto'] fuel
+tanker ['relatedto'] petrol ['distinctfrom', 'relatedto'] oil ['relatedto'] fuel
+tanker ['relatedto'] petrol ['derivedfrom', 'atlocation'] petrol_station ['relatedto', 'atlocation'] fuel
+tanker ['relatedto'] petrol ['atlocation'] fuel_tank ['relatedto', 'derivedfrom'] fuel
+tanker ['relatedto'] petrol ['relatedto'] diesel ['isa', 'relatedto'] fuel
+tanker ['relatedto'] petrol ['relatedto'] dieselization ['relatedto'] fuel
+tanker ['relatedto'] petrol ['relatedto'] fire_triangle ['relatedto'] fuel
+tanker ['relatedto'] petrol ['relatedto'] misfuel ['relatedto'] fuel
+tanker ['relatedto'] petrol ['relatedto'] paraffin ['isa', 'relatedto'] fuel
+tanker ['relatedto'] petrol ['relatedto'] octane ['relatedto'] fuel
+tanker ['relatedto'] petrol ['relatedto', 'synonym'] petroleum ['isa', 'relatedto'] fuel
+tanker ['relatedto'] petrol ['relatedto'] petrol_engine ['relatedto'] fuel
+tanker ['relatedto'] transport ['relatedto'] plane ['atlocation'] fuel
+tanker ['relatedto'] transport ['usedfor', 'relatedto'] car ['relatedto', 'atlocation'] fuel
+tanker ['relatedto'] transport ['mannerof'] lighter ['relatedto'] fuel
+tanker ['relatedto'] transport ['relatedto'] cars ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] acceleration ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+tanker ['relatedto'] car ['relatedto'] acceleration ['relatedto'] sportbike ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] accident ['causes'] chopping_firewood ['causes'] fuel
+tanker ['relatedto'] car ['relatedto'] accident ['causes'] driving_car ['hasprerequisite'] fuel
+tanker ['relatedto'] car ['relatedto'] accident ['relatedto'] cars ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] accident ['relatedto'] substance ['isa', 'relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] smaller ['relatedto'] compression ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] smaller ['relatedto'] crop ['relatedto'] fuel
+tanker ['relatedto'] car ['atlocation'] children ['relatedto'] corn ['relatedto'] fuel
+tanker ['relatedto'] car ['hasproperty'] expensive ['hasproperty'] cars ['relatedto'] fuel
+tanker ['relatedto'] car ['hasproperty'] expensive ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+tanker ['relatedto'] car ['hasproperty'] expensive ['relatedto'] oil ['relatedto'] fuel
+tanker ['relatedto'] car ['hasproperty'] expensive ['relatedto'] rich ['relatedto'] fuel
+tanker ['relatedto'] car ['atlocation'] land ['isa'] turf ['relatedto'] fuel
+tanker ['relatedto'] car ['atlocation'] land ['relatedto'] crop ['relatedto'] fuel
+tanker ['relatedto'] car ['atlocation'] land ['relatedto'] term ['relatedto'] fuel
+tanker ['relatedto'] car ['atlocation'] land ['relatedto'] stick ['usedfor'] fuel
+tanker ['relatedto'] car ['relatedto', 'synonym'] auto ['relatedto'] gas ['usedfor', 'relatedto', 'synonym'] fuel
+tanker ['relatedto'] car ['relatedto', 'synonym'] auto ['relatedto'] oil ['relatedto'] fuel
+tanker ['relatedto'] car ['relatedto'] short ['relatedto'] crop ['relatedto'] fuel
+tanker ['relatedto'] car ['hasproperty'] red ['relatedto'] fire ['isa', 'relatedto', 'hasprerequisite', 'synonym'] fuel
+tanker ['relatedto'] car ['hasproperty'] red ['hasproperty'] cars ['relatedto'] fuel
+tanker ['relatedto'] car ['hasproperty'] red ['relatedto'] energy ['relatedto'] fuel

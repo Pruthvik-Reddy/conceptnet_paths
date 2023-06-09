@@ -1,0 +1,100 @@
+poison ['relatedto'] bite ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] present ['relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] give ['etymologicallyrelatedto'] give_suck ['etymologicallyrelatedto'] suck
+poison ['relatedto'] give ['relatedto'] sucker ['relatedto'] suck
+poison ['relatedto'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] suck
+poison ['relatedto'] water ['antonym', 'relatedto', 'atlocation'] rock ['antonym'] suck
+poison ['relatedto'] water ['usedfor', 'relatedto', 'atlocation'] drink ['mannerof'] suck
+poison ['relatedto'] water ['atlocation'] mouth ['relatedto'] suck
+poison ['relatedto'] water ['relatedto'] moisture ['relatedto'] suck
+poison ['relatedto'] water ['relatedto'] soak ['etymologicallyrelatedto'] suck
+poison ['relatedto'] bad ['relatedto'] blow_chunks ['relatedto'] suck
+poison ['relatedto'] bad ['relatedto'] weak ['relatedto'] suck
+poison ['relatedto'] bad ['similarto', 'synonym'] inferior ['relatedto'] suck
+poison ['distinctfrom'] good ['relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] worse ['relatedto'] inferior ['relatedto'] suck
+poison ['relatedto'] beverage ['isa', 'relatedto'] milk ['relatedto'] suck
+poison ['relatedto'] beverage ['relatedto', 'synonym'] drink ['mannerof'] suck
+poison ['distinctfrom', 'relatedto'] food ['antonym', 'distinctfrom', 'relatedto'] drink ['mannerof'] suck
+poison ['distinctfrom', 'relatedto'] food ['relatedto', 'atlocation'] mouth ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] food ['isa', 'usedfor', 'relatedto', 'synonym'] nourishment ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] food ['relatedto'] milk ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] food ['relatedto'] tongue ['relatedto'] suck
+poison ['relatedto'] fish ['derivedfrom'] suckfish ['derivedfrom'] suck
+poison ['relatedto'] fish ['relatedto'] rock ['antonym'] suck
+poison ['relatedto'] fish ['relatedto'] tongue ['relatedto'] suck
+poison ['relatedto'] bite ['derivedfrom'] love_bite ['relatedto'] suck
+poison ['relatedto'] bite ['relatedto'] mouth ['relatedto'] suck
+poison ['relatedto'] bite ['relatedto'] lip ['usedfor', 'relatedto'] suck
+poison ['antonym'] sweet ['relatedto'] boiled_sweet ['relatedto'] suck
+poison ['antonym'] sweet ['relatedto'] honeysuckle ['derivedfrom'] suck
+poison ['relatedto'] white ['isa', 'relatedto', 'hasproperty'] milk ['relatedto'] suck
+poison ['relatedto'] bottle ['relatedto', 'atlocation'] drink ['mannerof'] suck
+poison ['relatedto'] bottle ['atlocation'] milk ['relatedto'] suck
+poison ['relatedto'] bottle ['partof'] mouth ['relatedto'] suck
+poison ['isa'] wine ['usedfor', 'mannerof', 'relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] hate ['relatedto'] spite ['relatedto'] suck
+poison ['relatedto'] hurt ['synonym'] spite ['relatedto'] suck
+poison ['mannerof'] change ['mannerof'] draw ['mannerof', 'synonym'] suck
+poison ['relatedto'] related ['relatedto'] lip ['usedfor', 'relatedto'] suck
+poison ['relatedto'] fluid ['relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] fluid ['relatedto'] milk ['relatedto'] suck
+poison ['antonym'] cure ['relatedto'] leech ['relatedto'] suck
+poison ['distinctfrom'] healthy ['antonym'] weak ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] drink ['entails'] suckle ['derivedfrom'] suck
+poison ['distinctfrom', 'relatedto'] drink ['relatedto'] bloodsucker ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] drink ['relatedto'] milk ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] drink ['relatedto'] mouth ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] drink ['relatedto'] nourishment ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] drink ['relatedto'] slurp ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] drink ['relatedto'] soak ['etymologicallyrelatedto'] suck
+poison ['distinctfrom', 'relatedto'] drink ['relatedto'] swig ['relatedto'] suck
+poison ['relatedto'] eat ['relatedto'] bite ['relatedto'] suck
+poison ['relatedto'] eat ['antonym', 'distinctfrom', 'relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] eat ['mannerof', 'relatedto'] slurp ['relatedto'] suck
+poison ['relatedto'] eat ['relatedto'] mouth ['relatedto'] suck
+poison ['relatedto'] eat ['relatedto'] nourishment ['relatedto'] suck
+poison ['relatedto'] spit ['antonym'] drink ['mannerof'] suck
+poison ['relatedto'] spit ['relatedto', 'atlocation'] mouth ['relatedto'] suck
+poison ['relatedto'] spit ['synonym'] tongue ['relatedto'] suck
+poison ['distinctfrom', 'relatedto'] drinkable ['derivedfrom'] drink ['mannerof'] suck
+poison ['distinctfrom', 'relatedto'] drinkable ['relatedto'] milk ['relatedto'] suck
+poison ['relatedto'] matter ['relatedto'] rock ['antonym'] suck
+poison ['relatedto'] lead ['relatedto'] mouthable ['relatedto'] suck
+poison ['synonym'] gas ['relatedto'] milk ['relatedto'] suck
+poison ['relatedto'] liquid ['isa', 'relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] liquid ['isa', 'relatedto'] milk ['relatedto'] suck
+poison ['relatedto'] liquid ['relatedto'] slurp ['relatedto'] suck
+poison ['relatedto'] liquid ['relatedto'] soak ['etymologicallyrelatedto'] suck
+poison ['relatedto'] material ['isa', 'relatedto'] rock ['antonym'] suck
+poison ['relatedto'] material ['relatedto'] milk ['relatedto'] suck
+poison ['relatedto'] material ['relatedto'] tongue ['relatedto'] suck
+poison ['relatedto'] toxic ['relatedto'] mouthable ['relatedto'] suck
+poison ['usedfor', 'mannerof', 'relatedto'] kill ['relatedto'] blow ['antonym', 'distinctfrom', 'relatedto', 'synonym'] suck
+poison ['usedfor', 'mannerof', 'relatedto'] kill ['mannerof'] draw ['mannerof', 'synonym'] suck
+poison ['relatedto'] liquor ['antonym', 'relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] liquor ['relatedto'] swig ['relatedto'] suck
+poison ['antonym', 'relatedto'] medicine ['relatedto'] drink ['mannerof'] suck
+poison ['antonym'] nutrient ['relatedto'] nourishment ['relatedto'] suck
+poison ['distinctfrom'] consumable ['relatedto'] drink ['mannerof'] suck
+poison ['etymologicallyrelatedto', 'relatedto'] potable ['relatedto'] drink ['mannerof'] suck
+poison ['etymologicallyrelatedto', 'relatedto'] potable ['relatedto'] milk ['relatedto'] suck
+poison ['hasa'] cigarette ['relatedto'] mouth ['relatedto'] suck
+poison ['isa'] album ['isa'] crybaby ['relatedto'] suck
+poison ['isa', 'relatedto'] substance ['relatedto'] drink ['mannerof'] suck
+poison ['isa', 'relatedto'] substance ['relatedto'] rock ['antonym'] suck
+poison ['isa', 'relatedto'] venom ['relatedto'] spite ['relatedto'] suck
+poison ['mannerof'] intoxicate ['synonym'] soak ['etymologicallyrelatedto'] suck
+poison ['mannerof', 'relatedto'] drug ['relatedto'] blow ['antonym', 'distinctfrom', 'relatedto', 'synonym'] suck
+poison ['relatedto'] arachnidism ['relatedto'] bite ['relatedto'] suck
+poison ['relatedto'] dram ['relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] bait ['etymologicallyrelatedto', 'relatedto'] bite ['relatedto'] suck
+poison ['relatedto'] drinks ['formof', 'relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] drinks ['relatedto'] milk ['relatedto'] suck
+poison ['relatedto'] example ['relatedto'] rule ['antonym'] suck
+poison ['relatedto'] french ['relatedto'] tongue ['relatedto'] suck
+poison ['relatedto'] french ['relatedto'] fellatio ['relatedto'] suck
+poison ['relatedto'] ingestion ['relatedto'] drink ['mannerof'] suck
+poison ['relatedto'] injury ['relatedto'] bite ['relatedto'] suck
+poison ['relatedto'] injury ['relatedto'] hickey ['relatedto'] suck

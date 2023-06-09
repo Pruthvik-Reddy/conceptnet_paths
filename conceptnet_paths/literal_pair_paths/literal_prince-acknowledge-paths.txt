@@ -1,0 +1,100 @@
+prince ['usedfor'] honor ['mannerof'] accept ['mannerof', 'synonym'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto'] acknowledge
+prince ['relatedto'] boy ['relatedto'] low ['relatedto'] acknowledge
+prince ['relatedto'] state ['relatedto'] avowed ['relatedto'] acknowledge
+prince ['usedfor', 'atlocation'] england ['relatedto'] knowledge ['relatedto'] acknowledge
+prince ['isa'] aristocrat ['relatedto'] advocate ['etymologicallyrelatedto', 'relatedto'] avow ['relatedto', 'synonym'] acknowledge
+prince ['isa'] aristocrat ['relatedto'] advocate ['relatedto'] flat_earther ['relatedto'] acknowledge
+prince ['isa'] aristocrat ['relatedto'] government ['relatedto'] anonymous ['relatedto'] acknowledge
+prince ['isa'] aristocrat ['relatedto'] government ['relatedto'] recognition ['relatedto'] acknowledge
+prince ['usedfor'] honor ['mannerof'] accept ['antonym'] disavow ['relatedto'] acknowledge
+prince ['usedfor'] honor ['mannerof'] accept ['relatedto', 'synonym'] admit ['relatedto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['mannerof'] accept ['relatedto', 'synonym'] assent ['relatedto'] acknowledge
+prince ['usedfor'] honor ['mannerof'] accept ['relatedto'] allow ['relatedto'] acknowledge
+prince ['usedfor'] honor ['mannerof'] accept ['relatedto'] vouchsafe ['relatedto'] acknowledge
+prince ['usedfor'] honor ['mannerof'] accept ['synonym'] avow ['relatedto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto'] honest ['relatedto', 'similarto'] genuine ['relatedto'] acknowledge
+prince ['usedfor'] honor ['formof', 'relatedto', 'synonym'] honour ['relatedto'] recognition ['relatedto'] acknowledge
+prince ['usedfor'] honor ['isa'] esteem ['isa'] accept ['mannerof', 'synonym'] acknowledge
+prince ['usedfor'] honor ['isa'] esteem ['relatedto'] misken ['relatedto'] acknowledge
+prince ['usedfor'] honor ['isa', 'relatedto', 'synonym'] glory ['relatedto'] recognition ['relatedto'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['relatedto'] admit ['relatedto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['relatedto', 'synonym'] notice ['synonym'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['mannerof', 'relatedto', 'entails'] know ['synonym'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['etymologicallyrelatedto'] acknow ['derivedfrom'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['formof', 'synonym'] recognise ['relatedto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['relatedto'] disacknowledge ['relatedto', 'derivedfrom'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['relatedto'] recognition ['relatedto'] acknowledge
+prince ['usedfor'] honor ['mannerof'] recognize ['synonym'] agnize ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] bless ['relatedto'] well ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] bless ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+prince ['usedfor'] honor ['relatedto'] degree ['isa'] low ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] degree ['relatedto'] well ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] dishonour ['relatedto'] accept ['mannerof', 'synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto'] distinguish ['mannerof'] know ['synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto'] distinguish ['relatedto', 'similarto', 'synonym'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] award ['relatedto'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] award ['relatedto'] acknowledgment ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] award ['relatedto'] recognise ['relatedto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] privilege ['relatedto'] concede ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] prize ['synonym'] appreciate ['mannerof'] acknowledge
+prince ['usedfor'] honor ['relatedto'] prize ['mannerof'] recognize ['relatedto', 'similarto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] respect ['mannerof', 'relatedto'] accept ['mannerof', 'synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto'] token ['relatedto'] acknowledgment ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] promise ['etymologicallyrelatedto'] admit ['relatedto', 'synonym'] acknowledge
+prince ['usedfor'] honor ['relatedto'] promise ['relatedto'] stipulate ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] repudiate ['relatedto'] misken ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] reward ['relatedto'] well ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] reward ['relatedto'] thank ['mannerof'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] reward ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+prince ['usedfor'] honor ['relatedto', 'synonym'] reward ['relatedto'] recognition ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] salute ['isa'] recognition ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] salute ['relatedto', 'derivedfrom'] take_salute ['relatedto'] acknowledge
+prince ['usedfor'] honor ['relatedto'] salute ['relatedto'] begreet ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'synonym'] reserve ['synonym'] allow ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] fire ['relatedto'] low ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] plant ['mannerof'] communicate ['mannerof'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto'] article ['relatedto'] receipt ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto'] back ['mannerof'] confirm ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] freedom ['relatedto'] allow ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['atlocation'] knowledge ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['atlocation'] discount_store ['relatedto'] low ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['atlocation'] store ['relatedto'] readback ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] university ['atlocation'] knowledge ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['atlocation'] cow ['relatedto'] low ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] information ['isa', 'relatedto'] knowledge ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] information ['motivatedbygoal', 'relatedto'] communicate ['mannerof'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] information ['relatedto'] know ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] information ['relatedto'] notice ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto'] con ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto', 'derivedfrom'] know ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto'] beknow ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto'] communicate ['mannerof'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto'] acknowledgement ['derivedfrom'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto'] notice ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto'] confess ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['hasa', 'atlocation'] knowledge ['relatedto'] misken ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] name ['antonym', 'relatedto'] anonymous ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] name ['relatedto'] recognition ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] note ['relatedto'] thank ['mannerof'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] note ['relatedto', 'synonym'] notice ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'atlocation'] note ['relatedto'] recognition ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['atlocation'] sign ['relatedto'] notice ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['atlocation'] sign ['mannerof', 'relatedto'] communicate ['mannerof'] acknowledge
+prince ['isa', 'atlocation'] book ['usedfor', 'causesdesire', 'synonym'] learn ['motivatedbygoal', 'relatedto'] knowledge ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['usedfor', 'causesdesire', 'synonym'] learn ['motivatedbygoal', 'haslastsubevent', 'relatedto'] know ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['relatedto', 'hasprerequisite'] reading ['causes', 'relatedto'] knowledge ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] blaze ['relatedto'] low ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] blinding ['formof', 'relatedto', 'derivedfrom'] blind ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] blindness ['relatedto', 'derivedfrom'] blind ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] device ['isa'] well ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa', 'relatedto'] catechism ['relatedto'] knowledge ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] cell ['relatedto'] knowledge ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] confessor ['relatedto'] confess ['synonym'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] curtain ['isa', 'usedfor', 'relatedto'] blind ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa', 'relatedto'] dictionary ['relatedto'] knowledge ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] diplomacy ['isa'] recognition ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa', 'relatedto'] epistle ['relatedto'] communicate ['mannerof'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] firewall ['relatedto'] allow ['relatedto'] acknowledge
+prince ['isa', 'atlocation'] book ['isa'] fountainhead ['synonym'] well ['relatedto'] acknowledge

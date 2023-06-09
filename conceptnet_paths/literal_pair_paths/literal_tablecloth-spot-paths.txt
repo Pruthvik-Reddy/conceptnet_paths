@@ -1,0 +1,100 @@
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] position ['synonym'] spot
+tablecloth ['relatedto'] cover ['mannerof'] bank ['relatedto'] spot
+tablecloth ['relatedto'] cover ['mannerof'] see ['relatedto'] spot
+tablecloth ['relatedto'] cover ['mannerof'] touch ['synonym'] spot
+tablecloth ['relatedto'] cover ['mannerof'] dot ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] bed ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] place ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] shield ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] point ['relatedto', 'synonym'] spot
+tablecloth ['relatedto'] cover ['relatedto'] money ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] patch ['relatedto', 'synonym'] spot
+tablecloth ['relatedto'] cover ['relatedto'] shade ['antonym', 'relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] table ['relatedto'] spot
+tablecloth ['relatedto'] cover ['synonym'] handle ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] bank ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] bar ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] bed ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['atlocation'] dog ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto', 'atlocation'] lamp ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['atlocation'] mail ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] place ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] point ['relatedto', 'synonym'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] surface ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] area ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] location ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] meal ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom', 'atlocation'] table ['relatedto'] round ['relatedto'] spot
+tablecloth ['relatedto'] napkin ['relatedto', 'atlocation'] table ['relatedto'] spot
+tablecloth ['relatedto'] napkin ['relatedto'] clothes ['relatedto'] spot
+tablecloth ['relatedto'] napkin ['relatedto'] color ['relatedto'] spot
+tablecloth ['relatedto'] napkin ['relatedto'] dirt ['relatedto'] spot
+tablecloth ['relatedto'] napkin ['relatedto'] meal ['relatedto'] spot
+tablecloth ['relatedto'] napkin ['relatedto'] place ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom'] cloth ['relatedto', 'atlocation'] table ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom'] cloth ['usedfor', 'relatedto', 'atlocation', 'derivedfrom', 'formof'] clothes ['relatedto'] spot
+tablecloth ['relatedto', 'derivedfrom'] cloth ['usedfor', 'relatedto'] patch ['relatedto', 'synonym'] spot
+tablecloth ['relatedto', 'derivedfrom'] cloth ['relatedto'] shade ['antonym', 'relatedto'] spot
+tablecloth ['relatedto'] protect ['usedfor'] bar ['relatedto'] spot
+tablecloth ['relatedto'] protect ['mannerof'] assist ['relatedto'] spot
+tablecloth ['relatedto'] protect ['capableof', 'mannerof', 'relatedto'] shield ['relatedto'] spot
+tablecloth ['relatedto'] protect ['relatedto'] shade ['antonym', 'relatedto'] spot
+tablecloth ['relatedto'] protect ['relatedto'] smudge ['synonym'] spot
+tablecloth ['relatedto'] protect ['usedfor'] united_states ['relatedto'] spot
+tablecloth ['relatedto'] dining_table ['isa'] table ['relatedto'] spot
+tablecloth ['relatedto'] linens ['relatedto'] bed ['relatedto'] spot
+tablecloth ['formof'] table_cloth ['atlocation'] table ['relatedto'] spot
+tablecloth ['relatedto'] cape ['synonym'] point ['relatedto', 'synonym'] spot
+tablecloth ['relatedto'] nape ['relatedto'] fish ['isa'] spot
+tablecloth ['relatedto'] tablemat ['derivedfrom'] table ['relatedto'] spot
+tablecloth ['usedfor'] decoration ['relatedto'] pattern ['isa'] spot
+tablecloth ['usedfor'] decoration ['usedfor', 'relatedto'] garden ['relatedto'] spot
+tablecloth ['usedfor'] decoration ['isa'] marking ['isa'] spot
+tablecloth ['relatedto'] cover ['synonym'] embrace ['relatedto'] touch ['synonym'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['isa', 'relatedto'] change ['mannerof'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] bit ['synonym'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] distinguish ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] drop ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] find ['relatedto', 'similarto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] itch ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] park ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] payment ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] point ['relatedto', 'synonym'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] run ['desires'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] stop ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] sweet_spot ['isa'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto'] touch ['synonym'] spot
+tablecloth ['relatedto'] cover ['relatedto'] action ['relatedto', 'synonym'] turn ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] behind ['relatedto'] location ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] behind ['relatedto'] place ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] behind ['relatedto'] position ['synonym'] spot
+tablecloth ['relatedto'] cover ['relatedto'] behind ['relatedto'] support ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] behind ['relatedto'] garden ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] behind ['relatedto'] shade ['antonym', 'relatedto'] spot
+tablecloth ['relatedto'] cover ['isa'] fire ['isa'] smudge ['synonym'] spot
+tablecloth ['relatedto'] cover ['isa'] fire ['relatedto'] bright ['relatedto'] spot
+tablecloth ['relatedto'] cover ['isa'] fire ['relatedto'] color ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] enemy ['relatedto'] dog ['relatedto'] spot
+tablecloth ['relatedto'] cover ['mannerof', 'relatedto'] hide ['antonym', 'distinctfrom', 'relatedto'] find ['relatedto', 'similarto'] spot
+tablecloth ['relatedto'] cover ['mannerof', 'relatedto'] hide ['distinctfrom'] see ['relatedto'] spot
+tablecloth ['relatedto'] cover ['mannerof', 'relatedto'] hide ['isa'] nook ['relatedto'] spot
+tablecloth ['relatedto'] cover ['mannerof', 'relatedto'] hide ['relatedto'] place ['relatedto'] spot
+tablecloth ['relatedto'] cover ['mannerof', 'relatedto'] hide ['relatedto'] run ['desires'] spot
+tablecloth ['relatedto'] cover ['mannerof', 'relatedto'] hide ['relatedto'] support ['relatedto'] spot
+tablecloth ['relatedto'] cover ['mannerof', 'relatedto'] hide ['relatedto'] shade ['antonym', 'relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] around ['antonym'] middle ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] around ['formof', 'relatedto', 'derivedfrom', 'synonym'] round ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] around ['relatedto'] area ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] around ['relatedto'] place ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] around ['relatedto'] point ['relatedto', 'synonym'] spot
+tablecloth ['relatedto'] cover ['relatedto'] around ['relatedto'] pigeon ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] around ['relatedto'] turn ['relatedto'] spot
+tablecloth ['relatedto'] cover ['antonym'] leave ['mannerof'] change ['mannerof'] spot
+tablecloth ['relatedto'] cover ['antonym'] leave ['mannerof'] run ['desires'] spot
+tablecloth ['relatedto'] cover ['antonym'] leave ['relatedto'] blackspot ['derivedfrom'] spot
+tablecloth ['relatedto'] cover ['antonym'] leave ['relatedto'] stop ['relatedto'] spot
+tablecloth ['relatedto'] cover ['antonym'] leave ['relatedto'] nest ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] defend ['relatedto'] shield ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] defend ['synonym'] support ['relatedto'] spot
+tablecloth ['relatedto'] cover ['relatedto'] position ['isa', 'relatedto'] point ['relatedto', 'synonym'] spot

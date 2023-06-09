@@ -1,0 +1,100 @@
+path ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['relatedto'] declivity ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['relatedto'] bottom ['distinctfrom'] surface ['mannerof'] ascend
+path ['relatedto'] bottom ['relatedto'] fall ['antonym'] ascend
+path ['relatedto'] current ['relatedto'] smokejack ['relatedto'] ascend
+path ['relatedto'] well ['isa'] stairwell ['usedfor'] ascend
+path ['relatedto'] well ['mannerof'] surface ['mannerof'] ascend
+path ['relatedto'] block ['relatedto'] autoblock ['relatedto'] ascend
+path ['relatedto'] career ['mannerof'] travel ['mannerof'] ascend
+path ['isa', 'relatedto'] line ['isa'] ascender ['relatedto', 'derivedfrom'] ascend
+path ['isa', 'relatedto'] line ['relatedto'] fly ['relatedto'] ascend
+path ['isa', 'relatedto'] line ['relatedto'] follow ['mannerof'] ascend
+path ['isa', 'relatedto'] line ['relatedto'] surface ['mannerof'] ascend
+path ['isa', 'relatedto'] line ['relatedto'] plummet ['antonym'] ascend
+path ['isa', 'relatedto'] line ['relatedto'] scale ['relatedto'] ascend
+path ['isa', 'relatedto'] line ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['isa', 'relatedto'] line ['relatedto'] twine ['relatedto'] ascend
+path ['relatedto'] edge ['relatedto'] climax ['relatedto'] ascend
+path ['relatedto'] edge ['relatedto'] fall ['antonym'] ascend
+path ['relatedto'] edge ['relatedto'] surface ['mannerof'] ascend
+path ['relatedto'] edge ['relatedto'] fly ['relatedto'] ascend
+path ['relatedto', 'synonym'] course ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['isa'] walk ['relatedto'] climb ['relatedto', 'synonym'] ascend
+path ['isa'] walk ['relatedto'] follow ['mannerof'] ascend
+path ['isa'] walk ['antonym'] fly ['relatedto'] ascend
+path ['isa'] walk ['isa', 'mannerof', 'relatedto'] travel ['mannerof'] ascend
+path ['isa'] round ['relatedto'] ladder ['relatedto'] ascend
+path ['isa'] round ['mannerof'] travel ['mannerof'] ascend
+path ['relatedto'] road ['isa', 'relatedto'] surface ['mannerof'] ascend
+path ['relatedto'] road ['relatedto'] travel ['mannerof'] ascend
+path ['relatedto'] road ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['relatedto'] fate ['relatedto'] fall ['antonym'] ascend
+path ['relatedto'] lead ['antonym', 'distinctfrom', 'relatedto'] follow ['mannerof'] ascend
+path ['relatedto'] lead ['relatedto'] plummet ['antonym'] ascend
+path ['isa', 'relatedto', 'synonym'] trail ['antonym', 'relatedto', 'synonym'] follow ['mannerof'] ascend
+path ['isa', 'relatedto', 'synonym'] trail ['mannerof'] travel ['mannerof'] ascend
+path ['isa', 'relatedto', 'synonym'] trail ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['relatedto'] leader ['usedfor', 'relatedto'] follow ['mannerof'] ascend
+path ['isa', 'relatedto', 'synonym'] way ['relatedto'] arise ['relatedto'] ascend
+path ['isa', 'relatedto', 'synonym'] way ['relatedto'] climb ['relatedto', 'synonym'] ascend
+path ['isa', 'relatedto', 'synonym'] way ['relatedto'] upcome ['relatedto'] ascend
+path ['isa', 'relatedto', 'synonym'] way ['relatedto'] travel ['mannerof'] ascend
+path ['relatedto'] street ['relatedto'] surface ['mannerof'] ascend
+path ['relatedto'] street ['usedfor'] travel ['mannerof'] ascend
+path ['isa', 'relatedto'] orbit ['relatedto'] node ['relatedto'] ascend
+path ['relatedto'] tree ['relatedto'] node ['relatedto'] ascend
+path ['relatedto'] tree ['usedfor', 'relatedto'] climb ['relatedto', 'synonym'] ascend
+path ['relatedto'] tree ['usedfor', 'relatedto'] climbing ['relatedto'] ascend
+path ['isa', 'relatedto', 'synonym'] track ['relatedto', 'synonym'] follow ['mannerof'] ascend
+path ['isa', 'relatedto', 'synonym'] track ['relatedto'] rawinsonde ['relatedto'] ascend
+path ['isa', 'relatedto', 'synonym'] track ['relatedto'] surface ['mannerof'] ascend
+path ['relatedto'] run ['relatedto', 'synonym'] ladder ['relatedto'] ascend
+path ['relatedto'] run ['antonym', 'relatedto'] rise ['relatedto', 'synonym'] ascend
+path ['relatedto'] run ['mannerof'] succeed ['relatedto'] ascend
+path ['relatedto'] run ['mannerof', 'synonym'] travel ['mannerof'] ascend
+path ['relatedto'] run ['relatedto'] scale ['relatedto'] ascend
+path ['relatedto'] run ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['relatedto'] run ['relatedto'] uprun ['relatedto'] ascend
+path ['relatedto'] slope ['mannerof', 'relatedto'] fall ['antonym'] ascend
+path ['relatedto'] slope ['mannerof'] climb ['relatedto', 'synonym'] ascend
+path ['relatedto'] slope ['relatedto'] ladder ['relatedto'] ascend
+path ['relatedto'] slope ['isa'] ascent ['relatedto'] ascend
+path ['relatedto'] slope ['relatedto'] lift ['relatedto'] ascend
+path ['relatedto'] slope ['relatedto'] rise ['relatedto', 'synonym'] ascend
+path ['relatedto'] slope ['relatedto'] climbing ['relatedto'] ascend
+path ['relatedto'] slope ['relatedto'] hill_climb ['relatedto'] ascend
+path ['relatedto'] slope ['relatedto'] surface ['mannerof'] ascend
+path ['relatedto'] slope ['relatedto'] upward ['relatedto'] ascend
+path ['relatedto', 'synonym'] tread ['antonym'] rise ['relatedto', 'synonym'] ascend
+path ['relatedto', 'synonym'] tread ['isa'] surface ['mannerof'] ascend
+path ['relatedto'] riser ['relatedto'] lift ['relatedto'] ascend
+path ['relatedto'] riser ['relatedto', 'derivedfrom'] rise ['relatedto', 'synonym'] ascend
+path ['relatedto'] twist ['relatedto', 'synonym'] twine ['relatedto'] ascend
+path ['isa'] video_game ['isa'] scramble ['relatedto'] ascend
+path ['isa'] video_game ['isa'] ascendancy ['relatedto', 'derivedfrom'] ascend
+path ['relatedto'] canal ['usedfor', 'relatedto'] travel ['mannerof'] ascend
+path ['relatedto'] cement ['relatedto'] surface ['mannerof'] ascend
+path ['isa', 'relatedto'] circuit ['mannerof'] travel ['mannerof'] ascend
+path ['isa'] beat ['synonym'] scramble ['relatedto'] ascend
+path ['isa'] crossing ['isa'] travel ['mannerof'] ascend
+path ['isa', 'relatedto'] direction ['relatedto'] climb ['relatedto', 'synonym'] ascend
+path ['isa', 'relatedto'] direction ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['isa', 'relatedto', 'synonym'] route ['isa'] ladder ['relatedto'] ascend
+path ['relatedto'] berm ['relatedto'] slope ['mannerof', 'relatedto'] ascend
+path ['relatedto'] equinox ['relatedto'] fall ['antonym'] ascend
+path ['relatedto'] gonihedric ['relatedto'] surface ['mannerof'] ascend
+path ['relatedto'] hodo ['relatedto'] travel ['mannerof'] ascend
+path ['relatedto'] loop ['relatedto'] fly ['relatedto'] ascend
+path ['relatedto'] loop ['relatedto'] penrose_staircase ['relatedto'] ascend
+path ['relatedto'] loop ['relatedto'] penrose_stairs ['relatedto'] ascend
+path ['relatedto'] loop ['relatedto'] penrose_steps ['relatedto'] ascend
+path ['relatedto'] loxodrome ['relatedto'] surface ['mannerof'] ascend
+path ['relatedto'] multipath ['relatedto'] node ['relatedto'] ascend
+path ['relatedto'] ode ['relatedto'] node ['relatedto'] ascend
+path ['relatedto'] overpass ['relatedto'] fly ['relatedto'] ascend
+path ['relatedto'] overpass ['relatedto'] transcend ['relatedto'] ascend
+path ['relatedto'] hiking ['relatedto'] climb ['relatedto', 'synonym'] ascend
+path ['relatedto'] places ['relatedto'] travel ['mannerof'] ascend
+path ['relatedto'] traveled ['formof', 'relatedto', 'derivedfrom'] travel ['mannerof'] ascend
+path ['relatedto'] method ['relatedto'] scale ['relatedto'] ascend

@@ -1,0 +1,100 @@
+building ['relatedto'] gutter
+building ['relatedto', 'partof'] roof ['relatedto', 'atlocation'] gutter
+building ['relatedto'] street ['atlocation'] gutter
+building ['partof'] cullis ['isa', 'relatedto'] gutter
+building ['relatedto'] concrete ['relatedto', 'atlocation'] street ['atlocation'] gutter
+building ['relatedto'] concrete ['relatedto'] water ['relatedto'] gutter
+building ['relatedto'] concrete ['relatedto'] curb ['usedfor', 'relatedto'] gutter
+building ['relatedto'] concrete ['relatedto'] road ['relatedto'] gutter
+building ['relatedto'] human ['atlocation'] homes ['relatedto'] gutter
+building ['relatedto'] human ['relatedto'] run ['mannerof'] gutter
+building ['relatedto'] human ['relatedto'] sewer ['synonym'] gutter
+building ['relatedto'] ground ['antonym'] roof ['relatedto', 'atlocation'] gutter
+building ['relatedto'] ground ['antonym', 'relatedto'] water ['relatedto'] gutter
+building ['relatedto'] ground ['antonym'] sewer ['synonym'] gutter
+building ['relatedto'] ground ['atlocation'] leaf ['relatedto'] gutter
+building ['relatedto'] ground ['relatedto'] ditch ['relatedto'] gutter
+building ['relatedto'] ground ['relatedto'] road ['relatedto'] gutter
+building ['relatedto'] plant ['relatedto'] water ['relatedto'] gutter
+building ['relatedto'] plant ['relatedto', 'partof'] leaf ['relatedto'] gutter
+building ['isa', 'relatedto', 'atlocation'] apartment ['atlocation'] toilet ['synonym'] gutter
+building ['isa', 'relatedto', 'atlocation'] apartment ['relatedto'] homes ['relatedto'] gutter
+building ['isa', 'relatedto'] house ['relatedto', 'partof', 'atlocation'] street ['atlocation'] gutter
+building ['isa', 'relatedto'] house ['atlocation'] toilet ['synonym'] gutter
+building ['isa', 'relatedto'] house ['hasa', 'relatedto', 'partof'] roof ['relatedto', 'atlocation'] gutter
+building ['isa', 'relatedto'] house ['relatedto'] road ['relatedto'] gutter
+building ['isa', 'relatedto'] house ['relatedto'] kennel ['relatedto'] gutter
+building ['isa', 'relatedto'] house ['relatedto'] pin ['relatedto'] gutter
+building ['relatedto'] column ['relatedto'] roof ['relatedto', 'atlocation'] gutter
+building ['relatedto'] home ['antonym', 'relatedto'] street ['atlocation'] gutter
+building ['relatedto'] home ['formof', 'relatedto'] homes ['relatedto'] gutter
+building ['relatedto'] home ['relatedto'] roof ['relatedto', 'atlocation'] gutter
+building ['relatedto'] home ['relatedto'] kennel ['relatedto'] gutter
+building ['relatedto'] front ['antonym', 'distinctfrom', 'relatedto', 'isa'] side ['relatedto'] gutter
+building ['relatedto'] back_door ['relatedto'] street ['atlocation'] gutter
+building ['relatedto'] front_door ['relatedto'] street ['atlocation'] gutter
+building ['relatedto'] bank ['relatedto'] side ['relatedto'] gutter
+building ['relatedto'] bank ['relatedto'] channel ['isa', 'relatedto'] gutter
+building ['relatedto'] bank ['relatedto'] run ['mannerof'] gutter
+building ['relatedto'] bar ['atlocation'] street ['atlocation'] gutter
+building ['relatedto'] bar ['relatedto', 'atlocation'] drunk ['atlocation'] gutter
+building ['relatedto'] bar ['relatedto'] channel ['isa', 'relatedto'] gutter
+building ['partof', 'atlocation'] basement ['relatedto'] water ['relatedto'] gutter
+building ['relatedto'] attic ['relatedto'] roof ['relatedto', 'atlocation'] gutter
+building ['relatedto'] bath ['relatedto', 'atlocation'] water ['relatedto'] gutter
+building ['relatedto'] bath ['relatedto'] toilet ['synonym'] gutter
+building ['relatedto', 'partof'] floor ['antonym', 'distinctfrom', 'relatedto'] roof ['relatedto', 'atlocation'] gutter
+building ['relatedto', 'partof'] floor ['relatedto'] homes ['relatedto'] gutter
+building ['atlocation'] furniture ['relatedto'] toilet ['synonym'] gutter
+building ['relatedto', 'partof'] room ['isa', 'relatedto'] toilet ['synonym'] gutter
+building ['relatedto', 'partof'] room ['relatedto'] homes ['relatedto'] gutter
+building ['relatedto'] sky ['antonym', 'relatedto'] water ['relatedto'] gutter
+building ['relatedto'] sky ['capableof'] rain_water ['relatedto'] gutter
+building ['relatedto'] sky ['usedfor', 'relatedto'] rain ['relatedto'] gutter
+building ['relatedto'] sky ['relatedto'] roof ['relatedto', 'atlocation'] gutter
+building ['usedfor', 'relatedto', 'atlocation'] board ['relatedto'] water ['relatedto'] gutter
+building ['usedfor', 'relatedto', 'atlocation'] board ['mannerof', 'relatedto'] provide ['mannerof'] gutter
+building ['usedfor', 'relatedto', 'atlocation'] board ['relatedto'] side ['relatedto'] gutter
+building ['usedfor', 'relatedto', 'atlocation'] board ['relatedto'] kennel ['relatedto'] gutter
+building ['relatedto'] body ['relatedto'] water ['relatedto'] gutter
+building ['relatedto'] body ['relatedto'] channel ['isa', 'relatedto'] gutter
+building ['relatedto'] body ['relatedto'] garland ['relatedto'] gutter
+building ['relatedto'] bolt ['relatedto'] pin ['relatedto'] gutter
+building ['relatedto'] bottle ['atlocation'] water ['relatedto'] gutter
+building ['isa'] center ['antonym', 'distinctfrom'] side ['relatedto'] gutter
+building ['isa'] center ['relatedto'] pin ['relatedto'] gutter
+building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build ['antonym'] burn ['mannerof'] gutter
+building ['formof', 'etymologicallyrelatedto', 'relatedto', 'derivedfrom'] build ['relatedto'] homes ['relatedto'] gutter
+building ['relatedto', 'hasprerequisite'] work ['derivedfrom', 'atlocation'] worker ['isa'] gutter
+building ['relatedto', 'hasprerequisite'] work ['relatedto'] run ['mannerof'] gutter
+building ['relatedto'] bridge ['relatedto', 'atlocation'] water ['relatedto'] gutter
+building ['relatedto'] bridge ['relatedto', 'atlocation'] road ['relatedto'] gutter
+building ['relatedto'] bridge ['atlocation'] stream ['relatedto'] gutter
+building ['relatedto'] bridge ['relatedto'] burn ['mannerof'] gutter
+building ['hasproperty'] dark ['hasproperty'] street ['atlocation'] gutter
+building ['hasproperty'] dark ['relatedto'] guttery ['relatedto'] gutter
+building ['isa', 'relatedto'] villa ['relatedto'] street ['atlocation'] gutter
+building ['distinctfrom', 'relatedto'] capital ['relatedto'] provide ['mannerof'] gutter
+building ['atlocation'] town ['atlocation'] channel ['isa', 'relatedto'] gutter
+building ['atlocation'] town ['relatedto', 'atlocation'] lane ['relatedto'] gutter
+building ['atlocation'] town ['atlocation'] road ['relatedto'] gutter
+building ['atlocation'] town ['atlocation'] roof ['relatedto', 'atlocation'] gutter
+building ['atlocation'] town ['relatedto'] street ['atlocation'] gutter
+building ['relatedto'] capitol ['relatedto'] roof ['relatedto', 'atlocation'] gutter
+building ['atlocation'] flat ['relatedto'] leaf ['relatedto'] gutter
+building ['atlocation'] flat ['relatedto'] road ['relatedto'] gutter
+building ['relatedto'] castle ['relatedto'] side ['relatedto'] gutter
+building ['atlocation'] ceiling ['relatedto', 'synonym'] roof ['relatedto', 'atlocation'] gutter
+building ['relatedto'] cell ['relatedto'] stream ['relatedto'] gutter
+building ['atlocation'] stool ['relatedto'] channel ['isa', 'relatedto'] gutter
+building ['atlocation'] stool ['relatedto', 'synonym'] toilet ['synonym'] gutter
+building ['relatedto'] city ['relatedto'] water ['relatedto'] gutter
+building ['relatedto'] city ['atlocation'] curb ['usedfor', 'relatedto'] gutter
+building ['relatedto'] city ['relatedto', 'atlocation'] lane ['relatedto'] gutter
+building ['relatedto'] city ['relatedto'] road ['relatedto'] gutter
+building ['relatedto'] city ['relatedto'] side ['relatedto'] gutter
+building ['relatedto'] city ['relatedto'] street ['atlocation'] gutter
+building ['relatedto'] farm ['relatedto'] homes ['relatedto'] gutter
+building ['relatedto'] farm ['relatedto'] side ['relatedto'] gutter
+building ['atlocation'] heat ['relatedto'] water ['relatedto'] gutter
+building ['atlocation'] heat ['relatedto'] burn ['mannerof'] gutter

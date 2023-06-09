@@ -1,0 +1,100 @@
+message ['mannerof', 'relatedto'] communicate
+message ['relatedto'] tell ['relatedto'] communicate
+message ['relatedto'] call ['usedfor', 'relatedto'] communicate
+message ['isa', 'relatedto', 'synonym'] communication ['relatedto', 'derivedfrom'] communicate
+message ['isa', 'relatedto'] request ['mannerof'] communicate
+message ['isa'] information ['motivatedbygoal', 'relatedto'] communicate
+message ['relatedto'] voice ['usedfor', 'relatedto'] communicate
+message ['isa'] broadcast ['relatedto'] communicate
+message ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+message ['isa'] e_mail ['usedfor'] communicate
+message ['relatedto'] facilitated_communication ['relatedto'] communicate
+message ['relatedto'] transmit ['relatedto'] communicate
+message ['relatedto'] nuncius ['relatedto'] communicate
+message ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+message ['relatedto'] telegraph ['relatedto'] communicate
+message ['relatedto'] undercode ['relatedto'] communicate
+message ['relatedto'] short ['relatedto'] flash ['relatedto'] communicate
+message ['relatedto'] short ['relatedto'] sound ['usedfor'] communicate
+message ['relatedto'] short ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+message ['relatedto'] post ['hasprerequisite'] mail_letter ['motivatedbygoal'] communicate
+message ['relatedto'] post ['mannerof'] call ['usedfor', 'relatedto'] communicate
+message ['relatedto'] post ['relatedto'] address ['mannerof'] communicate
+message ['relatedto'] post ['relatedto'] express ['relatedto'] communicate
+message ['relatedto'] post ['relatedto'] internet ['usedfor'] communicate
+message ['relatedto'] post ['relatedto'] newspaper ['capableof'] communicate
+message ['relatedto'] post ['relatedto'] communication ['relatedto', 'derivedfrom'] communicate
+message ['relatedto'] post ['relatedto', 'synonym'] write ['mannerof', 'motivatedbygoal', 'hasprerequisite'] communicate
+message ['relatedto'] post ['relatedto'] pass ['synonym'] communicate
+message ['relatedto'] post ['relatedto'] relay ['mannerof'] communicate
+message ['relatedto'] post ['relatedto', 'synonym'] carry ['mannerof'] communicate
+message ['relatedto'] post ['relatedto'] inform ['mannerof', 'relatedto'] communicate
+message ['relatedto'] post ['relatedto'] blog ['mannerof'] communicate
+message ['relatedto'] post ['relatedto'] sign ['mannerof', 'relatedto'] communicate
+message ['isa'] sensationalism ['relatedto'] knowledge ['relatedto'] communicate
+message ['isa'] approval ['relatedto'] ask ['mannerof'] communicate
+message ['isa'] approval ['relatedto'] nod ['mannerof'] communicate
+message ['relatedto'] reply ['relatedto'] give ['mannerof'] communicate
+message ['relatedto'] reply ['antonym', 'distinctfrom'] ask ['mannerof'] communicate
+message ['relatedto'] reply ['antonym', 'relatedto'] request ['mannerof'] communicate
+message ['relatedto'] reply ['antonym'] tell ['relatedto'] communicate
+message ['relatedto'] reply ['haslastsubevent'] listen ['haslastsubevent', 'hasprerequisite'] communicate
+message ['relatedto'] reply ['relatedto'] call ['usedfor', 'relatedto'] communicate
+message ['relatedto'] reply ['relatedto'] communication ['relatedto', 'derivedfrom'] communicate
+message ['relatedto'] reply ['relatedto', 'synonym'] respond ['haslastsubevent'] communicate
+message ['relatedto'] reply ['relatedto'] send_email ['hasprerequisite'] communicate
+message ['relatedto'] reply ['relatedto'] speak ['relatedto', 'hasfirstsubevent', 'haslastsubevent', 'hasprerequisite', 'isa', 'mannerof'] communicate
+message ['relatedto'] reply ['relatedto'] speech ['relatedto'] communicate
+message ['relatedto'] reply ['relatedto'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate
+message ['relatedto'] reply ['relatedto'] type ['motivatedbygoal'] communicate
+message ['relatedto'] reply ['relatedto'] write ['mannerof', 'motivatedbygoal', 'hasprerequisite'] communicate
+message ['relatedto'] reply ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+message ['relatedto'] tell ['relatedto'] give ['mannerof'] communicate
+message ['relatedto'] tell ['antonym'] ask ['mannerof'] communicate
+message ['relatedto'] tell ['mannerof'] impart ['relatedto'] communicate
+message ['relatedto'] tell ['mannerof', 'relatedto'] inform ['mannerof', 'relatedto'] communicate
+message ['relatedto'] tell ['motivatedbygoal'] mail_letter ['motivatedbygoal'] communicate
+message ['relatedto'] tell ['motivatedbygoal'] write_letter ['motivatedbygoal', 'hasprerequisite'] communicate
+message ['relatedto'] tell ['relatedto'] discuss ['relatedto'] communicate
+message ['relatedto'] tell ['relatedto'] share ['mannerof', 'relatedto'] communicate
+message ['relatedto'] tell ['relatedto'] information ['motivatedbygoal', 'relatedto'] communicate
+message ['relatedto'] tell ['relatedto'] convey ['mannerof', 'relatedto', 'synonym'] communicate
+message ['relatedto'] tell ['relatedto'] prayer ['relatedto'] communicate
+message ['relatedto'] tell ['relatedto'] reveal ['relatedto', 'synonym'] communicate
+message ['relatedto'] tell ['relatedto'] speech ['relatedto'] communicate
+message ['relatedto'] bear ['relatedto'] afford ['synonym'] communicate
+message ['relatedto'] bear ['mannerof', 'relatedto', 'synonym'] carry ['mannerof'] communicate
+message ['relatedto'] conclusion ['relatedto', 'derivedfrom'] conclude ['haslastsubevent'] communicate
+message ['relatedto'] conclusion ['partof'] address ['mannerof'] communicate
+message ['relatedto'] conclusion ['relatedto'] issue ['mannerof'] communicate
+message ['relatedto'] block ['isa', 'relatedto'] type ['motivatedbygoal'] communicate
+message ['relatedto'] block ['relatedto'] telephone ['isa', 'usedfor'] communicate
+message ['relatedto'] block ['relatedto'] writing ['usedfor', 'relatedto'] communicate
+message ['isa'] body ['atlocation'] lips ['usedfor'] communicate
+message ['isa'] body ['partof'] address ['mannerof'] communicate
+message ['isa'] body ['relatedto'] information ['motivatedbygoal', 'relatedto'] communicate
+message ['isa'] body ['relatedto'] knowledge ['relatedto'] communicate
+message ['isa'] body ['relatedto'] type ['motivatedbygoal'] communicate
+message ['isa'] body ['relatedto'] bread ['relatedto'] communicate
+message ['isa'] body ['relatedto'] disease ['relatedto'] communicate
+message ['isa'] body ['relatedto'] exformation ['relatedto'] communicate
+message ['isa'] body ['relatedto'] flash ['relatedto'] communicate
+message ['isa'] body ['relatedto'] issue ['mannerof'] communicate
+message ['isa'] body ['relatedto'] language ['relatedto'] communicate
+message ['relatedto'] bottle ['relatedto', 'atlocation'] wine ['relatedto'] communicate
+message ['relatedto'] call ['mannerof', 'relatedto'] ask ['mannerof'] communicate
+message ['relatedto'] call ['antonym'] respond ['haslastsubevent'] communicate
+message ['relatedto'] call ['isa', 'mannerof', 'relatedto'] request ['mannerof'] communicate
+message ['relatedto'] call ['isa', 'relatedto', 'synonym'] telephone ['isa', 'usedfor'] communicate
+message ['relatedto'] call ['mannerof'] telecommunicate ['mannerof', 'relatedto', 'derivedfrom'] communicate
+message ['relatedto'] call ['usedfor', 'relatedto'] communication ['relatedto', 'derivedfrom'] communicate
+message ['relatedto'] call ['relatedto'] interaction ['motivatedbygoal'] communicate
+message ['relatedto'] call ['relatedto'] talk ['mannerof', 'motivatedbygoal', 'relatedto', 'hasprerequisite'] communicate
+message ['relatedto'] call ['relatedto'] telephones ['usedfor'] communicate
+message ['relatedto'] call ['relatedto'] transmit ['relatedto'] communicate
+message ['relatedto'] call ['relatedto'] voice ['usedfor', 'relatedto'] communicate
+message ['relatedto'] call ['relatedto'] whistle ['mannerof'] communicate
+message ['relatedto'] call ['synonym'] address ['mannerof'] communicate
+message ['relatedto'] call ['usedfor'] communicating ['formof', 'relatedto'] communicate
+message ['relatedto'] email ['antonym'] call ['usedfor', 'relatedto'] communicate
+message ['relatedto'] email ['formof', 'synonym'] e_mail ['usedfor'] communicate

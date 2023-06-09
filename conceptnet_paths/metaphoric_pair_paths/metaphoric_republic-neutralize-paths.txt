@@ -1,0 +1,100 @@
+republic ['distinctfrom', 'relatedto'] state ['relatedto'] acid_base_equilibrium ['relatedto'] neutralize
+republic ['relatedto'] form ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] also ['relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] president ['relatedto'] change ['mannerof'] neutralize
+republic ['distinctfrom', 'relatedto'] democratic ['relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] nothing ['relatedto'] waste ['synonym'] neutralize
+republic ['relatedto'] free ['relatedto'] rest ['relatedto'] balance ['synonym'] neutralize
+republic ['relatedto'] free ['relatedto'] give ['antonym'] kill ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] payment ['antonym'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] agreement ['relatedto'] liquidate ['synonym'] neutralize
+republic ['relatedto'] free ['antonym'] control ['mannerof'] mortify ['relatedto'] neutralize
+republic ['relatedto'] free ['antonym'] control ['relatedto'] compensator ['relatedto'] neutralize
+republic ['relatedto'] free ['antonym', 'distinctfrom', 'relatedto'] cost ['hasa'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['antonym'] stick ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] free ['desires'] information ['hasprerequisite'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['distinctfrom'] charge ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] free ['distinctfrom'] charge ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['mannerof'] bail ['relatedto'] secure ['synonym'] neutralize
+republic ['relatedto'] free ['mannerof', 'relatedto', 'similarto'] clear ['synonym'] balance ['synonym'] neutralize
+republic ['relatedto'] free ['mannerof', 'relatedto', 'similarto'] clear ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['mannerof', 'relatedto', 'similarto'] clear ['relatedto'] liquidate ['synonym'] neutralize
+republic ['relatedto'] free ['mannerof'] run ['mannerof'] waste ['synonym'] neutralize
+republic ['relatedto'] free ['mannerof'] run ['haslastsubevent'] kill ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] business ['relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] coelectron ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] free ['relatedto'] contraction ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] free ['relatedto'] drop ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] dry ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] money ['antonym', 'isa', 'relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] money ['motivatedbygoal'] kill ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] untie ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] yes ['antonym'] negative ['relatedto'] neutralize
+republic ['relatedto'] free ['relatedto'] zero ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] free ['relatedto', 'synonym'] loose ['relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] liberalize ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] pass ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] purify ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] sanitize ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] shade ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] free ['relatedto'] shade ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] free ['relatedto'] un ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] free ['synonym'] spare ['relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] banana ['atlocation'] stomach ['relatedto'] absorbent ['relatedto'] neutralize
+republic ['relatedto'] banana ['atlocation'] stomach ['relatedto'] antacid ['relatedto'] neutralize
+republic ['relatedto'] banana ['atlocation'] stomach ['relatedto'] bile_acid ['relatedto'] neutralize
+republic ['relatedto'] banana ['hasa', 'relatedto'] peel ['relatedto'] waste ['synonym'] neutralize
+republic ['relatedto'] banana ['isa', 'relatedto', 'hasproperty'] yellow ['isa'] change ['mannerof'] neutralize
+republic ['relatedto'] banana ['relatedto'] eat ['relatedto'] destroy ['relatedto'] neutralize
+republic ['relatedto'] banana ['relatedto'] slip ['antonym', 'relatedto'] balance ['synonym'] neutralize
+republic ['relatedto'] band ['antonym'] act ['isa'] waste ['synonym'] neutralize
+republic ['relatedto'] band ['antonym'] act ['relatedto'] counteract ['synonym'] neutralize
+republic ['relatedto'] band ['atlocation'] human ['relatedto'] waste ['synonym'] neutralize
+republic ['relatedto'] band ['isa'] air ['relatedto'] compensator ['relatedto'] neutralize
+republic ['relatedto'] band ['relatedto'] ground ['relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto', 'synonym'] set ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] cool ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] cool ['relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] bias ['antonym'] balance ['synonym'] neutralize
+republic ['relatedto'] band ['atlocation'] batten ['relatedto', 'synonym'] secure ['synonym'] neutralize
+republic ['relatedto'] band ['etymologicallyrelatedto'] bind ['relatedto'] haptophore ['relatedto'] neutralize
+republic ['relatedto'] band ['etymologicallyrelatedto', 'relatedto'] bond ['relatedto'] secure ['synonym'] neutralize
+republic ['relatedto'] band ['isa'] restraint ['relatedto'] secure ['synonym'] neutralize
+republic ['relatedto'] band ['isa', 'relatedto'] bellyband ['relatedto'] secure ['synonym'] neutralize
+republic ['relatedto'] band ['isa', 'relatedto'] camp ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['isa'] cure ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['isa'] girdle ['relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['isa'] kills ['formof'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['isa'] knife ['capableof', 'relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['isa'] opposition ['relatedto'] counteract ['synonym'] neutralize
+republic ['relatedto'] band ['isa'] pain ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] band ['isa'] pain ['relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['isa'] police ['relatedto'] swat ['relatedto'] neutralize
+republic ['relatedto'] band ['isa'] ulcerate ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['isa'] used ['distinctfrom'] waste ['synonym'] neutralize
+republic ['relatedto'] band ['isa'] wanted ['distinctfrom'] waste ['synonym'] neutralize
+republic ['relatedto'] band ['mannerof', 'relatedto'] tie ['relatedto'] secure ['synonym'] neutralize
+republic ['relatedto'] band ['relatedto'] also ['relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] circle ['relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] making ['relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] roll ['mannerof'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] small ['relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] level ['relatedto'] balance ['synonym'] neutralize
+republic ['relatedto'] band ['relatedto'] level ['mannerof', 'relatedto'] destroy ['relatedto'] neutralize
+republic ['relatedto'] band ['relatedto'] energy ['relatedto'] negative ['relatedto'] neutralize
+republic ['relatedto'] band ['relatedto'] machine ['usedfor'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] money ['antonym', 'isa', 'relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] money ['motivatedbygoal'] kill ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] metal ['relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] band ['relatedto'] metal ['relatedto'] compensator ['relatedto'] neutralize
+republic ['relatedto'] band ['relatedto'] rush ['relatedto'] waste ['synonym'] neutralize
+republic ['relatedto'] band ['relatedto'] smash ['relatedto'] destroy ['relatedto'] neutralize
+republic ['relatedto'] band ['relatedto'] stone ['mannerof', 'relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] battle ['relatedto', 'synonym'] action ['isa', 'relatedto'] change ['mannerof'] neutralize
+republic ['relatedto'] battle ['relatedto', 'synonym'] action ['relatedto'] destroy ['relatedto'] neutralize
+republic ['relatedto'] battle ['relatedto', 'synonym'] action ['relatedto'] kill ['mannerof'] neutralize
+republic ['relatedto'] battle ['relatedto'] activity ['isa'] waste ['synonym'] neutralize
+republic ['relatedto'] battle ['atlocation'] human ['relatedto'] waste ['synonym'] neutralize
+republic ['relatedto'] battle ['relatedto'] defeat ['relatedto'] nullify ['synonym'] neutralize
+republic ['relatedto'] battle ['relatedto'] defeat ['relatedto'] destroy ['relatedto'] neutralize
+republic ['relatedto'] battle ['relatedto'] defeat ['relatedto', 'synonym'] kill ['mannerof'] neutralize

@@ -1,0 +1,100 @@
+poland ['isa', 'relatedto'] country ['relatedto'] invasive ['relatedto'] invade
+poland ['partof'] europe ['relatedto'] hun ['relatedto'] invade
+poland ['partof'] europe ['relatedto'] red_jews ['relatedto'] invade
+poland ['relatedto'] pospolite ['relatedto'] invasion ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] babesia ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] human ['relatedto'] piroplasma ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] home ['relatedto'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] inhabit ['mannerof'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] big ['relatedto'] occupy ['synonym'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] term ['relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] community ['relatedto'] inhabit ['mannerof'] invade
+poland ['isa', 'relatedto'] country ['isa', 'relatedto'] china ['relatedto'] occupy ['synonym'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] illegal_alien ['relatedto'] enter ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] cities ['relatedto'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] europe ['relatedto'] hun ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] europe ['relatedto'] red_jews ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] war ['relatedto'] attack ['mannerof'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] war ['relatedto'] conquer ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] war ['hasprerequisite'] conquer_nation ['hasfirstsubevent'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] field ['relatedto'] attack ['mannerof'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] field ['relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] government ['relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'atlocation'] government ['relatedto'] invasion ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] humans ['capableof'] attack ['mannerof'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] leader ['motivatedbygoal'] conquer_nation ['hasfirstsubevent'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] military ['isa', 'relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] military ['relatedto'] invasion ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] military ['relatedto'] invasive ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] mill ['mannerof'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['atlocation'] pit ['relatedto'] trench ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['isa'] germany ['relatedto'] goth ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['isa'] germany ['relatedto'] hun ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['isa'] germany ['relatedto'] red_jews ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['isa'] golden_horde ['relatedto'] invader ['relatedto', 'derivedfrom'] invade
+poland ['isa', 'relatedto'] country ['isa'] huns ['formof'] hun ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['isa'] jin ['relatedto'] invasion ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['isa'] roman_empire ['relatedto'] goth ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] barbarian ['relatedto'] hun ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] chase ['relatedto'] trench ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] conquest ['relatedto', 'derivedfrom'] conquer ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] fields ['relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] general ['relatedto'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] inside ['relatedto'] enter ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] location ['relatedto'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] mass ['isa', 'relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto', 'synonym'] nation ['relatedto'] red_jews ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] native ['relatedto'] invasive ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] open ['mannerof'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] organization ['isa'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] place ['relatedto'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] side ['relatedto'] attack ['mannerof'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] type ['relatedto'] enter ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] race ['mannerof'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] rock ['mannerof', 'relatedto'] move ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] expatriate ['relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] filibuster ['relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] flora ['relatedto'] inhabit ['mannerof'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] foreign ['relatedto'] invasive ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] invasive ['relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] king ['hasprerequisite'] conquer_nation ['hasfirstsubevent'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] nature ['relatedto'] force ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] occupation ['relatedto'] occupy ['synonym'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] peasant ['synonym'] goth ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] pospolite ['relatedto'] invasion ['relatedto'] invade
+poland ['isa', 'relatedto'] country ['relatedto'] show_flag ['relatedto'] force ['relatedto'] invade
+poland ['relatedto'] pole ['isa'] human ['relatedto'] babesia ['relatedto'] invade
+poland ['relatedto'] pole ['isa'] human ['relatedto'] piroplasma ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] position ['antonym'] attack ['mannerof'] invade
+poland ['relatedto'] pole ['relatedto'] position ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] stick ['mannerof'] force ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] bear ['entails'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] board ['mannerof', 'relatedto'] enter ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] board ['mannerof'] inhabit ['mannerof'] invade
+poland ['relatedto'] pole ['relatedto'] board ['relatedto'] invading ['formof'] invade
+poland ['relatedto'] pole ['relatedto'] board ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] pole ['mannerof'] hold ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] pole ['mannerof'] hold ['relatedto', 'similarto'] occupy ['synonym'] invade
+poland ['relatedto'] pole ['relatedto'] induce ['synonym'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] magnetic ['relatedto'] force ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] staff ['isa', 'synonym'] force ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto', 'partof'] magnet ['relatedto'] force ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] peel ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] pin ['mannerof', 'relatedto'] attack ['mannerof'] invade
+poland ['relatedto'] pole ['relatedto'] pin ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] location ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] convey ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] propel ['mannerof', 'relatedto', 'synonym'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] stir ['mannerof', 'relatedto', 'synonym'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] precession ['relatedto'] force ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] reach ['mannerof'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] sign ['relatedto'] enter ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] spill ['mannerof'] move ['relatedto'] invade
+poland ['relatedto'] pole ['relatedto'] tongue ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] polish ['relatedto'] action ['relatedto'] attack ['mannerof'] invade
+poland ['relatedto'] polish ['relatedto'] action ['relatedto'] enter ['relatedto'] invade
+poland ['relatedto'] polish ['relatedto'] action ['relatedto', 'synonym'] force ['relatedto'] invade
+poland ['relatedto'] polish ['relatedto'] action ['relatedto'] move ['relatedto'] invade
+poland ['relatedto'] polish ['relatedto'] apply ['relatedto'] attack ['mannerof'] invade
+poland ['relatedto'] polish ['relatedto'] apply ['relatedto'] force ['relatedto'] invade
+poland ['relatedto'] polish ['relatedto'] apply ['relatedto'] move ['relatedto'] invade

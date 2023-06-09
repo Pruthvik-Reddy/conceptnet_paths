@@ -1,0 +1,100 @@
+knee ['relatedto'] human ['atlocation'] bar ['relatedto'] lock
+knee ['relatedto'] human ['capableof'] drive_car ['haslastsubevent'] lock
+knee ['relatedto'] human ['relatedto', 'partof'] hair ['isa'] lock
+knee ['relatedto'] human ['relatedto'] canal ['relatedto', 'partof'] lock
+knee ['relatedto'] human ['relatedto'] need ['relatedto'] lock
+knee ['relatedto'] ankle ['relatedto', 'derivedfrom'] anklelock ['derivedfrom'] lock
+knee ['relatedto'] ankle ['relatedto'] fetlock ['derivedfrom'] lock
+knee ['relatedto', 'partof'] leg ['isa', 'relatedto', 'synonym'] limb ['relatedto'] lock
+knee ['relatedto', 'partof'] leg ['relatedto'] curl ['relatedto', 'synonym'] lock
+knee ['relatedto', 'partof'] leg ['relatedto'] device ['relatedto'] lock
+knee ['relatedto', 'partof'] leg ['relatedto'] hair ['isa'] lock
+knee ['relatedto', 'partof'] leg ['usedfor', 'relatedto'] hold ['mannerof'] lock
+knee ['relatedto', 'partof'] leg ['relatedto'] stump ['relatedto'] lock
+knee ['relatedto'] blow ['relatedto'] bat ['relatedto'] lock
+knee ['relatedto'] blow ['mannerof', 'relatedto'] move ['relatedto'] lock
+knee ['relatedto'] blow ['relatedto'] hole ['atlocation'] lock
+knee ['relatedto'] blow ['relatedto'] dub ['relatedto'] lock
+knee ['relatedto'] blow ['relatedto'] pound ['relatedto'] lock
+knee ['relatedto'] body ['relatedto'] thing ['relatedto'] lock
+knee ['relatedto'] body ['antonym', 'relatedto'] limb ['relatedto'] lock
+knee ['relatedto'] body ['hasprerequisite'] wrestling ['relatedto'] lock
+knee ['relatedto'] body ['relatedto'] container ['relatedto'] lock
+knee ['relatedto'] body ['relatedto'] four ['relatedto'] lock
+knee ['relatedto'] body ['relatedto'] hair ['isa'] lock
+knee ['relatedto'] body ['relatedto'] receptacle ['relatedto'] lock
+knee ['relatedto'] body ['relatedto'] canal ['relatedto', 'partof'] lock
+knee ['relatedto'] body ['relatedto'] lake ['etymologicallyrelatedto'] lock
+knee ['relatedto'] body ['relatedto'] lift ['relatedto'] lock
+knee ['relatedto'] body ['usedfor', 'relatedto'] move ['relatedto'] lock
+knee ['relatedto'] body ['relatedto'] turn ['relatedto'] lock
+knee ['relatedto'] bone ['relatedto'] container ['relatedto'] lock
+knee ['relatedto'] bone ['relatedto'] limb ['relatedto'] lock
+knee ['relatedto'] bone ['relatedto'] need ['relatedto'] lock
+knee ['relatedto'] bone ['relatedto'] ritual ['relatedto'] lock
+knee ['relatedto'] thigh ['isa'] limb ['relatedto'] lock
+knee ['relatedto'] money ['relatedto'] safe ['relatedto'] lock
+knee ['relatedto'] money ['relatedto', 'atlocation'] drawer ['relatedto', 'partof'] lock
+knee ['relatedto'] money ['relatedto'] pound ['relatedto'] lock
+knee ['relatedto'] cap ['relatedto'] keep ['relatedto'] lock
+knee ['relatedto'] cap ['relatedto', 'synonym'] lid ['partof'] lock
+knee ['relatedto'] cap ['relatedto'] firearm ['partof'] lock
+knee ['relatedto'] crawl ['relatedto'] move ['relatedto'] lock
+knee ['relatedto'] crawl ['relatedto'] enclosure ['isa'] lock
+knee ['relatedto'] trousers ['relatedto'] zipper ['relatedto'] lock
+knee ['relatedto'] walking ['relatedto'] door ['relatedto', 'partof', 'atlocation'] lock
+knee ['relatedto'] walking ['causes', 'relatedto'] move ['relatedto'] lock
+knee ['relatedto'] walking ['relatedto'] limb ['relatedto'] lock
+knee ['relatedto'] middle ['relatedto'] handle ['relatedto'] lock
+knee ['relatedto'] middle ['relatedto'] road ['relatedto'] lock
+knee ['relatedto', 'derivedfrom'] kneehole ['derivedfrom'] hole ['atlocation'] lock
+knee ['isa'] anatomical_structure ['isa'] hair ['isa'] lock
+knee ['isa', 'relatedto'] joint ['relatedto'] bar ['relatedto'] lock
+knee ['isa', 'relatedto'] joint ['relatedto'] crimp ['isa'] lock
+knee ['isa', 'relatedto'] joint ['isa', 'relatedto'] fetlock ['derivedfrom'] lock
+knee ['isa', 'relatedto'] joint ['mannerof'] fasten ['usedfor', 'mannerof', 'relatedto'] lock
+knee ['isa', 'relatedto'] joint ['relatedto'] anklelock ['derivedfrom'] lock
+knee ['isa', 'relatedto'] joint ['relatedto'] dovetail ['relatedto'] lock
+knee ['isa'] external_anatomical_part ['isa'] hair ['isa'] lock
+knee ['relatedto'] beak ['relatedto'] metal ['madeof', 'relatedto'] lock
+knee ['relatedto'] beak ['relatedto'] canal ['relatedto', 'partof'] lock
+knee ['relatedto'] beam ['relatedto'] post ['relatedto'] lock
+knee ['relatedto'] beam ['relatedto'] handle ['relatedto'] lock
+knee ['relatedto'] beam ['usedfor'] hold ['mannerof'] lock
+knee ['relatedto'] beam ['relatedto'] metal ['madeof', 'relatedto'] lock
+knee ['relatedto'] beam ['relatedto'] keyhole ['relatedto', 'partof'] lock
+knee ['relatedto'] bracket ['mannerof'] hold ['mannerof'] lock
+knee ['relatedto'] crutch ['usedfor'] hold ['mannerof'] lock
+knee ['relatedto'] crutch ['isa'] device ['relatedto'] lock
+knee ['relatedto'] crutch ['relatedto'] dag ['relatedto'] lock
+knee ['relatedto'] dib ['relatedto'] hole ['atlocation'] lock
+knee ['relatedto'] feet ['relatedto'] four ['relatedto'] lock
+knee ['relatedto'] feet ['relatedto'] device ['relatedto'] lock
+knee ['relatedto'] feet ['relatedto'] limb ['relatedto'] lock
+knee ['relatedto'] flying_knee ['relatedto'] forward ['relatedto'] lock
+knee ['relatedto'] genouillère ['relatedto'] metal ['madeof', 'relatedto'] lock
+knee ['relatedto'] gousset ['relatedto'] protection ['usedfor', 'relatedto'] lock
+knee ['relatedto'] gusset ['relatedto'] protection ['usedfor', 'relatedto'] lock
+knee ['relatedto'] kick ['relatedto'] pass ['mannerof'] lock
+knee ['relatedto'] kick ['relatedto', 'entails'] move ['relatedto'] lock
+knee ['relatedto'] kick ['relatedto'] device ['relatedto'] lock
+knee ['relatedto'] appendage ['isa'] handle ['relatedto'] lock
+knee ['relatedto'] appendage ['isa', 'relatedto'] limb ['relatedto'] lock
+knee ['relatedto'] bend ['partof'] road ['relatedto'] lock
+knee ['relatedto'] bend ['mannerof', 'relatedto', 'synonym'] turn ['relatedto'] lock
+knee ['relatedto'] bend ['mannerof', 'relatedto', 'synonym'] crook ['relatedto'] lock
+knee ['relatedto'] bend ['relatedto'] securing ['relatedto'] lock
+knee ['relatedto'] body_part ['isa'] hair ['isa'] lock
+knee ['relatedto'] body_part ['isa'] stump ['relatedto'] lock
+knee ['relatedto'] body_part ['relatedto'] limb ['relatedto'] lock
+knee ['relatedto'] hinge ['relatedto'] door ['relatedto', 'partof', 'atlocation'] lock
+knee ['relatedto'] hinge ['partof'] gate ['relatedto', 'partof', 'atlocation'] lock
+knee ['relatedto'] hinge ['partof'] car_door ['atlocation'] lock
+knee ['relatedto'] hinge ['relatedto'] heelpost ['relatedto'] lock
+knee ['relatedto'] member ['relatedto', 'synonym'] limb ['relatedto'] lock
+knee ['relatedto'] part ['relatedto'] post ['relatedto'] lock
+knee ['relatedto'] part ['relatedto'] bar ['relatedto'] lock
+knee ['relatedto'] part ['isa'] thing ['relatedto'] lock
+knee ['relatedto'] part ['isa', 'relatedto'] handle ['relatedto'] lock
+knee ['relatedto'] part ['relatedto'] construct ['mannerof'] lock
+knee ['relatedto'] part ['relatedto'] zipper ['relatedto'] lock

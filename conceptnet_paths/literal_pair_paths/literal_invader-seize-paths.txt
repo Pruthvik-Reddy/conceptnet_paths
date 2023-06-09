@@ -1,0 +1,100 @@
+invader ['relatedto'] space ['relatedto'] opportunity ['relatedto'] seize
+invader ['relatedto'] game ['isa'] catch ['mannerof', 'relatedto'] seize
+invader ['relatedto'] game ['relatedto'] nim ['relatedto'] seize
+invader ['relatedto', 'derivedfrom'] invade ['synonym'] encroach ['relatedto'] seize
+invader ['relatedto', 'synonym'] encroacher ['relatedto', 'derivedfrom'] encroach ['relatedto'] seize
+invader ['relatedto'] space ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] earth ['relatedto'] upon ['relatedto'] seize
+invader ['relatedto'] space ['antonym'] ground ['relatedto'] upon ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] bottom ['relatedto'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] go ['antonym'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] go ['relatedto'] betake ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] go ['relatedto'] capture ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] go ['relatedto'] assume ['synonym'] seize
+invader ['relatedto'] space ['relatedto'] go ['relatedto'] nim ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] set ['synonym'] fix ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] set ['relatedto'] quintate ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] column ['relatedto'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] bar ['mannerof'] fasten ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] bar ['relatedto'] lock ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] bar ['relatedto'] rack ['mannerof'] seize
+invader ['relatedto'] space ['isa', 'relatedto', 'synonym'] room ['isa', 'relatedto'] opportunity ['relatedto'] seize
+invader ['relatedto'] space ['antonym', 'distinctfrom', 'relatedto', 'isa'] time ['relatedto'] fix ['relatedto'] seize
+invader ['relatedto'] space ['antonym', 'distinctfrom', 'relatedto', 'isa'] time ['relatedto'] abstract ['synonym'] seize
+invader ['relatedto'] space ['antonym', 'distinctfrom', 'relatedto', 'isa'] time ['relatedto'] fast ['relatedto'] seize
+invader ['relatedto'] space ['antonym', 'distinctfrom', 'relatedto', 'isa'] time ['relatedto'] snap ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] sky ['relatedto'] upon ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] board ['mannerof'] catch ['mannerof', 'relatedto'] seize
+invader ['relatedto'] space ['relatedto'] board ['relatedto'] capture ['relatedto'] seize
+invader ['relatedto'] space ['atlocation'] box ['relatedto'] nab ['mannerof', 'relatedto'] seize
+invader ['relatedto'] space ['atlocation'] box ['usedfor'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] break ['antonym', 'distinctfrom', 'relatedto'] fix ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] break ['antonym'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] break ['isa', 'mannerof', 'relatedto'] snap ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] break ['relatedto'] snaffle ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] construct ['mannerof'] lock ['relatedto'] seize
+invader ['relatedto'] space ['mannerof'] put ['relatedto'] fix ['relatedto'] seize
+invader ['relatedto'] space ['mannerof'] put ['antonym'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] long ['relatedto'] appropriate ['synonym'] seize
+invader ['relatedto'] space ['relatedto'] long ['relatedto'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] long ['relatedto'] fang ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] button ['usedfor', 'mannerof', 'relatedto'] fasten ['relatedto'] seize
+invader ['relatedto'] space ['relatedto', 'atlocation'] text ['relatedto'] capture ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] capacity ['relatedto'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] capacity ['relatedto'] arrest ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] cell ['isa'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] line ['relatedto'] caburn ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] line ['relatedto'] houseline ['relatedto'] seize
+invader ['relatedto'] space ['atlocation'] table ['relatedto'] upon ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] open ['relatedto'] catch ['mannerof', 'relatedto'] seize
+invader ['relatedto'] space ['relatedto'] open ['capableof'] lock ['relatedto'] seize
+invader ['relatedto'] space ['isa'] opening ['isa', 'relatedto'] opportunity ['relatedto'] seize
+invader ['relatedto'] space ['isa'] opening ['relatedto'] hook ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] colony ['relatedto'] seized ['formof', 'relatedto'] seize
+invader ['relatedto'] space ['relatedto'] unique ['relatedto'] rack ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] walk ['relatedto'] nim ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] curve ['isa', 'relatedto'] hook ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] deep ['relatedto', 'synonym'] fast ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] high ['relatedto'] fast ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] high ['relatedto'] hook ['mannerof'] seize
+invader ['relatedto'] space ['atlocation'] jar ['usedfor'] hold ['relatedto'] seize
+invader ['relatedto'] space ['etymologicallyrelatedto'] speed ['relatedto'] fast ['relatedto'] seize
+invader ['relatedto'] space ['isa'] angle ['relatedto'] catch ['mannerof', 'relatedto'] seize
+invader ['relatedto'] space ['isa'] angle ['relatedto'] hook ['mannerof'] seize
+invader ['relatedto'] space ['isa'] enclosure ['relatedto'] embrace ['relatedto'] seize
+invader ['relatedto'] space ['isa'] enclosure ['isa'] lock ['relatedto'] seize
+invader ['relatedto'] space ['isa'] hole ['synonym'] fix ['relatedto'] seize
+invader ['relatedto'] space ['isa'] hole ['etymologicallyrelatedto'] hold ['relatedto'] seize
+invader ['relatedto'] space ['isa'] hole ['usedfor'] attach ['relatedto', 'synonym'] seize
+invader ['relatedto'] space ['isa'] hole ['atlocation'] lock ['relatedto'] seize
+invader ['relatedto'] space ['isa'] indentation ['relatedto'] crimp ['relatedto'] seize
+invader ['relatedto'] space ['isa', 'relatedto'] key ['usedfor', 'relatedto'] lock ['relatedto'] seize
+invader ['relatedto'] space ['isa', 'relatedto'] key ['relatedto'] wrest ['mannerof', 'relatedto'] seize
+invader ['relatedto'] space ['isa'] seat ['relatedto'] upon ['relatedto'] seize
+invader ['relatedto'] space ['isa', 'relatedto', 'partof'] location ['relatedto'] fix ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] arc ['relatedto'] hook ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] chamber ['relatedto'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] compass ['relatedto'] gripe ['relatedto', 'synonym'] seize
+invader ['relatedto'] space ['relatedto'] field ['relatedto'] hook ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] knot ['synonym'] bind ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] link ['relatedto'] clasp ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] local ['relatedto'] clench ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] local ['antonym'] fast ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] mesh ['isa'] catch ['mannerof', 'relatedto'] seize
+invader ['relatedto'] space ['relatedto'] move ['antonym'] fix ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] move ['relatedto'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] move ['relatedto'] clench ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] move ['relatedto'] grip ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] move ['relatedto'] fast ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] move ['mannerof'] assume ['synonym'] seize
+invader ['relatedto'] space ['relatedto'] move ['mannerof'] grab ['mannerof', 'relatedto', 'synonym'] seize
+invader ['relatedto'] space ['relatedto'] move ['mannerof'] snap ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] move ['relatedto'] betake ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] move ['relatedto'] lock ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] move ['relatedto'] rack ['mannerof'] seize
+invader ['relatedto'] space ['relatedto'] move ['synonym'] impress ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] occupy ['relatedto', 'similarto'] hold ['relatedto'] seize
+invader ['relatedto'] space ['relatedto', 'synonym'] place ['relatedto'] collar ['mannerof', 'relatedto'] seize
+invader ['relatedto'] space ['relatedto'] rocket ['relatedto'] fast ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] run ['relatedto'] fast ['relatedto'] seize
+invader ['relatedto'] space ['relatedto'] size ['relatedto'] abstract ['synonym'] seize
+invader ['relatedto'] space ['relatedto'] size ['relatedto'] collar ['mannerof', 'relatedto'] seize

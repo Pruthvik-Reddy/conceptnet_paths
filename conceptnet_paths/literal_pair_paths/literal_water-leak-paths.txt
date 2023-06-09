@@ -1,0 +1,100 @@
+water ['relatedto'] leak
+water ['relatedto', 'atlocation'] boat ['relatedto', 'atlocation'] leak
+water ['atlocation'] drip ['relatedto'] leak
+water ['usedfor', 'atlocation'] faucet ['relatedto'] leak
+water ['hasa', 'relatedto', 'atlocation'] lake ['etymologicallyrelatedto'] leak
+water ['relatedto', 'atlocation'] pipe ['relatedto'] leak
+water ['atlocation'] pipes ['relatedto'] leak
+water ['relatedto', 'atlocation'] spurt ['relatedto'] leak
+water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] leak
+water ['isa', 'relatedto'] bilge ['mannerof', 'relatedto'] leak
+water ['isa', 'relatedto'] fluid ['relatedto'] leak
+water ['relatedto'] issue ['mannerof'] leak
+water ['relatedto'] plumbing ['relatedto'] leak
+water ['relatedto'] seep ['synonym'] leak
+water ['relatedto'] seepage ['relatedto'] leak
+water ['relatedto'] sinks ['relatedto'] leak
+water ['usedfor'] hole ['isa', 'relatedto'] leak
+water ['atlocation'] underground ['relatedto'] mole ['relatedto'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] air ['isa'] fluid ['relatedto'] leak
+water ['antonym', 'relatedto'] earth ['relatedto'] fissure ['relatedto'] leak
+water ['antonym', 'relatedto'] earth ['relatedto'] mole ['relatedto'] leak
+water ['antonym', 'relatedto'] earth ['relatedto'] pipe ['relatedto'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] escape ['relatedto', 'synonym'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] spill ['relatedto'] leak
+water ['antonym', 'relatedto'] ground ['antonym', 'distinctfrom', 'relatedto'] ceiling ['capableof'] leak
+water ['antonym', 'relatedto'] ground ['relatedto', 'atlocation'] hole ['isa', 'relatedto'] leak
+water ['antonym', 'relatedto'] ground ['relatedto'] mole ['relatedto'] leak
+water ['antonym', 'relatedto'] ground ['relatedto'] seep ['synonym'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] lake ['etymologicallyrelatedto'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] boat ['relatedto', 'atlocation'] leak
+water ['antonym', 'synonym'] burn ['relatedto'] electricity ['relatedto'] leak
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] fluid ['relatedto'] leak
+water ['antonym', 'capableof', 'relatedto'] flow ['capableof', 'relatedto'] liquid ['relatedto'] leak
+water ['antonym', 'capableof', 'relatedto'] flow ['causes', 'relatedto', 'synonym'] run ['relatedto'] leak
+water ['antonym', 'capableof', 'relatedto'] flow ['isa'] drip ['relatedto'] leak
+water ['antonym', 'capableof', 'relatedto'] flow ['isa'] dripping ['relatedto'] leak
+water ['antonym', 'capableof', 'relatedto'] flow ['isa'] seepage ['relatedto'] leak
+water ['antonym', 'capableof', 'relatedto'] flow ['isa'] spill ['relatedto'] leak
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] issue ['mannerof'] leak
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] fluid ['relatedto'] leak
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['isa', 'relatedto'] liquid ['relatedto'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['isa', 'relatedto'] fluid ['relatedto'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] pipe ['relatedto'] leak
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] spill ['relatedto'] leak
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto', 'synonym'] crack ['relatedto'] leak
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] crevice ['relatedto'] leak
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] fissure ['relatedto'] leak
+water ['antonym', 'relatedto'] sky ['relatedto'] ceiling ['capableof'] leak
+water ['antonym', 'relatedto'] soap ['capableof', 'relatedto'] liquid ['relatedto'] leak
+water ['antonym', 'relatedto'] soap ['etymologicallyrelatedto'] seep ['synonym'] leak
+water ['antonym', 'relatedto'] soap ['relatedto'] sinks ['relatedto'] leak
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] boat ['relatedto', 'atlocation'] leak
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['relatedto'] escape ['relatedto', 'synonym'] leak
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['antonym', 'distinctfrom', 'relatedto'] liquid ['relatedto'] leak
+water ['antonym', 'isa'] food ['atlocation'] boat ['relatedto', 'atlocation'] leak
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] liquid ['relatedto'] leak
+water ['antonym', 'relatedto'] wave ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+water ['atlocation'] air_bubble ['relatedto'] fluid ['relatedto'] leak
+water ['atlocation'] air_bubble ['relatedto'] liquid ['relatedto'] leak
+water ['atlocation'] bacteria ['atlocation'] lake ['etymologicallyrelatedto'] leak
+water ['relatedto', 'atlocation'] bass ['atlocation'] lake ['etymologicallyrelatedto'] leak
+water ['hasa', 'relatedto', 'atlocation'] bay ['atlocation'] boat ['relatedto', 'atlocation'] leak
+water ['hasa', 'relatedto', 'atlocation'] bay ['atlocation'] lake ['etymologicallyrelatedto'] leak
+water ['relatedto', 'atlocation'] boat ['relatedto', 'atlocation'] lake ['etymologicallyrelatedto'] leak
+water ['atlocation'] boats ['formof', 'relatedto'] boat ['relatedto', 'atlocation'] leak
+water ['atlocation'] boats ['relatedto'] lake ['etymologicallyrelatedto'] leak
+water ['atlocation'] bottom ['isa'] bilge ['mannerof', 'relatedto'] leak
+water ['atlocation'] canoe ['isa', 'mannerof', 'relatedto'] boat ['relatedto', 'atlocation'] leak
+water ['relatedto', 'atlocation'] current ['relatedto', 'synonym'] electricity ['relatedto'] leak
+water ['relatedto', 'atlocation'] current ['relatedto'] liquid ['relatedto'] leak
+water ['relatedto', 'atlocation'] current ['relatedto'] fluid ['relatedto'] leak
+water ['relatedto', 'atlocation'] eel ['relatedto'] electricity ['relatedto'] leak
+water ['relatedto', 'atlocation'] fish ['atlocation'] boat ['relatedto', 'atlocation'] leak
+water ['relatedto', 'atlocation'] fish ['usedfor', 'relatedto', 'atlocation'] lake ['etymologicallyrelatedto'] leak
+water ['atlocation'] lizard ['atlocation'] lake ['etymologicallyrelatedto'] leak
+water ['atlocation'] lizard ['atlocation'] hole ['isa', 'relatedto'] leak
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['relatedto', 'atlocation'] boat ['relatedto', 'atlocation'] leak
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['antonym', 'distinctfrom', 'relatedto', 'atlocation'] lake ['etymologicallyrelatedto'] leak
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] leak
+water ['relatedto', 'atlocation'] salt ['relatedto'] lake ['etymologicallyrelatedto'] leak
+water ['relatedto', 'atlocation'] salt ['relatedto'] traitor_tracing ['relatedto'] leak
+water ['atlocation'] shipwreck ['relatedto'] boat ['relatedto', 'atlocation'] leak
+water ['atlocation'] silt ['relatedto'] crevice ['relatedto'] leak
+water ['atlocation'] silt ['relatedto'] slit ['relatedto'] leak
+water ['relatedto', 'atlocation'] submarine ['isa', 'relatedto'] boat ['relatedto', 'atlocation'] leak
+water ['atlocation'] arctic ['atlocation'] insulation ['relatedto'] leak
+water ['atlocation'] backpack ['atlocation'] ballpoint_pen ['capableof'] leak
+water ['relatedto', 'atlocation'] bath ['relatedto'] liquid ['relatedto'] leak
+water ['atlocation'] bathroom ['atlocation'] faucet ['relatedto'] leak
+water ['atlocation'] bathroom ['atlocation'] plumbing ['relatedto'] leak
+water ['hasa', 'atlocation'] beer ['atlocation'] boat ['relatedto', 'atlocation'] leak
+water ['hasa', 'atlocation'] beer ['relatedto'] fluid ['relatedto'] leak
+water ['hasa', 'atlocation'] beer ['hasproperty'] liquid ['relatedto'] leak
+water ['atlocation'] bottle ['hasa', 'relatedto'] liquid ['relatedto'] leak
+water ['relatedto', 'atlocation'] bridge ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+water ['atlocation'] bubble ['relatedto'] liquid ['relatedto'] leak
+water ['atlocation'] bucket ['relatedto'] liquid ['relatedto'] leak
+water ['atlocation'] coffee ['relatedto'] break ['causes', 'mannerof', 'relatedto', 'entails'] leak
+water ['atlocation'] coffee ['isa'] liquid ['relatedto'] leak

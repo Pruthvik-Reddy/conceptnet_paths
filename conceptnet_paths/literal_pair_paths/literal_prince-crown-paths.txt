@@ -1,0 +1,100 @@
+prince ['relatedto'] crown
+prince ['usedfor'] honor ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] crown
+prince ['relatedto'] state ['relatedto'] crown
+prince ['similarto'] emperor ['relatedto'] crown
+prince ['relatedto', 'similarto'] king ['relatedto'] crown
+prince ['relatedto'] queen ['relatedto'] crown
+prince ['relatedto'] title ['synonym'] crown
+prince ['isa', 'usedfor', 'relatedto'] royalty ['relatedto'] crown
+prince ['relatedto'] monarch ['relatedto'] crown
+prince ['usedfor', 'relatedto', 'similarto', 'derivedfrom', 'formof'] princess ['relatedto'] crown
+prince ['relatedto'] royal ['relatedto'] crown
+prince ['isa', 'relatedto'] crown_prince ['relatedto', 'derivedfrom'] crown
+prince ['relatedto'] kings ['relatedto'] crown
+prince ['relatedto'] sovereign ['relatedto'] crown
+prince ['relatedto'] taj ['relatedto'] crown
+prince ['isa'] aristocrat ['isa'] monarch ['relatedto'] crown
+prince ['isa'] aristocrat ['isa'] princess ['relatedto'] crown
+prince ['isa'] aristocrat ['isa'] queen ['relatedto'] crown
+prince ['isa'] aristocrat ['relatedto'] government ['relatedto'] crown
+prince ['usedfor'] honor ['relatedto'] decoration ['relatedto'] crown
+prince ['usedfor'] honor ['relatedto', 'synonym'] award ['synonym'] crown
+prince ['usedfor'] honor ['relatedto'] king ['relatedto'] crown
+prince ['usedfor'] honor ['relatedto'] queen ['relatedto'] crown
+prince ['usedfor'] honor ['relatedto'] laurel ['relatedto'] crown
+prince ['usedfor'] honor ['relatedto', 'synonym'] laurels ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['mannerof', 'relatedto'] crown
+prince ['isa', 'atlocation'] book ['relatedto'] thing ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['atlocation'] stack ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['usedfor', 'relatedto', 'atlocation'] title ['synonym'] crown
+prince ['isa', 'atlocation'] book ['isa'] castle ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['isa'] ecce_homo ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['isa'] winner ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['relatedto'] inside ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['relatedto'] piece ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['relatedto'] type ['relatedto'] crown
+prince ['isa', 'atlocation'] book ['relatedto'] garland ['relatedto', 'synonym'] crown
+prince ['relatedto'] boy ['relatedto'] baby ['relatedto'] crown
+prince ['relatedto'] boy ['relatedto'] head ['mannerof', 'relatedto', 'synonym'] crown
+prince ['relatedto'] boy ['relatedto'] male ['relatedto'] crown
+prince ['relatedto'] boy ['relatedto'] former ['relatedto'] crown
+prince ['relatedto'] boy ['relatedto'] mark ['relatedto'] crown
+prince ['relatedto'] female ['antonym'] bull ['relatedto'] crown
+prince ['relatedto'] female ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto', 'similarto'] male ['relatedto'] crown
+prince ['relatedto'] female ['hasproperty'] queens ['relatedto'] crown
+prince ['relatedto'] female ['isa'] dam ['relatedto'] crown
+prince ['relatedto'] female ['isa', 'relatedto'] queen ['relatedto'] crown
+prince ['relatedto'] female ['relatedto'] dress ['relatedto'] crown
+prince ['relatedto'] female ['relatedto'] miss ['relatedto'] crown
+prince ['relatedto'] female ['relatedto'] princess ['relatedto'] crown
+prince ['atlocation'] palace ['relatedto'] big ['relatedto'] crown
+prince ['atlocation'] palace ['isa'] government ['relatedto'] crown
+prince ['atlocation'] palace ['relatedto', 'synonym'] castle ['relatedto'] crown
+prince ['atlocation'] palace ['relatedto'] king ['relatedto'] crown
+prince ['atlocation'] palace ['relatedto'] kings ['relatedto'] crown
+prince ['atlocation'] palace ['relatedto'] monarchs ['relatedto'] crown
+prince ['atlocation'] palace ['relatedto'] queens ['relatedto'] crown
+prince ['atlocation'] palace ['relatedto'] royal ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] special ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] rich ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] big ['relatedto'] crown
+prince ['atlocation'] castle ['isa', 'relatedto'] piece ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto', 'atlocation'] king ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto', 'atlocation'] queen ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto', 'atlocation'] tower ['relatedto'] crown
+prince ['atlocation'] castle ['isa'] fancy ['relatedto'] crown
+prince ['atlocation'] castle ['usedfor', 'relatedto'] kings ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] kings_queens ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] large ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] monarch ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] princess ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] queens ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] royal ['relatedto'] crown
+prince ['atlocation'] castle ['relatedto'] royalty ['relatedto'] crown
+prince ['relatedto'] charm ['relatedto'] bird ['relatedto'] crown
+prince ['relatedto'] charm ['relatedto'] decoration ['relatedto'] crown
+prince ['relatedto'] charm ['relatedto'] jewelry ['relatedto'] crown
+prince ['relatedto'] charm ['relatedto'] type ['relatedto'] crown
+prince ['relatedto'] charm ['relatedto'] power ['relatedto'] crown
+prince ['relatedto'] charming ['synonym'] nice ['relatedto'] crown
+prince ['relatedto'] guy ['synonym'] bird ['relatedto'] crown
+prince ['relatedto'] guy ['synonym'] bull ['relatedto'] crown
+prince ['relatedto'] guy ['relatedto'] thing ['relatedto'] crown
+prince ['relatedto'] guy ['relatedto'] cable ['relatedto'] crown
+prince ['relatedto'] guy ['relatedto'] male ['relatedto'] crown
+prince ['relatedto'] guy ['relatedto'] dress ['relatedto'] crown
+prince ['relatedto'] guy ['relatedto'] king ['relatedto'] crown
+prince ['relatedto'] guy ['relatedto'] mark ['relatedto'] crown
+prince ['relatedto'] state ['isa'] office ['relatedto'] crown
+prince ['relatedto'] state ['isa'] attribute ['relatedto'] crown
+prince ['relatedto'] state ['isa', 'relatedto'] government ['relatedto'] crown
+prince ['relatedto'] state ['isa', 'relatedto'] status ['relatedto'] crown
+prince ['relatedto'] state ['mannerof', 'relatedto', 'similarto'] declare ['relatedto'] crown
+prince ['relatedto'] state ['relatedto'] circuit ['relatedto'] crown
+prince ['relatedto'] state ['relatedto'] circumstance ['relatedto'] crown
+prince ['relatedto'] state ['relatedto'] crown_jewels ['isa', 'relatedto', 'derivedfrom'] crown
+prince ['relatedto'] state ['relatedto'] crown_land ['derivedfrom'] crown
+prince ['relatedto'] state ['relatedto'] former ['relatedto'] crown
+prince ['relatedto'] state ['relatedto'] heat ['relatedto'] crown
+prince ['relatedto'] state ['relatedto'] king ['relatedto'] crown

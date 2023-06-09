@@ -1,0 +1,100 @@
+surface ['hasa'] earth ['relatedto'] fold ['mannerof'] ruffle
+surface ['isa', 'relatedto'] ground ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] land ['relatedto'] fold ['mannerof'] ruffle
+surface ['relatedto'] plant ['relatedto'] species ['relatedto'] ruffle
+surface ['relatedto'] bar ['relatedto'] american ['relatedto'] ruffle
+surface ['relatedto'] plate ['atlocation'] egg ['relatedto'] ruffle
+surface ['relatedto'] plate ['isa'] frill ['relatedto', 'synonym'] ruffle
+surface ['relatedto'] plate ['usedfor'] decoration ['relatedto'] ruffle
+surface ['relatedto'] top ['relatedto', 'synonym'] beat ['relatedto'] ruffle
+surface ['isa', 'relatedto'] bed ['atlocation'] fluff ['synonym'] ruffle
+surface ['isa', 'relatedto'] plane ['relatedto'] genus ['relatedto'] ruffle
+surface ['relatedto'] thin ['relatedto'] drum ['relatedto'] ruffle
+surface ['relatedto'] rough ['formof', 'etymologicallyrelatedto'] ruff ['relatedto'] ruffle
+surface ['relatedto'] paper ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] line ['relatedto'] fluff ['synonym'] ruffle
+surface ['relatedto'] edge ['relatedto'] frill ['relatedto', 'synonym'] ruffle
+surface ['relatedto'] clay ['relatedto'] capsule ['relatedto'] ruffle
+surface ['relatedto', 'atlocation'] solid ['hasproperty'] flute ['relatedto'] ruffle
+surface ['relatedto'] wall ['relatedto'] drum ['relatedto'] ruffle
+surface ['relatedto'] silk ['relatedto'] balayeuse ['relatedto'] ruffle
+surface ['relatedto'] smooth ['antonym'] ruff ['relatedto'] ruffle
+surface ['relatedto'] smooth ['relatedto'] unruffle ['relatedto'] ruffle
+surface ['relatedto'] window ['relatedto'] fold ['mannerof'] ruffle
+surface ['relatedto'] paint ['relatedto'] decoration ['relatedto'] ruffle
+surface ['relatedto'] paint ['relatedto'] roll ['relatedto'] ruffle
+surface ['usedfor'] painting ['relatedto'] marine ['relatedto'] ruffle
+surface ['usedfor'] painting ['usedfor'] decoration ['relatedto'] ruffle
+surface ['isa'] artifact ['isa'] decoration ['relatedto'] ruffle
+surface ['relatedto'] liquid ['relatedto'] egg ['relatedto'] ruffle
+surface ['relatedto'] liquid ['relatedto'] drum ['relatedto'] ruffle
+surface ['relatedto'] liquid ['relatedto'] capsule ['relatedto'] ruffle
+surface ['relatedto'] liquid ['relatedto'] disturb ['relatedto', 'synonym'] ruffle
+surface ['relatedto'] liquid ['relatedto'] ripple ['synonym'] ruffle
+surface ['relatedto'] point ['relatedto'] american ['relatedto'] ruffle
+surface ['madeof'] material ['relatedto'] fold ['mannerof'] ruffle
+surface ['madeof'] material ['isa'] fluff ['synonym'] ruffle
+surface ['madeof'] material ['relatedto'] flounce ['relatedto'] ruffle
+surface ['isa'] inside ['relatedto'] egg ['relatedto'] ruffle
+surface ['isa'] inside ['relatedto'] capsule ['relatedto'] ruffle
+surface ['relatedto'] wrinkle ['mannerof'] fold ['mannerof'] ruffle
+surface ['relatedto'] wrinkle ['relatedto'] frumple ['relatedto'] ruffle
+surface ['relatedto'] wrinkle ['relatedto', 'synonym'] rumple ['synonym'] ruffle
+surface ['relatedto'] superficial ['relatedto'] fluff ['synonym'] ruffle
+surface ['isa', 'relatedto'] side ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] scratch ['relatedto'] ripple ['synonym'] ruffle
+surface ['relatedto'] snow ['relatedto'] fluff ['synonym'] ruffle
+surface ['relatedto'] track ['relatedto'] beat ['relatedto'] ruffle
+surface ['relatedto'] seat ['relatedto'] beat ['relatedto'] ruffle
+surface ['relatedto'] friction ['relatedto'] chafe ['relatedto'] ruffle
+surface ['isa'] sphere ['relatedto'] egg ['relatedto'] ruffle
+surface ['relatedto'] ramp ['relatedto'] american ['relatedto'] ruffle
+surface ['relatedto'] tap ['relatedto'] drum ['relatedto'] ruffle
+surface ['relatedto'] tap ['relatedto'] beat ['relatedto'] ruffle
+surface ['relatedto'] grade ['relatedto'] trim ['relatedto'] ruffle
+surface ['isa'] tread ['entails'] beat ['relatedto'] ruffle
+surface ['relatedto'] carpet ['usedfor', 'relatedto'] decoration ['relatedto'] ruffle
+surface ['synonym'] coat ['mannerof'] egg ['relatedto'] ruffle
+surface ['relatedto'] mouse ['relatedto'] genus ['relatedto'] ruffle
+surface ['relatedto'] file ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] gravel ['relatedto', 'synonym'] annoy ['mannerof'] ruffle
+surface ['isa'] membrane ['isa'] drum ['relatedto'] ruffle
+surface ['relatedto'] reflection ['relatedto'] species ['relatedto'] ruffle
+surface ['isa'] finite_surface_region ['isa'] ripple ['synonym'] ruffle
+surface ['isa'] physical_surface ['isa'] ripple ['synonym'] ruffle
+surface ['isa', 'relatedto'] layer ['relatedto'] egg ['relatedto'] ruffle
+surface ['relatedto'] anodize ['relatedto'] decoration ['relatedto'] ruffle
+surface ['relatedto'] barnacle ['relatedto'] marine ['relatedto'] ruffle
+surface ['relatedto'] blind_tooling ['relatedto'] decoration ['relatedto'] ruffle
+surface ['relatedto'] brace ['relatedto'] drum ['relatedto'] ruffle
+surface ['relatedto'] brace ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] chatter_mark ['relatedto'] ripple ['synonym'] ruffle
+surface ['relatedto'] clap ['mannerof'] beat ['relatedto'] ruffle
+surface ['relatedto'] conjunctivochalasis ['relatedto'] fold ['mannerof'] ruffle
+surface ['relatedto'] control_surface ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] convolution ['relatedto'] fold ['mannerof'] ruffle
+surface ['relatedto'] crust ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] diffusion ['relatedto'] agitation ['relatedto'] ruffle
+surface ['relatedto'] drift ['synonym'] roll ['relatedto'] ruffle
+surface ['relatedto'] egg_ring ['relatedto'] egg ['relatedto'] ruffle
+surface ['relatedto'] elevon ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] entoperipheral ['relatedto'] disturbance ['relatedto'] ruffle
+surface ['relatedto'] etch ['relatedto'] decoration ['relatedto'] ruffle
+surface ['relatedto'] fin ['relatedto'] marine ['relatedto'] ruffle
+surface ['relatedto'] hoodmould ['relatedto'] decoration ['relatedto'] ruffle
+surface ['relatedto'] poid ['relatedto'] roll ['relatedto'] ruffle
+surface ['relatedto'] ripplon ['derivedfrom'] ripple ['synonym'] ruffle
+surface ['relatedto'] roller ['relatedto', 'synonym'] roll ['relatedto'] ruffle
+surface ['relatedto'] shiner ['relatedto'] american ['relatedto'] ruffle
+surface ['relatedto'] shiner ['relatedto'] genus ['relatedto'] ruffle
+surface ['relatedto'] shiner ['relatedto'] species ['relatedto'] ruffle
+surface ['relatedto'] skim ['relatedto'] riffle ['etymologicallyrelatedto', 'relatedto'] ruffle
+surface ['relatedto'] stele ['relatedto'] decoration ['relatedto'] ruffle
+surface ['relatedto'] stroke ['isa'] beat ['relatedto'] ruffle
+surface ['relatedto'] stroke ['isa'] flick ['synonym'] ruffle
+surface ['relatedto'] suboceanic ['similarto'] marine ['relatedto'] ruffle
+surface ['relatedto'] superegg ['derivedfrom'] egg ['relatedto'] ruffle
+surface ['relatedto'] transfer ['mannerof'] shuffle ['synonym'] ruffle
+surface ['relatedto'] tray ['relatedto'] annoy ['mannerof'] ruffle
+surface ['relatedto'] typhlosole ['relatedto'] fold ['mannerof'] ruffle
+surface ['relatedto', 'similarto'] aboveground ['relatedto'] ground ['relatedto'] roll ['relatedto'] ruffle

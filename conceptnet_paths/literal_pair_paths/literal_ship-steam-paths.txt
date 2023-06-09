@@ -1,0 +1,100 @@
+ship ['relatedto'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam
+ship ['antonym', 'distinctfrom', 'relatedto', 'synonym', 'isa'] boat ['relatedto'] steam
+ship ['isa'] steamer ['isa', 'derivedfrom', 'synonym'] steam
+ship ['isa', 'relatedto'] steamship ['isa', 'derivedfrom'] steam
+ship ['mannerof'] travel ['mannerof', 'relatedto'] steam
+ship ['partof'] screw ['relatedto'] steam
+ship ['relatedto'] sail ['distinctfrom'] steam
+ship ['relatedto'] engage ['mannerof'] move ['relatedto'] steam
+ship ['relatedto'] aft ['relatedto'] boat ['relatedto'] steam
+ship ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] air ['antonym', 'relatedto'] steam
+ship ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] steam
+ship ['relatedto'] water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['antonym'] steam
+ship ['relatedto'] water ['relatedto', 'atlocation'] boat ['relatedto'] steam
+ship ['relatedto'] water ['atlocation'] boats ['relatedto'] steam
+ship ['relatedto'] water ['atlocation'] teakettle ['relatedto'] steam
+ship ['relatedto'] water ['relatedto', 'atlocation'] condensation ['relatedto'] steam
+ship ['relatedto'] water ['relatedto', 'atlocation'] fog ['relatedto', 'synonym'] steam
+ship ['relatedto'] water ['usedfor', 'relatedto', 'atlocation'] kettle ['relatedto'] steam
+ship ['relatedto'] water ['hasa', 'relatedto', 'atlocation'] river ['relatedto'] steam
+ship ['relatedto'] water ['relatedto', 'atlocation'] shower ['relatedto'] steam
+ship ['relatedto'] water ['atlocation'] steam_room ['relatedto'] steam
+ship ['relatedto'] water ['etymologicallyrelatedto', 'relatedto', 'atlocation', 'capableof', 'mannerof'] wet ['relatedto'] steam
+ship ['relatedto'] water ['capableof'] evaporate ['relatedto', 'synonym'] steam
+ship ['relatedto'] water ['hasproperty'] cloudy ['relatedto'] steam
+ship ['relatedto'] water ['hasproperty'] cold ['antonym'] steam
+ship ['relatedto'] water ['isa', 'relatedto', 'hasproperty'] liquid ['antonym', 'distinctfrom', 'relatedto'] steam
+ship ['relatedto'] water ['madeof', 'relatedto'] water_vapor ['relatedto'] steam
+ship ['relatedto'] water ['relatedto', 'partof'] hydrogen ['relatedto'] steam
+ship ['relatedto'] water ['receivesaction'] boiled ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] alarm_gauge ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] blowoff ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] boil ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] boilover ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] candlebomb ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] canner ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] carryover ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] cloud ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] commingler ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] dry ['antonym'] steam
+ship ['relatedto'] water ['relatedto'] geyser ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] heat ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] hydronic ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] hydrotrope ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] indigested ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] inspirator ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] mist ['distinctfrom', 'relatedto'] steam
+ship ['relatedto'] water ['relatedto'] moisture ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] moka_pot ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] pot ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] purging ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] sail ['distinctfrom'] steam
+ship ['relatedto'] water ['relatedto'] scoopwheel ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] spout ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] steam_condenser ['relatedto', 'derivedfrom'] steam
+ship ['relatedto'] water ['relatedto'] steam_drum ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] steam_power ['relatedto', 'derivedfrom'] steam
+ship ['relatedto'] water ['relatedto'] steamer ['isa', 'derivedfrom', 'synonym'] steam
+ship ['relatedto'] water ['relatedto'] thermotank ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] vapour ['relatedto', 'synonym'] steam
+ship ['relatedto'] water ['usedfor', 'relatedto'] cooking ['causes', 'relatedto'] steam
+ship ['relatedto'] water ['relatedto'] evaporation ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] substance ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] white ['relatedto'] steam
+ship ['relatedto'] water ['relatedto'] gaseous ['relatedto'] steam
+ship ['relatedto'] crowd ['antonym', 'relatedto'] small ['relatedto'] steam
+ship ['relatedto'] crowd ['relatedto'] type ['relatedto'] steam
+ship ['relatedto'] crowd ['relatedto'] press ['relatedto'] steam
+ship ['relatedto'] navy ['antonym'] air ['antonym', 'relatedto'] steam
+ship ['relatedto'] navy ['relatedto'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam
+ship ['relatedto'] navy ['relatedto'] boat ['relatedto'] steam
+ship ['relatedto'] navy ['relatedto'] based ['relatedto'] steam
+ship ['relatedto'] navy ['relatedto'] boats ['relatedto'] steam
+ship ['relatedto'] departure ['relatedto'] move ['relatedto'] steam
+ship ['relatedto'] disembark ['haslastsubevent'] travel ['mannerof', 'relatedto'] steam
+ship ['relatedto'] disembark ['relatedto'] boat ['relatedto'] steam
+ship ['relatedto'] disembark ['relatedto'] train ['relatedto'] steam
+ship ['relatedto', 'partof'] bow ['relatedto'] type ['relatedto'] steam
+ship ['relatedto', 'partof'] bow ['relatedto'] river ['relatedto'] steam
+ship ['relatedto', 'partof'] bow ['relatedto'] boat ['relatedto'] steam
+ship ['relatedto', 'partof'] bow ['synonym'] stem ['relatedto'] steam
+ship ['relatedto'] back ['mannerof'] travel ['mannerof', 'relatedto'] steam
+ship ['relatedto'] back ['relatedto', 'partof'] small ['relatedto'] steam
+ship ['relatedto'] back ['relatedto'] wind ['relatedto'] steam
+ship ['relatedto'] back ['relatedto'] pot ['relatedto'] steam
+ship ['relatedto'] first_class ['relatedto'] train ['relatedto'] steam
+ship ['relatedto'] well ['hasa', 'relatedto', 'atlocation'] water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam
+ship ['relatedto'] well ['relatedto'] blowout ['relatedto'] steam
+ship ['relatedto'] well ['relatedto'] liquid ['antonym', 'distinctfrom', 'relatedto'] steam
+ship ['relatedto'] well ['relatedto'] screw ['relatedto'] steam
+ship ['partof'] top ['relatedto'] leg ['relatedto'] steam
+ship ['partof'] top ['isa'] software ['isa'] steam
+ship ['partof'] top ['relatedto'] escape ['relatedto'] steam
+ship ['partof'] top ['relatedto'] high ['relatedto'] steam
+ship ['partof'] top ['relatedto'] pot ['relatedto'] steam
+ship ['partof'] top ['relatedto'] power ['relatedto'] steam
+ship ['relatedto'] battle ['relatedto'] shower ['relatedto'] steam
+ship ['relatedto'] battle ['relatedto'] small ['relatedto'] steam
+ship ['relatedto'] battle ['relatedto'] river ['relatedto'] steam
+ship ['relatedto'] battle ['relatedto'] train ['relatedto'] steam
+ship ['relatedto'] big ['relatedto'] leg ['relatedto'] steam

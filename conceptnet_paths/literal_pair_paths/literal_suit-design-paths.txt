@@ -1,0 +1,100 @@
+suit ['synonym'] action ['relatedto'] design
+suit ['relatedto'] clothing ['relatedto'] design
+suit ['relatedto'] clothes ['relatedto'] design
+suit ['antonym'] dress ['relatedto'] design
+suit ['relatedto'] matching ['relatedto'] design
+suit ['synonym'] accommodate ['relatedto'] extensibility ['relatedto'] design
+suit ['synonym'] action ['relatedto'] fix ['relatedto'] design
+suit ['synonym'] action ['relatedto'] purpose ['synonym'] design
+suit ['synonym'] action ['antonym', 'distinctfrom', 'relatedto'] rest ['relatedto'] design
+suit ['synonym'] action ['capableof'] dress ['relatedto'] design
+suit ['synonym'] action ['isa', 'relatedto'] work ['relatedto'] design
+suit ['synonym'] action ['isa'] plot ['relatedto'] design
+suit ['synonym'] action ['relatedto'] device ['isa'] design
+suit ['synonym'] action ['relatedto'] appoint ['relatedto'] design
+suit ['synonym'] action ['relatedto'] attack ['relatedto'] design
+suit ['synonym'] action ['relatedto'] break ['relatedto'] design
+suit ['synonym'] action ['relatedto'] control ['relatedto'] design
+suit ['synonym'] action ['relatedto'] cut ['mannerof'] design
+suit ['synonym'] action ['relatedto'] destroy ['antonym'] design
+suit ['synonym'] action ['relatedto'] draw ['relatedto'] design
+suit ['synonym'] action ['relatedto'] figure ['synonym'] design
+suit ['synonym'] action ['relatedto'] lay ['relatedto'] design
+suit ['synonym'] action ['relatedto'] look ['relatedto'] design
+suit ['synonym'] action ['relatedto'] organization ['relatedto'] design
+suit ['synonym'] action ['relatedto'] planning ['isa', 'relatedto'] design
+suit ['synonym'] action ['relatedto'] print ['relatedto'] design
+suit ['synonym'] action ['relatedto'] punch ['relatedto'] design
+suit ['synonym'] action ['relatedto'] routine ['relatedto'] design
+suit ['synonym'] action ['relatedto'] scheme ['relatedto'] design
+suit ['synonym'] action ['relatedto'] slash ['relatedto'] design
+suit ['relatedto'] marriage ['relatedto'] parti ['relatedto'] design
+suit ['atlocation'] human ['relatedto', 'atlocation'] home ['relatedto'] design
+suit ['atlocation'] human ['relatedto'] art ['relatedto'] design
+suit ['atlocation'] human ['relatedto'] baby_formula ['relatedto'] design
+suit ['atlocation'] human ['relatedto'] cut ['mannerof'] design
+suit ['atlocation'] human ['relatedto'] ekistics ['relatedto'] design
+suit ['atlocation'] human ['relatedto'] model ['relatedto'] design
+suit ['atlocation'] human ['relatedto'] organization ['relatedto'] design
+suit ['atlocation'] human ['relatedto'] work ['relatedto'] design
+suit ['mannerof', 'synonym'] agree ['relatedto'] action ['relatedto'] design
+suit ['relatedto'] armor ['antonym', 'relatedto'] clothing ['relatedto'] design
+suit ['relatedto'] armor ['relatedto'] wardrobe ['relatedto'] design
+suit ['relatedto'] clothing ['relatedto'] pattern ['relatedto', 'synonym'] design
+suit ['relatedto'] clothing ['isa', 'relatedto'] dress ['relatedto'] design
+suit ['relatedto'] clothing ['relatedto', 'partof'] wardrobe ['relatedto'] design
+suit ['relatedto'] clothing ['relatedto', 'synonym'] clothes ['relatedto'] design
+suit ['relatedto'] clothing ['usedfor', 'relatedto'] fabric ['relatedto'] design
+suit ['relatedto'] clothing ['relatedto'] fashion ['relatedto'] design
+suit ['relatedto'] clothing ['relatedto'] quilt ['relatedto'] design
+suit ['relatedto'] clothing ['relatedto'] structure ['relatedto'] design
+suit ['relatedto'] coin ['relatedto'] plate ['atlocation'] design
+suit ['relatedto'] coin ['relatedto', 'partof'] obverse ['relatedto'] design
+suit ['relatedto'] coin ['relatedto'] shape ['relatedto'] design
+suit ['relatedto'] coin ['relatedto'] emboss ['relatedto'] design
+suit ['relatedto'] coin ['relatedto'] pagoda ['relatedto'] design
+suit ['relatedto'] birthday ['relatedto'] marking ['isa'] design
+suit ['relatedto'] boss ['derivedfrom'] deboss ['relatedto'] design
+suit ['relatedto'] boss ['relatedto', 'derivedfrom', 'synonym'] emboss ['relatedto'] design
+suit ['relatedto'] boss ['relatedto', 'desires'] work ['relatedto'] design
+suit ['relatedto'] boss ['relatedto'] quality ['relatedto'] design
+suit ['relatedto'] boss ['relatedto'] control ['relatedto'] design
+suit ['relatedto'] boss ['relatedto'] master ['relatedto'] design
+suit ['relatedto'] business ['antonym'] art ['relatedto'] design
+suit ['relatedto'] business ['antonym'] home ['relatedto'] design
+suit ['relatedto'] business ['relatedto'] work ['relatedto'] design
+suit ['relatedto'] business ['relatedto', 'derivedfrom'] business_architect ['relatedto'] design
+suit ['relatedto'] business ['isa', 'relatedto'] organization ['relatedto'] design
+suit ['relatedto'] business ['relatedto'] form ['relatedto'] design
+suit ['relatedto'] business ['relatedto'] job ['relatedto'] design
+suit ['relatedto'] business ['relatedto'] making ['relatedto'] design
+suit ['relatedto'] business ['relatedto', 'synonym'] occupation ['relatedto'] design
+suit ['relatedto'] business ['relatedto'] quality ['relatedto'] design
+suit ['relatedto'] respond ['relatedto'] action ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto', 'synonym'] action ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] lay ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] work ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] clothes ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] device ['isa'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] follower ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] job ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] project ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] engineering ['relatedto'] design
+suit ['distinctfrom', 'relatedto'] case ['relatedto'] lance ['relatedto'] design
+suit ['relatedto'] card ['relatedto'] device ['isa'] design
+suit ['relatedto'] card ['relatedto'] master ['relatedto'] design
+suit ['relatedto'] card ['relatedto'] written ['relatedto'] design
+suit ['relatedto'] card ['relatedto'] fabric ['relatedto'] design
+suit ['relatedto'] card ['relatedto'] draw ['relatedto'] design
+suit ['relatedto'] card ['relatedto'] high ['relatedto'] design
+suit ['relatedto'] cause ['relatedto'] purpose ['synonym'] design
+suit ['relatedto'] cause ['relatedto'] action ['relatedto'] design
+suit ['relatedto'] cause ['relatedto', 'synonym'] create ['mannerof', 'relatedto'] design
+suit ['relatedto'] cause ['relatedto'] work ['relatedto'] design
+suit ['relatedto'] cause ['derivedfrom'] formal_cause ['relatedto'] design
+suit ['relatedto'] cause ['relatedto'] cut ['mannerof'] design
+suit ['relatedto'] cause ['relatedto'] draw ['relatedto'] design
+suit ['relatedto'] cause ['relatedto'] dysteleology ['relatedto'] design
+suit ['relatedto'] cause ['relatedto'] functionalism ['relatedto'] design
+suit ['atlocation'] closet ['relatedto', 'atlocation'] clothing ['relatedto'] design
+suit ['atlocation'] closet ['relatedto', 'atlocation'] clothes ['relatedto'] design

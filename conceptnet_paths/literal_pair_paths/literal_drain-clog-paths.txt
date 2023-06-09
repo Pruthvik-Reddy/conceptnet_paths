@@ -1,0 +1,100 @@
+drain ['antonym'] fill ['mannerof'] clog
+drain ['relatedto'] declogger ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] clam ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['mannerof', 'relatedto'] fill ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto'] wet_sanding ['relatedto'] clog
+drain ['relatedto'] stop ['relatedto', 'derivedfrom', 'synonym'] stopper ['synonym'] clog
+drain ['relatedto'] stop ['etymologicallyrelatedto'] stuff ['mannerof'] clog
+drain ['relatedto'] stop ['haslastsubevent'] dance ['mannerof'] clog
+drain ['relatedto'] stop ['relatedto', 'synonym'] block ['relatedto'] clog
+drain ['relatedto'] stop ['synonym'] blockage ['relatedto'] clog
+drain ['antonym'] fill ['mannerof', 'relatedto'] load ['synonym'] clog
+drain ['antonym'] fill ['mannerof', 'relatedto'] stuff ['mannerof'] clog
+drain ['antonym'] fill ['similarto'] congest ['similarto', 'synonym'] clog
+drain ['antonym'] fill ['synonym'] stopper ['synonym'] clog
+drain ['relatedto'] waste ['relatedto'] stuff ['mannerof'] clog
+drain ['mannerof', 'relatedto'] empty ['antonym', 'distinctfrom', 'relatedto'] fill ['mannerof'] clog
+drain ['atlocation'] overflow ['relatedto'] fill ['mannerof'] clog
+drain ['isa'] emptying ['antonym', 'distinctfrom'] fill ['mannerof'] clog
+drain ['isa'] pipe ['relatedto'] embarrass ['synonym'] clog
+drain ['isa', 'relatedto', 'partof'] sewer ['relatedto'] fatberg ['relatedto'] clog
+drain ['isa'] trap ['synonym'] trammel ['synonym'] clog
+drain ['mannerof'] run ['relatedto'] slow ['mannerof', 'relatedto'] clog
+drain ['relatedto'] barrow ['relatedto'] load ['synonym'] clog
+drain ['relatedto'] declogger ['derivedfrom'] declog ['derivedfrom'] clog
+drain ['relatedto'] tub ['relatedto'] slow ['mannerof', 'relatedto'] clog
+drain ['relatedto'] liquid ['relatedto'] declogger ['relatedto'] clog
+drain ['relatedto'] liquid ['relatedto'] gunge ['relatedto'] clog
+drain ['relatedto'] drill ['relatedto'] dance ['mannerof'] clog
+drain ['relatedto'] lade ['relatedto'] fill ['mannerof'] clog
+drain ['relatedto'] lade ['etymologicallyrelatedto', 'relatedto', 'synonym'] load ['synonym'] clog
+drain ['relatedto'] lade ['relatedto'] burden ['synonym'] clog
+drain ['relatedto'] pot ['madeof', 'relatedto'] clay ['etymologicallyrelatedto'] clog
+drain ['relatedto'] stench_trap ['relatedto'] foul ['relatedto', 'synonym'] clog
+drain ['relatedto'] trogue ['relatedto'] wooden ['relatedto'] clog
+drain ['relatedto'] turpentine ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto'] unclogger ['relatedto'] unclog ['derivedfrom'] clog
+drain ['relatedto'] unplug ['relatedto'] blockage ['relatedto'] clog
+drain ['relatedto'] unplug ['synonym'] unclog ['derivedfrom'] clog
+drain ['relatedto'] underground ['relatedto', 'atlocation'] coal ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto'] underground ['atlocation'] water ['atlocation'] clam ['relatedto'] clog
+drain ['relatedto'] underground ['atlocation'] water ['mannerof', 'relatedto'] fill ['mannerof'] clog
+drain ['relatedto'] underground ['atlocation'] water ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto'] underground ['atlocation'] water ['relatedto'] wet_sanding ['relatedto'] clog
+drain ['relatedto'] underground ['relatedto', 'derivedfrom'] ground ['isa'] clay ['etymologicallyrelatedto'] clog
+drain ['relatedto'] underground ['relatedto', 'derivedfrom'] ground ['mannerof'] restrain ['mannerof', 'synonym'] clog
+drain ['relatedto'] underground ['relatedto', 'derivedfrom'] ground ['relatedto'] block ['relatedto'] clog
+drain ['relatedto'] underground ['isa'] localized_spatial_thing ['isa'] clot ['synonym'] clog
+drain ['relatedto'] underground ['relatedto'] dunny ['relatedto'] slow ['mannerof', 'relatedto'] clog
+drain ['relatedto'] underground ['relatedto'] plant ['relatedto'] sole ['relatedto'] clog
+drain ['relatedto'] underground ['relatedto'] sewer ['relatedto'] fatberg ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto'] basic ['relatedto'] shoe ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] fill ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] choke ['synonym'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] earth ['relatedto', 'synonym'] clay ['etymologicallyrelatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] earth ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] fire ['relatedto'] trammel ['synonym'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] ground ['isa'] clay ['etymologicallyrelatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] ground ['mannerof'] restrain ['mannerof', 'synonym'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] ground ['relatedto'] block ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] bread ['relatedto'] heel ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] bread ['relatedto'] load ['synonym'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] bread ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] block ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] oil ['relatedto'] wet_sanding ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] sand ['relatedto'] clay ['etymologicallyrelatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] sand ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] sand ['relatedto'] wet_sand ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] sky ['etymologicallyrelatedto'] shoe ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] soap ['relatedto'] block ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] soap ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['antonym', 'relatedto'] wave ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] algae ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] boat ['relatedto'] wooden ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] bottom ['isa', 'relatedto'] heel ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] bottom ['isa', 'relatedto'] sole ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] canoe ['relatedto'] shoe ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] eel ['relatedto'] glut ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] fish ['relatedto'] sole ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] salt ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] shells ['relatedto'] clam ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'desires', 'atlocation'] turtle ['relatedto'] slow ['mannerof', 'relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] bath ['usedfor'] fill ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] bucket ['relatedto'] fill ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] closet ['relatedto', 'atlocation'] shoe ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] container ['relatedto'] fill ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] container ['relatedto'] shoe ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] container ['relatedto'] stopper ['synonym'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] dam ['mannerof'] obstruct ['mannerof', 'synonym'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] dam ['relatedto'] forstop ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] flood ['mannerof'] fill ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] flood ['synonym'] glut ['relatedto'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] frost ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] glass ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] gym ['relatedto'] stuff ['mannerof'] clog
+drain ['relatedto', 'atlocation'] water ['atlocation'] ice_cube ['isa'] block ['relatedto'] clog

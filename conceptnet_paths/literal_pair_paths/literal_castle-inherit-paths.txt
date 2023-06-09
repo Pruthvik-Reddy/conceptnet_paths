@@ -1,0 +1,100 @@
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] house ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] position ['relatedto'] title ['relatedto'] inherit
+castle ['relatedto'] special ['relatedto'] property ['relatedto'] inherit
+castle ['isa', 'relatedto'] home ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] right ['relatedto'] patrimony ['relatedto'] inherit
+castle ['relatedto'] right ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] right ['relatedto'] transmission ['relatedto'] inherit
+castle ['relatedto'] bar ['relatedto'] characteristic ['relatedto'] inherit
+castle ['relatedto'] bar ['relatedto'] legal ['relatedto'] inherit
+castle ['relatedto'] bar ['relatedto'] succession ['relatedto'] inherit
+castle ['relatedto'] full ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] noble ['relatedto'] characteristic ['relatedto'] inherit
+castle ['relatedto'] noble ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] noble ['relatedto'] hereditary ['relatedto'] inherit
+castle ['relatedto'] noble ['relatedto'] title ['relatedto'] inherit
+castle ['relatedto'] rich ['relatedto'] class ['relatedto'] inherit
+castle ['isa'] book ['usedfor', 'relatedto', 'atlocation'] title ['relatedto'] inherit
+castle ['isa'] book ['isa'] inheritance ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] inherit
+castle ['relatedto', 'atlocation'] england ['atlocation'] erf ['etymologicallyrelatedto'] inherit
+castle ['atlocation'] germany ['relatedto'] successor ['relatedto'] inherit
+castle ['relatedto', 'atlocation'] king ['relatedto'] crown_prince ['relatedto'] inherit
+castle ['relatedto', 'atlocation'] king ['relatedto'] title ['relatedto'] inherit
+castle ['atlocation'] prince ['relatedto'] title ['relatedto'] inherit
+castle ['atlocation'] prince ['isa', 'relatedto'] crown_prince ['relatedto'] inherit
+castle ['relatedto', 'atlocation'] queen ['relatedto'] title ['relatedto'] inherit
+castle ['isa'] fancy ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] building ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] housing ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] middle ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] place ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] place ['relatedto', 'synonym'] property ['relatedto'] inherit
+castle ['relatedto'] princess ['relatedto'] title ['relatedto'] inherit
+castle ['relatedto'] rock ['relatedto'] succession ['relatedto'] inherit
+castle ['relatedto'] rooms ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] royal ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] royal ['relatedto'] title ['relatedto'] inherit
+castle ['relatedto'] royal ['relatedto'] inherited ['formof', 'relatedto'] inherit
+castle ['relatedto'] royal ['relatedto'] succession ['relatedto'] inherit
+castle ['relatedto'] structure ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] walls ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] form ['relatedto', 'synonym'] class ['relatedto'] inherit
+castle ['relatedto'] rule ['relatedto'] legal ['relatedto'] inherit
+castle ['relatedto'] several ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] similar ['relatedto'] characteristic ['relatedto'] inherit
+castle ['relatedto'] crown ['relatedto', 'derivedfrom'] crown_prince ['relatedto'] inherit
+castle ['relatedto'] crown ['synonym'] title ['relatedto'] inherit
+castle ['relatedto'] lord ['relatedto'] title ['relatedto'] inherit
+castle ['relatedto'] servant ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] cannot ['antonym', 'relatedto'] able ['relatedto'] legal ['relatedto'] inherit
+castle ['relatedto'] cannot ['relatedto'] permit ['relatedto'] legal ['relatedto'] inherit
+castle ['relatedto'] cannot ['relatedto'] impossible ['relatedto'] title ['relatedto'] inherit
+castle ['relatedto'] real ['antonym'] act ['relatedto'] title ['relatedto'] inherit
+castle ['relatedto'] real ['antonym', 'distinctfrom'] character ['relatedto'] characteristic ['relatedto'] inherit
+castle ['relatedto'] real ['antonym'] virtual ['antonym'] legal ['relatedto'] inherit
+castle ['relatedto'] real ['antonym'] virtual ['relatedto'] subclass ['relatedto'] inherit
+castle ['relatedto'] real ['atlocation'] germany ['relatedto'] successor ['relatedto'] inherit
+castle ['relatedto'] real ['etymologicallyrelatedto', 'relatedto'] royal ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] real ['etymologicallyrelatedto', 'relatedto'] royal ['relatedto'] title ['relatedto'] inherit
+castle ['relatedto'] real ['etymologicallyrelatedto', 'relatedto'] royal ['relatedto'] inherited ['formof', 'relatedto'] inherit
+castle ['relatedto'] real ['etymologicallyrelatedto', 'relatedto'] royal ['relatedto'] succession ['relatedto'] inherit
+castle ['relatedto'] real ['isa'] company ['isa'] erf ['etymologicallyrelatedto'] inherit
+castle ['relatedto'] real ['isa'] company ['relatedto'] legal ['relatedto'] inherit
+castle ['relatedto'] real ['isa'] company ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] characteristic_function ['derivedfrom'] characteristic ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] estate ['isa'] class ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] estate ['isa', 'relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] estate ['relatedto'] abintestate ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] estate ['relatedto'] inheritance ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] inherit
+castle ['relatedto'] real ['relatedto'] estate ['relatedto'] patrimony ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] estate ['relatedto'] simultaneous_death ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] ethopoeia ['relatedto'] characteristic ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] flow ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] land ['relatedto', 'synonym'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] legitimate ['relatedto', 'similarto', 'synonym'] legal ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] legitimate ['relatedto'] heredity ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] levy ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] lot ['relatedto'] erf ['etymologicallyrelatedto'] inherit
+castle ['relatedto'] real ['relatedto'] lot ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['isa', 'relatedto'] characteristic ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] curtesy ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] legal ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['isa'] heirloom ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['isa'] heredity ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] heir ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] heritage ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] laughing_heir ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] legacy ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] property ['relatedto'] subclass ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] quasianalytic ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] apparent ['derivedfrom'] heir_apparent ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] physical ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] common ['relatedto'] class ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] realty ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto', 'synonym'] really ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] real ['relatedto'] world ['isa'] class ['relatedto'] inherit
+castle ['relatedto'] real ['similarto'] proper ['relatedto'] property ['relatedto'] inherit
+castle ['relatedto'] add ['relatedto'] action ['relatedto'] receive ['mannerof', 'relatedto'] inherit
+castle ['relatedto'] add ['relatedto', 'derivedfrom', 'synonym'] addition ['relatedto'] title ['relatedto'] inherit

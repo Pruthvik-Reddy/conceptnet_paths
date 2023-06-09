@@ -1,0 +1,100 @@
+animal ['relatedto'] breakaway ['relatedto'] stampede
+animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] human ['relatedto'] run ['entails'] stampede
+animal ['antonym', 'distinctfrom', 'relatedto', 'isa'] bird ['relatedto'] flight ['relatedto'] stampede
+animal ['antonym', 'isa', 'relatedto', 'usedfor'] pet ['capableof'] run_away ['relatedto'] stampede
+animal ['capableof'] eating ['relatedto'] act ['mannerof'] stampede
+animal ['desires'] eat ['relatedto'] act ['mannerof'] stampede
+animal ['isa'] single ['relatedto'] run ['entails'] stampede
+animal ['isa', 'relatedto'] cat ['capableof'] run_away ['relatedto'] stampede
+animal ['isa', 'relatedto'] dove ['relatedto'] flight ['relatedto'] stampede
+animal ['isa', 'relatedto'] hare ['mannerof'] run ['entails'] stampede
+animal ['isa', 'relatedto'] horse ['relatedto'] run ['entails'] stampede
+animal ['isa'] parent ['relatedto'] act ['mannerof'] stampede
+animal ['isa', 'relatedto'] rabbit ['relatedto'] flee ['mannerof'] stampede
+animal ['isa'] stunt ['relatedto'] act ['mannerof'] stampede
+animal ['isa'] stunt ['relatedto'] rush ['synonym', 'entails'] stampede
+animal ['isa'] thoroughbred ['desires'] run ['entails'] stampede
+animal ['isa', 'relatedto'] worm ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] anything ['relatedto'] act ['mannerof'] stampede
+animal ['relatedto'] beat ['synonym'] crush ['synonym'] stampede
+animal ['relatedto'] dog ['capableof'] run ['entails'] stampede
+animal ['relatedto'] dogs ['desires'] run ['entails'] stampede
+animal ['relatedto'] feet ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] four ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] heartbeat ['relatedto'] impulse ['relatedto'] stampede
+animal ['relatedto'] legs ['usedfor', 'relatedto', 'hasprerequisite'] run ['entails'] stampede
+animal ['relatedto'] movement ['relatedto'] flight ['relatedto'] stampede
+animal ['relatedto'] movement ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] movement ['relatedto'] rush ['synonym', 'entails'] stampede
+animal ['relatedto'] play ['mannerof', 'relatedto', 'partof', 'synonym'] act ['mannerof'] stampede
+animal ['relatedto'] play ['synonym'] run ['entails'] stampede
+animal ['relatedto'] term ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] work ['relatedto', 'synonym'] act ['mannerof'] stampede
+animal ['relatedto'] work ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] animus ['relatedto'] impulse ['relatedto'] stampede
+animal ['relatedto'] bee ['atlocation'] flight ['relatedto'] stampede
+animal ['relatedto'] bill ['synonym'] act ['mannerof'] stampede
+animal ['relatedto'] cage ['relatedto'] crush ['synonym'] stampede
+animal ['relatedto'] cross ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] discovery ['isa'] act ['mannerof'] stampede
+animal ['relatedto'] division ['relatedto'] act ['mannerof'] stampede
+animal ['relatedto'] drive ['isa'] impulse ['relatedto'] stampede
+animal ['relatedto'] drive ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] feed ['synonym'] run ['entails'] stampede
+animal ['relatedto'] flea ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] flea ['relatedto'] run_away ['relatedto'] stampede
+animal ['relatedto'] flock ['isa'] flight ['relatedto'] stampede
+animal ['relatedto'] fly ['mannerof', 'relatedto', 'derivedfrom'] flight ['relatedto'] stampede
+animal ['relatedto'] fly ['relatedto', 'synonym'] flee ['mannerof'] stampede
+animal ['relatedto'] herd ['relatedto'] breakaway ['relatedto'] stampede
+animal ['relatedto'] hide ['relatedto'] flee ['mannerof'] stampede
+animal ['relatedto'] hide ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] hunt ['synonym'] run ['entails'] stampede
+animal ['relatedto'] issue ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] issue ['relatedto'] rush ['synonym', 'entails'] stampede
+animal ['relatedto'] monstrosity ['relatedto'] act ['mannerof'] stampede
+animal ['relatedto'] move ['relatedto', 'synonym'] act ['mannerof'] stampede
+animal ['relatedto'] move ['mannerof', 'relatedto', 'synonym'] run ['entails'] stampede
+animal ['relatedto'] move ['relatedto'] rush ['synonym', 'entails'] stampede
+animal ['relatedto'] party ['relatedto'] crush ['synonym'] stampede
+animal ['relatedto'] party ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] plate ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] point ['relatedto'] act ['mannerof'] stampede
+animal ['relatedto'] point ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] pound ['relatedto', 'synonym'] crush ['synonym'] stampede
+animal ['relatedto'] stern ['relatedto'] run ['entails'] stampede
+animal ['relatedto'] wing ['usedfor'] flight ['relatedto'] stampede
+animal ['usedfor'] race ['mannerof'] act ['mannerof'] stampede
+animal ['usedfor'] race ['relatedto', 'synonym'] run ['entails'] stampede
+animal ['usedfor'] race ['synonym'] rush ['synonym', 'entails'] stampede
+animal ['isa'] child ['createdby'] birth ['relatedto'] act ['mannerof'] stampede
+animal ['isa'] child ['antonym', 'distinctfrom', 'relatedto', 'hasa', 'isa'] parent ['relatedto'] act ['mannerof'] stampede
+animal ['isa'] child ['antonym', 'relatedto'] father ['relatedto'] act ['mannerof'] stampede
+animal ['isa'] child ['relatedto', 'partof', 'atlocation'] family ['relatedto'] rush ['synonym', 'entails'] stampede
+animal ['isa'] child ['capableof'] breathe ['hasprerequisite'] run ['entails'] stampede
+animal ['isa'] child ['capableof'] tie_shoes ['hasprerequisite'] run ['entails'] stampede
+animal ['isa'] child ['desires'] love ['relatedto'] crush ['synonym'] stampede
+animal ['isa'] child ['relatedto', 'hasprerequisite'] play ['mannerof', 'relatedto', 'partof', 'synonym'] act ['mannerof'] stampede
+animal ['isa'] child ['relatedto', 'hasprerequisite'] play ['synonym'] run ['entails'] stampede
+animal ['isa'] child ['hasproperty'] playful ['relatedto'] scamper ['relatedto'] stampede
+animal ['isa'] child ['relatedto'] ball ['relatedto'] flight ['relatedto'] stampede
+animal ['isa'] child ['relatedto'] big ['relatedto'] rush ['synonym', 'entails'] stampede
+animal ['isa'] child ['relatedto'] human ['relatedto'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] nice ['relatedto'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] single ['relatedto'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] term ['relatedto'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] anything ['relatedto'] act ['mannerof'] stampede
+animal ['isa'] child ['relatedto'] data ['relatedto'] dispersion ['relatedto'] stampede
+animal ['isa'] child ['relatedto'] one ['relatedto'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] process ['mannerof'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] reach ['relatedto'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] role ['usedfor', 'relatedto'] act ['mannerof'] stampede
+animal ['isa'] child ['relatedto'] herodism ['relatedto'] impulse ['relatedto'] stampede
+animal ['isa'] child ['relatedto'] hide ['relatedto'] flee ['mannerof'] stampede
+animal ['isa'] child ['relatedto'] hide ['relatedto'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] issue ['relatedto'] run ['entails'] stampede
+animal ['isa'] child ['relatedto'] issue ['relatedto'] rush ['synonym', 'entails'] stampede
+animal ['isa'] child ['relatedto'] jam ['synonym'] crush ['synonym'] stampede
+animal ['isa'] child ['relatedto'] pederosis ['relatedto'] impulse ['relatedto'] stampede
+animal ['isa'] child ['relatedto'] start_family ['haslastsubevent'] run_away ['relatedto'] stampede
+animal ['isa'] child ['relatedto'] student ['relatedto'] act ['mannerof'] stampede

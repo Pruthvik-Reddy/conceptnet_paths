@@ -1,0 +1,100 @@
+book ['relatedto'] bind
+book ['synonym'] engage ['relatedto'] bind
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['mannerof'] bind
+book ['antonym', 'relatedto', 'partof'] page ['relatedto'] bind
+book ['derivedfrom'] bookbinder ['relatedto'] bind
+book ['relatedto', 'derivedfrom'] bookbinding ['relatedto'] bind
+book ['relatedto', 'partof'] binding ['formof', 'relatedto'] bind
+book ['relatedto'] bound ['formof', 'relatedto'] bind
+book ['relatedto'] bookmaker ['relatedto'] bind
+book ['relatedto', 'synonym'] reserve ['relatedto'] holding ['relatedto'] bind
+book ['isa'] faithful ['antonym'] loose ['antonym'] bind
+book ['isa'] fire ['isa'] cover ['mannerof'] bind
+book ['isa'] fire ['isa'] software ['isa'] bind
+book ['isa'] fire ['relatedto'] bond ['etymologicallyrelatedto', 'relatedto', 'synonym'] bind
+book ['isa'] fire ['synonym'] loose ['antonym'] bind
+book ['isa'] plant ['relatedto'] bindin ['derivedfrom'] bind
+book ['isa'] plant ['relatedto'] bindweed ['derivedfrom'] bind
+book ['isa'] plant ['relatedto'] bine ['etymologicallyrelatedto', 'relatedto'] bind
+book ['isa'] plant ['relatedto'] hop ['relatedto'] bind
+book ['isa'] plant ['relatedto'] knot ['synonym'] bind
+book ['relatedto'] social ['relatedto'] oblige ['synonym'] bind
+book ['atlocation'] house ['isa'] band ['etymologicallyrelatedto'] bind
+book ['atlocation'] house ['relatedto'] offer ['relatedto'] bind
+book ['relatedto'] arm ['relatedto'] holding ['relatedto'] bind
+book ['relatedto'] arm ['relatedto'] armbinder ['relatedto'] bind
+book ['relatedto'] arm ['relatedto'] bill ['relatedto'] bind
+book ['relatedto'] arm ['relatedto'] bracer ['relatedto'] bind
+book ['relatedto'] arm ['synonym'] gird ['mannerof', 'relatedto'] bind
+book ['relatedto'] article ['mannerof'] oblige ['synonym'] bind
+book ['createdby', 'relatedto'] author ['relatedto'] cover ['mannerof'] bind
+book ['relatedto'] back ['relatedto'] gain ['relatedto'] bind
+book ['relatedto'] back ['antonym', 'relatedto'] cover ['mannerof'] bind
+book ['relatedto'] back ['synonym'] binding ['formof', 'relatedto'] bind
+book ['relatedto'] back_page ['relatedto'] page ['relatedto'] bind
+book ['relatedto'] square ['relatedto'] gain ['relatedto'] bind
+book ['relatedto'] square ['relatedto'] cover ['mannerof'] bind
+book ['relatedto'] square ['relatedto'] page ['relatedto'] bind
+book ['relatedto'] covered ['formof', 'relatedto'] cover ['mannerof'] bind
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['antonym', 'relatedto'] page ['relatedto'] bind
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['relatedto'] bracer ['relatedto'] bind
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['relatedto'] binder ['relatedto'] bind
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['relatedto'] umbecast ['relatedto'] bind
+book ['antonym', 'hasa', 'relatedto', 'atlocation'] cover ['synonym'] binding ['formof', 'relatedto'] bind
+book ['atlocation'] bed ['relatedto'] cover ['mannerof'] bind
+book ['atlocation'] bed ['relatedto'] cement ['mannerof'] bind
+book ['atlocation'] floor ['relatedto'] gain ['relatedto'] bind
+book ['atlocation'] floor ['relatedto'] cover ['mannerof'] bind
+book ['relatedto'] thing ['relatedto'] problem ['relatedto'] bind
+book ['relatedto'] thing ['relatedto'] page ['relatedto'] bind
+book ['relatedto'] thing ['relatedto'] dilemma ['synonym'] bind
+book ['isa'] night ['relatedto'] guard ['relatedto'] bind
+book ['relatedto'] white ['relatedto'] page ['relatedto'] bind
+book ['antonym', 'isa', 'relatedto'] magazine ['relatedto'] cover ['mannerof'] bind
+book ['antonym', 'isa', 'relatedto'] magazine ['relatedto'] clip ['usedfor'] bind
+book ['antonym', 'isa', 'relatedto'] magazine ['relatedto'] page ['relatedto'] bind
+book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['isa'] holding ['relatedto'] bind
+book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['atlocation'] binder ['relatedto'] bind
+book ['antonym', 'locatednear', 'relatedto', 'atlocation', 'partof'] library ['relatedto'] binding ['formof', 'relatedto'] bind
+book ['antonym', 'relatedto', 'partof'] page ['relatedto'] band ['etymologicallyrelatedto'] bind
+book ['antonym', 'relatedto', 'partof'] page ['antonym', 'relatedto'] cover ['mannerof'] bind
+book ['atlocation'] blowfish ['atlocation'] band ['etymologicallyrelatedto'] bind
+book ['atlocation'] blowfish ['relatedto'] software ['isa'] bind
+book ['atlocation'] backpack ['atlocation'] binder ['relatedto'] bind
+book ['atlocation'] backpack ['relatedto'] strap ['synonym'] bind
+book ['relatedto', 'atlocation'] bookcase ['atlocation'] binder ['relatedto'] bind
+book ['atlocation'] desk ['atlocation'] clip ['usedfor'] bind
+book ['atlocation'] desk ['relatedto'] holding ['relatedto'] bind
+book ['atlocation'] discount_store ['atlocation'] clip ['usedfor'] bind
+book ['relatedto', 'atlocation'] satchel ['relatedto'] strap ['synonym'] bind
+book ['atlocation'] store ['relatedto'] bargain ['relatedto'] bind
+book ['atlocation'] table ['relatedto'] join ['relatedto'] bind
+book ['atlocation'] table ['relatedto'] cover ['mannerof'] bind
+book ['atlocation'] table ['relatedto'] bindless ['relatedto', 'derivedfrom'] bind
+book ['relatedto', 'atlocation'] information ['isa'] context ['relatedto'] bind
+book ['relatedto', 'atlocation'] line ['relatedto'] join ['relatedto'] bind
+book ['relatedto', 'atlocation'] line ['relatedto'] band ['etymologicallyrelatedto'] bind
+book ['relatedto', 'atlocation'] line ['mannerof', 'relatedto'] cover ['mannerof'] bind
+book ['relatedto', 'atlocation'] line ['isa'] software ['isa'] bind
+book ['relatedto', 'atlocation'] line ['relatedto'] bend ['relatedto'] bind
+book ['relatedto', 'atlocation'] line ['relatedto'] caburn ['relatedto'] bind
+book ['relatedto', 'atlocation'] line ['relatedto'] stitch ['relatedto'] bind
+book ['relatedto', 'atlocation'] line ['relatedto'] tie ['relatedto', 'synonym'] bind
+book ['relatedto', 'atlocation'] name ['relatedto'] bill ['relatedto'] bind
+book ['relatedto', 'atlocation'] name ['relatedto'] binding ['formof', 'relatedto'] bind
+book ['relatedto', 'atlocation'] name ['relatedto'] identifier ['relatedto'] bind
+book ['relatedto', 'atlocation'] name ['relatedto'] variable_binding ['relatedto'] bind
+book ['relatedto', 'atlocation'] note ['relatedto', 'synonym'] bill ['relatedto'] bind
+book ['relatedto', 'atlocation'] note ['relatedto'] cords ['capableof'] bind
+book ['relatedto', 'atlocation'] note ['relatedto'] tie ['relatedto', 'synonym'] bind
+book ['atlocation'] sign ['relatedto'] engage ['relatedto'] bind
+book ['atlocation'] sign ['relatedto'] join ['relatedto'] bind
+book ['usedfor', 'relatedto', 'atlocation'] title ['relatedto'] cover ['mannerof'] bind
+book ['usedfor', 'relatedto', 'atlocation'] title ['atlocation'] page ['relatedto'] bind
+book ['atlocation'] word ['relatedto'] context ['relatedto'] bind
+book ['atlocation'] word ['relatedto'] page ['relatedto'] bind
+book ['atlocation'] word ['relatedto'] operator ['relatedto'] bind
+book ['capableof', 'isa', 'relatedto', 'partof'] text ['hasa', 'relatedto'] page ['relatedto'] bind
+book ['capableof', 'isa', 'relatedto', 'partof'] text ['relatedto'] context ['relatedto'] bind
+book ['capableof', 'isa', 'relatedto', 'partof'] text ['relatedto'] ligate ['mannerof', 'relatedto'] bind
+book ['usedfor', 'causesdesire', 'synonym'] learn ['relatedto'] gain ['relatedto'] bind

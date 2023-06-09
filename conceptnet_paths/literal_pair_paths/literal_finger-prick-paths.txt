@@ -1,0 +1,100 @@
+finger ['relatedto'] stick ['relatedto'] prick
+finger ['capableof', 'usedfor', 'relatedto'] point ['relatedto'] prick
+finger ['relatedto'] dial ['relatedto'] prick
+finger ['relatedto'] fingerprick ['relatedto'] prick
+finger ['relatedto'] base ['antonym', 'distinctfrom', 'relatedto'] acid ['relatedto'] prick
+finger ['relatedto'] base ['relatedto'] horse ['relatedto'] prick
+finger ['relatedto'] adult ['relatedto'] horse ['relatedto'] prick
+finger ['relatedto'] human ['partof'] asshole ['similarto', 'synonym'] prick
+finger ['relatedto'] someone ['relatedto'] pecker ['synonym'] prick
+finger ['relatedto'] someone ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] prick
+finger ['relatedto'] animal ['isa', 'relatedto'] hare ['relatedto'] prick
+finger ['relatedto'] animal ['isa', 'relatedto'] horse ['relatedto'] prick
+finger ['relatedto'] animal ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] animal ['relatedto'] sting ['synonym'] prick
+finger ['synonym'] bird ['isa', 'relatedto'] cock ['synonym'] prick
+finger ['synonym'] bird ['relatedto'] penis ['relatedto', 'synonym'] prick
+finger ['synonym'] bird ['relatedto'] pecker ['synonym'] prick
+finger ['relatedto'] one ['hasproperty'] hole ['relatedto'] prick
+finger ['relatedto'] one ['relatedto'] stick ['relatedto'] prick
+finger ['relatedto'] position ['isa', 'relatedto'] point ['relatedto'] prick
+finger ['relatedto'] position ['mannerof'] aim ['relatedto'] prick
+finger ['relatedto'] position ['mannerof'] dress ['relatedto'] prick
+finger ['relatedto'] position ['relatedto'] jump ['relatedto'] prick
+finger ['relatedto'] position ['relatedto'] target ['relatedto'] prick
+finger ['relatedto'] stick ['synonym'] plant ['relatedto'] prick
+finger ['relatedto'] stick ['mannerof'] pierce ['relatedto'] prick
+finger ['relatedto'] stick ['relatedto', 'synonym'] pin ['relatedto'] prick
+finger ['relatedto'] stick ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] stick ['relatedto'] sharp ['relatedto'] prick
+finger ['relatedto'] stick ['synonym'] sting ['synonym'] prick
+finger ['relatedto'] cover ['mannerof'] dress ['relatedto'] prick
+finger ['relatedto'] cover ['mannerof'] dot ['relatedto'] prick
+finger ['relatedto'] cover ['relatedto'] point ['relatedto'] prick
+finger ['synonym'] handle ['relatedto'] stick ['relatedto'] prick
+finger ['synonym'] handle ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] body ['isa'] particle ['relatedto'] prick
+finger ['relatedto'] body ['partof'] penis ['relatedto', 'synonym'] prick
+finger ['relatedto'] body ['relatedto'] dress ['relatedto'] prick
+finger ['relatedto'] body ['relatedto'] jump ['relatedto'] prick
+finger ['relatedto', 'partof', 'atlocation'] nail ['relatedto'] target ['relatedto'] prick
+finger ['relatedto', 'partof', 'atlocation'] nail ['relatedto', 'synonym'] pin ['relatedto'] prick
+finger ['relatedto', 'partof', 'atlocation'] nail ['relatedto'] pricking ['formof', 'relatedto', 'synonym'] prick
+finger ['atlocation'] skin ['relatedto'] plant ['relatedto'] prick
+finger ['atlocation'] skin ['relatedto'] pierce ['relatedto'] prick
+finger ['atlocation'] skin ['relatedto'] prick_test ['relatedto'] prick
+finger ['atlocation'] skin ['relatedto'] sting ['synonym'] prick
+finger ['relatedto'] length ['relatedto'] stick ['relatedto'] prick
+finger ['relatedto'] length ['relatedto'] dress ['relatedto'] prick
+finger ['relatedto'] length ['relatedto'] interval ['relatedto'] prick
+finger ['relatedto'] length ['relatedto'] horse ['relatedto'] prick
+finger ['relatedto'] put ['mannerof', 'relatedto'] plant ['relatedto'] prick
+finger ['relatedto'] put ['mannerof'] cock ['synonym'] prick
+finger ['relatedto'] put ['relatedto'] hole ['relatedto'] prick
+finger ['relatedto'] hold ['etymologicallyrelatedto'] hole ['relatedto'] prick
+finger ['relatedto'] hold ['mannerof'] aim ['relatedto'] prick
+finger ['relatedto'] long ['relatedto'] stick ['relatedto'] prick
+finger ['relatedto'] long ['antonym', 'relatedto'] dress ['relatedto'] prick
+finger ['relatedto'] long ['relatedto'] horse ['relatedto'] prick
+finger ['relatedto'] slender ['relatedto'] stick ['relatedto'] prick
+finger ['relatedto'] bullet ['relatedto'] pin ['relatedto'] prick
+finger ['relatedto'] bullet ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] bullet ['relatedto'] sharp ['relatedto'] prick
+finger ['relatedto'] bullet ['relatedto'] horse ['relatedto'] prick
+finger ['relatedto', 'partof', 'atlocation'] hand ['relatedto'] horse ['relatedto'] prick
+finger ['relatedto', 'partof', 'atlocation'] hand ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] flat ['antonym', 'relatedto'] sharp ['relatedto'] prick
+finger ['relatedto'] flat ['antonym'] point ['relatedto'] prick
+finger ['relatedto'] flat ['relatedto', 'synonym'] puncture ['isa', 'relatedto'] prick
+finger ['relatedto'] line ['antonym', 'distinctfrom', 'relatedto'] point ['relatedto'] prick
+finger ['relatedto'] line ['isa', 'relatedto'] mark ['relatedto'] prick
+finger ['relatedto'] line ['relatedto'] jump ['relatedto'] prick
+finger ['relatedto'] line ['relatedto'] dot ['relatedto'] prick
+finger ['relatedto'] chicken ['antonym', 'isa', 'relatedto', 'partof'] cock ['synonym'] prick
+finger ['relatedto'] note ['relatedto'] interval ['relatedto'] prick
+finger ['relatedto'] note ['relatedto'] jot ['relatedto'] prick
+finger ['relatedto'] note ['relatedto'] mark ['relatedto'] prick
+finger ['relatedto'] note ['relatedto'] dot ['relatedto'] prick
+finger ['relatedto'] note ['relatedto'] dots ['relatedto'] prick
+finger ['relatedto'] note ['relatedto'] particle ['relatedto'] prick
+finger ['relatedto'] note ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] note ['relatedto'] sharp ['relatedto'] prick
+finger ['relatedto'] extend ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] connected ['relatedto'] interval ['relatedto'] prick
+finger ['isa', 'relatedto'] index ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] extension ['relatedto'] point ['relatedto'] prick
+finger ['relatedto'] print ['relatedto'] footprint ['relatedto'] prick
+finger ['relatedto'] print ['synonym'] mark ['relatedto'] prick
+finger ['relatedto', 'atlocation'] cut ['relatedto'] hurt ['mannerof'] prick
+finger ['relatedto', 'atlocation'] cut ['entails'] pierce ['relatedto'] prick
+finger ['relatedto', 'atlocation'] cut ['isa', 'relatedto'] incision ['synonym'] prick
+finger ['relatedto', 'atlocation'] cut ['relatedto'] mark ['relatedto'] prick
+finger ['relatedto', 'atlocation'] cut ['relatedto'] sharp ['relatedto'] prick
+finger ['relatedto', 'atlocation'] cut ['relatedto'] point ['relatedto'] prick
+finger ['relatedto', 'atlocation'] cut ['relatedto'] puncture ['isa', 'relatedto'] prick
+finger ['relatedto'] four ['relatedto'] horse ['relatedto'] prick
+finger ['relatedto'] four ['relatedto'] mark ['relatedto'] prick
+finger ['relatedto'] pick ['relatedto'] plant ['relatedto'] prick
+finger ['relatedto'] pick ['mannerof'] pierce ['relatedto'] prick
+finger ['atlocation'] dirt ['relatedto', 'atlocation'] plant ['relatedto'] prick

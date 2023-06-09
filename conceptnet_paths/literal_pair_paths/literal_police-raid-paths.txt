@@ -1,0 +1,100 @@
+police ['capableof'] arrest ['relatedto'] raid
+police ['relatedto'] ratissage ['relatedto'] raid
+police ['isa'] human ['relatedto'] party ['relatedto'] raid
+police ['relatedto'] order ['relatedto'] bug ['relatedto'] raid
+police ['relatedto'] army ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['relatedto'] army ['relatedto'] pickeer ['relatedto'] raid
+police ['relatedto'] case ['relatedto'] bug ['relatedto'] raid
+police ['relatedto'] case ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+police ['atlocation'] town ['atlocation'] road ['etymologicallyrelatedto', 'relatedto'] raid
+police ['atlocation'] town ['usedfor'] live ['relatedto'] raid
+police ['relatedto'] community ['partof'] killer ['relatedto'] raid
+police ['relatedto'] chief ['relatedto'] name ['relatedto'] raid
+police ['isa', 'relatedto'] force ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['isa', 'relatedto'] force ['relatedto'] commando ['relatedto'] raid
+police ['isa', 'relatedto'] force ['relatedto'] pillage ['relatedto'] raid
+police ['relatedto'] talk ['relatedto'] chat ['relatedto'] raid
+police ['relatedto'] department ['relatedto'] name ['relatedto'] raid
+police ['partof'] government ['relatedto'] invasion ['relatedto'] raid
+police ['distinctfrom', 'relatedto'] guard ['antonym'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['relatedto'] public ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+police ['relatedto'] public ['antonym', 'relatedto'] property ['relatedto'] raid
+police ['relatedto'] legal ['relatedto'] arrest ['relatedto'] raid
+police ['relatedto'] legal ['relatedto'] property ['relatedto'] raid
+police ['relatedto'] security ['relatedto'] property ['relatedto'] raid
+police ['relatedto', 'synonym'] law ['relatedto'] arrest ['relatedto'] raid
+police ['relatedto', 'synonym'] law ['relatedto'] property ['relatedto'] raid
+police ['relatedto'] protect ['antonym'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['relatedto'] reward ['relatedto'] lure ['relatedto'] raid
+police ['capableof'] arrest ['causes'] killing ['relatedto'] raid
+police ['capableof'] arrest ['relatedto'] bust ['synonym'] raid
+police ['relatedto'] politics ['usedfor'] party ['relatedto'] raid
+police ['relatedto'] station ['relatedto'] broadcast ['relatedto'] raid
+police ['relatedto'] pig ['mannerof', 'relatedto'] live ['relatedto'] raid
+police ['relatedto'] attack_dog ['derivedfrom'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['relatedto'] badge ['isa', 'relatedto'] brand ['relatedto'] raid
+police ['relatedto'] chevron ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+police ['relatedto'] floater ['relatedto'] party ['relatedto'] raid
+police ['relatedto'] floater ['relatedto'] property ['relatedto'] raid
+police ['relatedto'] homicide ['isa'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['relatedto'] homicide ['isa', 'relatedto'] killing ['relatedto'] raid
+police ['relatedto'] homicide ['relatedto'] name ['relatedto'] raid
+police ['relatedto'] investigation ['causes'] killing ['relatedto'] raid
+police ['relatedto'] investigation ['isa'] search ['mannerof'] raid
+police ['relatedto'] kettling ['relatedto'] hostile ['relatedto'] raid
+police ['relatedto'] nick ['relatedto'] steal ['relatedto'] raid
+police ['relatedto'] nick ['distinctfrom', 'relatedto'] name ['relatedto'] raid
+police ['relatedto'] nick ['relatedto'] arrest ['relatedto'] raid
+police ['relatedto'] nick ['synonym'] bust ['synonym'] raid
+police ['relatedto'] nonarrest ['relatedto'] arrest ['relatedto'] raid
+police ['relatedto'] authority ['relatedto'] name ['relatedto'] raid
+police ['relatedto'] authority ['relatedto'] bug ['relatedto'] raid
+police ['relatedto'] siren ['relatedto'] lure ['relatedto'] raid
+police ['relatedto'] sting ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['relatedto'] stonewall ['relatedto'] arrest ['relatedto'] raid
+police ['relatedto'] sus_law ['relatedto'] arrest ['relatedto'] raid
+police ['relatedto'] terry_search ['relatedto'] search ['mannerof'] raid
+police ['relatedto'] terry_stop ['relatedto'] arrest ['relatedto'] raid
+police ['relatedto'] maintain ['antonym'] abandon ['antonym'] engage ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] culture ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] culture ['relatedto'] name ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] culture ['partof'] property ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] garden ['atlocation'] bug ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] garden ['atlocation'] bugs ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] hold ['relatedto'] engage ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] hold_fort ['relatedto'] assume ['mannerof'] raid
+police ['relatedto'] maintain ['relatedto'] permissive_waste ['relatedto'] property ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] sorehon ['relatedto'] indulge ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] term ['mannerof'] name ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] term ['relatedto'] party ['relatedto'] raid
+police ['relatedto'] maintain ['relatedto'] term ['relatedto'] property ['relatedto'] raid
+police ['relatedto'] maintain ['synonym'] adopt ['relatedto', 'synonym'] assume ['mannerof'] raid
+police ['relatedto'] maintain ['synonym'] defend ['antonym', 'distinctfrom', 'relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['relatedto'] maintain ['synonym'] continue ['relatedto'] live ['relatedto'] raid
+police ['isa'] human ['relatedto'] child ['relatedto'] name ['relatedto'] raid
+police ['isa'] human ['relatedto'] children ['usedfor'] snow ['relatedto'] raid
+police ['isa'] human ['antonym', 'relatedto'] age ['isa'] property ['relatedto'] raid
+police ['isa'] human ['antonym', 'distinctfrom'] alien ['relatedto'] bug ['relatedto'] raid
+police ['isa'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['capableof', 'relatedto'] live ['relatedto'] raid
+police ['isa'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['distinctfrom'] bug ['relatedto'] raid
+police ['isa'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] name ['relatedto'] raid
+police ['isa'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] party ['relatedto'] raid
+police ['isa'] human ['antonym', 'distinctfrom', 'relatedto', 'isa'] animal ['relatedto'] predatory ['relatedto'] raid
+police ['isa'] human ['antonym'] bird ['relatedto'] chat ['relatedto'] raid
+police ['isa'] human ['antonym'] machine ['usedfor'] broadcast ['relatedto'] raid
+police ['isa'] human ['relatedto', 'atlocation'] bone ['relatedto'] steal ['relatedto'] raid
+police ['isa'] human ['atlocation'] automobile ['relatedto'] name ['relatedto'] raid
+police ['isa'] human ['atlocation'] automobiles ['atlocation'] road ['etymologicallyrelatedto', 'relatedto'] raid
+police ['isa'] human ['atlocation'] bar ['relatedto'] party ['relatedto'] raid
+police ['isa'] human ['atlocation'] battle ['relatedto'] engage ['relatedto'] raid
+police ['isa'] human ['atlocation'] battle ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['isa'] human ['atlocation'] boat ['atlocation'] party ['relatedto'] raid
+police ['isa'] human ['atlocation'] bus ['relatedto', 'atlocation'] road ['etymologicallyrelatedto', 'relatedto'] raid
+police ['isa'] human ['atlocation'] charge ['isa', 'relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['isa'] human ['atlocation'] china ['isa', 'relatedto'] name ['relatedto'] raid
+police ['isa'] human ['atlocation'] command ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+police ['isa'] human ['atlocation'] community ['partof'] killer ['relatedto'] raid
+police ['isa'] human ['atlocation'] conflict ['relatedto'] engage ['relatedto'] raid
+police ['isa'] human ['atlocation'] country ['relatedto'] bordraging ['relatedto'] raid
+police ['isa'] human ['atlocation'] country ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+police ['isa'] human ['atlocation'] distress ['relatedto'] property ['relatedto'] raid

@@ -1,0 +1,100 @@
+tension ['relatedto'] détente ['relatedto'] relax
+tension ['relatedto'] relaxation ['relatedto', 'derivedfrom'] relax
+tension ['relatedto'] tense ['motivatedbygoal', 'relatedto'] relax
+tension ['isa', 'synonym'] stress ['antonym', 'relatedto'] relax
+tension ['isa'] balance ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+tension ['relatedto'] hold ['antonym'] break ['relatedto'] relax
+tension ['relatedto'] hold ['mannerof'] think ['hasprerequisite'] relax
+tension ['relatedto'] tonic ['relatedto'] stress ['antonym', 'relatedto'] relax
+tension ['relatedto'] drama ['isa', 'relatedto'] act ['mannerof'] relax
+tension ['relatedto'] drama ['relatedto', 'synonym'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+tension ['isa'] condition ['relatedto'] decay ['relatedto'] relax
+tension ['isa'] condition ['relatedto'] clean ['haslastsubevent'] relax
+tension ['relatedto'] pull ['relatedto'] break ['relatedto'] relax
+tension ['relatedto'] pull ['mannerof', 'relatedto'] stretch ['antonym'] relax
+tension ['relatedto'] pull_apart ['relatedto'] break ['relatedto'] relax
+tension ['relatedto'] pull_apart ['relatedto'] stretch ['antonym'] relax
+tension ['relatedto'] ease ['relatedto', 'synonym'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+tension ['relatedto'] ease ['relatedto'] repose ['synonym'] relax
+tension ['relatedto'] ease ['relatedto'] comfortable ['hasprerequisite'] relax
+tension ['relatedto'] ease ['relatedto'] relaxation ['relatedto', 'derivedfrom'] relax
+tension ['relatedto'] ease ['relatedto', 'synonym'] loosen ['mannerof', 'synonym'] relax
+tension ['relatedto'] ease ['relatedto'] relieve ['relatedto'] relax
+tension ['relatedto'] relaxation ['relatedto', 'synonym'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+tension ['relatedto'] relaxation ['relatedto'] calm ['relatedto'] relax
+tension ['relatedto'] relaxation ['relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+tension ['relatedto'] relaxation ['antonym'] work ['antonym'] relax
+tension ['relatedto'] relaxation ['antonym', 'relatedto'] stress ['antonym', 'relatedto'] relax
+tension ['relatedto'] relaxation ['causes', 'usedfor'] enjoying_day ['causes'] relax
+tension ['relatedto'] relaxation ['causes', 'usedfor'] knitting ['causes'] relax
+tension ['relatedto'] relaxation ['causes'] playing_games ['usedfor'] relax
+tension ['relatedto'] relaxation ['causes', 'relatedto'] relaxing ['formof', 'relatedto'] relax
+tension ['relatedto'] relaxation ['causes'] watching_television ['causes'] relax
+tension ['relatedto'] relaxation ['relatedto'] emollition ['relatedto'] relax
+tension ['relatedto'] relaxation ['usedfor', 'relatedto'] garden ['usedfor'] relax
+tension ['relatedto'] relaxation ['relatedto'] spa ['usedfor'] relax
+tension ['relatedto'] relaxation ['relatedto'] relaxable ['derivedfrom'] relax
+tension ['relatedto'] relaxation ['relatedto'] relaxative ['relatedto', 'derivedfrom'] relax
+tension ['relatedto'] relaxation ['relatedto'] stretch ['antonym'] relax
+tension ['relatedto'] relaxation ['usedfor'] bean_bag_chair ['usedfor'] relax
+tension ['relatedto'] relaxation ['usedfor'] creating_art ['causes'] relax
+tension ['relatedto'] relaxation ['usedfor'] seeing_favorite_show ['causes'] relax
+tension ['relatedto'] stiffness ['relatedto'] unstiffen ['relatedto'] relax
+tension ['relatedto'] taut ['relatedto'] stress ['antonym', 'relatedto'] relax
+tension ['relatedto'] taut ['relatedto', 'similarto'] tense ['motivatedbygoal', 'relatedto'] relax
+tension ['relatedto'] tense ['distinctfrom'] calm ['relatedto'] relax
+tension ['relatedto'] tense ['mannerof'] change ['mannerof'] relax
+tension ['relatedto'] tense ['antonym'] loose ['relatedto'] relax
+tension ['relatedto'] tense ['antonym', 'distinctfrom'] relaxed ['formof'] relax
+tension ['relatedto'] tense ['mannerof'] stretch ['antonym'] relax
+tension ['relatedto'] tense ['mannerof'] affect ['mannerof'] relax
+tension ['relatedto'] tense ['mannerof'] change_state ['mannerof'] relax
+tension ['relatedto'] tense ['relatedto'] muscles ['capableof'] relax
+tension ['relatedto'] tense ['relatedto'] slack ['synonym'] relax
+tension ['relatedto'] tense ['relatedto'] stress ['antonym', 'relatedto'] relax
+tension ['relatedto'] tense ['relatedto'] untense ['relatedto'] relax
+tension ['relatedto'] opposition ['relatedto'] swing ['relatedto'] relax
+tension ['atlocation'] meeting ['relatedto'] work ['antonym'] relax
+tension ['isa', 'synonym'] stress ['relatedto'] work ['antonym'] relax
+tension ['isa', 'synonym'] stress ['formof', 'relatedto', 'derivedfrom'] stressed ['motivatedbygoal'] relax
+tension ['isa', 'synonym'] stress ['antonym', 'relatedto'] relaxation ['relatedto', 'derivedfrom'] relax
+tension ['isa', 'synonym'] stress ['relatedto'] tense ['motivatedbygoal', 'relatedto'] relax
+tension ['isa', 'synonym'] stress ['causes'] playing_games ['usedfor'] relax
+tension ['isa', 'synonym'] stress ['causesdesire'] breathe_fresh_air ['motivatedbygoal'] relax
+tension ['isa', 'synonym'] stress ['causesdesire'] drink_alcohol ['motivatedbygoal', 'haslastsubevent'] relax
+tension ['isa', 'synonym'] stress ['causesdesire'] enjoy_film ['motivatedbygoal'] relax
+tension ['isa', 'synonym'] stress ['causesdesire'] hear_music ['motivatedbygoal'] relax
+tension ['isa', 'synonym'] stress ['relatedto', 'derivedfrom'] destress ['motivatedbygoal'] relax
+tension ['isa', 'synonym'] stress ['relatedto'] hurry_sickness ['relatedto'] relax
+tension ['relatedto'] rub ['relatedto'] relaxation ['relatedto', 'derivedfrom'] relax
+tension ['relatedto'] rub ['relatedto', 'entails'] massage ['relatedto'] relax
+tension ['relatedto'] rub ['relatedto'] muscles ['capableof'] relax
+tension ['causes'] thinking ['hasprerequisite'] work ['antonym'] relax
+tension ['causes'] thinking ['formof', 'relatedto', 'derivedfrom'] think ['hasprerequisite'] relax
+tension ['causes'] thinking ['relatedto'] remember ['hasprerequisite'] relax
+tension ['causes'] analysing ['causes'] change ['mannerof'] relax
+tension ['causes'] competing ['causes'] stress ['antonym', 'relatedto'] relax
+tension ['isa'] breaking_point ['isa'] stress ['antonym', 'relatedto'] relax
+tension ['isa'] stretching ['formof', 'relatedto', 'synonym'] stretch ['antonym'] relax
+tension ['isa', 'relatedto'] strain ['relatedto', 'synonym'] tense ['motivatedbygoal', 'relatedto'] relax
+tension ['isa', 'relatedto'] strain ['relatedto', 'synonym'] stress ['antonym', 'relatedto'] relax
+tension ['isa', 'relatedto'] strain ['relatedto'] stretch ['antonym'] relax
+tension ['isa', 'relatedto'] strain ['relatedto'] slack ['synonym'] relax
+tension ['isa', 'relatedto'] strain ['relatedto'] muscles ['capableof'] relax
+tension ['isa', 'relatedto'] strain ['relatedto'] unstrain ['relatedto', 'synonym'] relax
+tension ['relatedto'] brace ['relatedto'] change ['mannerof'] relax
+tension ['relatedto'] brace ['relatedto'] music ['usedfor', 'causesdesire'] relax
+tension ['relatedto'] brace ['relatedto'] swing ['relatedto'] relax
+tension ['relatedto'] epitonic ['relatedto'] tense ['motivatedbygoal', 'relatedto'] relax
+tension ['relatedto'] erupt ['synonym'] break ['relatedto'] relax
+tension ['relatedto'] erupt ['mannerof'] change_state ['mannerof'] relax
+tension ['relatedto'] intention ['relatedto'] play_games ['motivatedbygoal'] relax
+tension ['relatedto'] isotonic ['similarto'] tense ['motivatedbygoal', 'relatedto'] relax
+tension ['relatedto'] prestress ['relatedto'] stress ['antonym', 'relatedto'] relax
+tension ['relatedto'] prolongational_reduction ['relatedto'] relaxation ['relatedto', 'derivedfrom'] relax
+tension ['relatedto'] snap ['isa', 'mannerof', 'relatedto'] break ['relatedto'] relax
+tension ['relatedto'] snap ['relatedto'] loose ['relatedto'] relax
+tension ['relatedto'] snap ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+tension ['relatedto'] stress_ball ['relatedto'] relieve ['relatedto'] relax
+tension ['relatedto'] tend ['mannerof'] garden ['usedfor'] relax
+tension ['relatedto'] tend ['relatedto'] tense ['motivatedbygoal', 'relatedto'] relax

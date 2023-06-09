@@ -1,0 +1,100 @@
+pirate ['mannerof'] steal ['relatedto'] raid
+pirate ['relatedto'] pillage ['relatedto'] raid
+pirate ['relatedto'] plunder ['relatedto'] raid
+pirate ['synonym'] counterfeit ['synonym'] assume ['mannerof'] raid
+pirate ['atlocation'] boat ['atlocation'] party ['relatedto'] raid
+pirate ['isa'] ship ['relatedto'] engage ['relatedto'] raid
+pirate ['mannerof'] steal ['relatedto'] embezzlement ['isa'] raid
+pirate ['relatedto'] permission ['relatedto'] steal ['relatedto'] raid
+pirate ['isa'] film ['isa'] plunder ['relatedto'] raid
+pirate ['isa'] film ['isa'] search ['mannerof'] raid
+pirate ['relatedto'] jack ['relatedto'] steal ['relatedto'] raid
+pirate ['relatedto'] jack ['relatedto'] name ['relatedto'] raid
+pirate ['desires'] booty ['relatedto', 'synonym'] plunder ['relatedto'] raid
+pirate ['desires'] booty ['relatedto'] pickeer ['relatedto'] raid
+pirate ['desires'] booty ['synonym'] pillage ['relatedto'] raid
+pirate ['isa'] plunderer ['relatedto'] pillage ['relatedto'] raid
+pirate ['isa'] plunderer ['relatedto', 'derivedfrom'] plunder ['relatedto'] raid
+pirate ['isa'] plunderer ['relatedto', 'synonym'] raider ['relatedto', 'derivedfrom'] raid
+pirate ['isa', 'relatedto'] sea_king ['relatedto'] plunder ['relatedto'] raid
+pirate ['relatedto', 'synonym'] buccaneer ['mannerof'] live ['relatedto'] raid
+pirate ['relatedto', 'synonym'] buccaneer ['synonym'] raider ['relatedto', 'derivedfrom'] raid
+pirate ['relatedto'] loot ['mannerof', 'relatedto'] steal ['relatedto'] raid
+pirate ['relatedto'] loot ['relatedto'] property ['relatedto'] raid
+pirate ['relatedto'] loot ['relatedto'] plundering ['relatedto'] raid
+pirate ['relatedto'] loot ['relatedto', 'synonym'] plunder ['relatedto'] raid
+pirate ['relatedto'] loot ['relatedto', 'synonym'] pillage ['relatedto'] raid
+pirate ['relatedto'] loot ['synonym'] foray ['relatedto', 'synonym'] raid
+pirate ['relatedto'] loot ['synonym'] maraud ['relatedto'] raid
+pirate ['relatedto'] pillage ['relatedto'] maraud ['relatedto'] raid
+pirate ['relatedto'] pillage ['relatedto', 'similarto', 'synonym'] plunder ['relatedto'] raid
+pirate ['relatedto'] pillage ['synonym'] plundering ['relatedto'] raid
+pirate ['relatedto'] player ['relatedto'] kabaddi ['relatedto'] raid
+pirate ['relatedto'] plunder ['relatedto', 'synonym'] maraud ['relatedto'] raid
+pirate ['relatedto'] plunder ['relatedto', 'similarto', 'synonym'] pillage ['relatedto'] raid
+pirate ['relatedto'] plunder ['formof', 'relatedto'] plundering ['relatedto'] raid
+pirate ['relatedto'] plunder ['relatedto'] razzia ['relatedto'] raid
+pirate ['relatedto'] plunder ['synonym'] foray ['relatedto', 'synonym'] raid
+pirate ['relatedto'] reave ['relatedto'] pillage ['relatedto'] raid
+pirate ['relatedto'] reave ['relatedto', 'synonym'] plunder ['relatedto'] raid
+pirate ['synonym'] freebooter ['relatedto'] pillage ['relatedto'] raid
+pirate ['synonym'] freebooter ['relatedto'] plunder ['relatedto'] raid
+pirate ['synonym'] plagiarize ['mannerof'] steal ['relatedto'] raid
+pirate ['synonym'] counterfeit ['similarto'] base ['relatedto'] snow ['relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto'] real ['relatedto'] property ['relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto'] fake ['relatedto'] steal ['relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto'] artificial ['relatedto'] lure ['relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto'] cheat ['relatedto'] steal ['relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto'] impostor ['relatedto'] name ['relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto', 'synonym'] feign ['synonym'] assume ['mannerof'] raid
+pirate ['synonym'] counterfeit ['relatedto'] river ['antonym', 'relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto'] river ['relatedto'] bug ['relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto'] turn ['isa'] attack ['mannerof', 'relatedto', 'synonym'] raid
+pirate ['synonym'] counterfeit ['relatedto'] turn ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto', 'synonym'] feigned ['relatedto'] assume ['mannerof'] raid
+pirate ['synonym'] counterfeit ['relatedto', 'synonym'] forgery ['relatedto'] embezzlement ['isa'] raid
+pirate ['synonym'] counterfeit ['relatedto'] fraud ['relatedto'] steal ['relatedto'] raid
+pirate ['synonym'] counterfeit ['relatedto'] fraud ['relatedto'] embezzlement ['isa'] raid
+pirate ['synonym'] counterfeit ['relatedto', 'synonym'] sham ['synonym'] assume ['mannerof'] raid
+pirate ['synonym'] counterfeit ['relatedto'] slip ['synonym'] steal ['relatedto'] raid
+pirate ['synonym'] counterfeit ['synonym'] fraudulent ['relatedto'] embezzlement ['isa'] raid
+pirate ['synonym'] counterfeit ['synonym'] simulate ['synonym'] assume ['mannerof'] raid
+pirate ['synonym'] plagiarist ['isa', 'relatedto'] thief ['capableof', 'relatedto'] steal ['relatedto'] raid
+pirate ['synonym'] plagiarist ['relatedto'] plagiarize ['mannerof'] steal ['relatedto'] raid
+pirate ['relatedto'] aye ['relatedto'] agreement ['relatedto'] party ['relatedto'] raid
+pirate ['relatedto'] aye ['relatedto'] always ['relatedto'] brand ['relatedto'] raid
+pirate ['relatedto'] aye ['relatedto'] always ['relatedto'] name ['relatedto'] raid
+pirate ['relatedto'] aye ['relatedto'] greeting ['relatedto'] name ['relatedto'] raid
+pirate ['relatedto'] aye ['relatedto'] term ['mannerof'] name ['relatedto'] raid
+pirate ['relatedto'] aye ['relatedto'] term ['relatedto'] party ['relatedto'] raid
+pirate ['relatedto'] aye ['relatedto'] term ['relatedto'] property ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] activity ['isa', 'relatedto'] party ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] activity ['isa'] search ['mannerof'] raid
+pirate ['atlocation'] boat ['relatedto'] activity ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+pirate ['atlocation'] boat ['relatedto'] smaller ['relatedto'] live ['relatedto'] raid
+pirate ['atlocation'] boat ['atlocation'] human ['relatedto'] party ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] land ['relatedto', 'synonym'] property ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] land ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+pirate ['atlocation'] boat ['relatedto', 'atlocation'] water ['atlocation'] bugs ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto', 'atlocation'] water ['isa', 'relatedto', 'atlocation'] snow ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] spray ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] go ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+pirate ['atlocation'] boat ['relatedto'] go ['relatedto'] assume ['mannerof'] raid
+pirate ['atlocation'] boat ['relatedto'] go ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] wet ['relatedto'] snow ['relatedto'] raid
+pirate ['atlocation'] boat ['atlocation'] food ['etymologicallyrelatedto'] foray ['relatedto', 'synonym'] raid
+pirate ['atlocation'] boat ['atlocation'] food ['relatedto'] party ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] thing ['relatedto'] name ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] thing ['relatedto', 'synonym'] property ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] big ['relatedto'] name ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] big ['relatedto'] party ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] big ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] little ['relatedto'] name ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] small ['relatedto'] party ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] small ['relatedto'] road ['etymologicallyrelatedto', 'relatedto'] raid
+pirate ['atlocation'] boat ['atlocation'] fish ['mannerof'] search ['mannerof'] raid
+pirate ['atlocation'] boat ['atlocation'] fish ['relatedto'] live ['relatedto'] raid
+pirate ['atlocation'] boat ['atlocation'] fish ['relatedto'] lure ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] plane ['relatedto'] attack ['mannerof', 'relatedto', 'synonym'] raid
+pirate ['atlocation'] boat ['relatedto'] board ['mannerof'] live ['relatedto'] raid
+pirate ['atlocation'] boat ['relatedto'] board ['relatedto'] snow ['relatedto'] raid

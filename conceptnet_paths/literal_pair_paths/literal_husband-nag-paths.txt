@@ -1,0 +1,100 @@
+husband ['formof', 'relatedto'] husbands ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] animal ['isa'] female ['relatedto'] nag
+husband ['relatedto'] animal ['isa', 'relatedto'] horse ['relatedto'] nag
+husband ['relatedto'] animal ['relatedto'] pony ['relatedto'] nag
+husband ['antonym', 'relatedto'] man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['relatedto'] nag
+husband ['antonym', 'relatedto'] man ['antonym', 'relatedto'] wifes ['relatedto'] nag
+husband ['antonym', 'relatedto'] man ['antonym', 'distinctfrom', 'relatedto', 'isa'] woman ['relatedto'] nag
+husband ['antonym', 'relatedto'] man ['relatedto'] bum ['similarto'] nag
+husband ['relatedto'] bill ['relatedto'] peck ['synonym'] nag
+husband ['relatedto'] mother ['relatedto'] female ['relatedto'] nag
+husband ['relatedto'] mother ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] father ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] father ['relatedto'] horse ['relatedto'] nag
+husband ['relatedto', 'synonym'] farm ['relatedto'] horse ['relatedto'] nag
+husband ['relatedto'] dad ['relatedto'] female ['relatedto'] nag
+husband ['relatedto'] male ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto', 'similarto'] female ['relatedto'] nag
+husband ['relatedto'] male ['antonym', 'distinctfrom'] woman ['relatedto'] nag
+husband ['relatedto'] marry ['relatedto'] husbands ['relatedto'] nag
+husband ['relatedto'] marry ['relatedto'] wives ['relatedto'] nag
+husband ['relatedto'] marry ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] family ['relatedto'] horse ['relatedto'] nag
+husband ['antonym', 'distinctfrom', 'relatedto', 'formof'] wife ['relatedto'] female ['relatedto'] nag
+husband ['antonym', 'distinctfrom', 'relatedto', 'formof'] wife ['isa', 'relatedto'] woman ['relatedto'] nag
+husband ['antonym', 'distinctfrom', 'relatedto', 'formof'] wife ['derivedfrom'] fishwife ['relatedto'] nag
+husband ['antonym', 'distinctfrom', 'relatedto', 'formof'] wife ['formof', 'relatedto'] wifes ['relatedto'] nag
+husband ['antonym', 'distinctfrom', 'relatedto', 'formof'] wife ['formof', 'relatedto'] wives ['relatedto'] nag
+husband ['antonym', 'distinctfrom', 'relatedto', 'formof'] wife ['relatedto'] husbands ['relatedto'] nag
+husband ['relatedto'] cucquean ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] golf_widow ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] henpecked ['derivedfrom'] henpeck ['relatedto'] nag
+husband ['relatedto'] henpecked ['relatedto'] nagging ['formof', 'relatedto'] nag
+husband ['relatedto'] hotwife ['relatedto'] female ['relatedto'] nag
+husband ['relatedto'] poll ['partof'] horse ['relatedto'] nag
+husband ['relatedto'] provide ['mannerof'] horse ['relatedto'] nag
+husband ['relatedto'] lord ['relatedto'] praise ['antonym'] nag
+husband ['relatedto'] monandry ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] polyandry ['relatedto'] female ['relatedto'] nag
+husband ['relatedto'] polyandry ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] queen ['isa', 'relatedto'] female ['relatedto'] nag
+husband ['relatedto'] queen ['isa', 'relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] sister_wife ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] tamkin ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] widow ['isa', 'relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] widow ['relatedto'] husbands ['relatedto'] nag
+husband ['relatedto'] widow_bewitched ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] behind ['relatedto'] bum ['similarto'] nag
+husband ['relatedto'] abandonment ['relatedto'] leave ['relatedto'] someone ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] carrier ['relatedto'] horse ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] child ['relatedto'] female ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] transit ['relatedto'] ride ['relatedto', 'synonym'] nag
+husband ['relatedto'] abandonment ['relatedto'] wife ['relatedto'] female ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] wife ['isa', 'relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] wife ['derivedfrom'] fishwife ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] wife ['formof', 'relatedto'] wifes ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] wife ['formof', 'relatedto'] wives ['relatedto'] nag
+husband ['relatedto'] abandonment ['relatedto'] wife ['relatedto'] husbands ['relatedto'] nag
+husband ['relatedto'] affair ['synonym'] action ['relatedto'] peck ['synonym'] nag
+husband ['relatedto'] affair ['synonym'] action ['relatedto'] ride ['relatedto', 'synonym'] nag
+husband ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] praise ['antonym'] nag
+husband ['relatedto'] affair ['antonym', 'relatedto'] activity ['relatedto'] ride ['relatedto', 'synonym'] nag
+husband ['relatedto'] affair ['relatedto'] around ['relatedto'] ride ['relatedto', 'synonym'] nag
+husband ['relatedto'] affair ['relatedto'] bad ['relatedto'] bum ['similarto'] nag
+husband ['relatedto'] affair ['relatedto'] bill ['relatedto'] peck ['synonym'] nag
+husband ['relatedto'] affair ['relatedto'] illicit ['relatedto'] paramour ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] love ['relatedto'] someone ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] love ['etymologicallyrelatedto', 'relatedto'] praise ['antonym'] nag
+husband ['relatedto'] affair ['relatedto'] man ['antonym', 'distinctfrom', 'etymologicallyrelatedto', 'relatedto'] female ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] man ['antonym', 'relatedto'] wifes ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] man ['antonym', 'distinctfrom', 'relatedto', 'isa'] woman ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] man ['relatedto'] bum ['similarto'] nag
+husband ['relatedto'] affair ['relatedto'] nice ['relatedto'] horse ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] outside ['atlocation'] horse ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] problem ['relatedto'] complaint ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] remember ['causes', 'relatedto'] remind ['mannerof', 'relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] sex ['relatedto'] female ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] sex ['relatedto'] bum ['similarto'] nag
+husband ['relatedto'] affair ['relatedto'] two ['relatedto'] ride ['relatedto', 'synonym'] nag
+husband ['relatedto'] affair ['relatedto'] wife ['relatedto'] female ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] wife ['isa', 'relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] wife ['derivedfrom'] fishwife ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] wife ['formof', 'relatedto'] wifes ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] wife ['formof', 'relatedto'] wives ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] wife ['relatedto'] husbands ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] woman ['isa', 'etymologicallyrelatedto', 'relatedto', 'synonym'] female ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] woman ['relatedto'] fishwife ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] woman ['relatedto'] jade ['synonym'] nag
+husband ['relatedto'] affair ['relatedto'] woman ['relatedto'] rouncy ['synonym'] nag
+husband ['relatedto'] affair ['relatedto'] woman ['relatedto'] scold ['synonym'] nag
+husband ['relatedto'] affair ['relatedto'] date ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] affair ['relatedto'] stateswoman ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] affair ['synonym'] amour ['relatedto'] paramour ['relatedto'] nag
+husband ['relatedto'] marriage ['relatedto'] act ['relatedto'] someone ['relatedto'] nag
+husband ['relatedto'] marriage ['relatedto'] children ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] marriage ['antonym', 'relatedto'] affair ['relatedto'] woman ['relatedto'] nag
+husband ['relatedto'] marriage ['atlocation'] companionship ['usedfor'] horse ['relatedto'] nag
+husband ['relatedto'] marriage ['causes', 'relatedto', 'hasprerequisite', 'atlocation'] love ['relatedto'] someone ['relatedto'] nag
+husband ['relatedto'] marriage ['causes', 'relatedto', 'hasprerequisite', 'atlocation'] love ['etymologicallyrelatedto', 'relatedto'] praise ['antonym'] nag
+husband ['relatedto'] marriage ['atlocation'] support ['isa'] harp ['relatedto'] nag
+husband ['relatedto'] marriage ['atlocation'] support ['relatedto'] horse ['relatedto'] nag

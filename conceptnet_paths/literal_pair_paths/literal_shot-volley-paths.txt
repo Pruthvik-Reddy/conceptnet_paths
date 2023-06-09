@@ -1,0 +1,100 @@
+shot ['relatedto'] volley
+shot ['relatedto'] ball ['relatedto'] volley
+shot ['antonym', 'relatedto'] bullet ['relatedto'] volley
+shot ['relatedto'] drive_volley ['relatedto'] volley
+shot ['relatedto'] flick ['relatedto'] volley
+shot ['relatedto'] discharge ['mannerof'] volley
+shot ['relatedto'] act ['mannerof', 'relatedto', 'partof', 'synonym'] play ['mannerof', 'relatedto'] volley
+shot ['relatedto'] action ['isa', 'relatedto'] play ['mannerof', 'relatedto'] volley
+shot ['relatedto'] action ['relatedto'] return ['isa'] volley
+shot ['relatedto'] short ['relatedto'] sound ['relatedto'] volley
+shot ['relatedto'] dissolve ['relatedto'] disperse ['mannerof'] volley
+shot ['relatedto'] arrow ['antonym', 'relatedto'] bullet ['relatedto'] volley
+shot ['relatedto'] arrow ['relatedto'] flight ['relatedto'] volley
+shot ['relatedto'] arrow ['relatedto'] missile ['relatedto'] volley
+shot ['relatedto'] arrow ['relatedto'] play ['mannerof', 'relatedto'] volley
+shot ['relatedto'] arrow ['usedfor'] hit ['mannerof'] volley
+shot ['relatedto'] ball ['capableof', 'usedfor', 'relatedto'] bounce ['relatedto'] volley
+shot ['relatedto'] ball ['isa', 'relatedto'] volleyball ['derivedfrom', 'synonym'] volley
+shot ['relatedto'] ball ['relatedto'] hit ['mannerof'] volley
+shot ['relatedto'] ball ['usedfor', 'relatedto'] play ['mannerof', 'relatedto'] volley
+shot ['relatedto'] ball ['relatedto'] bullet ['relatedto'] volley
+shot ['relatedto'] ball ['relatedto'] flight ['relatedto'] volley
+shot ['relatedto'] ball ['relatedto'] half_volley ['derivedfrom'] volley
+shot ['relatedto'] ball ['relatedto'] racquet ['relatedto'] volley
+shot ['relatedto'] ball ['relatedto'] return ['isa'] volley
+shot ['relatedto'] solo ['isa'] flight ['relatedto'] volley
+shot ['relatedto'] bang ['etymologicallyrelatedto', 'relatedto'] bounce ['relatedto'] volley
+shot ['relatedto'] bang ['mannerof', 'relatedto'] sound ['relatedto'] volley
+shot ['relatedto'] bang ['relatedto', 'synonym'] hit ['mannerof'] volley
+shot ['relatedto'] stop ['haslastsubevent', 'relatedto'] play ['mannerof', 'relatedto'] volley
+shot ['relatedto'] stop ['relatedto'] sound ['relatedto'] volley
+shot ['relatedto'] small ['relatedto'] ground ['relatedto'] volley
+shot ['relatedto'] small ['relatedto'] bullet ['relatedto'] volley
+shot ['relatedto'] block ['relatedto'] ground ['relatedto'] volley
+shot ['relatedto'] block ['relatedto'] ball ['relatedto'] volley
+shot ['relatedto'] block ['relatedto'] wicket ['relatedto'] volley
+shot ['isa'] blow ['mannerof'] discharge ['mannerof'] volley
+shot ['isa'] blow ['mannerof'] burst ['relatedto'] volley
+shot ['isa'] blow ['mannerof'] sound ['relatedto'] volley
+shot ['isa'] blow ['relatedto'] hit ['mannerof'] volley
+shot ['isa'] blow ['relatedto'] play ['mannerof', 'relatedto'] volley
+shot ['relatedto'] break ['mannerof'] disperse ['mannerof'] volley
+shot ['relatedto'] break ['mannerof', 'relatedto', 'synonym'] burst ['relatedto'] volley
+shot ['relatedto'] break ['relatedto'] hit ['mannerof'] volley
+shot ['relatedto'] break ['relatedto'] play ['mannerof', 'relatedto'] volley
+shot ['relatedto'] break ['relatedto'] salvo ['relatedto'] volley
+shot ['relatedto'] put ['mannerof'] ground ['relatedto'] volley
+shot ['relatedto'] brick ['relatedto'] hit ['mannerof'] volley
+shot ['antonym', 'relatedto'] bullet ['relatedto'] fire ['relatedto'] volley
+shot ['antonym', 'relatedto'] bullet ['relatedto'] ball ['relatedto'] volley
+shot ['antonym', 'relatedto'] bullet ['relatedto'] discharge ['mannerof'] volley
+shot ['antonym', 'relatedto'] bullet ['relatedto'] firing ['relatedto'] volley
+shot ['antonym', 'relatedto'] bullet ['relatedto'] missile ['relatedto'] volley
+shot ['usedfor', 'relatedto'] gun ['usedfor', 'relatedto'] fire ['relatedto'] volley
+shot ['usedfor', 'relatedto'] gun ['antonym', 'relatedto'] bullet ['relatedto'] volley
+shot ['usedfor', 'relatedto'] gun ['isa'] discharge ['mannerof'] volley
+shot ['usedfor', 'relatedto'] gun ['relatedto'] firing ['relatedto'] volley
+shot ['derivedfrom'] bowshot ['relatedto'] firing ['relatedto'] volley
+shot ['derivedfrom'] earshot ['relatedto'] sound ['relatedto'] volley
+shot ['derivedfrom'] gunshot ['relatedto'] bullet ['relatedto'] volley
+shot ['derivedfrom'] gunshot ['relatedto'] discharge ['mannerof'] volley
+shot ['relatedto', 'derivedfrom'] potshot ['relatedto'] fire ['relatedto'] volley
+shot ['derivedfrom'] slingshot ['relatedto'] bullet ['relatedto'] volley
+shot ['formof', 'relatedto'] shoot ['mannerof', 'relatedto', 'synonym'] fire ['relatedto'] volley
+shot ['formof', 'relatedto'] shoot ['usedfor', 'relatedto'] bullet ['relatedto'] volley
+shot ['formof', 'relatedto'] shoot ['mannerof', 'synonym'] hit ['mannerof'] volley
+shot ['formof', 'relatedto'] shoot ['mannerof'] flight ['relatedto'] volley
+shot ['formof', 'relatedto'] shoot ['relatedto'] firing ['relatedto'] volley
+shot ['formof', 'relatedto'] shoot ['relatedto'] missile ['relatedto'] volley
+shot ['formof', 'relatedto'] shoot ['relatedto'] discharge ['mannerof'] volley
+shot ['formof', 'relatedto'] shoot ['mannerof'] utter ['mannerof'] volley
+shot ['formof'] shots ['relatedto'] burst ['relatedto'] volley
+shot ['formof'] shotting ['relatedto'] bullet ['relatedto'] volley
+shot ['isa'] musket_ball ['synonym'] ball ['relatedto'] volley
+shot ['isa'] charge ['relatedto'] bullet ['relatedto'] volley
+shot ['isa'] charge ['relatedto', 'derivedfrom'] discharge ['mannerof'] volley
+shot ['isa', 'relatedto'] projectile ['relatedto'] fire ['relatedto'] volley
+shot ['isa', 'relatedto'] projectile ['relatedto'] ball ['relatedto'] volley
+shot ['isa', 'relatedto'] projectile ['isa', 'usedfor', 'relatedto'] bullet ['relatedto'] volley
+shot ['isa', 'relatedto'] projectile ['usedfor'] hit ['mannerof'] volley
+shot ['isa', 'relatedto'] projectile ['relatedto'] flight ['relatedto'] volley
+shot ['isa', 'relatedto'] projectile ['relatedto', 'synonym'] missile ['relatedto'] volley
+shot ['isa', 'relatedto'] projectile ['relatedto'] firing ['relatedto'] volley
+shot ['isa'] sports_equipment ['relatedto'] ball ['relatedto'] volley
+shot ['relatedto'] absolute_error ['relatedto'] burst ['relatedto'] volley
+shot ['relatedto'] ammunition ['relatedto'] ball ['relatedto'] volley
+shot ['relatedto'] ammunition ['relatedto'] bullet ['relatedto'] volley
+shot ['relatedto'] ammunition ['relatedto'] missile ['relatedto'] volley
+shot ['relatedto'] angle_shoot ['relatedto'] fire ['relatedto'] volley
+shot ['relatedto'] b_roll ['relatedto'] simultaneous ['relatedto'] volley
+shot ['relatedto'] bulletproof ['relatedto', 'derivedfrom'] bullet ['relatedto'] volley
+shot ['relatedto'] carom ['relatedto'] ball ['relatedto'] volley
+shot ['relatedto'] carom ['mannerof', 'relatedto'] bounce ['relatedto'] volley
+shot ['relatedto'] cover_drive ['relatedto'] ground ['relatedto'] volley
+shot ['relatedto'] cover_drive ['relatedto'] ball ['relatedto'] volley
+shot ['relatedto'] croquet ['relatedto'] ball ['relatedto'] volley
+shot ['relatedto'] croquet ['mannerof'] hit ['mannerof'] volley
+shot ['relatedto'] croquet ['mannerof'] play ['mannerof', 'relatedto'] volley
+shot ['relatedto'] croquet ['relatedto'] wicket ['relatedto'] volley
+shot ['relatedto'] double ['relatedto'] ball ['relatedto'] volley

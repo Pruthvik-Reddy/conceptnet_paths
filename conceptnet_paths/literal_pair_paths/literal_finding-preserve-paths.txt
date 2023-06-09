@@ -1,0 +1,100 @@
+finding ['similarto'] holding ['relatedto'] preserve
+finding ['synonym'] determination ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] red ['relatedto'] preserve
+finding ['relatedto'] apply ['causes', 'relatedto', 'synonym'] use ['antonym'] preserve
+finding ['relatedto'] apply ['relatedto'] fruit ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto', 'similarto'] spread ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] pot ['relatedto'] preserve
+finding ['relatedto'] science ['relatedto'] activity ['relatedto'] preserve
+finding ['relatedto'] science ['relatedto'] energy ['relatedto'] preserve
+finding ['relatedto'] science ['relatedto'] area ['relatedto'] preserve
+finding ['relatedto'] science ['relatedto'] nature ['relatedto'] preserve
+finding ['relatedto'] science ['relatedto'] stuff ['relatedto'] preserve
+finding ['relatedto'] science ['relatedto'] space ['relatedto'] preserve
+finding ['relatedto'] bear ['atlocation'] park ['relatedto'] preserve
+finding ['relatedto'] bear ['mannerof', 'synonym'] fruit ['relatedto'] preserve
+finding ['relatedto'] bear ['relatedto'] smoke ['relatedto'] preserve
+finding ['relatedto'] bear ['relatedto'] stuff ['relatedto'] preserve
+finding ['relatedto'] dance ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] dance ['relatedto'] activity ['relatedto'] preserve
+finding ['relatedto'] dance ['relatedto'] making ['relatedto'] preserve
+finding ['relatedto'] dance ['relatedto'] type ['relatedto'] preserve
+finding ['distinctfrom'] lose ['antonym'] keep ['mannerof', 'relatedto', 'synonym'] preserve
+finding ['distinctfrom'] lose ['relatedto'] waste ['antonym'] preserve
+finding ['distinctfrom'] lose ['relatedto'] dehydrate ['mannerof'] preserve
+finding ['distinctfrom'] lose ['relatedto'] discard ['antonym'] preserve
+finding ['distinctfrom'] lose ['relatedto'] throw ['antonym'] preserve
+finding ['relatedto'] difference ['relatedto'] spread ['relatedto'] preserve
+finding ['relatedto'] difference ['isa'] quality ['relatedto'] preserve
+finding ['relatedto'] discover ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] discover ['relatedto'] nature ['relatedto'] preserve
+finding ['similarto'] holding ['relatedto'] safe ['relatedto'] preserve
+finding ['similarto'] holding ['relatedto'] keep ['mannerof', 'relatedto', 'synonym'] preserve
+finding ['similarto'] holding ['relatedto'] determination ['relatedto'] preserve
+finding ['relatedto'] employ ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] employ ['relatedto'] destroy ['antonym'] preserve
+finding ['relatedto'] employ ['relatedto', 'synonym'] use ['antonym'] preserve
+finding ['relatedto'] fact ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] fact ['relatedto'] state ['relatedto'] preserve
+finding ['formof', 'relatedto'] find ['relatedto'] action ['relatedto'] preserve
+finding ['formof', 'relatedto'] find ['relatedto'] good ['relatedto'] preserve
+finding ['relatedto'] seek ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] seek ['relatedto'] destroy ['antonym'] preserve
+finding ['relatedto'] judge ['causesdesire'] activity ['relatedto'] preserve
+finding ['relatedto'] judge ['relatedto'] making ['relatedto'] preserve
+finding ['relatedto'] address ['mannerof'] use ['antonym'] preserve
+finding ['relatedto'] address ['mannerof'] access ['relatedto'] preserve
+finding ['relatedto'] address ['relatedto'] place ['relatedto'] preserve
+finding ['relatedto'] reward ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] reward ['relatedto'] good ['relatedto'] preserve
+finding ['relatedto'] reward ['relatedto'] place ['relatedto'] preserve
+finding ['relatedto'] reward ['relatedto'] type ['relatedto'] preserve
+finding ['relatedto'] result ['relatedto'] decay ['antonym'] preserve
+finding ['relatedto'] result ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] result ['relatedto'] good ['relatedto'] preserve
+finding ['relatedto'] result ['relatedto'] salt ['mannerof', 'relatedto'] preserve
+finding ['relatedto'] result ['relatedto'] energy ['relatedto'] preserve
+finding ['relatedto'] result ['relatedto'] fruit ['relatedto'] preserve
+finding ['relatedto'] result ['isa', 'relatedto'] product ['relatedto'] preserve
+finding ['relatedto'] result ['relatedto'] confection ['relatedto'] preserve
+finding ['relatedto'] result ['relatedto'] smoke ['relatedto'] preserve
+finding ['relatedto'] clock ['relatedto'] keeping ['relatedto'] preserve
+finding ['relatedto'] experiment ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] experiment ['relatedto'] activity ['relatedto'] preserve
+finding ['relatedto'] experiment ['relatedto', 'partof'] condition ['relatedto'] preserve
+finding ['relatedto'] experiment ['relatedto'] technique ['relatedto'] preserve
+finding ['relatedto'] jewellery ['relatedto'] amber ['relatedto'] preserve
+finding ['relatedto'] maze ['relatedto'] corn ['mannerof'] preserve
+finding ['relatedto'] maze ['relatedto'] place ['relatedto'] preserve
+finding ['relatedto', 'similarto'] discovery ['relatedto'] space ['relatedto'] preserve
+finding ['relatedto', 'similarto'] discovery ['relatedto'] animals ['relatedto'] preserve
+finding ['relatedto', 'similarto'] discovery ['isa'] determination ['relatedto'] preserve
+finding ['relatedto'] investigation ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] component ['isa'] making ['relatedto'] preserve
+finding ['isa'] judgment ['relatedto'] determination ['relatedto'] preserve
+finding ['relatedto'] direction ['relatedto'] onto ['relatedto'] preserve
+finding ['relatedto'] exploration ['relatedto'] space ['relatedto'] preserve
+finding ['relatedto'] hyperresonance ['relatedto'] area ['relatedto'] preserve
+finding ['relatedto'] paraclinical ['relatedto'] technique ['relatedto'] preserve
+finding ['relatedto'] search ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] search ['isa'] activity ['relatedto'] preserve
+finding ['synonym'] determination ['relatedto'] holding ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['isa'] state ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['isa', 'relatedto', 'synonym'] activity ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['isa'] cooking ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] beginning ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] continue ['synonym'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] cook ['mannerof'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] destroy ['antonym'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] extend ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] keep ['mannerof', 'relatedto', 'synonym'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] let ['antonym'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] park ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] protect ['relatedto', 'synonym'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] smoke ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] throw ['antonym'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['relatedto'] type ['relatedto'] preserve
+finding ['relatedto'] apply ['relatedto'] action ['synonym'] energy ['relatedto'] preserve
+finding ['relatedto'] apply ['antonym', 'mannerof', 'relatedto', 'synonym'] give ['relatedto'] action ['relatedto'] preserve
+finding ['relatedto'] apply ['antonym', 'mannerof', 'relatedto', 'synonym'] give ['antonym', 'distinctfrom'] keep ['mannerof', 'relatedto', 'synonym'] preserve

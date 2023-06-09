@@ -1,0 +1,100 @@
+bell ['receivesaction'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] house ['isa'] play ['relatedto'] recast
+bell ['relatedto'] column ['relatedto'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] room ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] ending ['relatedto'] form ['relatedto'] recast
+bell ['relatedto', 'atlocation'] school ['relatedto'] play ['relatedto'] recast
+bell ['relatedto', 'atlocation'] school ['relatedto'] form ['relatedto'] recast
+bell ['relatedto', 'derivedfrom'] bellfounding ['relatedto'] cast ['mannerof', 'relatedto'] recast
+bell ['isa'] opening ['relatedto'] performance ['relatedto'] recast
+bell ['isa'] opening ['relatedto'] play ['relatedto'] recast
+bell ['isa'] sound ['relatedto'] form ['relatedto'] recast
+bell ['isa'] sound ['mannerof'] play ['relatedto'] recast
+bell ['isa'] sound ['hasa'] utterance ['relatedto'] recast
+bell ['isa', 'relatedto', 'synonym'] campane ['relatedto'] form ['relatedto'] recast
+bell ['isa', 'relatedto'] dupla ['relatedto'] form ['relatedto'] recast
+bell ['relatedto', 'partof'] trumpet ['mannerof', 'relatedto'] play ['relatedto'] recast
+bell ['receivesaction'] cast ['isa', 'etymologicallyrelatedto', 'relatedto'] throw ['relatedto'] recast
+bell ['receivesaction'] cast ['relatedto'] play ['relatedto'] recast
+bell ['receivesaction'] cast ['relatedto', 'synonym'] form ['relatedto'] recast
+bell ['receivesaction'] cast ['relatedto', 'synonym'] mould ['relatedto'] recast
+bell ['receivesaction'] cast ['relatedto'] performance ['relatedto'] recast
+bell ['relatedto'] christmas ['relatedto'] form ['relatedto'] recast
+bell ['relatedto'] class ['relatedto', 'synonym'] form ['relatedto'] recast
+bell ['relatedto'] device ['relatedto'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] ding ['relatedto'] throw ['relatedto'] recast
+bell ['relatedto'] draw ['synonym'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] draw ['mannerof', 'relatedto'] form ['relatedto'] recast
+bell ['relatedto'] hammer ['relatedto'] throw ['relatedto'] recast
+bell ['relatedto'] instrument ['relatedto', 'synonym'] play ['relatedto'] recast
+bell ['relatedto'] iron ['relatedto', 'receivesaction'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] music ['relatedto'] performance ['relatedto'] recast
+bell ['relatedto'] music ['relatedto'] form ['relatedto'] recast
+bell ['relatedto'] music ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] musical ['relatedto'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] musical ['relatedto'] performance ['relatedto'] recast
+bell ['relatedto'] musical ['antonym', 'isa', 'relatedto'] play ['relatedto'] recast
+bell ['relatedto'] musical_instrument ['usedfor'] play ['relatedto'] recast
+bell ['relatedto'] phone ['partof'] utterance ['relatedto'] recast
+bell ['relatedto', 'similarto'] ringer ['isa'] throw ['relatedto'] recast
+bell ['relatedto'] round ['mannerof', 'relatedto'] form ['relatedto'] recast
+bell ['relatedto'] shape ['mannerof'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] shape ['mannerof'] throw ['relatedto'] recast
+bell ['relatedto'] shape ['relatedto', 'synonym'] form ['relatedto'] recast
+bell ['relatedto'] shape ['relatedto'] remould ['synonym'] recast
+bell ['relatedto'] shape ['relatedto', 'synonym'] mould ['relatedto'] recast
+bell ['relatedto'] shell ['relatedto'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] thing ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] time ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] time ['relatedto'] throw ['relatedto'] recast
+bell ['relatedto'] pipe ['mannerof'] play ['relatedto'] recast
+bell ['relatedto'] stroke ['synonym'] throw ['relatedto'] recast
+bell ['relatedto'] woodwind ['usedfor'] play ['relatedto'] recast
+bell ['relatedto'] bugle ['mannerof'] play ['relatedto'] recast
+bell ['relatedto'] change ['relatedto'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] change ['mannerof'] form ['relatedto'] recast
+bell ['relatedto'] change ['mannerof'] remodel ['synonym'] recast
+bell ['relatedto'] cow ['relatedto'] throw ['relatedto'] recast
+bell ['relatedto'] tongue ['mannerof'] play ['relatedto'] recast
+bell ['relatedto'] tongue ['relatedto'] utterance ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] rest ['antonym', 'haslastsubevent', 'relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] pretend ['capableof', 'motivatedbygoal'] actor ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] speaker ['relatedto'] utterance ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] child ['relatedto', 'hasprerequisite'] play ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] air ['relatedto'] throw ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] fire ['relatedto'] performance ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] ground ['mannerof'] throw ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] ground ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] land ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] animal ['relatedto'] form ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] animal ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['relatedto'] man ['relatedto'] form ['relatedto'] recast
+bell ['relatedto'] house ['relatedto', 'atlocation'] plant ['isa'] actor ['relatedto'] recast
+bell ['relatedto'] house ['relatedto', 'atlocation'] plant ['relatedto'] form ['relatedto'] recast
+bell ['relatedto'] house ['antonym', 'relatedto'] rent ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] board_game ['usedfor'] play ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] chest ['usedfor'] play ['relatedto'] recast
+bell ['relatedto'] house ['relatedto', 'atlocation'] column ['relatedto'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] house ['atlocation'] computer ['usedfor'] play ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] couch ['relatedto'] mould ['relatedto'] recast
+bell ['relatedto'] house ['relatedto', 'atlocation'] dog ['desires'] play ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] dogs ['desires'] play ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] interior_area ['usedfor'] play ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] iron ['relatedto', 'receivesaction'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] house ['atlocation'] material ['relatedto'] form ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] phone ['partof'] utterance ['relatedto'] recast
+bell ['relatedto'] house ['atlocation'] stuff ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['relatedto', 'atlocation'] television ['atlocation'] actor ['relatedto'] recast
+bell ['relatedto'] house ['relatedto', 'atlocation'] terrace ['mannerof'] form ['relatedto'] recast
+bell ['relatedto'] house ['relatedto', 'atlocation'] window ['relatedto'] form ['relatedto'] recast
+bell ['relatedto'] house ['hasa', 'relatedto', 'atlocation'] yard ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['derivedfrom'] powerhouse ['isa'] actor ['relatedto'] recast
+bell ['relatedto'] house ['isa'] basket_house ['relatedto'] performance ['relatedto'] recast
+bell ['relatedto'] house ['isa', 'mannerof', 'relatedto', 'similarto'] home ['relatedto'] form ['relatedto'] recast
+bell ['relatedto'] house ['isa'] band ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['isa'] noun ['relatedto'] grammatical ['relatedto'] recast
+bell ['relatedto'] house ['isa', 'relatedto'] structure ['isa', 'relatedto'] form ['relatedto'] recast
+bell ['relatedto'] house ['isa'] thing ['relatedto'] play ['relatedto'] recast
+bell ['relatedto'] house ['isa'] play ['relatedto'] cast ['mannerof', 'relatedto'] recast
+bell ['relatedto'] house ['isa'] play ['capableof', 'relatedto', 'atlocation'] performance ['relatedto'] recast
+bell ['relatedto'] house ['isa'] play ['relatedto'] form ['relatedto'] recast

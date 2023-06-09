@@ -1,0 +1,100 @@
+pool ['hasa', 'relatedto', 'atlocation'] water ['mannerof', 'relatedto'] fill
+pool ['relatedto'] bath ['usedfor'] fill
+pool ['partof'] break ['relatedto'] fill
+pool ['isa'] construction ['relatedto'] fill
+pool ['relatedto'] supply ['relatedto'] fill
+pool ['usedfor'] join ['antonym', 'relatedto'] break ['relatedto'] fill
+pool ['usedfor'] join ['antonym', 'relatedto', 'synonym'] meet ['synonym'] fill
+pool ['usedfor'] join ['mannerof'] close ['mannerof'] fill
+pool ['usedfor'] join ['relatedto', 'synonym'] add ['relatedto'] fill
+pool ['usedfor'] join ['relatedto'] action ['relatedto'] fill
+pool ['usedfor'] join ['relatedto'] enter ['relatedto'] fill
+pool ['usedfor'] join ['relatedto'] line ['mannerof', 'relatedto'] fill
+pool ['usedfor'] join ['relatedto'] put ['relatedto'] fill
+pool ['usedfor'] join ['relatedto'] putting ['relatedto'] fill
+pool ['atlocation'] human ['atlocation'] bath ['usedfor'] fill
+pool ['atlocation'] human ['atlocation'] charge ['relatedto'] fill
+pool ['atlocation'] human ['atlocation'] china ['relatedto'] fill
+pool ['atlocation'] human ['relatedto', 'atlocation'] population ['relatedto'] fill
+pool ['atlocation'] human ['relatedto'] art ['relatedto'] fill
+pool ['atlocation'] human ['relatedto'] crowd ['relatedto'] fill
+pool ['atlocation'] human ['relatedto'] eat ['relatedto'] fill
+pool ['atlocation'] human ['relatedto'] sound ['relatedto'] fill
+pool ['atlocation'] human ['relatedto'] work ['mannerof'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] bath ['usedfor'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['atlocation'] bucket ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['atlocation'] container ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] drain ['antonym'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto', 'atlocation'] flood ['mannerof'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['atlocation'] perfume ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['mannerof'] supply ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] brim ['mannerof', 'relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] deluge ['mannerof'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] dyke ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] embankment ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] ether ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] flooded ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] ink ['mannerof'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] lade ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] lead ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] office ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] pour ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] pump ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] contents ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] form ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] making ['relatedto'] fill
+pool ['hasa', 'relatedto', 'atlocation'] water ['relatedto'] stuff ['mannerof', 'relatedto'] fill
+pool ['relatedto'] stick ['relatedto'] action ['relatedto'] fill
+pool ['relatedto'] stick ['relatedto', 'atlocation'] yard ['relatedto'] fill
+pool ['relatedto'] stick ['relatedto'] shaft ['relatedto'] fill
+pool ['relatedto'] stick ['relatedto'] gas ['relatedto'] fill
+pool ['relatedto'] bar ['relatedto'] crowd ['relatedto'] fill
+pool ['relatedto'] bar ['relatedto'] order ['relatedto'] fill
+pool ['relatedto'] bar ['relatedto'] silver ['relatedto'] fill
+pool ['relatedto'] bar ['relatedto'] line ['mannerof', 'relatedto'] fill
+pool ['relatedto'] bar ['relatedto'] passage ['relatedto'] fill
+pool ['relatedto'] bar ['relatedto'] break ['relatedto'] fill
+pool ['relatedto'] bar ['relatedto'] car ['relatedto'] fill
+pool ['relatedto'] bar ['relatedto'] close ['mannerof'] fill
+pool ['relatedto'] bath ['relatedto', 'atlocation'] water ['mannerof', 'relatedto'] fill
+pool ['relatedto'] bath ['relatedto'] full ['etymologicallyrelatedto', 'relatedto'] fill
+pool ['relatedto'] bath ['relatedto'] plug ['relatedto'] fill
+pool ['relatedto'] body ['relatedto'] water ['mannerof', 'relatedto'] fill
+pool ['relatedto'] body ['relatedto'] crowd ['relatedto'] fill
+pool ['relatedto'] body ['relatedto'] full ['etymologicallyrelatedto', 'relatedto'] fill
+pool ['relatedto'] body ['relatedto'] bath ['usedfor'] fill
+pool ['relatedto'] body ['partof'] cavity ['usedfor', 'relatedto'] fill
+pool ['relatedto'] body ['relatedto'] belly ['relatedto'] fill
+pool ['relatedto'] body ['relatedto'] complete ['mannerof', 'relatedto'] fill
+pool ['relatedto'] body ['relatedto'] container ['relatedto'] fill
+pool ['relatedto'] body ['relatedto'] form ['relatedto'] fill
+pool ['relatedto'] body ['relatedto'] dyke ['relatedto'] fill
+pool ['relatedto'] body ['relatedto'] filler ['relatedto', 'derivedfrom'] fill
+pool ['relatedto'] body ['relatedto'] shaft ['relatedto'] fill
+pool ['partof'] break ['relatedto'] action ['relatedto'] fill
+pool ['partof'] break ['relatedto'] car ['relatedto'] fill
+pool ['partof'] break ['antonym'] put ['relatedto'] fill
+pool ['partof'] break ['antonym'] putting ['relatedto'] fill
+pool ['partof'] break ['antonym'] repair ['mannerof'] fill
+pool ['partof'] break ['antonym', 'relatedto'] work ['mannerof'] fill
+pool ['partof'] break ['isa', 'mannerof', 'relatedto'] change ['mannerof'] fill
+pool ['partof'] break ['mannerof'] change_state ['mannerof'] fill
+pool ['partof'] break ['relatedto'] past ['distinctfrom'] fill
+pool ['partof'] break ['relatedto'] stopper ['synonym'] fill
+pool ['partof'] break ['relatedto'] stopping ['relatedto'] fill
+pool ['partof'] break ['relatedto'] carriage ['relatedto'] fill
+pool ['partof'] break ['relatedto'] line ['mannerof', 'relatedto'] fill
+pool ['partof'] break ['relatedto'] rhythmic ['relatedto'] fill
+pool ['partof'] break ['relatedto'] stuff ['mannerof', 'relatedto'] fill
+pool ['relatedto'] build ['relatedto'] action ['relatedto'] fill
+pool ['relatedto'] build ['antonym'] break ['relatedto'] fill
+pool ['relatedto'] build ['relatedto'] construction ['relatedto'] fill
+pool ['relatedto'] build ['relatedto'] form ['relatedto'] fill
+pool ['relatedto'] build ['relatedto'] making ['relatedto'] fill
+pool ['relatedto'] build ['relatedto'] put ['relatedto'] fill
+pool ['relatedto'] build ['relatedto'] putting ['relatedto'] fill
+pool ['relatedto'] build ['relatedto'] stuff ['mannerof', 'relatedto'] fill
+pool ['relatedto'] build ['relatedto'] work ['mannerof'] fill
+pool ['isa'] construction ['relatedto'] work ['mannerof'] fill
+pool ['isa'] construction ['isa', 'relatedto'] making ['relatedto'] fill

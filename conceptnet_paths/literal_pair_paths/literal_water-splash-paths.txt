@@ -1,0 +1,100 @@
+water ['atlocation'] splash
+water ['antonym', 'relatedto'] wave ['relatedto'] splash
+water ['atlocation'] diver ['causes'] splash
+water ['isa', 'relatedto', 'atlocation'] puddle ['relatedto'] splash
+water ['isa', 'atlocation'] slush ['relatedto', 'synonym'] splash
+water ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] splash
+water ['receivesaction'] splashed ['formof', 'relatedto'] splash
+water ['relatedto'] launch ['relatedto'] splash
+water ['relatedto'] sloosh ['relatedto'] splash
+water ['relatedto'] splash_pad ['derivedfrom'] splash
+water ['relatedto'] splashboard ['relatedto', 'derivedfrom'] splash
+water ['relatedto'] splashdown ['derivedfrom'] splash
+water ['relatedto'] swim ['relatedto'] splash
+water ['relatedto'] basic ['relatedto'] sound ['mannerof'] splash
+water ['antonym', 'distinctfrom', 'relatedto'] air ['relatedto', 'atlocation'] sound ['mannerof'] splash
+water ['antonym', 'distinctfrom', 'relatedto'] air ['mannerof', 'synonym'] publicize ['relatedto'] splash
+water ['antonym', 'relatedto'] ground ['relatedto', 'atlocation'] dirty ['mannerof'] splash
+water ['antonym', 'relatedto'] ground ['atlocation'] slush ['relatedto', 'synonym'] splash
+water ['antonym', 'relatedto'] ground ['relatedto'] puddle ['relatedto'] splash
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] splash_land ['relatedto'] splash
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] splashdown ['derivedfrom'] splash
+water ['antonym', 'distinctfrom', 'relatedto'] land ['relatedto'] splatter ['relatedto'] splash
+water ['antonym', 'relatedto'] bread ['relatedto'] popper ['relatedto'] splash
+water ['antonym', 'capableof', 'relatedto'] flow ['capableof', 'relatedto'] liquid ['relatedto'] splash
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] sloosh ['relatedto'] splash
+water ['antonym', 'capableof', 'relatedto'] flow ['relatedto'] wave ['relatedto'] splash
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['isa', 'relatedto'] liquid ['relatedto'] splash
+water ['antonym', 'hasa', 'relatedto', 'atlocation'] milk ['relatedto'] wave ['relatedto'] splash
+water ['antonym', 'distinctfrom', 'relatedto'] oil ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] splash
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] noise ['isa'] splash
+water ['antonym', 'relatedto', 'atlocation'] rock ['relatedto'] impact ['relatedto'] splash
+water ['antonym', 'relatedto'] soap ['antonym'] dirty ['mannerof'] splash
+water ['antonym', 'relatedto'] soap ['capableof', 'relatedto'] liquid ['relatedto'] splash
+water ['antonym', 'relatedto', 'atlocation', 'hasproperty', 'isa'] steam ['antonym', 'distinctfrom', 'relatedto'] liquid ['relatedto'] splash
+water ['antonym', 'isa'] food ['relatedto', 'atlocation'] stomach ['relatedto'] splash
+water ['antonym', 'isa'] food ['isa'] slush ['relatedto', 'synonym'] splash
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] liquid ['relatedto'] splash
+water ['antonym', 'relatedto', 'atlocation', 'isa', 'madeof'] ice ['relatedto'] slush ['relatedto', 'synonym'] splash
+water ['antonym', 'relatedto'] wave ['relatedto'] disturbance ['isa'] splash
+water ['antonym', 'relatedto'] wave ['isa', 'relatedto'] noise ['isa'] splash
+water ['antonym', 'relatedto'] wave ['isa', 'relatedto', 'partof'] sound ['mannerof'] splash
+water ['antonym', 'relatedto'] wave ['relatedto'] splashing ['formof', 'relatedto', 'synonym'] splash
+water ['atlocation'] air_bubble ['relatedto'] liquid ['relatedto'] splash
+water ['relatedto', 'atlocation'] bass ['isa', 'relatedto'] sound ['mannerof'] splash
+water ['relatedto', 'atlocation'] bass ['relatedto'] noise ['isa'] splash
+water ['hasa', 'relatedto', 'atlocation'] bay ['relatedto'] sound ['mannerof'] splash
+water ['relatedto', 'atlocation'] boat ['relatedto'] launch ['relatedto'] splash
+water ['atlocation'] bottom ['relatedto'] sound ['mannerof'] splash
+water ['relatedto', 'atlocation'] current ['relatedto'] liquid ['relatedto'] splash
+water ['relatedto', 'atlocation'] current ['relatedto'] wave ['relatedto'] splash
+water ['atlocation'] dolphins ['capableof'] swim ['relatedto'] splash
+water ['relatedto', 'atlocation'] fish ['capableof', 'relatedto'] swim ['relatedto'] splash
+water ['relatedto', 'atlocation'] fish ['isa'] spot ['isa'] splash
+water ['relatedto', 'atlocation'] fish ['relatedto'] sound ['mannerof'] splash
+water ['atlocation'] fishes ['desires'] swim ['relatedto'] splash
+water ['relatedto', 'atlocation'] island ['usedfor'] swim ['relatedto'] splash
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['atlocation'] diver ['causes'] splash
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] splash
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['relatedto', 'partof'] wave ['relatedto'] splash
+water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['relatedto'] swim ['relatedto'] splash
+water ['relatedto', 'atlocation'] salt ['mannerof'] sprinkle ['synonym'] splash
+water ['relatedto', 'atlocation'] salt ['relatedto'] wave ['relatedto'] splash
+water ['atlocation'] scuba_diver ['isa', 'derivedfrom'] diver ['causes'] splash
+water ['atlocation'] swimmer ['capableof', 'relatedto', 'derivedfrom'] swim ['relatedto'] splash
+water ['atlocation'] swimmer ['isa'] diver ['causes'] splash
+water ['relatedto', 'desires', 'atlocation'] turtle ['relatedto'] swim ['relatedto'] splash
+water ['relatedto', 'atlocation'] bath ['relatedto'] liquid ['relatedto'] splash
+water ['relatedto', 'atlocation'] bath ['relatedto'] tosh ['relatedto'] splash
+water ['hasa', 'atlocation'] beer ['hasproperty'] liquid ['relatedto'] splash
+water ['atlocation'] bottle ['hasa', 'relatedto'] liquid ['relatedto'] splash
+water ['atlocation'] bubble ['relatedto'] liquid ['relatedto'] splash
+water ['atlocation'] bucket ['relatedto'] liquid ['relatedto'] splash
+water ['atlocation'] coffee ['isa'] liquid ['relatedto'] splash
+water ['relatedto', 'atlocation'] condensation ['relatedto'] liquid ['relatedto'] splash
+water ['atlocation'] container ['atlocation'] liquid ['relatedto'] splash
+water ['atlocation'] container ['relatedto'] splashout ['relatedto'] splash
+water ['atlocation'] dip ['relatedto'] swim ['relatedto'] splash
+water ['atlocation'] dip ['relatedto'] liquid ['relatedto'] splash
+water ['atlocation'] dip ['relatedto'] slipware ['relatedto'] splash
+water ['relatedto', 'atlocation'] drain ['relatedto'] liquid ['relatedto'] splash
+water ['relatedto', 'atlocation'] drain ['relatedto'] tosh ['relatedto'] splash
+water ['atlocation'] drenching ['isa'] wetting ['isa'] splash
+water ['usedfor', 'relatedto', 'atlocation'] drink ['relatedto', 'instanceof'] slush ['relatedto', 'synonym'] splash
+water ['usedfor', 'relatedto', 'atlocation'] drink ['isa', 'relatedto'] liquid ['relatedto'] splash
+water ['atlocation'] drip ['synonym'] spot ['isa'] splash
+water ['atlocation'] drip ['isa'] sound ['mannerof'] splash
+water ['atlocation'] droplet ['relatedto'] spatter ['relatedto', 'synonym'] splash
+water ['atlocation'] drowning ['antonym', 'distinctfrom', 'relatedto'] swim ['relatedto'] splash
+water ['atlocation'] enema ['isa'] liquid ['relatedto'] splash
+water ['relatedto', 'atlocation'] flood ['relatedto'] flash ['relatedto'] splash
+water ['relatedto', 'atlocation'] fountain ['relatedto'] liquid ['relatedto'] splash
+water ['relatedto', 'atlocation'] gallon ['relatedto'] liquid ['relatedto'] splash
+water ['relatedto', 'atlocation'] glass ['hasproperty'] dirty ['mannerof'] splash
+water ['relatedto', 'atlocation'] glass ['relatedto'] liquid ['relatedto'] splash
+water ['atlocation'] gym ['relatedto'] spot ['isa'] splash
+water ['relatedto', 'atlocation'] jar ['atlocation'] liquid ['relatedto'] splash
+water ['atlocation'] juice ['isa', 'relatedto', 'hasproperty'] liquid ['relatedto'] splash
+water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] liquid ['relatedto'] splash
+water ['hasa', 'relatedto', 'atlocation'] lake ['relatedto'] puddle ['relatedto'] splash
+water ['atlocation'] liter ['relatedto'] liquid ['relatedto'] splash

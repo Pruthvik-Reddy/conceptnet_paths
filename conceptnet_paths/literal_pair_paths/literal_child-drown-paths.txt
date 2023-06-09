@@ -1,0 +1,100 @@
+child ['relatedto'] item ['relatedto'] drown
+child ['createdby'] birth ['antonym'] die ['mannerof', 'relatedto'] drown
+child ['createdby'] birth ['antonym'] kill ['mannerof', 'relatedto'] drown
+child ['relatedto', 'partof', 'atlocation'] family ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['relatedto', 'atlocation'] school ['mannerof'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+child ['capableof', 'desires'] learn ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+child ['capableof'] pain ['relatedto'] kill ['mannerof', 'relatedto'] drown
+child ['capableof'] take_bath ['usedfor'] water ['usedfor', 'relatedto'] drown
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] thing ['relatedto'] drown
+child ['relatedto', 'hasprerequisite'] play ['mannerof'] die ['mannerof', 'relatedto'] drown
+child ['relatedto', 'hasprerequisite'] play ['relatedto'] splash_pad ['relatedto'] drown
+child ['relatedto', 'hasprerequisite'] play ['usedfor'] pool ['usedfor'] drown
+child ['isa'] buster ['relatedto'] thing ['relatedto'] drown
+child ['isa'] animal ['relatedto'] thing ['relatedto'] drown
+child ['isa', 'relatedto'] daughter ['relatedto'] thing ['relatedto'] drown
+child ['motivatedbygoal'] procreate ['haslastsubevent'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] ball ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] ball ['relatedto'] kill ['mannerof', 'relatedto'] drown
+child ['relatedto'] born ['antonym', 'distinctfrom', 'relatedto'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] caddie ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] age ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] big ['relatedto'] flood ['relatedto', 'synonym'] drown
+child ['relatedto'] face ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] general ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] general ['relatedto'] kill ['mannerof', 'relatedto'] drown
+child ['relatedto'] human ['atlocation'] pool ['usedfor'] drown
+child ['relatedto'] human ['capableof'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] human ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+child ['relatedto'] low ['relatedto'] volume ['relatedto'] drown
+child ['relatedto'] name ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] old ['motivatedbygoal', 'relatedto'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] single ['isa'] kill ['mannerof', 'relatedto'] drown
+child ['relatedto'] single ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] another ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] anything ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] item ['relatedto', 'synonym'] thing ['relatedto'] drown
+child ['relatedto'] legal ['distinctfrom'] kill ['mannerof', 'relatedto'] drown
+child ['relatedto'] legal ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] natural ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+child ['relatedto'] one ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] place ['distinctfrom', 'relatedto'] thing ['relatedto'] drown
+child ['relatedto'] place ['isa'] item ['relatedto'] drown
+child ['relatedto'] place ['relatedto'] pool ['usedfor'] drown
+child ['relatedto', 'synonym'] product ['relatedto'] thing ['relatedto'] drown
+child ['relatedto', 'synonym'] product ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] something ['relatedto', 'derivedfrom'] thing ['relatedto'] drown
+child ['relatedto'] container ['atlocation'] water ['usedfor', 'relatedto'] drown
+child ['relatedto'] container ['relatedto', 'atlocation'] fluid ['relatedto'] drown
+child ['relatedto'] container ['isa', 'atlocation'] item ['relatedto'] drown
+child ['relatedto'] egg ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] egg ['relatedto'] immerse ['relatedto'] drown
+child ['relatedto'] ground ['antonym', 'relatedto'] water ['usedfor', 'relatedto'] drown
+child ['relatedto'] ground ['relatedto'] kill ['mannerof', 'relatedto'] drown
+child ['relatedto'] hide ['mannerof', 'relatedto', 'synonym'] obscure ['relatedto'] drown
+child ['relatedto'] house ['isa'] thing ['relatedto'] drown
+child ['relatedto'] issue ['relatedto'] water ['usedfor', 'relatedto'] drown
+child ['relatedto'] issue ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] lap ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+child ['relatedto'] paste ['relatedto'] water ['usedfor', 'relatedto'] drown
+child ['relatedto'] paste ['relatedto'] fluid ['relatedto'] drown
+child ['relatedto'] pseudoconcept ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] punishment ['relatedto'] murder_hole ['relatedto'] drown
+child ['relatedto'] toy ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] toy ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] water_birth ['relatedto'] water ['usedfor', 'relatedto'] drown
+child ['usedfor'] fun ['motivatedbygoal'] surf ['haslastsubevent'] drown
+child ['usedfor'] fun ['motivatedbygoal', 'relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+child ['usedfor'] fun ['usedfor'] swimming ['causes'] drown
+child ['relatedto'] abandonment ['isa'] discard ['synonym'] eliminate ['mannerof'] drown
+child ['relatedto'] abandonment ['relatedto'] leave ['entails'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] abandonment ['relatedto'] cessation ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] abandonment ['relatedto'] freight ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] abandonment ['relatedto'] value ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] relative ['hasproperty'] freedom ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] bel ['relatedto'] volume ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] caseload ['relatedto'] volume ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] cold ['hasproperty'] water ['usedfor', 'relatedto'] drown
+child ['relatedto'] relative ['relatedto'] daughter ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] family ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] relative ['relatedto'] lose ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['relatedto'] relative ['relatedto'] lose ['relatedto'] eliminate ['mannerof'] drown
+child ['relatedto'] relative ['relatedto'] napkin ['relatedto'] thing ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] napkin ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] periodic ['relatedto'] water ['usedfor', 'relatedto'] drown
+child ['relatedto'] relative ['relatedto'] related ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+child ['relatedto'] relative ['relatedto'] key ['isa'] thing ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] key ['relatedto'] item ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] size ['isa', 'relatedto'] volume ['relatedto'] drown
+child ['relatedto'] relative ['relatedto'] squirrel ['relatedto'] kill ['mannerof', 'relatedto'] drown
+child ['relatedto'] relative ['relatedto'] ubasute ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['isa'] thing ['relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['relatedto'] kill ['mannerof', 'relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['relatedto'] action ['relatedto'] swim ['antonym', 'distinctfrom', 'synonym'] drown
+child ['antonym', 'relatedto'] adopt ['antonym', 'distinctfrom'] birth ['antonym'] die ['mannerof', 'relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['antonym', 'distinctfrom'] birth ['antonym'] kill ['mannerof', 'relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['antonym'] give ['antonym'] kill ['mannerof', 'relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['distinctfrom'] born ['antonym', 'distinctfrom', 'relatedto'] die ['mannerof', 'relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['relatedto'] become ['relatedto'] die ['mannerof', 'relatedto'] drown
+child ['antonym', 'relatedto'] adopt ['relatedto'] become ['mannerof'] suffocate ['relatedto', 'synonym'] drown

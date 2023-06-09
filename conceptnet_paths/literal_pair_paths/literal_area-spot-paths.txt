@@ -1,0 +1,100 @@
+area ['relatedto'] spot
+area ['relatedto'] bank ['relatedto'] spot
+area ['relatedto'] bar ['relatedto'] spot
+area ['relatedto'] bed ['relatedto'] spot
+area ['relatedto'] table ['relatedto'] spot
+area ['relatedto'] park ['relatedto'] spot
+area ['isa', 'relatedto'] middle ['relatedto'] spot
+area ['relatedto'] garden ['relatedto'] spot
+area ['relatedto'] wound ['relatedto'] spot
+area ['relatedto'] nest ['relatedto'] spot
+area ['isa', 'relatedto', 'atlocation'] place ['relatedto'] spot
+area ['isa', 'relatedto'] section ['isa'] spot
+area ['relatedto'] shade ['antonym', 'relatedto'] spot
+area ['relatedto'] stain ['relatedto'] spot
+area ['isa'] gym ['relatedto'] spot
+area ['isa'] macula ['relatedto'] spot
+area ['relatedto'] location ['relatedto'] spot
+area ['relatedto'] surface ['relatedto'] spot
+area ['relatedto'] nook ['relatedto'] spot
+area ['relatedto'] patch ['relatedto', 'synonym'] spot
+area ['isa'] retreat ['isa', 'relatedto'] nest ['relatedto'] spot
+area ['isa'] retreat ['isa'] nook ['relatedto'] spot
+area ['isa'] retreat ['relatedto'] turn ['relatedto'] spot
+area ['isa'] retreat ['relatedto'] place ['relatedto'] spot
+area ['isa'] retreat ['relatedto'] position ['synonym'] spot
+area ['isa'] retreat ['relatedto'] shade ['antonym', 'relatedto'] spot
+area ['relatedto'] safe ['distinctfrom'] drop ['relatedto'] spot
+area ['relatedto'] safe ['relatedto'] bank ['relatedto'] spot
+area ['relatedto'] safe ['relatedto'] money ['relatedto'] spot
+area ['relatedto'] ground ['relatedto', 'atlocation'] dirt ['relatedto'] spot
+area ['relatedto'] ground ['atlocation'] dog ['relatedto'] spot
+area ['relatedto'] ground ['relatedto', 'atlocation'] garden ['relatedto'] spot
+area ['relatedto'] ground ['atlocation'] money ['relatedto'] spot
+area ['relatedto'] ground ['isa', 'relatedto'] surface ['relatedto'] spot
+area ['relatedto'] ground ['relatedto'] drop ['relatedto'] spot
+area ['relatedto'] ground ['relatedto'] place ['relatedto'] spot
+area ['relatedto'] ground ['relatedto'] round ['relatedto'] spot
+area ['relatedto'] ground ['relatedto'] mole ['relatedto'] spot
+area ['relatedto'] ground ['relatedto'] park ['relatedto'] spot
+area ['relatedto'] land ['relatedto'] common ['relatedto'] spot
+area ['relatedto'] land ['relatedto'] garden ['relatedto'] spot
+area ['relatedto'] land ['relatedto'] dirt ['relatedto'] spot
+area ['relatedto'] land ['relatedto'] place ['relatedto'] spot
+area ['relatedto'] land ['relatedto'] surface ['relatedto'] spot
+area ['relatedto'] land ['relatedto'] nook ['relatedto'] spot
+area ['relatedto'] land ['relatedto'] touch ['synonym'] spot
+area ['relatedto'] man ['relatedto'] club ['relatedto'] spot
+area ['relatedto'] man ['relatedto'] dog ['relatedto'] spot
+area ['relatedto'] man ['relatedto'] fish ['isa'] spot
+area ['relatedto'] man ['relatedto'] position ['synonym'] spot
+area ['relatedto'] man ['relatedto'] name ['relatedto'] spot
+area ['relatedto'] man ['relatedto'] satyr ['relatedto'] spot
+area ['relatedto'] low ['relatedto'] position ['synonym'] spot
+area ['relatedto'] low ['relatedto'] deuce ['relatedto'] spot
+area ['relatedto'] low ['relatedto'] round ['relatedto'] spot
+area ['relatedto'] house ['antonym', 'relatedto', 'partof'] garden ['relatedto'] spot
+area ['relatedto'] house ['relatedto', 'atlocation'] bed ['relatedto'] spot
+area ['relatedto'] house ['atlocation'] clothes ['relatedto'] spot
+area ['relatedto'] house ['relatedto', 'atlocation'] dog ['relatedto'] spot
+area ['relatedto'] house ['relatedto', 'atlocation'] lamp ['relatedto'] spot
+area ['relatedto'] house ['relatedto', 'atlocation'] mail ['relatedto'] spot
+area ['relatedto'] house ['atlocation'] table ['relatedto'] spot
+area ['relatedto'] house ['relatedto', 'atlocation'] television ['relatedto'] spot
+area ['relatedto'] house ['isa', 'relatedto'] place ['relatedto'] spot
+area ['relatedto'] house ['relatedto'] bank ['relatedto'] spot
+area ['relatedto'] house ['relatedto'] bar ['relatedto'] spot
+area ['relatedto'] house ['relatedto'] fox ['mannerof'] spot
+area ['relatedto'] house ['relatedto'] nest ['relatedto'] spot
+area ['relatedto'] around ['antonym'] middle ['relatedto'] spot
+area ['relatedto'] around ['formof', 'relatedto', 'derivedfrom', 'synonym'] round ['relatedto'] spot
+area ['relatedto'] around ['relatedto'] place ['relatedto'] spot
+area ['relatedto'] around ['relatedto'] point ['relatedto', 'synonym'] spot
+area ['relatedto'] around ['relatedto'] pigeon ['relatedto'] spot
+area ['relatedto'] around ['relatedto'] turn ['relatedto'] spot
+area ['relatedto'] science ['relatedto'] name ['relatedto'] spot
+area ['relatedto'] back ['relatedto'] payment ['relatedto'] spot
+area ['relatedto'] back ['relatedto'] pattern ['isa'] spot
+area ['relatedto'] back ['isa'] position ['synonym'] spot
+area ['relatedto'] back ['antonym', 'distinctfrom', 'relatedto'] middle ['relatedto'] spot
+area ['relatedto'] back ['isa', 'relatedto', 'synonym'] support ['relatedto'] spot
+area ['relatedto'] back ['relatedto'] location ['relatedto'] spot
+area ['relatedto'] back ['relatedto'] change ['mannerof'] spot
+area ['relatedto'] back ['relatedto'] garden ['relatedto'] spot
+area ['relatedto'] back ['relatedto'] money ['relatedto'] spot
+area ['relatedto'] back ['relatedto'] turn ['relatedto'] spot
+area ['relatedto'] home ['relatedto'] position ['synonym'] spot
+area ['relatedto'] home ['antonym', 'relatedto'] garden ['relatedto'] spot
+area ['relatedto'] home ['isa', 'relatedto'] location ['relatedto'] spot
+area ['relatedto'] home ['relatedto'] bank ['relatedto'] spot
+area ['relatedto'] home ['relatedto'] dog ['relatedto'] spot
+area ['relatedto'] home ['relatedto'] nest ['relatedto'] spot
+area ['relatedto'] home ['relatedto', 'synonym'] place ['relatedto'] spot
+area ['relatedto'] home ['relatedto'] mole ['relatedto'] spot
+area ['relatedto'] home ['relatedto'] table ['relatedto'] spot
+area ['relatedto'] front ['isa', 'relatedto'] position ['synonym'] spot
+area ['relatedto'] front ['antonym', 'distinctfrom', 'relatedto'] middle ['relatedto'] spot
+area ['relatedto'] front ['relatedto'] color ['relatedto'] spot
+area ['relatedto'] front ['relatedto'] money ['relatedto'] spot
+area ['relatedto'] front ['relatedto'] garden ['relatedto'] spot
+area ['isa'] palm ['synonym'] handle ['relatedto'] spot

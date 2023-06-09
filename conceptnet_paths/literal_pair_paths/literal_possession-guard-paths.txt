@@ -1,0 +1,100 @@
+possession ['relatedto'] keep ['relatedto'] guard
+possession ['relatedto'] gain ['relatedto', 'synonym'] advance ['relatedto'] guard
+possession ['relatedto'] gain ['relatedto'] money ['relatedto'] guard
+possession ['relatedto'] gain ['relatedto'] short ['relatedto'] guard
+possession ['relatedto'] gain ['relatedto'] bind ['relatedto'] guard
+possession ['relatedto'] gain ['relatedto'] reward ['etymologicallyrelatedto'] guard
+possession ['relatedto'] retain ['mannerof', 'relatedto', 'synonym'] keep ['relatedto'] guard
+possession ['relatedto'] retain ['relatedto'] secure ['relatedto'] guard
+possession ['antonym'] absence ['antonym'] position ['isa', 'relatedto'] guard
+possession ['relatedto'] give ['relatedto'] act ['mannerof'] guard
+possession ['relatedto'] give ['antonym', 'distinctfrom'] keep ['relatedto'] guard
+possession ['relatedto'] give ['relatedto'] center ['relatedto'] guard
+possession ['relatedto'] give ['relatedto'] reward ['etymologicallyrelatedto'] guard
+possession ['atlocation'] house ['relatedto'] man ['relatedto'] guard
+possession ['atlocation'] house ['relatedto', 'atlocation'] dog ['relatedto'] guard
+possession ['atlocation'] house ['relatedto', 'atlocation'] lantern ['relatedto'] guard
+possession ['atlocation'] house ['atlocation'] machine ['relatedto'] guard
+possession ['atlocation'] house ['atlocation'] stuff ['relatedto'] guard
+possession ['atlocation'] house ['hasa', 'relatedto'] doors ['relatedto'] guard
+possession ['atlocation'] house ['isa', 'mannerof', 'relatedto', 'similarto'] home ['relatedto'] guard
+possession ['atlocation'] house ['isa', 'relatedto'] building ['relatedto'] guard
+possession ['atlocation'] house ['isa', 'relatedto'] palace ['relatedto'] guard
+possession ['atlocation'] house ['relatedto'] bank ['relatedto'] guard
+possession ['atlocation'] house ['relatedto'] gate ['relatedto'] guard
+possession ['atlocation'] house ['relatedto'] area ['relatedto'] guard
+possession ['atlocation'] house ['relatedto'] private ['relatedto'] guard
+possession ['atlocation'] house ['relatedto'] keep ['relatedto'] guard
+possession ['atlocation'] house ['synonym'] enclose ['relatedto'] guard
+possession ['atlocation'] house ['usedfor'] protection ['relatedto', 'synonym'] guard
+possession ['relatedto'] leave ['relatedto'] branch ['relatedto'] guard
+possession ['relatedto'] leave ['relatedto'] batsman ['relatedto'] guard
+possession ['relatedto'] relinquish ['relatedto'] security ['relatedto'] guard
+possession ['isa'] asset ['hasproperty'] home ['relatedto'] guard
+possession ['isa'] asset ['relatedto'] security ['relatedto'] guard
+possession ['relatedto'] surrender ['relatedto'] act ['mannerof'] guard
+possession ['relatedto'] surrender ['antonym'] attack ['antonym'] guard
+possession ['relatedto'] poor ['relatedto'] money ['relatedto'] guard
+possession ['relatedto'] good ['relatedto'] act ['mannerof'] guard
+possession ['relatedto'] good ['relatedto'] man ['relatedto'] guard
+possession ['relatedto'] good ['relatedto'] art ['relatedto'] guard
+possession ['relatedto'] good ['relatedto'] home ['relatedto'] guard
+possession ['relatedto'] good ['hasproperty'] important ['relatedto'] guard
+possession ['relatedto'] good ['relatedto'] dog ['relatedto'] guard
+possession ['relatedto'] good ['relatedto'] job ['relatedto'] guard
+possession ['relatedto'] good ['relatedto', 'synonym'] right ['relatedto'] guard
+possession ['relatedto'] good ['relatedto'] reward ['etymologicallyrelatedto'] guard
+possession ['synonym'] floor ['relatedto'] position ['isa', 'relatedto'] guard
+possession ['synonym'] floor ['relatedto'] home ['relatedto'] guard
+possession ['synonym'] floor ['isa', 'relatedto'] right ['relatedto'] guard
+possession ['synonym'] floor ['atlocation'] money ['relatedto'] guard
+possession ['synonym'] floor ['relatedto', 'partof'] building ['relatedto'] guard
+possession ['synonym'] floor ['relatedto'] area ['relatedto'] guard
+possession ['synonym'] floor ['relatedto'] part ['relatedto'] guard
+possession ['synonym'] thing ['isa'] dog ['relatedto'] guard
+possession ['synonym'] thing ['isa'] part ['relatedto'] guard
+possession ['synonym'] thing ['relatedto'] guy ['relatedto'] guard
+possession ['synonym'] thing ['relatedto'] job ['relatedto'] guard
+possession ['synonym'] thing ['relatedto'] machine ['relatedto'] guard
+possession ['synonym'] thing ['relatedto', 'synonym'] stuff ['relatedto'] guard
+possession ['isa'] book ['isa'] night ['relatedto'] guard
+possession ['isa'] book ['isa'] authority ['relatedto'] guard
+possession ['isa'] book ['isa'] device ['isa'] guard
+possession ['isa'] book ['isa'] correction ['relatedto'] guard
+possession ['isa'] book ['isa'] corrections ['relatedto'] guard
+possession ['isa'] book ['isa'] guardian ['relatedto', 'derivedfrom'] guard
+possession ['isa'] book ['isa'] job ['relatedto'] guard
+possession ['isa'] book ['isa'] night_watch ['relatedto'] guard
+possession ['isa'] book ['relatedto'] bind ['relatedto'] guard
+possession ['relatedto'] keep ['relatedto'] act ['mannerof'] guard
+possession ['relatedto'] keep ['relatedto'] defend ['relatedto', 'synonym'] guard
+possession ['relatedto'] keep ['relatedto'] bank ['relatedto'] guard
+possession ['relatedto'] keep ['relatedto', 'derivedfrom'] keeper ['relatedto'] guard
+possession ['relatedto'] keep ['mannerof', 'relatedto'] protect ['mannerof', 'relatedto', 'synonym'] guard
+possession ['relatedto'] keep ['relatedto'] bridgekeeper ['relatedto'] guard
+possession ['relatedto'] keep ['relatedto'] gate ['relatedto'] guard
+possession ['relatedto'] keep ['relatedto'] building ['relatedto'] guard
+possession ['relatedto'] keep ['relatedto'] fortress ['relatedto'] guard
+possession ['relatedto'] keep ['relatedto'] wite ['relatedto'] guard
+possession ['relatedto'] hold ['synonym'] defend ['relatedto', 'synonym'] guard
+possession ['relatedto'] hold ['relatedto'] true ['relatedto'] guard
+possession ['relatedto'] hold ['mannerof'] block ['relatedto'] guard
+possession ['relatedto'] hold ['relatedto'] branch ['relatedto'] guard
+possession ['relatedto'] hold ['relatedto', 'synonym'] keep ['relatedto'] guard
+possession ['relatedto'] hold ['mannerof', 'relatedto'] enclose ['relatedto'] guard
+possession ['relatedto'] hold ['usedfor'] basket ['relatedto'] guard
+possession ['relatedto'] community ['relatedto'] police ['distinctfrom', 'relatedto'] guard
+possession ['relatedto'] claim ['isa', 'relatedto'] right ['relatedto'] guard
+possession ['relatedto'] colony ['relatedto'] home ['relatedto'] guard
+possession ['relatedto'] colony ['relatedto'] british ['relatedto'] guard
+possession ['relatedto'] colony ['relatedto'] queen ['relatedto'] guard
+possession ['isa', 'relatedto'] control ['relatedto'] car ['relatedto'] guard
+possession ['isa', 'relatedto'] control ['relatedto'] branch ['relatedto'] guard
+possession ['isa', 'relatedto'] control ['isa', 'relatedto'] authority ['relatedto'] guard
+possession ['isa', 'relatedto'] control ['mannerof'] train ['relatedto'] guard
+possession ['isa', 'relatedto'] control ['relatedto'] device ['isa'] guard
+possession ['isa', 'relatedto'] control ['relatedto'] safeguard ['relatedto', 'derivedfrom'] guard
+possession ['isa', 'relatedto'] control ['relatedto'] waterguard ['derivedfrom'] guard
+possession ['isa', 'relatedto'] control ['relatedto'] weapon ['relatedto'] guard
+possession ['relatedto'] lose ['antonym'] keep ['relatedto'] guard
+possession ['relatedto'] degree ['relatedto'] act ['mannerof'] guard

@@ -1,0 +1,100 @@
+wine ['relatedto'] nose ['usedfor', 'relatedto'] breathe
+wine ['relatedto'] wind ['relatedto'] breathe
+wine ['usedfor'] relaxing ['haslastsubevent'] breathe
+wine ['relatedto'] getting ['relatedto'] rest ['relatedto', 'synonym'] breathe
+wine ['relatedto'] old ['relatedto'] child ['capableof'] breathe
+wine ['relatedto'] old ['relatedto'] dog ['capableof'] breathe
+wine ['relatedto'] old ['relatedto'] exist ['mannerof'] breathe
+wine ['relatedto'] water ['antonym', 'distinctfrom', 'relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] water ['relatedto', 'atlocation', 'hasa', 'madeof', 'partof'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] water ['relatedto'] dive ['hasprerequisite'] breathe
+wine ['relatedto'] water ['relatedto'] suspiral ['relatedto'] breathe
+wine ['relatedto'] red ['relatedto'] run ['hasprerequisite'] breathe
+wine ['relatedto'] aroma ['antonym', 'isa', 'relatedto'] smell ['relatedto'] breathe
+wine ['relatedto', 'atlocation'] bar ['relatedto'] dive ['hasprerequisite'] breathe
+wine ['relatedto', 'atlocation'] bar ['usedfor'] relaxing ['haslastsubevent'] breathe
+wine ['atlocation'] church ['relatedto', 'atlocation'] spire ['relatedto'] breathe
+wine ['isa'] food ['desires'] dog ['capableof'] breathe
+wine ['relatedto'] spirit ['relatedto'] expire ['haslastsubevent', 'relatedto'] breathe
+wine ['relatedto'] spirit ['synonym'] smell ['relatedto'] breathe
+wine ['antonym', 'distinctfrom', 'relatedto'] beer ['relatedto'] exist ['mannerof'] breathe
+wine ['causesdesire'] talk ['mannerof', 'relatedto'] whisper ['relatedto'] breathe
+wine ['causesdesire'] talk ['haslastsubevent'] exhale ['antonym', 'relatedto', 'synonym', 'entails', 'haslastsubevent', 'hasprerequisite', 'mannerof'] breathe
+wine ['causesdesire'] talk ['isa'] wind ['relatedto'] breathe
+wine ['causesdesire'] talk ['mannerof'] snivel ['relatedto'] breathe
+wine ['isa'] software ['isa'] exist ['mannerof'] breathe
+wine ['usedfor', 'mannerof', 'relatedto'] drink ['causesdesire'] breathing ['formof'] breathe
+wine ['usedfor', 'mannerof', 'relatedto'] drink ['relatedto'] inhale ['antonym', 'relatedto', 'synonym', 'entails', 'hasfirstsubevent', 'hasprerequisite', 'mannerof'] breathe
+wine ['relatedto'] backhander ['isa', 'relatedto'] blow ['antonym', 'relatedto'] breathe
+wine ['relatedto'] barrel ['relatedto'] choke ['mannerof', 'relatedto'] breathe
+wine ['relatedto'] bishop ['relatedto'] birds ['capableof'] breathe
+wine ['relatedto'] bouquet ['relatedto'] nose ['usedfor', 'relatedto'] breathe
+wine ['relatedto'] bush ['hasproperty'] alive ['hasprerequisite'] breathe
+wine ['relatedto'] casse ['relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] communicate ['relatedto'] express ['mannerof'] breathe
+wine ['relatedto'] communicate ['mannerof', 'relatedto', 'synonym'] convey ['mannerof'] breathe
+wine ['relatedto'] cork ['relatedto'] blow ['antonym', 'relatedto'] breathe
+wine ['relatedto'] cork_taint ['relatedto'] smell ['relatedto'] breathe
+wine ['relatedto'] corkscrew ['relatedto'] wind ['relatedto'] breathe
+wine ['relatedto'] cradle ['relatedto', 'synonym'] rest ['relatedto', 'synonym'] breathe
+wine ['relatedto'] element ['isa', 'relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] element ['relatedto'] breath ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] breathe
+wine ['relatedto'] element ['isa', 'relatedto'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] element ['relatedto'] wind ['relatedto'] breathe
+wine ['relatedto'] element ['relatedto'] oxidize ['mannerof'] breathe
+wine ['relatedto'] generic ['relatedto'] child ['capableof'] breathe
+wine ['relatedto'] generic ['relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] generic ['relatedto'] event ['relatedto'] breathe
+wine ['relatedto'] glass ['relatedto'] windshield ['relatedto'] breathe
+wine ['relatedto'] glass ['relatedto'] windscreen ['relatedto'] breathe
+wine ['relatedto'] haze ['relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] legs ['relatedto', 'partof'] dog ['capableof'] breathe
+wine ['relatedto'] legs ['usedfor', 'relatedto', 'hasprerequisite'] run ['hasprerequisite'] breathe
+wine ['relatedto'] microoxygenation ['relatedto'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] miracle ['isa', 'relatedto'] event ['relatedto'] breathe
+wine ['relatedto'] pipe ['relatedto'] emit ['synonym'] breathe
+wine ['relatedto'] pipe ['relatedto'] convey ['mannerof'] breathe
+wine ['relatedto'] pipe ['relatedto'] puff ['relatedto'] breathe
+wine ['relatedto'] snipe ['relatedto'] nose ['usedfor', 'relatedto'] breathe
+wine ['relatedto'] blood ['relatedto'] oxygen ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] blood ['relatedto'] gros_bon_ange ['relatedto'] breathe
+wine ['relatedto'] blood ['relatedto'] obesity_hypoventilation_syndrome ['relatedto'] breathe
+wine ['relatedto'] celebration ['relatedto'] event ['relatedto'] breathe
+wine ['relatedto'] glasses ['atlocation'] nose ['usedfor', 'relatedto'] breathe
+wine ['relatedto'] liquid ['relatedto'] run ['hasprerequisite'] breathe
+wine ['relatedto'] nose ['atlocation'] air ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] nose ['relatedto'] blow ['antonym', 'relatedto'] breathe
+wine ['relatedto'] nose ['usedfor', 'relatedto'] breathing ['formof'] breathe
+wine ['relatedto'] nose ['relatedto'] breath ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] breathe
+wine ['relatedto'] nose ['hasa', 'relatedto'] dog ['capableof'] breathe
+wine ['relatedto'] nose ['relatedto'] dive ['hasprerequisite'] breathe
+wine ['relatedto'] nose ['antonym', 'isa', 'relatedto'] smell ['relatedto'] breathe
+wine ['relatedto'] nose ['capableof'] run ['hasprerequisite'] breathe
+wine ['relatedto'] nose ['relatedto'] snivel ['relatedto'] breathe
+wine ['relatedto'] party ['isa', 'relatedto'] event ['relatedto'] breathe
+wine ['relatedto'] party ['relatedto'] run ['hasprerequisite'] breathe
+wine ['relatedto'] party ['usedfor'] relaxing ['haslastsubevent'] breathe
+wine ['relatedto'] product ['relatedto', 'synonym'] child ['capableof'] breathe
+wine ['relatedto'] soft ['relatedto'] whisper ['relatedto'] breathe
+wine ['relatedto'] soft ['relatedto'] sigh ['mannerof', 'relatedto'] breathe
+wine ['relatedto'] sour_grapes ['relatedto'] express ['mannerof'] breathe
+wine ['relatedto'] wind ['relatedto'] rest ['relatedto', 'synonym'] breathe
+wine ['relatedto'] wind ['antonym', 'madeof', 'relatedto', 'hasprerequisite'] air ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] wind ['relatedto'] blow ['antonym', 'relatedto'] breathe
+wine ['relatedto'] wind ['relatedto'] breathing ['formof'] breathe
+wine ['relatedto'] wind ['relatedto'] breath ['etymologicallyrelatedto', 'relatedto', 'derivedfrom'] breathe
+wine ['relatedto'] wind ['isa'] exhalation ['relatedto'] breathe
+wine ['relatedto'] wind ['relatedto', 'derivedfrom'] windshield ['relatedto'] breathe
+wine ['relatedto'] wind ['relatedto'] breathless ['relatedto'] breathe
+wine ['relatedto'] wind ['relatedto'] windscreen ['relatedto'] breathe
+wine ['relatedto'] wind ['synonym'] puff ['relatedto'] breathe
+wine ['usedfor'] relaxing ['relatedto'] rest ['relatedto', 'synonym'] breathe
+wine ['relatedto'] reserve ['distinctfrom'] open ['relatedto'] air ['motivatedbygoal', 'relatedto'] breathe
+wine ['relatedto'] reserve ['distinctfrom'] open ['relatedto'] event ['relatedto'] breathe
+wine ['relatedto'] reserve ['distinctfrom'] open ['relatedto'] yawn ['mannerof'] breathe
+wine ['relatedto'] reserve ['formof', 'relatedto'] reserved ['relatedto'] rest ['relatedto', 'synonym'] breathe
+wine ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] rest ['relatedto', 'synonym'] breathe
+wine ['relatedto'] reserve ['isa', 'relatedto'] bank ['relatedto'] run ['hasprerequisite'] breathe
+wine ['relatedto'] reserve ['isa'] indefinite_quantity ['isa'] run ['hasprerequisite'] breathe
+wine ['relatedto'] reserve ['relatedto', 'synonym'] book ['isa'] live ['motivatedbygoal', 'hasfirstsubevent', 'relatedto', 'hasprerequisite'] breathe
+wine ['relatedto'] reserve ['relatedto', 'synonym'] book ['isa'] oxygen ['motivatedbygoal', 'relatedto'] breathe

@@ -1,0 +1,100 @@
+bath ['usedfor', 'hasproperty'] relaxing ['formof', 'relatedto'] relax
+bath ['relatedto'] clean ['haslastsubevent'] relax
+bath ['relatedto'] pool ['usedfor'] relax
+bath ['usedfor'] relaxation ['relatedto', 'derivedfrom'] relax
+bath ['usedfor'] take_bath ['hasprerequisite'] relax
+bath ['relatedto'] activity ['isa'] act ['mannerof'] relax
+bath ['relatedto'] activity ['antonym', 'distinctfrom', 'relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+bath ['relatedto'] activity ['isa', 'relatedto'] music ['usedfor', 'causesdesire'] relax
+bath ['relatedto'] activity ['isa'] playing_games ['usedfor'] relax
+bath ['relatedto'] activity ['isa', 'relatedto'] work ['antonym'] relax
+bath ['relatedto'] activity ['relatedto'] icebreaker ['relatedto'] relax
+bath ['relatedto'] activity ['relatedto'] knitting ['causes'] relax
+bath ['relatedto'] activity ['relatedto'] listen ['haslastsubevent'] relax
+bath ['relatedto'] activity ['relatedto'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+bath ['relatedto'] activity ['relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+bath ['relatedto'] activity ['relatedto'] stretch ['antonym'] relax
+bath ['relatedto'] activity ['relatedto'] think ['hasprerequisite'] relax
+bath ['relatedto'] activity ['relatedto'] vacation ['usedfor'] relax
+bath ['relatedto'] morning ['relatedto'] break ['relatedto'] relax
+bath ['relatedto'] morning ['relatedto'] noon ['relatedto'] relax
+bath ['relatedto'] morning ['relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+bath ['relatedto'] morning ['relatedto'] stretch ['antonym'] relax
+bath ['relatedto'] getting ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+bath ['relatedto'] getting ['relatedto', 'hasprerequisite'] work ['antonym'] relax
+bath ['relatedto'] getting ['relatedto'] stretch ['antonym'] relax
+bath ['atlocation'] human ['relatedto', 'atlocation'] home ['usedfor'] relax
+bath ['atlocation'] human ['atlocation'] pool ['usedfor'] relax
+bath ['atlocation'] human ['atlocation'] spa ['usedfor'] relax
+bath ['atlocation'] human ['capableof'] play_game ['motivatedbygoal'] relax
+bath ['atlocation'] human ['capableof'] take_bath ['hasprerequisite'] relax
+bath ['atlocation'] human ['hasa'] muscles ['capableof'] relax
+bath ['atlocation'] human ['relatedto'] work ['antonym'] relax
+bath ['relatedto', 'atlocation'] water ['relatedto', 'atlocation'] island ['usedfor'] relax
+bath ['relatedto', 'atlocation'] water ['hasa', 'relatedto', 'madeof', 'atlocation'] ocean ['usedfor'] relax
+bath ['relatedto', 'atlocation'] water ['hasa', 'relatedto', 'atlocation'] pool ['usedfor'] relax
+bath ['relatedto', 'atlocation'] water ['relatedto'] calm ['relatedto'] relax
+bath ['relatedto', 'atlocation'] water ['relatedto'] spa ['usedfor'] relax
+bath ['relatedto', 'atlocation'] water ['relatedto'] urinate ['hasprerequisite'] relax
+bath ['relatedto', 'atlocation'] water ['usedfor'] take_bath ['hasprerequisite'] relax
+bath ['atlocation'] house ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+bath ['atlocation'] house ['antonym', 'relatedto', 'partof'] garden ['usedfor'] relax
+bath ['atlocation'] house ['atlocation'] bean_bag_chair ['usedfor'] relax
+bath ['atlocation'] house ['atlocation'] sofa ['usedfor'] relax
+bath ['atlocation'] house ['atlocation'] spa ['usedfor'] relax
+bath ['atlocation'] house ['isa', 'mannerof', 'relatedto', 'similarto'] home ['usedfor'] relax
+bath ['atlocation'] house ['isa'] play ['antonym', 'motivatedbygoal', 'hasprerequisite'] relax
+bath ['atlocation'] house ['relatedto'] den ['usedfor'] relax
+bath ['atlocation'] house ['relatedto'] repose ['synonym'] relax
+bath ['relatedto'] sitting ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+bath ['relatedto'] sitting ['relatedto'] seat ['usedfor'] relax
+bath ['relatedto'] sitting ['usedfor'] bean_bag_chair ['usedfor'] relax
+bath ['relatedto'] sitting ['usedfor'] rocking_chair ['usedfor'] relax
+bath ['relatedto'] spring ['relatedto'] break ['relatedto'] relax
+bath ['relatedto'] spring ['relatedto'] spa ['usedfor'] relax
+bath ['relatedto'] spring ['relatedto'] stretch ['antonym'] relax
+bath ['relatedto'] full ['mannerof'] change ['mannerof'] relax
+bath ['relatedto'] full ['relatedto'] comfortable ['hasprerequisite'] relax
+bath ['relatedto'] full ['relatedto'] garden ['usedfor'] relax
+bath ['antonym', 'distinctfrom', 'relatedto'] shower ['relatedto'] clean ['haslastsubevent'] relax
+bath ['antonym', 'distinctfrom', 'relatedto'] shower ['usedfor'] relaxing ['formof', 'relatedto'] relax
+bath ['atlocation'] hotel_room ['usedfor'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+bath ['atlocation'] hotel_room ['usedfor'] sleep ['relatedto', 'hasprerequisite'] relax
+bath ['atlocation'] hot_faucet ['usedfor'] take_bath ['hasprerequisite'] relax
+bath ['relatedto', 'derivedfrom', 'synonym'] bathroom ['usedfor'] take_bath ['hasprerequisite'] relax
+bath ['etymologicallyrelatedto', 'relatedto'] bathe ['relatedto'] sunbathe ['relatedto'] relax
+bath ['etymologicallyrelatedto', 'relatedto'] bathe ['relatedto'] take_bath ['hasprerequisite'] relax
+bath ['formof', 'etymologicallyrelatedto', 'relatedto'] bathing ['causes', 'relatedto'] clean ['haslastsubevent'] relax
+bath ['formof', 'etymologicallyrelatedto', 'relatedto'] bathing ['usedfor'] relaxation ['relatedto', 'derivedfrom'] relax
+bath ['formof', 'etymologicallyrelatedto', 'relatedto'] bathing ['usedfor'] pool ['usedfor'] relax
+bath ['formof', 'etymologicallyrelatedto', 'relatedto'] bathing ['usedfor'] relaxing ['formof', 'relatedto'] relax
+bath ['relatedto', 'hasprerequisite'] getting_clean ['causes'] feel_better ['haslastsubevent'] relax
+bath ['hasprerequisite'] groom ['haslastsubevent'] take_bath ['hasprerequisite'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['relatedto'] rest ['motivatedbygoal', 'relatedto', 'hasprerequisite', 'synonym'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['relatedto'] calm ['relatedto'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['causes', 'relatedto'] sleep ['relatedto', 'hasprerequisite'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor'] sofa ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor', 'relatedto'] break ['relatedto'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor'] stressed ['motivatedbygoal'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor'] ocean ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['causes', 'relatedto'] relaxation ['relatedto', 'derivedfrom'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['relatedto'] garden ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['hasproperty'] vacation ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['relatedto', 'hasproperty'] music ['usedfor', 'causesdesire'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor'] seat ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor'] bean_bag_chair ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor'] spa ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor', 'hasproperty'] rocking_chair ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['motivatedbygoal'] paint_picture ['motivatedbygoal'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['hasproperty'] massage ['relatedto'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor'] playing_games ['usedfor'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['causes'] enjoying_day ['causes'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['causes'] lie_back ['relatedto'] relax
+bath ['usedfor', 'hasproperty'] relaxing ['usedfor'] seeing_favorite_show ['causes'] relax
+bath ['isa'] vessel ['atlocation'] home ['usedfor'] relax
+bath ['isa'] vessel ['atlocation'] ocean ['usedfor'] relax
+bath ['isa'] vessel ['relatedto'] think ['hasprerequisite'] relax
+bath ['isa'] vessel ['relatedto'] coop ['relatedto'] relax
+bath ['relatedto', 'partof'] england ['atlocation'] den ['usedfor'] relax
+bath ['relatedto'] body ['relatedto'] healthy ['motivatedbygoal'] relax
+bath ['relatedto'] body ['relatedto'] ocean ['usedfor'] relax

@@ -1,0 +1,100 @@
+heart ['relatedto'] feel ['mannerof'] glow
+heart ['relatedto'] feeling ['isa'] glow
+heart ['synonym'] ardour ['synonym'] glow
+heart ['synonym'] purpose ['relatedto'] heat ['synonym'] glow
+heart ['atlocation'] human ['atlocation'] train ['relatedto'] glow
+heart ['atlocation'] human ['relatedto'] feel ['mannerof'] glow
+heart ['relatedto'] red ['relatedto', 'derivedfrom'] red_hot ['relatedto'] glow
+heart ['relatedto'] red ['relatedto'] blush ['relatedto'] glow
+heart ['relatedto'] red ['relatedto'] burn ['synonym'] glow
+heart ['relatedto'] red ['relatedto'] flush ['mannerof'] glow
+heart ['relatedto'] red ['relatedto'] heat ['synonym'] glow
+heart ['relatedto'] red ['relatedto'] rutilation ['relatedto'] glow
+heart ['atlocation'] animal ['relatedto'] train ['relatedto'] glow
+heart ['relatedto', 'atlocation'] home ['relatedto'] feeling ['isa'] glow
+heart ['relatedto', 'partof', 'atlocation'] body ['relatedto'] heat ['synonym'] glow
+heart ['synonym'] mind ['relatedto', 'synonym'] look ['mannerof'] glow
+heart ['relatedto'] soul ['isa'] feeling ['isa'] glow
+heart ['relatedto', 'synonym'] spirit ['relatedto', 'synonym'] feeling ['isa'] glow
+heart ['relatedto', 'synonym'] spirit ['relatedto'] ardour ['synonym'] glow
+heart ['relatedto', 'synonym'] spirit ['synonym'] feel ['mannerof'] glow
+heart ['relatedto', 'synonym'] spirit ['synonym'] look ['mannerof'] glow
+heart ['isa'] muscle ['relatedto'] burn ['synonym'] glow
+heart ['capableof'] beat ['relatedto'] heat ['synonym'] glow
+heart ['isa'] container ['isa', 'relatedto'] glass ['etymologicallyrelatedto'] glow
+heart ['isa', 'relatedto'] shape ['relatedto'] train ['relatedto'] glow
+heart ['isa'] intuition ['relatedto'] feel ['mannerof'] glow
+heart ['isa'] intuition ['isa', 'relatedto'] feeling ['isa'] glow
+heart ['relatedto'] cockle ['relatedto'] feeling ['isa'] glow
+heart ['relatedto'] cordial ['relatedto'] radiate ['mannerof', 'synonym'] glow
+heart ['relatedto'] exercise ['relatedto'] burn ['synonym'] glow
+heart ['relatedto'] exercise ['mannerof', 'relatedto'] train ['relatedto'] glow
+heart ['relatedto'] feel ['mannerof'] burn ['synonym'] glow
+heart ['relatedto'] feel ['relatedto'] heat ['synonym'] glow
+heart ['relatedto'] feel ['formof', 'relatedto'] feeling ['isa'] glow
+heart ['relatedto'] feel ['mannerof'] look ['mannerof'] glow
+heart ['relatedto'] first_degree ['relatedto'] burn ['synonym'] glow
+heart ['relatedto'] feeling ['relatedto'] afterglow ['relatedto', 'derivedfrom'] glow
+heart ['relatedto'] feeling ['relatedto'] burn ['synonym'] glow
+heart ['relatedto'] feeling ['relatedto'] heat ['synonym'] glow
+heart ['relatedto'] feeling ['formof', 'relatedto'] feel ['mannerof'] glow
+heart ['relatedto'] feeling ['relatedto'] glory ['relatedto'] glow
+heart ['usedfor', 'relatedto', 'synonym'] love ['isa', 'relatedto'] feeling ['isa'] glow
+heart ['relatedto'] much ['relatedto'] burn ['synonym'] glow
+heart ['relatedto'] much ['relatedto'] heat ['synonym'] glow
+heart ['relatedto'] part ['relatedto'] glass ['etymologicallyrelatedto'] glow
+heart ['relatedto'] emotion ['relatedto'] feel ['mannerof'] glow
+heart ['relatedto'] emotion ['usedfor', 'relatedto', 'synonym', 'createdby', 'isa'] feeling ['isa'] glow
+heart ['relatedto'] emotion ['relatedto'] incandescence ['synonym'] glow
+heart ['relatedto'] emotions ['relatedto'] feel ['mannerof'] glow
+heart ['relatedto'] heartless ['relatedto'] feeling ['isa'] glow
+heart ['relatedto'] heartstrings ['relatedto'] feeling ['isa'] glow
+heart ['relatedto'] lung ['etymologicallyrelatedto'] light ['isa', 'relatedto'] glow
+heart ['relatedto'] mood ['relatedto'] feeling ['isa'] glow
+heart ['relatedto'] promise ['relatedto'] heat ['synonym'] glow
+heart ['relatedto'] stroke ['relatedto'] heat ['synonym'] glow
+heart ['relatedto'] stroke ['relatedto'] feel ['mannerof'] glow
+heart ['relatedto'] thrill ['relatedto'] feeling ['isa'] glow
+heart ['relatedto'] thrill ['relatedto'] flush ['mannerof'] glow
+heart ['relatedto'] vessel ['relatedto'] glass ['etymologicallyrelatedto'] glow
+heart ['relatedto'] vessel ['relatedto'] beam ['synonym'] glow
+heart ['relatedto'] wood ['capableof', 'relatedto'] burn ['synonym'] glow
+heart ['relatedto'] wood ['antonym'] glass ['etymologicallyrelatedto'] glow
+heart ['relatedto'] wood ['relatedto'] beam ['synonym'] glow
+heart ['relatedto'] wood ['relatedto'] ember ['relatedto'] glow
+heart ['relatedto'] wood ['relatedto'] train ['relatedto'] glow
+heart ['synonym'] bosom ['relatedto'] feeling ['isa'] glow
+heart ['synonym'] affection ['relatedto'] feel ['mannerof'] glow
+heart ['synonym'] affection ['isa', 'relatedto'] feeling ['isa'] glow
+heart ['synonym'] ardour ['synonym'] heat ['synonym'] glow
+heart ['synonym'] nerve ['relatedto'] feel ['mannerof'] glow
+heart ['synonym'] nerve ['relatedto'] feeling ['isa'] glow
+heart ['synonym'] spunk ['relatedto'] spark ['relatedto'] glow
+heart ['usedfor'] empathize ['relatedto'] feel ['mannerof'] glow
+heart ['synonym'] purpose ['antonym', 'distinctfrom'] accident ['relatedto'] burn ['synonym'] glow
+heart ['synonym'] purpose ['isa'] mind ['relatedto', 'synonym'] look ['mannerof'] glow
+heart ['synonym'] purpose ['isa'] view ['isa', 'relatedto'] look ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] burn ['synonym'] glow
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] feel ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] flush ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] heat ['synonym'] glow
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] look ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] action ['relatedto'] spark ['relatedto'] glow
+heart ['synonym'] purpose ['relatedto'] attack_dog ['relatedto'] train ['relatedto'] glow
+heart ['synonym'] purpose ['relatedto'] body ['relatedto'] heat ['synonym'] glow
+heart ['synonym'] purpose ['relatedto'] break ['relatedto'] glass ['etymologicallyrelatedto'] glow
+heart ['synonym'] purpose ['relatedto'] call ['etymologicallyrelatedto'] glory ['relatedto'] glow
+heart ['synonym'] purpose ['relatedto'] company ['isa'] feel ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] company ['isa'] glory ['relatedto'] glow
+heart ['synonym'] purpose ['relatedto'] company ['isa'] look ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] complex ['isa'] feeling ['isa'] glow
+heart ['synonym'] purpose ['relatedto'] cut ['synonym'] burn ['synonym'] glow
+heart ['synonym'] purpose ['relatedto'] cut ['mannerof'] look ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] decoy ['relatedto'] train ['relatedto'] glow
+heart ['synonym'] purpose ['relatedto'] drop ['relatedto'] glass ['etymologicallyrelatedto'] glow
+heart ['synonym'] purpose ['relatedto'] equivocal ['relatedto'] feeling ['isa'] glow
+heart ['synonym'] purpose ['relatedto'] fit ['relatedto'] feel ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] heat ['relatedto'] burn ['synonym'] glow
+heart ['synonym'] purpose ['relatedto'] heat ['distinctfrom'] light ['isa', 'relatedto'] glow
+heart ['synonym'] purpose ['relatedto'] heat ['relatedto'] feel ['mannerof'] glow
+heart ['synonym'] purpose ['relatedto'] heat ['relatedto'] feeling ['isa'] glow

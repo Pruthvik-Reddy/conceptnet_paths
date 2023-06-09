@@ -1,0 +1,100 @@
+skin ['relatedto'] plant ['relatedto'] prick
+skin ['relatedto'] pierce ['relatedto'] prick
+skin ['relatedto'] prick_test ['relatedto'] prick
+skin ['relatedto'] sting ['synonym'] prick
+skin ['relatedto', 'atlocation'] human ['partof'] asshole ['similarto', 'synonym'] prick
+skin ['relatedto'] animal ['antonym', 'distinctfrom', 'relatedto'] plant ['relatedto'] prick
+skin ['relatedto'] animal ['isa', 'relatedto'] hare ['relatedto'] prick
+skin ['relatedto'] animal ['isa', 'relatedto'] horse ['relatedto'] prick
+skin ['relatedto'] animal ['relatedto'] point ['relatedto'] prick
+skin ['relatedto'] animal ['relatedto'] sting ['synonym'] prick
+skin ['relatedto'] plant ['relatedto'] thorn ['capableof', 'relatedto'] prick
+skin ['relatedto'] plant ['synonym'] stick ['relatedto'] prick
+skin ['relatedto', 'synonym'] hide ['usedfor'] hole ['relatedto'] prick
+skin ['hasa', 'relatedto'] apple ['isa'] plant ['relatedto'] prick
+skin ['relatedto'] leg ['isa'] pin ['relatedto'] prick
+skin ['relatedto'] leg ['relatedto'] horse ['relatedto'] prick
+skin ['relatedto'] clothing ['isa', 'relatedto'] dress ['relatedto'] prick
+skin ['relatedto'] clothing ['relatedto'] dot ['relatedto'] prick
+skin ['relatedto'] cover ['mannerof'] dress ['relatedto'] prick
+skin ['relatedto'] cover ['mannerof'] dot ['relatedto'] prick
+skin ['relatedto'] cover ['relatedto'] point ['relatedto'] prick
+skin ['relatedto'] bat ['relatedto'] stick ['relatedto'] prick
+skin ['relatedto'] bat ['relatedto'] sharp ['relatedto'] prick
+skin ['relatedto'] beauty ['relatedto'] horse ['relatedto'] prick
+skin ['relatedto'] bite ['mannerof'] pierce ['relatedto'] prick
+skin ['relatedto'] bite ['relatedto', 'synonym'] sting ['synonym'] prick
+skin ['relatedto'] bite ['relatedto'] pungent ['relatedto'] prick
+skin ['relatedto'] blush ['relatedto'] wine ['relatedto'] prick
+skin ['relatedto', 'partof', 'atlocation'] body ['isa'] particle ['relatedto'] prick
+skin ['relatedto', 'partof', 'atlocation'] body ['partof'] penis ['relatedto', 'synonym'] prick
+skin ['relatedto', 'partof', 'atlocation'] body ['relatedto'] dress ['relatedto'] prick
+skin ['relatedto', 'partof', 'atlocation'] body ['relatedto'] jump ['relatedto'] prick
+skin ['antonym', 'relatedto'] bone ['relatedto'] stick ['relatedto'] prick
+skin ['relatedto'] flesh ['madeof'] penis ['relatedto', 'synonym'] prick
+skin ['relatedto', 'atlocation'] hair ['relatedto'] horse ['relatedto'] prick
+skin ['atlocation'] finger ['relatedto'] stick ['relatedto'] prick
+skin ['atlocation'] finger ['capableof', 'usedfor', 'relatedto'] point ['relatedto'] prick
+skin ['atlocation'] finger ['relatedto'] dial ['relatedto'] prick
+skin ['atlocation'] finger ['relatedto'] fingerprick ['relatedto'] prick
+skin ['relatedto', 'atlocation'] fruit ['createdby'] plant ['relatedto'] prick
+skin ['relatedto', 'atlocation'] fruit ['madeof', 'relatedto'] wine ['relatedto'] prick
+skin ['relatedto', 'atlocation'] fruit ['hasproperty'] sour ['relatedto'] prick
+skin ['hasa'] avocado ['isa'] plant ['relatedto'] prick
+skin ['isa', 'relatedto'] cuticle ['relatedto'] plant ['relatedto'] prick
+skin ['isa'] prepuce ['relatedto', 'partof'] penis ['relatedto', 'synonym'] prick
+skin ['isa', 'synonym'] film ['isa'] sting ['synonym'] prick
+skin ['isa', 'relatedto'] wineskin ['relatedto'] wine ['relatedto'] prick
+skin ['isa'] external_anatomical_part ['isa'] thorn ['capableof', 'relatedto'] prick
+skin ['isa', 'relatedto'] surface ['relatedto'] plant ['relatedto'] prick
+skin ['isa', 'relatedto'] surface ['relatedto'] point ['relatedto'] prick
+skin ['isa', 'relatedto'] surface ['relatedto'] perforation ['relatedto'] prick
+skin ['isa'] comics_character ['isa'] stick ['relatedto'] prick
+skin ['mannerof'] strip ['antonym'] dress ['relatedto'] prick
+skin ['relatedto', 'partof'] epidermis ['relatedto'] plant ['relatedto'] prick
+skin ['relatedto', 'partof'] epidermis ['relatedto'] sting ['synonym'] prick
+skin ['relatedto', 'partof'] pore ['isa', 'relatedto'] hole ['relatedto'] prick
+skin ['partof'] pressure_point ['isa'] point ['relatedto'] prick
+skin ['partof'] aircraft ['relatedto'] stick ['relatedto'] prick
+skin ['partof'] aircraft ['relatedto'] jump ['relatedto'] prick
+skin ['relatedto'] acmesthesia ['relatedto'] pinprick ['derivedfrom'] prick
+skin ['relatedto'] apellous ['relatedto'] penis ['relatedto', 'synonym'] prick
+skin ['relatedto'] backless ['relatedto'] dress ['relatedto'] prick
+skin ['relatedto', 'synonym'] bark ['relatedto'] stick ['relatedto'] prick
+skin ['relatedto', 'synonym'] bark ['relatedto'] sharp ['relatedto'] prick
+skin ['relatedto'] basil ['isa', 'relatedto'] plant ['relatedto'] prick
+skin ['relatedto'] blister ['relatedto'] mark ['relatedto'] prick
+skin ['relatedto'] bruise ['relatedto', 'synonym'] hurt ['mannerof'] prick
+skin ['relatedto'] bruise ['relatedto'] mark ['relatedto'] prick
+skin ['relatedto'] burn ['relatedto'] hurt ['mannerof'] prick
+skin ['relatedto'] burn ['relatedto'] sting ['synonym'] prick
+skin ['relatedto'] cape ['synonym'] point ['relatedto'] prick
+skin ['relatedto'] carboxytherapy ['relatedto'] stimulate ['relatedto'] prick
+skin ['relatedto'] cast ['relatedto'] stick ['relatedto'] prick
+skin ['relatedto'] cast ['relatedto'] horse ['relatedto'] prick
+skin ['relatedto'] cell ['relatedto'] plant ['relatedto'] prick
+skin ['relatedto'] cell ['relatedto'] particle ['relatedto'] prick
+skin ['relatedto'] chardonnay ['relatedto'] wine ['relatedto'] prick
+skin ['relatedto'] chlorosis ['relatedto'] plant ['relatedto'] prick
+skin ['relatedto'] citrus ['isa', 'relatedto'] plant ['relatedto'] prick
+skin ['relatedto'] coat ['mannerof', 'relatedto', 'synonym'] dress ['relatedto'] prick
+skin ['relatedto'] cricothyrotomy ['relatedto'] incision ['synonym'] prick
+skin ['relatedto'] cut ['relatedto'] hurt ['mannerof'] prick
+skin ['relatedto'] cut ['entails'] pierce ['relatedto'] prick
+skin ['relatedto'] cut ['isa', 'relatedto'] incision ['synonym'] prick
+skin ['relatedto'] cut ['relatedto'] mark ['relatedto'] prick
+skin ['relatedto'] cut ['relatedto'] sharp ['relatedto'] prick
+skin ['relatedto'] cut ['relatedto'] point ['relatedto'] prick
+skin ['relatedto'] cut ['relatedto'] puncture ['isa', 'relatedto'] prick
+skin ['relatedto'] cut_oneself ['relatedto'] incision ['synonym'] prick
+skin ['relatedto'] cutting ['relatedto'] stick ['relatedto'] prick
+skin ['relatedto'] dermatosparaxis ['relatedto'] horse ['relatedto'] prick
+skin ['relatedto'] dimple ['relatedto'] indentation ['relatedto'] prick
+skin ['relatedto'] dimple ['mannerof'] mark ['relatedto'] prick
+skin ['relatedto'] dust_bunny ['relatedto'] particle ['relatedto'] prick
+skin ['relatedto'] exfoliate ['relatedto'] plant ['relatedto'] prick
+skin ['relatedto'] exfoliation ['relatedto'] plant ['relatedto'] prick
+skin ['relatedto'] exit_wound ['relatedto'] perforation ['relatedto'] prick
+skin ['relatedto'] fair ['relatedto', 'atlocation'] ride ['relatedto'] prick
+skin ['relatedto'] fair ['relatedto'] hole ['relatedto'] prick
+skin ['relatedto'] fell ['relatedto'] sharp ['relatedto'] prick

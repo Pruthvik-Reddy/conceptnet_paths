@@ -1,0 +1,100 @@
+car ['hasproperty'] new ['antonym'] ruin
+car ['relatedto', 'atlocation'] city ['relatedto'] ruin
+car ['relatedto'] break ['mannerof', 'relatedto'] ruin
+car ['relatedto'] wreck ['relatedto', 'synonym'] ruin
+car ['relatedto'] accident ['isa', 'relatedto'] break ['mannerof', 'relatedto'] ruin
+car ['relatedto'] accident ['isa'] shipwreck ['isa', 'mannerof', 'relatedto'] ruin
+car ['relatedto'] accident ['relatedto'] bad ['relatedto'] ruin
+car ['relatedto'] accident ['relatedto'] damage ['relatedto', 'similarto'] ruin
+car ['relatedto'] accident ['relatedto'] wreck ['relatedto', 'synonym'] ruin
+car ['relatedto'] accident ['relatedto'] fall ['relatedto'] ruin
+car ['relatedto'] accident ['synonym'] state ['relatedto'] ruin
+car ['relatedto'] accident ['synonym'] disaster ['relatedto'] ruin
+car ['relatedto'] smaller ['relatedto'] city ['relatedto'] ruin
+car ['relatedto'] smaller ['relatedto'] state ['relatedto'] ruin
+car ['relatedto'] smaller ['relatedto'] stone ['relatedto'] ruin
+car ['atlocation'] children ['antonym'] old ['relatedto'] ruin
+car ['hasproperty'] expensive ['relatedto'] ruinous ['relatedto'] ruin
+car ['atlocation'] land ['haslastsubevent'] fall ['relatedto'] ruin
+car ['atlocation'] land ['relatedto'] place ['relatedto'] ruin
+car ['atlocation'] land ['relatedto'] buildings ['relatedto'] ruin
+car ['atlocation'] land ['relatedto', 'synonym'] state ['relatedto'] ruin
+car ['atlocation'] land ['relatedto'] wilderness ['relatedto'] ruin
+car ['relatedto'] short ['relatedto'] break ['mannerof', 'relatedto'] ruin
+car ['relatedto'] short ['relatedto'] dash ['relatedto'] ruin
+car ['hasproperty'] red ['relatedto'] old ['relatedto'] ruin
+car ['hasproperty'] red ['relatedto'] fall ['relatedto'] ruin
+car ['hasproperty'] red ['relatedto'] preserve ['antonym'] ruin
+car ['hasproperty'] red ['synonym'] loss ['relatedto'] ruin
+car ['hasproperty'] new ['antonym', 'distinctfrom', 'relatedto'] old ['relatedto'] ruin
+car ['hasproperty'] new ['antonym', 'distinctfrom'] ancient ['relatedto'] ruin
+car ['hasproperty'] new ['relatedto'] city ['relatedto'] ruin
+car ['hasproperty'] new ['relatedto'] progress ['relatedto'] ruin
+car ['hasproperty'] new ['relatedto'] state ['relatedto'] ruin
+car ['causes'] pollution ['relatedto'] bad ['relatedto'] ruin
+car ['causes'] pollution ['relatedto'] ruining ['formof', 'relatedto'] ruin
+car ['relatedto'] around ['relatedto'] place ['relatedto'] ruin
+car ['relatedto'] bar ['relatedto', 'atlocation'] city ['relatedto'] ruin
+car ['relatedto'] bar ['isa', 'relatedto'] place ['relatedto'] ruin
+car ['relatedto'] bar ['relatedto'] building ['isa', 'relatedto'] ruin
+car ['relatedto'] bar ['relatedto'] castle ['relatedto'] ruin
+car ['relatedto'] bar ['relatedto'] stone ['relatedto'] ruin
+car ['relatedto'] bar ['relatedto'] break ['mannerof', 'relatedto'] ruin
+car ['relatedto'] bar ['relatedto'] rack ['relatedto'] ruin
+car ['relatedto'] cover ['mannerof', 'relatedto'] dust ['relatedto'] ruin
+car ['relatedto'] cover ['relatedto'] place ['relatedto'] ruin
+car ['relatedto'] stop ['antonym'] progress ['relatedto'] ruin
+car ['relatedto'] stop ['atlocation'] city ['relatedto'] ruin
+car ['relatedto'] stop ['relatedto', 'synonym'] break ['mannerof', 'relatedto'] ruin
+car ['relatedto'] stop ['relatedto'] place ['relatedto'] ruin
+car ['relatedto'] stop ['relatedto'] thwart ['mannerof'] ruin
+car ['relatedto'] big ['synonym'] bad ['relatedto'] ruin
+car ['relatedto'] big ['relatedto'] build ['antonym'] ruin
+car ['relatedto'] big ['relatedto'] castle ['relatedto'] ruin
+car ['relatedto'] big ['relatedto'] city ['relatedto'] ruin
+car ['relatedto'] big ['relatedto'] stone ['relatedto'] ruin
+car ['relatedto'] small ['antonym'] city ['relatedto'] ruin
+car ['relatedto'] small ['hasproperty'] buildings ['relatedto'] ruin
+car ['relatedto'] small ['relatedto'] crab ['relatedto'] ruin
+car ['relatedto'] small ['relatedto'] stone ['relatedto'] ruin
+car ['relatedto'] small ['relatedto'] total ['relatedto'] ruin
+car ['relatedto'] lot ['relatedto'] building ['isa', 'relatedto'] ruin
+car ['relatedto'] lot ['relatedto'] place ['relatedto'] ruin
+car ['relatedto'] lot ['relatedto'] site ['relatedto'] ruin
+car ['relatedto'] handle ['relatedto'] place ['relatedto'] ruin
+car ['relatedto'] handle ['relatedto'] pot ['relatedto'] ruin
+car ['hasproperty'] green ['isa'] site ['relatedto'] ruin
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] dish ['relatedto'] ruin
+car ['antonym', 'distinctfrom', 'relatedto'] boat ['relatedto'] shipwreck ['isa', 'mannerof', 'relatedto'] ruin
+car ['antonym', 'distinctfrom', 'relatedto', 'isa'] bus ['atlocation'] city ['relatedto'] ruin
+car ['antonym', 'distinctfrom', 'relatedto', 'isa'] bus ['relatedto'] remains ['relatedto'] ruin
+car ['antonym', 'distinctfrom', 'relatedto'] truck ['relatedto'] construction ['antonym'] ruin
+car ['antonym'] dog ['relatedto'] old ['relatedto'] ruin
+car ['antonym'] dog ['distinctfrom', 'relatedto', 'similarto'] bitch ['relatedto'] ruin
+car ['antonym'] dog ['relatedto'] dust ['relatedto'] ruin
+car ['antonym'] dog ['relatedto'] flew ['relatedto'] ruin
+car ['atlocation'] air_conditioner ['atlocation'] building ['isa', 'relatedto'] ruin
+car ['relatedto', 'partof', 'atlocation'] brake ['formof'] break ['mannerof', 'relatedto'] ruin
+car ['relatedto', 'partof', 'atlocation'] brake ['relatedto'] crush ['relatedto'] ruin
+car ['atlocation'] car_park ['atlocation'] city ['relatedto'] ruin
+car ['atlocation'] car_park ['relatedto'] building ['isa', 'relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['relatedto'] new ['antonym'] ruin
+car ['relatedto', 'atlocation'] city ['atlocation'] disarray ['relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['antonym', 'relatedto', 'atlocation'] state ['relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['antonym'] wilderness ['relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['relatedto', 'atlocation'] buildings ['relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['isa', 'relatedto', 'atlocation'] place ['relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['relatedto'] building ['isa', 'relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['relatedto'] dwelling ['relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['relatedto', 'synonym'] rome ['relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['relatedto'] structure ['relatedto'] ruin
+car ['relatedto', 'atlocation'] city ['relatedto'] tourist ['relatedto'] ruin
+car ['usedfor', 'atlocation'] driveway ['atlocation'] city ['relatedto'] ruin
+car ['usedfor', 'atlocation'] driveway ['atlocation'] stone ['relatedto'] ruin
+car ['atlocation'] freeway ['atlocation'] city ['relatedto'] ruin
+car ['atlocation'] freeway ['atlocation'] dust ['relatedto'] ruin
+car ['relatedto', 'atlocation'] highway ['atlocation'] city ['relatedto'] ruin
+car ['relatedto', 'atlocation'] highway ['atlocation'] state ['relatedto'] ruin
+car ['atlocation'] motel ['isa'] place ['relatedto'] ruin
+car ['relatedto', 'atlocation'] parking_lot ['atlocation'] city ['relatedto'] ruin
+car ['atlocation'] repair_shop ['atlocation'] broken ['relatedto'] ruin
