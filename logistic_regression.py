@@ -42,7 +42,11 @@ print(model.coef_)
 # is more influential
 #print(np.std(X, 0)*model.coef_)
 
-print()
-print("Model Inspection :")
-model_fi = permutation_importance(model, X, y)
-print(model_fi['importances_mean'])
+feature_names = X_train.columns
+coefficients = model.coef_
+# Create a DataFrame to display the feature importance
+feature_importance = pd.DataFrame({'Feature': feature_names, 'Coefficient': coefficients[0]})
+
+# Sort the DataFrame by the absolute value of coefficients in descending order
+feature_importance = feature_importance.reindex(feature_importance['Coefficient'].abs().sort_values(ascending=False).index)
+feature_importance.to_excel("Feature_Importance.xlsx",index=False)
