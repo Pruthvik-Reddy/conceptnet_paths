@@ -11,6 +11,9 @@ columns = [
     'InstanceOf', 'IsA', 'MadeOf', 'MannerOf', 'MotivatedByGoal', 'ObstructedBy', 'PartOf',
     'ReceivesAction', 'SenseOf', 'SymbolOf', 'UsedFor'
 ]
+lowercase_list = [item.lower() for item in columns]
+columns=lowercase_list
+
 
 data=pd.read_excel("features.xlsx")
 data2=pd.read_excel("features.xlsx")
