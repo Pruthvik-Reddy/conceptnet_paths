@@ -40,7 +40,7 @@ print(model.coef_)
 
 # Those values, however, will show that the second parameter
 # is more influential
-print(np.std(X, 0)*model.coef_)
+#print(np.std(X, 0)*model.coef_)
 
 print()
 print("Model Inspection :")
