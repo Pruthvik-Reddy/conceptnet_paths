@@ -15,8 +15,8 @@ lowercase_list = [item.lower() for item in columns]
 columns=lowercase_list
 
 
-data=pd.read_excel("features.xlsx")
-data2=pd.read_excel("features.xlsx")
+data=pd.read_excel("features_2.xlsx")
+data2=pd.read_excel("features_2.xlsx")
 for col in columns:
     data[col]=data[col].str.replace('[', '').str.replace(']', '').astype(int)
     data2[col]=data2[col].str.replace('[', '').str.replace(']', '').astype(int)

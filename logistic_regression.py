@@ -3,10 +3,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
-column_df=pd.read_excel("all_unique_paths.xlsx")
+column_df=pd.read_excel("all_unique_paths_2.xlsx")
 column_list = column_df[0].tolist()
 
-data=pd.read_excel("Relation_Features.xlsx")
+data=pd.read_excel("Relation_Features_2.xlsx")
 
 X = data[column_list]
 y = data['metaphor']

@@ -7,10 +7,10 @@ from sklearn.metrics import accuracy_score,classification_report,precision_recal
 import wandb
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-column_df=pd.read_excel("all_unique_paths.xlsx")
+column_df=pd.read_excel("all_unique_paths_2.xlsx")
 column_list = column_df[0].tolist()
 
-data=pd.read_excel("Relation_Features.xlsx")
+data=pd.read_excel("Relation_Features_2.xlsx")
 
 X = data[column_list].values
 y = data['metaphor'].values
