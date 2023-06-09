@@ -1,11 +1,11 @@
 import pandas as pd
 import csv
 import os
+import itertools
 
 df=pd.read_excel("all_unique_paths.xlsx")
 column_list = df[0].tolist()
 column_list.extend(["metaphor","verb1","verb2"])
-import itertools
 
 def generate_combinations(arr):
     combinations = list(itertools.product(*arr))
