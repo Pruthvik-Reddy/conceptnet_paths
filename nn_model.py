@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.optim as optim
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
-
+import wandb
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 column_df=pd.read_excel("all_unique_paths.xlsx")
@@ -26,9 +26,9 @@ y_test = torch.tensor(y_test, dtype=torch.float32).to(device)
 
 # Define the neural network model
 class NeuralNetwork(nn.Module):
-    def __init__(self):
+    def __init__(self,input_dim):
         super(NeuralNetwork, self).__init__()
-        self.fc1 = nn.Linear(4, 64)
+        self.fc1 = nn.Linear(input_dim, 64)
         self.fc2 = nn.Linear(64, 64)
         self.fc3 = nn.Linear(64, 1)
         self.sigmoid = nn.Sigmoid()
@@ -41,12 +41,13 @@ class NeuralNetwork(nn.Module):
         return x
 
 # Create an instance of the neural network model and move it to the device
-model = NeuralNetwork().to(device)
+model = NeuralNetwork(X_train.shape[1]).to(device)
 
 # Define the loss function and optimizer
 criterion = nn.BCELoss()
 optimizer = optim.SGD(model.parameters(), lr=0.01)
-
+wandb.init(project='your_project_name', entity='your_entity_name')
+wandb.watch(model)
 # Train the neural network
 epochs = 1000
 for epoch in range(epochs):
@@ -62,6 +63,7 @@ for epoch in range(epochs):
 
     if (epoch+1) % 100 == 0:
         print(f"Epoch: {epoch+1}, Loss: {loss.item()}")
+    wandb.log({'epoch': epoch+1, 'loss': loss.item()})
 
 # Evaluate the model on the testing data
 with torch.no_grad():
@@ -72,3 +74,4 @@ with torch.no_grad():
     accuracy = accuracy_score(y_test_cpu, predicted)
 
 print('Accuracy:', accuracy)
+wandb.finish()
