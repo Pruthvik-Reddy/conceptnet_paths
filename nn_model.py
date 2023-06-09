@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score,classification_report
+from sklearn.metrics import accuracy_score,classification_report,precision_recall_fscore_support
 import wandb
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -49,7 +49,7 @@ optimizer = optim.SGD(model.parameters(), lr=0.01)
 wandb.init(project='your_project_name', entity='your_entity_name')
 wandb.watch(model)
 # Train the neural network
-epochs = 100
+epochs = 500
 for epoch in range(epochs):
     optimizer.zero_grad()
 
@@ -73,8 +73,13 @@ with torch.no_grad():
     y_test_cpu = y_test.cpu().numpy()
     accuracy = accuracy_score(y_test_cpu, predicted)
     report = classification_report(y_test_cpu, predicted)
+    precision, recall, f1, support = precision_recall_fscore_support(y_test_cpu, predicted)
+
 
 
 print('Accuracy:', accuracy)
 print("Report : ",report)
+print("Precison : ",precision)
+print("Recall : ",recall)
+print("F1 : ",f1)
 wandb.finish()
