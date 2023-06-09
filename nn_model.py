@@ -72,7 +72,7 @@ with torch.no_grad():
     predicted = torch.round(outputs).squeeze().cpu().numpy()
     y_test_cpu = y_test.cpu().numpy()
     accuracy = accuracy_score(y_test_cpu, predicted)
-    report = classification_report(y_test, predicted)
+    report = classification_report(y_test_cpu, predicted)
 
 
 print('Accuracy:', accuracy)
