@@ -21,6 +21,8 @@ for col in columns:
     data[col]=data[col].str.replace('[', '').str.replace(']', '').astype(int)
     data2[col]=data2[col].str.replace('[', '').str.replace(']', '').astype(int)
 
+data["metaphor"]=data["metaphor"].str.replace('[', '').str.replace(']', '').astype(int)
+data2["metaphor"]=data2["metaphor"].str.replace('[', '').str.replace(']', '').astype(int)
 for index, row in data2[columns].iterrows():
     for col in columns:
         if row[col] > 0:
