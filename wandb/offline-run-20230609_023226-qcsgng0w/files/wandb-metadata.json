@@ -1,0 +1,529 @@
+{
+    "os": "Linux-5.15.0-73-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-06-09T02:32:26.072628",
+    "startedAt": "2023-06-09T02:32:26.007447",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/pelemati/conceptnet_paths/nn_model.py",
+    "codePath": "nn_model.py",
+    "git": {
+        "remote": "https://github.com/Pruthvik-Reddy/conceptnet_paths.git",
+        "commit": "d8c3a0e34d256664b8d4facec256c15717617bf8"
+    },
+    "email": "pruthvikreddy.21@gmail.com",
+    "root": "/home/pelemati/conceptnet_paths",
+    "host": "sarang",
+    "username": "pelemati",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 48,
+    "cpu_count_logical": 96,
+    "cpu_freq": {
+        "current": 2313.3101458333285,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3154.03,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3142.796,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2295.542,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 435.97483825683594,
+        "used": 27.566734313964844
+    },
+    "gpu": "NVIDIA A100-PCIE-40GB",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        },
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        }
+    ],
+    "memory": {
+        "total": 62.479331970214844
+    }
+}
