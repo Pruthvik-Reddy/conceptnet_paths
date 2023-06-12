@@ -31,7 +31,7 @@ df_combined.to_excel("feature_vectors.xlsx", index=False)
 df_relations=pd.read_excel("Relation_Features_2.xlsx")
 df_merged = pd.merge(df_relations, df_combined, on=['verb1', 'verb2', 'metaphor'])
 
-train_columns=column_list+feature_names
+train_columns=column_list+feature_names.tolist()
 X = data[train_columns]
 y = data['metaphor']
 
