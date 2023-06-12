@@ -15,3 +15,8 @@ F1 Score: 0.5535714285714285
 
 Model 5 : 
 Bag of Words with Relation Features
+Performance on combining Relation_features with bag of words
+Accuracy: 0.6825396825396826
+Precision: 0.6065573770491803
+Recall: 0.6981132075471698
+F1 Score: 0.6491228070175438
