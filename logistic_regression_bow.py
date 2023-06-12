@@ -32,8 +32,8 @@ df_relations=pd.read_excel("Relation_Features_2.xlsx")
 df_merged = pd.merge(df_relations, df_combined, on=['verb1', 'verb2', 'metaphor'])
 
 train_columns=column_list+feature_names.tolist()
-X = data[train_columns]
-y = data['metaphor']
+X = df_merged[train_columns]
+y = df_merged['metaphor']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
