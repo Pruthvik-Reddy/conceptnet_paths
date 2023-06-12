@@ -25,7 +25,7 @@ df_combined = pd.concat([df_original, df_features], axis=1)
 df_combined.to_excel("feature_vectors.xlsx", index=False)
 
 df_relations=pd.read_excel("Relation_Features_2.xlsx")
-df_merged = pd.merge(df_relations, df_combined, on=['A', 'B', 'C'])
+df_merged = pd.merge(df_relations, df_combined, on=['verb', 'arg1', 'metaphor'])
 
 train_columns=column_list+feature_names
 X = data[train_columns]
@@ -43,7 +43,7 @@ accuracy = accuracy_score(y_test, y_pred)
 precision = precision_score(y_test, y_pred)
 recall = recall_score(y_test, y_pred)
 f1 = f1_score(y_test, y_pred)
-
+print("Performance on combining Relation_features with bag of words")
 print('Accuracy:', accuracy)
 print('Precision:', precision)
 print('Recall:', recall)
