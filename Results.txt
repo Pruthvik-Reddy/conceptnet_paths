@@ -1,0 +1,17 @@
+Logistic Regression 
+
+Model 1 : 
+
+Model 2 : 
+
+Model 3 : 
+
+Model 4 : 
+Only Bag of Words : 
+Accuracy: 0.6153846153846154
+Precision: 0.5740740740740741
+Recall: 0.5344827586206896
+F1 Score: 0.5535714285714285
+
+Model 5 : 
+Bag of Words with Relation Features
